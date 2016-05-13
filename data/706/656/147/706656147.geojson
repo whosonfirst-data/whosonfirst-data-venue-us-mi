@@ -1,0 +1,73 @@
+{
+  "id": 706656147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224501,43.210117,-86.224501,43.210117",
+    "geom:latitude":43.210117,
+    "geom:longitude":-86.224501,
+    "iso:country":"US",
+    "sg:address":"2386 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 2856",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51uAfHxYJdhc27hD8jIeOf_43.210117_-86.224501@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808249,
+    "wof:geomhash":"0fb8987e3838bd5dc82b448bb97ab739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706656147
+        }
+    ],
+    "wof:id":706656147,
+    "wof:lastmodified":1461808249,
+    "wof:name":"New Look Concepts",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "detailing"
+    ]
+},
+  "bbox": [
+    -86.224501,
+    43.210117,
+    -86.224501,
+    43.210117
+],
+  "geometry": {"coordinates":[-86.224501,43.210117],"type":"Point"}
+}

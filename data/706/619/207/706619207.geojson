@@ -1,0 +1,71 @@
+{
+  "id": 706619207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.734803,43.011114,-83.734803,43.011114",
+    "geom:latitude":43.011114,
+    "geom:longitude":-83.734803,
+    "iso:country":"US",
+    "sg:address":"750 S Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 235 9311",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ruxsZk5k2mJgEoRfQI8hF_43.011114_-83.734803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807134,
+    "wof:geomhash":"84b5afd0fa355dbb9c6a5fca4d0f18bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706619207
+        }
+    ],
+    "wof:id":706619207,
+    "wof:lastmodified":1461807134,
+    "wof:name":"M R I Diagnostics Center Mich",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.734803,
+    43.011114,
+    -83.734803,
+    43.011114
+],
+  "geometry": {"coordinates":[-83.734803,43.011114],"type":"Point"}
+}

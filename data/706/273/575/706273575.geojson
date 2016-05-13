@@ -1,0 +1,73 @@
+{
+  "id": 706273575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.379288,41.91679,-83.379288,41.91679",
+    "geom:latitude":41.91679,
+    "geom:longitude":-83.379288,
+    "iso:country":"US",
+    "sg:address":"1107 E Noble St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 1017",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fzYmhPc7ItDyfXuPQeanP_41.916790_-83.379288@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799697,
+    "wof:geomhash":"e38dc5370abe0a89a09d899a7a38821b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706273575
+        }
+    ],
+    "wof:id":706273575,
+    "wof:lastmodified":1461799697,
+    "wof:name":"API Construction",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.379288,
+    41.91679,
+    -83.379288,
+    41.91679
+],
+  "geometry": {"coordinates":[-83.379288,41.91679],"type":"Point"}
+}

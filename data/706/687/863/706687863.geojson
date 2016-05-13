@@ -1,0 +1,83 @@
+{
+  "id": 706687863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.150609,42.591462,-83.150609,42.591462",
+    "geom:latitude":42.591462,
+    "geom:longitude":-83.150609,
+    "iso:country":"US",
+    "sg:address":"75 W Long Lake Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/troy/48416-breakaway-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 528 8130",
+    "sg:postcode":"48098",
+    "sg:province":"MI",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u5ZiaZZOjlOJzzRNH5TRh_42.591644_-83.149653@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809593,
+    "wof:geomhash":"6b2ec93c1a81c1c25da91e955813e3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706687863
+        }
+    ],
+    "wof:id":706687863,
+    "wof:lastmodified":1461809593,
+    "wof:name":"Breakaway Deli",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.150609,
+    42.591462,
+    -83.150609,
+    42.591462
+],
+  "geometry": {"coordinates":[-83.150609,42.591462],"type":"Point"}
+}

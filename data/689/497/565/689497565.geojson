@@ -1,0 +1,75 @@
+{
+  "id": 689497565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542768,42.588733,-84.542768,42.588733",
+    "geom:latitude":42.588733,
+    "geom:longitude":-84.542768,
+    "iso:country":"US",
+    "sg:address":"273 N Eifert Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 2285",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VyLlpxMlktaRDyidvI07h_42.588733_-84.542768@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773027,
+    "wof:geomhash":"844233e1c8c4df24f98b6a1fe83db817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689497565
+        }
+    ],
+    "wof:id":689497565,
+    "wof:lastmodified":1461773027,
+    "wof:name":"Peters Trucking Inc",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.542768,
+    42.588733,
+    -84.542768,
+    42.588733
+],
+  "geometry": {"coordinates":[-84.542768,42.588733],"type":"Point"}
+}

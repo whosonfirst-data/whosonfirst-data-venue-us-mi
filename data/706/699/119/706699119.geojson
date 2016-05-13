@@ -1,0 +1,72 @@
+{
+  "id": 706699119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.903801,42.6092,-82.903801,42.6092",
+    "geom:latitude":42.6092,
+    "geom:longitude":-82.903801,
+    "iso:country":"US",
+    "sg:address":"13 N Groesbeck Hwy",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 465 5090",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.payless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1znQ53kvsTJ54wdrpT405D_42.609200_-82.903801@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810032,
+    "wof:geomhash":"1ec9aff748c5dd93e71039db9e9a3213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706699119
+        }
+    ],
+    "wof:id":706699119,
+    "wof:lastmodified":1461810032,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -82.903801,
+    42.6092,
+    -82.903801,
+    42.6092
+],
+  "geometry": {"coordinates":[-82.903801,42.6092],"type":"Point"}
+}

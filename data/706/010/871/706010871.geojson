@@ -1,0 +1,77 @@
+{
+  "id": 706010871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.923645,42.44679,-84.923645,42.44679",
+    "geom:latitude":42.44679,
+    "geom:longitude":-84.923645,
+    "iso:country":"US",
+    "sg:address":"216 N Main St",
+    "sg:city":"Olivet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 749 9500",
+    "sg:postcode":"49076",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHwO8qK0Vw2zyeWRps3jz_42.446790_-84.923645@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793811,
+    "wof:geomhash":"41c5f627e3623a594e4ffa3a7e0abb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706010871
+        }
+    ],
+    "wof:id":706010871,
+    "wof:lastmodified":1461793811,
+    "wof:name":"Olivet Auto Clinic",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.923645,
+    42.44679,
+    -84.923645,
+    42.44679
+],
+  "geometry": {"coordinates":[-84.92364499999999,42.44679],"type":"Point"}
+}

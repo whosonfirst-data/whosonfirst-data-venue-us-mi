@@ -1,0 +1,74 @@
+{
+  "id": 706688653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.548076,42.683919,-84.548076,42.683919",
+    "geom:latitude":42.683919,
+    "geom:longitude":-84.548076,
+    "iso:country":"US",
+    "sg:address":"5025 S Cedar St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/lansing/142278-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 7370",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n33L2nPXa8l6ZMHL3EDmT_42.683934_-84.547997@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809621,
+    "wof:geomhash":"ba6a27b1456c5da4297ebbfd0394c4ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706688653
+        }
+    ],
+    "wof:id":706688653,
+    "wof:lastmodified":1461809621,
+    "wof:name":"Subway",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.548076,
+    42.683919,
+    -84.548076,
+    42.683919
+],
+  "geometry": {"coordinates":[-84.54807599999999,42.683919],"type":"Point"}
+}

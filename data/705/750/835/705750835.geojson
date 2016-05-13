@@ -1,0 +1,71 @@
+{
+  "id": 705750835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.30045,42.370646,-83.30045,42.370646",
+    "geom:latitude":42.370646,
+    "geom:longitude":-83.30045,
+    "iso:country":"US",
+    "sg:address":"26208 Plymouth Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 937 3290",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896775,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ksg6rr5A8Gjc3PiTXu05i_42.370646_-83.300450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787863,
+    "wof:geomhash":"d8143962370231109c1596793cbbe6dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896775,
+            "region_id":85688599,
+            "venue_id":705750835
+        }
+    ],
+    "wof:id":705750835,
+    "wof:lastmodified":1461787863,
+    "wof:name":"Tims Radiator Service Inc",
+    "wof:parent_id":85896775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.30045,
+    42.370646,
+    -83.30045,
+    42.370646
+],
+  "geometry": {"coordinates":[-83.30045,42.370646],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 722487967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.251018,42.418646,-83.251018,42.418646",
+    "geom:latitude":42.418646,
+    "geom:longitude":-83.251018,
+    "iso:country":"US",
+    "sg:address":"17377 Westbrook St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 9771",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "methodist",
+        "churches-free",
+        "churches-methodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzQtqPtixHDIgZP3upOeS_42.418646_-83.251018@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812599,
+    "wof:geomhash":"0056014acf1779becdd1a5f903f5b466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":722487967
+        }
+    ],
+    "wof:id":722487967,
+    "wof:lastmodified":1461812599,
+    "wof:name":"Detroit Free Methodist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "methodist",
+        "churches-free",
+        "churches-methodist"
+    ]
+},
+  "bbox": [
+    -83.251018,
+    42.418646,
+    -83.251018,
+    42.418646
+],
+  "geometry": {"coordinates":[-83.251018,42.418646],"type":"Point"}
+}

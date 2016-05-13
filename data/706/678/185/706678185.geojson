@@ -1,0 +1,78 @@
+{
+  "id": 706678185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.248194,42.199629,-83.248194,42.199629",
+    "geom:latitude":42.199629,
+    "geom:longitude":-83.248194,
+    "iso:country":"US",
+    "sg:address":"14800 Racho Blvd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/taylor/40543-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 287 3147",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J2ASaAADAPMC4okmYmLFY_42.199629_-83.248194@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809215,
+    "wof:geomhash":"1c23753f6e176fbf4a357736a80a5906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706678185
+        }
+    ],
+    "wof:id":706678185,
+    "wof:lastmodified":1461809215,
+    "wof:name":"Culver's",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.248194,
+    42.199629,
+    -83.248194,
+    42.199629
+],
+  "geometry": {"coordinates":[-83.248194,42.199629],"type":"Point"}
+}

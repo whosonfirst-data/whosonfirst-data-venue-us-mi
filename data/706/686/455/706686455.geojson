@@ -1,0 +1,74 @@
+{
+  "id": 706686455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583416,42.912505,-85.583416,42.912505",
+    "geom:latitude":42.912505,
+    "geom:longitude":-85.583416,
+    "iso:country":"US",
+    "sg:address":"3400 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/59530-old-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 940 1111",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mUCezIW2ygUWwb0Cylj88_42.912505_-85.583416@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809536,
+    "wof:geomhash":"ec95b616d88b77f3d31b04e56b4b763d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686455
+        }
+    ],
+    "wof:id":706686455,
+    "wof:lastmodified":1461809536,
+    "wof:name":"Old Chicago",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.583416,
+    42.912505,
+    -85.583416,
+    42.912505
+],
+  "geometry": {"coordinates":[-85.583416,42.912505],"type":"Point"}
+}

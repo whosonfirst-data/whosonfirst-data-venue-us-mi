@@ -1,0 +1,75 @@
+{
+  "id": 705937845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646714,42.904696,-85.646714,42.904696",
+    "geom:latitude":42.904696,
+    "geom:longitude":-85.646714,
+    "iso:country":"US",
+    "sg:address":"3271 Eastern Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 245 9460",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877857,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79rEAHDWBqlRhweqcQNagc_42.904696_-85.646714@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792241,
+    "wof:geomhash":"7a4fa3365d59d36dd18c4265a3ff7cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877857,
+            "region_id":85688599,
+            "venue_id":705937845
+        }
+    ],
+    "wof:id":705937845,
+    "wof:lastmodified":1461792241,
+    "wof:name":"Eastern Avenue Car Wash",
+    "wof:parent_id":85877857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.646714,
+    42.904696,
+    -85.646714,
+    42.904696
+],
+  "geometry": {"coordinates":[-85.646714,42.904696],"type":"Point"}
+}

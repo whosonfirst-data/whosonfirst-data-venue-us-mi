@@ -1,0 +1,71 @@
+{
+  "id": 706304513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.558747,42.962993,-82.558747,42.962993",
+    "geom:latitude":42.962993,
+    "geom:longitude":-82.558747,
+    "iso:country":"US",
+    "sg:address":"2017 Edward Ln W",
+    "sg:city":"Smiths Creek",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 4112",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n1aB4JB9TLhh1xRHh44lR_42.962993_-82.558747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800400,
+    "wof:geomhash":"6ba5c91f99014b9a5b6e37b5318984e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706304513
+        }
+    ],
+    "wof:id":706304513,
+    "wof:lastmodified":1461800400,
+    "wof:name":"Metro Airport Shuttle",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -82.558747,
+    42.962993,
+    -82.558747,
+    42.962993
+],
+  "geometry": {"coordinates":[-82.558747,42.962993],"type":"Point"}
+}

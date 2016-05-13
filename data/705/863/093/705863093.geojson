@@ -1,0 +1,71 @@
+{
+  "id": 705863093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.501627,42.052852,-86.501627,42.052852",
+    "geom:latitude":42.052852,
+    "geom:longitude":-86.501627,
+    "iso:country":"US",
+    "sg:address":"1970 Nash Dr",
+    "sg:city":"Saint Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 428 2823",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FuSvlweC1WaMbh05znZkn_42.052852_-86.501627@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790493,
+    "wof:geomhash":"24eb8f0fa50260d996ecb026861a4e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":705863093
+        }
+    ],
+    "wof:id":705863093,
+    "wof:lastmodified":1461790493,
+    "wof:name":"Orchard View Apartments",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.501627,
+    42.052852,
+    -86.501627,
+    42.052852
+],
+  "geometry": {"coordinates":[-86.501627,42.052852],"type":"Point"}
+}

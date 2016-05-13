@@ -1,0 +1,82 @@
+{
+  "id": 706011665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.838982,42.755537,-84.838982,42.755537",
+    "geom:latitude":42.755537,
+    "geom:longitude":-84.838982,
+    "iso:country":"US",
+    "sg:address":"105 W Grand Ledge Hwy",
+    "sg:city":"Mulliken",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 649 8381",
+    "sg:postcode":"48861",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n9sFW59jioANxgsXltCjp_42.755537_-84.838982@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793826,
+    "wof:geomhash":"1330f0a8d4b6724adc29a4b7f36f13aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706011665
+        }
+    ],
+    "wof:id":706011665,
+    "wof:lastmodified":1461793826,
+    "wof:name":"Boyer's Service Station",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "road"
+    ]
+},
+  "bbox": [
+    -84.838982,
+    42.755537,
+    -84.838982,
+    42.755537
+],
+  "geometry": {"coordinates":[-84.838982,42.755537],"type":"Point"}
+}

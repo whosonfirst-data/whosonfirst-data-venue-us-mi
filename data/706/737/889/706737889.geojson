@@ -1,0 +1,69 @@
+{
+  "id": 706737889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.479103,42.358002,-83.479103,42.358002",
+    "geom:latitude":42.358002,
+    "geom:longitude":-83.479103,
+    "iso:country":"US",
+    "sg:address":"9460 N Sheldon Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 454 5580",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11GNu2gDDZJDg4ZhZkc85q_42.358002_-83.479103@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811731,
+    "wof:geomhash":"a294b5b4dc31184d66bc6796e9f57ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737889
+        }
+    ],
+    "wof:id":706737889,
+    "wof:lastmodified":1461811731,
+    "wof:name":"Sheldon Veterinary Hospital",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.479103,
+    42.358002,
+    -83.479103,
+    42.358002
+],
+  "geometry": {"coordinates":[-83.47910299999999,42.358002],"type":"Point"}
+}

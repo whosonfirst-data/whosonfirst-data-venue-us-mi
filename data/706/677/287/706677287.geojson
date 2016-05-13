@@ -1,0 +1,78 @@
+{
+  "id": 706677287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.485953,42.233613,-83.485953,42.233613",
+    "geom:latitude":42.233613,
+    "geom:longitude":-83.485953,
+    "iso:country":"US",
+    "sg:address":"9729 Belleville Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/van-buren/42978-ocharleys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 6201",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l0xhFtBX34aAItbbFE9pb_42.233613_-83.485953@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809178,
+    "wof:geomhash":"442107cdc8bd05b48139d879e2ef1255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706677287
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677287
+        }
+    ],
+    "wof:id":706677287,
+    "wof:lastmodified":1461809178,
+    "wof:name":"O'Charley's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.485953,
+    42.233613,
+    -83.485953,
+    42.233613
+],
+  "geometry": {"coordinates":[-83.48595299999999,42.233613],"type":"Point"}
+}

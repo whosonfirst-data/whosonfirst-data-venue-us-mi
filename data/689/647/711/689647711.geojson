@@ -1,0 +1,71 @@
+{
+  "id": 689647711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.521332,42.014498,-86.521332,42.014498",
+    "geom:latitude":42.014498,
+    "geom:longitude":-86.521332,
+    "iso:country":"US",
+    "sg:address":"2757 W John Beers Rd",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 3551",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZeQ8GQvOxOpm0cEO4Trr6_42.014498_-86.521332@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777807,
+    "wof:geomhash":"c13b34e1267a35ed8a7055ecc8c651f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":689647711
+        }
+    ],
+    "wof:id":689647711,
+    "wof:lastmodified":1461777807,
+    "wof:name":"P & R Svc Of Stevensville",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.521332,
+    42.014498,
+    -86.521332,
+    42.014498
+],
+  "geometry": {"coordinates":[-86.521332,42.014498],"type":"Point"}
+}

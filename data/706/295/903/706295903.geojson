@@ -1,0 +1,71 @@
+{
+  "id": 706295903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.791133,44.22236,-85.791133,44.22236",
+    "geom:latitude":44.22236,
+    "geom:longitude":-85.791133,
+    "iso:country":"US",
+    "sg:address":"10510 W M 55",
+    "sg:city":"Wellston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 862 3600",
+    "sg:postcode":"49689",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HxlKKJpomt0ONhYmvLl1N_44.222360_-85.791133@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800214,
+    "wof:geomhash":"5ed6c687e7d0a46d8eb898f6618fcef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706295903
+        }
+    ],
+    "wof:id":706295903,
+    "wof:lastmodified":1461800214,
+    "wof:name":"South Branch Volunteer Fire",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.791133,
+    44.22236,
+    -85.791133,
+    44.22236
+],
+  "geometry": {"coordinates":[-85.791133,44.22236],"type":"Point"}
+}

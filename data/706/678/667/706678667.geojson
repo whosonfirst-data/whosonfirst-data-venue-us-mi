@@ -1,0 +1,77 @@
+{
+  "id": 706678667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.098189,42.407225,-83.098189,42.407225",
+    "geom:latitude":42.407225,
+    "geom:longitude":-83.098189,
+    "iso:country":"US",
+    "sg:address":"14124 Woodward Ave",
+    "sg:city":"Highland Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/highland-park/185770-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870525,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNvCxXGqBkA5i54IGFzxT_42.407225_-83.098189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809233,
+    "wof:geomhash":"955f4542626c545041441e332666845e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870525,
+            "region_id":85688599,
+            "venue_id":706678667
+        }
+    ],
+    "wof:id":706678667,
+    "wof:lastmodified":1461809233,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85870525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.098189,
+    42.407225,
+    -83.098189,
+    42.407225
+],
+  "geometry": {"coordinates":[-83.098189,42.407225],"type":"Point"}
+}

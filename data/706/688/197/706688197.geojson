@@ -1,0 +1,87 @@
+{
+  "id": 706688197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.312013,42.627966,-83.312013,42.627966",
+    "geom:latitude":42.627966,
+    "geom:longitude":-83.312013,
+    "iso:country":"US",
+    "sg:address":"615 Orchard Lake Rd",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pontiac/168153-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 4405",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896751,
+        102191575,
+        404508295,
+        85633793,
+        85952003,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nupZLQKTMtJcNwJLyNC8K_42.627721_-83.312510@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809605,
+    "wof:geomhash":"1784013ff278f0384347dff7bad736a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508295,
+            "locality_id":85952003,
+            "neighbourhood_id":85896751,
+            "region_id":85688599,
+            "venue_id":706688197
+        }
+    ],
+    "wof:id":706688197,
+    "wof:lastmodified":1461809605,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85896751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.312013,
+    42.627966,
+    -83.312013,
+    42.627966
+],
+  "geometry": {"coordinates":[-83.31201299999999,42.627966],"type":"Point"}
+}

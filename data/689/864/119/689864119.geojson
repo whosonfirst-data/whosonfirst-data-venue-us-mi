@@ -1,0 +1,71 @@
+{
+  "id": 689864119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.440405,42.254764,-84.440405,42.254764",
+    "geom:latitude":42.254764,
+    "geom:longitude":-84.440405,
+    "iso:country":"US",
+    "sg:address":"2108 Wildwood Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 2001",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QjXAbBrrHqm0PB42Dqir1_42.254764_-84.440405@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783615,
+    "wof:geomhash":"acc938e797bb45436606328b98fd5baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689864119
+        }
+    ],
+    "wof:id":689864119,
+    "wof:lastmodified":1461783615,
+    "wof:name":"Dance Workshop",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.440405,
+    42.254764,
+    -84.440405,
+    42.254764
+],
+  "geometry": {"coordinates":[-84.440405,42.254764],"type":"Point"}
+}

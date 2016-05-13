@@ -1,0 +1,73 @@
+{
+  "id": 706637821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.596143,42.877894,-85.596143,42.877894",
+    "geom:latitude":42.877894,
+    "geom:longitude":-85.596143,
+    "iso:country":"US",
+    "sg:address":"4742 Walma Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 6580",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U913Ut9f83O47NrLeYXRH_42.877894_-85.596143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807529,
+    "wof:geomhash":"51bbde412684583f3b1b07c3b1e25738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706637821
+        }
+    ],
+    "wof:id":706637821,
+    "wof:lastmodified":1461807529,
+    "wof:name":"Kentwood Police Department",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.596143,
+    42.877894,
+    -85.596143,
+    42.877894
+],
+  "geometry": {"coordinates":[-85.596143,42.877894],"type":"Point"}
+}

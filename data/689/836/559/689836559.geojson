@@ -1,0 +1,71 @@
+{
+  "id": 689836559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622166,43.376133,-85.622166,43.376133",
+    "geom:latitude":43.376133,
+    "geom:longitude":-85.622166,
+    "iso:country":"US",
+    "sg:address":"9884 Cypress Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 937 5819",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C0ti8G4DwFwoS9H2fFUCa_43.376133_-85.622166@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783030,
+    "wof:geomhash":"7069cbf8af065d7966387b2fddff9549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689836559
+        }
+    ],
+    "wof:id":689836559,
+    "wof:lastmodified":1461783030,
+    "wof:name":"Mc Kay's Repair",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.622166,
+    43.376133,
+    -85.622166,
+    43.376133
+],
+  "geometry": {"coordinates":[-85.62216600000001,43.376133],"type":"Point"}
+}

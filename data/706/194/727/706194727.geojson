@@ -1,0 +1,73 @@
+{
+  "id": 706194727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.568709,41.77839,-83.568709,41.77839",
+    "geom:latitude":41.77839,
+    "geom:longitude":-83.568709,
+    "iso:country":"US",
+    "sg:address":"8948 Lewis Ave",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0538",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yppZCGq5fQsIHhVtT9X1M_41.778390_-83.568709@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797959,
+    "wof:geomhash":"338cea667ba129b9e7896dfdc8472952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":706194727
+        }
+    ],
+    "wof:id":706194727,
+    "wof:lastmodified":1461797959,
+    "wof:name":"John A Crayne MD",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.568709,
+    41.77839,
+    -83.568709,
+    41.77839
+],
+  "geometry": {"coordinates":[-83.568709,41.77839],"type":"Point"}
+}

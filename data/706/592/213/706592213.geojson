@@ -1,0 +1,71 @@
+{
+  "id": 706592213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.107169,43.217713,-86.107169,43.217713",
+    "geom:latitude":43.217713,
+    "geom:longitude":-86.107169,
+    "iso:country":"US",
+    "sg:address":"1673 S Wolf Lake Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 1195",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SS8u7fC21CT6TccyabZQx_43.217713_-86.107169@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806561,
+    "wof:geomhash":"20d3af78a3c4d6509e570d8d4de10f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706592213
+        }
+    ],
+    "wof:id":706592213,
+    "wof:lastmodified":1461806561,
+    "wof:name":"Terry's Auto Sales",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.107169,
+    43.217713,
+    -86.107169,
+    43.217713
+],
+  "geometry": {"coordinates":[-86.107169,43.217713],"type":"Point"}
+}

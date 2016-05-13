@@ -1,0 +1,82 @@
+{
+  "id": 722526851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662795,42.259786,-85.662795,42.259786",
+    "geom:latitude":42.259786,
+    "geom:longitude":-85.662795,
+    "iso:country":"US",
+    "sg:address":"5746 Parkview Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 9606",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kennel",
+        "store"
+    ],
+    "sg:website":"http://www.campravenwood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878451,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v89luXM3V4OlyeawUMBnH_42.259786_-85.662795@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814281,
+    "wof:geomhash":"2fbd52a392002656bbc977f08cc2f930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878451,
+            "region_id":85688599,
+            "venue_id":722526851
+        }
+    ],
+    "wof:id":722526851,
+    "wof:lastmodified":1461814281,
+    "wof:name":"Camp Ravenwoods Kennels",
+    "wof:parent_id":85878451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.662795,
+    42.259786,
+    -85.662795,
+    42.259786
+],
+  "geometry": {"coordinates":[-85.662795,42.259786],"type":"Point"}
+}

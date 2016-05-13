@@ -1,0 +1,72 @@
+{
+  "id": 706675483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.857642,42.636288,-82.857642,42.636288",
+    "geom:latitude":42.636288,
+    "geom:longitude":-82.857642,
+    "iso:country":"US",
+    "sg:address":"45780 N Gratiot Ave",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/176479-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 7286",
+    "sg:postcode":"48042",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zJxb98H86xUpsTmyEoVPm_42.636288_-82.857642@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809096,
+    "wof:geomhash":"45496c04b61748903990b21f12a692e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":706675483
+        }
+    ],
+    "wof:id":706675483,
+    "wof:lastmodified":1461809096,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -82.857642,
+    42.636288,
+    -82.857642,
+    42.636288
+],
+  "geometry": {"coordinates":[-82.857642,42.636288],"type":"Point"}
+}

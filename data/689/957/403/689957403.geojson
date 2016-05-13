@@ -1,0 +1,86 @@
+{
+  "id": 689957403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.123812,42.335752,-83.123812,42.335752",
+    "geom:latitude":42.335752,
+    "geom:longitude":-83.123812,
+    "iso:country":"US",
+    "sg:address":"4805 Livernois Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 897 4129",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IKFXV7tykF6hGYAdTUFr5_42.335752_-83.123812@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786066,
+    "wof:geomhash":"546c06bc0c7205a59e7a8a114b5ad1ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":689957403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":689957403
+        }
+    ],
+    "wof:id":689957403,
+    "wof:lastmodified":1461786066,
+    "wof:name":"Sound Station 2  Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.123812,
+    42.335752,
+    -83.123812,
+    42.335752
+],
+  "geometry": {"coordinates":[-83.123812,42.335752],"type":"Point"}
+}

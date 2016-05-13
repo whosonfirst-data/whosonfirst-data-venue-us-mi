@@ -1,0 +1,80 @@
+{
+  "id": 706020587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.630583,42.704795,-84.630583,42.704795",
+    "geom:latitude":42.704795,
+    "geom:longitude":-84.630583,
+    "iso:country":"US",
+    "sg:address":"5500 Pearson Hwy",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 322 9960",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "break",
+        "coffee",
+        "eating",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lA6IqveJtpUnA8Zg2K4gI_42.704795_-84.630583@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794021,
+    "wof:geomhash":"365d347c39640638673035a19bb3dcc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":706020587
+        }
+    ],
+    "wof:id":706020587,
+    "wof:lastmodified":1461794021,
+    "wof:name":"Classic Coffee Co",
+    "wof:parent_id":85834385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "break",
+        "coffee",
+        "eating",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.630583,
+    42.704795,
+    -84.630583,
+    42.704795
+],
+  "geometry": {"coordinates":[-84.630583,42.704795],"type":"Point"}
+}

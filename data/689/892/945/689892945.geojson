@@ -1,0 +1,73 @@
+{
+  "id": 689892945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.568395,47.10805,-88.568395,47.10805",
+    "geom:latitude":47.10805,
+    "geom:longitude":-88.568395,
+    "iso:country":"US",
+    "sg:address":"1408 Gundlach Rd",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 7966",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tqAx9T3OXsXp62UurnFy1_47.108050_-88.568395@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784385,
+    "wof:geomhash":"db22148fda82c8d282a9d2fc61f8fc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689892945
+        }
+    ],
+    "wof:id":689892945,
+    "wof:lastmodified":1461784385,
+    "wof:name":"City Bus Garage",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "garage"
+    ]
+},
+  "bbox": [
+    -88.568395,
+    47.10805,
+    -88.568395,
+    47.10805
+],
+  "geometry": {"coordinates":[-88.568395,47.10805],"type":"Point"}
+}

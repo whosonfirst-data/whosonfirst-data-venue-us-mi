@@ -1,0 +1,81 @@
+{
+  "id": 722479409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.065277,42.359115,-83.065277,42.359115",
+    "geom:latitude":42.359115,
+    "geom:longitude":-83.065277,
+    "iso:country":"US",
+    "sg:address":"Detroit Institute of Arts 5200 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 833 7966",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.dia.org/plan_your_visit/dini...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870589,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0akjUCDWgp0v6r4j2ikbNW_42.359115_-83.065277@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812261,
+    "wof:geomhash":"6e11b0015ecbc01933cc9db4251c05c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870589,
+            "region_id":85688599,
+            "venue_id":722479409
+        }
+    ],
+    "wof:id":722479409,
+    "wof:lastmodified":1461812261,
+    "wof:name":"Caf?DIA",
+    "wof:parent_id":85870589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.065277,
+    42.359115,
+    -83.065277,
+    42.359115
+],
+  "geometry": {"coordinates":[-83.06527699999999,42.359115],"type":"Point"}
+}

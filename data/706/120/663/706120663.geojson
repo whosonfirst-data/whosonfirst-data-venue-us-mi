@@ -1,0 +1,73 @@
+{
+  "id": 706120663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.619536,43.020131,-82.619536,43.020131",
+    "geom:latitude":43.020131,
+    "geom:longitude":-82.619536,
+    "iso:country":"US",
+    "sg:address":"7243 Bryce Rd",
+    "sg:city":"North Street",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 324 2769",
+    "sg:postcode":"48049",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i8HxegBt9SutQj6FxTbsi_43.020131_-82.619536@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796278,
+    "wof:geomhash":"7dc4ce131b113694ceba486584f56c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706120663
+        }
+    ],
+    "wof:id":706120663,
+    "wof:lastmodified":1461796278,
+    "wof:name":"Profit Transportation Inc",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.619536,
+    43.020131,
+    -82.619536,
+    43.020131
+],
+  "geometry": {"coordinates":[-82.619536,43.020131],"type":"Point"}
+}

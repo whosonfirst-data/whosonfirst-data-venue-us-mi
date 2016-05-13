@@ -1,0 +1,74 @@
+{
+  "id": 689655135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485558,42.08343,-86.485558,42.08343",
+    "geom:latitude":42.08343,
+    "geom:longitude":-86.485558,
+    "iso:country":"US",
+    "sg:address":"712 Midway Ave",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 6603",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hu6gMvRfAZY30MEmJyxUR_42.083430_-86.485558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777997,
+    "wof:geomhash":"34fb3e4c7c7caf28e3f16f8438df8927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689655135
+        }
+    ],
+    "wof:id":689655135,
+    "wof:lastmodified":1461777997,
+    "wof:name":"Weidler Associates Inc",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -86.485558,
+    42.08343,
+    -86.485558,
+    42.08343
+],
+  "geometry": {"coordinates":[-86.485558,42.08343],"type":"Point"}
+}

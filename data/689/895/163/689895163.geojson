@@ -1,0 +1,71 @@
+{
+  "id": 689895163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.59824,42.903967,-85.59824,42.903967",
+    "geom:latitude":42.903967,
+    "geom:longitude":-85.59824,
+    "iso:country":"US",
+    "sg:address":"2760 Castle Bluff Ct SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 575 0933",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69n8cB6KVhqi83U36O7umg_42.903967_-85.598240@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784442,
+    "wof:geomhash":"f9b3f725c71f12328515bd92ba2d5747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689895163
+        }
+    ],
+    "wof:id":689895163,
+    "wof:lastmodified":1461784442,
+    "wof:name":"Salja Transport",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.59824,
+    42.903967,
+    -85.59824,
+    42.903967
+],
+  "geometry": {"coordinates":[-85.59824,42.903967],"type":"Point"}
+}

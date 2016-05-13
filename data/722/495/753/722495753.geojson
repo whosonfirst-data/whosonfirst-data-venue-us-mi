@@ -1,0 +1,84 @@
+{
+  "id": 722495753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197304,42.368999,-83.197304,42.368999",
+    "geom:latitude":42.368999,
+    "geom:longitude":-83.197304,
+    "iso:country":"US",
+    "sg:address":"10000 Greenfield Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 838 8855",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870495,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qxGll64UjKRj1wgtg3Eh7_42.368999_-83.197304@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812916,
+    "wof:geomhash":"d84915ad2d37c1f83722fc802760782b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870495,
+            "region_id":85688599,
+            "venue_id":722495753
+        }
+    ],
+    "wof:id":722495753,
+    "wof:lastmodified":1461812916,
+    "wof:name":"De-Tech Auto Collision",
+    "wof:parent_id":85870495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "tire"
+    ]
+},
+  "bbox": [
+    -83.197304,
+    42.368999,
+    -83.197304,
+    42.368999
+],
+  "geometry": {"coordinates":[-83.197304,42.368999],"type":"Point"}
+}

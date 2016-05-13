@@ -1,0 +1,73 @@
+{
+  "id": 689475251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.223239,43.287509,-86.223239,43.287509",
+    "geom:latitude":43.287509,
+    "geom:longitude":-86.223239,
+    "iso:country":"US",
+    "sg:address":"1877 N Getty Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 5052",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qsqPRN8xyXNMxrpTbsrr2_43.287509_-86.223239@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772385,
+    "wof:geomhash":"9911159edbd7a1586079ea9ff48c31cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689475251
+        }
+    ],
+    "wof:id":689475251,
+    "wof:lastmodified":1461772385,
+    "wof:name":"Bear Creek Health Ctr",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.223239,
+    43.287509,
+    -86.223239,
+    43.287509
+],
+  "geometry": {"coordinates":[-86.22323900000001,43.287509],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706675701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.852378,42.645007,-82.852378,42.645007",
+    "geom:latitude":42.645007,
+    "geom:longitude":-82.852378,
+    "iso:country":"US",
+    "sg:address":"25530 21 Mile Rd",
+    "sg:city":"New Baltimore",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/chesterfield/26958-hungry-howies-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 8700",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lS2MMNaw60PgTivTuLC8k_42.645007_-82.852378@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809104,
+    "wof:geomhash":"e79a545de5eb9bd29f67d8651ddcee18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":706675701
+        }
+    ],
+    "wof:id":706675701,
+    "wof:lastmodified":1461809104,
+    "wof:name":"Hungry Howie's Pizza",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.852378,
+    42.645007,
+    -82.852378,
+    42.645007
+],
+  "geometry": {"coordinates":[-82.852378,42.645007],"type":"Point"}
+}

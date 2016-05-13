@@ -1,0 +1,80 @@
+{
+  "id": 706673041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.355109,42.44123,-83.355109,42.44123",
+    "geom:latitude":42.44123,
+    "geom:longitude":-83.355109,
+    "iso:country":"US",
+    "sg:address":"31208 W 8 Mile Rd",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 426 1448",
+    "sg:postcode":"48336",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896629,
+        102191575,
+        404508185,
+        85633793,
+        85952009,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uj6v9nNwehD49c9fFQgb0_42.441217_-83.354344@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809004,
+    "wof:geomhash":"56d70dd5a878c0ce96e933cd34c40a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508185,
+            "locality_id":85952009,
+            "neighbourhood_id":85896629,
+            "region_id":85688599,
+            "venue_id":706673041
+        }
+    ],
+    "wof:id":706673041,
+    "wof:lastmodified":1461809004,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.355109,
+    42.44123,
+    -83.355109,
+    42.44123
+],
+  "geometry": {"coordinates":[-83.355109,42.44123],"type":"Point"}
+}

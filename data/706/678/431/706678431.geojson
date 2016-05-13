@@ -1,0 +1,78 @@
+{
+  "id": 706678431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.148964,42.210424,-83.148964,42.210424",
+    "geom:latitude":42.210424,
+    "geom:longitude":-83.148964,
+    "iso:country":"US",
+    "sg:address":"2333 Biddle St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/wyandotte/146222-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 246 7724",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896867,
+        102191575,
+        404508709,
+        85633793,
+        85951075,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HuujDKgtKoYKldDkcLTwv_42.210424_-83.148964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809224,
+    "wof:geomhash":"456982bae29694b7d716ae5ed109700d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508709,
+            "locality_id":85951075,
+            "neighbourhood_id":85896867,
+            "region_id":85688599,
+            "venue_id":706678431
+        }
+    ],
+    "wof:id":706678431,
+    "wof:lastmodified":1461809224,
+    "wof:name":"Subway",
+    "wof:parent_id":85896867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.148964,
+    42.210424,
+    -83.148964,
+    42.210424
+],
+  "geometry": {"coordinates":[-83.14896400000001,42.210424],"type":"Point"}
+}

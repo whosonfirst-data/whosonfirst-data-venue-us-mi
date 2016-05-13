@@ -1,0 +1,71 @@
+{
+  "id": 705947741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724369,43.016402,-85.724369,43.016402",
+    "geom:latitude":43.016402,
+    "geom:longitude":-85.724369,
+    "iso:country":"US",
+    "sg:address":"2942 Walker Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 249 3584",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yMVxKDqJcKKvR29oB93s3_43.016402_-85.724369@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792480,
+    "wof:geomhash":"0211ed3e8646272f7caa05a96223f2cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":705947741
+        }
+    ],
+    "wof:id":705947741,
+    "wof:lastmodified":1461792480,
+    "wof:name":"Dons Frame & Unibody Repair",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.724369,
+    43.016402,
+    -85.724369,
+    43.016402
+],
+  "geometry": {"coordinates":[-85.724369,43.016402],"type":"Point"}
+}

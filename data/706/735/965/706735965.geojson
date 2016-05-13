@@ -1,0 +1,74 @@
+{
+  "id": 706735965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.400703,42.1642,-83.400703,42.1642",
+    "geom:latitude":42.1642,
+    "geom:longitude":-83.400703,
+    "iso:country":"US",
+    "sg:address":"19109 Craig St",
+    "sg:city":"New Boston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 753 5978",
+    "sg:postcode":"48164",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MOV3GSwjNAPCOchlokSIO_42.164200_-83.400703@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811658,
+    "wof:geomhash":"5e3ec584903beaa593bd54b4272ac7ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706735965
+        }
+    ],
+    "wof:id":706735965,
+    "wof:lastmodified":1461811658,
+    "wof:name":"Huron Countryside Co-Op",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.400703,
+    42.1642,
+    -83.400703,
+    42.1642
+],
+  "geometry": {"coordinates":[-83.40070299999999,42.1642],"type":"Point"}
+}

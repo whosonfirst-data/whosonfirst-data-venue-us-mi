@@ -1,0 +1,73 @@
+{
+  "id": 705778379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244096,41.835503,-86.244096,41.835503",
+    "geom:latitude":41.835503,
+    "geom:longitude":-86.244096,
+    "iso:country":"US",
+    "sg:address":"713 N 13th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7220",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khZOQNYmqnaUGBVcnapx9_41.835503_-86.244096@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788506,
+    "wof:geomhash":"1582691a3815cd81d78afdf15f44c2c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705778379
+        }
+    ],
+    "wof:id":705778379,
+    "wof:lastmodified":1461788506,
+    "wof:name":"Dave's Garage",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.244096,
+    41.835503,
+    -86.244096,
+    41.835503
+],
+  "geometry": {"coordinates":[-86.244096,41.835503],"type":"Point"}
+}

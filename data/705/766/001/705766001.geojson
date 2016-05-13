@@ -1,0 +1,71 @@
+{
+  "id": 705766001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426873,43.45822,-86.426873,43.45822",
+    "geom:latitude":43.45822,
+    "geom:longitude":-86.426873,
+    "iso:country":"US",
+    "sg:address":"10261 Chase Rd",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 8933",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WcHMvg9CmfowwZ8keaM1Z_43.458220_-86.426873@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788217,
+    "wof:geomhash":"81314590ad64b0b8da139d6250e58547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":705766001
+        }
+    ],
+    "wof:id":705766001,
+    "wof:lastmodified":1461788217,
+    "wof:name":"EPS Farms",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.426873,
+    43.45822,
+    -86.426873,
+    43.45822
+],
+  "geometry": {"coordinates":[-86.426873,43.45822],"type":"Point"}
+}

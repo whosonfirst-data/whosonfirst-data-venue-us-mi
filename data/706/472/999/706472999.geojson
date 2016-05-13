@@ -1,0 +1,88 @@
+{
+  "id": 706472999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.882376,42.460593,-82.882376,42.460593",
+    "geom:latitude":42.460593,
+    "geom:longitude":-82.882376,
+    "iso:country":"US",
+    "sg:address":"23401 Jefferson Ave",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 771 8300",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stlucychurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951587,
+        102083147,
+        420524821,
+        420524409,
+        404507479,
+        85951695,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vpBDiZFbIdycgPXHOUA48_42.460593_-82.882376@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803907,
+    "wof:geomhash":"40f5fa62c3ac4623e3c0067779bbf832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":706472999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":706472999
+        }
+    ],
+    "wof:id":706472999,
+    "wof:lastmodified":1461803907,
+    "wof:name":"St Lucys Catholic Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -82.882376,
+    42.460593,
+    -82.882376,
+    42.460593
+],
+  "geometry": {"coordinates":[-82.88237599999999,42.460593],"type":"Point"}
+}

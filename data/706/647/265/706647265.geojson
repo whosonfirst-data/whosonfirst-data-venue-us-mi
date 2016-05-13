@@ -1,0 +1,75 @@
+{
+  "id": 706647265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.669139,43.009256,-83.669139,43.009256",
+    "geom:latitude":43.009256,
+    "geom:longitude":-83.669139,
+    "iso:country":"US",
+    "sg:address":"1932 Howard Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 9190",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877387,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68vXJ0LTR7wKgoPVcYDnh9_43.009256_-83.669139@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807812,
+    "wof:geomhash":"bf8b1e98c93f47c128a47137843349a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877387,
+            "region_id":85688599,
+            "venue_id":706647265
+        }
+    ],
+    "wof:id":706647265,
+    "wof:lastmodified":1461807812,
+    "wof:name":"Flint Police Dept",
+    "wof:parent_id":85877387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.669139,
+    43.009256,
+    -83.669139,
+    43.009256
+],
+  "geometry": {"coordinates":[-83.669139,43.009256],"type":"Point"}
+}

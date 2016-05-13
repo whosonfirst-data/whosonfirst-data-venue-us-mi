@@ -1,0 +1,77 @@
+{
+  "id": 705982533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.166665,42.200587,-86.166665,42.200587",
+    "geom:latitude":42.200587,
+    "geom:longitude":-86.166665,
+    "iso:country":"US",
+    "sg:address":"525 S Center St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 621 6414",
+    "sg:postcode":"49057",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851211,
+        102191575,
+        404508215,
+        85633793,
+        85951627,
+        102083051,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34IgoKXH7FD3xWowXu7aLm_42.200587_-86.166665@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793217,
+    "wof:geomhash":"3413244957c802a9aabec07dd3ba2a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083051,
+            "localadmin_id":404508215,
+            "locality_id":85951627,
+            "neighbourhood_id":85851211,
+            "region_id":85688599,
+            "venue_id":705982533
+        }
+    ],
+    "wof:id":705982533,
+    "wof:lastmodified":1461793217,
+    "wof:name":"Hartford Medical Ctr",
+    "wof:parent_id":85851211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.166665,
+    42.200587,
+    -86.166665,
+    42.200587
+],
+  "geometry": {"coordinates":[-86.16666499999999,42.200587],"type":"Point"}
+}

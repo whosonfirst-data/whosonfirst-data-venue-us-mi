@@ -1,0 +1,66 @@
+{
+  "id": 706026993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.545906,42.327565,-85.545906,42.327565",
+    "geom:latitude":42.327565,
+    "geom:longitude":-85.545906,
+    "iso:country":"US",
+    "sg:address":"3627 Mount Olivet Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 344 3011",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fbiyoIqG06Yn4zQivHAP7_42.327565_-85.545906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794145,
+    "wof:geomhash":"c0b7a50d206f3bc3c4e56afa0064974a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706026993
+        }
+    ],
+    "wof:id":706026993,
+    "wof:lastmodified":1461794145,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.545906,
+    42.327565,
+    -85.545906,
+    42.327565
+],
+  "geometry": {"coordinates":[-85.545906,42.327565],"type":"Point"}
+}

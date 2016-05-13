@@ -1,0 +1,75 @@
+{
+  "id": 706507339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.382561,42.236536,-84.382561,42.236536",
+    "geom:latitude":42.236536,
+    "geom:longitude":-84.382561,
+    "iso:country":"US",
+    "sg:address":"1807 Lewis St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 7575",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yaiu8vWglrjQJRMhlBoN9_42.236536_-84.382561@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804794,
+    "wof:geomhash":"7a43d7ac59a73e2f4bc7f16e222f620d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706507339
+        }
+    ],
+    "wof:id":706507339,
+    "wof:lastmodified":1461804794,
+    "wof:name":"C & L Paint & Body Shop",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.382561,
+    42.236536,
+    -84.382561,
+    42.236536
+],
+  "geometry": {"coordinates":[-84.382561,42.236536],"type":"Point"}
+}

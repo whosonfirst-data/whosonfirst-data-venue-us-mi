@@ -1,0 +1,75 @@
+{
+  "id": 706633537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.959003,43.467246,-85.959003,43.467246",
+    "geom:latitude":43.467246,
+    "geom:longitude":-85.959003,
+    "iso:country":"US",
+    "sg:address":"803 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 0090",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k9y07umSvExCUdrUvK5JX_43.467246_-85.959003@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807443,
+    "wof:geomhash":"9248ede54b9c70d42faec6b6b4a41fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706633537
+        }
+    ],
+    "wof:id":706633537,
+    "wof:lastmodified":1461807443,
+    "wof:name":"Maxi Muffler & Brake Shop",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.959003,
+    43.467246,
+    -85.959003,
+    43.467246
+],
+  "geometry": {"coordinates":[-85.959003,43.467246],"type":"Point"}
+}

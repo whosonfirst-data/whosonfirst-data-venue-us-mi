@@ -1,0 +1,71 @@
+{
+  "id": 705871855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.35018,42.259295,-84.35018,42.259295",
+    "geom:latitude":42.259295,
+    "geom:longitude":-84.35018,
+    "iso:country":"US",
+    "sg:address":"3500 Ann Arbor Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 3326",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJMc8jNgjK6NlFRHPl2pp_42.259295_-84.350180@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790736,
+    "wof:geomhash":"706f9d90217c2aa2f425444dfde16ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705871855
+        }
+    ],
+    "wof:id":705871855,
+    "wof:lastmodified":1461790736,
+    "wof:name":"Maurer's Sunshine Car Wash",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.35018,
+    42.259295,
+    -84.35018,
+    42.259295
+],
+  "geometry": {"coordinates":[-84.35017999999999,42.259295],"type":"Point"}
+}

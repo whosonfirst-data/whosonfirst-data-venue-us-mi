@@ -1,0 +1,76 @@
+{
+  "id": 706687295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.061368,45.813048,-88.061368,45.813048",
+    "geom:latitude":45.813048,
+    "geom:longitude":-88.061368,
+    "iso:country":"US",
+    "sg:address":"1050 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/iron-mountain/101250-cousins-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9005",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0veHlqsSzMql8YbbjqLBgD_45.813048_-88.061368@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809567,
+    "wof:geomhash":"4f8b5da52243b293b2906e1216c81ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706687295
+        }
+    ],
+    "wof:id":706687295,
+    "wof:lastmodified":1461809567,
+    "wof:name":"Cousin's Subs",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.061368,
+    45.813048,
+    -88.061368,
+    45.813048
+],
+  "geometry": {"coordinates":[-88.061368,45.813048],"type":"Point"}
+}

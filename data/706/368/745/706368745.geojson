@@ -1,0 +1,71 @@
+{
+  "id": 706368745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.070036,45.807795,-88.070036,45.807795",
+    "geom:latitude":45.807795,
+    "geom:longitude":-88.070036,
+    "iso:country":"US",
+    "sg:address":"393 Woodward Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 0808",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AfkOjxnlJw3wmxbf9zmzj_45.807795_-88.070036@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801783,
+    "wof:geomhash":"41e41a5ad1aeb083f8ac9905b62fd1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706368745
+        }
+    ],
+    "wof:id":706368745,
+    "wof:lastmodified":1461801783,
+    "wof:name":"Twin City Cleaners Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.070036,
+    45.807795,
+    -88.070036,
+    45.807795
+],
+  "geometry": {"coordinates":[-88.070036,45.807795],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689848129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.458703,42.270907,-84.458703,42.270907",
+    "geom:latitude":42.270907,
+    "geom:longitude":-84.458703,
+    "iso:country":"US",
+    "sg:address":"3529 Wayland Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 8237",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L81trajo6VFA1BvOGHq6l_42.270907_-84.458703@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783274,
+    "wof:geomhash":"77921a13715de2ad17d8f87cc6b2d862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689848129
+        }
+    ],
+    "wof:id":689848129,
+    "wof:lastmodified":1461783274,
+    "wof:name":"Shurgard Storage Ctr",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.458703,
+    42.270907,
+    -84.458703,
+    42.270907
+],
+  "geometry": {"coordinates":[-84.458703,42.270907],"type":"Point"}
+}

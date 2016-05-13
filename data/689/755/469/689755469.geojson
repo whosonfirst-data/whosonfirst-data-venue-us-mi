@@ -1,0 +1,73 @@
+{
+  "id": 689755469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.326647,42.980444,-85.326647,42.980444",
+    "geom:latitude":42.980444,
+    "geom:longitude":-85.326647,
+    "iso:country":"US",
+    "sg:address":"13810 Covered Bridge Rd NE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 9830",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56aDmD9SyA65Hnk3lkrsNc_42.980444_-85.326647@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780590,
+    "wof:geomhash":"5780050a70ab49f6ed0f44e69abed3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689755469
+        }
+    ],
+    "wof:id":689755469,
+    "wof:lastmodified":1461780590,
+    "wof:name":"Capn Hook Towing",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -85.326647,
+    42.980444,
+    -85.326647,
+    42.980444
+],
+  "geometry": {"coordinates":[-85.32664699999999,42.980444],"type":"Point"}
+}

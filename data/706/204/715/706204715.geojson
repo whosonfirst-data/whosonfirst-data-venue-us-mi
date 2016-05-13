@@ -1,0 +1,71 @@
+{
+  "id": 706204715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.695015,41.798981,-86.695015,41.798981",
+    "geom:latitude":41.798981,
+    "geom:longitude":-86.695015,
+    "iso:country":"US",
+    "sg:address":"10064 US Hwy 12",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 5910",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gETembbOjCuFPfzHbu8T0_41.798981_-86.695015@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798176,
+    "wof:geomhash":"043571172b689d31448e57fe07c8139f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706204715
+        }
+    ],
+    "wof:id":706204715,
+    "wof:lastmodified":1461798176,
+    "wof:name":"M & N Towing Svc",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.695015,
+    41.798981,
+    -86.695015,
+    41.798981
+],
+  "geometry": {"coordinates":[-86.695015,41.798981],"type":"Point"}
+}

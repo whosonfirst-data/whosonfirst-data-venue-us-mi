@@ -1,0 +1,71 @@
+{
+  "id": 706654073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.021236,42.811328,-86.021236,42.811328",
+    "geom:latitude":42.811328,
+    "geom:longitude":-86.021236,
+    "iso:country":"US",
+    "sg:address":"148 W Cherry Ave",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 772 1655",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kH6mGrf2KCGga4bRimDYz_42.811328_-86.021236@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808137,
+    "wof:geomhash":"44cba3e31c238db67df91b750a151d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":706654073
+        }
+    ],
+    "wof:id":706654073,
+    "wof:lastmodified":1461808137,
+    "wof:name":"Yacob Internal Medicine",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.021236,
+    42.811328,
+    -86.021236,
+    42.811328
+],
+  "geometry": {"coordinates":[-86.021236,42.811328],"type":"Point"}
+}

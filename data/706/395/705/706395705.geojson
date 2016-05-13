@@ -1,0 +1,71 @@
+{
+  "id": 706395705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.306091,43.264231,-86.306091,43.264231",
+    "geom:latitude":43.264231,
+    "geom:longitude":-86.306091,
+    "iso:country":"US",
+    "sg:address":"2541 Fenner Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 3619",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YpWAatQhNBEBujoTsKS9c_43.264231_-86.306091@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802318,
+    "wof:geomhash":"01fd3189df866d1e74bcc6b4100d2548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706395705
+        }
+    ],
+    "wof:id":706395705,
+    "wof:lastmodified":1461802318,
+    "wof:name":"Bee's Painting & Decorating",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.306091,
+    43.264231,
+    -86.306091,
+    43.264231
+],
+  "geometry": {"coordinates":[-86.306091,43.264231],"type":"Point"}
+}

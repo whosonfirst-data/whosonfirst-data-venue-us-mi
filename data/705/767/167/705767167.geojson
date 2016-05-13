@@ -1,0 +1,71 @@
+{
+  "id": 705767167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.096743,42.773975,-86.096743,42.773975",
+    "geom:latitude":42.773975,
+    "geom:longitude":-86.096743,
+    "iso:country":"US",
+    "sg:address":"242 E 26th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 4936",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GogqwCdfN3UEuyrHKAFqG_42.773975_-86.096743@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788241,
+    "wof:geomhash":"76ee0b4ffce090e4957fe7c6cf5d8df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":705767167
+        }
+    ],
+    "wof:id":705767167,
+    "wof:lastmodified":1461788241,
+    "wof:name":"Maplewood Auto Inc",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.096743,
+    42.773975,
+    -86.096743,
+    42.773975
+],
+  "geometry": {"coordinates":[-86.096743,42.773975],"type":"Point"}
+}

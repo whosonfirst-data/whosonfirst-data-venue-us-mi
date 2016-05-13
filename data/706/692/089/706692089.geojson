@@ -1,0 +1,85 @@
+{
+  "id": 706692089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.160867,42.547422,-83.160867,42.547422",
+    "geom:latitude":42.547422,
+    "geom:longitude":-83.160867,
+    "iso:country":"US",
+    "sg:address":"1055 W Maple Rd Ste B",
+    "sg:city":"Clawson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 435 9030",
+    "sg:postcode":"48017",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "college",
+        "specialty"
+    ],
+    "sg:website":"www.acr.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896813,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qYFDLpXv4GrqhAM46gpGj_42.547422_-83.160867@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809754,
+    "wof:geomhash":"07e83e544a22f7dadbf1da047095c784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896813,
+            "region_id":85688599,
+            "venue_id":706692089
+        }
+    ],
+    "wof:id":706692089,
+    "wof:lastmodified":1461809754,
+    "wof:name":"Academy of Court Reporting",
+    "wof:parent_id":85896813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "college",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.160867,
+    42.547422,
+    -83.160867,
+    42.547422
+],
+  "geometry": {"coordinates":[-83.160867,42.547422],"type":"Point"}
+}

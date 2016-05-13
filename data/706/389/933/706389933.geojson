@@ -1,0 +1,71 @@
+{
+  "id": 706389933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775385,43.550515,-85.775385,43.550515",
+    "geom:latitude":43.550515,
+    "geom:longitude":-85.775385,
+    "iso:country":"US",
+    "sg:address":"175 S Gibbs St",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 6675",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79A3PDKSwIsFHWnUf8rHK4_43.550515_-85.775385@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802206,
+    "wof:geomhash":"cc6afbc3e926b409be019c35886a7646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706389933
+        }
+    ],
+    "wof:id":706389933,
+    "wof:lastmodified":1461802206,
+    "wof:name":"Community Home Care Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -85.775385,
+    43.550515,
+    -85.775385,
+    43.550515
+],
+  "geometry": {"coordinates":[-85.775385,43.550515],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706463789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.284166,43.273107,-86.284166,43.273107",
+    "geom:latitude":43.273107,
+    "geom:longitude":-86.284166,
+    "iso:country":"US",
+    "sg:address":"1740 Gladstone Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 3248",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "consulting",
+        "engineer",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EbXCTe729wGR2Csr6amYk_43.273107_-86.284166@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803727,
+    "wof:geomhash":"4a427709621c5bdf6d366786db4a62ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706463789
+        }
+    ],
+    "wof:id":706463789,
+    "wof:lastmodified":1461803727,
+    "wof:name":"Instrument Engineering Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "consulting",
+        "engineer",
+        "instrument"
+    ]
+},
+  "bbox": [
+    -86.284166,
+    43.273107,
+    -86.284166,
+    43.273107
+],
+  "geometry": {"coordinates":[-86.284166,43.273107],"type":"Point"}
+}

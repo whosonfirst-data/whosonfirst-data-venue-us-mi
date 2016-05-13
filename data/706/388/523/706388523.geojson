@@ -1,0 +1,69 @@
+{
+  "id": 706388523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.005001,43.417422,-84.005001,43.417422",
+    "geom:latitude":43.417422,
+    "geom:longitude":-84.005001,
+    "iso:country":"US",
+    "sg:address":"459 Golfview Dr",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 4329",
+    "sg:postcode":"48638",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e8iHPCnPKoJBijpJdaz4R_43.417422_-84.005001@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802173,
+    "wof:geomhash":"54476293424bf2673e78f9dc7b6eac76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706388523
+        }
+    ],
+    "wof:id":706388523,
+    "wof:lastmodified":1461802173,
+    "wof:name":"John Lozak Dr",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.005001,
+    43.417422,
+    -84.005001,
+    43.417422
+],
+  "geometry": {"coordinates":[-84.00500099999999,43.417422],"type":"Point"}
+}

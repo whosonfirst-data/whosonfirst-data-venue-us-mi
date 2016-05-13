@@ -1,0 +1,71 @@
+{
+  "id": 706029187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.325539,42.214447,-84.325539,42.214447",
+    "geom:latitude":42.214447,
+    "geom:longitude":-84.325539,
+    "iso:country":"US",
+    "sg:address":"4204 Jane Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 6585",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZPUJ9BHirYyicpyNQ14Ha_42.214447_-84.325539@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794193,
+    "wof:geomhash":"e14ce5f7d3c40d095ee9164d8c6c14e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706029187
+        }
+    ],
+    "wof:id":706029187,
+    "wof:lastmodified":1461794193,
+    "wof:name":"Jane Foster Care Home",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "foster"
+    ]
+},
+  "bbox": [
+    -84.325539,
+    42.214447,
+    -84.325539,
+    42.214447
+],
+  "geometry": {"coordinates":[-84.32553900000001,42.214447],"type":"Point"}
+}

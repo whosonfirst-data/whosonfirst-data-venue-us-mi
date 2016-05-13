@@ -1,0 +1,79 @@
+{
+  "id": 689540113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.143803,42.33062,-83.143803,42.33062",
+    "geom:latitude":42.33062,
+    "geom:longitude":-83.143803,
+    "iso:country":"US",
+    "sg:address":"8124 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 582 1866",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bump",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896607,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o9vf3QOINT5nRNSS923Fe_42.330620_-83.143803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774356,
+    "wof:geomhash":"a02e15975d4a819ad58eef74df360f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85896607,
+            "region_id":85688599,
+            "venue_id":689540113
+        }
+    ],
+    "wof:id":689540113,
+    "wof:lastmodified":1461774356,
+    "wof:name":"New Carmack Collision",
+    "wof:parent_id":85896607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bump",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.143803,
+    42.33062,
+    -83.143803,
+    42.33062
+],
+  "geometry": {"coordinates":[-83.14380300000001,42.33062],"type":"Point"}
+}

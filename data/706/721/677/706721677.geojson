@@ -1,0 +1,81 @@
+{
+  "id": 706721677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029503,42.535702,-83.029503,42.535702",
+    "geom:latitude":42.535702,
+    "geom:longitude":-83.029503,
+    "iso:country":"US",
+    "sg:address":"32899 Van Dyke Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 979 8700",
+    "sg:postcode":"48093",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.jimriehl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896843,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jLYTnBXiqKsOsw9SlTWm9_42.535702_-83.029503@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461811053,
+    "wof:geomhash":"85f82d3b6589027643d44c3e11f60444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":85896843,
+            "region_id":85688599,
+            "venue_id":706721677
+        }
+    ],
+    "wof:id":706721677,
+    "wof:lastmodified":1461811053,
+    "wof:name":"Jim Riehls Friendly Automotive Group",
+    "wof:parent_id":85896843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.029503,
+    42.535702,
+    -83.029503,
+    42.535702
+],
+  "geometry": {"coordinates":[-83.02950300000001,42.535702],"type":"Point"}
+}

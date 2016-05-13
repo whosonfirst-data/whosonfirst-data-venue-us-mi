@@ -1,0 +1,84 @@
+{
+  "id": 706684399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.516156,42.326077,-85.516156,42.326077",
+    "geom:latitude":42.326077,
+    "geom:longitude":-85.516156,
+    "iso:country":"US",
+    "sg:address":"5802 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/comstock/91508-bennigans-grill--tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 4454",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lSGTO0gk9HnYIxUMeGqVA_42.326077_-85.516156@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809463,
+    "wof:geomhash":"29e0cf5d4ab2cf5df135a177a25cf9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684399
+        }
+    ],
+    "wof:id":706684399,
+    "wof:lastmodified":1461809463,
+    "wof:name":"Bennigan's Grill & Tavern",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -85.516156,
+    42.326077,
+    -85.516156,
+    42.326077
+],
+  "geometry": {"coordinates":[-85.516156,42.326077],"type":"Point"}
+}

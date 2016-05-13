@@ -1,0 +1,72 @@
+{
+  "id": 706688101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.033821,42.668557,-83.033821,42.668557",
+    "geom:latitude":42.668557,
+    "geom:longitude":-83.033821,
+    "iso:country":"US",
+    "sg:address":"50851 Van Dyke Ave",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/shelby/40595-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 731 0501",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZzuoSJWxUwUcVmbKdhGvp_42.668354_-83.033906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809601,
+    "wof:geomhash":"ae7bb07f274a7666b4db54baa8718d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706688101
+        }
+    ],
+    "wof:id":706688101,
+    "wof:lastmodified":1461809601,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.033821,
+    42.668557,
+    -83.033821,
+    42.668557
+],
+  "geometry": {"coordinates":[-83.033821,42.668557],"type":"Point"}
+}

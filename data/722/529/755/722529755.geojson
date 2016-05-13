@@ -1,0 +1,81 @@
+{
+  "id": 722529755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.722931,42.857214,-85.722931,42.857214",
+    "geom:latitude":42.857214,
+    "geom:longitude":-85.722931,
+    "iso:country":"US",
+    "sg:address":"5900 Byron Center Avenue",
+    "sg:city":"WYOMING",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 252 7200",
+    "sg:postcode":"49519",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://metrohealth.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ufMQoTM8kGnf5bsZ9RWYR_42.857214_-85.722931@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814399,
+    "wof:geomhash":"50fd475e22bd13e0b61598b886875a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":722529755
+        }
+    ],
+    "wof:id":722529755,
+    "wof:lastmodified":1461814399,
+    "wof:name":"MetroHealth Hospital",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.722931,
+    42.857214,
+    -85.722931,
+    42.857214
+],
+  "geometry": {"coordinates":[-85.722931,42.857214],"type":"Point"}
+}

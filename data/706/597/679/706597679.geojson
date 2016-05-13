@@ -1,0 +1,73 @@
+{
+  "id": 706597679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.281171,42.579542,-83.281171,42.579542",
+    "geom:latitude":42.579542,
+    "geom:longitude":-83.281171,
+    "iso:country":"US",
+    "sg:address":"4080 Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 258 0858",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aKGxemg69r7JRf4heVIXp_42.579542_-83.281171@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806670,
+    "wof:geomhash":"5dcf2f2fa4d8d85283cc60bf81d4db52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706597679
+        }
+    ],
+    "wof:id":706597679,
+    "wof:lastmodified":1461806670,
+    "wof:name":"Our Warehouse Inc",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.281171,
+    42.579542,
+    -83.281171,
+    42.579542
+],
+  "geometry": {"coordinates":[-83.281171,42.579542],"type":"Point"}
+}

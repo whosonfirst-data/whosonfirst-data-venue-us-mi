@@ -1,0 +1,69 @@
+{
+  "id": 689814653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874681,42.972293,-85.874681,42.972293",
+    "geom:latitude":42.972293,
+    "geom:longitude":-85.874681,
+    "iso:country":"US",
+    "sg:address":"4181 Lake Michigan Dr NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 453 2700",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822455,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d87Rx0Lp9ACgu2mVGbyKt_42.972293_-85.874681@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782327,
+    "wof:geomhash":"5d00b71d8cbb76d2ed07c7543b5c2b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85822455,
+            "region_id":85688599,
+            "venue_id":689814653
+        }
+    ],
+    "wof:id":689814653,
+    "wof:lastmodified":1461782327,
+    "wof:name":"Muffler Man",
+    "wof:parent_id":85822455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler"
+    ]
+},
+  "bbox": [
+    -85.874681,
+    42.972293,
+    -85.874681,
+    42.972293
+],
+  "geometry": {"coordinates":[-85.874681,42.972293],"type":"Point"}
+}

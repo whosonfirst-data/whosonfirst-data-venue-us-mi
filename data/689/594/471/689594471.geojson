@@ -1,0 +1,73 @@
+{
+  "id": 689594471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58351,42.914478,-85.58351,42.914478",
+    "geom:latitude":42.914478,
+    "geom:longitude":-85.58351,
+    "iso:country":"US",
+    "sg:address":"2620 E Beltline Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 2822",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bKTqI5tLa4XXjXvLPdUj6_42.914478_-85.583510@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776035,
+    "wof:geomhash":"00b03781cff076a96c8ccf1d6079e09a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689594471
+        }
+    ],
+    "wof:id":689594471,
+    "wof:lastmodified":1461776035,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.58351,
+    42.914478,
+    -85.58351,
+    42.914478
+],
+  "geometry": {"coordinates":[-85.58351,42.914478],"type":"Point"}
+}

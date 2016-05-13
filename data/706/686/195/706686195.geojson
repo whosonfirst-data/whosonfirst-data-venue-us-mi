@@ -1,0 +1,76 @@
+{
+  "id": 706686195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.64543,43.013395,-85.64543,43.013395",
+    "geom:latitude":43.013395,
+    "geom:longitude":-85.64543,
+    "iso:country":"US",
+    "sg:address":"925 Four Mile Rd.",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50841-tequila-willys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 785 7383",
+    "sg:postcode":"49505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877907,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WtrCVRMqtsiNRerlNji4g_43.013395_-85.645430@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809527,
+    "wof:geomhash":"0549db24b52f523467fc9d005119f528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877907,
+            "region_id":85688599,
+            "venue_id":706686195
+        }
+    ],
+    "wof:id":706686195,
+    "wof:lastmodified":1461809527,
+    "wof:name":"Tequila Willy's",
+    "wof:parent_id":85877907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.64543,
+    43.013395,
+    -85.64543,
+    43.013395
+],
+  "geometry": {"coordinates":[-85.64543,43.013395],"type":"Point"}
+}

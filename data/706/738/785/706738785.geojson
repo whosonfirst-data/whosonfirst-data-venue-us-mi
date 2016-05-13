@@ -1,0 +1,86 @@
+{
+  "id": 706738785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.270116,42.25134,-83.270116,42.25134",
+    "geom:latitude":42.25134,
+    "geom:longitude":-83.270116,
+    "iso:country":"US",
+    "sg:address":"7834 Telegraph Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 299 0542",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823787,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iTPDi82Lhb1xXs6K8ZmYa_42.251340_-83.270116@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811763,
+    "wof:geomhash":"d9b9c53e6685f2149d29b3863f251c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85823787,
+            "region_id":85688599,
+            "venue_id":706738785
+        }
+    ],
+    "wof:id":706738785,
+    "wof:lastmodified":1461811763,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85823787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -83.270116,
+    42.25134,
+    -83.270116,
+    42.25134
+],
+  "geometry": {"coordinates":[-83.270116,42.25134],"type":"Point"}
+}

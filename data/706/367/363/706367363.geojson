@@ -1,0 +1,69 @@
+{
+  "id": 706367363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.615754,42.127703,-83.615754,42.127703",
+    "geom:latitude":42.127703,
+    "geom:longitude":-83.615754,
+    "iso:country":"US",
+    "sg:address":"7190 Talladay Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 461 0470",
+    "sg:postcode":"48160",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85830569,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s6Bo3K1PTTV1YaRF9vAsP_42.127703_-83.615754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801757,
+    "wof:geomhash":"a056699105d8393b7c4d65c68ef04a36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85830569,
+            "region_id":85688599,
+            "venue_id":706367363
+        }
+    ],
+    "wof:id":706367363,
+    "wof:lastmodified":1461801757,
+    "wof:name":"Mikes Transmission Service",
+    "wof:parent_id":85830569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.615754,
+    42.127703,
+    -83.615754,
+    42.127703
+],
+  "geometry": {"coordinates":[-83.615754,42.127703],"type":"Point"}
+}

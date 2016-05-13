@@ -1,0 +1,74 @@
+{
+  "id": 706688729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589435,42.224261,-85.589435,42.224261",
+    "geom:latitude":42.224261,
+    "geom:longitude":-85.589435,
+    "iso:country":"US",
+    "sg:address":"6415 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/portage/196867-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 323 2739",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OW9GjvwtFC4wi58vmhjij_42.224325_-85.589429@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809623,
+    "wof:geomhash":"d2a37d548859f62bad594d22a6193b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706688729
+        }
+    ],
+    "wof:id":706688729,
+    "wof:lastmodified":1461809623,
+    "wof:name":"Burger King",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.589435,
+    42.224261,
+    -85.589435,
+    42.224261
+],
+  "geometry": {"coordinates":[-85.58943499999999,42.224261],"type":"Point"}
+}

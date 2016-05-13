@@ -1,0 +1,89 @@
+{
+  "id": 722479279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.072262,42.365011,-83.072262,42.365011",
+    "geom:latitude":42.365011,
+    "geom:longitude":-83.072262,
+    "iso:country":"US",
+    "sg:address":"440 Burroughs St., Suite #102",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 388 2828",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"http://GreeningDetroit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870585,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2uVTdscev522DnMYYitX_42.365011_-83.072262@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812256,
+    "wof:geomhash":"7fe698c8b066a8de80bffe33475fc95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":722479279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479279
+        }
+    ],
+    "wof:id":722479279,
+    "wof:lastmodified":1461812256,
+    "wof:name":"Facility Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -83.072262,
+    42.365011,
+    -83.072262,
+    42.365011
+],
+  "geometry": {"coordinates":[-83.07226199999999,42.365011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706350183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518289,42.635263,-84.518289,42.635263",
+    "geom:latitude":42.635263,
+    "geom:longitude":-84.518289,
+    "iso:country":"US",
+    "sg:address":"4343 Lynn St",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 7647",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XfZ3XFt0zoJ5vDmnh6Lkz_42.635263_-84.518289@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801410,
+    "wof:geomhash":"85da2417391b58d6bcafb4ba6f62a9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706350183
+        }
+    ],
+    "wof:id":706350183,
+    "wof:lastmodified":1461801410,
+    "wof:name":"Lynn Street Billing Svc",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -84.518289,
+    42.635263,
+    -84.518289,
+    42.635263
+],
+  "geometry": {"coordinates":[-84.518289,42.635263],"type":"Point"}
+}

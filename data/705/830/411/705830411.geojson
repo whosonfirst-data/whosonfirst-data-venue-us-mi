@@ -1,0 +1,71 @@
+{
+  "id": 705830411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.004769,41.934584,-84.004769,41.934584",
+    "geom:latitude":41.934584,
+    "geom:longitude":-84.004769,
+    "iso:country":"US",
+    "sg:address":"3446 N Adrian Hwy",
+    "sg:city":"Adrian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 263 4707",
+    "sg:postcode":"49221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85806209,
+        102083099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1msH6oNsr4ViKVBGj3gxqi_41.934584_-84.004769@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789746,
+    "wof:geomhash":"d4de7e4dfadaa796721b00788871e938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083099,
+            "neighbourhood_id":85806209,
+            "region_id":85688599,
+            "venue_id":705830411
+        }
+    ],
+    "wof:id":705830411,
+    "wof:lastmodified":1461789746,
+    "wof:name":"C & H Electric",
+    "wof:parent_id":85806209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.004769,
+    41.934584,
+    -84.004769,
+    41.934584
+],
+  "geometry": {"coordinates":[-84.004769,41.934584],"type":"Point"}
+}

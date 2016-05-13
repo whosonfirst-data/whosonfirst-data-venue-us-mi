@@ -1,0 +1,73 @@
+{
+  "id": 706335713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.215685,43.064796,-86.215685,43.064796",
+    "geom:latitude":43.064796,
+    "geom:longitude":-86.215685,
+    "iso:country":"US",
+    "sg:address":"220 N Ferry St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 3340",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dKWTAv81B37lxJqyfvrWp_43.064796_-86.215685@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801109,
+    "wof:geomhash":"17b4ffc26e908ab95a06cb4b9cf03da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706335713
+        }
+    ],
+    "wof:id":706335713,
+    "wof:lastmodified":1461801109,
+    "wof:name":"C & S Electric Svc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.215685,
+    43.064796,
+    -86.215685,
+    43.064796
+],
+  "geometry": {"coordinates":[-86.21568499999999,43.064796],"type":"Point"}
+}

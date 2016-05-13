@@ -1,0 +1,83 @@
+{
+  "id": 705817669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.750197,42.987546,-83.750197,42.987546",
+    "geom:latitude":42.987546,
+    "geom:longitude":-83.750197,
+    "iso:country":"US",
+    "sg:address":"3506 W Lennon Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 2226",
+    "sg:postcode":"48507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "sg:website":"www.realestatehomepage.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A0duM22apYPLg53bpxQDj_42.987546_-83.750197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789428,
+    "wof:geomhash":"b68e373e94619432f3265ae29764557b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":705817669
+        }
+    ],
+    "wof:id":705817669,
+    "wof:lastmodified":1461789428,
+    "wof:name":"AAA A McNamara Properties Co",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.750197,
+    42.987546,
+    -83.750197,
+    42.987546
+],
+  "geometry": {"coordinates":[-83.750197,42.987546],"type":"Point"}
+}

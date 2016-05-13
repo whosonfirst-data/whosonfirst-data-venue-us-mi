@@ -1,0 +1,78 @@
+{
+  "id": 706677671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.307754,42.311626,-83.307754,42.311626",
+    "geom:latitude":42.311626,
+    "geom:longitude":-83.307754,
+    "iso:country":"US",
+    "sg:address":"27125 Cherry Hill Rd",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/inkster/185891-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 277 6758",
+    "sg:postcode":"48141",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896625,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yvUJ82nrR91KpC2Avf81m_42.311626_-83.307754@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809196,
+    "wof:geomhash":"28308003e894a84a5e1fdb6f6a6ecba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85896625,
+            "region_id":85688599,
+            "venue_id":706677671
+        }
+    ],
+    "wof:id":706677671,
+    "wof:lastmodified":1461809196,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.307754,
+    42.311626,
+    -83.307754,
+    42.311626
+],
+  "geometry": {"coordinates":[-83.307754,42.311626],"type":"Point"}
+}

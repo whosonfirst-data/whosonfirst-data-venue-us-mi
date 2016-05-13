@@ -1,0 +1,75 @@
+{
+  "id": 706577417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560472,42.25217,-85.560472,42.25217",
+    "geom:latitude":42.25217,
+    "geom:longitude":-85.560472,
+    "iso:country":"US",
+    "sg:address":"3928 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 2545",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02wvfcYJIcwiu64P0BW06B_42.252170_-85.560472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806253,
+    "wof:geomhash":"067e31f5035b181a0e066f1bde99b173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706577417
+        }
+    ],
+    "wof:id":706577417,
+    "wof:lastmodified":1461806253,
+    "wof:name":"Ed's Shoe Repair",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -85.560472,
+    42.25217,
+    -85.560472,
+    42.25217
+],
+  "geometry": {"coordinates":[-85.560472,42.25217],"type":"Point"}
+}

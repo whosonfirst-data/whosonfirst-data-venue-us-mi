@@ -1,0 +1,71 @@
+{
+  "id": 722529817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.456381,44.234525,-85.456381,44.234525",
+    "geom:latitude":44.234525,
+    "geom:longitude":-85.456381,
+    "iso:country":"US",
+    "sg:address":"503 S Lake Mitchell Dr",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7272",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZAjQBfiyPuOdDfl3VDZs_44.234525_-85.456381@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814401,
+    "wof:geomhash":"ea756273fdaa43a6bc74cac47e247438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":722529817
+        }
+    ],
+    "wof:id":722529817,
+    "wof:lastmodified":1461814401,
+    "wof:name":"Chicos Taco House",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.456381,
+    44.234525,
+    -85.456381,
+    44.234525
+],
+  "geometry": {"coordinates":[-85.45638099999999,44.234525],"type":"Point"}
+}

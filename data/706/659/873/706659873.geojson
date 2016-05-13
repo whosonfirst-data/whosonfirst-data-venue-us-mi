@@ -1,0 +1,77 @@
+{
+  "id": 706659873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.653004,42.951145,-83.653004,42.951145",
+    "geom:latitude":42.951145,
+    "geom:longitude":-83.653004,
+    "iso:country":"US",
+    "sg:address":"5312 S Dort Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 695 0004",
+    "sg:postcode":"48507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15gFmvVHWtAPfwq7vjco41_42.951622_-83.652917@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808421,
+    "wof:geomhash":"67d8f8b28738980b526d847d8d4bacd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":706659873
+        }
+    ],
+    "wof:id":706659873,
+    "wof:lastmodified":1461808421,
+    "wof:name":"Autoport",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.653004,
+    42.951145,
+    -83.653004,
+    42.951145
+],
+  "geometry": {"coordinates":[-83.653004,42.951145],"type":"Point"}
+}

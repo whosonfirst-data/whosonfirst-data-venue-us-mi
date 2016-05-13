@@ -1,0 +1,77 @@
+{
+  "id": 706686197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638742,42.984444,-85.638742,42.984444",
+    "geom:latitude":42.984444,
+    "geom:longitude":-85.638742,
+    "iso:country":"US",
+    "sg:address":"1246 Leonard St NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/185756-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877859,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pKzsBH57mHfQ40ZRlUQW9_42.984444_-85.638742@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809527,
+    "wof:geomhash":"6d527a816e04b7208a83ab2e66c05993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877859,
+            "region_id":85688599,
+            "venue_id":706686197
+        }
+    ],
+    "wof:id":706686197,
+    "wof:lastmodified":1461809527,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85877859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.638742,
+    42.984444,
+    -85.638742,
+    42.984444
+],
+  "geometry": {"coordinates":[-85.63874199999999,42.984444],"type":"Point"}
+}

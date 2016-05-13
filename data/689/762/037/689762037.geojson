@@ -1,0 +1,80 @@
+{
+  "id": 689762037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.416723,44.270435,-85.416723,44.270435",
+    "geom:latitude":44.270435,
+    "geom:longitude":-85.416723,
+    "iso:country":"US",
+    "sg:address":"2105 6th Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 5638",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kvx7TlmqfYhqih2WA88Nf_44.270435_-85.416723@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780814,
+    "wof:geomhash":"de8f093f823b2055cbc682d90fb60a94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689762037
+        }
+    ],
+    "wof:id":689762037,
+    "wof:lastmodified":1461780814,
+    "wof:name":"North Central's Club Cadillac",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.416723,
+    44.270435,
+    -85.416723,
+    44.270435
+],
+  "geometry": {"coordinates":[-85.416723,44.270435],"type":"Point"}
+}

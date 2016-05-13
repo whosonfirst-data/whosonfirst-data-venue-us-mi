@@ -1,0 +1,70 @@
+{
+  "id": 706485759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.009123,42.629249,-83.009123,42.629249",
+    "geom:latitude":42.629249,
+    "geom:longitude":-83.009123,
+    "iso:country":"US",
+    "sg:address":"45290 Utica Park Blvd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 726 8555",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QdXMjuLYNi1HDpEit4DsE_42.629249_-83.009123@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804221,
+    "wof:geomhash":"418cba8a36b1c2f29ed9f9696fc4164c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706485759
+        }
+    ],
+    "wof:id":706485759,
+    "wof:lastmodified":1461804221,
+    "wof:name":"Borders Books & Music",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.009123,
+    42.629249,
+    -83.009123,
+    42.629249
+],
+  "geometry": {"coordinates":[-83.009123,42.629249],"type":"Point"}
+}

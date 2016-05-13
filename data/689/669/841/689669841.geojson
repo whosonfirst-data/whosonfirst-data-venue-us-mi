@@ -1,0 +1,71 @@
+{
+  "id": 689669841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.218092,43.09576,-86.218092,43.09576",
+    "geom:latitude":43.09576,
+    "geom:longitude":-86.218092,
+    "iso:country":"US",
+    "sg:address":"17325 Van Wagoner St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 9100",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JvF4O0c01TcKE3en9Hpp5_43.095760_-86.218092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778374,
+    "wof:geomhash":"921b7f5fe0a38ac533043b102012cad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689669841
+        }
+    ],
+    "wof:id":689669841,
+    "wof:lastmodified":1461778374,
+    "wof:name":"Mercy Spring Lk Fmly Care Ctr",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.218092,
+    43.09576,
+    -86.218092,
+    43.09576
+],
+  "geometry": {"coordinates":[-86.218092,43.09576],"type":"Point"}
+}

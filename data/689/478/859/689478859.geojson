@@ -1,0 +1,71 @@
+{
+  "id": 689478859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.378172,42.241512,-84.378172,42.241512",
+    "geom:latitude":42.241512,
+    "geom:longitude":-84.378172,
+    "iso:country":"US",
+    "sg:address":"1202 Page Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 7820",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3EkanD3aoVInPsLvRELi_42.241512_-84.378172@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772486,
+    "wof:geomhash":"9302675bcf31bdbba2590b12f8b126ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689478859
+        }
+    ],
+    "wof:id":689478859,
+    "wof:lastmodified":1461772486,
+    "wof:name":"Wildcat Creek Automotive",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.378172,
+    42.241512,
+    -84.378172,
+    42.241512
+],
+  "geometry": {"coordinates":[-84.37817200000001,42.241512],"type":"Point"}
+}

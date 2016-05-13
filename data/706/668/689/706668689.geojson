@@ -1,0 +1,77 @@
+{
+  "id": 706668689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.268565,42.634626,-83.268565,42.634626",
+    "geom:latitude":42.634626,
+    "geom:longitude":-83.268565,
+    "iso:country":"US",
+    "sg:address":"608 Auburn Ave",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 454 9903",
+    "sg:postcode":"48342",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896741,
+        102191575,
+        404508295,
+        85633793,
+        85952003,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X8NXkh8otnt4uR8x6Fxmy_42.634698_-83.267736@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808810,
+    "wof:geomhash":"d88515fecd36a6ef9be71f3e8a509502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508295,
+            "locality_id":85952003,
+            "neighbourhood_id":85896741,
+            "region_id":85688599,
+            "venue_id":706668689
+        }
+    ],
+    "wof:id":706668689,
+    "wof:lastmodified":1461808810,
+    "wof:name":"Pontiac Auto Repair",
+    "wof:parent_id":85896741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.268565,
+    42.634626,
+    -83.268565,
+    42.634626
+],
+  "geometry": {"coordinates":[-83.268565,42.634626],"type":"Point"}
+}

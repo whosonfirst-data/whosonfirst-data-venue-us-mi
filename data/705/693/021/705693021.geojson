@@ -1,0 +1,73 @@
+{
+  "id": 705693021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.118385,42.852738,-86.118385,42.852738",
+    "geom:latitude":42.852738,
+    "geom:longitude":-86.118385,
+    "iso:country":"US",
+    "sg:address":"4692 136th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 738 9300",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11e6w3hJmJ1DPwVJ2772fG_42.852738_-86.118385@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786238,
+    "wof:geomhash":"5d458dcdb2da79cfe814be8cc9fbf1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":705693021
+        }
+    ],
+    "wof:id":705693021,
+    "wof:lastmodified":1461786238,
+    "wof:name":"Edac",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.118385,
+    42.852738,
+    -86.118385,
+    42.852738
+],
+  "geometry": {"coordinates":[-86.118385,42.852738],"type":"Point"}
+}

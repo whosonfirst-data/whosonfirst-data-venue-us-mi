@@ -1,0 +1,71 @@
+{
+  "id": 706157301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250656,41.774085,-86.250656,41.774085",
+    "geom:latitude":41.774085,
+    "geom:longitude":-86.250656,
+    "iso:country":"US",
+    "sg:address":"2809 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 0041",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73GO2cuth7xMPm8MsW1bdD_41.774085_-86.250656@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797139,
+    "wof:geomhash":"e7aec209d5be4df9778e9a53e94a36eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706157301
+        }
+    ],
+    "wof:id":706157301,
+    "wof:lastmodified":1461797139,
+    "wof:name":"Michiana Party Hall",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.250656,
+    41.774085,
+    -86.250656,
+    41.774085
+],
+  "geometry": {"coordinates":[-86.25065600000001,41.774085],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 706543153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.524904,42.02262,-86.524904,42.02262",
+    "geom:latitude":42.02262,
+    "geom:longitude":-86.524904,
+    "iso:country":"US",
+    "sg:address":"5200 Red Arrow Hwy",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 4091",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.fam-st-joseph-mi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ID5YSfsWXIsw7hth6PzjN_42.022620_-86.524904@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805522,
+    "wof:geomhash":"d1189f8bc188d6b5d035e856ff309e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":706543153
+        }
+    ],
+    "wof:id":706543153,
+    "wof:lastmodified":1461805522,
+    "wof:name":"Freeway Veterinary Clinic",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.524904,
+    42.02262,
+    -86.524904,
+    42.02262
+],
+  "geometry": {"coordinates":[-86.52490400000001,42.02262],"type":"Point"}
+}

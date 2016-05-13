@@ -1,0 +1,71 @@
+{
+  "id": 706088653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.050231,43.442979,-84.050231,43.442979",
+    "geom:latitude":43.442979,
+    "geom:longitude":-84.050231,
+    "iso:country":"US",
+    "sg:address":"2435 Midland Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 791 9380",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ddkS2p0CLUekaH1QNmKUl_43.442979_-84.050231@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795541,
+    "wof:geomhash":"45bd289c52cc37c31b13401a82cb313a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706088653
+        }
+    ],
+    "wof:id":706088653,
+    "wof:lastmodified":1461795541,
+    "wof:name":"Jack R Brown DO",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.050231,
+    43.442979,
+    -84.050231,
+    43.442979
+],
+  "geometry": {"coordinates":[-84.050231,43.442979],"type":"Point"}
+}

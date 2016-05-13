@@ -1,0 +1,71 @@
+{
+  "id": 706701369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.884102,42.605999,-82.884102,42.605999",
+    "geom:latitude":42.605999,
+    "geom:longitude":-82.884102,
+    "iso:country":"US",
+    "sg:address":"123 Madison Ave",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 469 3241",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n5T9wCBebU7aw78OkgY1F_42.605999_-82.884102@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810134,
+    "wof:geomhash":"21e6f2bec17dda71f18010aa98d56f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706701369
+        }
+    ],
+    "wof:id":706701369,
+    "wof:lastmodified":1461810134,
+    "wof:name":"Demaster Electric Co",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -82.884102,
+    42.605999,
+    -82.884102,
+    42.605999
+],
+  "geometry": {"coordinates":[-82.884102,42.605999],"type":"Point"}
+}

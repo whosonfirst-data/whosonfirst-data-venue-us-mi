@@ -1,0 +1,72 @@
+{
+  "id": 706678499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.627896,42.246099,-83.627896,42.246099",
+    "geom:latitude":42.246099,
+    "geom:longitude":-83.627896,
+    "iso:country":"US",
+    "sg:address":"953 Washtenaw Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/40621-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 5555",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11LJWtVQZU3tjHV677ggY0_42.246099_-83.627896@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809227,
+    "wof:geomhash":"5a1a5e827899281b4df711c83420491f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678499
+        }
+    ],
+    "wof:id":706678499,
+    "wof:lastmodified":1461809227,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.627896,
+    42.246099,
+    -83.627896,
+    42.246099
+],
+  "geometry": {"coordinates":[-83.62789600000001,42.246099],"type":"Point"}
+}

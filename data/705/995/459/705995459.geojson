@@ -1,0 +1,69 @@
+{
+  "id": 705995459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.444987,42.233881,-83.444987,42.233881",
+    "geom:latitude":42.233881,
+    "geom:longitude":-83.444987,
+    "iso:country":"US",
+    "sg:address":"9555 Haggerty Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 6009",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LqtX2cxE9tA1mKzOMdXx6_42.233881_-83.444987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793471,
+    "wof:geomhash":"c56c5da17d35529c58e6ec69f7660928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":705995459
+        }
+    ],
+    "wof:id":705995459,
+    "wof:lastmodified":1461793471,
+    "wof:name":"Sheriffs Dept",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.444987,
+    42.233881,
+    -83.444987,
+    42.233881
+],
+  "geometry": {"coordinates":[-83.444987,42.233881],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689648669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.121626,42.772173,-86.121626,42.772173",
+    "geom:latitude":42.772173,
+    "geom:longitude":-86.121626,
+    "iso:country":"US",
+    "sg:address":"321 W 28th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 8313",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EEqyb9kW9rxqllocEkvfu_42.772173_-86.121626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777835,
+    "wof:geomhash":"8b6b8df735d65bd002bd8a3b0a00db5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689648669
+        }
+    ],
+    "wof:id":689648669,
+    "wof:lastmodified":1461777835,
+    "wof:name":"Borgmans Appliance Service",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -86.121626,
+    42.772173,
+    -86.121626,
+    42.772173
+],
+  "geometry": {"coordinates":[-86.12162600000001,42.772173],"type":"Point"}
+}

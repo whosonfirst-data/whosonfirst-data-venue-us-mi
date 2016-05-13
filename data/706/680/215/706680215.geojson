@@ -1,0 +1,72 @@
+{
+  "id": 706680215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.360842,42.545384,-83.360842,42.545384",
+    "geom:latitude":42.545384,
+    "geom:longitude":-83.360842,
+    "iso:country":"US",
+    "sg:address":"6239 Orchard Lake Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/west-bloomfield/252902-mene-sushi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 538 7080",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sushi",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zhOPcdzmERtswVWCLCUBx_42.545384_-83.360842@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809287,
+    "wof:geomhash":"d51b37982aa0dd6786ecd671188f1294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706680215
+        }
+    ],
+    "wof:id":706680215,
+    "wof:lastmodified":1461809287,
+    "wof:name":"Me'ne Sushi",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "asian"
+    ]
+},
+  "bbox": [
+    -83.360842,
+    42.545384,
+    -83.360842,
+    42.545384
+],
+  "geometry": {"coordinates":[-83.36084200000001,42.545384],"type":"Point"}
+}

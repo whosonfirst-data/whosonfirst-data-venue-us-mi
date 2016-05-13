@@ -1,0 +1,69 @@
+{
+  "id": 689886419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637052,42.673333,-85.637052,42.673333",
+    "geom:latitude":42.673333,
+    "geom:longitude":-85.637052,
+    "iso:country":"US",
+    "sg:address":"201 Hickory Ct",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 6477",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pXuNLmcNcYFEFPwuk4TYV_42.673333_-85.637052@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784211,
+    "wof:geomhash":"ab6e7c9b3a21059095f1052efc7f4f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689886419
+        }
+    ],
+    "wof:id":689886419,
+    "wof:lastmodified":1461784211,
+    "wof:name":"Westbury Apartments",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.637052,
+    42.673333,
+    -85.637052,
+    42.673333
+],
+  "geometry": {"coordinates":[-85.637052,42.673333],"type":"Point"}
+}

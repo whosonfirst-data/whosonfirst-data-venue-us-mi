@@ -1,0 +1,78 @@
+{
+  "id": 706678003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.466946,42.359053,-83.466946,42.359053",
+    "geom:latitude":42.359053,
+    "geom:longitude":-83.466946,
+    "iso:country":"US",
+    "sg:address":"640 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plymouth/149666-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 414 9889",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14FsVGK5nrsd6oWeisgAtk_42.359053_-83.466946@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809208,
+    "wof:geomhash":"fcef1a78d773dfec3bb9939d75293c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706678003
+        }
+    ],
+    "wof:id":706678003,
+    "wof:lastmodified":1461809208,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -83.466946,
+    42.359053,
+    -83.466946,
+    42.359053
+],
+  "geometry": {"coordinates":[-83.46694599999999,42.359053],"type":"Point"}
+}

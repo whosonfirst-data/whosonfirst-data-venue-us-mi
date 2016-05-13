@@ -1,0 +1,71 @@
+{
+  "id": 705715161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626036,42.884781,-85.626036,42.884781",
+    "geom:latitude":42.884781,
+    "geom:longitude":-85.626036,
+    "iso:country":"US",
+    "sg:address":"4301 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 9999",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41K7KSimCixfaOoKG15rXi_42.884781_-85.626036@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787042,
+    "wof:geomhash":"033290487916456f2154db9a54ad4fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705715161
+        }
+    ],
+    "wof:id":705715161,
+    "wof:lastmodified":1461787042,
+    "wof:name":"China Kitchen",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.626036,
+    42.884781,
+    -85.626036,
+    42.884781
+],
+  "geometry": {"coordinates":[-85.626036,42.884781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706241265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.101213,43.41325,-84.101213,43.41325",
+    "geom:latitude":43.41325,
+    "geom:longitude":-84.101213,
+    "iso:country":"US",
+    "sg:address":"901 Leddy Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 2342",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TMB5gcrL5nYY3JzKY3Lpr_43.413250_-84.101213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798980,
+    "wof:geomhash":"fa80cd925a3bdbeac3ba07add0893ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706241265
+        }
+    ],
+    "wof:id":706241265,
+    "wof:lastmodified":1461798980,
+    "wof:name":"Leddy Electric",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.101213,
+    43.41325,
+    -84.101213,
+    43.41325
+],
+  "geometry": {"coordinates":[-84.101213,43.41325],"type":"Point"}
+}

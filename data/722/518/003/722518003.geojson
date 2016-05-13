@@ -1,0 +1,83 @@
+{
+  "id": 722518003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.262107,42.621124,-83.262107,42.621124",
+    "geom:latitude":42.621124,
+    "geom:longitude":-83.262107,
+    "iso:country":"US",
+    "sg:address":"537 Bradford St",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 338 6983",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ],
+    "sg:website":"http://www.centraltransportinternational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JtuSflL5qScDP5PWmpXoO_42.621124_-83.262107@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813825,
+    "wof:geomhash":"81d29f3006bcec9f2ce8054aa4b3adf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":722518003
+        }
+    ],
+    "wof:id":722518003,
+    "wof:lastmodified":1461813825,
+    "wof:name":"Central Transport International, Inc",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -83.262107,
+    42.621124,
+    -83.262107,
+    42.621124
+],
+  "geometry": {"coordinates":[-83.262107,42.621124],"type":"Point"}
+}

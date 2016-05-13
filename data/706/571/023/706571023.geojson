@@ -1,0 +1,71 @@
+{
+  "id": 706571023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.623043,42.872133,-85.623043,42.872133",
+    "geom:latitude":42.872133,
+    "geom:longitude":-85.623043,
+    "iso:country":"US",
+    "sg:address":"1617 Sunny Creek St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 4330",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XG0LKWHZx0Saxuvwho53m_42.872133_-85.623043@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806080,
+    "wof:geomhash":"61f00f991c5016af18e62ad96fc22a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706571023
+        }
+    ],
+    "wof:id":706571023,
+    "wof:lastmodified":1461806080,
+    "wof:name":"Ferris Builders",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.623043,
+    42.872133,
+    -85.623043,
+    42.872133
+],
+  "geometry": {"coordinates":[-85.623043,42.872133],"type":"Point"}
+}

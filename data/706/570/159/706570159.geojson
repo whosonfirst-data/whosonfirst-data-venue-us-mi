@@ -1,0 +1,86 @@
+{
+  "id": 706570159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637597,42.950926,-85.637597,42.950926",
+    "geom:latitude":42.950926,
+    "geom:longitude":-85.637597,
+    "iso:country":"US",
+    "sg:address":"1232 Dunham St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 248 3798",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GfgR1cEFxBUhHw6ebDyZX_42.950926_-85.637597@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806061,
+    "wof:geomhash":"1b49e7d58201b817a809f293b7b9f9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706570159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":706570159
+        }
+    ],
+    "wof:id":706570159,
+    "wof:lastmodified":1461806061,
+    "wof:name":"Lauretta House Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.637597,
+    42.950926,
+    -85.637597,
+    42.950926
+],
+  "geometry": {"coordinates":[-85.637597,42.950926],"type":"Point"}
+}

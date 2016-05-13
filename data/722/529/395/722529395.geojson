@@ -1,0 +1,78 @@
+{
+  "id": 722529395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.17538,42.70932,-86.17538,42.70932",
+    "geom:latitude":42.70932,
+    "geom:longitude":-86.17538,
+    "iso:country":"US",
+    "sg:address":"3983 64th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 886 8775",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JElrWnnXRkip8etU5z4DP_42.709320_-86.175380@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814385,
+    "wof:geomhash":"ad7d1cd88699200394c2c1f32277485d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":722529395
+        }
+    ],
+    "wof:id":722529395,
+    "wof:lastmodified":1461814385,
+    "wof:name":"Gannon's Grooming",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -86.17538,
+    42.70932,
+    -86.17538,
+    42.70932
+],
+  "geometry": {"coordinates":[-86.17538,42.70932],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 722525579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544638,42.741367,-84.544638,42.741367",
+    "geom:latitude":42.741367,
+    "geom:longitude":-84.544638,
+    "iso:country":"US",
+    "sg:address":"721 N Larch St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 487 3646",
+    "sg:postcode":"48906",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "veterinarian",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524305,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQmevGKr4Spfi7K7lFHbY_42.741367_-84.544638@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814237,
+    "wof:geomhash":"29eee7d22daf22e860e2c74ebb4c926f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":420524305,
+            "region_id":85688599,
+            "venue_id":722525579
+        }
+    ],
+    "wof:id":722525579,
+    "wof:lastmodified":1461814237,
+    "wof:name":"Riverfront Animal Hospital",
+    "wof:parent_id":420524305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "veterinarian",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.544638,
+    42.741367,
+    -84.544638,
+    42.741367
+],
+  "geometry": {"coordinates":[-84.54463800000001,42.741367],"type":"Point"}
+}

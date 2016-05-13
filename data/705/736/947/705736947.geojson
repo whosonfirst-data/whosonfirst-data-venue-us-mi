@@ -1,0 +1,71 @@
+{
+  "id": 705736947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270191,43.219887,-86.270191,43.219887",
+    "geom:latitude":43.219887,
+    "geom:longitude":-86.270191,
+    "iso:country":"US",
+    "sg:address":"1087 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7021",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6coCjCXOEJYkX5uc7cjeU0_43.219887_-86.270191@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787568,
+    "wof:geomhash":"baa967968c4f643d0349d8a5fa98e94f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705736947
+        }
+    ],
+    "wof:id":705736947,
+    "wof:lastmodified":1461787568,
+    "wof:name":"Laketon Auto Clinic",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.270191,
+    43.219887,
+    -86.270191,
+    43.219887
+],
+  "geometry": {"coordinates":[-86.270191,43.219887],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 689593901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.215699,43.066102,-86.215699,43.066102",
+    "geom:latitude":43.066102,
+    "geom:longitude":-86.215699,
+    "iso:country":"US",
+    "sg:address":"440 N Ferry St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 2720",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.grandhaven.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75NnIYOFBth7D6Ad5PpaYM_43.066102_-86.215699@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776018,
+    "wof:geomhash":"8f97b9a5f069df71b6aadf7df7d1d89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689593901
+        }
+    ],
+    "wof:id":689593901,
+    "wof:lastmodified":1461776018,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.215699,
+    43.066102,
+    -86.215699,
+    43.066102
+],
+  "geometry": {"coordinates":[-86.215699,43.066102],"type":"Point"}
+}

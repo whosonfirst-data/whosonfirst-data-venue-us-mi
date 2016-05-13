@@ -1,0 +1,72 @@
+{
+  "id": 706684575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.514171,42.043925,-86.514171,42.043925",
+    "geom:latitude":42.043925,
+    "geom:longitude":-86.514171,
+    "iso:country":"US",
+    "sg:address":"4068 Red Arrow Hwy",
+    "sg:city":"Saint Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/lincoln/84450-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 428 7272",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z83yO7S1EN8Rcf0kh1oW0_42.043925_-86.514171@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809469,
+    "wof:geomhash":"ca5614b811f83041f5a45fde583348ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":706684575
+        }
+    ],
+    "wof:id":706684575,
+    "wof:lastmodified":1461809469,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.514171,
+    42.043925,
+    -86.514171,
+    42.043925
+],
+  "geometry": {"coordinates":[-86.514171,42.043925],"type":"Point"}
+}

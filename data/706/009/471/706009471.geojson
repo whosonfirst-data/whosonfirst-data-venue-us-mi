@@ -1,0 +1,71 @@
+{
+  "id": 706009471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.549157,42.263179,-85.549157,42.263179",
+    "geom:latitude":42.263179,
+    "geom:longitude":-85.549157,
+    "iso:country":"US",
+    "sg:address":"2830 Cambridge Ter",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 1059",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xeCAbEZXcddasqVFUIBYd_42.263179_-85.549157@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793781,
+    "wof:geomhash":"aa642c5e674fa392460c88cbbc4dff65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706009471
+        }
+    ],
+    "wof:id":706009471,
+    "wof:lastmodified":1461793781,
+    "wof:name":"Luke's Truck Svc Inc",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.549157,
+    42.263179,
+    -85.549157,
+    42.263179
+],
+  "geometry": {"coordinates":[-85.54915699999999,42.263179],"type":"Point"}
+}

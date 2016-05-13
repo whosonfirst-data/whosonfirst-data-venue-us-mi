@@ -1,0 +1,73 @@
+{
+  "id": 706457507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.204094,43.238423,-86.204094,43.238423",
+    "geom:latitude":43.238423,
+    "geom:longitude":-86.204094,
+    "iso:country":"US",
+    "sg:address":"570 Harvey St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9121",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51pLY6LwUk3x0xd2cvgjnE_43.238423_-86.204094@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803597,
+    "wof:geomhash":"c000d6eae7e91e41d80c6cf07ef674db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706457507
+        }
+    ],
+    "wof:id":706457507,
+    "wof:lastmodified":1461803597,
+    "wof:name":"University Park",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.204094,
+    43.238423,
+    -86.204094,
+    43.238423
+],
+  "geometry": {"coordinates":[-86.204094,43.238423],"type":"Point"}
+}

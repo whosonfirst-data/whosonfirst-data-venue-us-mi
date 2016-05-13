@@ -1,0 +1,87 @@
+{
+  "id": 706722207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.168701,42.586601,-83.168701,42.586601",
+    "geom:latitude":42.586601,
+    "geom:longitude":-83.168701,
+    "iso:country":"US",
+    "sg:address":"4533 Crooks Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 952 1920",
+    "sg:postcode":"48098",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896575,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vZfVLwAGhqpxnCXNzQ9Wx_42.586601_-83.168701@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461811073,
+    "wof:geomhash":"6eea59f2bb9414c0f710082cc11fa70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896575,
+            "region_id":85688599,
+            "venue_id":706722207
+        }
+    ],
+    "wof:id":706722207,
+    "wof:lastmodified":1461811073,
+    "wof:name":"Rainbow Child Development Center",
+    "wof:parent_id":85896575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.168701,
+    42.586601,
+    -83.168701,
+    42.586601
+],
+  "geometry": {"coordinates":[-83.168701,42.586601],"type":"Point"}
+}

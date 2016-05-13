@@ -1,0 +1,71 @@
+{
+  "id": 689622277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.396151,42.632542,-83.396151,42.632542",
+    "geom:latitude":42.632542,
+    "geom:longitude":-83.396151,
+    "iso:country":"US",
+    "sg:address":"5495 Lake Vista Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 8838",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820385,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PxLBayuHxdz1yJCKQ3TfC_42.632542_-83.396151@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776961,
+    "wof:geomhash":"6a43a8b12430fa5e16ad863616365ad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85820385,
+            "region_id":85688599,
+            "venue_id":689622277
+        }
+    ],
+    "wof:id":689622277,
+    "wof:lastmodified":1461776961,
+    "wof:name":"Royal Dental Lab",
+    "wof:parent_id":85820385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.396151,
+    42.632542,
+    -83.396151,
+    42.632542
+],
+  "geometry": {"coordinates":[-83.396151,42.632542],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706186113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.871942,42.604506,-82.871942,42.604506",
+    "geom:latitude":42.604506,
+    "geom:longitude":-82.871942,
+    "iso:country":"US",
+    "sg:address":"133 Clemens St",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 465 1326",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_140KwfMqdFvweXlURUKGr9_42.604506_-82.871942@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797773,
+    "wof:geomhash":"79ffc9e24161a343969a22b07c6ecd14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706186113
+        }
+    ],
+    "wof:id":706186113,
+    "wof:lastmodified":1461797773,
+    "wof:name":"Internal Medicine Assoc",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.871942,
+    42.604506,
+    -82.871942,
+    42.604506
+],
+  "geometry": {"coordinates":[-82.871942,42.604506],"type":"Point"}
+}

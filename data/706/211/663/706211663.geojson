@@ -1,0 +1,71 @@
+{
+  "id": 706211663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.820529,42.570893,-82.820529,42.570893",
+    "geom:latitude":42.570893,
+    "geom:longitude":-82.820529,
+    "iso:country":"US",
+    "sg:address":"37800 Siesta St",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 2878",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o4Lisj0tIbm4uhTuLa12D_42.570893_-82.820529@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798316,
+    "wof:geomhash":"c84ccb26d42c85d67aeb5dd9a8e06b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706211663
+        }
+    ],
+    "wof:id":706211663,
+    "wof:lastmodified":1461798316,
+    "wof:name":"BMB Plumbing",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.820529,
+    42.570893,
+    -82.820529,
+    42.570893
+],
+  "geometry": {"coordinates":[-82.82052899999999,42.570893],"type":"Point"}
+}

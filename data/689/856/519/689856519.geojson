@@ -1,0 +1,86 @@
+{
+  "id": 689856519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261908,42.418055,-83.261908,42.418055",
+    "geom:latitude":42.418055,
+    "geom:longitude":-83.261908,
+    "iso:country":"US",
+    "sg:address":"22345 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 543 9250",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Db7J66RWzAGW7o59tsDiV_42.418055_-83.261908@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783454,
+    "wof:geomhash":"7401165410715b77a4bb0eea5d19755d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":689856519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":689856519
+        }
+    ],
+    "wof:id":689856519,
+    "wof:lastmodified":1461783454,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.261908,
+    42.418055,
+    -83.261908,
+    42.418055
+],
+  "geometry": {"coordinates":[-83.26190800000001,42.418055],"type":"Point"}
+}

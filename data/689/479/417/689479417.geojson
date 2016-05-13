@@ -1,0 +1,75 @@
+{
+  "id": 689479417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535552,42.683865,-84.535552,42.683865",
+    "geom:latitude":42.683865,
+    "geom:longitude":-84.535552,
+    "iso:country":"US",
+    "sg:address":"4808 Devonshire Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 3097",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W5kuKLgMAb1f6a4ZvTEAh_42.683865_-84.535552@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772502,
+    "wof:geomhash":"15b53546db9578f495650c9a4a511582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689479417
+        }
+    ],
+    "wof:id":689479417,
+    "wof:lastmodified":1461772502,
+    "wof:name":"Dons Delivery Svc LLC",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.535552,
+    42.683865,
+    -84.535552,
+    42.683865
+],
+  "geometry": {"coordinates":[-84.535552,42.683865],"type":"Point"}
+}

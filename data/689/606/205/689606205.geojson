@@ -1,0 +1,71 @@
+{
+  "id": 689606205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.404326,42.268166,-84.404326,42.268166",
+    "geom:latitude":42.268166,
+    "geom:longitude":-84.404326,
+    "iso:country":"US",
+    "sg:address":"112 W Porter St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 1866",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uBfh3Fr5Mz5II8gf3jqG0_42.268166_-84.404326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776447,
+    "wof:geomhash":"4cc0e11c461ee55432e2715e6e8cd6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689606205
+        }
+    ],
+    "wof:id":689606205,
+    "wof:lastmodified":1461776447,
+    "wof:name":"Craft Electric",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.404326,
+    42.268166,
+    -84.404326,
+    42.268166
+],
+  "geometry": {"coordinates":[-84.404326,42.268166],"type":"Point"}
+}

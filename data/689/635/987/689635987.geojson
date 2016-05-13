@@ -1,0 +1,69 @@
+{
+  "id": 689635987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.403942,42.260561,-84.403942,42.260561",
+    "geom:latitude":42.260561,
+    "geom:longitude":-84.403942,
+    "iso:country":"US",
+    "sg:address":"1002 Cooper St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 9237",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oPVFbPTMveqoXaB9f2c3K_42.260561_-84.403942@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777320,
+    "wof:geomhash":"1c1309b444a32143a9269f9bd5854b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689635987
+        }
+    ],
+    "wof:id":689635987,
+    "wof:lastmodified":1461777320,
+    "wof:name":"Brock's Auto Brake Ctr",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -84.403942,
+    42.260561,
+    -84.403942,
+    42.260561
+],
+  "geometry": {"coordinates":[-84.403942,42.260561],"type":"Point"}
+}

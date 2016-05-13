@@ -1,0 +1,71 @@
+{
+  "id": 705761805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617832,44.73315,-85.617832,44.73315",
+    "geom:latitude":44.73315,
+    "geom:longitude":-85.617832,
+    "iso:country":"US",
+    "sg:address":"2070 S Airport Rd W",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 2102",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_333GLQolI1F85AtNfmqTo7_44.733150_-85.617832@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788124,
+    "wof:geomhash":"0820653edb4a47c4c5caf9a3205033db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705761805
+        }
+    ],
+    "wof:id":705761805,
+    "wof:lastmodified":1461788124,
+    "wof:name":"Family String Band Studio",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -85.617832,
+    44.73315,
+    -85.617832,
+    44.73315
+],
+  "geometry": {"coordinates":[-85.61783200000001,44.73315],"type":"Point"}
+}

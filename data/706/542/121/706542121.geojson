@@ -1,0 +1,77 @@
+{
+  "id": 706542121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.349841,42.549144,-83.349841,42.549144",
+    "geom:latitude":42.549144,
+    "geom:longitude":-83.349841,
+    "iso:country":"US",
+    "sg:address":"6066 Brook Ln",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 626 8058",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhCKnBkftjezmtdbO0e0C_42.549144_-83.349841@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805502,
+    "wof:geomhash":"a3294851b25b61498f4cfea469691d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706542121
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706542121
+        }
+    ],
+    "wof:id":706542121,
+    "wof:lastmodified":1461805502,
+    "wof:name":"Martin H Daitch MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.349841,
+    42.549144,
+    -83.349841,
+    42.549144
+],
+  "geometry": {"coordinates":[-83.349841,42.549144],"type":"Point"}
+}

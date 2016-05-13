@@ -1,0 +1,93 @@
+{
+  "id": 706679339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.201671,42.47493,-83.201671,42.47493",
+    "geom:latitude":42.47493,
+    "geom:longitude":-83.201671,
+    "iso:country":"US",
+    "sg:address":"25170 Greenfield Rd",
+    "sg:city":"Oak Park",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oak-park/133218-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 967 6288",
+    "sg:postcode":"48237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896735,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76WDVRniJeaHFkTP7zQenQ_42.474930_-83.201671@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809257,
+    "wof:geomhash":"4f5130e3562bbebef752533d98fb3cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":85896735,
+            "region_id":85688599,
+            "venue_id":706679339
+        }
+    ],
+    "wof:id":706679339,
+    "wof:lastmodified":1461809257,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85896735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.201671,
+    42.47493,
+    -83.201671,
+    42.47493
+],
+  "geometry": {"coordinates":[-83.201671,42.47493],"type":"Point"}
+}

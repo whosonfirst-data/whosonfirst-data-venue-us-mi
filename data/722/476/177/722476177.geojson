@@ -1,0 +1,87 @@
+{
+  "id": 722476177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.213137,42.155461,-83.213137,42.155461",
+    "geom:latitude":42.155461,
+    "geom:longitude":-83.213137,
+    "iso:country":"US",
+    "sg:address":"15918 King Rd",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 479 5448",
+    "sg:postcode":"48193",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896777,
+        102191575,
+        404508653,
+        85633793,
+        85951127,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fs51nHTgoPwbXfO8Dbm4M_42.155461_-83.213137@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812124,
+    "wof:geomhash":"7e3ed221b115feb102587e4527bfa424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508653,
+            "locality_id":85951127,
+            "neighbourhood_id":85896777,
+            "region_id":85688599,
+            "venue_id":722476177
+        }
+    ],
+    "wof:id":722476177,
+    "wof:lastmodified":1461812124,
+    "wof:name":"Riverside Child Care & Learning Center",
+    "wof:parent_id":85896777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.213137,
+    42.155461,
+    -83.213137,
+    42.155461
+],
+  "geometry": {"coordinates":[-83.213137,42.155461],"type":"Point"}
+}

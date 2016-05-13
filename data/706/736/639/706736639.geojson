@@ -1,0 +1,71 @@
+{
+  "id": 706736639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.459,42.3591,-83.459,42.3591",
+    "geom:latitude":42.3591,
+    "geom:longitude":-83.459,
+    "iso:country":"US",
+    "sg:address":"42300 Ann Arbor Rd E",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 1951",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rsnw67qDxhmLDPV31WL1A_42.359100_-83.459000@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811682,
+    "wof:geomhash":"d0f5ef5408564f793d98ef9336c0e664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736639
+        }
+    ],
+    "wof:id":706736639,
+    "wof:lastmodified":1461811682,
+    "wof:name":"Ideal Autobody Inc",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.459,
+    42.3591,
+    -83.459,
+    42.3591
+],
+  "geometry": {"coordinates":[-83.459,42.3591],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705995525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.806078,43.380395,-85.806078,43.380395",
+    "geom:latitude":43.380395,
+    "geom:longitude":-85.806078,
+    "iso:country":"US",
+    "sg:address":"21 W 96th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 2908",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SYqDqEbX79Zb638asXezd_43.380395_-85.806078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793473,
+    "wof:geomhash":"da0000dfcbfbe410e34ecb702d07f653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705995525
+        }
+    ],
+    "wof:id":705995525,
+    "wof:lastmodified":1461793473,
+    "wof:name":"Southside Electric Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.806078,
+    43.380395,
+    -85.806078,
+    43.380395
+],
+  "geometry": {"coordinates":[-85.806078,43.380395],"type":"Point"}
+}

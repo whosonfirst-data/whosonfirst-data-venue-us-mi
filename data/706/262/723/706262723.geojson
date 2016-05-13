@@ -1,0 +1,73 @@
+{
+  "id": 706262723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.610341,41.800573,-86.610341,41.800573",
+    "geom:latitude":41.800573,
+    "geom:longitude":-86.610341,
+    "iso:country":"US",
+    "sg:address":"15 S Elm St",
+    "sg:city":"Three Oaks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 756 6921",
+    "sg:postcode":"49128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kO0ZFdv9Zyx4vUY4w1745_41.800573_-86.610341@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799462,
+    "wof:geomhash":"d3f9ad9be82552dfa12e9fd8f64e94cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706262723
+        }
+    ],
+    "wof:id":706262723,
+    "wof:lastmodified":1461799462,
+    "wof:name":"Village Doctor",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.610341,
+    41.800573,
+    -86.610341,
+    41.800573
+],
+  "geometry": {"coordinates":[-86.61034100000001,41.800573],"type":"Point"}
+}

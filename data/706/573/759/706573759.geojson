@@ -1,0 +1,71 @@
+{
+  "id": 706573759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.626656,42.773039,-84.626656,42.773039",
+    "geom:latitude":42.773039,
+    "geom:longitude":-84.626656,
+    "iso:country":"US",
+    "sg:address":"16825 Industrial Pkwy",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 886 2255",
+    "sg:postcode":"48906",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814285,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5az8B7SO8PEDrx7EmWz0Qd_42.773039_-84.626656@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806148,
+    "wof:geomhash":"e13e34a8e9bfb192e01441e5c5951018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85814285,
+            "region_id":85688599,
+            "venue_id":706573759
+        }
+    ],
+    "wof:id":706573759,
+    "wof:lastmodified":1461806148,
+    "wof:name":"Myers Plumbing & Heating Inc",
+    "wof:parent_id":85814285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.626656,
+    42.773039,
+    -84.626656,
+    42.773039
+],
+  "geometry": {"coordinates":[-84.626656,42.773039],"type":"Point"}
+}

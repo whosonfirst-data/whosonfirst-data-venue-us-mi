@@ -1,0 +1,91 @@
+{
+  "id": 705899215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634461,42.961007,-85.634461,42.961007",
+    "geom:latitude":42.961007,
+    "geom:longitude":-85.634461,
+    "iso:country":"US",
+    "sg:address":"1449 Wilcox Park Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 459 4662",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "sg:website":"www.sthomasapostle.catholicweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877885,
+        404507947,
+        85951337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vKdHulz6URT8Vg05DnK4N_42.961007_-85.634461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791393,
+    "wof:geomhash":"7592aa945f8290e33c09996fb4c8e47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":705899215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877885,
+            "region_id":85688599,
+            "venue_id":705899215
+        }
+    ],
+    "wof:id":705899215,
+    "wof:lastmodified":1461791393,
+    "wof:name":"St Thomas Parish",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [
+    -85.634461,
+    42.961007,
+    -85.634461,
+    42.961007
+],
+  "geometry": {"coordinates":[-85.634461,42.961007],"type":"Point"}
+}

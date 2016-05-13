@@ -1,0 +1,95 @@
+{
+  "id": 706664153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.077079,42.368952,-83.077079,42.368952",
+    "geom:latitude":42.368952,
+    "geom:longitude":-83.077079,
+    "iso:country":"US",
+    "sg:address":"3011 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 872 1000",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "landmark",
+        "building",
+        "historical",
+        "business"
+    ],
+    "sg:website":"www.nps.gov/history/nR/travel/de...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870609,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yLeGxqBqQA6eckXP1kR8f_42.369237_-83.076533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808628,
+    "wof:geomhash":"5b85889e6bd476881b4bff850d83b528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706664153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":706664153
+        }
+    ],
+    "wof:id":706664153,
+    "wof:lastmodified":1461808628,
+    "wof:name":"Fisher Building",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landmark",
+        "building",
+        "historical",
+        "business"
+    ]
+},
+  "bbox": [
+    -83.077079,
+    42.368952,
+    -83.077079,
+    42.368952
+],
+  "geometry": {"coordinates":[-83.077079,42.368952],"type":"Point"}
+}

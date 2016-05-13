@@ -1,0 +1,77 @@
+{
+  "id": 706680435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.349611,42.639453,-83.349611,42.639453",
+    "geom:latitude":42.639453,
+    "geom:longitude":-83.349611,
+    "iso:country":"US",
+    "sg:address":"3205 Elizabeth Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/185926-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851725,
+        102191575,
+        404508331,
+        85633793,
+        85952051,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OoRJyTjvuiW7ZohCfCUTh_42.639453_-83.349611@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809296,
+    "wof:geomhash":"7c4eaa07ab3c56174122645f07e92a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":706680435
+        }
+    ],
+    "wof:id":706680435,
+    "wof:lastmodified":1461809296,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.349611,
+    42.639453,
+    -83.349611,
+    42.639453
+],
+  "geometry": {"coordinates":[-83.349611,42.639453],"type":"Point"}
+}

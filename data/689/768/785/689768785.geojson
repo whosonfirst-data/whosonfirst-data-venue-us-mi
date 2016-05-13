@@ -1,0 +1,76 @@
+{
+  "id": 689768785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.559249,42.208421,-84.559249,42.208421",
+    "geom:latitude":42.208421,
+    "geom:longitude":-84.559249,
+    "iso:country":"US",
+    "sg:address":"151 2nd St",
+    "sg:city":"Spring Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 1900",
+    "sg:postcode":"49283",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7euXKMwFbz9qBoPbhofJ0v_42.208421_-84.559249@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780990,
+    "wof:geomhash":"c55feb682fe8b8cab9c33b9c741f663f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689768785
+        }
+    ],
+    "wof:id":689768785,
+    "wof:lastmodified":1461780990,
+    "wof:name":"Arbor Manor Care Center",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled"
+    ]
+},
+  "bbox": [
+    -84.559249,
+    42.208421,
+    -84.559249,
+    42.208421
+],
+  "geometry": {"coordinates":[-84.55924899999999,42.208421],"type":"Point"}
+}

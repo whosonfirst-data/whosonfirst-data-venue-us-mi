@@ -1,0 +1,79 @@
+{
+  "id": 722529651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.066994,43.076986,-86.066994,43.076986",
+    "geom:latitude":43.076986,
+    "geom:longitude":-86.066994,
+    "iso:country":"US",
+    "sg:address":"16980 Main St",
+    "sg:city":"Nunica",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"49448",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7awR1m7xlqFQ5Yy8J6u3tS_43.076986_-86.066994@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814395,
+    "wof:geomhash":"7363b11df148450d390ac7b1a9b12410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":722529651
+        }
+    ],
+    "wof:id":722529651,
+    "wof:lastmodified":1461814395,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -86.066994,
+    43.076986,
+    -86.066994,
+    43.076986
+],
+  "geometry": {"coordinates":[-86.06699399999999,43.076986],"type":"Point"}
+}

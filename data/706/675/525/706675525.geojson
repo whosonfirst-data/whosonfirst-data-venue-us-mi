@@ -1,0 +1,73 @@
+{
+  "id": 706675525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.860562,42.594573,-82.860562,42.594573",
+    "geom:latitude":42.594573,
+    "geom:longitude":-82.860562,
+    "iso:country":"US",
+    "sg:address":"24627 N River Rd",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-clemens/185873-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qjDst0m9ffNt0z4yMyM0n_42.594573_-82.860562@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809098,
+    "wof:geomhash":"bb4311203b691bb6b7708be4ff72880c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706675525
+        }
+    ],
+    "wof:id":706675525,
+    "wof:lastmodified":1461809098,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.860562,
+    42.594573,
+    -82.860562,
+    42.594573
+],
+  "geometry": {"coordinates":[-82.860562,42.594573],"type":"Point"}
+}

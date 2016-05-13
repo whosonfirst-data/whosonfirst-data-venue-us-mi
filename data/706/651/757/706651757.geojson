@@ -1,0 +1,73 @@
+{
+  "id": 706651757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.751207,43.022349,-83.751207,43.022349",
+    "geom:latitude":43.022349,
+    "geom:longitude":-83.751207,
+    "iso:country":"US",
+    "sg:address":"3500 Rue Foret",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 0660",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UTBHRsGZqK4dvpzxMMw0X_43.022349_-83.751207@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808028,
+    "wof:geomhash":"08e0e276a785b91aab001d3c908d465d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706651757
+        }
+    ],
+    "wof:id":706651757,
+    "wof:lastmodified":1461808028,
+    "wof:name":"River Forest Apartments",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.751207,
+    43.022349,
+    -83.751207,
+    43.022349
+],
+  "geometry": {"coordinates":[-83.75120699999999,43.022349],"type":"Point"}
+}

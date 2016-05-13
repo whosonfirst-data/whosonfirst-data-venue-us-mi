@@ -1,0 +1,71 @@
+{
+  "id": 689914645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436347,43.940969,-86.436347,43.940969",
+    "geom:latitude":43.940969,
+    "geom:longitude":-86.436347,
+    "iso:country":"US",
+    "sg:address":"1500 S Madison St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 7621",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4agtzsFPVfhupKjK6RHOjA_43.940969_-86.436347@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784977,
+    "wof:geomhash":"b0e89bed39b2ed9051dfdefe6e477c82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":689914645
+        }
+    ],
+    "wof:id":689914645,
+    "wof:lastmodified":1461784977,
+    "wof:name":"Lake Painting Inc",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.436347,
+    43.940969,
+    -86.436347,
+    43.940969
+],
+  "geometry": {"coordinates":[-86.436347,43.940969],"type":"Point"}
+}

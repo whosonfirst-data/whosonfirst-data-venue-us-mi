@@ -1,0 +1,74 @@
+{
+  "id": 706685989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.345944,43.409668,-86.345944,43.409668",
+    "geom:latitude":43.409668,
+    "geom:longitude":-86.345944,
+    "iso:country":"US",
+    "sg:address":"121 E Colby St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/whitehall/145911-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 9396",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IkJAdQa3O4uAkRQlrvw8t_43.409668_-86.345944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809520,
+    "wof:geomhash":"acc3a1f4b2e8a052f2529bb193215e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685989
+        }
+    ],
+    "wof:id":706685989,
+    "wof:lastmodified":1461809520,
+    "wof:name":"Subway",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.345944,
+    43.409668,
+    -86.345944,
+    43.409668
+],
+  "geometry": {"coordinates":[-86.345944,43.409668],"type":"Point"}
+}

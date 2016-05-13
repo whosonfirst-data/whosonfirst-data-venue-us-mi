@@ -1,0 +1,71 @@
+{
+  "id": 706680463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.383387,42.688354,-83.383387,42.688354",
+    "geom:latitude":42.688354,
+    "geom:longitude":-83.383387,
+    "iso:country":"US",
+    "sg:address":"4772 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/186012-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tb62lReeiocG2iO1pfv3L_42.688354_-83.383387@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809296,
+    "wof:geomhash":"1887b854745900a702ec733e29b61f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706680463
+        }
+    ],
+    "wof:id":706680463,
+    "wof:lastmodified":1461809296,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.383387,
+    42.688354,
+    -83.383387,
+    42.688354
+],
+  "geometry": {"coordinates":[-83.383387,42.688354],"type":"Point"}
+}

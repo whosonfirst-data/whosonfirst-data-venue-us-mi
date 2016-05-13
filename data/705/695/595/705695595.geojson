@@ -1,0 +1,75 @@
+{
+  "id": 705695595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.63872,41.735368,-83.63872,41.735368",
+    "geom:latitude":41.735368,
+    "geom:longitude":-83.63872,
+    "iso:country":"US",
+    "sg:address":"6602 Whiteford Center Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 4833",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sPsTU6WedFUVnAYRni49k_41.735368_-83.638720@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786318,
+    "wof:geomhash":"810075c2ff206aca9a4f8ec31a67f199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":705695595
+        }
+    ],
+    "wof:id":705695595,
+    "wof:lastmodified":1461786318,
+    "wof:name":"CB Trucking",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.63872,
+    41.735368,
+    -83.63872,
+    41.735368
+],
+  "geometry": {"coordinates":[-83.63872000000001,41.735368],"type":"Point"}
+}

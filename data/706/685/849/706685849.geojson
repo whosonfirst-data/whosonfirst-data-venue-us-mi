@@ -1,0 +1,74 @@
+{
+  "id": 706685849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.208901,43.234163,-86.208901,43.234163",
+    "geom:latitude":43.234163,
+    "geom:longitude":-86.208901,
+    "iso:country":"US",
+    "sg:address":"1414 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/176366-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 777 3556",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47TRQpY5ZubebdyXbo5G71_43.234163_-86.208901@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809515,
+    "wof:geomhash":"45bf8740904c14f8842a22e87fc2b0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685849
+        }
+    ],
+    "wof:id":706685849,
+    "wof:lastmodified":1461809515,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.208901,
+    43.234163,
+    -86.208901,
+    43.234163
+],
+  "geometry": {"coordinates":[-86.208901,43.234163],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689911657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.343073,42.122753,-86.343073,42.122753",
+    "geom:latitude":42.122753,
+    "geom:longitude":-86.343073,
+    "iso:country":"US",
+    "sg:address":"4763 Territorial Rd",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 944 5911",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852857,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V4yzQCKFKa80NipY6ph8R_42.122753_-86.343073@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784904,
+    "wof:geomhash":"0272e7e263b5328343a4b8070f989320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85852857,
+            "region_id":85688599,
+            "venue_id":689911657
+        }
+    ],
+    "wof:id":689911657,
+    "wof:lastmodified":1461784904,
+    "wof:name":"Jerry's Body Shop",
+    "wof:parent_id":85852857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.343073,
+    42.122753,
+    -86.343073,
+    42.122753
+],
+  "geometry": {"coordinates":[-86.343073,42.122753],"type":"Point"}
+}

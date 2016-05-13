@@ -1,0 +1,73 @@
+{
+  "id": 705753789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.150181,43.212253,-86.150181,43.212253",
+    "geom:latitude":43.212253,
+    "geom:longitude":-86.150181,
+    "iso:country":"US",
+    "sg:address":"2222 Marlette St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 0843",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2guJjMUwFpWmszgl2fKjMv_43.212253_-86.150181@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787942,
+    "wof:geomhash":"c387b25cf5be060f8d7745ef4e8e2d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705753789
+        }
+    ],
+    "wof:id":705753789,
+    "wof:lastmodified":1461787942,
+    "wof:name":"Arlington Estates Mobile",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "park"
+    ]
+},
+  "bbox": [
+    -86.150181,
+    43.212253,
+    -86.150181,
+    43.212253
+],
+  "geometry": {"coordinates":[-86.150181,43.212253],"type":"Point"}
+}

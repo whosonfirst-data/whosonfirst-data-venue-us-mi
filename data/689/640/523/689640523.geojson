@@ -1,0 +1,77 @@
+{
+  "id": 689640523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416776,42.550912,-83.416776,42.550912",
+    "geom:latitude":42.550912,
+    "geom:longitude":-83.416776,
+    "iso:country":"US",
+    "sg:address":"6789 Combray",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 324 1942",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85896633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74i2x05n2f5hGAqzK2RJ23_42.550912_-83.416776@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777458,
+    "wof:geomhash":"b6bb1e55bfc2101a4d917019122be8d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689640523
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896633,
+            "region_id":85688599,
+            "venue_id":689640523
+        }
+    ],
+    "wof:id":689640523,
+    "wof:lastmodified":1461777458,
+    "wof:name":"Aldingbrooke Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.416776,
+    42.550912,
+    -83.416776,
+    42.550912
+],
+  "geometry": {"coordinates":[-83.416776,42.550912],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705790841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.912342,45.786097,-87.912342,45.786097",
+    "geom:latitude":45.786097,
+    "geom:longitude":-87.912342,
+    "iso:country":"US",
+    "sg:address":"501 Stephenson St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 5882",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52kGO1q0cz1zC6THmc6xHE_45.786097_-87.912342@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788817,
+    "wof:geomhash":"366cb52527157fdaa0a760ea5f9835c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705790841
+        }
+    ],
+    "wof:id":705790841,
+    "wof:lastmodified":1461788817,
+    "wof:name":"Peterson's Welding Shop",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -87.912342,
+    45.786097,
+    -87.912342,
+    45.786097
+],
+  "geometry": {"coordinates":[-87.912342,45.786097],"type":"Point"}
+}

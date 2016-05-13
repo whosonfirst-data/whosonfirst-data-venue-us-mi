@@ -1,0 +1,80 @@
+{
+  "id": 706701775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.910096,42.640209,-82.910096,42.640209",
+    "geom:latitude":42.640209,
+    "geom:longitude":-82.910096,
+    "iso:country":"US",
+    "sg:address":"21037 la Roche Dr S",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 465 9271",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hWZLrgUSxfc5Wxs0wS85U_42.640209_-82.910096@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810148,
+    "wof:geomhash":"613169fada66e726278bec7a4a78613a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701775
+        }
+    ],
+    "wof:id":706701775,
+    "wof:lastmodified":1461810148,
+    "wof:name":"Curt's Italian Ice",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -82.910096,
+    42.640209,
+    -82.910096,
+    42.640209
+],
+  "geometry": {"coordinates":[-82.910096,42.640209],"type":"Point"}
+}

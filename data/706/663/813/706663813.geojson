@@ -1,0 +1,71 @@
+{
+  "id": 706663813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.571298,42.319419,-85.571298,42.319419",
+    "geom:latitude":42.319419,
+    "geom:longitude":-85.571298,
+    "iso:country":"US",
+    "sg:address":"214 Link Ln",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 2086",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uFqLayTBRSKeBJ1q05v5s_42.319448_-85.571738@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808615,
+    "wof:geomhash":"2e2acb6d9933ff37c55f61432fe2c8b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706663813
+        }
+    ],
+    "wof:id":706663813,
+    "wof:lastmodified":1461808615,
+    "wof:name":"Renzema's Bakery",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.571298,
+    42.319419,
+    -85.571298,
+    42.319419
+],
+  "geometry": {"coordinates":[-85.571298,42.319419],"type":"Point"}
+}

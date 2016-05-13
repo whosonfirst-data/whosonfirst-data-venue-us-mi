@@ -1,0 +1,73 @@
+{
+  "id": 705853189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.748709,42.688891,-85.748709,42.688891",
+    "geom:latitude":42.688891,
+    "geom:longitude":-85.748709,
+    "iso:country":"US",
+    "sg:address":"2141 137th Ave",
+    "sg:city":"Dorr",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 793 0257",
+    "sg:postcode":"49323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wBUUQp1PKnHQRZIO75Wry_42.688891_-85.748709@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790257,
+    "wof:geomhash":"c96db56a43ab228e44335b12859511b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":705853189
+        }
+    ],
+    "wof:id":705853189,
+    "wof:lastmodified":1461790257,
+    "wof:name":"Herbert Trucking LLC",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.748709,
+    42.688891,
+    -85.748709,
+    42.688891
+],
+  "geometry": {"coordinates":[-85.74870900000001,42.688891],"type":"Point"}
+}

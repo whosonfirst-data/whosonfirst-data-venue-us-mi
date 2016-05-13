@@ -1,0 +1,73 @@
+{
+  "id": 706059865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261543,43.277879,-86.261543,43.277879",
+    "geom:latitude":43.277879,
+    "geom:longitude":-86.261543,
+    "iso:country":"US",
+    "sg:address":"1600 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 4831",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n41xtc3WseGo9Cek8soXB_43.277879_-86.261543@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794809,
+    "wof:geomhash":"f1e3d8a0be08a0889b3df6f83aff6b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706059865
+        }
+    ],
+    "wof:id":706059865,
+    "wof:lastmodified":1461794809,
+    "wof:name":"Van's Car Wash & Quick Lube",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.261543,
+    43.277879,
+    -86.261543,
+    43.277879
+],
+  "geometry": {"coordinates":[-86.261543,43.277879],"type":"Point"}
+}

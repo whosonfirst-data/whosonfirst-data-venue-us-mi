@@ -1,0 +1,73 @@
+{
+  "id": 706485007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.692225,41.828123,-86.692225,41.828123",
+    "geom:latitude":41.828123,
+    "geom:longitude":-86.692225,
+    "iso:country":"US",
+    "sg:address":"16100 Red Arrow Hwy",
+    "sg:city":"Union Pier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 9870",
+    "sg:postcode":"49129",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qepn9IGhtSEF7txW2J9SW_41.828123_-86.692225@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804201,
+    "wof:geomhash":"f87fdf72802a748920d518c44feba0d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706485007
+        }
+    ],
+    "wof:id":706485007,
+    "wof:lastmodified":1461804201,
+    "wof:name":"Mike Schuler's Auto Repair",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.692225,
+    41.828123,
+    -86.692225,
+    41.828123
+],
+  "geometry": {"coordinates":[-86.69222499999999,41.828123],"type":"Point"}
+}

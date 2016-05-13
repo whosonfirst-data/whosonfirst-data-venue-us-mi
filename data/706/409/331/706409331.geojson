@@ -1,0 +1,73 @@
+{
+  "id": 706409331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.59902,43.495829,-85.59902,43.495829",
+    "geom:latitude":43.495829,
+    "geom:longitude":-85.59902,
+    "iso:country":"US",
+    "sg:address":"3406 S Chase Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 856 8943",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dLjY96eaYI4YW6SD8tf4E_43.495829_-85.599020@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802589,
+    "wof:geomhash":"865041d76c6489805f69131b197c04dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706409331
+        }
+    ],
+    "wof:id":706409331,
+    "wof:lastmodified":1461802589,
+    "wof:name":"Jeans Rentals",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -85.59902,
+    43.495829,
+    -85.59902,
+    43.495829
+],
+  "geometry": {"coordinates":[-85.59902,43.495829],"type":"Point"}
+}

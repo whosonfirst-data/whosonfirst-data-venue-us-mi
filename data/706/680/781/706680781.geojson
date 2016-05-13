@@ -1,0 +1,72 @@
+{
+  "id": 706680781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.236473,42.786992,-83.236473,42.786992",
+    "geom:latitude":42.786992,
+    "geom:longitude":-83.236473,
+    "iso:country":"US",
+    "sg:address":"280 N Washington St",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/orion/185898-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 628 2780",
+    "sg:postcode":"48362",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gTZePmD2WoSLcnEFU9S39_42.786992_-83.236473@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809315,
+    "wof:geomhash":"f7f43547be3e40c69b92dc80694b7453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":706680781
+        }
+    ],
+    "wof:id":706680781,
+    "wof:lastmodified":1461809315,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.236473,
+    42.786992,
+    -83.236473,
+    42.786992
+],
+  "geometry": {"coordinates":[-83.236473,42.786992],"type":"Point"}
+}

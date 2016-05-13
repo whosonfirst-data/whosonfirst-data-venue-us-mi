@@ -1,0 +1,75 @@
+{
+  "id": 706578259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247079,43.29585,-86.247079,43.29585",
+    "geom:latitude":43.29585,
+    "geom:longitude":-86.247079,
+    "iso:country":"US",
+    "sg:address":"265 W River Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 766 3370",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FOlO8IFY4A3giDpep9RcG_43.295850_-86.247079@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806270,
+    "wof:geomhash":"a9aa0bea692a99f808dcc00271ff101b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706578259
+        }
+    ],
+    "wof:id":706578259,
+    "wof:lastmodified":1461806270,
+    "wof:name":"Northern Collision",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.247079,
+    43.29585,
+    -86.247079,
+    43.29585
+],
+  "geometry": {"coordinates":[-86.247079,43.29585],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705802181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.619823,44.757129,-85.619823,44.757129",
+    "geom:latitude":44.757129,
+    "geom:longitude":-85.619823,
+    "iso:country":"US",
+    "sg:address":"255 E 10th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 4782",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k8sfwV0F6D53L0L3on5TF_44.757129_-85.619823@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789065,
+    "wof:geomhash":"50e824f8a54511b2070d2b381ced7c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705802181
+        }
+    ],
+    "wof:id":705802181,
+    "wof:lastmodified":1461789065,
+    "wof:name":"Between The Bays Dance Camps",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -85.619823,
+    44.757129,
+    -85.619823,
+    44.757129
+],
+  "geometry": {"coordinates":[-85.619823,44.757129],"type":"Point"}
+}

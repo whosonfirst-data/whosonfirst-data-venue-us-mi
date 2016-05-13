@@ -1,0 +1,71 @@
+{
+  "id": 689908381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.718335,43.004178,-83.718335,43.004178",
+    "geom:latitude":43.004178,
+    "geom:longitude":-83.718335,
+    "iso:country":"US",
+    "sg:address":"2442 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 3208",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "project"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EiRRdaxQnuK8Hi5sOrq4a_43.004178_-83.718335@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784798,
+    "wof:geomhash":"72abfc60fd93a36db445d00b759ce1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689908381
+        }
+    ],
+    "wof:id":689908381,
+    "wof:lastmodified":1461784798,
+    "wof:name":"First Class Construction",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project"
+    ]
+},
+  "bbox": [
+    -83.718335,
+    43.004178,
+    -83.718335,
+    43.004178
+],
+  "geometry": {"coordinates":[-83.718335,43.004178],"type":"Point"}
+}

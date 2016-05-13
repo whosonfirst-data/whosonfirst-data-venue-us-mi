@@ -1,0 +1,75 @@
+{
+  "id": 706403199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732178,42.01027,-83.732178,42.01027",
+    "geom:latitude":42.01027,
+    "geom:longitude":-83.732178,
+    "iso:country":"US",
+    "sg:address":"18057 Milwaukee Rd",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 5008",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O0ZN59wN7IPDprQCHjZIZ_42.010270_-83.732178@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802463,
+    "wof:geomhash":"750ece686d66098c2f88be688d945f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706403199
+        }
+    ],
+    "wof:id":706403199,
+    "wof:lastmodified":1461802463,
+    "wof:name":"G & S Express",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.732178,
+    42.01027,
+    -83.732178,
+    42.01027
+],
+  "geometry": {"coordinates":[-83.732178,42.01027],"type":"Point"}
+}

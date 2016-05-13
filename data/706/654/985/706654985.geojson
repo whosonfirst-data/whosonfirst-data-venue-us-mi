@@ -1,0 +1,71 @@
+{
+  "id": 706654985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.521856,42.964198,-82.521856,42.964198",
+    "geom:latitude":42.964198,
+    "geom:longitude":-82.521856,
+    "iso:country":"US",
+    "sg:address":"4995 Griswold Rd",
+    "sg:city":"Kimball",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 966 5064",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K6RUEIvOEM3ZrXqzwJvEi_42.964198_-82.521856@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808176,
+    "wof:geomhash":"18fe4628b57c564c14e5d37b592b2622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706654985
+        }
+    ],
+    "wof:id":706654985,
+    "wof:lastmodified":1461808176,
+    "wof:name":"Kimball Auto Repair & Svc",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.521856,
+    42.964198,
+    -82.521856,
+    42.964198
+],
+  "geometry": {"coordinates":[-82.521856,42.964198],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705699825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244508,43.216036,-86.244508,43.216036",
+    "geom:latitude":43.216036,
+    "geom:longitude":-86.244508,
+    "iso:country":"US",
+    "sg:address":"1963 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 726 2002",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WDooDazUh2hff0E2s8Jow_43.216036_-86.244508@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786512,
+    "wof:geomhash":"54f308cca99be6f05cb6c7ff7e65d4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705699825
+        }
+    ],
+    "wof:id":705699825,
+    "wof:lastmodified":1461786512,
+    "wof:name":"Prout Construction",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.244508,
+    43.216036,
+    -86.244508,
+    43.216036
+],
+  "geometry": {"coordinates":[-86.244508,43.216036],"type":"Point"}
+}

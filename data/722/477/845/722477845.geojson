@@ -1,0 +1,80 @@
+{
+  "id": 722477845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.064072,42.35069,-83.064072,42.35069",
+    "geom:latitude":42.35069,
+    "geom:longitude":-83.064072,
+    "iso:country":"US",
+    "sg:address":"418 W Willis St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 831 2130",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870587,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TyFyq8DJCvjszAxQAZr71_42.350690_-83.064072@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812195,
+    "wof:geomhash":"99ed73356c74b4e4774314c15635a4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870587,
+            "region_id":85688599,
+            "venue_id":722477845
+        }
+    ],
+    "wof:id":722477845,
+    "wof:lastmodified":1461812195,
+    "wof:name":"Goodwell's Natural Foods Market",
+    "wof:parent_id":85870587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -83.064072,
+    42.35069,
+    -83.064072,
+    42.35069
+],
+  "geometry": {"coordinates":[-83.064072,42.35069],"type":"Point"}
+}

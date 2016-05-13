@@ -1,0 +1,76 @@
+{
+  "id": 689839773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.178353,43.179824,-86.178353,43.179824",
+    "geom:latitude":43.179824,
+    "geom:longitude":-86.178353,
+    "iso:country":"US",
+    "sg:address":"3945 Eastbrook Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 5946",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EVaiu5xx99eNWsxBg7rZI_43.179824_-86.178353@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783097,
+    "wof:geomhash":"766453456b67792b53b66bd47881e091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689839773
+        }
+    ],
+    "wof:id":689839773,
+    "wof:lastmodified":1461783097,
+    "wof:name":"Thompson School Consulting Inc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [
+    -86.178353,
+    43.179824,
+    -86.178353,
+    43.179824
+],
+  "geometry": {"coordinates":[-86.178353,43.179824],"type":"Point"}
+}

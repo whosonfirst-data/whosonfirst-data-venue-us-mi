@@ -1,0 +1,79 @@
+{
+  "id": 705705477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603067,42.67919,-84.603067,42.67919",
+    "geom:latitude":42.67919,
+    "geom:longitude":-84.603067,
+    "iso:country":"US",
+    "sg:address":"2949 S Waverly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 2602",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005,
+        85840163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_376njc05od80V14vrYepYu_42.679190_-84.603067@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786746,
+    "wof:geomhash":"47c4bbea4b6c77ce9f26766079bb10a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":705705477
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":705705477
+        }
+    ],
+    "wof:id":705705477,
+    "wof:lastmodified":1461786746,
+    "wof:name":"Forty ET Eight Chateau",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -84.603067,
+    42.67919,
+    -84.603067,
+    42.67919
+],
+  "geometry": {"coordinates":[-84.603067,42.67919],"type":"Point"}
+}

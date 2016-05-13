@@ -1,0 +1,71 @@
+{
+  "id": 689789483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.70598,43.034594,-83.70598,43.034594",
+    "geom:latitude":43.034594,
+    "geom:longitude":-83.70598,
+    "iso:country":"US",
+    "sg:address":"239 Odette St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 233 5035",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jvQqOaEyxxylwr5ywuZ3a_43.034594_-83.705980@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781513,
+    "wof:geomhash":"c12e35dbcb6aa6d2577c0d45b647daeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689789483
+        }
+    ],
+    "wof:id":689789483,
+    "wof:lastmodified":1461781513,
+    "wof:name":"B&G Janitorial Services",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.70598,
+    43.034594,
+    -83.70598,
+    43.034594
+],
+  "geometry": {"coordinates":[-83.70598,43.034594],"type":"Point"}
+}

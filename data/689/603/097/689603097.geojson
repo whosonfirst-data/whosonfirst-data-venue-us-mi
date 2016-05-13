@@ -1,0 +1,75 @@
+{
+  "id": 689603097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.900274,42.597714,-82.900274,42.597714",
+    "geom:latitude":42.597714,
+    "geom:longitude":-82.900274,
+    "iso:country":"US",
+    "sg:address":"111 S Groesbeck Hwy",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 0454",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xOctGh89HWcSwTrJCEizv_42.597714_-82.900274@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776348,
+    "wof:geomhash":"6d08afa6dcae39899902185fd0373ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":689603097
+        }
+    ],
+    "wof:id":689603097,
+    "wof:lastmodified":1461776348,
+    "wof:name":"Penske Truck Leasing Co LP",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.900274,
+    42.597714,
+    -82.900274,
+    42.597714
+],
+  "geometry": {"coordinates":[-82.900274,42.597714],"type":"Point"}
+}

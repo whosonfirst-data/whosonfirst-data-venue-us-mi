@@ -1,0 +1,78 @@
+{
+  "id": 706676569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.212448,42.277974,-83.212448,42.277974",
+    "geom:latitude":42.277974,
+    "geom:longitude":-83.212448,
+    "iso:country":"US",
+    "sg:address":"23229 Outer Dr",
+    "sg:city":"Allen Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/allen-park/146221-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 6432",
+    "sg:postcode":"48101",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896723,
+        102191575,
+        404508531,
+        85633793,
+        85951057,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78FVGCZAvlLNRAtfG6jjoK_42.277974_-83.212448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809147,
+    "wof:geomhash":"a96ae61e4345c756e96df68f39863b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508531,
+            "locality_id":85951057,
+            "neighbourhood_id":85896723,
+            "region_id":85688599,
+            "venue_id":706676569
+        }
+    ],
+    "wof:id":706676569,
+    "wof:lastmodified":1461809147,
+    "wof:name":"Subway",
+    "wof:parent_id":85896723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.212448,
+    42.277974,
+    -83.212448,
+    42.277974
+],
+  "geometry": {"coordinates":[-83.21244799999999,42.277974],"type":"Point"}
+}

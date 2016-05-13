@@ -1,0 +1,81 @@
+{
+  "id": 706689187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.697017,42.985504,-85.697017,42.985504",
+    "geom:latitude":42.985504,
+    "geom:longitude":-85.697017,
+    "iso:country":"US",
+    "sg:address":"1152 Leonard St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50885-river-city-saloon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 451 0044",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877929,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z3INiCNWFjapV0o5CzbKE_42.985527_-85.697811@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809640,
+    "wof:geomhash":"696b7fe38dcab3b10a8e3a34ba9aab13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877929,
+            "region_id":85688599,
+            "venue_id":706689187
+        }
+    ],
+    "wof:id":706689187,
+    "wof:lastmodified":1461809640,
+    "wof:name":"River City Saloon",
+    "wof:parent_id":85877929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.697017,
+    42.985504,
+    -85.697017,
+    42.985504
+],
+  "geometry": {"coordinates":[-85.697017,42.985504],"type":"Point"}
+}

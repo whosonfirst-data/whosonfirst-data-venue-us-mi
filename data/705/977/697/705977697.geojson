@@ -1,0 +1,76 @@
+{
+  "id": 705977697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.032685,43.451255,-84.032685,43.451255",
+    "geom:latitude":43.451255,
+    "geom:longitude":-84.032685,
+    "iso:country":"US",
+    "sg:address":"5939 Shattuck Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 497 7800",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k8DZYB9pAybcu1zxYH1dJ_43.451255_-84.032685@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793119,
+    "wof:geomhash":"01b043f8989957e69d6ef01cb2572cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705977697
+        }
+    ],
+    "wof:id":705977697,
+    "wof:lastmodified":1461793119,
+    "wof:name":"Meadow View Manor",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -84.032685,
+    43.451255,
+    -84.032685,
+    43.451255
+],
+  "geometry": {"coordinates":[-84.032685,43.451255],"type":"Point"}
+}

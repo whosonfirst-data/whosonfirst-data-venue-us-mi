@@ -1,0 +1,80 @@
+{
+  "id": 689566011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.243249,42.584122,-83.243249,42.584122",
+    "geom:latitude":42.584122,
+    "geom:longitude":-83.243249,
+    "iso:country":"US",
+    "sg:address":"45 E Long Lake Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 644 4646",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810441,
+        102191575,
+        404506339,
+        85633793,
+        85952027,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u5nTqoJrz9miGZDdh3cDl_42.584122_-83.243249@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775182,
+    "wof:geomhash":"37810a116c58f75c99f386a93a98101e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404506339,
+            "locality_id":85952027,
+            "neighbourhood_id":85810441,
+            "region_id":85688599,
+            "venue_id":689566011
+        }
+    ],
+    "wof:id":689566011,
+    "wof:lastmodified":1461775182,
+    "wof:name":"Bloomfield Hills Police Dept",
+    "wof:parent_id":85810441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.243249,
+    42.584122,
+    -83.243249,
+    42.584122
+],
+  "geometry": {"coordinates":[-83.24324900000001,42.584122],"type":"Point"}
+}

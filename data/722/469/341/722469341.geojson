@@ -1,0 +1,83 @@
+{
+  "id": 722469341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.264,42.243,-83.264,42.243",
+    "geom:latitude":42.243,
+    "geom:longitude":-83.264,
+    "iso:country":"US",
+    "sg:address":"8950 Telegraph Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 946 9572",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ophthalmologist",
+        "eyewear"
+    ],
+    "sg:website":"www.eyecareone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56FSZDIqUtLQZdkCYEzLeY_42.243000_-83.264000@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811832,
+    "wof:geomhash":"8b60ebf0f5363b1c83d0881d9e0081ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":722469341
+        }
+    ],
+    "wof:id":722469341,
+    "wof:lastmodified":1461811832,
+    "wof:name":"Eyecare 1",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -83.264,
+    42.243,
+    -83.264,
+    42.243
+],
+  "geometry": {"coordinates":[-83.264,42.243],"type":"Point"}
+}

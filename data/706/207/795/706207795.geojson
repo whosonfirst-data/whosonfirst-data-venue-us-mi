@@ -1,0 +1,78 @@
+{
+  "id": 706207795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.195809,43.216086,-86.195809,43.216086",
+    "geom:latitude":43.216086,
+    "geom:longitude":-86.195809,
+    "iso:country":"US",
+    "sg:address":"1970 Port City Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 8407",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gUQ7aaTZH17PVJYXYSOZM_43.216086_-86.195809@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798240,
+    "wof:geomhash":"c098ade729674ff87ce438c1672a78cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706207795
+        }
+    ],
+    "wof:id":706207795,
+    "wof:lastmodified":1461798240,
+    "wof:name":"Community Recycling Service",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -86.195809,
+    43.216086,
+    -86.195809,
+    43.216086
+],
+  "geometry": {"coordinates":[-86.195809,43.216086],"type":"Point"}
+}

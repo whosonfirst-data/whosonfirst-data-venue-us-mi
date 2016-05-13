@@ -1,0 +1,73 @@
+{
+  "id": 689611013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394734,46.552202,-87.394734,46.552202",
+    "geom:latitude":46.552202,
+    "geom:longitude":-87.394734,
+    "iso:country":"US",
+    "sg:address":"901 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7536",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DiNmf3wtFEVpvewVyF25S_46.552202_-87.394734@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776639,
+    "wof:geomhash":"93b3a568698f2b19b22247c53495af30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689611013
+        }
+    ],
+    "wof:id":689611013,
+    "wof:lastmodified":1461776639,
+    "wof:name":"Dallas Cleaners",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -87.394734,
+    46.552202,
+    -87.394734,
+    46.552202
+],
+  "geometry": {"coordinates":[-87.394734,46.552202],"type":"Point"}
+}

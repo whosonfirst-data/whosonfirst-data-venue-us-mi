@@ -1,0 +1,71 @@
+{
+  "id": 706244309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.033167,42.649489,-83.033167,42.649489",
+    "geom:latitude":42.649489,
+    "geom:longitude":-83.033167,
+    "iso:country":"US",
+    "sg:address":"48124 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 323 9550",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R6GKiBGG2bvuKSGU2iHfT_42.649489_-83.033167@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799056,
+    "wof:geomhash":"9e6d2224e2ecd81da6b8fc0a531d74ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706244309
+        }
+    ],
+    "wof:id":706244309,
+    "wof:lastmodified":1461799056,
+    "wof:name":"Tuffy Auto Svc Ctr",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.033167,
+    42.649489,
+    -83.033167,
+    42.649489
+],
+  "geometry": {"coordinates":[-83.03316700000001,42.649489],"type":"Point"}
+}

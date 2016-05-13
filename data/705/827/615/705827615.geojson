@@ -1,0 +1,71 @@
+{
+  "id": 705827615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.254438,43.20964,-86.254438,43.20964",
+    "geom:latitude":43.20964,
+    "geom:longitude":-86.254438,
+    "iso:country":"US",
+    "sg:address":"2344 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 7982",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mkdxLUcs3qTunW9dZ50eQ_43.209640_-86.254438@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789676,
+    "wof:geomhash":"34be797c885788db9638a9f18c67b45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705827615
+        }
+    ],
+    "wof:id":705827615,
+    "wof:lastmodified":1461789676,
+    "wof:name":"Midway Welding & Fabrication",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -86.254438,
+    43.20964,
+    -86.254438,
+    43.20964
+],
+  "geometry": {"coordinates":[-86.25443799999999,43.20964],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706400507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.622444,42.624499,-84.622444,42.624499",
+    "geom:latitude":42.624499,
+    "geom:longitude":-84.622444,
+    "iso:country":"US",
+    "sg:address":"4000 N Michigan Rd",
+    "sg:city":"Dimondale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 646 6258",
+    "sg:postcode":"48821",
+    "sg:province":"MI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mVl64cDbfKnwooQ9Q9IUe_42.624499_-84.622444@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802408,
+    "wof:geomhash":"ff1a98612edaaa1ae406ccf090e54747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":706400507
+        }
+    ],
+    "wof:id":706400507,
+    "wof:lastmodified":1461802408,
+    "wof:name":"St Lawrence Dimondale Center",
+    "wof:parent_id":85834385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -84.622444,
+    42.624499,
+    -84.622444,
+    42.624499
+],
+  "geometry": {"coordinates":[-84.622444,42.624499],"type":"Point"}
+}

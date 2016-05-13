@@ -1,0 +1,78 @@
+{
+  "id": 722527653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.657829,42.44967,-85.657829,42.44967",
+    "geom:latitude":42.44967,
+    "geom:longitude":-85.657829,
+    "iso:country":"US",
+    "sg:address":"1171 M 89",
+    "sg:city":"Plainwell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 685 1273",
+    "sg:postcode":"49080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "engine",
+        "transmission",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pHwzgDeu5NdWmeaCUEL2y_42.449670_-85.657829@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814312,
+    "wof:geomhash":"3586747ce81c7cdec06f39968ab6ab79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":722527653
+        }
+    ],
+    "wof:id":722527653,
+    "wof:lastmodified":1461814312,
+    "wof:name":"Dave's Auto Repair",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "transmission",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -85.657829,
+    42.44967,
+    -85.657829,
+    42.44967
+],
+  "geometry": {"coordinates":[-85.65782900000001,42.44967],"type":"Point"}
+}

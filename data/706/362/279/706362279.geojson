@@ -1,0 +1,71 @@
+{
+  "id": 706362279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.19687,43.103101,-86.19687,43.103101",
+    "geom:latitude":43.103101,
+    "geom:longitude":-86.19687,
+    "iso:country":"US",
+    "sg:address":"16484 Taft St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 1010",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jWup7knKhByNCxFxTUeFt_43.103101_-86.196870@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801656,
+    "wof:geomhash":"aa2fbeb8ad77ad283764facff3eb2619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706362279
+        }
+    ],
+    "wof:id":706362279,
+    "wof:lastmodified":1461801656,
+    "wof:name":"Harbor Real Estate",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -86.19687,
+    43.103101,
+    -86.19687,
+    43.103101
+],
+  "geometry": {"coordinates":[-86.19687,43.103101],"type":"Point"}
+}

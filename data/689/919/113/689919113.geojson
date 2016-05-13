@@ -1,0 +1,69 @@
+{
+  "id": 689919113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.482442,42.961526,-82.482442,42.961526",
+    "geom:latitude":42.961526,
+    "geom:longitude":-82.482442,
+    "iso:country":"US",
+    "sg:address":"1575 Michigan Rd",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 9223",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QJqfB2dQOyazCk8Zi1wuC_42.961526_-82.482442@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785096,
+    "wof:geomhash":"6b2126e89c07f5742028dbb2c4fd3b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":689919113
+        }
+    ],
+    "wof:id":689919113,
+    "wof:lastmodified":1461785096,
+    "wof:name":"Merchants Delivery Svc Inc",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -82.482442,
+    42.961526,
+    -82.482442,
+    42.961526
+],
+  "geometry": {"coordinates":[-82.48244200000001,42.961526],"type":"Point"}
+}

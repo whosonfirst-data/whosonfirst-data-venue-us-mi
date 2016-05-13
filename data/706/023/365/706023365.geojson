@@ -1,0 +1,90 @@
+{
+  "id": 706023365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.101775,42.537429,-83.101775,42.537429",
+    "geom:latitude":42.537429,
+    "geom:longitude":-83.101775,
+    "iso:country":"US",
+    "sg:address":"376 Robbins Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 585 0732",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85896589,
+        404508209,
+        85952031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y22JWVlhAa6YSHbnt8B7x_42.537429_-83.101775@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794075,
+    "wof:geomhash":"dd99e38bed643372e9fd35ecdfcf9f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":706023365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":706023365
+        }
+    ],
+    "wof:id":706023365,
+    "wof:lastmodified":1461794075,
+    "wof:name":"G & S Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.101775,
+    42.537429,
+    -83.101775,
+    42.537429
+],
+  "geometry": {"coordinates":[-83.101775,42.537429],"type":"Point"}
+}

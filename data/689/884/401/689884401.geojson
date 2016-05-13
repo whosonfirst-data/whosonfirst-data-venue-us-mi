@@ -1,0 +1,71 @@
+{
+  "id": 689884401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.901851,42.599324,-82.901851,42.599324",
+    "geom:latitude":42.599324,
+    "geom:longitude":-82.901851,
+    "iso:country":"US",
+    "sg:address":"21384 Cass Ave",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 4561",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DlBIcyLaDzTdEdm6eqa5e_42.599324_-82.901851@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784151,
+    "wof:geomhash":"792c1546635f9e55ff8f70271fc084a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":689884401
+        }
+    ],
+    "wof:id":689884401,
+    "wof:lastmodified":1461784151,
+    "wof:name":"Mt Clemens Veterinary Hospital",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.901851,
+    42.599324,
+    -82.901851,
+    42.599324
+],
+  "geometry": {"coordinates":[-82.90185099999999,42.599324],"type":"Point"}
+}

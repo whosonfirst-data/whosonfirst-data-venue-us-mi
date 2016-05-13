@@ -1,0 +1,71 @@
+{
+  "id": 689479481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58386,42.905168,-85.58386,42.905168",
+    "geom:latitude":42.905168,
+    "geom:longitude":-85.58386,
+    "iso:country":"US",
+    "sg:address":"3370 32nd St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 954 0253",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SMIgNO6IuWpmuV3wPNdTr_42.905168_-85.583860@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772503,
+    "wof:geomhash":"8bcbc91b45d1cb31f8390bb708d7b09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689479481
+        }
+    ],
+    "wof:id":689479481,
+    "wof:lastmodified":1461772503,
+    "wof:name":"Sea Side Merchant",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.58386,
+    42.905168,
+    -85.58386,
+    42.905168
+],
+  "geometry": {"coordinates":[-85.58386,42.905168],"type":"Point"}
+}

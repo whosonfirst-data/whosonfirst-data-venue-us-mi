@@ -1,0 +1,73 @@
+{
+  "id": 705802453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.566386,42.259799,-85.566386,42.259799",
+    "geom:latitude":42.259799,
+    "geom:longitude":-85.566386,
+    "iso:country":"US",
+    "sg:address":"3130 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 6667",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FMgZl6N9qwVD8xZO1jvJW_42.259799_-85.566386@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789071,
+    "wof:geomhash":"aede299090c70edf77b691fb0fd99f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":705802453
+        }
+    ],
+    "wof:id":705802453,
+    "wof:lastmodified":1461789071,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.566386,
+    42.259799,
+    -85.566386,
+    42.259799
+],
+  "geometry": {"coordinates":[-85.56638599999999,42.259799],"type":"Point"}
+}

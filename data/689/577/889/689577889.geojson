@@ -1,0 +1,69 @@
+{
+  "id": 689577889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.090196,42.792153,-86.090196,42.792153",
+    "geom:latitude":42.792153,
+    "geom:longitude":-86.090196,
+    "iso:country":"US",
+    "sg:address":"360 E 6th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 355 6602",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlwjCfyIYBU2kJl8vBDYS_42.792153_-86.090196@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775531,
+    "wof:geomhash":"c3c5ee0d91292ea2583e53d01fb49bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":689577889
+        }
+    ],
+    "wof:id":689577889,
+    "wof:lastmodified":1461775531,
+    "wof:name":"Soakers",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.090196,
+    42.792153,
+    -86.090196,
+    42.792153
+],
+  "geometry": {"coordinates":[-86.09019600000001,42.792153],"type":"Point"}
+}

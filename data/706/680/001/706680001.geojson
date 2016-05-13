@@ -1,0 +1,72 @@
+{
+  "id": 706680001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.973805,42.641041,-82.973805,42.641041",
+    "geom:latitude":42.641041,
+    "geom:longitude":-82.973805,
+    "iso:country":"US",
+    "sg:address":"46925 Hayes Rd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/196775-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 566 7963",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dEx4ortdMxeOLhfjGJm8B_42.641041_-82.973805@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809280,
+    "wof:geomhash":"8c1d09a2a565493119b0e9fc830dc3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706680001
+        }
+    ],
+    "wof:id":706680001,
+    "wof:lastmodified":1461809280,
+    "wof:name":"Burger King",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.973805,
+    42.641041,
+    -82.973805,
+    42.641041
+],
+  "geometry": {"coordinates":[-82.973805,42.641041],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705767107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.893971,43.11787,-83.893971,43.11787",
+    "geom:latitude":43.11787,
+    "geom:longitude":-83.893971,
+    "iso:country":"US",
+    "sg:address":"11011 W Mount Morris Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 1453",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14TQrhgYYti87CyrUQ30Jy_43.117870_-83.893971@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788240,
+    "wof:geomhash":"fa7604def4b3e6378fe4c5f53982272a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705767107
+        }
+    ],
+    "wof:id":705767107,
+    "wof:lastmodified":1461788240,
+    "wof:name":"Dave Sullivan's Parking Lot",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -83.893971,
+    43.11787,
+    -83.893971,
+    43.11787
+],
+  "geometry": {"coordinates":[-83.89397099999999,43.11787],"type":"Point"}
+}

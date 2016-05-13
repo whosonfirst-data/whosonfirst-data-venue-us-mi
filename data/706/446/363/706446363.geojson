@@ -1,0 +1,69 @@
+{
+  "id": 706446363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302495,42.549063,-83.302495,42.549063",
+    "geom:latitude":42.549063,
+    "geom:longitude":-83.302495,
+    "iso:country":"US",
+    "sg:address":"6091 Franklin Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 737 6853",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bFPs1K1Vz9pbgBEow7axn_42.549063_-83.302495@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803360,
+    "wof:geomhash":"0ebf8aa5419cd3e504abd7892d21baeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706446363
+        }
+    ],
+    "wof:id":706446363,
+    "wof:lastmodified":1461803360,
+    "wof:name":"Michigan Hematology Onocology",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.302495,
+    42.549063,
+    -83.302495,
+    42.549063
+],
+  "geometry": {"coordinates":[-83.30249499999999,42.549063],"type":"Point"}
+}

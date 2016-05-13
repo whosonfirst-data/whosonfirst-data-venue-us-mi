@@ -1,0 +1,71 @@
+{
+  "id": 705712929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.846143,42.989701,-85.846143,42.989701",
+    "geom:latitude":42.989701,
+    "geom:longitude":-85.846143,
+    "iso:country":"US",
+    "sg:address":"12141 24th Ave",
+    "sg:city":"Marne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 677 2260",
+    "sg:postcode":"49435",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822455,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OoEJ8l4mUoiaIdzFXEiIz_42.989701_-85.846143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786976,
+    "wof:geomhash":"5c30605d4be31df1586a031b4d6c935c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85822455,
+            "region_id":85688599,
+            "venue_id":705712929
+        }
+    ],
+    "wof:id":705712929,
+    "wof:lastmodified":1461786976,
+    "wof:name":"Delta Electric Corporation",
+    "wof:parent_id":85822455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.846143,
+    42.989701,
+    -85.846143,
+    42.989701
+],
+  "geometry": {"coordinates":[-85.846143,42.989701],"type":"Point"}
+}

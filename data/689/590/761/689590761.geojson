@@ -1,0 +1,73 @@
+{
+  "id": 689590761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.210436,43.060123,-86.210436,43.060123",
+    "geom:latitude":43.060123,
+    "geom:longitude":-86.210436,
+    "iso:country":"US",
+    "sg:address":"1320 Franklin St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 850 0027",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46g3hoadycfnfdMGZG5MEh_43.060123_-86.210436@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775932,
+    "wof:geomhash":"66be24db972d086c4bd47db32fc58745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689590761
+        }
+    ],
+    "wof:id":689590761,
+    "wof:lastmodified":1461775932,
+    "wof:name":"Omega Electric",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.210436,
+    43.060123,
+    -86.210436,
+    43.060123
+],
+  "geometry": {"coordinates":[-86.210436,43.060123],"type":"Point"}
+}

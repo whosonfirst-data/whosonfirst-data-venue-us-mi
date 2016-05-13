@@ -1,0 +1,75 @@
+{
+  "id": 706513625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.404884,44.277684,-85.404884,44.277684",
+    "geom:latitude":44.277684,
+    "geom:longitude":-85.404884,
+    "iso:country":"US",
+    "sg:address":"180 Works Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7104",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ewqq4XqtwyLvZyuGEcKZq_44.277684_-85.404884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804915,
+    "wof:geomhash":"72125c0cb60348cda12b85f975a1e998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706513625
+        }
+    ],
+    "wof:id":706513625,
+    "wof:lastmodified":1461804915,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.404884,
+    44.277684,
+    -85.404884,
+    44.277684
+],
+  "geometry": {"coordinates":[-85.404884,44.277684],"type":"Point"}
+}

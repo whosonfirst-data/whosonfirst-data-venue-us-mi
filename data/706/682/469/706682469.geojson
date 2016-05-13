@@ -1,0 +1,76 @@
+{
+  "id": 706682469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.468317,42.731018,-84.468317,42.731018",
+    "geom:latitude":42.731018,
+    "geom:longitude":-84.468317,
+    "iso:country":"US",
+    "sg:address":"1135 E Grand River Ave",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/east-lansing/18909-bells-greek-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 332 0858",
+    "sg:postcode":"48823",
+    "sg:province":"MI",
+    "sg:tags":[
+        "greek",
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uzePum4o9xKOEJPI0BPhU_42.731018_-84.468317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809382,
+    "wof:geomhash":"bf648a98e59c974079c5e4e2b6449385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682469
+        }
+    ],
+    "wof:id":706682469,
+    "wof:lastmodified":1461809382,
+    "wof:name":"Bell's Greek Pizza",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greek",
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.468317,
+    42.731018,
+    -84.468317,
+    42.731018
+],
+  "geometry": {"coordinates":[-84.468317,42.731018],"type":"Point"}
+}

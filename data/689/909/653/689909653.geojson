@@ -1,0 +1,69 @@
+{
+  "id": 689909653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257301,41.828122,-86.257301,41.828122",
+    "geom:latitude":41.828122,
+    "geom:longitude":-86.257301,
+    "iso:country":"US",
+    "sg:address":"21 N 2nd St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 3588",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K5N2FYuNu4US5afQG2Wfk_41.828122_-86.257301@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784843,
+    "wof:geomhash":"d4f7ce029d61f14f698ab6a341530382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689909653
+        }
+    ],
+    "wof:id":689909653,
+    "wof:lastmodified":1461784843,
+    "wof:name":"Scott H Kasler DDS",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.257301,
+    41.828122,
+    -86.257301,
+    41.828122
+],
+  "geometry": {"coordinates":[-86.257301,41.828122],"type":"Point"}
+}

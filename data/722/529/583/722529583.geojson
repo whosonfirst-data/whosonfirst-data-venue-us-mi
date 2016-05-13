@@ -1,0 +1,67 @@
+{
+  "id": 722529583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.173495,43.234243,-86.173495,43.234243",
+    "geom:latitude":43.234243,
+    "geom:longitude":-86.173495,
+    "iso:country":"US",
+    "sg:address":"2829 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07JldAExz6q570xdci1JWG_43.234243_-86.173495@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814393,
+    "wof:geomhash":"255fa59a5ddf325620d10c657c57f1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529583
+        }
+    ],
+    "wof:id":722529583,
+    "wof:lastmodified":1461814393,
+    "wof:name":"USPS - United States Post Office - Cpu E & A Grocery",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.173495,
+    43.234243,
+    -86.173495,
+    43.234243
+],
+  "geometry": {"coordinates":[-86.173495,43.234243],"type":"Point"}
+}

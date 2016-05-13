@@ -1,0 +1,72 @@
+{
+  "id": 689722665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.686831,42.201189,-85.686831,42.201189",
+    "geom:latitude":42.201189,
+    "geom:longitude":-85.686831,
+    "iso:country":"US",
+    "sg:address":"7930 S 8th St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 6543",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.kerwinelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1spPjAyFNvhCoVpRJXykjO_42.201189_-85.686831@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779739,
+    "wof:geomhash":"20db6ff91c09ac66114475289f95bc7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":689722665
+        }
+    ],
+    "wof:id":689722665,
+    "wof:lastmodified":1461779739,
+    "wof:name":"Kerwin Electric Inc",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.686831,
+    42.201189,
+    -85.686831,
+    42.201189
+],
+  "geometry": {"coordinates":[-85.686831,42.201189],"type":"Point"}
+}

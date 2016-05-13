@@ -1,0 +1,77 @@
+{
+  "id": 706677427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.271481,42.295368,-83.271481,42.295368",
+    "geom:latitude":42.295368,
+    "geom:longitude":-83.271481,
+    "iso:country":"US",
+    "sg:address":"2226 S Telegraph Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dearborn/240923-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HbLRhOv0dP2DmO363JF4w_42.295368_-83.271481@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809183,
+    "wof:geomhash":"b282d5405d6e295c7ca51c3f4a8f8d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":706677427
+        }
+    ],
+    "wof:id":706677427,
+    "wof:lastmodified":1461809183,
+    "wof:name":"White Castle",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.271481,
+    42.295368,
+    -83.271481,
+    42.295368
+],
+  "geometry": {"coordinates":[-83.27148099999999,42.295368],"type":"Point"}
+}

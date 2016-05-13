@@ -1,0 +1,87 @@
+{
+  "id": 689642623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.90189,42.457128,-82.90189,42.457128",
+    "geom:latitude":42.457128,
+    "geom:longitude":-82.90189,
+    "iso:country":"US",
+    "sg:address":"22215 Greater Mack Ave",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 773 6290",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524409,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vn8xU3qwc83nW5u7cNjdy_42.457128_-82.901890@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777583,
+    "wof:geomhash":"ca4a1e7899b7d096bcf5b25995d0ed45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":689642623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":689642623
+        }
+    ],
+    "wof:id":689642623,
+    "wof:lastmodified":1461777583,
+    "wof:name":"Avenue Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.90189,
+    42.457128,
+    -82.90189,
+    42.457128
+],
+  "geometry": {"coordinates":[-82.90188999999999,42.457128],"type":"Point"}
+}

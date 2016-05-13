@@ -1,0 +1,72 @@
+{
+  "id": 706680471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.406599,42.674616,-83.406599,42.674616",
+    "geom:latitude":42.674616,
+    "geom:longitude":-83.406599,
+    "iso:country":"US",
+    "sg:address":"2510 Airport Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/248567-benitos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 4440",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lXsbwf72NF9ljCeeKp0Lo_42.674616_-83.406599@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809297,
+    "wof:geomhash":"cf01c5b58a5507aa0e6dca559f979cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706680471
+        }
+    ],
+    "wof:id":706680471,
+    "wof:lastmodified":1461809297,
+    "wof:name":"Benito's Pizza",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.406599,
+    42.674616,
+    -83.406599,
+    42.674616
+],
+  "geometry": {"coordinates":[-83.406599,42.674616],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 689594269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.099248,42.54003,-83.099248,42.54003",
+    "geom:latitude":42.54003,
+    "geom:longitude":-83.099248,
+    "iso:country":"US",
+    "sg:address":"600 Executive Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 696 4300",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85896589,
+        404508209,
+        85952031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_256p6S1pTgyStnjuIEYklR_42.540030_-83.099248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776029,
+    "wof:geomhash":"24037658c0daf0562d78e3f33e0b9a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":689594269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":689594269
+        }
+    ],
+    "wof:id":689594269,
+    "wof:lastmodified":1461776029,
+    "wof:name":"EDS Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -83.099248,
+    42.54003,
+    -83.099248,
+    42.54003
+],
+  "geometry": {"coordinates":[-83.099248,42.54003],"type":"Point"}
+}

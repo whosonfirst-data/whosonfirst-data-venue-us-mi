@@ -1,0 +1,71 @@
+{
+  "id": 706685113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.553452,42.205357,-84.553452,42.205357",
+    "geom:latitude":42.205357,
+    "geom:longitude":-84.553452,
+    "iso:country":"US",
+    "sg:address":"121 E Main St",
+    "sg:city":"Spring Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/spring-arbor/185745-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49283",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00imz3e9h0fL7cZTFWi2zs_42.205357_-84.553452@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809489,
+    "wof:geomhash":"736e7e3ccf5d1492964377aa13cf241c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706685113
+        }
+    ],
+    "wof:id":706685113,
+    "wof:lastmodified":1461809489,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.553452,
+    42.205357,
+    -84.553452,
+    42.205357
+],
+  "geometry": {"coordinates":[-84.55345199999999,42.205357],"type":"Point"}
+}

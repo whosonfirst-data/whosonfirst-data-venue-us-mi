@@ -1,0 +1,71 @@
+{
+  "id": 689555811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642248,44.761638,-85.642248,44.761638",
+    "geom:latitude":44.761638,
+    "geom:longitude":-85.642248,
+    "iso:country":"US",
+    "sg:address":"1100 6th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 6400",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "radiology",
+        "lab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nNsY68j2Cx4bAnaambB4z_44.761638_-85.642248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774901,
+    "wof:geomhash":"6dbb9070168c3a6c814a6ec61417cab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689555811
+        }
+    ],
+    "wof:id":689555811,
+    "wof:lastmodified":1461774901,
+    "wof:name":"Grand Traverse Radiologists PC",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiology",
+        "lab"
+    ]
+},
+  "bbox": [
+    -85.642248,
+    44.761638,
+    -85.642248,
+    44.761638
+],
+  "geometry": {"coordinates":[-85.642248,44.761638],"type":"Point"}
+}

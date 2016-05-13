@@ -1,0 +1,71 @@
+{
+  "id": 706484753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.84075,42.664876,-82.84075,42.664876",
+    "geom:latitude":42.664876,
+    "geom:longitude":-82.84075,
+    "iso:country":"US",
+    "sg:address":"50110 Gratiot Ave",
+    "sg:city":"New Baltimore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 6336",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mxs36KDdNhiodAb9qgMf3_42.664876_-82.840750@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804187,
+    "wof:geomhash":"184c877ec65ddefba67cedfd6873a0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":706484753
+        }
+    ],
+    "wof:id":706484753,
+    "wof:lastmodified":1461804187,
+    "wof:name":"Concentra Medical Centers",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -82.84075,
+    42.664876,
+    -82.84075,
+    42.664876
+],
+  "geometry": {"coordinates":[-82.84075,42.664876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689786299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.22035,43.066697,-86.22035,43.066697",
+    "geom:latitude":43.066697,
+    "geom:longitude":-86.22035,
+    "iso:country":"US",
+    "sg:address":"900 Jackson St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 850 8401",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YLwpHLWhEwxzMAvpaBKwG_43.066697_-86.220350@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781426,
+    "wof:geomhash":"352965ccdf01b2c1e3c705202c019ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689786299
+        }
+    ],
+    "wof:id":689786299,
+    "wof:lastmodified":1461781426,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -86.22035,
+    43.066697,
+    -86.22035,
+    43.066697
+],
+  "geometry": {"coordinates":[-86.22035,43.066697],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706034287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43245,42.072613,-86.43245,42.072613",
+    "geom:latitude":42.072613,
+    "geom:longitude":-86.43245,
+    "iso:country":"US",
+    "sg:address":"1055 Nickerson Ct",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 1990",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y4rpWPRdpjqp4ClWv1V1y_42.072613_-86.432450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794294,
+    "wof:geomhash":"166a437b1e282db6327c5db89c0854b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706034287
+        }
+    ],
+    "wof:id":706034287,
+    "wof:lastmodified":1461794294,
+    "wof:name":"Sparlke Quik Lube",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.43245,
+    42.072613,
+    -86.43245,
+    42.072613
+],
+  "geometry": {"coordinates":[-86.43245,42.072613],"type":"Point"}
+}

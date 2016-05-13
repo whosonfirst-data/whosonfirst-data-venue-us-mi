@@ -1,0 +1,70 @@
+{
+  "id": 706516919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.721733,42.692134,-85.721733,42.692134",
+    "geom:latitude":42.692134,
+    "geom:longitude":-85.721733,
+    "iso:country":"US",
+    "sg:address":"3752 18th St",
+    "sg:city":"Dorr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 793 7387",
+    "sg:postcode":"49323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.dorrvetclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eMhO3KefLVbrlmHPdFqTg_42.692134_-85.721733@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804979,
+    "wof:geomhash":"a5ca26913c748bcbfd3184f4ebf8fc4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706516919
+        }
+    ],
+    "wof:id":706516919,
+    "wof:lastmodified":1461804979,
+    "wof:name":"Dorr Veterinary Clinic",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.721733,
+    42.692134,
+    -85.721733,
+    42.692134
+],
+  "geometry": {"coordinates":[-85.721733,42.692134],"type":"Point"}
+}

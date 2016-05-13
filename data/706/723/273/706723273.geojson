@@ -1,0 +1,85 @@
+{
+  "id": 706723273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.213823,42.256799,-83.213823,42.256799",
+    "geom:latitude":42.256799,
+    "geom:longitude":-83.213823,
+    "iso:country":"US",
+    "sg:address":"7105 Allen Rd",
+    "sg:city":"Allen Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 388 6299",
+    "sg:postcode":"48101",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "medical",
+        "internal"
+    ],
+    "sg:website":"www.conquercancers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896723,
+        102191575,
+        404508531,
+        85633793,
+        85951057,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y7O7oEl6tNelNPTbRGEDm_42.256799_-83.213823@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811123,
+    "wof:geomhash":"bf6d4d679c56ddeed2904236dd22b5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508531,
+            "locality_id":85951057,
+            "neighbourhood_id":85896723,
+            "region_id":85688599,
+            "venue_id":706723273
+        }
+    ],
+    "wof:id":706723273,
+    "wof:lastmodified":1461811123,
+    "wof:name":"Momin Center - Cancer and Blood Disorders",
+    "wof:parent_id":85896723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "medical",
+        "internal"
+    ]
+},
+  "bbox": [
+    -83.213823,
+    42.256799,
+    -83.213823,
+    42.256799
+],
+  "geometry": {"coordinates":[-83.213823,42.256799],"type":"Point"}
+}

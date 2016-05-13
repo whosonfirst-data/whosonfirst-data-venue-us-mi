@@ -1,0 +1,88 @@
+{
+  "id": 706728691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.260732,42.324643,-83.260732,42.324643",
+    "geom:latitude":42.324643,
+    "geom:longitude":-83.260732,
+    "iso:country":"US",
+    "sg:address":"18151 Outer Dr",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 406 2777",
+    "sg:postcode":"48128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524929,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v9Hy4z7fiRHBDqHjPmraZ_42.324643_-83.260732@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811375,
+    "wof:geomhash":"82b5a0e376b036d5b1aff5d29cb3acef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":420524929,
+            "region_id":85688599,
+            "venue_id":706728691
+        }
+    ],
+    "wof:id":706728691,
+    "wof:lastmodified":1461811375,
+    "wof:name":"King Core Inc",
+    "wof:parent_id":420524929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -83.260732,
+    42.324643,
+    -83.260732,
+    42.324643
+],
+  "geometry": {"coordinates":[-83.260732,42.324643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706701927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.947853,42.671727,-82.947853,42.671727",
+    "geom:latitude":42.671727,
+    "geom:longitude":-82.947853,
+    "iso:country":"US",
+    "sg:address":"17700 23 Mile Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 416 7500",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_244MPJruzPv1b258FP50vA_42.671727_-82.947853@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810154,
+    "wof:geomhash":"785b479f93a71fc870aff48e633586c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701927
+        }
+    ],
+    "wof:id":706701927,
+    "wof:lastmodified":1461810154,
+    "wof:name":"Voights, Kaci",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.947853,
+    42.671727,
+    -82.947853,
+    42.671727
+],
+  "geometry": {"coordinates":[-82.94785299999999,42.671727],"type":"Point"}
+}

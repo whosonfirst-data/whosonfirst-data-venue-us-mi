@@ -1,0 +1,76 @@
+{
+  "id": 689674503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.850567,42.588559,-82.850567,42.588559",
+    "geom:latitude":42.588559,
+    "geom:longitude":-82.850567,
+    "iso:country":"US",
+    "sg:address":"39200 Townhall St",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 9939",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "door",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PzqbKyL8Qs6nudtk0n49k_42.588559_-82.850567@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778495,
+    "wof:geomhash":"c50f9487f6ae2d3ff3b3645c331bd46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":689674503
+        }
+    ],
+    "wof:id":689674503,
+    "wof:lastmodified":1461778495,
+    "wof:name":"American Door & Trim Inc",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.850567,
+    42.588559,
+    -82.850567,
+    42.588559
+],
+  "geometry": {"coordinates":[-82.850567,42.588559],"type":"Point"}
+}

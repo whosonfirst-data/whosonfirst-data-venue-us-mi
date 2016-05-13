@@ -1,0 +1,74 @@
+{
+  "id": 706687313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.079694,45.745902,-87.079694,45.745902",
+    "geom:latitude":45.745902,
+    "geom:longitude":-87.079694,
+    "iso:country":"US",
+    "sg:address":"112 N Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/escanaba/182104-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 5681",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_354fhEXM4fjwqVNDZATykB_45.745902_-87.079694@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809568,
+    "wof:geomhash":"f9e331b0a229a54ad5d8e08628000a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706687313
+        }
+    ],
+    "wof:id":706687313,
+    "wof:lastmodified":1461809568,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.079694,
+    45.745902,
+    -87.079694,
+    45.745902
+],
+  "geometry": {"coordinates":[-87.079694,45.745902],"type":"Point"}
+}

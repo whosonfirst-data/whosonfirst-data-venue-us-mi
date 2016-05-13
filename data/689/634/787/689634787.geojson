@@ -1,0 +1,71 @@
+{
+  "id": 689634787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403178,44.260023,-85.403178,44.260023",
+    "geom:latitude":44.260023,
+    "geom:longitude":-85.403178,
+    "iso:country":"US",
+    "sg:address":"918 Baker St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 0790",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RN0xStsC0DT0NeuElYiq1_44.260023_-85.403178@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777280,
+    "wof:geomhash":"621d454769a2f67ffc54146acf84b89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689634787
+        }
+    ],
+    "wof:id":689634787,
+    "wof:lastmodified":1461777280,
+    "wof:name":"Potter's Painting",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.403178,
+    44.260023,
+    -85.403178,
+    44.260023
+],
+  "geometry": {"coordinates":[-85.403178,44.260023],"type":"Point"}
+}

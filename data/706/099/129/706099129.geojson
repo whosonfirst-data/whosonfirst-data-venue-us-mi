@@ -1,0 +1,71 @@
+{
+  "id": 706099129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428198,42.262918,-84.428198,42.262918",
+    "geom:latitude":42.262918,
+    "geom:longitude":-84.428198,
+    "iso:country":"US",
+    "sg:address":"1315 N Wisner St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5047",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59FecymE0uOm51yd0pF61i_42.262918_-84.428198@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795763,
+    "wof:geomhash":"5bc359670eff6b5447c621e7271739b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706099129
+        }
+    ],
+    "wof:id":706099129,
+    "wof:lastmodified":1461795763,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.428198,
+    42.262918,
+    -84.428198,
+    42.262918
+],
+  "geometry": {"coordinates":[-84.42819799999999,42.262918],"type":"Point"}
+}

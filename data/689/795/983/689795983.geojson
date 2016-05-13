@@ -1,0 +1,75 @@
+{
+  "id": 689795983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.932495,43.400284,-83.932495,43.400284",
+    "geom:latitude":43.400284,
+    "geom:longitude":-83.932495,
+    "iso:country":"US",
+    "sg:address":"2522 Hess Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 755 1135",
+    "sg:postcode":"48601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524651,
+        102191575,
+        404508781,
+        85633793,
+        85952103,
+        102083725,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rZIMPyakCcgAlTjiGwGrc_43.400284_-83.932495@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781741,
+    "wof:geomhash":"35ac783ad0486de3c768477bd77795d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083725,
+            "localadmin_id":404508781,
+            "locality_id":85952103,
+            "neighbourhood_id":420524651,
+            "region_id":85688599,
+            "venue_id":689795983
+        }
+    ],
+    "wof:id":689795983,
+    "wof:lastmodified":1461781741,
+    "wof:name":"Road One",
+    "wof:parent_id":420524651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.932495,
+    43.400284,
+    -83.932495,
+    43.400284
+],
+  "geometry": {"coordinates":[-83.932495,43.400284],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706737643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.465103,42.3587,-83.465103,42.3587",
+    "geom:latitude":42.3587,
+    "geom:longitude":-83.465103,
+    "iso:country":"US",
+    "sg:address":"555 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 2930",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76jiOs9f5w2btQwdSwpypA_42.358700_-83.465103@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811722,
+    "wof:geomhash":"d4c6f2b65b8ed1db7451812ff2411de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737643
+        }
+    ],
+    "wof:id":706737643,
+    "wof:lastmodified":1461811722,
+    "wof:name":"Papa Romanos Pizza",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.465103,
+    42.3587,
+    -83.465103,
+    42.3587
+],
+  "geometry": {"coordinates":[-83.465103,42.3587],"type":"Point"}
+}

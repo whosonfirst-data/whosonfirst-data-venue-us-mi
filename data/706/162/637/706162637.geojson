@@ -1,0 +1,73 @@
+{
+  "id": 706162637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.360568,42.931292,-85.360568,42.931292",
+    "geom:latitude":42.931292,
+    "geom:longitude":-85.360568,
+    "iso:country":"US",
+    "sg:address":"1965 W Main St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 6076",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gGcswtrMdL7ygjtYKqQCK_42.931292_-85.360568@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797265,
+    "wof:geomhash":"fc8fd99db5733e77c8a435d6d684a747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706162637
+        }
+    ],
+    "wof:id":706162637,
+    "wof:lastmodified":1461797265,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.360568,
+    42.931292,
+    -85.360568,
+    42.931292
+],
+  "geometry": {"coordinates":[-85.360568,42.931292],"type":"Point"}
+}

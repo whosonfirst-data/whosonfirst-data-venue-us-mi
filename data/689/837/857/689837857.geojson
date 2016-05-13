@@ -1,0 +1,73 @@
+{
+  "id": 689837857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.357326,42.929195,-85.357326,42.929195",
+    "geom:latitude":42.929195,
+    "geom:longitude":-85.357326,
+    "iso:country":"US",
+    "sg:address":"1112 Bowes Rd",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 6880",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jpVMtfywdQwvJnaJPhaZj_42.929195_-85.357326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783056,
+    "wof:geomhash":"d818919a68223e18a1a069837ebeebc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689837857
+        }
+    ],
+    "wof:id":689837857,
+    "wof:lastmodified":1461783056,
+    "wof:name":"Pebble Beach Apartments",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.357326,
+    42.929195,
+    -85.357326,
+    42.929195
+],
+  "geometry": {"coordinates":[-85.357326,42.929195],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706726721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.175554,42.322421,-83.175554,42.322421",
+    "geom:latitude":42.322421,
+    "geom:longitude":-83.175554,
+    "iso:country":"US",
+    "sg:address":"13530 Michigan Ave",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 624 0000",
+    "sg:postcode":"48126",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524921,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rdrt5IzcrpcAV2SGYNdLw_42.322421_-83.175554@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811297,
+    "wof:geomhash":"bc90ac4f38524477f05a31520c3f4737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":420524921,
+            "region_id":85688599,
+            "venue_id":706726721
+        }
+    ],
+    "wof:id":706726721,
+    "wof:lastmodified":1461811297,
+    "wof:name":"Cheuk Silas MD",
+    "wof:parent_id":420524921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.175554,
+    42.322421,
+    -83.175554,
+    42.322421
+],
+  "geometry": {"coordinates":[-83.17555400000001,42.322421],"type":"Point"}
+}

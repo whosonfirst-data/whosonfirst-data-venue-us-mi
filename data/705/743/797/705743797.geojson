@@ -1,0 +1,71 @@
+{
+  "id": 705743797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225023,43.197799,-86.225023,43.197799",
+    "geom:latitude":43.197799,
+    "geom:longitude":-86.225023,
+    "iso:country":"US",
+    "sg:address":"3096 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 1026",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRmQpUBuOt9zEwzi4qRMP_43.197799_-86.225023@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787724,
+    "wof:geomhash":"2f5f4387516ce8d9b9e65debe27be134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705743797
+        }
+    ],
+    "wof:id":705743797,
+    "wof:lastmodified":1461787724,
+    "wof:name":"Ryan's Transmission Repair",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -86.225023,
+    43.197799,
+    -86.225023,
+    43.197799
+],
+  "geometry": {"coordinates":[-86.22502299999999,43.197799],"type":"Point"}
+}

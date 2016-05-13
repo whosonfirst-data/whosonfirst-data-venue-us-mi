@@ -1,0 +1,76 @@
+{
+  "id": 706687489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.092384,42.461637,-83.092384,42.461637",
+    "geom:latitude":42.461637,
+    "geom:longitude":-83.092384,
+    "iso:country":"US",
+    "sg:address":"1221 E 9 Mile Rd",
+    "sg:city":"Hazel Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/hazel-park/207740-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 544 1223",
+    "sg:postcode":"48030",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524611,
+        102191575,
+        404508191,
+        85633793,
+        85952063,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yNk7aP3duVr5QfzMUtWYO_42.461739_-83.091638@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809574,
+    "wof:geomhash":"a7393f606a5351d86761e4c58d80c921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":420524611,
+            "region_id":85688599,
+            "venue_id":706687489
+        }
+    ],
+    "wof:id":706687489,
+    "wof:lastmodified":1461809574,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420524611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.092384,
+    42.461637,
+    -83.092384,
+    42.461637
+],
+  "geometry": {"coordinates":[-83.092384,42.461637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706018903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.917029,42.899661,-85.917029,42.899661",
+    "geom:latitude":42.899661,
+    "geom:longitude":-85.917029,
+    "iso:country":"US",
+    "sg:address":"5346 Tyler St",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 4488",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eTvuz7bja9fmysW15i0lx_42.899661_-85.917029@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793984,
+    "wof:geomhash":"a5f87f09b6cd3d86dfc778f5406d8961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706018903
+        }
+    ],
+    "wof:id":706018903,
+    "wof:lastmodified":1461793984,
+    "wof:name":"Blendon Township Fire Station",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.917029,
+    42.899661,
+    -85.917029,
+    42.899661
+],
+  "geometry": {"coordinates":[-85.917029,42.899661],"type":"Point"}
+}

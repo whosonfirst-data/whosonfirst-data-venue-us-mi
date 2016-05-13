@@ -1,0 +1,77 @@
+{
+  "id": 706133461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.665198,41.960014,-83.665198,41.960014",
+    "geom:latitude":41.960014,
+    "geom:longitude":-83.665198,
+    "iso:country":"US",
+    "sg:address":"501 Rawson St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2828",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "organization",
+        "membership",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y0lpddoJ7adNCpgGDYXHV_41.960014_-83.665198@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796607,
+    "wof:geomhash":"9d6278e6552d67a7480396a242adf588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706133461
+        }
+    ],
+    "wof:id":706133461,
+    "wof:lastmodified":1461796607,
+    "wof:name":"Rawson Place",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "organization",
+        "membership",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.665198,
+    41.960014,
+    -83.665198,
+    41.960014
+],
+  "geometry": {"coordinates":[-83.665198,41.960014],"type":"Point"}
+}

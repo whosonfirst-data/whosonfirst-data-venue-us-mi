@@ -1,0 +1,89 @@
+{
+  "id": 689911451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.885632,42.454491,-82.885632,42.454491",
+    "geom:latitude":42.454491,
+    "geom:longitude":-82.885632,
+    "iso:country":"US",
+    "sg:address":"23153 Gladhill Ln",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 777 8012",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524409,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00NS6KWqyDFe7Kf4C8azmg_42.454491_-82.885632@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784899,
+    "wof:geomhash":"8c7da99593f3b4ca45a4e87befed6d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":689911451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":689911451
+        }
+    ],
+    "wof:id":689911451,
+    "wof:lastmodified":1461784899,
+    "wof:name":"Electronic Development Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -82.885632,
+    42.454491,
+    -82.885632,
+    42.454491
+],
+  "geometry": {"coordinates":[-82.885632,42.454491],"type":"Point"}
+}

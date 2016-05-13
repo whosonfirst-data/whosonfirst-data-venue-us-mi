@@ -1,0 +1,71 @@
+{
+  "id": 705794635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.348125,41.827391,-86.348125,41.827391",
+    "geom:latitude":41.827391,
+    "geom:longitude":-86.348125,
+    "iso:country":"US",
+    "sg:address":"901 E Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 2457",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gah9I279wFNwAdPvRI95q_41.827391_-86.348125@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788893,
+    "wof:geomhash":"4b496f9379300da81e859ca04724c091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705794635
+        }
+    ],
+    "wof:id":705794635,
+    "wof:lastmodified":1461788893,
+    "wof:name":"Village Car Wash",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.348125,
+    41.827391,
+    -86.348125,
+    41.827391
+],
+  "geometry": {"coordinates":[-86.348125,41.827391],"type":"Point"}
+}

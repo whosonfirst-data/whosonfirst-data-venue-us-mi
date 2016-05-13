@@ -1,0 +1,73 @@
+{
+  "id": 705854247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.609989,46.500284,-87.609989,46.500284",
+    "geom:latitude":46.500284,
+    "geom:longitude":-87.609989,
+    "iso:country":"US",
+    "sg:address":"209 W Case St",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 4771",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ar40AX4rZ71ghl7geOqm2_46.500284_-87.609989@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790286,
+    "wof:geomhash":"b895fcae5432159d2e08547fb3ce26f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705854247
+        }
+    ],
+    "wof:id":705854247,
+    "wof:lastmodified":1461790286,
+    "wof:name":"John & Janice Eman",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -87.609989,
+    46.500284,
+    -87.609989,
+    46.500284
+],
+  "geometry": {"coordinates":[-87.609989,46.500284],"type":"Point"}
+}

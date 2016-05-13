@@ -1,0 +1,71 @@
+{
+  "id": 706585335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.856044,43.062999,-83.856044,43.062999",
+    "geom:latitude":43.062999,
+    "geom:longitude":-83.856044,
+    "iso:country":"US",
+    "sg:address":"1 E Main St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 0505",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ppiEJPaHIVI1Cv6BghJuR_43.062999_-83.856044@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806426,
+    "wof:geomhash":"614f4f39d41a4d9d9fb0cefd6df431c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":706585335
+        }
+    ],
+    "wof:id":706585335,
+    "wof:lastmodified":1461806426,
+    "wof:name":"Antique Restoration Service",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -83.856044,
+    43.062999,
+    -83.856044,
+    43.062999
+],
+  "geometry": {"coordinates":[-83.856044,43.062999],"type":"Point"}
+}

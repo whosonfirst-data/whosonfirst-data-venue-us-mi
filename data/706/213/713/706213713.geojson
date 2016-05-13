@@ -1,0 +1,69 @@
+{
+  "id": 706213713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625374,44.762791,-85.625374,44.762791",
+    "geom:latitude":44.762791,
+    "geom:longitude":-85.625374,
+    "iso:country":"US",
+    "sg:address":"135 W State St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 6830",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qrScJfgwB10WYssbwDQgH_44.762791_-85.625374@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798368,
+    "wof:geomhash":"6036f22e29dd6c868ef0ed6546cf11fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706213713
+        }
+    ],
+    "wof:id":706213713,
+    "wof:lastmodified":1461798368,
+    "wof:name":"Max's Service Appliance",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -85.625374,
+    44.762791,
+    -85.625374,
+    44.762791
+],
+  "geometry": {"coordinates":[-85.62537399999999,44.762791],"type":"Point"}
+}

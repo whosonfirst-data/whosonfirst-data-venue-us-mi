@@ -1,0 +1,73 @@
+{
+  "id": 689740931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.69498,41.820948,-86.69498,41.820948",
+    "geom:latitude":41.820948,
+    "geom:longitude":-86.69498,
+    "iso:country":"US",
+    "sg:address":"9937 Community Hall Rd",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 6306",
+    "sg:postcode":"49129",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_178jBab4jzAxV8p46vywCG_41.820948_-86.694980@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780214,
+    "wof:geomhash":"b8b40c56f21a10b9f2ea810f6251469b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689740931
+        }
+    ],
+    "wof:id":689740931,
+    "wof:lastmodified":1461780214,
+    "wof:name":"Robert Weiss MD",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.69498,
+    41.820948,
+    -86.69498,
+    41.820948
+],
+  "geometry": {"coordinates":[-86.69498,41.820948],"type":"Point"}
+}

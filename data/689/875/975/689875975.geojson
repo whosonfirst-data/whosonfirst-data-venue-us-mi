@@ -1,0 +1,71 @@
+{
+  "id": 689875975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.621154,44.752211,-85.621154,44.752211",
+    "geom:latitude":44.752211,
+    "geom:longitude":-85.621154,
+    "iso:country":"US",
+    "sg:address":"114 Griffin St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 1242",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jAgxz7EKfZZ1p6q8OHUPd_44.752211_-85.621154@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783941,
+    "wof:geomhash":"1ab9a4290f761df159a00be508262ecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689875975
+        }
+    ],
+    "wof:id":689875975,
+    "wof:lastmodified":1461783941,
+    "wof:name":"Jack's Auto Svc",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.621154,
+    44.752211,
+    -85.621154,
+    44.752211
+],
+  "geometry": {"coordinates":[-85.621154,44.752211],"type":"Point"}
+}

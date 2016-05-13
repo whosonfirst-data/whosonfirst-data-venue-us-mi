@@ -1,0 +1,73 @@
+{
+  "id": 689582569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758858,43.308252,-85.758858,43.308252",
+    "geom:latitude":43.308252,
+    "geom:longitude":-85.758858,
+    "iso:country":"US",
+    "sg:address":"953 E 136th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 4328",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ha8SPxBwxI0THUVpsuH5I_43.308252_-85.758858@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775692,
+    "wof:geomhash":"d38db2d3c0b023f09c1c0329355cc82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689582569
+        }
+    ],
+    "wof:id":689582569,
+    "wof:lastmodified":1461775692,
+    "wof:name":"Mark Of The Z Heating",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.758858,
+    43.308252,
+    -85.758858,
+    43.308252
+],
+  "geometry": {"coordinates":[-85.758858,43.308252],"type":"Point"}
+}

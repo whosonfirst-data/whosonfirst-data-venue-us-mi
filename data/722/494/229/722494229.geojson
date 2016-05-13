@@ -1,0 +1,80 @@
+{
+  "id": 722494229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.037003,42.332001,-83.037003,42.332001",
+    "geom:latitude":42.332001,
+    "geom:longitude":-83.037003,
+    "iso:country":"US",
+    "sg:address":"651 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 596 0241",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870597,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23nPT2iUQF61YJh01P7uFp_42.332001_-83.037003@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812857,
+    "wof:geomhash":"2cca63d87392c8bdcc63df053241c603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870597,
+            "region_id":85688599,
+            "venue_id":722494229
+        }
+    ],
+    "wof:id":722494229,
+    "wof:lastmodified":1461812857,
+    "wof:name":"University of Detroit Mercy",
+    "wof:parent_id":85870597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -83.037003,
+    42.332001,
+    -83.037003,
+    42.332001
+],
+  "geometry": {"coordinates":[-83.037003,42.332001],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 706681171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.517768,43.023477,-83.517768,43.023477",
+    "geom:latitude":43.023477,
+    "geom:longitude":-83.517768,
+    "iso:country":"US",
+    "sg:address":"701 S State Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/davison/133238-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 658 2970",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U2gZTnguTPbrJFjt2AxmF_43.023477_-83.517768@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809328,
+    "wof:geomhash":"029ed443eda35db8ef8b7aba646ea5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706681171
+        }
+    ],
+    "wof:id":706681171,
+    "wof:lastmodified":1461809328,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.517768,
+    43.023477,
+    -83.517768,
+    43.023477
+],
+  "geometry": {"coordinates":[-83.517768,43.023477],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706434907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.392152,46.545899,-87.392152,46.545899",
+    "geom:latitude":46.545899,
+    "geom:longitude":-87.392152,
+    "iso:country":"US",
+    "sg:address":"326 N Front St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 7760",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OcwxVl7CyTeDFGjRFCpu1_46.545899_-87.392152@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803082,
+    "wof:geomhash":"a00ad6bcc2257fb94bdac4cf2d77aed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706434907
+        }
+    ],
+    "wof:id":706434907,
+    "wof:lastmodified":1461803082,
+    "wof:name":"Lake Superior Hospice",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -87.392152,
+    46.545899,
+    -87.392152,
+    46.545899
+],
+  "geometry": {"coordinates":[-87.392152,46.545899],"type":"Point"}
+}

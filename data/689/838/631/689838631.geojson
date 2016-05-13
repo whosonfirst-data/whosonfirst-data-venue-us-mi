@@ -1,0 +1,69 @@
+{
+  "id": 689838631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.37227,42.209789,-84.37227,42.209789",
+    "geom:latitude":42.209789,
+    "geom:longitude":-84.37227,
+    "iso:country":"US",
+    "sg:address":"2452 Brooklyn Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 6956",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oIIF7f0sV7yBBPziRxfDZ_42.209789_-84.372270@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783072,
+    "wof:geomhash":"438f45c507e7f6f01ce47204d9c3af9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689838631
+        }
+    ],
+    "wof:id":689838631,
+    "wof:lastmodified":1461783072,
+    "wof:name":"Bobs Radiator Service & AC",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.37227,
+    42.209789,
+    -84.37227,
+    42.209789
+],
+  "geometry": {"coordinates":[-84.37227,42.209789],"type":"Point"}
+}

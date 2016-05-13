@@ -1,0 +1,74 @@
+{
+  "id": 706503077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.580884,42.909101,-85.580884,42.909101",
+    "geom:latitude":42.909101,
+    "geom:longitude":-85.580884,
+    "iso:country":"US",
+    "sg:address":"3506 29th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 5000",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.foxmotorgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w943A3lwYaybN3d0WCtqD_42.909101_-85.580884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804711,
+    "wof:geomhash":"a00414877d878ce95220dba4fa74e909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706503077
+        }
+    ],
+    "wof:id":706503077,
+    "wof:lastmodified":1461804711,
+    "wof:name":"Fox Motor Group",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.580884,
+    42.909101,
+    -85.580884,
+    42.909101
+],
+  "geometry": {"coordinates":[-85.580884,42.909101],"type":"Point"}
+}

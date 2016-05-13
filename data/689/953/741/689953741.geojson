@@ -1,0 +1,71 @@
+{
+  "id": 689953741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637344,42.118725,-85.637344,42.118725",
+    "geom:latitude":42.118725,
+    "geom:longitude":-85.637344,
+    "iso:country":"US",
+    "sg:address":"449 N Grand St",
+    "sg:city":"Schoolcraft",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 679 5285",
+    "sg:postcode":"49087",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hqc78SRcz0UigFJjuanxD_42.118725_-85.637344@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785967,
+    "wof:geomhash":"73bc5a350a7bcec22f5699c608ccc15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":689953741
+        }
+    ],
+    "wof:id":689953741,
+    "wof:lastmodified":1461785967,
+    "wof:name":"Roger B Sullivan DDS",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.637344,
+    42.118725,
+    -85.637344,
+    42.118725
+],
+  "geometry": {"coordinates":[-85.637344,42.118725],"type":"Point"}
+}

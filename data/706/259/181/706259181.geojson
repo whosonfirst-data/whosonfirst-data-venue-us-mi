@@ -1,0 +1,73 @@
+{
+  "id": 706259181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447704,43.953595,-86.447704,43.953595",
+    "geom:latitude":43.953595,
+    "geom:longitude":-86.447704,
+    "iso:country":"US",
+    "sg:address":"109 E Filer St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 2809",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sn98nPw0GDfGBahIsuKYr_43.953595_-86.447704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799387,
+    "wof:geomhash":"9dcac7a104fa583990a67827707cc204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706259181
+        }
+    ],
+    "wof:id":706259181,
+    "wof:lastmodified":1461799387,
+    "wof:name":"Hankwitz Heating & Air",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.447704,
+    43.953595,
+    -86.447704,
+    43.953595
+],
+  "geometry": {"coordinates":[-86.447704,43.953595],"type":"Point"}
+}

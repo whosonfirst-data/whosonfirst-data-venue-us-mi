@@ -1,0 +1,71 @@
+{
+  "id": 689805065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647177,42.898413,-85.647177,42.898413",
+    "geom:latitude":42.898413,
+    "geom:longitude":-85.647177,
+    "iso:country":"US",
+    "sg:address":"755 36th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 243 2783",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "handicapped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KVZbgiIzPH8jSOsCdQsUb_42.898413_-85.647177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782051,
+    "wof:geomhash":"c8746cc8bf57c85e473fbc910545e8e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689805065
+        }
+    ],
+    "wof:id":689805065,
+    "wof:lastmodified":1461782051,
+    "wof:name":"North Kent Transit Svc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped"
+    ]
+},
+  "bbox": [
+    -85.647177,
+    42.898413,
+    -85.647177,
+    42.898413
+],
+  "geometry": {"coordinates":[-85.647177,42.898413],"type":"Point"}
+}

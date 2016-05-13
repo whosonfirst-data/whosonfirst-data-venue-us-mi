@@ -1,0 +1,80 @@
+{
+  "id": 706728419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.299306,42.326567,-83.299306,42.326567",
+    "geom:latitude":42.326567,
+    "geom:longitude":-83.299306,
+    "iso:country":"US",
+    "sg:address":"26400 Ford Rd Ste A",
+    "sg:city":"Dearborn Heights",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 827 3716",
+    "sg:postcode":"48127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896625,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGF3QM4dezotNnHRd5bvd_42.326567_-83.299306@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811366,
+    "wof:geomhash":"20267cb40befd3aab8250b5317fa32c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85896625,
+            "region_id":85688599,
+            "venue_id":706728419
+        }
+    ],
+    "wof:id":706728419,
+    "wof:lastmodified":1461811366,
+    "wof:name":"Kroger",
+    "wof:parent_id":85896625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.299306,
+    42.326567,
+    -83.299306,
+    42.326567
+],
+  "geometry": {"coordinates":[-83.299306,42.326567],"type":"Point"}
+}

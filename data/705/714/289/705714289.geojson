@@ -1,0 +1,69 @@
+{
+  "id": 705714289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.85841,43.063061,-83.85841,43.063061",
+    "geom:latitude":43.063061,
+    "geom:longitude":-83.85841,
+    "iso:country":"US",
+    "sg:address":"250 W Main St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 5841",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UBld30EpZY1LIGl95unPv_43.063061_-83.858410@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787017,
+    "wof:geomhash":"9b93d0217a29c84f62ca4fa3429be698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705714289
+        }
+    ],
+    "wof:id":705714289,
+    "wof:lastmodified":1461787017,
+    "wof:name":"Village Cleaners",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.85841,
+    43.063061,
+    -83.85841,
+    43.063061
+],
+  "geometry": {"coordinates":[-83.85841000000001,43.063061],"type":"Point"}
+}

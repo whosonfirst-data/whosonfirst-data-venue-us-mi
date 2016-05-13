@@ -1,0 +1,73 @@
+{
+  "id": 706143511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.205286,42.768308,-83.205286,42.768308",
+    "geom:latitude":42.768308,
+    "geom:longitude":-83.205286,
+    "iso:country":"US",
+    "sg:address":"3343 E Clarkston Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 8544",
+    "sg:postcode":"48363",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JcAVhGuit8rWUGvRd3GRP_42.768308_-83.205286@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796834,
+    "wof:geomhash":"445d55e32127214bb2b36e926a76dcdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":706143511
+        }
+    ],
+    "wof:id":706143511,
+    "wof:lastmodified":1461796834,
+    "wof:name":"English Pet Sitters",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.205286,
+    42.768308,
+    -83.205286,
+    42.768308
+],
+  "geometry": {"coordinates":[-83.205286,42.768308],"type":"Point"}
+}

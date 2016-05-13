@@ -1,0 +1,71 @@
+{
+  "id": 706346729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.08665,45.769588,-87.08665,45.769588",
+    "geom:latitude":45.769588,
+    "geom:longitude":-87.08665,
+    "iso:country":"US",
+    "sg:address":"2803 Danforth Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 8605",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fc3w4zuAYvWZ8FZwxu2rk_45.769588_-87.086650@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801347,
+    "wof:geomhash":"db6ec2e2d338f324bc071cd9cebf1cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706346729
+        }
+    ],
+    "wof:id":706346729,
+    "wof:lastmodified":1461801347,
+    "wof:name":"B & B Plumbing & Heating",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.08665,
+    45.769588,
+    -87.08665,
+    45.769588
+],
+  "geometry": {"coordinates":[-87.08665000000001,45.769588],"type":"Point"}
+}

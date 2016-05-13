@@ -1,0 +1,71 @@
+{
+  "id": 689565685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.483964,42.272965,-83.483964,42.272965",
+    "geom:latitude":42.272965,
+    "geom:longitude":-83.483964,
+    "iso:country":"US",
+    "sg:address":"45230 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 0570",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04lyBo8RKV33k6fARGuiv4_42.272965_-83.483964@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775176,
+    "wof:geomhash":"c72e6944f689d83b6465f17bfca095c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":689565685
+        }
+    ],
+    "wof:id":689565685,
+    "wof:lastmodified":1461775176,
+    "wof:name":"Clark Retail Enterprises Inc",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.483964,
+    42.272965,
+    -83.483964,
+    42.272965
+],
+  "geometry": {"coordinates":[-83.483964,42.272965],"type":"Point"}
+}

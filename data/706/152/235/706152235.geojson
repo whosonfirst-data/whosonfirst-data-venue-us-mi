@@ -1,0 +1,73 @@
+{
+  "id": 706152235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.496399,42.910774,-85.496399,42.910774",
+    "geom:latitude":42.910774,
+    "geom:longitude":-85.496399,
+    "iso:country":"US",
+    "sg:address":"6915 Cascade Rd SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 2940",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZhhLixr7zKF9EAOP6TU4n_42.910774_-85.496399@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797027,
+    "wof:geomhash":"c62d8e746bfe1caa1d969a5b4d613cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706152235
+        }
+    ],
+    "wof:id":706152235,
+    "wof:lastmodified":1461797027,
+    "wof:name":"Verburg's Automotive Svc",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.496399,
+    42.910774,
+    -85.496399,
+    42.910774
+],
+  "geometry": {"coordinates":[-85.496399,42.910774],"type":"Point"}
+}

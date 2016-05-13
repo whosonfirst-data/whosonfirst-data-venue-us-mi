@@ -1,0 +1,83 @@
+{
+  "id": 722512265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.338995,42.566109,-83.338995,42.566109",
+    "geom:latitude":42.566109,
+    "geom:longitude":-83.338995,
+    "iso:country":"US",
+    "sg:address":"4771 Cove Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 626 7008",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72YuOLZgZPHcvx6IGW3V3Y_42.566109_-83.338995@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813577,
+    "wof:geomhash":"cbec2eab39b877ed5b311ac98a8a61e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512265
+        }
+    ],
+    "wof:id":722512265,
+    "wof:lastmodified":1461813577,
+    "wof:name":"Allen J Scott MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -83.338995,
+    42.566109,
+    -83.338995,
+    42.566109
+],
+  "geometry": {"coordinates":[-83.338995,42.566109],"type":"Point"}
+}

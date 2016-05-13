@@ -1,0 +1,84 @@
+{
+  "id": 705980239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605699,42.692815,-84.605699,42.692815",
+    "geom:latitude":42.692815,
+    "geom:longitude":-84.605699,
+    "iso:country":"US",
+    "sg:address":"3910 Bayview Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 1293",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85840163,
+        102083005,
+        420524303,
+        102191575,
+        404507643,
+        85951849,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45vYVwkUARN0oF7TYkkKqr_42.692815_-84.605699@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793173,
+    "wof:geomhash":"6e81bbfb9c758164bb94567f617e9d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":705980239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":420524303,
+            "region_id":85688599,
+            "venue_id":705980239
+        }
+    ],
+    "wof:id":705980239,
+    "wof:lastmodified":1461793173,
+    "wof:name":"Circle Y Ranch of Bangor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -84.605699,
+    42.692815,
+    -84.605699,
+    42.692815
+],
+  "geometry": {"coordinates":[-84.605699,42.692815],"type":"Point"}
+}

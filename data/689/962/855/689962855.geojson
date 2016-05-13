@@ -1,0 +1,73 @@
+{
+  "id": 689962855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.376267,41.827381,-86.376267,41.827381",
+    "geom:latitude":41.827381,
+    "geom:longitude":-86.376267,
+    "iso:country":"US",
+    "sg:address":"808 W Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 2555",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kjlcMVlBf2FIl6ivemB2T_41.827381_-86.376267@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786204,
+    "wof:geomhash":"bebe8b2560308ac3f6fb1e1bb2de43f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":689962855
+        }
+    ],
+    "wof:id":689962855,
+    "wof:lastmodified":1461786204,
+    "wof:name":"West Wind Apartments",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.376267,
+    41.827381,
+    -86.376267,
+    41.827381
+],
+  "geometry": {"coordinates":[-86.376267,41.827381],"type":"Point"}
+}

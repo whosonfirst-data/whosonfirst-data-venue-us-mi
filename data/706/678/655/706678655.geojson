@@ -1,0 +1,97 @@
+{
+  "id": 706678655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.074739,42.36985,-83.074739,42.36985",
+    "geom:latitude":42.36985,
+    "geom:longitude":-83.074739,
+    "iso:country":"US",
+    "sg:address":"3031 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/131087-lunchtime-detroit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 874 3111",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870609,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r2vza0RMZToT7pan8iD8J_42.369850_-83.074739@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809232,
+    "wof:geomhash":"765e6a14010278bdf3062c80288aa79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706678655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":706678655
+        }
+    ],
+    "wof:id":706678655,
+    "wof:lastmodified":1461809232,
+    "wof:name":"Lunchtime Detroit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -83.074739,
+    42.36985,
+    -83.074739,
+    42.36985
+],
+  "geometry": {"coordinates":[-83.07473899999999,42.36985],"type":"Point"}
+}

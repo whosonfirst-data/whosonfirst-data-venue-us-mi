@@ -1,0 +1,71 @@
+{
+  "id": 689958843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.226088,43.066343,-86.226088,43.066343",
+    "geom:latitude":43.066343,
+    "geom:longitude":-86.226088,
+    "iso:country":"US",
+    "sg:address":"317 N 4th St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 9470",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XCbujEz2DSPJt5mPEj9mx_43.066343_-86.226088@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786100,
+    "wof:geomhash":"5ece1939f4548f0f61d0fba8c236236c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689958843
+        }
+    ],
+    "wof:id":689958843,
+    "wof:lastmodified":1461786100,
+    "wof:name":"Rademakers Auto Repair",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.226088,
+    43.066343,
+    -86.226088,
+    43.066343
+],
+  "geometry": {"coordinates":[-86.226088,43.066343],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 706735991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.424698,42.445099,-83.424698,42.445099",
+    "geom:latitude":42.445099,
+    "geom:longitude":-83.424698,
+    "iso:country":"US",
+    "sg:address":"20804 Halsted Rd",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 476 1516",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896717,
+        102191575,
+        404508187,
+        85633793,
+        85951999,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qf7Bn9nmoVkmJ7sZSADNi_42.445099_-83.424698@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811659,
+    "wof:geomhash":"ad18d1b9896bc2cd1e14228a971b8514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508187,
+            "locality_id":85951999,
+            "neighbourhood_id":85896717,
+            "region_id":85688599,
+            "venue_id":706735991
+        }
+    ],
+    "wof:id":706735991,
+    "wof:lastmodified":1461811659,
+    "wof:name":"Childtime Learning Centers",
+    "wof:parent_id":85896717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.424698,
+    42.445099,
+    -83.424698,
+    42.445099
+],
+  "geometry": {"coordinates":[-83.42469800000001,42.445099],"type":"Point"}
+}

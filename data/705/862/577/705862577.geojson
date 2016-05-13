@@ -1,0 +1,73 @@
+{
+  "id": 705862577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.445566,42.16792,-83.445566,42.16792",
+    "geom:latitude":42.16792,
+    "geom:longitude":-83.445566,
+    "iso:country":"US",
+    "sg:address":"41650 Harris Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 9670",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hfxizUhgOZQnLOv4f6F0R_42.167920_-83.445566@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790479,
+    "wof:geomhash":"c17f89c27967f8694ad410a075d9f9c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":705862577
+        }
+    ],
+    "wof:id":705862577,
+    "wof:lastmodified":1461790479,
+    "wof:name":"Ricks Trucking Exavating",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.445566,
+    42.16792,
+    -83.445566,
+    42.16792
+],
+  "geometry": {"coordinates":[-83.445566,42.16792],"type":"Point"}
+}

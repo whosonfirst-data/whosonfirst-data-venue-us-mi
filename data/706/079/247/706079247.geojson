@@ -1,0 +1,71 @@
+{
+  "id": 706079247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.330146,41.813337,-86.330146,41.813337",
+    "geom:latitude":41.813337,
+    "geom:longitude":-86.330146,
+    "iso:country":"US",
+    "sg:address":"3200 Chamberlain Rd",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 2500",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CuxdGwkiUMezbFOgGZZt0_41.813337_-86.330146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795239,
+    "wof:geomhash":"a31341be5ae572bec59e9b14e8eeda9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706079247
+        }
+    ],
+    "wof:id":706079247,
+    "wof:lastmodified":1461795239,
+    "wof:name":"Southeast Berrien County",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.330146,
+    41.813337,
+    -86.330146,
+    41.813337
+],
+  "geometry": {"coordinates":[-86.330146,41.813337],"type":"Point"}
+}

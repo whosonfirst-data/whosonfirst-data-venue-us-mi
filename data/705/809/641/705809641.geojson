@@ -1,0 +1,71 @@
+{
+  "id": 705809641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.48537,42.095886,-86.48537,42.095886",
+    "geom:latitude":42.095886,
+    "geom:longitude":-86.48537,
+    "iso:country":"US",
+    "sg:address":"1901 Niles Ave",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 556 7150",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11GXEAKwjhR64XJbkMP4Ia_42.095886_-86.485370@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789222,
+    "wof:geomhash":"55dcead68046e1b672e94eb796d1942c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":705809641
+        }
+    ],
+    "wof:id":705809641,
+    "wof:lastmodified":1461789222,
+    "wof:name":"Lakeland Rehabilitation Ctr",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -86.48537,
+    42.095886,
+    -86.48537,
+    42.095886
+],
+  "geometry": {"coordinates":[-86.48537,42.095886],"type":"Point"}
+}

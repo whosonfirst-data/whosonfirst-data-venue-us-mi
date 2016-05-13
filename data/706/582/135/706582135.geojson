@@ -1,0 +1,71 @@
+{
+  "id": 706582135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.45582,43.022256,-82.45582,43.022256",
+    "geom:latitude":43.022256,
+    "geom:longitude":-82.45582,
+    "iso:country":"US",
+    "sg:address":"3901 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 1586",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xxXb4bdRc1KAxqrG5XOd4_43.022256_-82.455820@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806366,
+    "wof:geomhash":"b7efb4855656b7aedd1388e70783a2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706582135
+        }
+    ],
+    "wof:id":706582135,
+    "wof:lastmodified":1461806366,
+    "wof:name":"Blue Water Orthodontics",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.45582,
+    43.022256,
+    -82.45582,
+    43.022256
+],
+  "geometry": {"coordinates":[-82.45582,43.022256],"type":"Point"}
+}

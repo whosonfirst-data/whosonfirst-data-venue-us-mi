@@ -1,0 +1,81 @@
+{
+  "id": 706728685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.268303,42.3269,-83.268303,42.3269",
+    "geom:latitude":42.3269,
+    "geom:longitude":-83.268303,
+    "iso:country":"US",
+    "sg:address":"23645 Ford Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 562 4224",
+    "sg:postcode":"48128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "towing"
+    ],
+    "sg:website":"www.fordtelmarathon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896605,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CN92ZXidaRaXxiHSCRtUl_42.326900_-83.268303@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811375,
+    "wof:geomhash":"39401b9c896eedac7e6accc5577102d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896605,
+            "region_id":85688599,
+            "venue_id":706728685
+        }
+    ],
+    "wof:id":706728685,
+    "wof:lastmodified":1461811375,
+    "wof:name":"Ford Tel Marathon Service",
+    "wof:parent_id":85896605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -83.268303,
+    42.3269,
+    -83.268303,
+    42.3269
+],
+  "geometry": {"coordinates":[-83.268303,42.3269],"type":"Point"}
+}

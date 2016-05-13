@@ -1,0 +1,71 @@
+{
+  "id": 689783815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447882,43.954305,-86.447882,43.954305",
+    "geom:latitude":43.954305,
+    "geom:longitude":-86.447882,
+    "iso:country":"US",
+    "sg:address":"222 S James St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 2791",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vIHZy1OcUIDekcT4J71md_43.954305_-86.447882@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781371,
+    "wof:geomhash":"6ea7a19421a088c61ed5b9f8148ddf14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":689783815
+        }
+    ],
+    "wof:id":689783815,
+    "wof:lastmodified":1461781371,
+    "wof:name":"Scott's Janitorial & Window",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.447882,
+    43.954305,
+    -86.447882,
+    43.954305
+],
+  "geometry": {"coordinates":[-86.44788200000001,43.954305],"type":"Point"}
+}

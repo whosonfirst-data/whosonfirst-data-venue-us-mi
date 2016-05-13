@@ -1,0 +1,84 @@
+{
+  "id": 706632343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.70816,43.001713,-83.70816,43.001713",
+    "geom:latitude":43.001713,
+    "geom:longitude":-83.70816,
+    "iso:country":"US",
+    "sg:address":"1902 Hammerberg Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 7232",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drinking",
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877389,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3Fz3Z5vF6mMq2AQfYuYn_43.001713_-83.708160@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807415,
+    "wof:geomhash":"dd4807a5de6aae22096ae2da25257bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877389,
+            "region_id":85688599,
+            "venue_id":706632343
+        }
+    ],
+    "wof:id":706632343,
+    "wof:lastmodified":1461807415,
+    "wof:name":"Tavern On The Green",
+    "wof:parent_id":85877389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -83.70816,
+    43.001713,
+    -83.70816,
+    43.001713
+],
+  "geometry": {"coordinates":[-83.70816000000001,43.001713],"type":"Point"}
+}

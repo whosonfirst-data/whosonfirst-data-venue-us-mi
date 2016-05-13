@@ -1,0 +1,71 @@
+{
+  "id": 706307819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331514,42.584649,-84.331514,42.584649",
+    "geom:latitude":42.584649,
+    "geom:longitude":-84.331514,
+    "iso:country":"US",
+    "sg:address":"790 E Columbia Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 5750",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RfCqCzNgCkc8Hw7e6iC20_42.584649_-84.331514@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800475,
+    "wof:geomhash":"c5c6edf3bd6ceafa5984a3d841ce2561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706307819
+        }
+    ],
+    "wof:id":706307819,
+    "wof:lastmodified":1461800475,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.331514,
+    42.584649,
+    -84.331514,
+    42.584649
+],
+  "geometry": {"coordinates":[-84.331514,42.584649],"type":"Point"}
+}

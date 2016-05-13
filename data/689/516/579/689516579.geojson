@@ -1,0 +1,71 @@
+{
+  "id": 689516579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.862998,42.599465,-82.862998,42.599465",
+    "geom:latitude":42.599465,
+    "geom:longitude":-82.862998,
+    "iso:country":"US",
+    "sg:address":"200 Macomb Daily Dr",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 886 7799",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yroI9EigK9P6gHadkxywx_42.599465_-82.862998@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773593,
+    "wof:geomhash":"b98f752a3dbc45a6078388ed9c2f33a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":689516579
+        }
+    ],
+    "wof:id":689516579,
+    "wof:lastmodified":1461773593,
+    "wof:name":"Medstar Ambulance Service",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -82.862998,
+    42.599465,
+    -82.862998,
+    42.599465
+],
+  "geometry": {"coordinates":[-82.862998,42.599465],"type":"Point"}
+}

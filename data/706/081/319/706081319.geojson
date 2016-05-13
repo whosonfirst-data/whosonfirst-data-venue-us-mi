@@ -1,0 +1,71 @@
+{
+  "id": 706081319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.730129,43.002373,-83.730129,43.002373",
+    "geom:latitude":43.002373,
+    "geom:longitude":-83.730129,
+    "iso:country":"US",
+    "sg:address":"3217 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 244 3895",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kOFdsr42etjLgPo99SNFV_43.002373_-83.730129@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795281,
+    "wof:geomhash":"f26671c28dd318cf1cb226fa410b0757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706081319
+        }
+    ],
+    "wof:id":706081319,
+    "wof:lastmodified":1461795281,
+    "wof:name":"Corunna Road Book Exchange",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.730129,
+    43.002373,
+    -83.730129,
+    43.002373
+],
+  "geometry": {"coordinates":[-83.73012900000001,43.002373],"type":"Point"}
+}

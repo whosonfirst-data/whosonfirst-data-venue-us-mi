@@ -1,0 +1,73 @@
+{
+  "id": 705771049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.289576,42.256784,-84.289576,42.256784",
+    "geom:latitude":42.256784,
+    "geom:longitude":-84.289576,
+    "iso:country":"US",
+    "sg:address":"1888 Fox Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 5601",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q1wReaR3gft86j0TAHWWK_42.256784_-84.289576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788321,
+    "wof:geomhash":"c0774f7349b61fb6cb099e0bfdf2077d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705771049
+        }
+    ],
+    "wof:id":705771049,
+    "wof:lastmodified":1461788321,
+    "wof:name":"Advantage Restoration",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -84.289576,
+    42.256784,
+    -84.289576,
+    42.256784
+],
+  "geometry": {"coordinates":[-84.289576,42.256784],"type":"Point"}
+}

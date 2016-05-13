@@ -1,0 +1,83 @@
+{
+  "id": 706725005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.234703,42.3008,-83.234703,42.3008",
+    "geom:latitude":42.3008,
+    "geom:longitude":-83.234703,
+    "iso:country":"US",
+    "sg:address":"20900 Oakwood Blvd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 271 1620",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"thehenryford.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896617,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60uHyWOKfxbN3y49YRaJ5w_42.300800_-83.234703@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811222,
+    "wof:geomhash":"fb9528b374445aef7e16dd5a9f884781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896617,
+            "region_id":85688599,
+            "venue_id":706725005
+        }
+    ],
+    "wof:id":706725005,
+    "wof:lastmodified":1461811222,
+    "wof:name":"The Henry Ford",
+    "wof:parent_id":85896617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -83.234703,
+    42.3008,
+    -83.234703,
+    42.3008
+],
+  "geometry": {"coordinates":[-83.234703,42.3008],"type":"Point"}
+}

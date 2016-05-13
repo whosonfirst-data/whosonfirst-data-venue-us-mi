@@ -1,0 +1,85 @@
+{
+  "id": 706740193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.270144,42.24171,-83.270144,42.24171",
+    "geom:latitude":42.24171,
+    "geom:longitude":-83.270144,
+    "iso:country":"US",
+    "sg:address":"9100 Telegraph Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 299 4475",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kZHH3BtH0mQPCgCHym8Pz_42.241710_-83.270144@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811814,
+    "wof:geomhash":"c7069cd4ee3acb1106f3af69448ad729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706740193
+        }
+    ],
+    "wof:id":706740193,
+    "wof:lastmodified":1461811814,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.270144,
+    42.24171,
+    -83.270144,
+    42.24171
+],
+  "geometry": {"coordinates":[-83.270144,42.24171],"type":"Point"}
+}

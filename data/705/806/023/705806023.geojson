@@ -1,0 +1,71 @@
+{
+  "id": 705806023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.425458,42.388377,-83.425458,42.388377",
+    "geom:latitude":42.388377,
+    "geom:longitude":-83.425458,
+    "iso:country":"US",
+    "sg:address":"38831 Allen St",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 464 9803",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6blxxF6zNMGVTU2AkM4UcF_42.388377_-83.425458@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789151,
+    "wof:geomhash":"cb9b6ac8070148e7781565c112285a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":705806023
+        }
+    ],
+    "wof:id":705806023,
+    "wof:lastmodified":1461789151,
+    "wof:name":"Zombirt & Associates",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.425458,
+    42.388377,
+    -83.425458,
+    42.388377
+],
+  "geometry": {"coordinates":[-83.42545800000001,42.388377],"type":"Point"}
+}

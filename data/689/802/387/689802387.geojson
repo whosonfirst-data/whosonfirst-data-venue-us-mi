@@ -1,0 +1,75 @@
+{
+  "id": 689802387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261809,43.270701,-86.261809,43.270701",
+    "geom:latitude":43.270701,
+    "geom:longitude":-86.261809,
+    "iso:country":"US",
+    "sg:address":"1169 Witham Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 1346",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NOFRdxAysEJ9JLATcQ2OV_43.270701_-86.261809@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781956,
+    "wof:geomhash":"1b92e93936547e1638c4372cabc3cda7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689802387
+        }
+    ],
+    "wof:id":689802387,
+    "wof:lastmodified":1461781956,
+    "wof:name":"George's Auto Repair",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.261809,
+    43.270701,
+    -86.261809,
+    43.270701
+],
+  "geometry": {"coordinates":[-86.261809,43.270701],"type":"Point"}
+}

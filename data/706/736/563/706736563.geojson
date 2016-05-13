@@ -1,0 +1,72 @@
+{
+  "id": 706736563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.471497,42.358799,-83.471497,42.358799",
+    "geom:latitude":42.358799,
+    "geom:longitude":-83.471497,
+    "iso:country":"US",
+    "sg:address":"936 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 9744",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.colonialcollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56HUZisMKAIKsfv4tX3JBS_42.358799_-83.471497@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811679,
+    "wof:geomhash":"12ca036f18d628aaec2bb7906082b592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736563
+        }
+    ],
+    "wof:id":706736563,
+    "wof:lastmodified":1461811679,
+    "wof:name":"Colonial Collision & Reconditioning Inc",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.471497,
+    42.358799,
+    -83.471497,
+    42.358799
+],
+  "geometry": {"coordinates":[-83.471497,42.358799],"type":"Point"}
+}

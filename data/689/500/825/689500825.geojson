@@ -1,0 +1,71 @@
+{
+  "id": 689500825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.667089,42.251449,-83.667089,42.251449",
+    "geom:latitude":42.251449,
+    "geom:longitude":-83.667089,
+    "iso:country":"US",
+    "sg:address":"4695 Washtenaw Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 747 8506",
+    "sg:postcode":"48108",
+    "sg:province":"MI",
+    "sg:tags":[
+        "recruiting",
+        "army"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gvK9m4eW8gRosNZfZXyG1_42.251449_-83.667089@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773115,
+    "wof:geomhash":"629c12515ff4dd36458d15b6ba74461e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":689500825
+        }
+    ],
+    "wof:id":689500825,
+    "wof:lastmodified":1461773115,
+    "wof:name":"Ann Arbor Recruiting Station",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recruiting",
+        "army"
+    ]
+},
+  "bbox": [
+    -83.667089,
+    42.251449,
+    -83.667089,
+    42.251449
+],
+  "geometry": {"coordinates":[-83.667089,42.251449],"type":"Point"}
+}

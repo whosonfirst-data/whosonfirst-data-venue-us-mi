@@ -1,0 +1,69 @@
+{
+  "id": 689943035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.361054,42.256399,-84.361054,42.256399",
+    "geom:latitude":42.256399,
+    "geom:longitude":-84.361054,
+    "iso:country":"US",
+    "sg:address":"3333 E Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 0201",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5InZ2CVIVMrY4JHqlenu3z_42.256399_-84.361054@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785686,
+    "wof:geomhash":"3819142d8044a1026847ebead6a9275a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689943035
+        }
+    ],
+    "wof:id":689943035,
+    "wof:lastmodified":1461785686,
+    "wof:name":"Meijer",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.361054,
+    42.256399,
+    -84.361054,
+    42.256399
+],
+  "geometry": {"coordinates":[-84.361054,42.256399],"type":"Point"}
+}

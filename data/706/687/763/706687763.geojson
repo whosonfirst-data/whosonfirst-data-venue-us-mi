@@ -1,0 +1,76 @@
+{
+  "id": 706687763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.127669,42.567061,-83.127669,42.567061",
+    "geom:latitude":42.567061,
+    "geom:longitude":-83.127669,
+    "iso:country":"US",
+    "sg:address":"3268 Rochester Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/troy/208665-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 740 9259",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f7474tHuTnW3UFAVC6zqE_42.567361_-83.127775@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809589,
+    "wof:geomhash":"15e02e5b735e685fc91921a8ed6b1aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706687763
+        }
+    ],
+    "wof:id":706687763,
+    "wof:lastmodified":1461809589,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.127669,
+    42.567061,
+    -83.127669,
+    42.567061
+],
+  "geometry": {"coordinates":[-83.127669,42.567061],"type":"Point"}
+}

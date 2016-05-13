@@ -1,0 +1,71 @@
+{
+  "id": 689506315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.843719,42.567213,-82.843719,42.567213",
+    "geom:latitude":42.567213,
+    "geom:longitude":-82.843719,
+    "iso:country":"US",
+    "sg:address":"26450 Crocker Blvd",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 871 0629",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cQFnU1Pb2bD0zH25OoYnH_42.567213_-82.843719@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773300,
+    "wof:geomhash":"5470c48e02c5eb85490a4719970d0665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":689506315
+        }
+    ],
+    "wof:id":689506315,
+    "wof:lastmodified":1461773300,
+    "wof:name":"Bill & Dave's Towing & Mobile",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.843719,
+    42.567213,
+    -82.843719,
+    42.567213
+],
+  "geometry": {"coordinates":[-82.84371899999999,42.567213],"type":"Point"}
+}

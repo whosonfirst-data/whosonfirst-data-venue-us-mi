@@ -1,0 +1,74 @@
+{
+  "id": 706686887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.401829,44.281449,-85.401829,44.281449",
+    "geom:latitude":44.281449,
+    "geom:longitude":-85.401829,
+    "iso:country":"US",
+    "sg:address":"8917 E 34 Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/haring/142430-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 0060",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54kOJhzYdjP9hmlWu3gHnv_44.281449_-85.401829@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809553,
+    "wof:geomhash":"692ba10bc6a84f9cfc06e2ad90dbee4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686887
+        }
+    ],
+    "wof:id":706686887,
+    "wof:lastmodified":1461809553,
+    "wof:name":"Subway",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.401829,
+    44.281449,
+    -85.401829,
+    44.281449
+],
+  "geometry": {"coordinates":[-85.40182900000001,44.281449],"type":"Point"}
+}

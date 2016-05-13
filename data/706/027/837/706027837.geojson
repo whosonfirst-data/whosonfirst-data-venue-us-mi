@@ -1,0 +1,73 @@
+{
+  "id": 706027837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403841,44.255519,-85.403841,44.255519",
+    "geom:latitude":44.255519,
+    "geom:longitude":-85.403841,
+    "iso:country":"US",
+    "sg:address":"617 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 5926",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DvfO1e5BpK01qAacfEh5Q_44.255519_-85.403841@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794163,
+    "wof:geomhash":"c35a20b52b1e272d3f04810a33cae9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706027837
+        }
+    ],
+    "wof:id":706027837,
+    "wof:lastmodified":1461794163,
+    "wof:name":"Lakeside Autowash",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.403841,
+    44.255519,
+    -85.403841,
+    44.255519
+],
+  "geometry": {"coordinates":[-85.403841,44.255519],"type":"Point"}
+}

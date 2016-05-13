@@ -1,0 +1,73 @@
+{
+  "id": 705896601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.644393,41.952215,-83.644393,41.952215",
+    "geom:latitude":41.952215,
+    "geom:longitude":-83.644393,
+    "iso:country":"US",
+    "sg:address":"500 E Monroe St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2831",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74YupI0ObWZcXUTUOvKuCC_41.952215_-83.644393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791326,
+    "wof:geomhash":"b6d87ee720409b59330c1b879ca8532e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":705896601
+        }
+    ],
+    "wof:id":705896601,
+    "wof:lastmodified":1461791326,
+    "wof:name":"Dundee Manor Apts",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.644393,
+    41.952215,
+    -83.644393,
+    41.952215
+],
+  "geometry": {"coordinates":[-83.64439299999999,41.952215],"type":"Point"}
+}

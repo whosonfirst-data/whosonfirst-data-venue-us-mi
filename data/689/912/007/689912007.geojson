@@ -1,0 +1,78 @@
+{
+  "id": 689912007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540626,42.192614,-85.540626,42.192614",
+    "geom:latitude":42.192614,
+    "geom:longitude":-85.540626,
+    "iso:country":"US",
+    "sg:address":"8518 Sprinkle Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 2862",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85840935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X9xaccGde6pQfsaFN0O5g_42.192614_-85.540626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784911,
+    "wof:geomhash":"7c566ab18933abdc5cbe1687944a2437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85840935,
+            "region_id":85688599,
+            "venue_id":689912007
+        }
+    ],
+    "wof:id":689912007,
+    "wof:lastmodified":1461784911,
+    "wof:name":"Johnson's Welding Etc",
+    "wof:parent_id":85840935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.540626,
+    42.192614,
+    -85.540626,
+    42.192614
+],
+  "geometry": {"coordinates":[-85.540626,42.192614],"type":"Point"}
+}

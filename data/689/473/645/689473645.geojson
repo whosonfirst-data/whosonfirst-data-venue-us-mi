@@ -1,0 +1,71 @@
+{
+  "id": 689473645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.369578,42.690078,-83.369578,42.690078",
+    "geom:latitude":42.690078,
+    "geom:longitude":-83.369578,
+    "iso:country":"US",
+    "sg:address":"4030 W Walton Blvd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 0431",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NYjMIe3sIDIPSjwcxEtJI_42.690078_-83.369578@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772344,
+    "wof:geomhash":"d8a5c419bc1b20733c3d505a97b0efc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689473645
+        }
+    ],
+    "wof:id":689473645,
+    "wof:lastmodified":1461772344,
+    "wof:name":"Walton Medical PC",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.369578,
+    42.690078,
+    -83.369578,
+    42.690078
+],
+  "geometry": {"coordinates":[-83.369578,42.690078],"type":"Point"}
+}

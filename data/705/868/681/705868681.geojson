@@ -1,0 +1,77 @@
+{
+  "id": 705868681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.690421,42.305536,-83.690421,42.305536",
+    "geom:latitude":42.305536,
+    "geom:longitude":-83.690421,
+    "iso:country":"US",
+    "sg:address":"3600 Plymouth Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 677 2300",
+    "sg:postcode":"48105",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875891,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162BKKTQ3Qskqmc4QKcxiI_42.305536_-83.690421@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790663,
+    "wof:geomhash":"90575db866fc3ec872e6f555f1dbe389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875891,
+            "region_id":85688599,
+            "venue_id":705868681
+        }
+    ],
+    "wof:id":705868681,
+    "wof:lastmodified":1461790663,
+    "wof:name":"Avis Rent A Car Systems",
+    "wof:parent_id":85875891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.690421,
+    42.305536,
+    -83.690421,
+    42.305536
+],
+  "geometry": {"coordinates":[-83.690421,42.305536],"type":"Point"}
+}

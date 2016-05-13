@@ -1,0 +1,73 @@
+{
+  "id": 706633617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4346,42.101763,-86.4346,42.101763",
+    "geom:latitude":42.101763,
+    "geom:longitude":-86.4346,
+    "iso:country":"US",
+    "sg:address":"722 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 927 2237",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qoBZVEl9U9GOjBslGjoAJ_42.101763_-86.434600@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807444,
+    "wof:geomhash":"ba308b8adba01df3de866473df4268c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706633617
+        }
+    ],
+    "wof:id":706633617,
+    "wof:lastmodified":1461807444,
+    "wof:name":"Auto Clinic",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.4346,
+    42.101763,
+    -86.4346,
+    42.101763
+],
+  "geometry": {"coordinates":[-86.4346,42.101763],"type":"Point"}
+}

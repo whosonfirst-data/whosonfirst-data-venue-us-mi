@@ -1,0 +1,71 @@
+{
+  "id": 689948925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.404967,42.254704,-84.404967,42.254704",
+    "geom:latitude":42.254704,
+    "geom:longitude":-84.404967,
+    "iso:country":"US",
+    "sg:address":"100 E Ganson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 0001",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AfaQAAREC7IjgTGDm1drM_42.254704_-84.404967@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785832,
+    "wof:geomhash":"390dba59f1af79f1b446478e457e1365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689948925
+        }
+    ],
+    "wof:id":689948925,
+    "wof:lastmodified":1461785832,
+    "wof:name":"Ace Auto Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.404967,
+    42.254704,
+    -84.404967,
+    42.254704
+],
+  "geometry": {"coordinates":[-84.404967,42.254704],"type":"Point"}
+}

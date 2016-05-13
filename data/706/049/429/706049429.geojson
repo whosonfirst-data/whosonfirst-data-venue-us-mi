@@ -1,0 +1,69 @@
+{
+  "id": 706049429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250877,41.769253,-86.250877,41.769253",
+    "geom:latitude":41.769253,
+    "geom:longitude":-86.250877,
+    "iso:country":"US",
+    "sg:address":"2840 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2092",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dXHHoYwhKOL6nYX3HUwgj_41.769253_-86.250877@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794586,
+    "wof:geomhash":"38327d2b788324b49ba7825038be8d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706049429
+        }
+    ],
+    "wof:id":706049429,
+    "wof:lastmodified":1461794586,
+    "wof:name":"Michiana Transmission",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.250877,
+    41.769253,
+    -86.250877,
+    41.769253
+],
+  "geometry": {"coordinates":[-86.250877,41.769253],"type":"Point"}
+}

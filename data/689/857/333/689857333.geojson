@@ -1,0 +1,88 @@
+{
+  "id": 689857333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.1185,42.344603,-83.1185,42.344603",
+    "geom:latitude":42.344603,
+    "geom:longitude":-83.1185,
+    "iso:country":"US",
+    "sg:address":"4801 W Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 898 0215",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mfg",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Le1yfjxBG59UCQgh2BGKR_42.344603_-83.118500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783472,
+    "wof:geomhash":"f6ae691a3c8a495ff61e95af00911b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":689857333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870527,
+            "region_id":85688599,
+            "venue_id":689857333
+        }
+    ],
+    "wof:id":689857333,
+    "wof:lastmodified":1461783472,
+    "wof:name":"Parker House Sausage Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -83.1185,
+    42.344603,
+    -83.1185,
+    42.344603
+],
+  "geometry": {"coordinates":[-83.1185,42.344603],"type":"Point"}
+}

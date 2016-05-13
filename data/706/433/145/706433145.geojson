@@ -1,0 +1,71 @@
+{
+  "id": 706433145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.606245,42.246839,-83.606245,42.246839",
+    "geom:latitude":42.246839,
+    "geom:longitude":-83.606245,
+    "iso:country":"US",
+    "sg:address":"116 Maple St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 483 8013",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g4WiZ6zDeoLXy6SFrrfC2_42.246839_-83.606245@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803039,
+    "wof:geomhash":"2538a53dbb0b749933d635bfec82df8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706433145
+        }
+    ],
+    "wof:id":706433145,
+    "wof:lastmodified":1461803039,
+    "wof:name":"At LLC",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.606245,
+    42.246839,
+    -83.606245,
+    42.246839
+],
+  "geometry": {"coordinates":[-83.606245,42.246839],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705868485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560959,42.654841,-84.560959,42.654841",
+    "geom:latitude":42.654841,
+    "geom:longitude":-84.560959,
+    "iso:country":"US",
+    "sg:address":"5343 Willoughby Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 6590",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DAvFdHo9DBy2we0P5DntO_42.654841_-84.560959@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790658,
+    "wof:geomhash":"933abd5508d80f65aad4ff72cd43529d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":705868485
+        }
+    ],
+    "wof:id":705868485,
+    "wof:lastmodified":1461790658,
+    "wof:name":"Willoughby Home",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -84.560959,
+    42.654841,
+    -84.560959,
+    42.654841
+],
+  "geometry": {"coordinates":[-84.560959,42.654841],"type":"Point"}
+}

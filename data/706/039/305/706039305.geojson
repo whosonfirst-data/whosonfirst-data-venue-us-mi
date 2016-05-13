@@ -1,0 +1,82 @@
+{
+  "id": 706039305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.235536,43.062492,-86.235536,43.062492",
+    "geom:latitude":43.062492,
+    "geom:longitude":-86.235536,
+    "iso:country":"US",
+    "sg:address":"211 S Harbor Dr",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 9195",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating",
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JczWo2mc2h7W76l66rgdt_43.062492_-86.235536@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794391,
+    "wof:geomhash":"be23ad63be664db15bb18857eeb107fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706039305
+        }
+    ],
+    "wof:id":706039305,
+    "wof:lastmodified":1461794391,
+    "wof:name":"Olde Chap's Gallery",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.235536,
+    43.062492,
+    -86.235536,
+    43.062492
+],
+  "geometry": {"coordinates":[-86.235536,43.062492],"type":"Point"}
+}

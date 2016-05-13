@@ -1,0 +1,71 @@
+{
+  "id": 705987533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.049752,45.809014,-88.049752,45.809014",
+    "geom:latitude":45.809014,
+    "geom:longitude":-88.049752,
+    "iso:country":"US",
+    "sg:address":"1300 Michigan Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 4747",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aRyUvxDKE0GlqIf99OVki_45.809014_-88.049752@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793324,
+    "wof:geomhash":"64dd461ee9e15d02cdfb8ed43462eac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705987533
+        }
+    ],
+    "wof:id":705987533,
+    "wof:lastmodified":1461793324,
+    "wof:name":"Park Ridge Beauty Salon",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.049752,
+    45.809014,
+    -88.049752,
+    45.809014
+],
+  "geometry": {"coordinates":[-88.049752,45.809014],"type":"Point"}
+}

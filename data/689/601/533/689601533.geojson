@@ -1,0 +1,71 @@
+{
+  "id": 689601533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633754,42.673882,-85.633754,42.673882",
+    "geom:latitude":42.673882,
+    "geom:longitude":-85.633754,
+    "iso:country":"US",
+    "sg:address":"893 E Superior St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 532 5025",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ALzTCRWtF9e998tEL5Fi_42.673882_-85.633754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776294,
+    "wof:geomhash":"de83b07c923dae66cb8ac763cd9353db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689601533
+        }
+    ],
+    "wof:id":689601533,
+    "wof:lastmodified":1461776294,
+    "wof:name":"Michigan Ob-Gyn",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.633754,
+    42.673882,
+    -85.633754,
+    42.673882
+],
+  "geometry": {"coordinates":[-85.633754,42.673882],"type":"Point"}
+}

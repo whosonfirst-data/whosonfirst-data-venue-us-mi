@@ -1,0 +1,69 @@
+{
+  "id": 705952591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43828,42.280242,-83.43828,42.280242",
+    "geom:latitude":42.280242,
+    "geom:longitude":-83.43828,
+    "iso:country":"US",
+    "sg:address":"40600 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 595 6796",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896853,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nxtiKsjEiJaxou0uEma0K_42.280242_-83.438280@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792589,
+    "wof:geomhash":"6311854f25b3a77196c9a188982e585d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896853,
+            "region_id":85688599,
+            "venue_id":705952591
+        }
+    ],
+    "wof:id":705952591,
+    "wof:lastmodified":1461792589,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85896853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.43828,
+    42.280242,
+    -83.43828,
+    42.280242
+],
+  "geometry": {"coordinates":[-83.43828000000001,42.280242],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689669741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.709439,41.900314,-83.709439,41.900314",
+    "geom:latitude":41.900314,
+    "geom:longitude":-83.709439,
+    "iso:country":"US",
+    "sg:address":"295 E Elm St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 2091",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VRRYMTfiHlupCGRKQgY9M_41.900314_-83.709439@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778372,
+    "wof:geomhash":"368a917c46f4b85e4446ab26df0f1858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689669741
+        }
+    ],
+    "wof:id":689669741,
+    "wof:lastmodified":1461778372,
+    "wof:name":"Petersburg Water Dept",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -83.709439,
+    41.900314,
+    -83.709439,
+    41.900314
+],
+  "geometry": {"coordinates":[-83.709439,41.900314],"type":"Point"}
+}

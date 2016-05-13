@@ -1,0 +1,76 @@
+{
+  "id": 706660255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.062409,42.358099,-83.062409,42.358099",
+    "geom:latitude":42.358099,
+    "geom:longitude":-83.062409,
+    "iso:country":"US",
+    "sg:address":"5020 John R St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 577 8400",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "science"
+    ],
+    "sg:website":"www.detroitsciencecenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870595,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1daa4KV6LCLFZJNi4Xee2Z_42.357746_-83.062204@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808439,
+    "wof:geomhash":"4b1abc7ccf2f23188e665ee2c29da390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870595,
+            "region_id":85688599,
+            "venue_id":706660255
+        }
+    ],
+    "wof:id":706660255,
+    "wof:lastmodified":1461808439,
+    "wof:name":"Detroit Science Center",
+    "wof:parent_id":85870595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science"
+    ]
+},
+  "bbox": [
+    -83.062409,
+    42.358099,
+    -83.062409,
+    42.358099
+],
+  "geometry": {"coordinates":[-83.062409,42.358099],"type":"Point"}
+}

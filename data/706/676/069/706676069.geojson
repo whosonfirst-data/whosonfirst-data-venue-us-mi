@@ -1,0 +1,93 @@
+{
+  "id": 706676069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222708,42.505197,-83.222708,42.505197",
+    "geom:latitude":42.505197,
+    "geom:longitude":-83.222708,
+    "iso:country":"US",
+    "sg:address":"29285 Southfield Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/southfield/133196-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 395 9990",
+    "sg:postcode":"48076",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896551,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EV4r9cdGXJJpU1aXYubJf_42.505197_-83.222708@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809123,
+    "wof:geomhash":"ab4485f700dbc5d846f3336bd681c172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896551,
+            "region_id":85688599,
+            "venue_id":706676069
+        }
+    ],
+    "wof:id":706676069,
+    "wof:lastmodified":1461809123,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85896551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.222708,
+    42.505197,
+    -83.222708,
+    42.505197
+],
+  "geometry": {"coordinates":[-83.222708,42.505197],"type":"Point"}
+}

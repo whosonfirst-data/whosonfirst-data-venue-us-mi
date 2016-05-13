@@ -1,0 +1,69 @@
+{
+  "id": 706535483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224542,41.847376,-86.224542,41.847376",
+    "geom:latitude":41.847376,
+    "geom:longitude":-86.224542,
+    "iso:country":"US",
+    "sg:address":"1302 Airport Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 7068",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PcCNWsIR27YdFAR9M08hr_41.847376_-86.224542@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805371,
+    "wof:geomhash":"e7bb934903d66c37df55d3fc98b91490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706535483
+        }
+    ],
+    "wof:id":706535483,
+    "wof:lastmodified":1461805371,
+    "wof:name":"Farr & Sons Sporting Goods",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.224542,
+    41.847376,
+    -86.224542,
+    41.847376
+],
+  "geometry": {"coordinates":[-86.224542,41.847376],"type":"Point"}
+}

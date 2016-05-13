@@ -1,0 +1,71 @@
+{
+  "id": 689746839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.958071,42.614351,-82.958071,42.614351",
+    "geom:latitude":42.614351,
+    "geom:longitude":-82.958071,
+    "iso:country":"US",
+    "sg:address":"43281 Commons Dr",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 286 0670",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FlLkCigfkMq0J8JkvliYD_42.614351_-82.958071@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780363,
+    "wof:geomhash":"f5b65de017012529ef6a713c2e1c9272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689746839
+        }
+    ],
+    "wof:id":689746839,
+    "wof:lastmodified":1461780363,
+    "wof:name":"Center For Orthopedic Surgery",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.958071,
+    42.614351,
+    -82.958071,
+    42.614351
+],
+  "geometry": {"coordinates":[-82.958071,42.614351],"type":"Point"}
+}

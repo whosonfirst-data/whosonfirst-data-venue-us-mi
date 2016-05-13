@@ -1,0 +1,77 @@
+{
+  "id": 706671905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589368,42.297791,-85.589368,42.297791",
+    "geom:latitude":42.297791,
+    "geom:longitude":-85.589368,
+    "iso:country":"US",
+    "sg:address":"437 W North St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 0177",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878473,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EHzAIVkC9LO7DA9ldrtDh_42.297699_-85.589540@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808944,
+    "wof:geomhash":"5a7eaff40892b90af3d14e089f11a053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85878473,
+            "region_id":85688599,
+            "venue_id":706671905
+        }
+    ],
+    "wof:id":706671905,
+    "wof:lastmodified":1461808944,
+    "wof:name":"Yellow Cab/Checker Cab",
+    "wof:parent_id":85878473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab",
+        "airport"
+    ]
+},
+  "bbox": [
+    -85.589368,
+    42.297791,
+    -85.589368,
+    42.297791
+],
+  "geometry": {"coordinates":[-85.58936799999999,42.297791],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 706723681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.445702,42.2439,-83.445702,42.2439",
+    "geom:latitude":42.2439,
+    "geom:longitude":-83.445702,
+    "iso:country":"US",
+    "sg:address":"8080 Haggerty Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 957 8080",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.acehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jOuMP6x4B5P261wS2ZyY9_42.243900_-83.445702@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811143,
+    "wof:geomhash":"50b49ee3bf60d4ed3a1feab999311de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706723681
+        }
+    ],
+    "wof:id":706723681,
+    "wof:lastmodified":1461811143,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -83.445702,
+    42.2439,
+    -83.445702,
+    42.2439
+],
+  "geometry": {"coordinates":[-83.445702,42.2439],"type":"Point"}
+}

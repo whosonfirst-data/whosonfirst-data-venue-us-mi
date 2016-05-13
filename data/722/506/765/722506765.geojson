@@ -1,0 +1,83 @@
+{
+  "id": 722506765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.132002,42.624214,-83.132002,42.624214",
+    "geom:latitude":42.624214,
+    "geom:longitude":-83.132002,
+    "iso:country":"US",
+    "sg:address":"3950 S Rochester Rd Ste 1200",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 844 6243",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "spa",
+        "medical"
+    ],
+    "sg:website":"www.erasetheinkmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524499,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AHQW86nETxEL6z00MhwGc_42.624214_-83.132002@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813333,
+    "wof:geomhash":"61e1504a2109df3a692ca1b64ca8af79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":420524499,
+            "region_id":85688599,
+            "venue_id":722506765
+        }
+    ],
+    "wof:id":722506765,
+    "wof:lastmodified":1461813333,
+    "wof:name":"Erase the Ink MD",
+    "wof:parent_id":420524499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.132002,
+    42.624214,
+    -83.132002,
+    42.624214
+],
+  "geometry": {"coordinates":[-83.132002,42.624214],"type":"Point"}
+}

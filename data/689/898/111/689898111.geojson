@@ -1,0 +1,69 @@
+{
+  "id": 689898111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.639555,42.114654,-84.639555,42.114654",
+    "geom:latitude":42.114654,
+    "geom:longitude":-84.639555,
+    "iso:country":"US",
+    "sg:address":"12359 Folks Rd",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 8646",
+    "sg:postcode":"49241",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g4XR8ZoZwpArcpdVSltcZ_42.114654_-84.639555@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784506,
+    "wof:geomhash":"26cb2a4bb8ec8410c707b9763697c29f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689898111
+        }
+    ],
+    "wof:id":689898111,
+    "wof:lastmodified":1461784506,
+    "wof:name":"Pulaski Fire Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.639555,
+    42.114654,
+    -84.639555,
+    42.114654
+],
+  "geometry": {"coordinates":[-84.639555,42.114654],"type":"Point"}
+}

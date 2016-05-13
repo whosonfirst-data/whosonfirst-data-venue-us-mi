@@ -1,0 +1,71 @@
+{
+  "id": 706130563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394754,46.551179,-87.394754,46.551179",
+    "geom:latitude":46.551179,
+    "geom:longitude":-87.394754,
+    "iso:country":"US",
+    "sg:address":"801 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 9290",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Ha59O5ijRIrKUedFFSvm_46.551179_-87.394754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796530,
+    "wof:geomhash":"f96540710e32d1be741f3c8bc51f99d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706130563
+        }
+    ],
+    "wof:id":706130563,
+    "wof:lastmodified":1461796530,
+    "wof:name":"P M Belpedio DDS",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.394754,
+    46.551179,
+    -87.394754,
+    46.551179
+],
+  "geometry": {"coordinates":[-87.39475400000001,46.551179],"type":"Point"}
+}

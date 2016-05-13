@@ -1,0 +1,75 @@
+{
+  "id": 705709543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2594,43.211082,-86.2594,43.211082",
+    "geom:latitude":43.211082,
+    "geom:longitude":-86.2594,
+    "iso:country":"US",
+    "sg:address":"2232 Glade St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 1089",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "party",
+        "rent",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FbbZdvNznIRhmd9uNziI7_43.211082_-86.259400@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786874,
+    "wof:geomhash":"818e7b5a4d0ab5dc48ac22545cf51120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705709543
+        }
+    ],
+    "wof:id":705709543,
+    "wof:lastmodified":1461786874,
+    "wof:name":"Redi Rental",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "rent",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.2594,
+    43.211082,
+    -86.2594,
+    43.211082
+],
+  "geometry": {"coordinates":[-86.2594,43.211082],"type":"Point"}
+}

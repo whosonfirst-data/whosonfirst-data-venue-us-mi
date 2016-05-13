@@ -1,0 +1,71 @@
+{
+  "id": 706264275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.739586,42.747037,-84.739586,42.747037",
+    "geom:latitude":42.747037,
+    "geom:longitude":-84.739586,
+    "iso:country":"US",
+    "sg:address":"265 S Clinton St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 2655",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2efIJOfeQazmc0jbOqfbsn_42.747037_-84.739586@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799489,
+    "wof:geomhash":"f2e9cd316f98982be10729898934d84f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706264275
+        }
+    ],
+    "wof:id":706264275,
+    "wof:lastmodified":1461799489,
+    "wof:name":"Kempf's Auto Svc",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.739586,
+    42.747037,
+    -84.739586,
+    42.747037
+],
+  "geometry": {"coordinates":[-84.739586,42.747037],"type":"Point"}
+}

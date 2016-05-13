@@ -1,0 +1,71 @@
+{
+  "id": 689506811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.731719,43.021013,-83.731719,43.021013",
+    "geom:latitude":43.021013,
+    "geom:longitude":-83.731719,
+    "iso:country":"US",
+    "sg:address":"3014 Walton Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 233 4520",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U8PVXuUFZ4o4ODqNIzQmN_43.021013_-83.731719@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773313,
+    "wof:geomhash":"c38d4e04c212de97a046dd2cadb2a4cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689506811
+        }
+    ],
+    "wof:id":689506811,
+    "wof:lastmodified":1461773313,
+    "wof:name":"Regional EMS",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -83.731719,
+    43.021013,
+    -83.731719,
+    43.021013
+],
+  "geometry": {"coordinates":[-83.731719,43.021013],"type":"Point"}
+}

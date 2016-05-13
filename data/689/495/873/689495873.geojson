@@ -1,0 +1,71 @@
+{
+  "id": 689495873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.899601,45.786096,-87.899601,45.786096",
+    "geom:latitude":45.786096,
+    "geom:longitude":-87.899601,
+    "iso:country":"US",
+    "sg:address":"510 Walnut St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 5842",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wPCmJZmtw1HYMeiytiAfc_45.786096_-87.899601@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772982,
+    "wof:geomhash":"7bdab0a106fd92b886840228e18df0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689495873
+        }
+    ],
+    "wof:id":689495873,
+    "wof:lastmodified":1461772982,
+    "wof:name":"Fuzzys Construction",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -87.899601,
+    45.786096,
+    -87.899601,
+    45.786096
+],
+  "geometry": {"coordinates":[-87.899601,45.786096],"type":"Point"}
+}

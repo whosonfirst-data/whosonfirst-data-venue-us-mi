@@ -1,0 +1,76 @@
+{
+  "id": 706717901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.109596,42.592098,-83.109596,42.592098",
+    "geom:latitude":42.592098,
+    "geom:longitude":-83.109596,
+    "iso:country":"US",
+    "sg:address":"4963 John R Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 689 2135",
+    "sg:postcode":"48085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U0gRpEEOZOwPaJ4Yihakd_42.592098_-83.109596@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810872,
+    "wof:geomhash":"9ea913ad1a66e8a6f19c83258a40de74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706717901
+        }
+    ],
+    "wof:id":706717901,
+    "wof:lastmodified":1461810872,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.109596,
+    42.592098,
+    -83.109596,
+    42.592098
+],
+  "geometry": {"coordinates":[-83.109596,42.592098],"type":"Point"}
+}

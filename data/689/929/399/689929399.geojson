@@ -1,0 +1,71 @@
+{
+  "id": 689929399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.640325,44.761706,-85.640325,44.761706",
+    "geom:latitude":44.761706,
+    "geom:longitude":-85.640325,
+    "iso:country":"US",
+    "sg:address":"1020 6th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 2270",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kY9iwlynqfS21ZfZyKr7x_44.761706_-85.640325@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785348,
+    "wof:geomhash":"07873610b1d3ef1e77ed235fbfcab597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689929399
+        }
+    ],
+    "wof:id":689929399,
+    "wof:lastmodified":1461785348,
+    "wof:name":"Gabrielle Walters Inc",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -85.640325,
+    44.761706,
+    -85.640325,
+    44.761706
+],
+  "geometry": {"coordinates":[-85.640325,44.761706],"type":"Point"}
+}

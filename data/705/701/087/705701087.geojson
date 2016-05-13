@@ -1,0 +1,76 @@
+{
+  "id": 705701087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.388853,41.925293,-83.388853,41.925293",
+    "geom:latitude":41.925293,
+    "geom:longitude":-83.388853,
+    "iso:country":"US",
+    "sg:address":"740 N Macomb St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 240 8400",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fum7b6v4TpCRIz6SPwCHe_41.925293_-83.388853@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786575,
+    "wof:geomhash":"020fe82265c2fc5e26957e241c9986f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705701087
+        }
+    ],
+    "wof:id":705701087,
+    "wof:lastmodified":1461786575,
+    "wof:name":"Mercy Memorial Hospital Syst",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.388853,
+    41.925293,
+    -83.388853,
+    41.925293
+],
+  "geometry": {"coordinates":[-83.388853,41.925293],"type":"Point"}
+}

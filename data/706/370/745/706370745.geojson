@@ -1,0 +1,71 @@
+{
+  "id": 706370745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.447084,46.283175,-87.447084,46.283175",
+    "geom:latitude":46.283175,
+    "geom:longitude":-87.447084,
+    "iso:country":"US",
+    "sg:address":"226 N Ash St",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 5177",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PSag8BDmHdsI0ZnjdWIrQ_46.283175_-87.447084@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801824,
+    "wof:geomhash":"76af1393f411a34331938ce7bc8e842a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706370745
+        }
+    ],
+    "wof:id":706370745,
+    "wof:lastmodified":1461801824,
+    "wof:name":"Mikes Garage",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.447084,
+    46.283175,
+    -87.447084,
+    46.283175
+],
+  "geometry": {"coordinates":[-87.447084,46.283175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705979145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.602171,42.241065,-83.602171,42.241065",
+    "geom:latitude":42.241065,
+    "geom:longitude":-83.602171,
+    "iso:country":"US",
+    "sg:address":"404 E Michigan Ave",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 1472",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "installs",
+        "muffler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l5H14xpSxnHAAvjNOVJO9_42.241065_-83.602171@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793148,
+    "wof:geomhash":"b68f331bde208f82e6566660a50d226d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":705979145
+        }
+    ],
+    "wof:id":705979145,
+    "wof:lastmodified":1461793148,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "muffler"
+    ]
+},
+  "bbox": [
+    -83.602171,
+    42.241065,
+    -83.602171,
+    42.241065
+],
+  "geometry": {"coordinates":[-83.602171,42.241065],"type":"Point"}
+}

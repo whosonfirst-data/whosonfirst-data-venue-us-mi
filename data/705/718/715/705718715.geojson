@@ -1,0 +1,71 @@
+{
+  "id": 705718715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446448,43.952424,-86.446448,43.952424",
+    "geom:latitude":43.952424,
+    "geom:longitude":-86.446448,
+    "iso:country":"US",
+    "sg:address":"408 S Harrison St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 3425",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CPsZH7iu2ZmU1pwkEknL3_43.952424_-86.446448@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787135,
+    "wof:geomhash":"32575062c673d7f77616bcbe20248aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":705718715
+        }
+    ],
+    "wof:id":705718715,
+    "wof:lastmodified":1461787135,
+    "wof:name":"Ludington Chief Of Police",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.446448,
+    43.952424,
+    -86.446448,
+    43.952424
+],
+  "geometry": {"coordinates":[-86.446448,43.952424],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 706409449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.91156,42.386289,-82.91156,42.386289",
+    "geom:latitude":42.386289,
+    "geom:longitude":-82.91156,
+    "iso:country":"US",
+    "sg:address":"17145 Maumee St",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 886 3200",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85951121,
+        420524945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TSugRPQZJir6CUh09wzZC_42.386289_-82.911560@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802591,
+    "wof:geomhash":"519ea5d4c465ed3044246a075d89db1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":706409449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":706409449
+        }
+    ],
+    "wof:id":706409449,
+    "wof:lastmodified":1461802591,
+    "wof:name":"Fire Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -82.91156,
+    42.386289,
+    -82.91156,
+    42.386289
+],
+  "geometry": {"coordinates":[-82.91155999999999,42.386289],"type":"Point"}
+}

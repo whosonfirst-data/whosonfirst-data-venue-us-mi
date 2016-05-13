@@ -1,0 +1,71 @@
+{
+  "id": 706298101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663984,42.865079,-85.663984,42.865079",
+    "geom:latitude":42.865079,
+    "geom:longitude":-85.663984,
+    "iso:country":"US",
+    "sg:address":"5450 Division Ave S",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 531 4491",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cCqmrrvgrpgAp4xJmOGWV_42.865079_-85.663984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800263,
+    "wof:geomhash":"9013b37672b8d2a18870a946723f5976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706298101
+        }
+    ],
+    "wof:id":706298101,
+    "wof:lastmodified":1461800263,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.663984,
+    42.865079,
+    -85.663984,
+    42.865079
+],
+  "geometry": {"coordinates":[-85.663984,42.865079],"type":"Point"}
+}

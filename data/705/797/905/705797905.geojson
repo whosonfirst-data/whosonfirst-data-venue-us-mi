@@ -1,0 +1,85 @@
+{
+  "id": 705797905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.337847,42.571245,-83.337847,42.571245",
+    "geom:latitude":42.571245,
+    "geom:longitude":-83.337847,
+    "iso:country":"US",
+    "sg:address":"2732 Lone Pine Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 538 4404",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "communications",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D4y8Ewb5zhSg2aKM95YXT_42.571245_-83.337847@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788960,
+    "wof:geomhash":"b3ccb7cbe46e2edb3357c005881475ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":705797905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":705797905
+        }
+    ],
+    "wof:id":705797905,
+    "wof:lastmodified":1461788960,
+    "wof:name":"Nice Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -83.337847,
+    42.571245,
+    -83.337847,
+    42.571245
+],
+  "geometry": {"coordinates":[-83.337847,42.571245],"type":"Point"}
+}

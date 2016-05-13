@@ -1,0 +1,71 @@
+{
+  "id": 706140889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.249373,42.632146,-83.249373,42.632146",
+    "geom:latitude":42.632146,
+    "geom:longitude":-83.249373,
+    "iso:country":"US",
+    "sg:address":"85 S Opdyke Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 454 3200",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eYWj2wzyYUvHxcp98J4BT_42.632146_-83.249373@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796779,
+    "wof:geomhash":"0a3e81abc3b7de5eb6e9400638848880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":706140889
+        }
+    ],
+    "wof:id":706140889,
+    "wof:lastmodified":1461796779,
+    "wof:name":"Temic Automotive",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -83.249373,
+    42.632146,
+    -83.249373,
+    42.632146
+],
+  "geometry": {"coordinates":[-83.24937300000001,42.632146],"type":"Point"}
+}

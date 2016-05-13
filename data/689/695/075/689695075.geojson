@@ -1,0 +1,71 @@
+{
+  "id": 689695075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.937018,43.05729,-85.937018,43.05729",
+    "geom:latitude":43.05729,
+    "geom:longitude":-85.937018,
+    "iso:country":"US",
+    "sg:address":"162 River St",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 9354",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c2lXjvjnOMnrLtKhUnlil_43.057290_-85.937018@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778988,
+    "wof:geomhash":"3497015376a78f325f80efa8c0655620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":689695075
+        }
+    ],
+    "wof:id":689695075,
+    "wof:lastmodified":1461778988,
+    "wof:name":"River Village",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.937018,
+    43.05729,
+    -85.937018,
+    43.05729
+],
+  "geometry": {"coordinates":[-85.93701799999999,43.05729],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 706687837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.085257,42.495344,-83.085257,42.495344",
+    "geom:latitude":42.495344,
+    "geom:longitude":-83.085257,
+    "iso:country":"US",
+    "sg:address":"27116 Dequindre Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/warren/45862-munchies-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 576 0016",
+    "sg:postcode":"48092",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524423,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524615,
+        404508209,
+        85952031,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NhhmogemIrq9uW8GOz1uz_42.495797_-83.085356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809592,
+    "wof:geomhash":"6dc9c714f81f80987d944a49febdac3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524423,
+            "region_id":85688599,
+            "venue_id":706687837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706687837
+        }
+    ],
+    "wof:id":706687837,
+    "wof:lastmodified":1461809592,
+    "wof:name":"Munchies Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.085257,
+    42.495344,
+    -83.085257,
+    42.495344
+],
+  "geometry": {"coordinates":[-83.085257,42.495344],"type":"Point"}
+}

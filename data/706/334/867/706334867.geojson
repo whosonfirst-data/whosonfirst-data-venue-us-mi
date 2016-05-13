@@ -1,0 +1,83 @@
+{
+  "id": 706334867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.413529,41.924861,-83.413529,41.924861",
+    "geom:latitude":41.924861,
+    "geom:longitude":-83.413529,
+    "iso:country":"US",
+    "sg:address":"1420 Custer Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 9811",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865277,
+        102191575,
+        404508973,
+        85633793,
+        85952215,
+        102083117,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GKq4vwRuclfLZlQymDvCb_41.924861_-83.413529@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801092,
+    "wof:geomhash":"d1161c32251db4d37fe8fe9814606516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083117,
+            "localadmin_id":404508973,
+            "locality_id":85952215,
+            "neighbourhood_id":85865277,
+            "region_id":85688599,
+            "venue_id":706334867
+        }
+    ],
+    "wof:id":706334867,
+    "wof:lastmodified":1461801092,
+    "wof:name":"Bob's Auto Detail",
+    "wof:parent_id":85865277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.413529,
+    41.924861,
+    -83.413529,
+    41.924861
+],
+  "geometry": {"coordinates":[-83.413529,41.924861],"type":"Point"}
+}

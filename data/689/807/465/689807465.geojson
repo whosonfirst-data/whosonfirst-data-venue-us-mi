@@ -1,0 +1,71 @@
+{
+  "id": 689807465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.371962,42.930753,-85.371962,42.930753",
+    "geom:latitude":42.930753,
+    "geom:longitude":-85.371962,
+    "iso:country":"US",
+    "sg:address":"11610 Fulton St E",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 8484",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kyG9SgTvxlUyx4NoXXb9Q_42.930753_-85.371962@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782108,
+    "wof:geomhash":"00002b49ed3fd23dd259da5b7797f796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689807465
+        }
+    ],
+    "wof:id":689807465,
+    "wof:lastmodified":1461782108,
+    "wof:name":"Animal Hospital Of Lowell",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.371962,
+    42.930753,
+    -85.371962,
+    42.930753
+],
+  "geometry": {"coordinates":[-85.371962,42.930753],"type":"Point"}
+}

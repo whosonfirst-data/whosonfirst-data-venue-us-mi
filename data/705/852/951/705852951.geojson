@@ -1,0 +1,71 @@
+{
+  "id": 705852951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.290589,43.205792,-86.290589,43.205792",
+    "geom:latitude":43.205792,
+    "geom:longitude":-86.290589,
+    "iso:country":"US",
+    "sg:address":"1830 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 5455",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tUbhOcK1KwvdEDvXCSomr_43.205792_-86.290589@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790252,
+    "wof:geomhash":"e7ed2483c3b39cea3212bbe73a61f222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705852951
+        }
+    ],
+    "wof:id":705852951,
+    "wof:lastmodified":1461790252,
+    "wof:name":"Calibration West",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [
+    -86.290589,
+    43.205792,
+    -86.290589,
+    43.205792
+],
+  "geometry": {"coordinates":[-86.290589,43.205792],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 705876347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.084411,45.793407,-88.084411,45.793407",
+    "geom:latitude":45.793407,
+    "geom:longitude":-88.084411,
+    "iso:country":"US",
+    "sg:address":"1220 W Breen Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 8952",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420549997,
+        102191575,
+        404507319,
+        85633793,
+        85950929,
+        102083107,
+        85688599,
+        420524269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uXqKeETt79pAik1w8yNSb_45.793407_-88.084411@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790851,
+    "wof:geomhash":"07ce9b05e44609239d92b5fe29fcc7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420549997,
+            "region_id":85688599,
+            "venue_id":705876347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420524269,
+            "region_id":85688599,
+            "venue_id":705876347
+        }
+    ],
+    "wof:id":705876347,
+    "wof:lastmodified":1461790851,
+    "wof:name":"Pauls Car Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.084411,
+    45.793407,
+    -88.084411,
+    45.793407
+],
+  "geometry": {"coordinates":[-88.084411,45.793407],"type":"Point"}
+}

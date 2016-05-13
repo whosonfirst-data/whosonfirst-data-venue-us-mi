@@ -1,0 +1,71 @@
+{
+  "id": 706468819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.364133,42.53829,-83.364133,42.53829",
+    "geom:latitude":42.53829,
+    "geom:longitude":-83.364133,
+    "iso:country":"US",
+    "sg:address":"6775 Daly Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 932 5400",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10s6K6LVp6CHdvEb6apo7L_42.538290_-83.364133@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803826,
+    "wof:geomhash":"62abd2d39141ddccf844a342504bdbed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706468819
+        }
+    ],
+    "wof:id":706468819,
+    "wof:lastmodified":1461803826,
+    "wof:name":"ATM Of America Inc",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -83.364133,
+    42.53829,
+    -83.364133,
+    42.53829
+],
+  "geometry": {"coordinates":[-83.364133,42.53829],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705730205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.135396,42.72493,-83.135396,42.72493",
+    "geom:latitude":42.72493,
+    "geom:longitude":-83.135396,
+    "iso:country":"US",
+    "sg:address":"5125 N Rochester Rd",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 651 4224",
+    "sg:postcode":"48306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cider",
+        "mills"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896789,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06VNq1qlTa8Ex2USzPQYd5_42.724930_-83.135396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787412,
+    "wof:geomhash":"370d39b2d5d381d24159bcfb549f9f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896789,
+            "region_id":85688599,
+            "venue_id":705730205
+        }
+    ],
+    "wof:id":705730205,
+    "wof:lastmodified":1461787412,
+    "wof:name":"Rochester Cider Mill",
+    "wof:parent_id":85896789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cider",
+        "mills"
+    ]
+},
+  "bbox": [
+    -83.135396,
+    42.72493,
+    -83.135396,
+    42.72493
+],
+  "geometry": {"coordinates":[-83.135396,42.72493],"type":"Point"}
+}

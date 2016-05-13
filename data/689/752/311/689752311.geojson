@@ -1,0 +1,69 @@
+{
+  "id": 689752311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43129,42.389776,-83.43129,42.389776",
+    "geom:latitude":42.389776,
+    "geom:longitude":-83.43129,
+    "iso:country":"US",
+    "sg:address":"39322 Donald St",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 432 2300",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zfxhlxOuRw82vniat2v5X_42.389776_-83.431290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780514,
+    "wof:geomhash":"5e67a5a603b7bba96ae283c4aa8ca088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":689752311
+        }
+    ],
+    "wof:id":689752311,
+    "wof:lastmodified":1461780514,
+    "wof:name":"Great Lakes Janitorial Inc",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.43129,
+    42.389776,
+    -83.43129,
+    42.389776
+],
+  "geometry": {"coordinates":[-83.43129,42.389776],"type":"Point"}
+}

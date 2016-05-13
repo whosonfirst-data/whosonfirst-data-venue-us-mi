@@ -1,0 +1,77 @@
+{
+  "id": 706320519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740465,43.000501,-83.740465,43.000501",
+    "geom:latitude":43.000501,
+    "geom:longitude":-83.740465,
+    "iso:country":"US",
+    "sg:address":"3137 Brown St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 6550",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ma197zIueqzhlp7BW1iXA_43.000501_-83.740465@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800738,
+    "wof:geomhash":"f964034e325460f3901fe14aac305208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":706320519
+        }
+    ],
+    "wof:id":706320519,
+    "wof:lastmodified":1461800738,
+    "wof:name":"Brown Street Market",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -83.740465,
+    43.000501,
+    -83.740465,
+    43.000501
+],
+  "geometry": {"coordinates":[-83.740465,43.000501],"type":"Point"}
+}

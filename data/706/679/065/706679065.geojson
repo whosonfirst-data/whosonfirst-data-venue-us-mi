@@ -1,0 +1,80 @@
+{
+  "id": 706679065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.914738,42.45045,-82.914738,42.45045",
+    "geom:latitude":42.45045,
+    "geom:longitude":-82.914738,
+    "iso:country":"US",
+    "sg:address":"20979 Harper Ave",
+    "sg:city":"Harper Woods",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/harper-woods/182264-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 885 1610",
+    "sg:postcode":"48225",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850873,
+        102191575,
+        404508597,
+        85633793,
+        85951037,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2Zx0vlJn40nhpT41gRrC_42.450450_-82.914738@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809247,
+    "wof:geomhash":"13b25e6d44c84aeb6b187b13c519f373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508597,
+            "locality_id":85951037,
+            "neighbourhood_id":85850873,
+            "region_id":85688599,
+            "venue_id":706679065
+        }
+    ],
+    "wof:id":706679065,
+    "wof:lastmodified":1461809247,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85850873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -82.914738,
+    42.45045,
+    -82.914738,
+    42.45045
+],
+  "geometry": {"coordinates":[-82.914738,42.45045],"type":"Point"}
+}

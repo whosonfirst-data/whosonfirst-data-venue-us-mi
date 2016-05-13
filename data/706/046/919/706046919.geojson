@@ -1,0 +1,75 @@
+{
+  "id": 706046919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.26493,43.219974,-86.26493,43.219974",
+    "geom:latitude":43.219974,
+    "geom:longitude":-86.26493,
+    "iso:country":"US",
+    "sg:address":"890 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 5705",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y2qH40rUOQCcxoZV1IDwg_43.219974_-86.264930@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794539,
+    "wof:geomhash":"391e7e293d077b9cbef7d5cb4f7e2481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706046919
+        }
+    ],
+    "wof:id":706046919,
+    "wof:lastmodified":1461794539,
+    "wof:name":"Pete's Service & Repair",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.26493,
+    43.219974,
+    -86.26493,
+    43.219974
+],
+  "geometry": {"coordinates":[-86.26493000000001,43.219974],"type":"Point"}
+}

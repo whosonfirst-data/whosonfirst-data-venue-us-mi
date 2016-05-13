@@ -1,0 +1,74 @@
+{
+  "id": 706675469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.485376,42.916174,-82.485376,42.916174",
+    "geom:latitude":42.916174,
+    "geom:longitude":-82.485376,
+    "iso:country":"US",
+    "sg:address":"2055 Gratiot",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marysville/86865-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 388 9770",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LVYlRFKhwG3pdcSd3b7Ut_42.916174_-82.485376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809096,
+    "wof:geomhash":"d7e2f2a53b0bf0764e7113cbfe202f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706675469
+        }
+    ],
+    "wof:id":706675469,
+    "wof:lastmodified":1461809096,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.485376,
+    42.916174,
+    -82.485376,
+    42.916174
+],
+  "geometry": {"coordinates":[-82.485376,42.916174],"type":"Point"}
+}

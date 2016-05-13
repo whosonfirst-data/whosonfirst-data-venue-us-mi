@@ -1,0 +1,81 @@
+{
+  "id": 722529379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.166644,42.714691,-86.166644,42.714691",
+    "geom:latitude":42.714691,
+    "geom:longitude":-86.166644,
+    "iso:country":"US",
+    "sg:address":"4057 Beeline Rd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 335 9667",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YD25UF526WEHBvHHJIAo3_42.714691_-86.166644@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814384,
+    "wof:geomhash":"5c880c2dc77d9b2160856cc713f03ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":722529379
+        }
+    ],
+    "wof:id":722529379,
+    "wof:lastmodified":1461814384,
+    "wof:name":"Laketown Kennels",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -86.166644,
+    42.714691,
+    -86.166644,
+    42.714691
+],
+  "geometry": {"coordinates":[-86.16664400000001,42.714691],"type":"Point"}
+}

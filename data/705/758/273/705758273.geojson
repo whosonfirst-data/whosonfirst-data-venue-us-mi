@@ -1,0 +1,73 @@
+{
+  "id": 705758273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.947837,43.525175,-85.947837,43.525175",
+    "geom:latitude":43.525175,
+    "geom:longitude":-85.947837,
+    "iso:country":"US",
+    "sg:address":"5943 W 16th St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2404",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tire",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4daEajmnftparLnFNhhK52_43.525175_-85.947837@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788057,
+    "wof:geomhash":"3bc1ab314ee508f0ad99bfad682dda01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705758273
+        }
+    ],
+    "wof:id":705758273,
+    "wof:lastmodified":1461788057,
+    "wof:name":"Moon On Road Tire Repair",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "road"
+    ]
+},
+  "bbox": [
+    -85.947837,
+    43.525175,
+    -85.947837,
+    43.525175
+],
+  "geometry": {"coordinates":[-85.94783700000001,43.525175],"type":"Point"}
+}

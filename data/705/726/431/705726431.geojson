@@ -1,0 +1,71 @@
+{
+  "id": 705726431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.266546,42.597284,-83.266546,42.597284",
+    "geom:latitude":42.597284,
+    "geom:longitude":-83.266546,
+    "iso:country":"US",
+    "sg:address":"237 Wendy Ln",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 334 3434",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gqInlx03Iy4PQU2sSgl9Y_42.597284_-83.266546@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787317,
+    "wof:geomhash":"6582d3f2bc20e9eb3375145fabd26c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":705726431
+        }
+    ],
+    "wof:id":705726431,
+    "wof:lastmodified":1461787317,
+    "wof:name":"Street Smart",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -83.266546,
+    42.597284,
+    -83.266546,
+    42.597284
+],
+  "geometry": {"coordinates":[-83.26654600000001,42.597284],"type":"Point"}
+}

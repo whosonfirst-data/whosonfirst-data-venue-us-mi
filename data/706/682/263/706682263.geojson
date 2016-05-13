@@ -1,0 +1,78 @@
+{
+  "id": 706682263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.828988,42.566584,-84.828988,42.566584",
+    "geom:latitude":42.566584,
+    "geom:longitude":-84.828988,
+    "iso:country":"US",
+    "sg:address":"222 Lansing St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/charlotte/176415-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 543 4272",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kMVIlPcWTDTQeakhM3jlB_42.566584_-84.828988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809373,
+    "wof:geomhash":"624bf10ffa1933f314fbf14de09de4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706682263
+        }
+    ],
+    "wof:id":706682263,
+    "wof:lastmodified":1461809373,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.828988,
+    42.566584,
+    -84.828988,
+    42.566584
+],
+  "geometry": {"coordinates":[-84.828988,42.566584],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 705981665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362431,42.578307,-83.362431,42.578307",
+    "geom:latitude":42.578307,
+    "geom:longitude":-83.362431,
+    "iso:country":"US",
+    "sg:address":"4198 Orchard Lake Rd",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 706 0500",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eGgdwr3WTTPXzwd2TXqA0_42.578307_-83.362431@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793197,
+    "wof:geomhash":"038533168b74786b78fd75e79bde0545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":705981665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":705981665
+        }
+    ],
+    "wof:id":705981665,
+    "wof:lastmodified":1461793197,
+    "wof:name":"Plum Market Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -83.362431,
+    42.578307,
+    -83.362431,
+    42.578307
+],
+  "geometry": {"coordinates":[-83.362431,42.578307],"type":"Point"}
+}

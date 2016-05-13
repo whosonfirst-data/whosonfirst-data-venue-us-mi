@@ -1,0 +1,71 @@
+{
+  "id": 689925463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.483277,42.197158,-83.483277,42.197158",
+    "geom:latitude":42.197158,
+    "geom:longitude":-83.483277,
+    "iso:country":"US",
+    "sg:address":"25 Owen St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 7880",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UvMc2SPpLWNMEJDImKkYX_42.197158_-83.483277@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785246,
+    "wof:geomhash":"6ae334ddc8d04ff2ad1f3fdaf82a847e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":689925463
+        }
+    ],
+    "wof:id":689925463,
+    "wof:lastmodified":1461785246,
+    "wof:name":"Belleville CCS Office",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "community"
+    ]
+},
+  "bbox": [
+    -83.483277,
+    42.197158,
+    -83.483277,
+    42.197158
+],
+  "geometry": {"coordinates":[-83.483277,42.197158],"type":"Point"}
+}

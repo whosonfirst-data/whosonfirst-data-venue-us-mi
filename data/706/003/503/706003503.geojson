@@ -1,0 +1,71 @@
+{
+  "id": 706003503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.453664,43.050718,-82.453664,43.050718",
+    "geom:latitude":43.050718,
+    "geom:longitude":-82.453664,
+    "iso:country":"US",
+    "sg:address":"4929 Lakeshore Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 6131",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D4XFI3IbIGsC5kTsQJlwB_43.050718_-82.453664@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793647,
+    "wof:geomhash":"b30f6bb9053047298c1bc6a3557fe5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706003503
+        }
+    ],
+    "wof:id":706003503,
+    "wof:lastmodified":1461793647,
+    "wof:name":"Brian's Plumbing",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.453664,
+    43.050718,
+    -82.453664,
+    43.050718
+],
+  "geometry": {"coordinates":[-82.453664,43.050718],"type":"Point"}
+}

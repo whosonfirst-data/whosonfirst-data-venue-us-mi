@@ -1,0 +1,71 @@
+{
+  "id": 689582973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.502041,42.929725,-85.502041,42.929725",
+    "geom:latitude":42.929725,
+    "geom:longitude":-85.502041,
+    "iso:country":"US",
+    "sg:address":"6815 Sunrise Ct SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 676 2603",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51J1rOcI17WTRvTVDcjh6e_42.929725_-85.502041@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775711,
+    "wof:geomhash":"52818668efa01fbf6b97e6091e1057b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689582973
+        }
+    ],
+    "wof:id":689582973,
+    "wof:lastmodified":1461775711,
+    "wof:name":"Ram Advani MD",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.502041,
+    42.929725,
+    -85.502041,
+    42.929725
+],
+  "geometry": {"coordinates":[-85.50204100000001,42.929725],"type":"Point"}
+}

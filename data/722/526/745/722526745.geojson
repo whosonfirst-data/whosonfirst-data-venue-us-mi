@@ -1,0 +1,85 @@
+{
+  "id": 722526745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645721,42.270156,-85.645721,42.270156",
+    "geom:latitude":42.270156,
+    "geom:longitude":-85.645721,
+    "iso:country":"US",
+    "sg:address":"4612 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 4368",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HyKuQksIKDfZvlg1r0Oob_42.270156_-85.645721@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814277,
+    "wof:geomhash":"fa44580112049c1888d3ad7ad42c3338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":722526745
+        }
+    ],
+    "wof:id":722526745,
+    "wof:lastmodified":1461814277,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -85.645721,
+    42.270156,
+    -85.645721,
+    42.270156
+],
+  "geometry": {"coordinates":[-85.64572099999999,42.270156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705881231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.107005,43.227941,-86.107005,43.227941",
+    "geom:latitude":43.227941,
+    "geom:longitude":-86.107005,
+    "iso:country":"US",
+    "sg:address":"1152 S Wolf Lake Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3518",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WhqMV9AxKCA6xVAs4nrZ8_43.227941_-86.107005@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790955,
+    "wof:geomhash":"dcfd1139eb6cbe6c4b910e0a1678922f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705881231
+        }
+    ],
+    "wof:id":705881231,
+    "wof:lastmodified":1461790955,
+    "wof:name":"Ron Schwab Electric Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.107005,
+    43.227941,
+    -86.107005,
+    43.227941
+],
+  "geometry": {"coordinates":[-86.107005,43.227941],"type":"Point"}
+}

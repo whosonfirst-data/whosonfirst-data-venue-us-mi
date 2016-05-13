@@ -1,0 +1,73 @@
+{
+  "id": 706281193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.264865,43.209022,-86.264865,43.209022",
+    "geom:latitude":43.209022,
+    "geom:longitude":-86.264865,
+    "iso:country":"US",
+    "sg:address":"874 Pulaski Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3708",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jo0srz0Rpvl9Rh5ctbDxB_43.209022_-86.264865@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799871,
+    "wof:geomhash":"559a9bb2f62439965386599464d6cec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706281193
+        }
+    ],
+    "wof:id":706281193,
+    "wof:lastmodified":1461799871,
+    "wof:name":"Central Towing & Trucking",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -86.264865,
+    43.209022,
+    -86.264865,
+    43.209022
+],
+  "geometry": {"coordinates":[-86.264865,43.209022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705837925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.738767,43.006811,-83.738767,43.006811",
+    "geom:latitude":43.006811,
+    "geom:longitude":-83.738767,
+    "iso:country":"US",
+    "sg:address":"4007 W Court St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 8120",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43UtEIZXwWZbhSs08TmIeD_43.006811_-83.738767@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789907,
+    "wof:geomhash":"80e88a380e88b065fc843c67eef85933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705837925
+        }
+    ],
+    "wof:id":705837925,
+    "wof:lastmodified":1461789907,
+    "wof:name":"Rama D Rao MD",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.738767,
+    43.006811,
+    -83.738767,
+    43.006811
+],
+  "geometry": {"coordinates":[-83.738767,43.006811],"type":"Point"}
+}

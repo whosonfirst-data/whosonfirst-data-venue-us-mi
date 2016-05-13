@@ -1,0 +1,71 @@
+{
+  "id": 706735931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.389648,42.170914,-83.389648,42.170914",
+    "geom:latitude":42.170914,
+    "geom:longitude":-83.389648,
+    "iso:country":"US",
+    "sg:address":"17612 Commerce Dr",
+    "sg:city":"New Boston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 753 9991",
+    "sg:postcode":"48164",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a5zJbQVgEOeDdpvZsiWbm_42.170914_-83.389648@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811657,
+    "wof:geomhash":"e3d6eec97268b09ce83c4434289455f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706735931
+        }
+    ],
+    "wof:id":706735931,
+    "wof:lastmodified":1461811657,
+    "wof:name":"Michigan Academy of Emergency Services",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.389648,
+    42.170914,
+    -83.389648,
+    42.170914
+],
+  "geometry": {"coordinates":[-83.38964799999999,42.170914],"type":"Point"}
+}

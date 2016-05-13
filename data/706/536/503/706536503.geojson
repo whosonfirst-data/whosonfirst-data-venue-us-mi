@@ -1,0 +1,73 @@
+{
+  "id": 706536503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.548217,42.900974,-85.548217,42.900974",
+    "geom:latitude":42.900974,
+    "geom:longitude":-85.548217,
+    "iso:country":"US",
+    "sg:address":"3533 Patterson Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 956 7102",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g0AVyWVgvF8NLPjGFMvyu_42.900974_-85.548217@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805395,
+    "wof:geomhash":"8d72d76b5a35983e626a0a47ec463e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706536503
+        }
+    ],
+    "wof:id":706536503,
+    "wof:lastmodified":1461805395,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -85.548217,
+    42.900974,
+    -85.548217,
+    42.900974
+],
+  "geometry": {"coordinates":[-85.54821699999999,42.900974],"type":"Point"}
+}

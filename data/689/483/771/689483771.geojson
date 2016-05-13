@@ -1,0 +1,69 @@
+{
+  "id": 689483771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.705863,42.724977,-85.705863,42.724977",
+    "geom:latitude":42.724977,
+    "geom:longitude":-85.705863,
+    "iso:country":"US",
+    "sg:address":"1614 142nd Ave",
+    "sg:city":"Dorr",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 681 9521",
+    "sg:postcode":"49323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EsRqtnAYGkpaVF5mdszTJ_42.724977_-85.705863@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772625,
+    "wof:geomhash":"d7566fcc2b74e66115d8901aa184ebe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689483771
+        }
+    ],
+    "wof:id":689483771,
+    "wof:lastmodified":1461772625,
+    "wof:name":"Dick's Food Market",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.705863,
+    42.724977,
+    -85.705863,
+    42.724977
+],
+  "geometry": {"coordinates":[-85.70586299999999,42.724977],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 722483763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.110872,42.330712,-83.110872,42.330712",
+    "geom:latitude":42.330712,
+    "geom:longitude":-83.110872,
+    "iso:country":"US",
+    "sg:address":"3710 Junction Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 894 2070",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican",
+        "italian"
+    ],
+    "sg:website":"elbarzonrestaurant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OifAd2fo5zuIRbC0n6FNM_42.330712_-83.110872@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812443,
+    "wof:geomhash":"1f4b2e73b9e059c17754f9828e899d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722483763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870605,
+            "region_id":85688599,
+            "venue_id":722483763
+        }
+    ],
+    "wof:id":722483763,
+    "wof:lastmodified":1461812443,
+    "wof:name":"El Barzon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.110872,
+    42.330712,
+    -83.110872,
+    42.330712
+],
+  "geometry": {"coordinates":[-83.110872,42.330712],"type":"Point"}
+}

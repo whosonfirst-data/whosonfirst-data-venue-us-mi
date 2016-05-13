@@ -1,0 +1,69 @@
+{
+  "id": 689468503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.339434,41.947095,-86.339434,41.947095",
+    "geom:latitude":41.947095,
+    "geom:longitude":-86.339434,
+    "iso:country":"US",
+    "sg:address":"105 N Cass St",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 2557",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fKsVApKwYG0JTPan88ZVL_41.947095_-86.339434@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772162,
+    "wof:geomhash":"b466bd8e56b87097db503b9b4ea353b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689468503
+        }
+    ],
+    "wof:id":689468503,
+    "wof:lastmodified":1461772162,
+    "wof:name":"Total Petroleum",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.339434,
+    41.947095,
+    -86.339434,
+    41.947095
+],
+  "geometry": {"coordinates":[-86.339434,41.947095],"type":"Point"}
+}

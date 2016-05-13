@@ -1,0 +1,71 @@
+{
+  "id": 689860267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435213,42.042968,-86.435213,42.042968",
+    "geom:latitude":42.042968,
+    "geom:longitude":-86.435213,
+    "iso:country":"US",
+    "sg:address":"4091 State Hwy 139",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 4051",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_538TGt67J1X9u8Rlb80dEn_42.042968_-86.435213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783538,
+    "wof:geomhash":"cf7208b7dd61d9b3ca336ff182456a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689860267
+        }
+    ],
+    "wof:id":689860267,
+    "wof:lastmodified":1461783538,
+    "wof:name":"James F Christensen DVM",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.435213,
+    42.042968,
+    -86.435213,
+    42.042968
+],
+  "geometry": {"coordinates":[-86.435213,42.042968],"type":"Point"}
+}

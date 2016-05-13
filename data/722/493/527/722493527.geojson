@@ -1,0 +1,77 @@
+{
+  "id": 722493527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.049341,42.337661,-83.049341,42.337661",
+    "geom:latitude":42.337661,
+    "geom:longitude":-83.049341,
+    "iso:country":"US",
+    "sg:address":"28 E Adams Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 224 5890",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891677,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5h1WqG09npI01kfM5mBf_42.337661_-83.049341@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812828,
+    "wof:geomhash":"7b7ac30d63a0ab0957c1159aa3091971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891677,
+            "region_id":85688599,
+            "venue_id":722493527
+        }
+    ],
+    "wof:id":722493527,
+    "wof:lastmodified":1461812828,
+    "wof:name":"Wayne County",
+    "wof:parent_id":85891677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -83.049341,
+    42.337661,
+    -83.049341,
+    42.337661
+],
+  "geometry": {"coordinates":[-83.049341,42.337661],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 689865081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.546336,44.310273,-85.546336,44.310273",
+    "geom:latitude":44.310273,
+    "geom:longitude":-85.546336,
+    "iso:country":"US",
+    "sg:address":"613 Autumn Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 3836",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N4wE55Df2Dd1mP9c8WbJe_44.310273_-85.546336@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783653,
+    "wof:geomhash":"27c26e6bf393cec72208665d03d7a1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689865081
+        }
+    ],
+    "wof:id":689865081,
+    "wof:lastmodified":1461783653,
+    "wof:name":"Myers Trucking",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.546336,
+    44.310273,
+    -85.546336,
+    44.310273
+],
+  "geometry": {"coordinates":[-85.546336,44.310273],"type":"Point"}
+}

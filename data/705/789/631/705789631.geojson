@@ -1,0 +1,71 @@
+{
+  "id": 705789631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.034985,42.709003,-83.034985,42.709003",
+    "geom:latitude":42.709003,
+    "geom:longitude":-83.034985,
+    "iso:country":"US",
+    "sg:address":"56200 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 781 6027",
+    "sg:postcode":"48316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yy5sH4RO2s13Aj5j8nmMU_42.709003_-83.034985@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788793,
+    "wof:geomhash":"36568d0f05018746739e6ac6201f9f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":705789631
+        }
+    ],
+    "wof:id":705789631,
+    "wof:lastmodified":1461788793,
+    "wof:name":"Brooklands Dental Laboratories",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.034985,
+    42.709003,
+    -83.034985,
+    42.709003
+],
+  "geometry": {"coordinates":[-83.03498500000001,42.709003],"type":"Point"}
+}

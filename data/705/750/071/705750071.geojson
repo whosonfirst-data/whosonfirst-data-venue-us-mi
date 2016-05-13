@@ -1,0 +1,71 @@
+{
+  "id": 705750071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.483177,42.431641,-83.483177,42.431641",
+    "geom:latitude":42.431641,
+    "geom:longitude":-83.483177,
+    "iso:country":"US",
+    "sg:address":"148 N Center St",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 349 7140",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "skateboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aASksDw2evgyL1bzpTAKS_42.431641_-83.483177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787847,
+    "wof:geomhash":"b93f6f3bedc1a6bbba0d8e2d33d0416a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":705750071
+        }
+    ],
+    "wof:id":705750071,
+    "wof:lastmodified":1461787847,
+    "wof:name":"Northville Bike Shop",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "skateboard"
+    ]
+},
+  "bbox": [
+    -83.483177,
+    42.431641,
+    -83.483177,
+    42.431641
+],
+  "geometry": {"coordinates":[-83.483177,42.431641],"type":"Point"}
+}

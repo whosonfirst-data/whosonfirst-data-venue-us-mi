@@ -1,0 +1,85 @@
+{
+  "id": 722503235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.297028,42.428349,-83.297028,42.428349",
+    "geom:latitude":42.428349,
+    "geom:longitude":-83.297028,
+    "iso:country":"US",
+    "sg:address":"25800 W 7 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 534 0808",
+    "sg:postcode":"48240",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "brake",
+        "service-equipment"
+    ],
+    "sg:website":"http://www.wearmasterauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wzii6SmlBPLonyQgtWZQd_42.428349_-83.297028@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813196,
+    "wof:geomhash":"fe9a2f7de0033b8c327cfd04b5055aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":722503235
+        }
+    ],
+    "wof:id":722503235,
+    "wof:lastmodified":1461813196,
+    "wof:name":"Redford Wearmaster",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "brake",
+        "service-equipment"
+    ]
+},
+  "bbox": [
+    -83.297028,
+    42.428349,
+    -83.297028,
+    42.428349
+],
+  "geometry": {"coordinates":[-83.297028,42.428349],"type":"Point"}
+}

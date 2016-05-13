@@ -1,0 +1,76 @@
+{
+  "id": 706725915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.289101,42.268799,-83.289101,42.268799",
+    "geom:latitude":42.268799,
+    "geom:longitude":-83.289101,
+    "iso:country":"US",
+    "sg:address":"25762 Van Born Rd",
+    "sg:city":"Dearborn Heights",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 299 0348",
+    "sg:postcode":"48125",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896627,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWabQ0IyeKnJxEWoORqJP_42.268799_-83.289101@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811253,
+    "wof:geomhash":"68f0c1ae0cfbc4c43c28402325dfea1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85896627,
+            "region_id":85688599,
+            "venue_id":706725915
+        }
+    ],
+    "wof:id":706725915,
+    "wof:lastmodified":1461811253,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85896627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.289101,
+    42.268799,
+    -83.289101,
+    42.268799
+],
+  "geometry": {"coordinates":[-83.289101,42.268799],"type":"Point"}
+}

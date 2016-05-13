@@ -1,0 +1,71 @@
+{
+  "id": 705866273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.288151,43.205684,-86.288151,43.205684",
+    "geom:latitude":43.205684,
+    "geom:longitude":-86.288151,
+    "iso:country":"US",
+    "sg:address":"1701 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 1130",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HvDrs3BW6MQ6pajmfa8le_43.205684_-86.288151@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790588,
+    "wof:geomhash":"df0a80c920bff42df90afcfd94cdff80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705866273
+        }
+    ],
+    "wof:id":705866273,
+    "wof:lastmodified":1461790588,
+    "wof:name":"JAJ Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.288151,
+    43.205684,
+    -86.288151,
+    43.205684
+],
+  "geometry": {"coordinates":[-86.288151,43.205684],"type":"Point"}
+}

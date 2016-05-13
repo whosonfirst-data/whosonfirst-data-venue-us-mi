@@ -1,0 +1,89 @@
+{
+  "id": 722497465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.918198,42.388901,-82.918198,42.388901",
+    "geom:latitude":42.388901,
+    "geom:longitude":-82.918198,
+    "iso:country":"US",
+    "sg:address":"16824 Kercheval Pl Lbby",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 884 2805",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TmVRXcuyq7oYTEzdM31PK_42.388901_-82.918198@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812975,
+    "wof:geomhash":"1c13027b0dd2c43c3cf5e3b3cdfa76f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":722497465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722497465
+        }
+    ],
+    "wof:id":722497465,
+    "wof:lastmodified":1461812975,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -82.918198,
+    42.388901,
+    -82.918198,
+    42.388901
+],
+  "geometry": {"coordinates":[-82.918198,42.388901],"type":"Point"}
+}

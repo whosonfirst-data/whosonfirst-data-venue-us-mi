@@ -1,0 +1,72 @@
+{
+  "id": 706685689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.085907,42.812037,-86.085907,42.812037",
+    "geom:latitude":42.812037,
+    "geom:longitude":-86.085907,
+    "iso:country":"US",
+    "sg:address":"12331 James St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/64321-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 393 7165",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OgUtTcvw2y2noUIqUFmBc_42.812037_-86.085907@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809509,
+    "wof:geomhash":"0648c051e49f9d3c78ea48edbad1c506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706685689
+        }
+    ],
+    "wof:id":706685689,
+    "wof:lastmodified":1461809509,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.085907,
+    42.812037,
+    -86.085907,
+    42.812037
+],
+  "geometry": {"coordinates":[-86.08590700000001,42.812037],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706620513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.835234,42.889591,-85.835234,42.889591",
+    "geom:latitude":42.889591,
+    "geom:longitude":-85.835234,
+    "iso:country":"US",
+    "sg:address":"2176 Center Industrial Ct",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 5800",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d83DJewc1EqmaFSqkMOI4_42.889591_-85.835234@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807159,
+    "wof:geomhash":"c02b84a8e988db2d440292f600cc3429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706620513
+        }
+    ],
+    "wof:id":706620513,
+    "wof:lastmodified":1461807159,
+    "wof:name":"Performance Engineering",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.835234,
+    42.889591,
+    -85.835234,
+    42.889591
+],
+  "geometry": {"coordinates":[-85.835234,42.889591],"type":"Point"}
+}

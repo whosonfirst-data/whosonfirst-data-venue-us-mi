@@ -1,0 +1,83 @@
+{
+  "id": 706688035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.13388,42.683454,-83.13388,42.683454",
+    "geom:latitude":42.683454,
+    "geom:longitude":-83.13388,
+    "iso:country":"US",
+    "sg:address":"613 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester/58021-paint-creek-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 656 2322",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fidyswFMzxfpeNbwFL1cc_42.683459_-83.133937@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809599,
+    "wof:geomhash":"8bae4db78e3478e1168ece3ce2029607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":706688035
+        }
+    ],
+    "wof:id":706688035,
+    "wof:lastmodified":1461809599,
+    "wof:name":"Paint Creek Tavern",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.13388,
+    42.683454,
+    -83.13388,
+    42.683454
+],
+  "geometry": {"coordinates":[-83.13388,42.683454],"type":"Point"}
+}

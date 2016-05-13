@@ -1,0 +1,73 @@
+{
+  "id": 689659979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.879832,42.593712,-82.879832,42.593712",
+    "geom:latitude":42.593712,
+    "geom:longitude":-82.879832,
+    "iso:country":"US",
+    "sg:address":"63 S Main St",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 8670",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GHos3ysOxwjLsdtqGOHe1_42.593712_-82.879832@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778128,
+    "wof:geomhash":"72a4e9a5f30a1f47701eb5127fde0632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":689659979
+        }
+    ],
+    "wof:id":689659979,
+    "wof:lastmodified":1461778128,
+    "wof:name":"Muffler Man",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -82.879832,
+    42.593712,
+    -82.879832,
+    42.593712
+],
+  "geometry": {"coordinates":[-82.87983199999999,42.593712],"type":"Point"}
+}

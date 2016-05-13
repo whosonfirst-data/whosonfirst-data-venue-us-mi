@@ -1,0 +1,86 @@
+{
+  "id": 722512299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362198,42.575199,-83.362198,42.575199",
+    "geom:latitude":42.575199,
+    "geom:longitude":-83.362198,
+    "iso:country":"US",
+    "sg:address":"4312 Orchard Lake Rd Ste 100",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 706 0100",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "photography",
+        "store"
+    ],
+    "sg:website":"www.liebermanphotography.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KBqMcRlqFDok2fhnSb9i7_42.575199_-83.362198@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813579,
+    "wof:geomhash":"562542c0d8bae18c9ffebc740644c163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512299
+        }
+    ],
+    "wof:id":722512299,
+    "wof:lastmodified":1461813579,
+    "wof:name":"Lieberman Photography Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.362198,
+    42.575199,
+    -83.362198,
+    42.575199
+],
+  "geometry": {"coordinates":[-83.36219800000001,42.575199],"type":"Point"}
+}

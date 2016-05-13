@@ -1,0 +1,71 @@
+{
+  "id": 705809913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.810962,42.571352,-82.810962,42.571352",
+    "geom:latitude":42.571352,
+    "geom:longitude":-82.810962,
+    "iso:country":"US",
+    "sg:address":"37790 Bakeman St",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 917 9170",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38MKzFCJB8nitU7QcvTFFk_42.571352_-82.810962@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789227,
+    "wof:geomhash":"72bf2ae69ac9aabcf8f6bc4dcd984be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":705809913
+        }
+    ],
+    "wof:id":705809913,
+    "wof:lastmodified":1461789227,
+    "wof:name":"St Thomas Properties",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -82.810962,
+    42.571352,
+    -82.810962,
+    42.571352
+],
+  "geometry": {"coordinates":[-82.810962,42.571352],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706577109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.142869,42.688328,-83.142869,42.688328",
+    "geom:latitude":42.688328,
+    "geom:longitude":-83.142869,
+    "iso:country":"US",
+    "sg:address":"845 Ludlow Ave",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 651 7270",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896793,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MnQPKXBBorkEQLKLOUoqh_42.688328_-83.142869@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806244,
+    "wof:geomhash":"8d2def38c32f88cb764c59e6df0c1eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896793,
+            "region_id":85688599,
+            "venue_id":706577109
+        }
+    ],
+    "wof:id":706577109,
+    "wof:lastmodified":1461806244,
+    "wof:name":"Rochester Ludlow Apartments",
+    "wof:parent_id":85896793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.142869,
+    42.688328,
+    -83.142869,
+    42.688328
+],
+  "geometry": {"coordinates":[-83.142869,42.688328],"type":"Point"}
+}

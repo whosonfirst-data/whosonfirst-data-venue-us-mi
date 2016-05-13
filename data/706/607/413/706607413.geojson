@@ -1,0 +1,71 @@
+{
+  "id": 706607413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.344225,42.673176,-83.344225,42.673176",
+    "geom:latitude":42.673176,
+    "geom:longitude":-83.344225,
+    "iso:country":"US",
+    "sg:address":"2249 Edinburgh St",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 618 9411",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40VJUUmYj1Pu9bfotwHgbX_42.673176_-83.344225@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806878,
+    "wof:geomhash":"13349a234f47787fddd1ad762c956443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":706607413
+        }
+    ],
+    "wof:id":706607413,
+    "wof:lastmodified":1461806878,
+    "wof:name":"TWC Maintenance",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.344225,
+    42.673176,
+    -83.344225,
+    42.673176
+],
+  "geometry": {"coordinates":[-83.34422499999999,42.673176],"type":"Point"}
+}

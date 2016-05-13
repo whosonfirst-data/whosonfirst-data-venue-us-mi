@@ -1,0 +1,73 @@
+{
+  "id": 706204857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224293,43.223654,-86.224293,43.223654",
+    "geom:latitude":43.223654,
+    "geom:longitude":-86.224293,
+    "iso:country":"US",
+    "sg:address":"1584 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 7572",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5laNNy0oUHhx8R12ntECfi_43.223654_-86.224293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798179,
+    "wof:geomhash":"64031fc22881cb85e10ce04d2ec47e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706204857
+        }
+    ],
+    "wof:id":706204857,
+    "wof:lastmodified":1461798179,
+    "wof:name":"RPM Automotive",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.224293,
+    43.223654,
+    -86.224293,
+    43.223654
+],
+  "geometry": {"coordinates":[-86.224293,43.223654],"type":"Point"}
+}

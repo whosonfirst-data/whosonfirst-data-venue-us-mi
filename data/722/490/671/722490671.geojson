@@ -1,0 +1,83 @@
+{
+  "id": 722490671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.933273,42.41835,-82.933273,42.41835",
+    "geom:latitude":42.41835,
+    "geom:longitude":-82.933273,
+    "iso:country":"US",
+    "sg:address":"17375 Harper Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 884 4342",
+    "sg:postcode":"48224",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870573,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FcQegk3uFJ18LYS6UFXTT_42.418350_-82.933273@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812724,
+    "wof:geomhash":"83ef0d36eae1e281da634b502567fc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870573,
+            "region_id":85688599,
+            "venue_id":722490671
+        }
+    ],
+    "wof:id":722490671,
+    "wof:lastmodified":1461812724,
+    "wof:name":"USPS - United States Post Office - Kensington Station",
+    "wof:parent_id":85870573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -82.933273,
+    42.41835,
+    -82.933273,
+    42.41835
+],
+  "geometry": {"coordinates":[-82.933273,42.41835],"type":"Point"}
+}

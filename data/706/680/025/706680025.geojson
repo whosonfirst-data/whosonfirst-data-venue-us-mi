@@ -1,0 +1,72 @@
+{
+  "id": 706680025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.973869,42.642283,-82.973869,42.642283",
+    "geom:latitude":42.642283,
+    "geom:longitude":-82.973869,
+    "iso:country":"US",
+    "sg:address":"47069 Hayes Rd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/86954-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 532 5020",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U17Zt9ebidovsd0VWotNY_42.642283_-82.973869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809281,
+    "wof:geomhash":"f3b026a657d0adb1fbf6e98fd6586d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706680025
+        }
+    ],
+    "wof:id":706680025,
+    "wof:lastmodified":1461809281,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.973869,
+    42.642283,
+    -82.973869,
+    42.642283
+],
+  "geometry": {"coordinates":[-82.97386899999999,42.642283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705757079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.40018,44.250083,-85.40018,44.250083",
+    "geom:latitude":44.250083,
+    "geom:longitude":-85.40018,
+    "iso:country":"US",
+    "sg:address":"134 W Harris St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 9789",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7miAA17lIhLC9VzfGe87Sn_44.250083_-85.400180@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788032,
+    "wof:geomhash":"34e3b2612ae8bc41174a5377441272da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705757079
+        }
+    ],
+    "wof:id":705757079,
+    "wof:lastmodified":1461788032,
+    "wof:name":"Eastshore Prof Bldg LLC",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -85.40018,
+    44.250083,
+    -85.40018,
+    44.250083
+],
+  "geometry": {"coordinates":[-85.40018000000001,44.250083],"type":"Point"}
+}

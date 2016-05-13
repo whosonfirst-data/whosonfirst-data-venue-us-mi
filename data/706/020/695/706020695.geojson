@@ -1,0 +1,73 @@
+{
+  "id": 706020695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.428525,44.252408,-85.428525,44.252408",
+    "geom:latitude":44.252408,
+    "geom:longitude":-85.428525,
+    "iso:country":"US",
+    "sg:address":"1635 W Division St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 1644",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rs4OYuUeDis29txv4RXZ7_44.252408_-85.428525@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794022,
+    "wof:geomhash":"f591e4e1d02710bfe49787518043e5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706020695
+        }
+    ],
+    "wof:id":706020695,
+    "wof:lastmodified":1461794022,
+    "wof:name":"Simmons Day Care",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -85.428525,
+    44.252408,
+    -85.428525,
+    44.252408
+],
+  "geometry": {"coordinates":[-85.42852499999999,44.252408],"type":"Point"}
+}

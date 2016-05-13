@@ -1,0 +1,71 @@
+{
+  "id": 706021693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.288101,43.205758,-86.288101,43.205758",
+    "geom:latitude":43.205758,
+    "geom:longitude":-86.288101,
+    "iso:country":"US",
+    "sg:address":"1704 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 1824",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6A4TqlvLWG1QLYXCtGgr_43.205758_-86.288101@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794044,
+    "wof:geomhash":"998d17b787945eb1833ae4164fb429ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706021693
+        }
+    ],
+    "wof:id":706021693,
+    "wof:lastmodified":1461794044,
+    "wof:name":"Richard A Huntley MD",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.288101,
+    43.205758,
+    -86.288101,
+    43.205758
+],
+  "geometry": {"coordinates":[-86.288101,43.205758],"type":"Point"}
+}

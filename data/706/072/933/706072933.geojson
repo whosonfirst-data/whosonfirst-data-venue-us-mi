@@ -1,0 +1,71 @@
+{
+  "id": 706072933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590439,42.90327,-85.590439,42.90327",
+    "geom:latitude":42.90327,
+    "geom:longitude":-85.590439,
+    "iso:country":"US",
+    "sg:address":"3120 Wingate Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 7951",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gAsCHFgcdxwjEEzbay2gc_42.903270_-85.590439@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795092,
+    "wof:geomhash":"86daa924329b4abf3c9494ff99111d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706072933
+        }
+    ],
+    "wof:id":706072933,
+    "wof:lastmodified":1461795092,
+    "wof:name":"Wingate Pool Phone",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.590439,
+    42.90327,
+    -85.590439,
+    42.90327
+],
+  "geometry": {"coordinates":[-85.590439,42.90327],"type":"Point"}
+}

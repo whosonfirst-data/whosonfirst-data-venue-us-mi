@@ -1,0 +1,72 @@
+{
+  "id": 706685351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888937,42.956715,-85.888937,42.956715",
+    "geom:latitude":42.956715,
+    "geom:longitude":-85.888937,
+    "iso:country":"US",
+    "sg:address":"10345 42nd Ave",
+    "sg:city":"Allendale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/georgetown/59218-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 331 7272",
+    "sg:postcode":"49401",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4psqNrAixbwhixIDrb9uNK_42.956715_-85.888937@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"33b7eea0db7a6d518b6925a32f5c41b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706685351
+        }
+    ],
+    "wof:id":706685351,
+    "wof:lastmodified":1461809497,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.888937,
+    42.956715,
+    -85.888937,
+    42.956715
+],
+  "geometry": {"coordinates":[-85.888937,42.956715],"type":"Point"}
+}

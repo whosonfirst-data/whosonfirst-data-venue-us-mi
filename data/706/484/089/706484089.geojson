@@ -1,0 +1,73 @@
+{
+  "id": 706484089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224561,43.210342,-86.224561,43.210342",
+    "geom:latitude":43.210342,
+    "geom:longitude":-86.224561,
+    "iso:country":"US",
+    "sg:address":"2201 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 9315",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Bx0dDiNn8YfrV0y8bzv7_43.210342_-86.224561@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804169,
+    "wof:geomhash":"931871a32e1e4881fa5c1641aee4b3ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706484089
+        }
+    ],
+    "wof:id":706484089,
+    "wof:lastmodified":1461804169,
+    "wof:name":"Muskegon Family Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.224561,
+    43.210342,
+    -86.224561,
+    43.210342
+],
+  "geometry": {"coordinates":[-86.22456099999999,43.210342],"type":"Point"}
+}

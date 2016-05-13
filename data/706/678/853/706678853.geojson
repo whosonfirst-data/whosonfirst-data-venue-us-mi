@@ -1,0 +1,78 @@
+{
+  "id": 706678853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.978723,42.388965,-82.978723,42.388965",
+    "geom:latitude":42.388965,
+    "geom:longitude":-82.978723,
+    "iso:country":"US",
+    "sg:address":"11939 E Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/56878-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 924 0474",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870567,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LSzUsfjv4hBxP2kIA6bvG_42.388965_-82.978723@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809240,
+    "wof:geomhash":"3735bcc3d12cb60986bf0f24d75f26b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870567,
+            "region_id":85688599,
+            "venue_id":706678853
+        }
+    ],
+    "wof:id":706678853,
+    "wof:lastmodified":1461809240,
+    "wof:name":"Subway",
+    "wof:parent_id":85870567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.978723,
+    42.388965,
+    -82.978723,
+    42.388965
+],
+  "geometry": {"coordinates":[-82.978723,42.388965],"type":"Point"}
+}

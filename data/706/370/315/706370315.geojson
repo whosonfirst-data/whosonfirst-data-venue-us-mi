@@ -1,0 +1,71 @@
+{
+  "id": 706370315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.980879,43.451048,-83.980879,43.451048",
+    "geom:latitude":43.451048,
+    "geom:longitude":-83.980879,
+    "iso:country":"US",
+    "sg:address":"3310 Shattuck Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 2930",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35SKZJZEad8bWSLTAEiPnG_43.451048_-83.980879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801814,
+    "wof:geomhash":"2fb221b8b453dad63cf6553c7b3807cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706370315
+        }
+    ],
+    "wof:id":706370315,
+    "wof:lastmodified":1461801814,
+    "wof:name":"Mark F Kuligowski DO",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.980879,
+    43.451048,
+    -83.980879,
+    43.451048
+],
+  "geometry": {"coordinates":[-83.980879,43.451048],"type":"Point"}
+}

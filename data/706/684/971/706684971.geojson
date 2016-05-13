@@ -1,0 +1,72 @@
+{
+  "id": 706684971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.381835,42.218786,-84.381835,42.218786",
+    "geom:latitude":42.218786,
+    "geom:longitude":-84.381835,
+    "iso:country":"US",
+    "sg:address":"2190 Brooklyn Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/summit/280922-west-texas-bbq-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 0510",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RDWAB3lpXHRLrZdJWcqWD_42.218786_-84.381835@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809484,
+    "wof:geomhash":"7701c68f28d1f050b229dd5aaa000ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706684971
+        }
+    ],
+    "wof:id":706684971,
+    "wof:lastmodified":1461809484,
+    "wof:name":"West Texas BBQ Company",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.381835,
+    42.218786,
+    -84.381835,
+    42.218786
+],
+  "geometry": {"coordinates":[-84.381835,42.218786],"type":"Point"}
+}

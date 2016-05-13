@@ -1,0 +1,72 @@
+{
+  "id": 706664065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.56894,42.264055,-85.56894,42.264055",
+    "geom:latitude":42.264055,
+    "geom:longitude":-85.56894,
+    "iso:country":"US",
+    "sg:address":"2706 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 6162",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"http://www.transmissionclinicllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XPvaGB6jbA3tidyH56wMt_42.263589_-85.568817@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808625,
+    "wof:geomhash":"471439a89d8cdff82f65e48773659952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706664065
+        }
+    ],
+    "wof:id":706664065,
+    "wof:lastmodified":1461808625,
+    "wof:name":"Automatic Transmission Clinic LLC",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.56894,
+    42.264055,
+    -85.56894,
+    42.264055
+],
+  "geometry": {"coordinates":[-85.56894,42.264055],"type":"Point"}
+}

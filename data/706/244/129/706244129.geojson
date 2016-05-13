@@ -1,0 +1,73 @@
+{
+  "id": 706244129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.4055,44.261733,-85.4055,44.261733",
+    "geom:latitude":44.261733,
+    "geom:longitude":-85.4055,
+    "iso:country":"US",
+    "sg:address":"1010 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 5000",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_731SqWe7O8F4vQ0Iaww4Z6_44.261733_-85.405500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799044,
+    "wof:geomhash":"1ef50112562fb91bd0af0c5a611ae9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706244129
+        }
+    ],
+    "wof:id":706244129,
+    "wof:lastmodified":1461799044,
+    "wof:name":"B & B Oil",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.4055,
+    44.261733,
+    -85.4055,
+    44.261733
+],
+  "geometry": {"coordinates":[-85.4055,44.261733],"type":"Point"}
+}

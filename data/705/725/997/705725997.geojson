@@ -1,0 +1,69 @@
+{
+  "id": 705725997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.348548,42.224485,-84.348548,42.224485",
+    "geom:latitude":42.224485,
+    "geom:longitude":-84.348548,
+    "iso:country":"US",
+    "sg:address":"3535 Myers Ct",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 0248",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XMJNPmhqq794aTXeiNBq5_42.224485_-84.348548@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787304,
+    "wof:geomhash":"45b90f463ccfde76fd48489d173866da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705725997
+        }
+    ],
+    "wof:id":705725997,
+    "wof:lastmodified":1461787304,
+    "wof:name":"Munchies & More",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.348548,
+    42.224485,
+    -84.348548,
+    42.224485
+],
+  "geometry": {"coordinates":[-84.34854799999999,42.224485],"type":"Point"}
+}

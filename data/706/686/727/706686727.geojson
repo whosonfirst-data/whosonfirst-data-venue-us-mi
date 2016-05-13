@@ -1,0 +1,76 @@
+{
+  "id": 706686727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.525924,42.91303,-85.525924,42.91303",
+    "geom:latitude":42.91303,
+    "geom:longitude":-85.525924,
+    "iso:country":"US",
+    "sg:address":"5755 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cascade/18775-sundance-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 977 9988",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YeGqrsKb2cohoT8fv77qB_42.913030_-85.525924@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809546,
+    "wof:geomhash":"3997fc7966863cd2622b5f9691d9086d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686727
+        }
+    ],
+    "wof:id":706686727,
+    "wof:lastmodified":1461809546,
+    "wof:name":"Sundance Grill",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.525924,
+    42.91303,
+    -85.525924,
+    42.91303
+],
+  "geometry": {"coordinates":[-85.525924,42.91303],"type":"Point"}
+}

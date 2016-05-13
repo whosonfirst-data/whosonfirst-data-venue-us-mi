@@ -1,0 +1,73 @@
+{
+  "id": 689825099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810641,43.336395,-85.810641,43.336395",
+    "geom:latitude":43.336395,
+    "geom:longitude":-85.810641,
+    "iso:country":"US",
+    "sg:address":"11 S Maple St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 0444",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4htrpMlrSbXwFLZubQIGGC_43.336395_-85.810641@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782653,
+    "wof:geomhash":"b2cfc8a3defd3abe5a97a653587d14db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689825099
+        }
+    ],
+    "wof:id":689825099,
+    "wof:lastmodified":1461782653,
+    "wof:name":"Family Health Care",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -85.810641,
+    43.336395,
+    -85.810641,
+    43.336395
+],
+  "geometry": {"coordinates":[-85.810641,43.336395],"type":"Point"}
+}

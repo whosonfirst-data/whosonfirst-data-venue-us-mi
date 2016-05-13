@@ -1,0 +1,69 @@
+{
+  "id": 705747597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.389961,41.980093,-86.389961,41.980093",
+    "geom:latitude":41.980093,
+    "geom:longitude":-86.389961,
+    "iso:country":"US",
+    "sg:address":"7675 US Hwy 31",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 7042",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oGGzDlELwvWmMzPXyvVTr_41.980093_-86.389961@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787801,
+    "wof:geomhash":"ab4412dec48730f5a6c86d0626976406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705747597
+        }
+    ],
+    "wof:id":705747597,
+    "wof:lastmodified":1461787801,
+    "wof:name":"Hecht Veterinary Hospital",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.389961,
+    41.980093,
+    -86.389961,
+    41.980093
+],
+  "geometry": {"coordinates":[-86.389961,41.980093],"type":"Point"}
+}

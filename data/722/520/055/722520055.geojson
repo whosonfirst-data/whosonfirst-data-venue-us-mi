@@ -1,0 +1,81 @@
+{
+  "id": 722520055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.73663,43.177398,-83.73663,43.177398",
+    "geom:latitude":43.177398,
+    "geom:longitude":-83.73663,
+    "iso:country":"US",
+    "sg:address":"196 W Vienna St",
+    "sg:city":"Clio",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 686 1800",
+    "sg:postcode":"48420",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plan",
+        "medical",
+        "hospitalization",
+        "surgical"
+    ],
+    "sg:website":"http://progressive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85841859,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fXf7d8EEwuwM5cHcnJmWs_43.177398_-83.736630@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813932,
+    "wof:geomhash":"6411e2eeff825f6ad8b13b109fb6c438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85841859,
+            "region_id":85688599,
+            "venue_id":722520055
+        }
+    ],
+    "wof:id":722520055,
+    "wof:lastmodified":1461813932,
+    "wof:name":"Blackmore-Rowe Clio",
+    "wof:parent_id":85841859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan",
+        "medical",
+        "hospitalization",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -83.73663,
+    43.177398,
+    -83.73663,
+    43.177398
+],
+  "geometry": {"coordinates":[-83.73663000000001,43.177398],"type":"Point"}
+}

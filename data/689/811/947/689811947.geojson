@@ -1,0 +1,69 @@
+{
+  "id": 689811947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.440011,42.576573,-83.440011,42.576573",
+    "geom:latitude":42.576573,
+    "geom:longitude":-83.440011,
+    "iso:country":"US",
+    "sg:address":"4819 Haggerty Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 624 0200",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cqREK3yVl1kfGH0VgH0J3_42.576573_-83.440011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782256,
+    "wof:geomhash":"3a65b23bc314a154f0af3830d2c2557b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":689811947
+        }
+    ],
+    "wof:id":689811947,
+    "wof:lastmodified":1461782256,
+    "wof:name":"Westwind Dental",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.440011,
+    42.576573,
+    -83.440011,
+    42.576573
+],
+  "geometry": {"coordinates":[-83.440011,42.576573],"type":"Point"}
+}

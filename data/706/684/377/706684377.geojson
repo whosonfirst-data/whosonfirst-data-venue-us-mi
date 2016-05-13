@@ -1,0 +1,74 @@
+{
+  "id": 706684377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.522481,42.323105,-85.522481,42.323105",
+    "geom:latitude":42.323105,
+    "geom:longitude":-85.522481,
+    "iso:country":"US",
+    "sg:address":"5460 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/comstock/142305-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 383 1600",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PPRjuf2y6A0Bjl7OkoUSj_42.323105_-85.522481@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809462,
+    "wof:geomhash":"eb5591c6ffb4e05cb815252a1fe84e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684377
+        }
+    ],
+    "wof:id":706684377,
+    "wof:lastmodified":1461809462,
+    "wof:name":"Subway",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.522481,
+    42.323105,
+    -85.522481,
+    42.323105
+],
+  "geometry": {"coordinates":[-85.522481,42.323105],"type":"Point"}
+}

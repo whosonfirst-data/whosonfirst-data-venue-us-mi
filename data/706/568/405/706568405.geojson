@@ -1,0 +1,73 @@
+{
+  "id": 706568405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.435099,46.55599,-87.435099,46.55599",
+    "geom:latitude":46.55599,
+    "geom:longitude":-87.435099,
+    "iso:country":"US",
+    "sg:address":"2223 Allen St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 5533",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56PSAqTLyg7zZxTPCEvxtE_46.555990_-87.435099@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806024,
+    "wof:geomhash":"55410d2ee60659274b56e74e2a158ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706568405
+        }
+    ],
+    "wof:id":706568405,
+    "wof:lastmodified":1461806024,
+    "wof:name":"Snow-Proz",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -87.435099,
+    46.55599,
+    -87.435099,
+    46.55599
+],
+  "geometry": {"coordinates":[-87.43509899999999,46.55599],"type":"Point"}
+}

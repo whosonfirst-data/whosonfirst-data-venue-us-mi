@@ -1,0 +1,67 @@
+{
+  "id": 706700659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.871902,42.631699,-82.871902,42.631699",
+    "geom:latitude":42.631699,
+    "geom:longitude":-82.871902,
+    "iso:country":"US",
+    "sg:address":"45800 N Gratiot Ave",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 4418",
+    "sg:postcode":"48042",
+    "sg:province":"MI",
+    "sg:website":"www.tuffy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IPwaFKQkQSQWeScSyyscB_42.631699_-82.871902@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810109,
+    "wof:geomhash":"db2779a7325fe665b4e645bd062e0d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706700659
+        }
+    ],
+    "wof:id":706700659,
+    "wof:lastmodified":1461810109,
+    "wof:name":"Tuffy Auto Service Centers",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.871902,
+    42.631699,
+    -82.871902,
+    42.631699
+],
+  "geometry": {"coordinates":[-82.87190200000001,42.631699],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 705870749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888687,43.205802,-85.888687,43.205802",
+    "geom:latitude":43.205802,
+    "geom:longitude":-85.888687,
+    "iso:country":"US",
+    "sg:address":"3824 Sherman Blvd",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 5006",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YPUnSoGJLGAp52KUSSSXE_43.205802_-85.888687@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790711,
+    "wof:geomhash":"c87add89c92fe4bfabbd4342d10f510e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705870749
+        }
+    ],
+    "wof:id":705870749,
+    "wof:lastmodified":1461790711,
+    "wof:name":"Esterling Trucking LLC",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.888687,
+    43.205802,
+    -85.888687,
+    43.205802
+],
+  "geometry": {"coordinates":[-85.888687,43.205802],"type":"Point"}
+}

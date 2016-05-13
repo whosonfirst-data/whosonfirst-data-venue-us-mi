@@ -1,0 +1,71 @@
+{
+  "id": 706665363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.567924,42.249353,-83.567924,42.249353",
+    "geom:latitude":42.249353,
+    "geom:longitude":-83.567924,
+    "iso:country":"US",
+    "sg:address":"2171 E Michigan Ave",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 481 8200",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOH2YSdUZL3OIWEh2obt5_42.249448_-83.567603@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808677,
+    "wof:geomhash":"10e129857dbcf597be1daa7ca9528fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706665363
+        }
+    ],
+    "wof:id":706665363,
+    "wof:lastmodified":1461808677,
+    "wof:name":"Willow Run Community Schools",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "district"
+    ]
+},
+  "bbox": [
+    -83.567924,
+    42.249353,
+    -83.567924,
+    42.249353
+],
+  "geometry": {"coordinates":[-83.567924,42.249353],"type":"Point"}
+}

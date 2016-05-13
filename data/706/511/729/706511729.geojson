@@ -1,0 +1,71 @@
+{
+  "id": 706511729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247704,41.827923,-86.247704,41.827923",
+    "geom:latitude":41.827923,
+    "geom:longitude":-86.247704,
+    "iso:country":"US",
+    "sg:address":"1012 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 6500",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OQDilRTrSKcbY0okxVsE0_41.827923_-86.247704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804882,
+    "wof:geomhash":"b168593be27b7f1be5d4da35dcf1c007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706511729
+        }
+    ],
+    "wof:id":706511729,
+    "wof:lastmodified":1461804882,
+    "wof:name":"Mock 1 Auto Store",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.247704,
+    41.827923,
+    -86.247704,
+    41.827923
+],
+  "geometry": {"coordinates":[-86.247704,41.827923],"type":"Point"}
+}

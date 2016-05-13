@@ -1,0 +1,71 @@
+{
+  "id": 706459439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.300661,43.203638,-86.300661,43.203638",
+    "geom:latitude":43.203638,
+    "geom:longitude":-86.300661,
+    "iso:country":"US",
+    "sg:address":"2646 Le Boeuf St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 4998",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DhOULILxISqaCADdzHj1M_43.203638_-86.300661@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803631,
+    "wof:geomhash":"bb61f4b73b01136ef37f1ed31f2703c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706459439
+        }
+    ],
+    "wof:id":706459439,
+    "wof:lastmodified":1461803631,
+    "wof:name":"Winicki Adult Foster Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -86.300661,
+    43.203638,
+    -86.300661,
+    43.203638
+],
+  "geometry": {"coordinates":[-86.30066100000001,43.203638],"type":"Point"}
+}

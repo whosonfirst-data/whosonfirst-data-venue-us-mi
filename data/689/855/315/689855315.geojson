@@ -1,0 +1,71 @@
+{
+  "id": 689855315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.089545,42.826491,-86.089545,42.826491",
+    "geom:latitude":42.826491,
+    "geom:longitude":-86.089545,
+    "iso:country":"US",
+    "sg:address":"12460 Riley St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 6500",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ewqtGjcyrkeTsdGy77B49_42.826491_-86.089545@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783425,
+    "wof:geomhash":"1a82571bd278c4a98efcedf7776a1852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":689855315
+        }
+    ],
+    "wof:id":689855315,
+    "wof:lastmodified":1461783425,
+    "wof:name":"Cancer & Hematology Ctr",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.089545,
+    42.826491,
+    -86.089545,
+    42.826491
+],
+  "geometry": {"coordinates":[-86.089545,42.826491],"type":"Point"}
+}

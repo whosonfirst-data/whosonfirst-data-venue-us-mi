@@ -1,0 +1,84 @@
+{
+  "id": 706255139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.009382,42.451268,-83.009382,42.451268",
+    "geom:latitude":42.451268,
+    "geom:longitude":-83.009382,
+    "iso:country":"US",
+    "sg:address":"11441 Fisher Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 755 9054",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524395,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524895,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uF6GWAj9hwfef9dKNt519_42.451268_-83.009382@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799311,
+    "wof:geomhash":"76db9fab337f0099de7bdddba7e19eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524395,
+            "region_id":85688599,
+            "venue_id":706255139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":706255139
+        }
+    ],
+    "wof:id":706255139,
+    "wof:lastmodified":1461799311,
+    "wof:name":"Anders Lock & Key",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.009382,
+    42.451268,
+    -83.009382,
+    42.451268
+],
+  "geometry": {"coordinates":[-83.009382,42.451268],"type":"Point"}
+}

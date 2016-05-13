@@ -1,0 +1,74 @@
+{
+  "id": 705881345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433189,42.096382,-86.433189,42.096382",
+    "geom:latitude":42.096382,
+    "geom:longitude":-86.433189,
+    "iso:country":"US",
+    "sg:address":"1210 Pipestone Rd",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 927 2441",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.lenktrans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AI3SnGRVTIw8kddG8fxgf_42.096382_-86.433189@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790957,
+    "wof:geomhash":"494211c3c77892d0d699b8c415f4d52d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705881345
+        }
+    ],
+    "wof:id":705881345,
+    "wof:lastmodified":1461790957,
+    "wof:name":"Lenk Transportation",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.433189,
+    42.096382,
+    -86.433189,
+    42.096382
+],
+  "geometry": {"coordinates":[-86.433189,42.096382],"type":"Point"}
+}

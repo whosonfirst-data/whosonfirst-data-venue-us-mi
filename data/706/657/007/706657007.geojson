@@ -1,0 +1,71 @@
+{
+  "id": 706657007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416442,41.894049,-83.416442,41.894049",
+    "geom:latitude":41.894049,
+    "geom:longitude":-83.416442,
+    "iso:country":"US",
+    "sg:address":"15347 S Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 5555",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DHDCUciq927CvLPK6WnvM_41.894049_-83.416442@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808298,
+    "wof:geomhash":"634752bde8895273677b0f10e7a954ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706657007
+        }
+    ],
+    "wof:id":706657007,
+    "wof:lastmodified":1461808298,
+    "wof:name":"P T Plus",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -83.416442,
+    41.894049,
+    -83.416442,
+    41.894049
+],
+  "geometry": {"coordinates":[-83.416442,41.894049],"type":"Point"}
+}

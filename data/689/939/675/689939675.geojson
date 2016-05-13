@@ -1,0 +1,77 @@
+{
+  "id": 689939675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.046012,42.603083,-83.046012,42.603083",
+    "geom:latitude":42.603083,
+    "geom:longitude":-83.046012,
+    "iso:country":"US",
+    "sg:address":"42800 Merrill Rd",
+    "sg:city":"Sterling Heights",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 726 6709",
+    "sg:postcode":"48314",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lab",
+        "crime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881181,
+        102191575,
+        404507483,
+        85633793,
+        85951697,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55I4avdV2oWTMHWC9vNWoz_42.603083_-83.046012@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785602,
+    "wof:geomhash":"5e9ad2fff36a2a347a4ec1ce909b0d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507483,
+            "locality_id":85951697,
+            "neighbourhood_id":85881181,
+            "region_id":85688599,
+            "venue_id":689939675
+        }
+    ],
+    "wof:id":689939675,
+    "wof:lastmodified":1461785602,
+    "wof:name":"Sterling Heights Crime Lab",
+    "wof:parent_id":85881181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "crime"
+    ]
+},
+  "bbox": [
+    -83.046012,
+    42.603083,
+    -83.046012,
+    42.603083
+],
+  "geometry": {"coordinates":[-83.046012,42.603083],"type":"Point"}
+}

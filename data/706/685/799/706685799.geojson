@@ -1,0 +1,74 @@
+{
+  "id": 706685799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263088,43.20556,-86.263088,43.20556",
+    "geom:latitude":43.20556,
+    "geom:longitude":-86.263088,
+    "iso:country":"US",
+    "sg:address":"2590 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/50903-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 4444",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UUKAltDmWEmY9cFUxXPyn_43.205560_-86.263088@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809513,
+    "wof:geomhash":"fa1ee382881e69b0e7fca87622f5fe3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685799
+        }
+    ],
+    "wof:id":706685799,
+    "wof:lastmodified":1461809513,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.263088,
+    43.20556,
+    -86.263088,
+    43.20556
+],
+  "geometry": {"coordinates":[-86.263088,43.20556],"type":"Point"}
+}

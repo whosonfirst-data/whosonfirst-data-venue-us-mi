@@ -1,0 +1,71 @@
+{
+  "id": 705778597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.153056,45.741608,-87.153056,45.741608",
+    "geom:latitude":45.741608,
+    "geom:longitude":-87.153056,
+    "iso:country":"US",
+    "sg:address":"4203 US Hwy 2 41",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 5850",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ASg3nZ3PDve850SCU63e0_45.741608_-87.153056@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788516,
+    "wof:geomhash":"ff23235602d6803bc8ccd81582cb6159",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":705778597
+        }
+    ],
+    "wof:id":705778597,
+    "wof:lastmodified":1461788516,
+    "wof:name":"Betty's Self Storage",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.153056,
+    45.741608,
+    -87.153056,
+    45.741608
+],
+  "geometry": {"coordinates":[-87.15305600000001,45.741608],"type":"Point"}
+}

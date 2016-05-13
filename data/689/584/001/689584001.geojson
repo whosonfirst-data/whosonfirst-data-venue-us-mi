@@ -1,0 +1,71 @@
+{
+  "id": 689584001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.851661,42.649734,-82.851661,42.649734",
+    "geom:latitude":42.649734,
+    "geom:longitude":-82.851661,
+    "iso:country":"US",
+    "sg:address":"25150 Terra Industrial Dr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 7433",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DHw2jTggBo9Ns67Ret5Im_42.649734_-82.851661@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775738,
+    "wof:geomhash":"a476f0601feec27318bb00aff624e5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":689584001
+        }
+    ],
+    "wof:id":689584001,
+    "wof:lastmodified":1461775738,
+    "wof:name":"Diamond Air",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.851661,
+    42.649734,
+    -82.851661,
+    42.649734
+],
+  "geometry": {"coordinates":[-82.85166099999999,42.649734],"type":"Point"}
+}

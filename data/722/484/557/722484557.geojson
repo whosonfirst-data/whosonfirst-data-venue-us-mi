@@ -1,0 +1,77 @@
+{
+  "id": 722484557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029335,42.419383,-83.029335,42.419383",
+    "geom:latitude":42.419383,
+    "geom:longitude":-83.029335,
+    "iso:country":"US",
+    "sg:address":"7171 E Mcnichols Rd",
+    "sg:city":"Hamtramck",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 365 2222",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "steel",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870561,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zgDAaiQXTmIPF0QHABV4T_42.419383_-83.029335@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812475,
+    "wof:geomhash":"d0c79672ce561ab7ce0b75cc637d0af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870561,
+            "region_id":85688599,
+            "venue_id":722484557
+        }
+    ],
+    "wof:id":722484557,
+    "wof:lastmodified":1461812475,
+    "wof:name":"Pacific Steel",
+    "wof:parent_id":85870561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "processing"
+    ]
+},
+  "bbox": [
+    -83.029335,
+    42.419383,
+    -83.029335,
+    42.419383
+],
+  "geometry": {"coordinates":[-83.029335,42.419383],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689670251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.291531,43.205646,-86.291531,43.205646",
+    "geom:latitude":43.205646,
+    "geom:longitude":-86.291531,
+    "iso:country":"US",
+    "sg:address":"1987 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 2084",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y4kFJqUgCjcDBIIUOC8qc_43.205646_-86.291531@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778381,
+    "wof:geomhash":"6d08b25e31462403efe72ec4ee307da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689670251
+        }
+    ],
+    "wof:id":689670251,
+    "wof:lastmodified":1461778381,
+    "wof:name":"Gene's Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.291531,
+    43.205646,
+    -86.291531,
+    43.205646
+],
+  "geometry": {"coordinates":[-86.29153100000001,43.205646],"type":"Point"}
+}

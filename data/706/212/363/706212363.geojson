@@ -1,0 +1,71 @@
+{
+  "id": 706212363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.210338,43.018669,-86.210338,43.018669",
+    "geom:latitude":43.018669,
+    "geom:longitude":-86.210338,
+    "iso:country":"US",
+    "sg:address":"13750 172nd Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 2946",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846207,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ibyNUIxs6bXEmU2i8RTdT_43.018669_-86.210338@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798336,
+    "wof:geomhash":"c27c13d06a99847cd9eab910eaa765ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85846207,
+            "region_id":85688599,
+            "venue_id":706212363
+        }
+    ],
+    "wof:id":706212363,
+    "wof:lastmodified":1461798336,
+    "wof:name":"Wolverine Heating & Cooling",
+    "wof:parent_id":85846207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.210338,
+    43.018669,
+    -86.210338,
+    43.018669
+],
+  "geometry": {"coordinates":[-86.21033799999999,43.018669],"type":"Point"}
+}

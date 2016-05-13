@@ -1,0 +1,80 @@
+{
+  "id": 706159209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.023667,43.438145,-84.023667,43.438145",
+    "geom:latitude":43.438145,
+    "geom:longitude":-84.023667,
+    "iso:country":"US",
+    "sg:address":"5386 George St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 2042",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "restoration",
+        "patio",
+        "maintenance",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yrAfU3V6sjc1YaUnDAO85_43.438145_-84.023667@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797189,
+    "wof:geomhash":"9349705e358c23d79aa53cc06b3c8e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706159209
+        }
+    ],
+    "wof:id":706159209,
+    "wof:lastmodified":1461797189,
+    "wof:name":"Bernie's Deck Cleaning Svc",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "patio",
+        "maintenance",
+        "deck"
+    ]
+},
+  "bbox": [
+    -84.023667,
+    43.438145,
+    -84.023667,
+    43.438145
+],
+  "geometry": {"coordinates":[-84.023667,43.438145],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 705914421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.123445,42.819326,-86.123445,42.819326",
+    "geom:latitude":42.819326,
+    "geom:longitude":-86.123445,
+    "iso:country":"US",
+    "sg:address":"386 Felch St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 1134",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "disabled",
+        "residential",
+        "mental",
+        "dev",
+        "retardation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oYLexhdpEdCWxP2cH1Oco_42.819326_-86.123445@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791734,
+    "wof:geomhash":"85c5af235d60c56b61695ec84ccc854a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705914421
+        }
+    ],
+    "wof:id":705914421,
+    "wof:lastmodified":1461791734,
+    "wof:name":"Felch St Home",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disabled",
+        "residential",
+        "mental",
+        "dev",
+        "retardation"
+    ]
+},
+  "bbox": [
+    -86.123445,
+    42.819326,
+    -86.123445,
+    42.819326
+],
+  "geometry": {"coordinates":[-86.123445,42.819326],"type":"Point"}
+}

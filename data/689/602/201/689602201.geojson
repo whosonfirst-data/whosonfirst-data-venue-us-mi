@@ -1,0 +1,69 @@
+{
+  "id": 689602201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.110434,42.46057,-86.110434,42.46057",
+    "geom:latitude":42.46057,
+    "geom:longitude":-86.110434,
+    "iso:country":"US",
+    "sg:address":"5823 Hambley Dr",
+    "sg:city":"Pullman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 236 5915",
+    "sg:postcode":"49450",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZwATyd71FwQNaKBFWGfdO_42.460570_-86.110434@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776323,
+    "wof:geomhash":"b007aac762219c63968a5efb0a78f97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689602201
+        }
+    ],
+    "wof:id":689602201,
+    "wof:lastmodified":1461776323,
+    "wof:name":"Hambley Mfg",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.110434,
+    42.46057,
+    -86.110434,
+    42.46057
+],
+  "geometry": {"coordinates":[-86.110434,42.46057],"type":"Point"}
+}

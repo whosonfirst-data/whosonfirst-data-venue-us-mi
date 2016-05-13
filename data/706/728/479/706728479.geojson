@@ -1,0 +1,88 @@
+{
+  "id": 706728479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261495,42.339677,-83.261495,42.339677",
+    "geom:latitude":42.339677,
+    "geom:longitude":-83.261495,
+    "iso:country":"US",
+    "sg:address":"22575 Ann Arbor Tr",
+    "sg:city":"Dearborn Heights",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 384 4777",
+    "sg:postcode":"48127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tutoring",
+        "day"
+    ],
+    "sg:website":"www.alhadichildcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870583,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7StpDkhdozvg1m7yNgyhKL_42.339677_-83.261495@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811368,
+    "wof:geomhash":"43f6fae6cc4fa2e0087e34ec92fcb425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85870583,
+            "region_id":85688599,
+            "venue_id":706728479
+        }
+    ],
+    "wof:id":706728479,
+    "wof:lastmodified":1461811368,
+    "wof:name":"Alhadi Childcare Center",
+    "wof:parent_id":85870583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.261495,
+    42.339677,
+    -83.261495,
+    42.339677
+],
+  "geometry": {"coordinates":[-83.261495,42.339677],"type":"Point"}
+}

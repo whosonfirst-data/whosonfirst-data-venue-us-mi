@@ -1,0 +1,69 @@
+{
+  "id": 689836875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.070138,45.75884,-87.070138,45.75884",
+    "geom:latitude":45.75884,
+    "geom:longitude":-87.070138,
+    "iso:country":"US",
+    "sg:address":"1011 Sheridan Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 3442",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51b9YNMjuFSvQEkTfONICI_45.758840_-87.070138@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783036,
+    "wof:geomhash":"ceea2287da0d8a366f96be3c16d40aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689836875
+        }
+    ],
+    "wof:id":689836875,
+    "wof:lastmodified":1461783036,
+    "wof:name":"Leo's Appliance & Repair",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -87.070138,
+    45.75884,
+    -87.070138,
+    45.75884
+],
+  "geometry": {"coordinates":[-87.070138,45.75884],"type":"Point"}
+}

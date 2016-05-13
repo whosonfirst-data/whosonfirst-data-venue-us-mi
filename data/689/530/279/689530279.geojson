@@ -1,0 +1,71 @@
+{
+  "id": 689530279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.818389,42.509864,-85.818389,42.509864",
+    "geom:latitude":42.509864,
+    "geom:longitude":-85.818389,
+    "iso:country":"US",
+    "sg:address":"1283 Lincoln Rd",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 4700",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HouPrmPCH2dDlb1DnZWEh_42.509864_-85.818389@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774094,
+    "wof:geomhash":"224915914905a7cf631d47ea673e2149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689530279
+        }
+    ],
+    "wof:id":689530279,
+    "wof:lastmodified":1461774094,
+    "wof:name":"Kings Tires & Svc",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.818389,
+    42.509864,
+    -85.818389,
+    42.509864
+],
+  "geometry": {"coordinates":[-85.818389,42.509864],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689610733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.006944,42.653908,-83.006944,42.653908",
+    "geom:latitude":42.653908,
+    "geom:longitude":-83.006944,
+    "iso:country":"US",
+    "sg:address":"12258 Anthony Dr",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 254 9724",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vFgsntiFjekC2rpTsgawa_42.653908_-83.006944@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776629,
+    "wof:geomhash":"a9c674af5d4709dd4da48244133f4c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689610733
+        }
+    ],
+    "wof:id":689610733,
+    "wof:lastmodified":1461776629,
+    "wof:name":"Somerset Building Co",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.006944,
+    42.653908,
+    -83.006944,
+    42.653908
+],
+  "geometry": {"coordinates":[-83.006944,42.653908],"type":"Point"}
+}

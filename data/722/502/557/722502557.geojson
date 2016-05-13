@@ -1,0 +1,80 @@
+{
+  "id": 722502557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.300123,42.399379,-83.300123,42.399379",
+    "geom:latitude":42.399379,
+    "geom:longitude":-83.300123,
+    "iso:country":"US",
+    "sg:address":"26150 5 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 766 4255",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "yard",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896771,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TtdU62lHCjAyY9bUDC4r2_42.399379_-83.300123@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813170,
+    "wof:geomhash":"43cca31ae0190da98fbfa3c93d64c25a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896771,
+            "region_id":85688599,
+            "venue_id":722502557
+        }
+    ],
+    "wof:id":722502557,
+    "wof:lastmodified":1461813170,
+    "wof:name":"Bsb Auto Rentals",
+    "wof:parent_id":85896771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "yard",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.300123,
+    42.399379,
+    -83.300123,
+    42.399379
+],
+  "geometry": {"coordinates":[-83.300123,42.399379],"type":"Point"}
+}

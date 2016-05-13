@@ -1,0 +1,74 @@
+{
+  "id": 689728673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.26352,42.822304,-83.26352,42.822304",
+    "geom:latitude":42.822304,
+    "geom:longitude":-83.26352,
+    "iso:country":"US",
+    "sg:address":"5 Mechanic St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 969 7700",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "holistic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WyNZBsBhaL240CLG1kDFP_42.822304_-83.263520@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779895,
+    "wof:geomhash":"eb829432f2df3982097e22f3969a0650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":689728673
+        }
+    ],
+    "wof:id":689728673,
+    "wof:lastmodified":1461779895,
+    "wof:name":"Center For Holistic Health LTD",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic"
+    ]
+},
+  "bbox": [
+    -83.26352,
+    42.822304,
+    -83.26352,
+    42.822304
+],
+  "geometry": {"coordinates":[-83.26352,42.822304],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 706725719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.247835,42.289383,-83.247835,42.289383",
+    "geom:latitude":42.289383,
+    "geom:longitude":-83.247835,
+    "iso:country":"US",
+    "sg:address":"21501 Whitmore St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 827 6800",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896615,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rVWX87zjMcb8DTmVAtdwK_42.289383_-83.247835@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811247,
+    "wof:geomhash":"dd4e0409a580ea63bd87a423056d127a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896615,
+            "region_id":85688599,
+            "venue_id":706725719
+        }
+    ],
+    "wof:id":706725719,
+    "wof:lastmodified":1461811247,
+    "wof:name":"Dearborn Public Schools",
+    "wof:parent_id":85896615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.247835,
+    42.289383,
+    -83.247835,
+    42.289383
+],
+  "geometry": {"coordinates":[-83.24783499999999,42.289383],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 706665729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.138802,42.4314,-83.138802,42.4314",
+    "geom:latitude":42.4314,
+    "geom:longitude":-83.138802,
+    "iso:country":"US",
+    "sg:address":"18955 Oak Dr",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 864 3651",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "passenger",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524881,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PxpHzOsW0a6RDXJ890ZCp_42.431090_-83.138756@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808694,
+    "wof:geomhash":"7f2332526f8d7c82837eb4702642fa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524881,
+            "region_id":85688599,
+            "venue_id":706665729
+        }
+    ],
+    "wof:id":706665729,
+    "wof:lastmodified":1461808694,
+    "wof:name":"Crown Limousine Service",
+    "wof:parent_id":420524881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "passenger",
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.138802,
+    42.4314,
+    -83.138802,
+    42.4314
+],
+  "geometry": {"coordinates":[-83.138802,42.4314],"type":"Point"}
+}

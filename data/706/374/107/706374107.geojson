@@ -1,0 +1,71 @@
+{
+  "id": 706374107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.197239,43.077274,-86.197239,43.077274",
+    "geom:latitude":43.077274,
+    "geom:longitude":-86.197239,
+    "iso:country":"US",
+    "sg:address":"109 N Buchanan St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 0090",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t7vcojd5lqpLIC7hLa2AO_43.077274_-86.197239@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801889,
+    "wof:geomhash":"6e6481858f97dbbe8b79630d6e364e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706374107
+        }
+    ],
+    "wof:id":706374107,
+    "wof:lastmodified":1461801889,
+    "wof:name":"Joe Arbutante DDS",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.197239,
+    43.077274,
+    -86.197239,
+    43.077274
+],
+  "geometry": {"coordinates":[-86.197239,43.077274],"type":"Point"}
+}

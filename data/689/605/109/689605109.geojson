@@ -1,0 +1,73 @@
+{
+  "id": 689605109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.153894,43.074046,-86.153894,43.074046",
+    "geom:latitude":43.074046,
+    "geom:longitude":-86.153894,
+    "iso:country":"US",
+    "sg:address":"14721 Cleveland St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 9414",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cWGXODjYsfKxrxma3veW4_43.074046_-86.153894@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776410,
+    "wof:geomhash":"abe9b9f8aabf2d5ef7c345207bd4e3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689605109
+        }
+    ],
+    "wof:id":689605109,
+    "wof:lastmodified":1461776410,
+    "wof:name":"Citgo Lube",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.153894,
+    43.074046,
+    -86.153894,
+    43.074046
+],
+  "geometry": {"coordinates":[-86.15389399999999,43.074046],"type":"Point"}
+}

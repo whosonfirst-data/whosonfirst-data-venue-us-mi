@@ -1,0 +1,70 @@
+{
+  "id": 706658305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250476,41.787981,-86.250476,41.787981",
+    "geom:latitude":41.787981,
+    "geom:longitude":-86.250476,
+    "iso:country":"US",
+    "sg:address":"2116 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 0082",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"http://www.nilesanimalclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gcGhiK6OQ7QGgCPCxpVZD_41.787461_-86.250537@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808351,
+    "wof:geomhash":"0c888d2b5c1c409a103c046b99c7875a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706658305
+        }
+    ],
+    "wof:id":706658305,
+    "wof:lastmodified":1461808351,
+    "wof:name":"Niles Animal Clinic",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.250476,
+    41.787981,
+    -86.250476,
+    41.787981
+],
+  "geometry": {"coordinates":[-86.25047600000001,41.787981],"type":"Point"}
+}

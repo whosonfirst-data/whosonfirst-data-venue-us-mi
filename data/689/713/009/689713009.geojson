@@ -1,0 +1,73 @@
+{
+  "id": 689713009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.935511,43.409746,-85.935511,43.409746",
+    "geom:latitude":43.409746,
+    "geom:longitude":-85.935511,
+    "iso:country":"US",
+    "sg:address":"7969 Murray Ln",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1616",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DxmhSnBSKD2EmXuFMm5B8_43.409746_-85.935511@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779474,
+    "wof:geomhash":"a3107cb087343ca1bc8483e76178a9b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689713009
+        }
+    ],
+    "wof:id":689713009,
+    "wof:lastmodified":1461779474,
+    "wof:name":"Newago Electric",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.935511,
+    43.409746,
+    -85.935511,
+    43.409746
+],
+  "geometry": {"coordinates":[-85.93551100000001,43.409746],"type":"Point"}
+}

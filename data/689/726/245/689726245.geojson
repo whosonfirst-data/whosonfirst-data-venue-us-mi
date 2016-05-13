@@ -1,0 +1,71 @@
+{
+  "id": 689726245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.457817,43.036893,-82.457817,43.036893",
+    "geom:latitude":43.036893,
+    "geom:longitude":-82.457817,
+    "iso:country":"US",
+    "sg:address":"3071 Commerce Dr",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 8830",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37ToYHJx1mb0qSWEsiLc1m_43.036893_-82.457817@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779830,
+    "wof:geomhash":"a63a4419b403c76b6dbcfe8abe92bf9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689726245
+        }
+    ],
+    "wof:id":689726245,
+    "wof:lastmodified":1461779830,
+    "wof:name":"Corey E Cookingham Jr MD",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.457817,
+    43.036893,
+    -82.457817,
+    43.036893
+],
+  "geometry": {"coordinates":[-82.45781700000001,43.036893],"type":"Point"}
+}

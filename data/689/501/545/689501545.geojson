@@ -1,0 +1,71 @@
+{
+  "id": 689501545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645111,42.865869,-85.645111,42.865869",
+    "geom:latitude":42.865869,
+    "geom:longitude":-85.645111,
+    "iso:country":"US",
+    "sg:address":"5313 Eastern Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 534 9673",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r1JZQJAxWWaTH51moKUHC_42.865869_-85.645111@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773135,
+    "wof:geomhash":"fe568d24fc8705d9d1dc879f493f7208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689501545
+        }
+    ],
+    "wof:id":689501545,
+    "wof:lastmodified":1461773135,
+    "wof:name":"Drita's",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.645111,
+    42.865869,
+    -85.645111,
+    42.865869
+],
+  "geometry": {"coordinates":[-85.645111,42.865869],"type":"Point"}
+}

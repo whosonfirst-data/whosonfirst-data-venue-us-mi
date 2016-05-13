@@ -1,0 +1,73 @@
+{
+  "id": 706007695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.058874,45.827375,-88.058874,45.827375",
+    "geom:latitude":45.827375,
+    "geom:longitude":-88.058874,
+    "iso:country":"US",
+    "sg:address":"410 Norway St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 4924",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12QVGF3FjYdwddhsQ4u1RF_45.827375_-88.058874@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793746,
+    "wof:geomhash":"cd6723f4a48a704c45617c53c91dc39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706007695
+        }
+    ],
+    "wof:id":706007695,
+    "wof:lastmodified":1461793746,
+    "wof:name":"Branz Mechanical Contractors",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.058874,
+    45.827375,
+    -88.058874,
+    45.827375
+],
+  "geometry": {"coordinates":[-88.058874,45.827375],"type":"Point"}
+}

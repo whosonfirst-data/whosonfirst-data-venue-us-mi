@@ -1,0 +1,71 @@
+{
+  "id": 689917449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.360906,42.931207,-85.360906,42.931207",
+    "geom:latitude":42.931207,
+    "geom:longitude":-85.360906,
+    "iso:country":"US",
+    "sg:address":"2001 W Main St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 987 9408",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cv0R0wqTPdV9QOvgPtQLd_42.931207_-85.360906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785046,
+    "wof:geomhash":"01e0827d5680b1f75a9bfa2bf1e19942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689917449
+        }
+    ],
+    "wof:id":689917449,
+    "wof:lastmodified":1461785046,
+    "wof:name":"Monica's Bakery & Deli",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.360906,
+    42.931207,
+    -85.360906,
+    42.931207
+],
+  "geometry": {"coordinates":[-85.360906,42.931207],"type":"Point"}
+}

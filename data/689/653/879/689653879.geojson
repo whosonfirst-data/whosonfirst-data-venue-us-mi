@@ -1,0 +1,73 @@
+{
+  "id": 689653879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.481629,42.947648,-82.481629,42.947648",
+    "geom:latitude":42.947648,
+    "geom:longitude":-82.481629,
+    "iso:country":"US",
+    "sg:address":"1490 Michigan Rd",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 6700",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HevLja3FAjVCtG5XUrz3j_42.947648_-82.481629@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777960,
+    "wof:geomhash":"8b00f4461dad8b7070e25bfa475df29e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":689653879
+        }
+    ],
+    "wof:id":689653879,
+    "wof:lastmodified":1461777960,
+    "wof:name":"Port Huron Automotive Svc Inc",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.481629,
+    42.947648,
+    -82.481629,
+    42.947648
+],
+  "geometry": {"coordinates":[-82.481629,42.947648],"type":"Point"}
+}

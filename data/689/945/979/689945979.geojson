@@ -1,0 +1,71 @@
+{
+  "id": 689945979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.687007,42.44677,-85.687007,42.44677",
+    "geom:latitude":42.44677,
+    "geom:longitude":-85.687007,
+    "iso:country":"US",
+    "sg:address":"1099 Kay St",
+    "sg:city":"Otsego",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 694 4000",
+    "sg:postcode":"49078",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tUOcxdNHJ3g4C4VAIl7uc_42.446770_-85.687007@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785749,
+    "wof:geomhash":"55839df3cd20817265769327c9e4ac7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689945979
+        }
+    ],
+    "wof:id":689945979,
+    "wof:lastmodified":1461785749,
+    "wof:name":"Mc Fanin Electric",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.687007,
+    42.44677,
+    -85.687007,
+    42.44677
+],
+  "geometry": {"coordinates":[-85.68700699999999,42.44677],"type":"Point"}
+}

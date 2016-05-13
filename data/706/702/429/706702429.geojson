@@ -1,0 +1,84 @@
+{
+  "id": 706702429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.934592,42.507666,-82.934592,42.507666",
+    "geom:latitude":42.507666,
+    "geom:longitude":-82.934592,
+    "iso:country":"US",
+    "sg:address":"28722 Utica Rd",
+    "sg:city":"Roseville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 777 7729",
+    "sg:postcode":"48066",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524427,
+        102191575,
+        404507411,
+        85633793,
+        85951687,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GvHMjOaY4lRApnAlPTRjh_42.507666_-82.934592@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810179,
+    "wof:geomhash":"3b6568f2784eceec57610499fc0ac58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507411,
+            "locality_id":85951687,
+            "neighbourhood_id":420524427,
+            "region_id":85688599,
+            "venue_id":706702429
+        }
+    ],
+    "wof:id":706702429,
+    "wof:lastmodified":1461810179,
+    "wof:name":"Dash-in-Deli, LLC",
+    "wof:parent_id":420524427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -82.934592,
+    42.507666,
+    -82.934592,
+    42.507666
+],
+  "geometry": {"coordinates":[-82.93459199999999,42.507666],"type":"Point"}
+}

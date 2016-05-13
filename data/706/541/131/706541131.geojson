@@ -1,0 +1,77 @@
+{
+  "id": 706541131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469392,42.479443,-83.469392,42.479443",
+    "geom:latitude":42.479443,
+    "geom:longitude":-83.469392,
+    "iso:country":"US",
+    "sg:address":"42975 Grand River Ave",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 449 7845",
+    "sg:postcode":"48375",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896653,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3whm6fgTkvQyCwE1WrgYkY_42.479443_-83.469392@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805485,
+    "wof:geomhash":"3240f47701f6126f2c68875eb54accd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896653,
+            "region_id":85688599,
+            "venue_id":706541131
+        }
+    ],
+    "wof:id":706541131,
+    "wof:lastmodified":1461805485,
+    "wof:name":"Novi Fire Dept Station 1",
+    "wof:parent_id":85896653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.469392,
+    42.479443,
+    -83.469392,
+    42.479443
+],
+  "geometry": {"coordinates":[-83.469392,42.479443],"type":"Point"}
+}

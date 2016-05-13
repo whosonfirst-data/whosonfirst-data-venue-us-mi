@@ -1,0 +1,71 @@
+{
+  "id": 705865835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.846841,43.063006,-83.846841,43.063006",
+    "geom:latitude":43.063006,
+    "geom:longitude":-83.846841,
+    "iso:country":"US",
+    "sg:address":"620 E Main St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 487 1752",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T5pOne5x3C9qZ81o4rMM0_43.063006_-83.846841@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790572,
+    "wof:geomhash":"c08f90a06fc87572e392fe8eeb417858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705865835
+        }
+    ],
+    "wof:id":705865835,
+    "wof:lastmodified":1461790572,
+    "wof:name":"Carter Schwartz",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.846841,
+    43.063006,
+    -83.846841,
+    43.063006
+],
+  "geometry": {"coordinates":[-83.846841,43.063006],"type":"Point"}
+}

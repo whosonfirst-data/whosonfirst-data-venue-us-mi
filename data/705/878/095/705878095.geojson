@@ -1,0 +1,73 @@
+{
+  "id": 705878095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.068209,45.816734,-88.068209,45.816734",
+    "geom:latitude":45.816734,
+    "geom:longitude":-88.068209,
+    "iso:country":"US",
+    "sg:address":"118 W C St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 776 1470",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S0hqom4AcPIMoxopykNlj_45.816734_-88.068209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790888,
+    "wof:geomhash":"cf2e16ab9cba346ba3a1f2cd30ba76be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705878095
+        }
+    ],
+    "wof:id":705878095,
+    "wof:lastmodified":1461790888,
+    "wof:name":"KWIK & Klean Car Wash",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.068209,
+    45.816734,
+    -88.068209,
+    45.816734
+],
+  "geometry": {"coordinates":[-88.068209,45.816734],"type":"Point"}
+}

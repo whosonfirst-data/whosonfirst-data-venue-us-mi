@@ -1,0 +1,73 @@
+{
+  "id": 689848589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065645,45.819133,-88.065645,45.819133",
+    "geom:latitude":45.819133,
+    "geom:longitude":-88.065645,
+    "iso:country":"US",
+    "sg:address":"427 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 3318",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YxgmU5ie33733ChUSLSFi_45.819133_-88.065645@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783282,
+    "wof:geomhash":"393587130621ac4b138f5d1a8268da1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689848589
+        }
+    ],
+    "wof:id":689848589,
+    "wof:lastmodified":1461783282,
+    "wof:name":"WHTO Radio",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -88.065645,
+    45.819133,
+    -88.065645,
+    45.819133
+],
+  "geometry": {"coordinates":[-88.065645,45.819133],"type":"Point"}
+}

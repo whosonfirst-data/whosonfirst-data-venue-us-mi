@@ -1,0 +1,75 @@
+{
+  "id": 722485563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0047,42.393101,-83.0047,42.393101",
+    "geom:latitude":42.393101,
+    "geom:longitude":-83.0047,
+    "iso:country":"US",
+    "sg:address":"9938 Harper Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 921 3536",
+    "sg:postcode":"48213",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870567,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06DTXnuYgx6BQJTBBCGes6_42.393101_-83.004700@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812510,
+    "wof:geomhash":"989762a7246c798ec643b1f94408199a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870567,
+            "region_id":85688599,
+            "venue_id":722485563
+        }
+    ],
+    "wof:id":722485563,
+    "wof:lastmodified":1461812510,
+    "wof:name":"Reid's Prescription Pharmacy At Gratiot",
+    "wof:parent_id":85870567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.0047,
+    42.393101,
+    -83.0047,
+    42.393101
+],
+  "geometry": {"coordinates":[-83.0047,42.393101],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706689159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.203269,43.076679,-86.203269,43.076679",
+    "geom:latitude":43.076679,
+    "geom:longitude":-86.203269,
+    "iso:country":"US",
+    "sg:address":"510 W Savidge St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/spring-lake/47727-marcos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 6000",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h64wTgT5pWPfE8pvk7KBg_43.076626_-86.203222@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809639,
+    "wof:geomhash":"feef5de64a7f66577488c6fe4d900c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706689159
+        }
+    ],
+    "wof:id":706689159,
+    "wof:lastmodified":1461809639,
+    "wof:name":"Marco's Pizza",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.203269,
+    43.076679,
+    -86.203269,
+    43.076679
+],
+  "geometry": {"coordinates":[-86.20326900000001,43.076679],"type":"Point"}
+}

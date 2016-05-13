@@ -1,0 +1,69 @@
+{
+  "id": 705878423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.40991,47.190077,-88.40991,47.190077",
+    "geom:latitude":47.190077,
+    "geom:longitude":-88.40991,
+    "iso:country":"US",
+    "sg:address":"110 Calumet St",
+    "sg:city":"Lake Linden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 296 5040",
+    "sg:postcode":"49945",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852549,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVaZbvDVSyXfKHjGKnxAt_47.190077_-88.409910@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790900,
+    "wof:geomhash":"699560b122c40add6fe87c1cf2dea278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85852549,
+            "region_id":85688599,
+            "venue_id":705878423
+        }
+    ],
+    "wof:id":705878423,
+    "wof:lastmodified":1461790900,
+    "wof:name":"Keweenaw Memorial Health Ctr",
+    "wof:parent_id":85852549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.40991,
+    47.190077,
+    -88.40991,
+    47.190077
+],
+  "geometry": {"coordinates":[-88.40991,47.190077],"type":"Point"}
+}

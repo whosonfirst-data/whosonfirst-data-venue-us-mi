@@ -1,0 +1,90 @@
+{
+  "id": 706155029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.101772,42.53733,-83.101772,42.53733",
+    "geom:latitude":42.53733,
+    "geom:longitude":-83.101772,
+    "iso:country":"US",
+    "sg:address":"388 Robbins Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 588 3500",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85896589,
+        404508209,
+        85952031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8gGVSUn8a5AoGk1RPsBK_42.537330_-83.101772@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797088,
+    "wof:geomhash":"ad61da09ce3bb34dbe6abc9c0bb35050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":706155029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":706155029
+        }
+    ],
+    "wof:id":706155029,
+    "wof:lastmodified":1461797088,
+    "wof:name":"Sherwin-Williams",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "paint"
+    ]
+},
+  "bbox": [
+    -83.101772,
+    42.53733,
+    -83.101772,
+    42.53733
+],
+  "geometry": {"coordinates":[-83.101772,42.53733],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706707823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.186401,42.5177,-83.186401,42.5177",
+    "geom:latitude":42.5177,
+    "geom:longitude":-83.186401,
+    "iso:country":"US",
+    "sg:address":"30975 Woodward Ave",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 435 9600",
+    "sg:postcode":"48073",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896553,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sUNxXas97cyw5TakJz6p4_42.517700_-83.186401@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810401,
+    "wof:geomhash":"d7bcee3977fefbc6db0f74c717358f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896553,
+            "region_id":85688599,
+            "venue_id":706707823
+        }
+    ],
+    "wof:id":706707823,
+    "wof:lastmodified":1461810401,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85896553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -83.186401,
+    42.5177,
+    -83.186401,
+    42.5177
+],
+  "geometry": {"coordinates":[-83.186401,42.5177],"type":"Point"}
+}

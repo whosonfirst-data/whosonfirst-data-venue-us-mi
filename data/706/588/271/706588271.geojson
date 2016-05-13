@@ -1,0 +1,73 @@
+{
+  "id": 706588271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.211256,43.062957,-86.211256,43.062957",
+    "geom:latitude":43.062957,
+    "geom:longitude":-86.211256,
+    "iso:country":"US",
+    "sg:address":"1225 Fulton St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 2834",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ei3mBa14cUPKaXw7cm2Dq_43.062957_-86.211256@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806490,
+    "wof:geomhash":"b6e415383ec585431488d95973ace8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706588271
+        }
+    ],
+    "wof:id":706588271,
+    "wof:lastmodified":1461806490,
+    "wof:name":"Behm Electric",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.211256,
+    43.062957,
+    -86.211256,
+    43.062957
+],
+  "geometry": {"coordinates":[-86.21125600000001,43.062957],"type":"Point"}
+}

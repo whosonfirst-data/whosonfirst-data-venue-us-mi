@@ -1,0 +1,71 @@
+{
+  "id": 689604117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.232213,41.817088,-86.232213,41.817088",
+    "geom:latitude":41.817088,
+    "geom:longitude":-86.232213,
+    "iso:country":"US",
+    "sg:address":"1900 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 7779",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YUHz3I2a4aAg2rY0wySFb_41.817088_-86.232213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776381,
+    "wof:geomhash":"ca13667bc3850952eadbeb4a21c77727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689604117
+        }
+    ],
+    "wof:id":689604117,
+    "wof:lastmodified":1461776381,
+    "wof:name":"Berrien Woods Apartments",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.232213,
+    41.817088,
+    -86.232213,
+    41.817088
+],
+  "geometry": {"coordinates":[-86.232213,41.817088],"type":"Point"}
+}

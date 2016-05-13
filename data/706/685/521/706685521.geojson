@@ -1,0 +1,72 @@
+{
+  "id": 706685521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.992279,42.665239,-85.992279,42.665239",
+    "geom:latitude":42.665239,
+    "geom:longitude":-85.992279,
+    "iso:country":"US",
+    "sg:address":"3414 Lincoln Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/heath/142143-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 751 6202",
+    "sg:postcode":"49419",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tYmmBPI3xvaqO4GVkrAzE_42.665239_-85.992279@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809503,
+    "wof:geomhash":"a1049bc4609abb6587a827f3898cfa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706685521
+        }
+    ],
+    "wof:id":706685521,
+    "wof:lastmodified":1461809503,
+    "wof:name":"Subway",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.992279,
+    42.665239,
+    -85.992279,
+    42.665239
+],
+  "geometry": {"coordinates":[-85.992279,42.665239],"type":"Point"}
+}

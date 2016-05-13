@@ -1,0 +1,73 @@
+{
+  "id": 689479409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720828,43.013636,-83.720828,43.013636",
+    "geom:latitude":43.013636,
+    "geom:longitude":-83.720828,
+    "iso:country":"US",
+    "sg:address":"2262 Nolen Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 1976",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00VE8lKlr7tJp9lkE6FjFE_43.013636_-83.720828@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772502,
+    "wof:geomhash":"5b170e57ef64e631367fbf03d93a57ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689479409
+        }
+    ],
+    "wof:id":689479409,
+    "wof:lastmodified":1461772502,
+    "wof:name":"Patricia Simmons",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.720828,
+    43.013636,
+    -83.720828,
+    43.013636
+],
+  "geometry": {"coordinates":[-83.720828,43.013636],"type":"Point"}
+}

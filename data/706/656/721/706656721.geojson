@@ -1,0 +1,75 @@
+{
+  "id": 706656721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.709736,43.028068,-83.709736,43.028068",
+    "geom:latitude":43.028068,
+    "geom:longitude":-83.709736,
+    "iso:country":"US",
+    "sg:address":"511 Copeman Blvd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 234 8329",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mC6WY4oXMOMw5SquK9v3T_43.028068_-83.709736@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808284,
+    "wof:geomhash":"d6691bb8e7ad56515821ff4c8fc031ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706656721
+        }
+    ],
+    "wof:id":706656721,
+    "wof:lastmodified":1461808284,
+    "wof:name":"Hammond Piano Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -83.709736,
+    43.028068,
+    -83.709736,
+    43.028068
+],
+  "geometry": {"coordinates":[-83.70973600000001,43.028068],"type":"Point"}
+}

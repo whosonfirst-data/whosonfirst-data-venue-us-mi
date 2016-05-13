@@ -1,0 +1,73 @@
+{
+  "id": 689467443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.941702,43.469904,-85.941702,43.469904",
+    "geom:latitude":43.469904,
+    "geom:longitude":-85.941702,
+    "iso:country":"US",
+    "sg:address":"103 E Cherry St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 0097",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bq8GWVdRJAj2BbH3tsXXk_43.469904_-85.941702@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772128,
+    "wof:geomhash":"74793e2e214927be576112938a96ab3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689467443
+        }
+    ],
+    "wof:id":689467443,
+    "wof:lastmodified":1461772128,
+    "wof:name":"Recycall Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -85.941702,
+    43.469904,
+    -85.941702,
+    43.469904
+],
+  "geometry": {"coordinates":[-85.94170200000001,43.469904],"type":"Point"}
+}

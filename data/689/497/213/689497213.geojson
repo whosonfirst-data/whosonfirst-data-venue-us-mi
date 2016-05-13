@@ -1,0 +1,74 @@
+{
+  "id": 689497213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.384017,46.517788,-87.384017,46.517788",
+    "geom:latitude":46.517788,
+    "geom:longitude":-87.384017,
+    "iso:country":"US",
+    "sg:address":"1930 US Hwy 41",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 8000",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.republicbancorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eAC8zabbKeSsxR0A4g7zs_46.517788_-87.384017@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773020,
+    "wof:geomhash":"99cd91d76ae8bf22d71405511045e0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689497213
+        }
+    ],
+    "wof:id":689497213,
+    "wof:lastmodified":1461773020,
+    "wof:name":"Republic Bank",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -87.384017,
+    46.517788,
+    -87.384017,
+    46.517788
+],
+  "geometry": {"coordinates":[-87.384017,46.517788],"type":"Point"}
+}

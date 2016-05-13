@@ -1,0 +1,71 @@
+{
+  "id": 706423111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.122281,42.812614,-86.122281,42.812614",
+    "geom:latitude":42.812614,
+    "geom:longitude":-86.122281,
+    "iso:country":"US",
+    "sg:address":"501 Butternut Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 6050",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BxMkAcMduxYrtRlSP7JJ5_42.812614_-86.122281@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802850,
+    "wof:geomhash":"cf213b9791145c08c51602b38ca00ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706423111
+        }
+    ],
+    "wof:id":706423111,
+    "wof:lastmodified":1461802850,
+    "wof:name":"Dutch Delite Bakery",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.122281,
+    42.812614,
+    -86.122281,
+    42.812614
+],
+  "geometry": {"coordinates":[-86.122281,42.812614],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 706687633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.159751,42.490986,-83.159751,42.490986",
+    "geom:latitude":42.490986,
+    "geom:longitude":-83.159751,
+    "iso:country":"US",
+    "sg:address":"27302 Woodward Ave",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/royal-oak/26663-onion-roll-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 545 4880",
+    "sg:postcode":"48067",
+    "sg:province":"MI",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896561,
+        102191575,
+        404506337,
+        85633793,
+        85952041,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33W5ucRQvd9uJ7H8gukkyP_42.490798_-83.159871@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809579,
+    "wof:geomhash":"ca2bc8ab2e7e3170ea30a40b552729d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404506337,
+            "locality_id":85952041,
+            "neighbourhood_id":85896561,
+            "region_id":85688599,
+            "venue_id":706687633
+        }
+    ],
+    "wof:id":706687633,
+    "wof:lastmodified":1461809579,
+    "wof:name":"Onion Roll Deli",
+    "wof:parent_id":85896561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.159751,
+    42.490986,
+    -83.159751,
+    42.490986
+],
+  "geometry": {"coordinates":[-83.159751,42.490986],"type":"Point"}
+}

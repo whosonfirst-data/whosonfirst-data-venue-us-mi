@@ -1,0 +1,71 @@
+{
+  "id": 706553323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.130098,42.856145,-86.130098,42.856145",
+    "geom:latitude":42.856145,
+    "geom:longitude":-86.130098,
+    "iso:country":"US",
+    "sg:address":"14055 New Holland St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 994 9802",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZdOxukkPcY7kTTqdDxg7W_42.856145_-86.130098@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805724,
+    "wof:geomhash":"964f121c0727514a5b3ccbe24f750780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706553323
+        }
+    ],
+    "wof:id":706553323,
+    "wof:lastmodified":1461805724,
+    "wof:name":"Juan Auto Mechanic",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.130098,
+    42.856145,
+    -86.130098,
+    42.856145
+],
+  "geometry": {"coordinates":[-86.130098,42.856145],"type":"Point"}
+}

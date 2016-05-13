@@ -1,0 +1,69 @@
+{
+  "id": 689887985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401393,42.249931,-84.401393,42.249931",
+    "geom:latitude":42.249931,
+    "geom:longitude":-84.401393,
+    "iso:country":"US",
+    "sg:address":"208 N Milwaukee St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 768 9711",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WPnKPh0jvHPvs8swkzazq_42.249931_-84.401393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784256,
+    "wof:geomhash":"54961407ca2e91d05be72ca7485200d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689887985
+        }
+    ],
+    "wof:id":689887985,
+    "wof:lastmodified":1461784256,
+    "wof:name":"Laundry Land of Jackson",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -84.401393,
+    42.249931,
+    -84.401393,
+    42.249931
+],
+  "geometry": {"coordinates":[-84.401393,42.249931],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689687599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.340268,41.946644,-86.340268,41.946644",
+    "geom:latitude":41.946644,
+    "geom:longitude":-86.340268,
+    "iso:country":"US",
+    "sg:address":"104 N Kimmel St",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 5936",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rqkrglPFofASghFAn0ey7_41.946644_-86.340268@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778811,
+    "wof:geomhash":"fbc0a3441ce9e605494d44ffcbac3512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689687599
+        }
+    ],
+    "wof:id":689687599,
+    "wof:lastmodified":1461778811,
+    "wof:name":"T & T Auto Repair",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.340268,
+    41.946644,
+    -86.340268,
+    41.946644
+],
+  "geometry": {"coordinates":[-86.34026799999999,41.946644],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 706709253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.241119,42.444173,-83.241119,42.444173",
+    "geom:latitude":42.444173,
+    "geom:longitude":-83.241119,
+    "iso:country":"US",
+    "sg:address":"20066 W 8 Mile Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 354 6166",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ],
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870505,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FWhHtYi8FW0B0vhwHIrFd_42.444173_-83.241119@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810466,
+    "wof:geomhash":"d1752ee6b25f47b09bb9c91274875d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870505,
+            "region_id":85688599,
+            "venue_id":706709253
+        }
+    ],
+    "wof:id":706709253,
+    "wof:lastmodified":1461810466,
+    "wof:name":"Wendy's Old Fashioned Hamburgers",
+    "wof:parent_id":85870505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -83.241119,
+    42.444173,
+    -83.241119,
+    42.444173
+],
+  "geometry": {"coordinates":[-83.241119,42.444173],"type":"Point"}
+}

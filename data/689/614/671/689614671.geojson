@@ -1,0 +1,74 @@
+{
+  "id": 689614671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.230737,43.227639,-86.230737,43.227639",
+    "geom:latitude":43.227639,
+    "geom:longitude":-86.230737,
+    "iso:country":"US",
+    "sg:address":"1275 Kenneth St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 7165",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.christiancareinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qfmQVy0uSH6FVHgqexavW_43.227639_-86.230737@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776756,
+    "wof:geomhash":"ed7026bc283038041588fcf54961f503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689614671
+        }
+    ],
+    "wof:id":689614671,
+    "wof:lastmodified":1461776756,
+    "wof:name":"Christian Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.230737,
+    43.227639,
+    -86.230737,
+    43.227639
+],
+  "geometry": {"coordinates":[-86.230737,43.227639],"type":"Point"}
+}

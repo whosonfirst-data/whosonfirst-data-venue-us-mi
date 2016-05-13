@@ -1,0 +1,73 @@
+{
+  "id": 706513055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.750957,41.765035,-83.750957,41.765035",
+    "geom:latitude":41.765035,
+    "geom:longitude":-83.750957,
+    "iso:country":"US",
+    "sg:address":"8509 Warren St",
+    "sg:city":"Ottawa Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 1701",
+    "sg:postcode":"49267",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GhtsxSlVmOH7LwPt54swo_41.765035_-83.750957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804905,
+    "wof:geomhash":"980d59c35f3b88630cb0bb01352f8b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706513055
+        }
+    ],
+    "wof:id":706513055,
+    "wof:lastmodified":1461804905,
+    "wof:name":"A S Body Shop",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.750957,
+    41.765035,
+    -83.750957,
+    41.765035
+],
+  "geometry": {"coordinates":[-83.750957,41.765035],"type":"Point"}
+}

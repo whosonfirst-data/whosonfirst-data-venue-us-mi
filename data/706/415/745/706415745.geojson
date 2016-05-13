@@ -1,0 +1,71 @@
+{
+  "id": 706415745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.101172,43.216142,-86.101172,43.216142",
+    "geom:latitude":43.216142,
+    "geom:longitude":-86.101172,
+    "iso:country":"US",
+    "sg:address":"5852 Evanston Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 4100",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cgxe3qAi9HF80fqoOiWCv_43.216142_-86.101172@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802712,
+    "wof:geomhash":"4ff7c318d6019141c8693bf8ebf116e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706415745
+        }
+    ],
+    "wof:id":706415745,
+    "wof:lastmodified":1461802712,
+    "wof:name":"Mike Jones Construction",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.101172,
+    43.216142,
+    -86.101172,
+    43.216142
+],
+  "geometry": {"coordinates":[-86.10117200000001,43.216142],"type":"Point"}
+}

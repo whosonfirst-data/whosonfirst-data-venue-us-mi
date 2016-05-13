@@ -1,0 +1,88 @@
+{
+  "id": 705832801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701798,43.003341,-85.701798,43.003341",
+    "geom:latitude":43.003341,
+    "geom:longitude":-85.701798,
+    "iso:country":"US",
+    "sg:address":"1020 Pannell St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 361 0251",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "air",
+        "refrigeration",
+        "conditioning",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877929,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EzCndM6Yvlt2tP4vtjjmD_43.003341_-85.701798@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789799,
+    "wof:geomhash":"e1d2b8ccc7f759b7e2979d4ad8f105bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877929,
+            "region_id":85688599,
+            "venue_id":705832801
+        }
+    ],
+    "wof:id":705832801,
+    "wof:lastmodified":1461789799,
+    "wof:name":"Bob's Radiator Repair",
+    "wof:parent_id":85877929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "air",
+        "refrigeration",
+        "conditioning",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.701798,
+    43.003341,
+    -85.701798,
+    43.003341
+],
+  "geometry": {"coordinates":[-85.701798,43.003341],"type":"Point"}
+}

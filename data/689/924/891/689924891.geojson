@@ -1,0 +1,75 @@
+{
+  "id": 689924891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.458308,43.012395,-82.458308,43.012395",
+    "geom:latitude":43.012395,
+    "geom:longitude":-82.458308,
+    "iso:country":"US",
+    "sg:address":"2570 Waldheim Dr",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 0774",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hh81UUe8L4dTKXDcO4sVj_43.012395_-82.458308@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785234,
+    "wof:geomhash":"56402fb1ad3b472f9ab9dde489d6bc30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689924891
+        }
+    ],
+    "wof:id":689924891,
+    "wof:lastmodified":1461785234,
+    "wof:name":"Wannabe Trucking Co",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.458308,
+    43.012395,
+    -82.458308,
+    43.012395
+],
+  "geometry": {"coordinates":[-82.458308,43.012395],"type":"Point"}
+}

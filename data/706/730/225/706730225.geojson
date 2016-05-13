@@ -1,0 +1,76 @@
+{
+  "id": 706730225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.151484,42.130325,-83.151484,42.130325",
+    "geom:latitude":42.130325,
+    "geom:longitude":-83.151484,
+    "iso:country":"US",
+    "sg:address":"8537 Macomb St",
+    "sg:city":"Grosse Ile",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 362 8700",
+    "sg:postcode":"48138",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85896835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kkYNCRyKhBGyvjIa1Btq6_42.130325_-83.151484@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811431,
+    "wof:geomhash":"ff324b8036284442af2a8e752cb4da7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85896835,
+            "region_id":85688599,
+            "venue_id":706730225
+        }
+    ],
+    "wof:id":706730225,
+    "wof:lastmodified":1461811431,
+    "wof:name":"Petey's Deli",
+    "wof:parent_id":85896835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.151484,
+    42.130325,
+    -83.151484,
+    42.130325
+],
+  "geometry": {"coordinates":[-83.151484,42.130325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706457291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.786397,43.060345,-83.786397,43.060345",
+    "geom:latitude":43.060345,
+    "geom:longitude":-83.786397,
+    "iso:country":"US",
+    "sg:address":"5409 W Pierson Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 7501",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "congressman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mkTo5uM4J5iEqXWuQV883_43.060345_-83.786397@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803593,
+    "wof:geomhash":"8e5e6128195f2913269175aa039ec507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706457291
+        }
+    ],
+    "wof:id":706457291,
+    "wof:lastmodified":1461803593,
+    "wof:name":"Representative James Barcia",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "congressman"
+    ]
+},
+  "bbox": [
+    -83.786397,
+    43.060345,
+    -83.786397,
+    43.060345
+],
+  "geometry": {"coordinates":[-83.78639699999999,43.060345],"type":"Point"}
+}

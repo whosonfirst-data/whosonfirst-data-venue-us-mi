@@ -1,0 +1,71 @@
+{
+  "id": 689517537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.706378,43.039322,-83.706378,43.039322",
+    "geom:latitude":43.039322,
+    "geom:longitude":-83.706378,
+    "iso:country":"US",
+    "sg:address":"217 W Baker St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 760 7213",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u1k5PfE7SzRU5WiVM0aPM_43.039322_-83.706378@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773617,
+    "wof:geomhash":"4b05ac304f4ec72853c6667cd3561014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689517537
+        }
+    ],
+    "wof:id":689517537,
+    "wof:lastmodified":1461773617,
+    "wof:name":"Sweeties Cleaning Service",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.706378,
+    43.039322,
+    -83.706378,
+    43.039322
+],
+  "geometry": {"coordinates":[-83.706378,43.039322],"type":"Point"}
+}

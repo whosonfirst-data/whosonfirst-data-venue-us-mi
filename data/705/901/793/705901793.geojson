@@ -1,0 +1,71 @@
+{
+  "id": 705901793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638311,44.760384,-85.638311,44.760384",
+    "geom:latitude":44.760384,
+    "geom:longitude":-85.638311,
+    "iso:country":"US",
+    "sg:address":"919 7th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 2273",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01GnWknQFp9sPbEC7kGU96_44.760384_-85.638311@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791452,
+    "wof:geomhash":"b6b113e91b74438351540f5eda1f4866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705901793
+        }
+    ],
+    "wof:id":705901793,
+    "wof:lastmodified":1461791452,
+    "wof:name":"French Manor",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -85.638311,
+    44.760384,
+    -85.638311,
+    44.760384
+],
+  "geometry": {"coordinates":[-85.638311,44.760384],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 722503293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303703,42.4282,-83.303703,42.4282",
+    "geom:latitude":42.4282,
+    "geom:longitude":-83.303703,
+    "iso:country":"US",
+    "sg:address":"26320 W 7 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 543 7655",
+    "sg:postcode":"48240",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eolAO7mbGUb42FfQ1yM7B_42.428200_-83.303703@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813198,
+    "wof:geomhash":"ff33bcd019f7c63d02189fac2ea38641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":722503293
+        }
+    ],
+    "wof:id":722503293,
+    "wof:lastmodified":1461813198,
+    "wof:name":"Wegmann Electric",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -83.303703,
+    42.4282,
+    -83.303703,
+    42.4282
+],
+  "geometry": {"coordinates":[-83.303703,42.4282],"type":"Point"}
+}

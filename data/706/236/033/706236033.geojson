@@ -1,0 +1,71 @@
+{
+  "id": 706236033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.615229,41.836449,-83.615229,41.836449",
+    "geom:latitude":41.836449,
+    "geom:longitude":-83.615229,
+    "iso:country":"US",
+    "sg:address":"2783 Morocco Rd",
+    "sg:city":"Ida",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 6118",
+    "sg:postcode":"48140",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qqwqRfV9acljxlQ11BGf0_41.836449_-83.615229@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798854,
+    "wof:geomhash":"96c891069eedd1ccfca3858c01f987be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":706236033
+        }
+    ],
+    "wof:id":706236033,
+    "wof:lastmodified":1461798854,
+    "wof:name":"Classic Collision",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.615229,
+    41.836449,
+    -83.615229,
+    41.836449
+],
+  "geometry": {"coordinates":[-83.615229,41.836449],"type":"Point"}
+}

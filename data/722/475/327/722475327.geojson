@@ -1,0 +1,85 @@
+{
+  "id": 722475327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.179715,42.200326,-83.179715,42.200326",
+    "geom:latitude":42.200326,
+    "geom:longitude":-83.179715,
+    "iso:country":"US",
+    "sg:address":"3221 Fort St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 284 1733",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524855,
+        102191575,
+        404508709,
+        85633793,
+        85951075,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TLc1efjjpmTnrlg00PfPv_42.200326_-83.179715@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812090,
+    "wof:geomhash":"2928138d98bdb7de9e9788afe2edfb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508709,
+            "locality_id":85951075,
+            "neighbourhood_id":420524855,
+            "region_id":85688599,
+            "venue_id":722475327
+        }
+    ],
+    "wof:id":722475327,
+    "wof:lastmodified":1461812090,
+    "wof:name":"Walgreens",
+    "wof:parent_id":420524855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.179715,
+    42.200326,
+    -83.179715,
+    42.200326
+],
+  "geometry": {"coordinates":[-83.179715,42.200326],"type":"Point"}
+}

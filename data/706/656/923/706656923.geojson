@@ -1,0 +1,71 @@
+{
+  "id": 706656923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387085,42.206454,-84.387085,42.206454",
+    "geom:latitude":42.206454,
+    "geom:longitude":-84.387085,
+    "iso:country":"US",
+    "sg:address":"1641 Foye Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 0479",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xOM5Z1u0le6z8ft7dzYfu_42.206454_-84.387085@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808294,
+    "wof:geomhash":"931092a40480d0e84947507ead97b1e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706656923
+        }
+    ],
+    "wof:id":706656923,
+    "wof:lastmodified":1461808294,
+    "wof:name":"Classic Appearances Carwash",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.387085,
+    42.206454,
+    -84.387085,
+    42.206454
+],
+  "geometry": {"coordinates":[-84.387085,42.206454],"type":"Point"}
+}

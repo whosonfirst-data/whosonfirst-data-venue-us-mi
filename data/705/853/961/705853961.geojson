@@ -1,0 +1,73 @@
+{
+  "id": 705853961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.783586,43.059106,-83.783586,43.059106",
+    "geom:latitude":43.059106,
+    "geom:longitude":-83.783586,
+    "iso:country":"US",
+    "sg:address":"3456 Pierson Pl",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 6990",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "exhaust",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DfQH7nu7RyakKIMkuhakM_43.059106_-83.783586@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790281,
+    "wof:geomhash":"2c49be86a5e05c76d4f65a154eec6c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705853961
+        }
+    ],
+    "wof:id":705853961,
+    "wof:lastmodified":1461790281,
+    "wof:name":"Tuffy Auto Service Centers",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.783586,
+    43.059106,
+    -83.783586,
+    43.059106
+],
+  "geometry": {"coordinates":[-83.783586,43.059106],"type":"Point"}
+}

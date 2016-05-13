@@ -1,0 +1,73 @@
+{
+  "id": 689700081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269619,43.205475,-86.269619,43.205475",
+    "geom:latitude":43.205475,
+    "geom:longitude":-86.269619,
+    "iso:country":"US",
+    "sg:address":"860 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 0510",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l2CNMHpOB44a3ejF6vlBJ_43.205475_-86.269619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779101,
+    "wof:geomhash":"ee24ef6f0a3256ee1e15c6a98c9558c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689700081
+        }
+    ],
+    "wof:id":689700081,
+    "wof:lastmodified":1461779101,
+    "wof:name":"Lighthouse Liquors",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -86.269619,
+    43.205475,
+    -86.269619,
+    43.205475
+],
+  "geometry": {"coordinates":[-86.26961900000001,43.205475],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706725349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261703,42.3116,-83.261703,42.3116",
+    "geom:latitude":42.3116,
+    "geom:longitude":-83.261703,
+    "iso:country":"US",
+    "sg:address":"23100 Cherry Hill St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 5990",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yxmWhxG98nv9yex56z66a_42.311600_-83.261703@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811234,
+    "wof:geomhash":"e1e970d01aa6c95b3a4751b7fe03bd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":706725349
+        }
+    ],
+    "wof:id":706725349,
+    "wof:lastmodified":1461811234,
+    "wof:name":"Cherry Hill Pharmacy",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.261703,
+    42.3116,
+    -83.261703,
+    42.3116
+],
+  "geometry": {"coordinates":[-83.261703,42.3116],"type":"Point"}
+}

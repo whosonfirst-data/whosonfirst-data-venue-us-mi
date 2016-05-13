@@ -1,0 +1,69 @@
+{
+  "id": 705869013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.260015,42.819222,-83.260015,42.819222",
+    "geom:latitude":42.819222,
+    "geom:longitude":-83.260015,
+    "iso:country":"US",
+    "sg:address":"6 Lincoln St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 628 3092",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uLZDy3NSMs4puLN9fzXt2_42.819222_-83.260015@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790669,
+    "wof:geomhash":"d4dbc5ae03251ea5ad9caa806877bcab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705869013
+        }
+    ],
+    "wof:id":705869013,
+    "wof:lastmodified":1461790669,
+    "wof:name":"Oxford Veterinary Hospital",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.260015,
+    42.819222,
+    -83.260015,
+    42.819222
+],
+  "geometry": {"coordinates":[-83.260015,42.819222],"type":"Point"}
+}

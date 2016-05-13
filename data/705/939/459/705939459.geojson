@@ -1,0 +1,71 @@
+{
+  "id": 705939459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.258143,43.221983,-86.258143,43.221983",
+    "geom:latitude":43.221983,
+    "geom:longitude":-86.258143,
+    "iso:country":"US",
+    "sg:address":"615 W Dale Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 3278",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KVbkNOV8RbqohMD2nGja8_43.221983_-86.258143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792294,
+    "wof:geomhash":"fc69a53c993b0749c7e225e2f125cf44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705939459
+        }
+    ],
+    "wof:id":705939459,
+    "wof:lastmodified":1461792294,
+    "wof:name":"Person To Person Delivery Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.258143,
+    43.221983,
+    -86.258143,
+    43.221983
+],
+  "geometry": {"coordinates":[-86.258143,43.221983],"type":"Point"}
+}

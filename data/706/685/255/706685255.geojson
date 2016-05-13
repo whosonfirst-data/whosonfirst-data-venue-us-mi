@@ -1,0 +1,78 @@
+{
+  "id": 706685255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689592,43.033138,-85.689592,43.033138",
+    "geom:latitude":43.033138,
+    "geom:longitude":-85.689592,
+    "iso:country":"US",
+    "sg:address":"3851 Alpine Ave NW",
+    "sg:city":"Comstock Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/alpine/58145-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 6199",
+    "sg:postcode":"49321",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xbcCqUItdB4FKXM2mQKmA_43.033138_-85.689592@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809493,
+    "wof:geomhash":"58d6d6d60433bd82a589a526db2bcd76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706685255
+        }
+    ],
+    "wof:id":706685255,
+    "wof:lastmodified":1461809493,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.689592,
+    43.033138,
+    -85.689592,
+    43.033138
+],
+  "geometry": {"coordinates":[-85.689592,43.033138],"type":"Point"}
+}

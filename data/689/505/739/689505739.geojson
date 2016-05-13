@@ -1,0 +1,79 @@
+{
+  "id": 689505739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.569829,42.724574,-84.569829,42.724574",
+    "geom:latitude":42.724574,
+    "geom:longitude":-84.569829,
+    "iso:country":"US",
+    "sg:address":"812 S Martin Luther King Jr Blvd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 372 7700",
+    "sg:postcode":"48915",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878665,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JnMtKy1RkpoNiSfJinV8x_42.724574_-84.569829@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773281,
+    "wof:geomhash":"158a4ae2ef6279fa718ebe7c350c6efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878665,
+            "region_id":85688599,
+            "venue_id":689505739
+        }
+    ],
+    "wof:id":689505739,
+    "wof:lastmodified":1461773281,
+    "wof:name":"Hayford Street Clinic",
+    "wof:parent_id":85878665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.569829,
+    42.724574,
+    -84.569829,
+    42.724574
+],
+  "geometry": {"coordinates":[-84.569829,42.724574],"type":"Point"}
+}

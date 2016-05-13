@@ -1,0 +1,76 @@
+{
+  "id": 706682875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.410158,42.721485,-84.410158,42.721485",
+    "geom:latitude":42.721485,
+    "geom:longitude":-84.410158,
+    "iso:country":"US",
+    "sg:address":"4738 Central Park Dr",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/meridian/103134-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 349 4425",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fQArE800iA4K0YbIHdXXM_42.721485_-84.410158@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809398,
+    "wof:geomhash":"649b18a5a0024c590128393ffb2163a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682875
+        }
+    ],
+    "wof:id":706682875,
+    "wof:lastmodified":1461809398,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.410158,
+    42.721485,
+    -84.410158,
+    42.721485
+],
+  "geometry": {"coordinates":[-84.410158,42.721485],"type":"Point"}
+}

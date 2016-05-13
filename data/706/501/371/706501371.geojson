@@ -1,0 +1,67 @@
+{
+  "id": 706501371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513869,42.640419,-84.513869,42.640419",
+    "geom:latitude":42.640419,
+    "geom:longitude":-84.513869,
+    "iso:country":"US",
+    "sg:address":"2020 Park Ln",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 3411",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:website":"www.holt.k12.mi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Pw2nO0RR71cVfUfb3zEa_42.640419_-84.513869@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804676,
+    "wof:geomhash":"389953e848185c73964908c1ecc85b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706501371
+        }
+    ],
+    "wof:id":706501371,
+    "wof:lastmodified":1461804676,
+    "wof:name":"Holt Community",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.513869,
+    42.640419,
+    -84.513869,
+    42.640419
+],
+  "geometry": {"coordinates":[-84.513869,42.640419],"type":"Point"}
+}

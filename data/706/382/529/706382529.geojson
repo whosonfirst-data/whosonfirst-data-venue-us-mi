@@ -1,0 +1,71 @@
+{
+  "id": 706382529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.346125,42.941679,-85.346125,42.941679",
+    "geom:latitude":42.941679,
+    "geom:longitude":-85.346125,
+    "iso:country":"US",
+    "sg:address":"1048 Lincoln Lake",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 0280",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zpMWjZpz9GDmQ9dZPGKmI_42.941679_-85.346125@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802056,
+    "wof:geomhash":"fb62438cc26687fc1320633b90ae5a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706382529
+        }
+    ],
+    "wof:id":706382529,
+    "wof:lastmodified":1461802056,
+    "wof:name":"Stadt Cycle",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.346125,
+    42.941679,
+    -85.346125,
+    42.941679
+],
+  "geometry": {"coordinates":[-85.346125,42.941679],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705820661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.217831,43.191278,-86.217831,43.191278",
+    "geom:latitude":43.191278,
+    "geom:longitude":-86.217831,
+    "iso:country":"US",
+    "sg:address":"1169 Calgary Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 2722",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U6XtNVc2VFigVxRy87Wei_43.191278_-86.217831@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789497,
+    "wof:geomhash":"2d1211e7be9c62aa1728e9b02d19d6ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705820661
+        }
+    ],
+    "wof:id":705820661,
+    "wof:lastmodified":1461789497,
+    "wof:name":"Bi County Express",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.217831,
+    43.191278,
+    -86.217831,
+    43.191278
+],
+  "geometry": {"coordinates":[-86.217831,43.191278],"type":"Point"}
+}

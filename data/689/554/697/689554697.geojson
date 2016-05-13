@@ -1,0 +1,71 @@
+{
+  "id": 689554697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732527,43.045771,-83.732527,43.045771",
+    "geom:latitude":43.045771,
+    "geom:longitude":-83.732527,
+    "iso:country":"US",
+    "sg:address":"2812 Clio Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 3944",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76wJ2xeFIeGkYqeDvhrDBE_43.045771_-83.732527@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774869,
+    "wof:geomhash":"830b9ace646e3cd62a434ed62024c654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689554697
+        }
+    ],
+    "wof:id":689554697,
+    "wof:lastmodified":1461774869,
+    "wof:name":"Royal Dry Cleaners & Coin",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -83.732527,
+    43.045771,
+    -83.732527,
+    43.045771
+],
+  "geometry": {"coordinates":[-83.732527,43.045771],"type":"Point"}
+}

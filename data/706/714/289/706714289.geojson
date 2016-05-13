@@ -1,0 +1,87 @@
+{
+  "id": 706714289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.147532,42.54874,-83.147532,42.54874",
+    "geom:latitude":42.54874,
+    "geom:longitude":-83.147532,
+    "iso:country":"US",
+    "sg:address":"1613 Livernois Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 404 9999",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.redwagonshoppe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896587,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53clm696c1OX8djxFPkAxz_42.548740_-83.147532@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810703,
+    "wof:geomhash":"103c4dbc2f4603b13fd81249c5c2d099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896587,
+            "region_id":85688599,
+            "venue_id":706714289
+        }
+    ],
+    "wof:id":706714289,
+    "wof:lastmodified":1461810703,
+    "wof:name":"Red Wagon Wine Shoppe",
+    "wof:parent_id":85896587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.147532,
+    42.54874,
+    -83.147532,
+    42.54874
+],
+  "geometry": {"coordinates":[-83.147532,42.54874],"type":"Point"}
+}

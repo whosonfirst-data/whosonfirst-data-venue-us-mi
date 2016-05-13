@@ -1,0 +1,77 @@
+{
+  "id": 706676005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.139417,42.519208,-83.139417,42.519208",
+    "geom:latitude":42.519208,
+    "geom:longitude":-83.139417,
+    "iso:country":"US",
+    "sg:address":"3300 Rochester Rd",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/royal-oak/185936-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48073",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524503,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CFsZszoMr3v6ggKjWZClT_42.519208_-83.139417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809121,
+    "wof:geomhash":"5111fd69e57b967db48f4767d09691de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":420524503,
+            "region_id":85688599,
+            "venue_id":706676005
+        }
+    ],
+    "wof:id":706676005,
+    "wof:lastmodified":1461809121,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420524503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.139417,
+    42.519208,
+    -83.139417,
+    42.519208
+],
+  "geometry": {"coordinates":[-83.13941699999999,42.519208],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689939171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610619,44.759315,-85.610619,44.759315",
+    "geom:latitude":44.759315,
+    "geom:longitude":-85.610619,
+    "iso:country":"US",
+    "sg:address":"626 E 8th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 6500",
+    "sg:postcode":"49686",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RTAeHFnXEgR2CF04eDwza_44.759315_-85.610619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785591,
+    "wof:geomhash":"007ecfe50bf648d6183363c50d346f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689939171
+        }
+    ],
+    "wof:id":689939171,
+    "wof:lastmodified":1461785591,
+    "wof:name":"Grand Traverse Physical Thrpy",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.610619,
+    44.759315,
+    -85.610619,
+    44.759315
+],
+  "geometry": {"coordinates":[-85.610619,44.759315],"type":"Point"}
+}

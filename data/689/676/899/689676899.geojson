@@ -1,0 +1,71 @@
+{
+  "id": 689676899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.726882,43.023391,-85.726882,43.023391",
+    "geom:latitude":43.023391,
+    "geom:longitude":-85.726882,
+    "iso:country":"US",
+    "sg:address":"3420 Walker Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 1198",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LtlkqQKZ1gC5osh9H6UN4_43.023391_-85.726882@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778551,
+    "wof:geomhash":"e7f53ea7dac16ff3c166b1ba05ba0708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":689676899
+        }
+    ],
+    "wof:id":689676899,
+    "wof:lastmodified":1461778551,
+    "wof:name":"Bockheim Auto Service",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.726882,
+    43.023391,
+    -85.726882,
+    43.023391
+],
+  "geometry": {"coordinates":[-85.726882,43.023391],"type":"Point"}
+}

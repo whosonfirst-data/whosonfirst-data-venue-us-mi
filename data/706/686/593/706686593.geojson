@@ -1,0 +1,76 @@
+{
+  "id": 706686593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.592736,43.000658,-85.592736,43.000658",
+    "geom:latitude":43.000658,
+    "geom:longitude":-85.592736,
+    "iso:country":"US",
+    "sg:address":"2044 Celebration Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/59145-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 363 9100",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15hdoRKsCn795EGhj8Q7lr_43.000658_-85.592736@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809542,
+    "wof:geomhash":"6ea4946a7c7c20cdfedf304222736534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706686593
+        }
+    ],
+    "wof:id":706686593,
+    "wof:lastmodified":1461809542,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -85.592736,
+    43.000658,
+    -85.592736,
+    43.000658
+],
+  "geometry": {"coordinates":[-85.592736,43.000658],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706659181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.83341,42.576681,-82.83341,42.576681",
+    "geom:latitude":42.576681,
+    "geom:longitude":-82.83341,
+    "iso:country":"US",
+    "sg:address":"38001 Club House Ln",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 1111",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Syj30xW04zo8Tlf6HvlXe_42.576931_-82.833346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808396,
+    "wof:geomhash":"fe8d50910c1fbf099fb1b2b5430cf356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706659181
+        }
+    ],
+    "wof:id":706659181,
+    "wof:lastmodified":1461808396,
+    "wof:name":"Beachwood Apartments",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.83341,
+    42.576681,
+    -82.83341,
+    42.576681
+],
+  "geometry": {"coordinates":[-82.83341,42.576681],"type":"Point"}
+}

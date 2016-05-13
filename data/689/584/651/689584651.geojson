@@ -1,0 +1,71 @@
+{
+  "id": 689584651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.29478,43.215149,-86.29478,43.215149",
+    "geom:latitude":43.215149,
+    "geom:longitude":-86.29478,
+    "iso:country":"US",
+    "sg:address":"2054 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7560",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aVDQldOGeLblYZxkKE53U_43.215149_-86.294780@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775757,
+    "wof:geomhash":"a05d2b9477368d9d4af06406f3784f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689584651
+        }
+    ],
+    "wof:id":689584651,
+    "wof:lastmodified":1461775757,
+    "wof:name":"Auto Body Clinic",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.29478,
+    43.215149,
+    -86.29478,
+    43.215149
+],
+  "geometry": {"coordinates":[-86.29478,43.215149],"type":"Point"}
+}

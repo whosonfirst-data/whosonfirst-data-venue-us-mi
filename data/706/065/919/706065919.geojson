@@ -1,0 +1,69 @@
+{
+  "id": 706065919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.801557,42.899326,-85.801557,42.899326",
+    "geom:latitude":42.899326,
+    "geom:longitude":-85.801557,
+    "iso:country":"US",
+    "sg:address":"648 Chicago Dr",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 457 9200",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19fb8yGscT3sdqoTypMUtX_42.899326_-85.801557@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794937,
+    "wof:geomhash":"7ef9cd864119f13dd8d20af3d33e4b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706065919
+        }
+    ],
+    "wof:id":706065919,
+    "wof:lastmodified":1461794937,
+    "wof:name":"Jenison Animal Hospital PC",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.801557,
+    42.899326,
+    -85.801557,
+    42.899326
+],
+  "geometry": {"coordinates":[-85.801557,42.899326],"type":"Point"}
+}

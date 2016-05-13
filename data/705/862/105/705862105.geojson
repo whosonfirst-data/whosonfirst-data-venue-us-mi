@@ -1,0 +1,69 @@
+{
+  "id": 705862105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598472,42.63373,-85.598472,42.63373",
+    "geom:latitude":42.63373,
+    "geom:longitude":-85.598472,
+    "iso:country":"US",
+    "sg:address":"2966 5th St",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 6050",
+    "sg:postcode":"49344",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AlnVHYdTiAybjQ6GcTkOw_42.633730_-85.598472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790470,
+    "wof:geomhash":"e1cfa9b95b9a3a0e85c515e61f1f33f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":705862105
+        }
+    ],
+    "wof:id":705862105,
+    "wof:lastmodified":1461790470,
+    "wof:name":"Thompsons Machine Repair Inc",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    -85.598472,
+    42.63373,
+    -85.598472,
+    42.63373
+],
+  "geometry": {"coordinates":[-85.598472,42.63373],"type":"Point"}
+}

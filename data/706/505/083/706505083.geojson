@@ -1,0 +1,69 @@
+{
+  "id": 706505083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.351602,42.758855,-83.351602,42.758855",
+    "geom:latitude":42.758855,
+    "geom:longitude":-83.351602,
+    "iso:country":"US",
+    "sg:address":"8290 Park Dr",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 394 0273",
+    "sg:postcode":"48348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854407,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7ig0wIz3OPxh9xmlPyVY_42.758855_-83.351602@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804749,
+    "wof:geomhash":"eccc6445537a2ca0bb888ea6117cc2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85854407,
+            "region_id":85688599,
+            "venue_id":706505083
+        }
+    ],
+    "wof:id":706505083,
+    "wof:lastmodified":1461804749,
+    "wof:name":"Ernie & Joes Appliance Service",
+    "wof:parent_id":85854407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.351602,
+    42.758855,
+    -83.351602,
+    42.758855
+],
+  "geometry": {"coordinates":[-83.351602,42.758855],"type":"Point"}
+}

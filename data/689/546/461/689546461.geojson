@@ -1,0 +1,71 @@
+{
+  "id": 689546461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.248579,42.618541,-83.248579,42.618541",
+    "geom:latitude":42.618541,
+    "geom:longitude":-83.248579,
+    "iso:country":"US",
+    "sg:address":"1500 S Opdyke Rd",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 475 0985",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O2zUWl9aPkQnpaGKod7qK_42.618541_-83.248579@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774585,
+    "wof:geomhash":"b9d3211b657173546a483cc57f5b7980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":689546461
+        }
+    ],
+    "wof:id":689546461,
+    "wof:lastmodified":1461774585,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.248579,
+    42.618541,
+    -83.248579,
+    42.618541
+],
+  "geometry": {"coordinates":[-83.24857900000001,42.618541],"type":"Point"}
+}

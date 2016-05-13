@@ -1,0 +1,71 @@
+{
+  "id": 689825517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.303324,43.249764,-86.303324,43.249764",
+    "geom:latitude":43.249764,
+    "geom:longitude":-86.303324,
+    "iso:country":"US",
+    "sg:address":"2401 Pennsylvania Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 2309",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ImvI93vqPvK3T7QCt544Y_43.249764_-86.303324@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782662,
+    "wof:geomhash":"79635c456244c40ab728a284869618d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689825517
+        }
+    ],
+    "wof:id":689825517,
+    "wof:lastmodified":1461782662,
+    "wof:name":"Property Sercives LLC",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.303324,
+    43.249764,
+    -86.303324,
+    43.249764
+],
+  "geometry": {"coordinates":[-86.303324,43.249764],"type":"Point"}
+}

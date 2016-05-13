@@ -1,0 +1,82 @@
+{
+  "id": 706287747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249017,41.830677,-86.249017,41.830677",
+    "geom:latitude":41.830677,
+    "geom:longitude":-86.249017,
+    "iso:country":"US",
+    "sg:address":"211 N 9th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 1962",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plate",
+        "window",
+        "replacement",
+        "glass",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nwcMBGgJTeHaMGq9GV29M_41.830677_-86.249017@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800034,
+    "wof:geomhash":"a90d226d52dd28c3f11da73820695f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706287747
+        }
+    ],
+    "wof:id":706287747,
+    "wof:lastmodified":1461800034,
+    "wof:name":"John's Glass",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "replacement",
+        "glass",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.249017,
+    41.830677,
+    -86.249017,
+    41.830677
+],
+  "geometry": {"coordinates":[-86.24901699999999,41.830677],"type":"Point"}
+}

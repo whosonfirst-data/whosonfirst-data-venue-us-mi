@@ -1,0 +1,89 @@
+{
+  "id": 706739593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.277603,42.240501,-83.277603,42.240501",
+    "geom:latitude":42.240501,
+    "geom:longitude":-83.277603,
+    "iso:country":"US",
+    "sg:address":"24715 Wick Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 291 0341",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "beach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zVOYa0U3l6ZKeiNfal1o_42.240501_-83.277603@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811794,
+    "wof:geomhash":"0fcdd2abfdc6c530928b03981b7b6b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706739593
+        }
+    ],
+    "wof:id":706739593,
+    "wof:lastmodified":1461811794,
+    "wof:name":"Taylor School Dist",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "beach"
+    ]
+},
+  "bbox": [
+    -83.277603,
+    42.240501,
+    -83.277603,
+    42.240501
+],
+  "geometry": {"coordinates":[-83.277603,42.240501],"type":"Point"}
+}

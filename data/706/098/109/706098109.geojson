@@ -1,0 +1,71 @@
+{
+  "id": 706098109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.532766,42.66849,-84.532766,42.66849",
+    "geom:latitude":42.66849,
+    "geom:longitude":-84.532766,
+    "iso:country":"US",
+    "sg:address":"6130 Beechfield Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 394 6602",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XBJUpS8irhKrilscXd8uS_42.668490_-84.532766@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795739,
+    "wof:geomhash":"3ea96b9d0ef453b0bc4465d9db148e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706098109
+        }
+    ],
+    "wof:id":706098109,
+    "wof:lastmodified":1461795739,
+    "wof:name":"White Tornado",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.532766,
+    42.66849,
+    -84.532766,
+    42.66849
+],
+  "geometry": {"coordinates":[-84.532766,42.66849],"type":"Point"}
+}

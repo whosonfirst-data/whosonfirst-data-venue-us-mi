@@ -1,0 +1,71 @@
+{
+  "id": 705701657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.45527,42.378079,-85.45527,42.378079",
+    "geom:latitude":42.378079,
+    "geom:longitude":-85.45527,
+    "iso:country":"US",
+    "sg:address":"8100 N 32nd St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 629 4807",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YPMdrYbUcCH0XtJRqwRUD_42.378079_-85.455270@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786606,
+    "wof:geomhash":"6e4ba9e70cb6d9c9127be35be8750cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":705701657
+        }
+    ],
+    "wof:id":705701657,
+    "wof:lastmodified":1461786606,
+    "wof:name":"Richland Village Police Dept",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.45527,
+    42.378079,
+    -85.45527,
+    42.378079
+],
+  "geometry": {"coordinates":[-85.45527,42.378079],"type":"Point"}
+}

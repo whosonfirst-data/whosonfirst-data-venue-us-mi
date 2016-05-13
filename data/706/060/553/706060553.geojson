@@ -1,0 +1,73 @@
+{
+  "id": 706060553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.80083,43.381399,-85.80083,43.381399",
+    "geom:latitude":43.381399,
+    "geom:longitude":-85.80083,
+    "iso:country":"US",
+    "sg:address":"9540 Mason Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 2118",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i0j1d2u22uEKZ9ayHV6J1_43.381399_-85.800830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794823,
+    "wof:geomhash":"e5d1b42f4005424a6288c88765129dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706060553
+        }
+    ],
+    "wof:id":706060553,
+    "wof:lastmodified":1461794823,
+    "wof:name":"Midwest Propane",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -85.80083,
+    43.381399,
+    -85.80083,
+    43.381399
+],
+  "geometry": {"coordinates":[-85.80083,43.381399],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 705839009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.063304,45.794345,-88.063304,45.794345",
+    "geom:latitude":45.794345,
+    "geom:longitude":-88.063304,
+    "iso:country":"US",
+    "sg:address":"512 Withworth Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7248",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZzMqYqQ62K5k8WdwHiwJN_45.794345_-88.063304@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789935,
+    "wof:geomhash":"78ac3630e50cc0c4dcfd777947b84426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705839009
+        }
+    ],
+    "wof:id":705839009,
+    "wof:lastmodified":1461789935,
+    "wof:name":"Dans Auto",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.063304,
+    45.794345,
+    -88.063304,
+    45.794345
+],
+  "geometry": {"coordinates":[-88.063304,45.794345],"type":"Point"}
+}

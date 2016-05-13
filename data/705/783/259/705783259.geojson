@@ -1,0 +1,75 @@
+{
+  "id": 705783259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167787,43.361746,-86.167787,43.361746",
+    "geom:latitude":43.361746,
+    "geom:longitude":-86.167787,
+    "iso:country":"US",
+    "sg:address":"2980 5th St",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 4754",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DokoecMrhCnyl3yMst8OX_43.361746_-86.167787@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788642,
+    "wof:geomhash":"3bec49f84f3cb9d2055c34d9de2a7b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705783259
+        }
+    ],
+    "wof:id":705783259,
+    "wof:lastmodified":1461788642,
+    "wof:name":"Twin Lake Mower Repair",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -86.167787,
+    43.361746,
+    -86.167787,
+    43.361746
+],
+  "geometry": {"coordinates":[-86.167787,43.361746],"type":"Point"}
+}

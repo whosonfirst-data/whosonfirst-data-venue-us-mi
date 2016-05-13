@@ -1,0 +1,84 @@
+{
+  "id": 706696975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261101,42.478401,-83.261101,42.478401",
+    "geom:latitude":42.478401,
+    "geom:longitude":-83.261101,
+    "iso:country":"US",
+    "sg:address":"25877 Lahser Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 352 8556",
+    "sg:postcode":"48034",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870505,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qgYL0d1rCl7Qka07jouEV_42.478401_-83.261101@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809944,
+    "wof:geomhash":"9c5621faaccfe8c6f99082f3daaaf480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870505,
+            "region_id":85688599,
+            "venue_id":706696975
+        }
+    ],
+    "wof:id":706696975,
+    "wof:lastmodified":1461809944,
+    "wof:name":"Majestic Market",
+    "wof:parent_id":85870505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.261101,
+    42.478401,
+    -83.261101,
+    42.478401
+],
+  "geometry": {"coordinates":[-83.261101,42.478401],"type":"Point"}
+}

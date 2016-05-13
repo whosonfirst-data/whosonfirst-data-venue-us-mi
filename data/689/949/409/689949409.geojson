@@ -1,0 +1,71 @@
+{
+  "id": 689949409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.264889,43.219973,-86.264889,43.219973",
+    "geom:latitude":43.219973,
+    "geom:longitude":-86.264889,
+    "iso:country":"US",
+    "sg:address":"896 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7387",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J0vXRX7bgEMLjRTbMj1o2_43.219973_-86.264889@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785841,
+    "wof:geomhash":"3cc786e5c682c08c735b5f527e1572af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689949409
+        }
+    ],
+    "wof:id":689949409,
+    "wof:lastmodified":1461785841,
+    "wof:name":"Lakeshore Animal Hospital",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.264889,
+    43.219973,
+    -86.264889,
+    43.219973
+],
+  "geometry": {"coordinates":[-86.264889,43.219973],"type":"Point"}
+}

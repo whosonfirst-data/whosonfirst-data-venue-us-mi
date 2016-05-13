@@ -1,0 +1,75 @@
+{
+  "id": 705843845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.437195,42.681275,-84.437195,42.681275",
+    "geom:latitude":42.681275,
+    "geom:longitude":-84.437195,
+    "iso:country":"US",
+    "sg:address":"2410 Woodlake Dr",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 347 6944",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zqIYz5R06z8gLdpESF9pG_42.681275_-84.437195@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790043,
+    "wof:geomhash":"8c1a5fc9523336d3e5689710e9860ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705843845
+        }
+    ],
+    "wof:id":705843845,
+    "wof:lastmodified":1461790043,
+    "wof:name":"Integrated Family Psychiatry",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.437195,
+    42.681275,
+    -84.437195,
+    42.681275
+],
+  "geometry": {"coordinates":[-84.437195,42.681275],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689953763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.799184,42.272988,-83.799184,42.272988",
+    "geom:latitude":42.272988,
+    "geom:longitude":-83.799184,
+    "iso:country":"US",
+    "sg:address":"3340 W Liberty Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 995 3188",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875951,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04IwGfeH9ex01JMz1qP0TA_42.272988_-83.799184@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785967,
+    "wof:geomhash":"077f4da1192b8e80938a66b6ba9c5324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875951,
+            "region_id":85688599,
+            "venue_id":689953763
+        }
+    ],
+    "wof:id":689953763,
+    "wof:lastmodified":1461785967,
+    "wof:name":"Orion Automotive",
+    "wof:parent_id":85875951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.799184,
+    42.272988,
+    -83.799184,
+    42.272988
+],
+  "geometry": {"coordinates":[-83.799184,42.272988],"type":"Point"}
+}

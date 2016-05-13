@@ -1,0 +1,80 @@
+{
+  "id": 706676761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.747278,42.280402,-83.747278,42.280402",
+    "geom:latitude":42.280402,
+    "geom:longitude":-83.747278,
+    "iso:country":"US",
+    "sg:address":"205 S 4th Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/248004-sottinis-sub-shop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 769 7827",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875899,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0keN00l55Shx7JOkEpM0iC_42.280402_-83.747278@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809153,
+    "wof:geomhash":"f0ee8dd698a97548a1ff5dbb9612bd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875899,
+            "region_id":85688599,
+            "venue_id":706676761
+        }
+    ],
+    "wof:id":706676761,
+    "wof:lastmodified":1461809153,
+    "wof:name":"Sottini's Sub Shop",
+    "wof:parent_id":85875899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.747278,
+    42.280402,
+    -83.747278,
+    42.280402
+],
+  "geometry": {"coordinates":[-83.74727799999999,42.280402],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706687889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.667813,41.958586,-83.667813,41.958586",
+    "geom:latitude":41.958586,
+    "geom:longitude":-83.667813,
+    "iso:country":"US",
+    "sg:address":"539 Tecumseh St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dundee/208707-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 5726",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07L42tR8qatAi0zot1sHjP_41.958491_-83.667809@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809593,
+    "wof:geomhash":"058457266a515a7c3aaeba43173f544d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706687889
+        }
+    ],
+    "wof:id":706687889,
+    "wof:lastmodified":1461809593,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.667813,
+    41.958586,
+    -83.667813,
+    41.958586
+],
+  "geometry": {"coordinates":[-83.667813,41.958586],"type":"Point"}
+}

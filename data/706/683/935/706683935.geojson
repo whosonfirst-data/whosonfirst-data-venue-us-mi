@@ -1,0 +1,84 @@
+{
+  "id": 706683935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.667869,42.2959,-85.667869,42.2959",
+    "geom:latitude":42.2959,
+    "geom:longitude":-85.667869,
+    "iso:country":"US",
+    "sg:address":"5350 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oshtemo/125628-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 6200",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599,
+        85815001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pLR9sHxNL3wLIVqLpinY3_42.295900_-85.667869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809443,
+    "wof:geomhash":"c4e868a7b6985e5b7c6c93edcb91cd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":706683935
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":706683935
+        }
+    ],
+    "wof:id":706683935,
+    "wof:lastmodified":1461809443,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.667869,
+    42.2959,
+    -85.667869,
+    42.2959
+],
+  "geometry": {"coordinates":[-85.667869,42.2959],"type":"Point"}
+}

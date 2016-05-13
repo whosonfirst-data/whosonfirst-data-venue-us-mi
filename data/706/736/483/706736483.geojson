@@ -1,0 +1,92 @@
+{
+  "id": 706736483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.468903,42.367401,-83.468903,42.367401",
+    "geom:latitude":42.367401,
+    "geom:longitude":-83.468903,
+    "iso:country":"US",
+    "sg:address":"725 Wing St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 0485",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "product",
+        "hospital",
+        "specialty",
+        "clinic",
+        "health",
+        "veterinarian",
+        "grooming"
+    ],
+    "sg:website":"www.plymouthvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PmBrpKKcnDPwlM4C5HwXl_42.367401_-83.468903@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811677,
+    "wof:geomhash":"1df3c23fcc5fff7a401eb2fc80a96ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736483
+        }
+    ],
+    "wof:id":706736483,
+    "wof:lastmodified":1461811677,
+    "wof:name":"Plymouth Veterinary Hospital Inc",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "hospital",
+        "specialty",
+        "clinic",
+        "health",
+        "veterinarian",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -83.468903,
+    42.367401,
+    -83.468903,
+    42.367401
+],
+  "geometry": {"coordinates":[-83.468903,42.367401],"type":"Point"}
+}

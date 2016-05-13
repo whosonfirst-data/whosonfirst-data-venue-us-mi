@@ -1,0 +1,72 @@
+{
+  "id": 706678491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.620356,42.244947,-83.620356,42.244947",
+    "geom:latitude":42.244947,
+    "geom:longitude":-83.620356,
+    "iso:country":"US",
+    "sg:address":"308 Perrin St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/273413-new-york-pizza-depot/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 544 1941",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43gXilnjSDrT37ST1Q2HRK_42.244947_-83.620356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809227,
+    "wof:geomhash":"01da1b90a634d8ce9d3a4ba73df4d9d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678491
+        }
+    ],
+    "wof:id":706678491,
+    "wof:lastmodified":1461809227,
+    "wof:name":"New York Pizza Depot",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.620356,
+    42.244947,
+    -83.620356,
+    42.244947
+],
+  "geometry": {"coordinates":[-83.620356,42.244947],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 706677739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.417223,42.361341,-83.417223,42.361341",
+    "geom:latitude":42.361341,
+    "geom:longitude":-83.417223,
+    "iso:country":"US",
+    "sg:address":"38015 Ann Arbor Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/livonia/185957-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896861,
+        404508705,
+        85951041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lG2vEirjFsvznc860VAnX_42.361341_-83.417223@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809199,
+    "wof:geomhash":"4eda8458e5589037c384d1ef2e6940d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706677739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508705,
+            "locality_id":85951041,
+            "neighbourhood_id":85896861,
+            "region_id":85688599,
+            "venue_id":706677739
+        }
+    ],
+    "wof:id":706677739,
+    "wof:lastmodified":1461809199,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.417223,
+    42.361341,
+    -83.417223,
+    42.361341
+],
+  "geometry": {"coordinates":[-83.41722300000001,42.361341],"type":"Point"}
+}

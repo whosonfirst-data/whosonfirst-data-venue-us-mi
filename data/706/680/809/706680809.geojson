@@ -1,0 +1,72 @@
+{
+  "id": 706680809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.273148,42.824529,-83.273148,42.824529",
+    "geom:latitude":42.824529,
+    "geom:longitude":-83.273148,
+    "iso:country":"US",
+    "sg:address":"95 W Burdick St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oxford/142450-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 969 6920",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AVdTkEl5s2fNVKI2BiNVy_42.824529_-83.273148@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809315,
+    "wof:geomhash":"9ccec6aa23f96b5dca9107e77185f3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":706680809
+        }
+    ],
+    "wof:id":706680809,
+    "wof:lastmodified":1461809315,
+    "wof:name":"Subway",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.273148,
+    42.824529,
+    -83.273148,
+    42.824529
+],
+  "geometry": {"coordinates":[-83.27314800000001,42.824529],"type":"Point"}
+}

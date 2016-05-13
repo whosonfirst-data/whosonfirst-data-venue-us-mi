@@ -1,0 +1,71 @@
+{
+  "id": 706250201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130419,43.416354,-84.130419,43.416354",
+    "geom:latitude":43.416354,
+    "geom:longitude":-84.130419,
+    "iso:country":"US",
+    "sg:address":"10075 Gratiot Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 0220",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VyW8I5kw0GQEvJOaYSaab_43.416354_-84.130419@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799198,
+    "wof:geomhash":"77e819e02abee1d5fdbd6e7cd9982494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706250201
+        }
+    ],
+    "wof:id":706250201,
+    "wof:lastmodified":1461799198,
+    "wof:name":"West Valley Self Serve Storage",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.130419,
+    43.416354,
+    -84.130419,
+    43.416354
+],
+  "geometry": {"coordinates":[-84.130419,43.416354],"type":"Point"}
+}

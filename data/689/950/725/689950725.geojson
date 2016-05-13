@@ -1,0 +1,88 @@
+{
+  "id": 689950725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.947548,42.371566,-82.947548,42.371566",
+    "geom:latitude":42.371566,
+    "geom:longitude":-82.947548,
+    "iso:country":"US",
+    "sg:address":"13900 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 822 6661",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85891667,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ar16dcD8iv70udOUdy0hc_42.371566_-82.947548@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785881,
+    "wof:geomhash":"e94fca6298d6c817e89dfc947d652ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":689950725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":689950725
+        }
+    ],
+    "wof:id":689950725,
+    "wof:lastmodified":1461785881,
+    "wof:name":"Comerica",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -82.947548,
+    42.371566,
+    -82.947548,
+    42.371566
+],
+  "geometry": {"coordinates":[-82.947548,42.371566],"type":"Point"}
+}

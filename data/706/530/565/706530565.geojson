@@ -1,0 +1,71 @@
+{
+  "id": 706530565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167481,43.353575,-86.167481,43.353575",
+    "geom:latitude":43.353575,
+    "geom:longitude":-86.167481,
+    "iso:country":"US",
+    "sg:address":"5480 Holton Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 5069",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vO0VBqsJFSFLGZp9el0FK_43.353575_-86.167481@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805248,
+    "wof:geomhash":"da84a836e8c3d8d97f1314972b9316c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706530565
+        }
+    ],
+    "wof:id":706530565,
+    "wof:lastmodified":1461805248,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.167481,
+    43.353575,
+    -86.167481,
+    43.353575
+],
+  "geometry": {"coordinates":[-86.167481,43.353575],"type":"Point"}
+}

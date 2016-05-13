@@ -1,0 +1,71 @@
+{
+  "id": 706207499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.39724,46.543774,-87.39724,46.543774",
+    "geom:latitude":46.543774,
+    "geom:longitude":-87.39724,
+    "iso:country":"US",
+    "sg:address":"223 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7744",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5STwm7Sap5DIaqSQyiytDo_46.543774_-87.397240@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798235,
+    "wof:geomhash":"d18c00d5387345de82384c92097aab11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706207499
+        }
+    ],
+    "wof:id":706207499,
+    "wof:lastmodified":1461798235,
+    "wof:name":"Babycakes",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -87.39724,
+    46.543774,
+    -87.39724,
+    46.543774
+],
+  "geometry": {"coordinates":[-87.39724,46.543774],"type":"Point"}
+}

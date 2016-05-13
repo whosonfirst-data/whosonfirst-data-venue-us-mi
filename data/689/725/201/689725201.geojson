@@ -1,0 +1,73 @@
+{
+  "id": 689725201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065841,45.812477,-88.065841,45.812477",
+    "geom:latitude":45.812477,
+    "geom:longitude":-88.065841,
+    "iso:country":"US",
+    "sg:address":"1103 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 5488",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wmiBRpybSZOrEZBSEWewl_45.812477_-88.065841@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779806,
+    "wof:geomhash":"6b94d12dd37ec8b3b93f5679d627c9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689725201
+        }
+    ],
+    "wof:id":689725201,
+    "wof:lastmodified":1461779806,
+    "wof:name":"Jon Electric",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.065841,
+    45.812477,
+    -88.065841,
+    45.812477
+],
+  "geometry": {"coordinates":[-88.06584100000001,45.812477],"type":"Point"}
+}

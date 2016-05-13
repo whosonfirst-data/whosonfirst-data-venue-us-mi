@@ -1,0 +1,69 @@
+{
+  "id": 706507871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251343,41.829462,-86.251343,41.829462",
+    "geom:latitude":41.829462,
+    "geom:longitude":-86.251343,
+    "iso:country":"US",
+    "sg:address":"703 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 6100",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zMrna1LHDTzQJ12tbP1xG_41.829462_-86.251343@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804803,
+    "wof:geomhash":"f92b6827eee82068933d6b0d06d4c0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706507871
+        }
+    ],
+    "wof:id":706507871,
+    "wof:lastmodified":1461804803,
+    "wof:name":"Michiana Abortion Clinic",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.251343,
+    41.829462,
+    -86.251343,
+    41.829462
+],
+  "geometry": {"coordinates":[-86.25134300000001,41.829462],"type":"Point"}
+}

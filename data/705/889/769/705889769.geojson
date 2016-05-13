@@ -1,0 +1,79 @@
+{
+  "id": 705889769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720412,43.089105,-83.720412,43.089105",
+    "geom:latitude":43.089105,
+    "geom:longitude":-83.720412,
+    "iso:country":"US",
+    "sg:address":"5382 Nasser St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 9932",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WLKUwLvmeHAI1kykAkjL9_43.089105_-83.720412@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791175,
+    "wof:geomhash":"1fc35712ec48bb9b36d239ddd48e34a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":705889769
+        }
+    ],
+    "wof:id":705889769,
+    "wof:lastmodified":1461791175,
+    "wof:name":"Holley Trucking",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.720412,
+    43.089105,
+    -83.720412,
+    43.089105
+],
+  "geometry": {"coordinates":[-83.720412,43.089105],"type":"Point"}
+}

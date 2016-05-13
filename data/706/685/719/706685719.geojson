@@ -1,0 +1,72 @@
+{
+  "id": 706685719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.829355,42.907168,-85.829355,42.907168",
+    "geom:latitude":42.907168,
+    "geom:longitude":-85.829355,
+    "iso:country":"US",
+    "sg:address":"1901 Baldwin St",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/georgetown/86838-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 457 5110",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aAYzgUYnthbfKMHf83T8X_42.907168_-85.829355@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809510,
+    "wof:geomhash":"1e8192c08edbc1b887076052c8845acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706685719
+        }
+    ],
+    "wof:id":706685719,
+    "wof:lastmodified":1461809510,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.829355,
+    42.907168,
+    -85.829355,
+    42.907168
+],
+  "geometry": {"coordinates":[-85.82935500000001,42.907168],"type":"Point"}
+}

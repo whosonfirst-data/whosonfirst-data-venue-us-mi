@@ -1,0 +1,80 @@
+{
+  "id": 706675179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.20927,42.546838,-83.20927,42.546838",
+    "geom:latitude":42.546838,
+    "geom:longitude":-83.20927,
+    "iso:country":"US",
+    "sg:address":"755 E Maple Rd",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/birmingham/161219-cheeburger-cheeburger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 203 4171",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524529,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lQY5Wimu307coGe8mdld7_42.546838_-83.209270@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809086,
+    "wof:geomhash":"68dcdc0d2e768e99dc3c8aa7e234fa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":420524529,
+            "region_id":85688599,
+            "venue_id":706675179
+        }
+    ],
+    "wof:id":706675179,
+    "wof:lastmodified":1461809086,
+    "wof:name":"Cheeburger Cheeburger",
+    "wof:parent_id":420524529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.20927,
+    42.546838,
+    -83.20927,
+    42.546838
+],
+  "geometry": {"coordinates":[-83.20927,42.546838],"type":"Point"}
+}

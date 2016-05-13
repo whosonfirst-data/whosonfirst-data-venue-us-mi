@@ -1,0 +1,71 @@
+{
+  "id": 705928107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257439,41.835223,-86.257439,41.835223",
+    "geom:latitude":41.835223,
+    "geom:longitude":-86.257439,
+    "iso:country":"US",
+    "sg:address":"106 Wayne St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 4530",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MQKcWvaX0fNS3Za9JLSny_41.835223_-86.257439@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792017,
+    "wof:geomhash":"c8d32aa546c1c7221942d30ff89906dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705928107
+        }
+    ],
+    "wof:id":705928107,
+    "wof:lastmodified":1461792017,
+    "wof:name":"Bishop Sewing Systems",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -86.257439,
+    41.835223,
+    -86.257439,
+    41.835223
+],
+  "geometry": {"coordinates":[-86.25743900000001,41.835223],"type":"Point"}
+}

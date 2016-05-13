@@ -1,0 +1,71 @@
+{
+  "id": 706626365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.959648,42.666283,-85.959648,42.666283",
+    "geom:latitude":42.666283,
+    "geom:longitude":-85.959648,
+    "iso:country":"US",
+    "sg:address":"4237 134th Ave",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 751 6263",
+    "sg:postcode":"49419",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73siRNpFN07mnQWQgPIV8l_42.666283_-85.959648@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807277,
+    "wof:geomhash":"706a751757d74edd568cdaf2394c2a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706626365
+        }
+    ],
+    "wof:id":706626365,
+    "wof:lastmodified":1461807277,
+    "wof:name":"Hamilton Plumbing",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.959648,
+    42.666283,
+    -85.959648,
+    42.666283
+],
+  "geometry": {"coordinates":[-85.959648,42.666283],"type":"Point"}
+}

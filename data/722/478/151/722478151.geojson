@@ -1,0 +1,87 @@
+{
+  "id": 722478151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.062394,42.348554,-83.062394,42.348554",
+    "geom:latitude":42.348554,
+    "geom:longitude":-83.062394,
+    "iso:country":"US",
+    "sg:address":"3930 Cass Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 831 3830",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tavern",
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870587,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SZUbZY432WuDCBXItAfQR_42.348554_-83.062394@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812210,
+    "wof:geomhash":"31b90016ded526c52df9c59b9f0aab36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870587,
+            "region_id":85688599,
+            "venue_id":722478151
+        }
+    ],
+    "wof:id":722478151,
+    "wof:lastmodified":1461812210,
+    "wof:name":"The Old Miami",
+    "wof:parent_id":85870587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "venue"
+    ]
+},
+  "bbox": [
+    -83.062394,
+    42.348554,
+    -83.062394,
+    42.348554
+],
+  "geometry": {"coordinates":[-83.062394,42.348554],"type":"Point"}
+}

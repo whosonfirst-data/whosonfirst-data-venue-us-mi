@@ -1,0 +1,71 @@
+{
+  "id": 689833735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.43392,42.269445,-84.43392,42.269445",
+    "geom:latitude":42.269445,
+    "geom:longitude":-84.43392,
+    "iso:country":"US",
+    "sg:address":"1176 Jackson Xing",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 2655",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zvjqrqwTWls6wZmSR4myF_42.269445_-84.433920@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782951,
+    "wof:geomhash":"cfc8b4b66ed661755ec3f6d0bd8d9dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689833735
+        }
+    ],
+    "wof:id":689833735,
+    "wof:lastmodified":1461782951,
+    "wof:name":"Pet Source",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.43392,
+    42.269445,
+    -84.43392,
+    42.269445
+],
+  "geometry": {"coordinates":[-84.43392,42.269445],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 722512517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.330597,42.580601,-83.330597,42.580601",
+    "geom:latitude":42.580601,
+    "geom:longitude":-83.330597,
+    "iso:country":"US",
+    "sg:address":"4230 Middlebelt Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 932 8584",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYQP7dRled9KlBBKIcRBD_42.580601_-83.330597@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813587,
+    "wof:geomhash":"15406818bc54e3817c1f4646f63dde2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512517
+        }
+    ],
+    "wof:id":722512517,
+    "wof:lastmodified":1461813587,
+    "wof:name":"Ganeinu Preschool & Day Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.330597,
+    42.580601,
+    -83.330597,
+    42.580601
+],
+  "geometry": {"coordinates":[-83.330597,42.580601],"type":"Point"}
+}

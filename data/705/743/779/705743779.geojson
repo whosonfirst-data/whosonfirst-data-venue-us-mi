@@ -1,0 +1,80 @@
+{
+  "id": 705743779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.395726,46.563916,-87.395726,46.563916",
+    "geom:latitude":46.563916,
+    "geom:longitude":-87.395726,
+    "iso:country":"US",
+    "sg:address":"241 Wright St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 4692",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "establishment",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ze0iKWJr5nip27j4KMXsz_46.563916_-87.395726@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787724,
+    "wof:geomhash":"3b19fc1d1891f21393d016094d23f1b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705743779
+        }
+    ],
+    "wof:id":705743779,
+    "wof:lastmodified":1461787724,
+    "wof:name":"Great Lakes Recovery Cent",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "establishment",
+        "provider"
+    ]
+},
+  "bbox": [
+    -87.395726,
+    46.563916,
+    -87.395726,
+    46.563916
+],
+  "geometry": {"coordinates":[-87.395726,46.563916],"type":"Point"}
+}

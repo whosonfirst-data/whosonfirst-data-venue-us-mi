@@ -1,0 +1,69 @@
+{
+  "id": 705850079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.121339,45.782539,-87.121339,45.782539",
+    "geom:latitude":45.782539,
+    "geom:longitude":-87.121339,
+    "iso:country":"US",
+    "sg:address":"4897 Danforth Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 7879",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50NVR2E0zlmW2YZpk4K9ZW_45.782539_-87.121339@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790181,
+    "wof:geomhash":"652979a99e986caca2ed8a365e249b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":705850079
+        }
+    ],
+    "wof:id":705850079,
+    "wof:lastmodified":1461790181,
+    "wof:name":"Perrault's Market",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.121339,
+    45.782539,
+    -87.121339,
+    45.782539
+],
+  "geometry": {"coordinates":[-87.12133900000001,45.782539],"type":"Point"}
+}

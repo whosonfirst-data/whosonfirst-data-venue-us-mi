@@ -1,0 +1,77 @@
+{
+  "id": 689545603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.394008,42.660296,-83.394008,42.660296",
+    "geom:latitude":42.660296,
+    "geom:longitude":-83.394008,
+    "iso:country":"US",
+    "sg:address":"5328 Highland Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 0100",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "sg:website":"www.oaklandyard.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D2Oy7rmrPPnzogl2MQ3eJ_42.660296_-83.394008@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774548,
+    "wof:geomhash":"11bb3c28151fff4c013b61cf96f2e394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689545603
+        }
+    ],
+    "wof:id":689545603,
+    "wof:lastmodified":1461774548,
+    "wof:name":"Oakland Yard Athletics LLC",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -83.394008,
+    42.660296,
+    -83.394008,
+    42.660296
+],
+  "geometry": {"coordinates":[-83.394008,42.660296],"type":"Point"}
+}

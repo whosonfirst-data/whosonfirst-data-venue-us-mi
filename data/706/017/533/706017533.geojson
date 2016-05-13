@@ -1,0 +1,73 @@
+{
+  "id": 706017533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.962143,43.467261,-85.962143,43.467261",
+    "geom:latitude":43.467261,
+    "geom:longitude":-85.962143,
+    "iso:country":"US",
+    "sg:address":"1043 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3360",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162nQp7d8W5vpUkkDhxd8F_43.467261_-85.962143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793950,
+    "wof:geomhash":"7930ab9d7254f49130ec8f0da272126a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706017533
+        }
+    ],
+    "wof:id":706017533,
+    "wof:lastmodified":1461793950,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -85.962143,
+    43.467261,
+    -85.962143,
+    43.467261
+],
+  "geometry": {"coordinates":[-85.962143,43.467261],"type":"Point"}
+}

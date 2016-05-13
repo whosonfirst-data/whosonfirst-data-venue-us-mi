@@ -1,0 +1,73 @@
+{
+  "id": 706204571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550825,42.270019,-85.550825,42.270019",
+    "geom:latitude":42.270019,
+    "geom:longitude":-85.550825,
+    "iso:country":"US",
+    "sg:address":"2013 Palmer Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 552 5253",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Rj1U2P6eVXla2XZsMYzP_42.270019_-85.550825@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798172,
+    "wof:geomhash":"c2f9ac1621c1bb3f451bfff37ad8a0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":706204571
+        }
+    ],
+    "wof:id":706204571,
+    "wof:lastmodified":1461798172,
+    "wof:name":"L & L Auto Care",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.550825,
+    42.270019,
+    -85.550825,
+    42.270019
+],
+  "geometry": {"coordinates":[-85.550825,42.270019],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689762077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.077879,45.795055,-87.077879,45.795055",
+    "geom:latitude":45.795055,
+    "geom:longitude":-87.077879,
+    "iso:country":"US",
+    "sg:address":"6835 US Hwy 41",
+    "sg:city":"Gladstone",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 000 1111",
+    "sg:postcode":"49837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t1ZJW7aHDZPVzOXFl8Q2o_45.795055_-87.077879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780815,
+    "wof:geomhash":"5e514bd201ead5f259d9c3c45f132fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689762077
+        }
+    ],
+    "wof:id":689762077,
+    "wof:lastmodified":1461780815,
+    "wof:name":"Michigan State Fire Dept",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.077879,
+    45.795055,
+    -87.077879,
+    45.795055
+],
+  "geometry": {"coordinates":[-87.077879,45.795055],"type":"Point"}
+}

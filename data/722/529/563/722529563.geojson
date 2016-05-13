@@ -1,0 +1,71 @@
+{
+  "id": 722529563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.185394,43.234234,-86.185394,43.234234",
+    "geom:latitude":43.234234,
+    "geom:longitude":-86.185394,
+    "iso:country":"US",
+    "sg:address":"2345 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 5555",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fWqc63zL9WHb1Ctf4WK2l_43.234234_-86.185394@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814391,
+    "wof:geomhash":"93de6a5f85348eae815757117f1af39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529563
+        }
+    ],
+    "wof:id":722529563,
+    "wof:lastmodified":1461814391,
+    "wof:name":"Pablo's Tacos",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.185394,
+    43.234234,
+    -86.185394,
+    43.234234
+],
+  "geometry": {"coordinates":[-86.185394,43.234234],"type":"Point"}
+}

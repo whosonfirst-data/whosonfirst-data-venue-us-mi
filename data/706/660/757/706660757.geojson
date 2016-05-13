@@ -1,0 +1,70 @@
+{
+  "id": 706660757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.461899,42.376099,-83.461899,42.376099",
+    "geom:latitude":42.376099,
+    "geom:longitude":-83.461899,
+    "iso:country":"US",
+    "sg:address":"307 Starkweather St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 3334",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.americantransmissions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kfhF2UCATFUWspdyBxtq0_42.376679_-83.461907@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808466,
+    "wof:geomhash":"835cbcef94ef5095768d0dca433c2d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706660757
+        }
+    ],
+    "wof:id":706660757,
+    "wof:lastmodified":1461808466,
+    "wof:name":"American Transmissions",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.461899,
+    42.376099,
+    -83.461899,
+    42.376099
+],
+  "geometry": {"coordinates":[-83.461899,42.376099],"type":"Point"}
+}

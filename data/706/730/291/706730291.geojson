@@ -1,0 +1,71 @@
+{
+  "id": 706730291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.150902,42.153099,-83.150902,42.153099",
+    "geom:latitude":42.153099,
+    "geom:longitude":-83.150902,
+    "iso:country":"US",
+    "sg:address":"21370 Knudsen Dr",
+    "sg:city":"Grosse Ile",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 675 5366",
+    "sg:postcode":"48138",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85867977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18argFZ7LAekdgm5lWilWb_42.153099_-83.150902@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811433,
+    "wof:geomhash":"d449aace6e5e63837c6fac11140d53bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85867977,
+            "region_id":85688599,
+            "venue_id":706730291
+        }
+    ],
+    "wof:id":706730291,
+    "wof:lastmodified":1461811433,
+    "wof:name":"Grosse Ile Memorial Cemetary Inc",
+    "wof:parent_id":85867977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -83.150902,
+    42.153099,
+    -83.150902,
+    42.153099
+],
+  "geometry": {"coordinates":[-83.150902,42.153099],"type":"Point"}
+}

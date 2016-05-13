@@ -1,0 +1,75 @@
+{
+  "id": 706651611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224454,43.220139,-86.224454,43.220139",
+    "geom:latitude":43.220139,
+    "geom:longitude":-86.224454,
+    "iso:country":"US",
+    "sg:address":"1745 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 2714",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05WLh0x9i47PaSnQv3IpTP_43.220139_-86.224454@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808022,
+    "wof:geomhash":"c0dadcaf489911618e13d677ce7ba80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706651611
+        }
+    ],
+    "wof:id":706651611,
+    "wof:lastmodified":1461808022,
+    "wof:name":"Roger's Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.224454,
+    43.220139,
+    -86.224454,
+    43.220139
+],
+  "geometry": {"coordinates":[-86.22445399999999,43.220139],"type":"Point"}
+}

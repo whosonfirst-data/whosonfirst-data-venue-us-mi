@@ -1,0 +1,71 @@
+{
+  "id": 689949145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.41012,41.914153,-83.41012,41.914153",
+    "geom:latitude":41.914153,
+    "geom:longitude":-83.41012,
+    "iso:country":"US",
+    "sg:address":"720 W 7th St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 5000",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aBQAryynAzTSM652NugQI_41.914153_-83.410120@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785836,
+    "wof:geomhash":"421d7b90d8f3c35a1103d97f49bd9d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689949145
+        }
+    ],
+    "wof:id":689949145,
+    "wof:lastmodified":1461785836,
+    "wof:name":"Harley Auto Repair",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.41012,
+    41.914153,
+    -83.41012,
+    41.914153
+],
+  "geometry": {"coordinates":[-83.41012000000001,41.914153],"type":"Point"}
+}

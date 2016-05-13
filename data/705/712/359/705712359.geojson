@@ -1,0 +1,71 @@
+{
+  "id": 705712359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.104562,46.478917,-90.104562,46.478917",
+    "geom:latitude":46.478917,
+    "geom:longitude":-90.104562,
+    "iso:country":"US",
+    "sg:address":"10504 Grandview Ln",
+    "sg:city":"Ironwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 932 3493",
+    "sg:postcode":"49938",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951285,
+        102083009,
+        85859297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IZuzszWByVmYACHCZFWeO_46.478917_-90.104562@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786954,
+    "wof:geomhash":"f75803684e3c75acd7b4cd123ac82da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951285,
+            "neighbourhood_id":85859297,
+            "region_id":85688599,
+            "venue_id":705712359
+        }
+    ],
+    "wof:id":705712359,
+    "wof:lastmodified":1461786954,
+    "wof:name":"James A Hamp MD",
+    "wof:parent_id":85859297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.104562,
+    46.478917,
+    -90.104562,
+    46.478917
+],
+  "geometry": {"coordinates":[-90.104562,46.478917],"type":"Point"}
+}

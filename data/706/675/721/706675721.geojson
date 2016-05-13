@@ -1,0 +1,86 @@
+{
+  "id": 706675721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.455958,43.024153,-82.455958,43.024153",
+    "geom:latitude":43.024153,
+    "geom:longitude":-82.455958,
+    "iso:country":"US",
+    "sg:address":"3961 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fort-gratiot/26910-big-boy-restaurants/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 985 9691",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1egZtbWrE6p9hjXjANoFFq_43.024153_-82.455958@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809105,
+    "wof:geomhash":"43669da7f5d2123890ba435b018f454e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706675721
+        }
+    ],
+    "wof:id":706675721,
+    "wof:lastmodified":1461809105,
+    "wof:name":"Big Boy Restaurants",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.455958,
+    43.024153,
+    -82.455958,
+    43.024153
+],
+  "geometry": {"coordinates":[-82.455958,43.024153],"type":"Point"}
+}

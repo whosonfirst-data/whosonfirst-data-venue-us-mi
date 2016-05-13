@@ -1,0 +1,82 @@
+{
+  "id": 689564041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280096,42.479092,-83.280096,42.479092",
+    "geom:latitude":42.479092,
+    "geom:longitude":-83.280096,
+    "iso:country":"US",
+    "sg:address":"24111 Civic Center Dr",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 358 4445",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896631,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_000kbrm4lcJPI67BuI4FdQ_42.479092_-83.280096@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775133,
+    "wof:geomhash":"b07bacd440898adb57dcf787f861e9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896631,
+            "region_id":85688599,
+            "venue_id":689564041
+        }
+    ],
+    "wof:id":689564041,
+    "wof:lastmodified":1461775133,
+    "wof:name":"Providence Senior Wellness Ctr",
+    "wof:parent_id":85896631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -83.280096,
+    42.479092,
+    -83.280096,
+    42.479092
+],
+  "geometry": {"coordinates":[-83.280096,42.479092],"type":"Point"}
+}

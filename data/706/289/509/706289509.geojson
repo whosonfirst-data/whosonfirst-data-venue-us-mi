@@ -1,0 +1,73 @@
+{
+  "id": 706289509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.950688,43.467045,-85.950688,43.467045",
+    "geom:latitude":43.467045,
+    "geom:longitude":-85.950688,
+    "iso:country":"US",
+    "sg:address":"204 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1800",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r3Gx5E14dUWIBDTzEe73d_43.467045_-85.950688@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800078,
+    "wof:geomhash":"dc3fa12d136cf5bac02fa342a8e35986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706289509
+        }
+    ],
+    "wof:id":706289509,
+    "wof:lastmodified":1461800078,
+    "wof:name":"Pine Medical Group",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.950688,
+    43.467045,
+    -85.950688,
+    43.467045
+],
+  "geometry": {"coordinates":[-85.950688,43.467045],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706688951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.423181,42.263552,-84.423181,42.263552",
+    "geom:latitude":42.263552,
+    "geom:longitude":-84.423181,
+    "iso:country":"US",
+    "sg:address":"1205 N West Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/jackson/200501-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 4405",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OUFBwInX9NraSwnEwbxgy_42.263125_-84.423278@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809631,
+    "wof:geomhash":"0bc8f6972b7d5c6e0e44f1d8028af9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706688951
+        }
+    ],
+    "wof:id":706688951,
+    "wof:lastmodified":1461809631,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.423181,
+    42.263552,
+    -84.423181,
+    42.263552
+],
+  "geometry": {"coordinates":[-84.423181,42.263552],"type":"Point"}
+}

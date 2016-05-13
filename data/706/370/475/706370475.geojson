@@ -1,0 +1,71 @@
+{
+  "id": 706370475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720037,43.021075,-83.720037,43.021075",
+    "geom:latitude":43.021075,
+    "geom:longitude":-83.720037,
+    "iso:country":"US",
+    "sg:address":"2434 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 233 9399",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n7Nl9VsVKy46mbPQSZ5uf_43.021075_-83.720037@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801817,
+    "wof:geomhash":"1eb9989de2b0da925e821d16ac7b3959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706370475
+        }
+    ],
+    "wof:id":706370475,
+    "wof:lastmodified":1461801817,
+    "wof:name":"Severance Service & Auto Rpr",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.720037,
+    43.021075,
+    -83.720037,
+    43.021075
+],
+  "geometry": {"coordinates":[-83.720037,43.021075],"type":"Point"}
+}

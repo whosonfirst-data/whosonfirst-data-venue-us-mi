@@ -1,0 +1,78 @@
+{
+  "id": 706678797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.102987,42.306834,-83.102987,42.306834",
+    "geom:latitude":42.306834,
+    "geom:longitude":-83.102987,
+    "iso:country":"US",
+    "sg:address":"6260 W Fort St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/246733-toms/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 849 0614",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820253,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ybwFU9A24TFWGajf9Sds_42.306834_-83.102987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809237,
+    "wof:geomhash":"be54a2accea7ee94c8c691792ef256d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85820253,
+            "region_id":85688599,
+            "venue_id":706678797
+        }
+    ],
+    "wof:id":706678797,
+    "wof:lastmodified":1461809237,
+    "wof:name":"Tom's",
+    "wof:parent_id":85820253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.102987,
+    42.306834,
+    -83.102987,
+    42.306834
+],
+  "geometry": {"coordinates":[-83.102987,42.306834],"type":"Point"}
+}

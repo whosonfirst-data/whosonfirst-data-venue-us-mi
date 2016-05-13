@@ -1,0 +1,76 @@
+{
+  "id": 722479623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.076797,42.375198,-83.076797,42.375198",
+    "geom:latitude":42.375198,
+    "geom:longitude":-83.076797,
+    "iso:country":"US",
+    "sg:address":"8201 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 873 9133",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870609,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RGS7XlB00xahOBzfMqXPK_42.375198_-83.076797@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812268,
+    "wof:geomhash":"e44938f77ee16462c8581dabf24ca7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":722479623
+        }
+    ],
+    "wof:id":722479623,
+    "wof:lastmodified":1461812268,
+    "wof:name":"Burger King",
+    "wof:parent_id":85870609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -83.076797,
+    42.375198,
+    -83.076797,
+    42.375198
+],
+  "geometry": {"coordinates":[-83.076797,42.375198],"type":"Point"}
+}

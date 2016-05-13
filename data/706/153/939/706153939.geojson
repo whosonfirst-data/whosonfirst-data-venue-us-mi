@@ -1,0 +1,73 @@
+{
+  "id": 706153939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.397771,44.262643,-85.397771,44.262643",
+    "geom:latitude":44.262643,
+    "geom:longitude":-85.397771,
+    "iso:country":"US",
+    "sg:address":"1030 Sundberg St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 9490",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FwAL08KToCa0MPtWglSA1_44.262643_-85.397771@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797067,
+    "wof:geomhash":"fe6a41842808a4e1c53e69a5876112d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706153939
+        }
+    ],
+    "wof:id":706153939,
+    "wof:lastmodified":1461797067,
+    "wof:name":"Cronkhite's Waste Svc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.397771,
+    44.262643,
+    -85.397771,
+    44.262643
+],
+  "geometry": {"coordinates":[-85.39777100000001,44.262643],"type":"Point"}
+}

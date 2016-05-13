@@ -1,0 +1,75 @@
+{
+  "id": 689496613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.670078,42.89613,-85.670078,42.89613",
+    "geom:latitude":42.89613,
+    "geom:longitude":-85.670078,
+    "iso:country":"US",
+    "sg:address":"3818 Buchanan Ave SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 514 5055",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XIolkVoGLYLemWWWwXHYN_42.896130_-85.670078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773004,
+    "wof:geomhash":"ac1b18b096bcf29a8b62b79179003ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":689496613
+        }
+    ],
+    "wof:id":689496613,
+    "wof:lastmodified":1461773004,
+    "wof:name":"Terry's Transmission Svc",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.670078,
+    42.89613,
+    -85.670078,
+    42.89613
+],
+  "geometry": {"coordinates":[-85.670078,42.89613],"type":"Point"}
+}

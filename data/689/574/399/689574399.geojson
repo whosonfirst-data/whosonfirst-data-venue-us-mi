@@ -1,0 +1,71 @@
+{
+  "id": 689574399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.199489,43.087483,-86.199489,43.087483",
+    "geom:latitude":43.087483,
+    "geom:longitude":-86.199489,
+    "iso:country":"US",
+    "sg:address":"17596 Williams St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 9955",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZdrjKJQ2ANZD1FFFFHprD_43.087483_-86.199489@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775420,
+    "wof:geomhash":"65a3b5ccd82ac44b0e2da9dc7178aba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689574399
+        }
+    ],
+    "wof:id":689574399,
+    "wof:lastmodified":1461775420,
+    "wof:name":"Citgo Quick Lube",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.199489,
+    43.087483,
+    -86.199489,
+    43.087483
+],
+  "geometry": {"coordinates":[-86.199489,43.087483],"type":"Point"}
+}

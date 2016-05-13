@@ -1,0 +1,73 @@
+{
+  "id": 706140551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250574,41.78094,-86.250574,41.78094",
+    "geom:latitude":41.78094,
+    "geom:longitude":-86.250574,
+    "iso:country":"US",
+    "sg:address":"2401 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2235",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_657CrcVgZ7fZlgXI8iUvCS_41.780940_-86.250574@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796769,
+    "wof:geomhash":"3ebbb8d95701b578ef9912459e92bed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706140551
+        }
+    ],
+    "wof:id":706140551,
+    "wof:lastmodified":1461796769,
+    "wof:name":"Ryder Truck Rental",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.250574,
+    41.78094,
+    -86.250574,
+    41.78094
+],
+  "geometry": {"coordinates":[-86.250574,41.78094],"type":"Point"}
+}

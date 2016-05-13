@@ -1,0 +1,91 @@
+{
+  "id": 689706775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.079858,42.46198,-83.079858,42.46198",
+    "geom:latitude":42.46198,
+    "geom:longitude":-83.079858,
+    "iso:country":"US",
+    "sg:address":"2323 E 9 Mile Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 757 9130",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524399,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524611,
+        404508191,
+        85952063,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w962M68ZncshIYY2ymmCf_42.461980_-83.079858@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779310,
+    "wof:geomhash":"62b4178333b218863e7b943a39dfc446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524399,
+            "region_id":85688599,
+            "venue_id":689706775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":420524611,
+            "region_id":85688599,
+            "venue_id":689706775
+        }
+    ],
+    "wof:id":689706775,
+    "wof:lastmodified":1461779310,
+    "wof:name":"Motorcity Auto Wholesale",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.079858,
+    42.46198,
+    -83.079858,
+    42.46198
+],
+  "geometry": {"coordinates":[-83.079858,42.46198],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 706679579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.133637,42.677226,-83.133637,42.677226",
+    "geom:latitude":42.677226,
+    "geom:longitude":-83.133637,
+    "iso:country":"US",
+    "sg:address":"117 S Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester/10977-woodys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 601 3200",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27XN4MrXUEdcpDMeFHxsVQ_42.677226_-83.133637@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809265,
+    "wof:geomhash":"d528c5e302748d4681f539f5dc61395a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":706679579
+        }
+    ],
+    "wof:id":706679579,
+    "wof:lastmodified":1461809265,
+    "wof:name":"Woody's",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.133637,
+    42.677226,
+    -83.133637,
+    42.677226
+],
+  "geometry": {"coordinates":[-83.13363699999999,42.677226],"type":"Point"}
+}

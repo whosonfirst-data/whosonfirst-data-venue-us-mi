@@ -1,0 +1,77 @@
+{
+  "id": 689744339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.438045,42.19926,-84.438045,42.19926",
+    "geom:latitude":42.19926,
+    "geom:longitude":-84.438045,
+    "iso:country":"US",
+    "sg:address":"2121 Ferguson Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 4115",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "executive"
+    ],
+    "sg:website":"www.summittownship.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OKbD9YLBlA73GeviasG1I_42.199260_-84.438045@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780304,
+    "wof:geomhash":"d11b7bf7bc02603ee97d4b77b5caca1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689744339
+        }
+    ],
+    "wof:id":689744339,
+    "wof:lastmodified":1461780304,
+    "wof:name":"Summit Township Fire Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "executive"
+    ]
+},
+  "bbox": [
+    -84.438045,
+    42.19926,
+    -84.438045,
+    42.19926
+],
+  "geometry": {"coordinates":[-84.438045,42.19926],"type":"Point"}
+}

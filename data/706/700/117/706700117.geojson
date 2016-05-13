@@ -1,0 +1,69 @@
+{
+  "id": 706700117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.960602,42.6129,-82.960602,42.6129",
+    "geom:latitude":42.6129,
+    "geom:longitude":-82.960602,
+    "iso:country":"US",
+    "sg:address":"15855 19 Mile Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 2300",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HFb65xe5MLBHR2dxpMMC4_42.612900_-82.960602@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810082,
+    "wof:geomhash":"3d438b53bbf39aa5aca8a709a299fd75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706700117
+        }
+    ],
+    "wof:id":706700117,
+    "wof:lastmodified":1461810082,
+    "wof:name":"St Joseph's Mercy-West Hospital",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.960602,
+    42.6129,
+    -82.960602,
+    42.6129
+],
+  "geometry": {"coordinates":[-82.96060199999999,42.6129],"type":"Point"}
+}

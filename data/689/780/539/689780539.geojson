@@ -1,0 +1,71 @@
+{
+  "id": 689780539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.360471,42.834552,-85.360471,42.834552",
+    "geom:latitude":42.834552,
+    "geom:longitude":-85.360471,
+    "iso:country":"US",
+    "sg:address":"12403 72nd St SE",
+    "sg:city":"Alto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 868 6789",
+    "sg:postcode":"49302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85833173,
+        102083023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fW9PdrQGGGxqBs48xs4qC_42.834552_-85.360471@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781276,
+    "wof:geomhash":"beb0fee0fb22c7e7f07c8b1b292e370a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "neighbourhood_id":85833173,
+            "region_id":85688599,
+            "venue_id":689780539
+        }
+    ],
+    "wof:id":689780539,
+    "wof:lastmodified":1461781276,
+    "wof:name":"Harkness Excavating",
+    "wof:parent_id":85833173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.360471,
+    42.834552,
+    -85.360471,
+    42.834552
+],
+  "geometry": {"coordinates":[-85.360471,42.834552],"type":"Point"}
+}

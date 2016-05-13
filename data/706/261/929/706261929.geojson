@@ -1,0 +1,87 @@
+{
+  "id": 706261929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.879941,42.463269,-82.879941,42.463269",
+    "geom:latitude":42.463269,
+    "geom:longitude":-82.879941,
+    "iso:country":"US",
+    "sg:address":"914 Shore Club Dr",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 775 0028",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524409,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YQdee7tCDPDXFNfrJDldl_42.463269_-82.879941@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799445,
+    "wof:geomhash":"827fd5a8b0da0659ed4fe5c83d8412bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":706261929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":706261929
+        }
+    ],
+    "wof:id":706261929,
+    "wof:lastmodified":1461799445,
+    "wof:name":"Le Roy Painting & Decorating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -82.879941,
+    42.463269,
+    -82.879941,
+    42.463269
+],
+  "geometry": {"coordinates":[-82.879941,42.463269],"type":"Point"}
+}

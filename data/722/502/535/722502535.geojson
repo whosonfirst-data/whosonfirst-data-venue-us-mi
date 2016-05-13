@@ -1,0 +1,71 @@
+{
+  "id": 722502535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.301102,42.370701,-83.301102,42.370701",
+    "geom:latitude":42.370701,
+    "geom:longitude":-83.301102,
+    "iso:country":"US",
+    "sg:address":"25950 Plymouth Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 937 3533",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896775,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jkX2iNv7bKKIohtFNLdR9_42.370701_-83.301102@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813169,
+    "wof:geomhash":"bfda882091e90f17c415213793ba04bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896775,
+            "region_id":85688599,
+            "venue_id":722502535
+        }
+    ],
+    "wof:id":722502535,
+    "wof:lastmodified":1461813169,
+    "wof:name":"Amato's Collision",
+    "wof:parent_id":85896775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.301102,
+    42.370701,
+    -83.301102,
+    42.370701
+],
+  "geometry": {"coordinates":[-83.301102,42.370701],"type":"Point"}
+}

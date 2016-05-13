@@ -1,0 +1,71 @@
+{
+  "id": 689828907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065363,45.817603,-88.065363,45.817603",
+    "geom:latitude":45.817603,
+    "geom:longitude":-88.065363,
+    "iso:country":"US",
+    "sg:address":"212 E B St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2990",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01kJ26iF5B8vyedpRd2Ef5_45.817603_-88.065363@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782766,
+    "wof:geomhash":"5864a79bb6447bf0794f4faf3d38b140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689828907
+        }
+    ],
+    "wof:id":689828907,
+    "wof:lastmodified":1461782766,
+    "wof:name":"Douglas L Villa MD",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.065363,
+    45.817603,
+    -88.065363,
+    45.817603
+],
+  "geometry": {"coordinates":[-88.065363,45.817603],"type":"Point"}
+}

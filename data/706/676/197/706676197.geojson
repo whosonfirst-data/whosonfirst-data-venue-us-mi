@@ -1,0 +1,91 @@
+{
+  "id": 706676197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.107212,42.541303,-83.107212,42.541303",
+    "geom:latitude":42.541303,
+    "geom:longitude":-83.107212,
+    "iso:country":"US",
+    "sg:address":"740 John R Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/troy/64332-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 616 0696",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85896589,
+        404508209,
+        85952031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HOqeg6OaSF108empPzADH_42.541303_-83.107212@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809128,
+    "wof:geomhash":"2d5ac1541231656661a858826d33eec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":706676197
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":706676197
+        }
+    ],
+    "wof:id":706676197,
+    "wof:lastmodified":1461809128,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.107212,
+    42.541303,
+    -83.107212,
+    42.541303
+],
+  "geometry": {"coordinates":[-83.107212,42.541303],"type":"Point"}
+}

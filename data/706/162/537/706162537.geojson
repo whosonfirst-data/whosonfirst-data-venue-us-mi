@@ -1,0 +1,80 @@
+{
+  "id": 706162537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.444736,42.245698,-84.444736,42.245698",
+    "geom:latitude":42.245698,
+    "geom:longitude":-84.444736,
+    "iso:country":"US",
+    "sg:address":"2424 W Washington Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 4001",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51QLW2upDLLSEaZla2qlvb_42.245698_-84.444736@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797263,
+    "wof:geomhash":"0cddef4657cd8a05324ec894758015a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706162537
+        }
+    ],
+    "wof:id":706162537,
+    "wof:lastmodified":1461797263,
+    "wof:name":"Washington Way Recovery Center",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.444736,
+    42.245698,
+    -84.444736,
+    42.245698
+],
+  "geometry": {"coordinates":[-84.44473600000001,42.245698],"type":"Point"}
+}

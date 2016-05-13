@@ -1,0 +1,79 @@
+{
+  "id": 706699879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952336,42.596188,-82.952336,42.596188",
+    "geom:latitude":42.596188,
+    "geom:longitude":-82.952336,
+    "iso:country":"US",
+    "sg:address":"40696 Garfield",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 649 0247",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.vcaclintontownship.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S08NOt7L98h3jhPNO3X61_42.596188_-82.952336@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810073,
+    "wof:geomhash":"2083024c028776916a1cdcea879e8f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706699879
+        }
+    ],
+    "wof:id":706699879,
+    "wof:lastmodified":1461810073,
+    "wof:name":"VCA Clinton Township Animal Hospital",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -82.952336,
+    42.596188,
+    -82.952336,
+    42.596188
+],
+  "geometry": {"coordinates":[-82.952336,42.596188],"type":"Point"}
+}

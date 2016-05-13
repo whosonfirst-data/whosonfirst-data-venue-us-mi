@@ -1,0 +1,73 @@
+{
+  "id": 706653151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590855,42.978356,-85.590855,42.978356",
+    "geom:latitude":42.978356,
+    "geom:longitude":-85.590855,
+    "iso:country":"US",
+    "sg:address":"1001 E Beltline Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 285 9451",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aOzOP9iXZ0cZmFx1q898g_42.978356_-85.590855@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808092,
+    "wof:geomhash":"1d3a9cef391cd3aa9d7cf899aae4fa11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706653151
+        }
+    ],
+    "wof:id":706653151,
+    "wof:lastmodified":1461808092,
+    "wof:name":"Miller Library",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -85.590855,
+    42.978356,
+    -85.590855,
+    42.978356
+],
+  "geometry": {"coordinates":[-85.590855,42.978356],"type":"Point"}
+}

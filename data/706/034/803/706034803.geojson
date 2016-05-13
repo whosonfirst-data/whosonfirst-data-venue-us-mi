@@ -1,0 +1,73 @@
+{
+  "id": 706034803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.171179,43.219634,-86.171179,43.219634",
+    "geom:latitude":43.219634,
+    "geom:longitude":-86.171179,
+    "iso:country":"US",
+    "sg:address":"3187 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 4695",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ym1ZIXPWC90gVHmGEWHPl_43.219634_-86.171179@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794304,
+    "wof:geomhash":"0c73deda2db09ecee13e85f55559e05d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706034803
+        }
+    ],
+    "wof:id":706034803,
+    "wof:lastmodified":1461794304,
+    "wof:name":"Mike's Automotive",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.171179,
+    43.219634,
+    -86.171179,
+    43.219634
+],
+  "geometry": {"coordinates":[-86.171179,43.219634],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705834535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.214209,43.207149,-86.214209,43.207149",
+    "geom:latitude":43.207149,
+    "geom:longitude":-86.214209,
+    "iso:country":"US",
+    "sg:address":"1223 Mercy Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 3177",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSuXWCry6QDYXTyuyzeSx_43.207149_-86.214209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789834,
+    "wof:geomhash":"5728dfdef95058418a27d5cd033bf4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705834535
+        }
+    ],
+    "wof:id":705834535,
+    "wof:lastmodified":1461789834,
+    "wof:name":"West Shore Family Medicne",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.214209,
+    43.207149,
+    -86.214209,
+    43.207149
+],
+  "geometry": {"coordinates":[-86.214209,43.207149],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706139445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605324,42.26039,-84.605324,42.26039",
+    "geom:latitude":42.26039,
+    "geom:longitude":-84.605324,
+    "iso:country":"US",
+    "sg:address":"450 W Michigan Ave",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 531 3426",
+    "sg:postcode":"49269",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S4DELdy1f5ChTX1LlunNq_42.260390_-84.605324@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796749,
+    "wof:geomhash":"36015651011b4554f2e27d04893e4e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706139445
+        }
+    ],
+    "wof:id":706139445,
+    "wof:lastmodified":1461796749,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -84.605324,
+    42.26039,
+    -84.605324,
+    42.26039
+],
+  "geometry": {"coordinates":[-84.605324,42.26039],"type":"Point"}
+}

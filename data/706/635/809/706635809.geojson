@@ -1,0 +1,69 @@
+{
+  "id": 706635809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.385607,42.235196,-84.385607,42.235196",
+    "geom:latitude":42.235196,
+    "geom:longitude":-84.385607,
+    "iso:country":"US",
+    "sg:address":"1414 Locust St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 3851",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdpiYZ941mEzmKLXRpHcD_42.235196_-84.385607@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807492,
+    "wof:geomhash":"d73eee074c92cc44baa511588755e3d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706635809
+        }
+    ],
+    "wof:id":706635809,
+    "wof:lastmodified":1461807492,
+    "wof:name":"City's Express",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -84.385607,
+    42.235196,
+    -84.385607,
+    42.235196
+],
+  "geometry": {"coordinates":[-84.38560699999999,42.235196],"type":"Point"}
+}

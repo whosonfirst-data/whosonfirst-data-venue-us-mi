@@ -1,0 +1,71 @@
+{
+  "id": 706132217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637852,42.275954,-85.637852,42.275954",
+    "geom:latitude":42.275954,
+    "geom:longitude":-85.637852,
+    "iso:country":"US",
+    "sg:address":"3824 Pine Ter",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 8018",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJyPPDEs62EHdRffH6yLk_42.275954_-85.637852@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796575,
+    "wof:geomhash":"b8865c9f2f98c497d969b05cbc42f010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706132217
+        }
+    ],
+    "wof:id":706132217,
+    "wof:lastmodified":1461796575,
+    "wof:name":"Western Pines Apartments",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.637852,
+    42.275954,
+    -85.637852,
+    42.275954
+],
+  "geometry": {"coordinates":[-85.637852,42.275954],"type":"Point"}
+}

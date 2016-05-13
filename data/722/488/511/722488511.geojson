@@ -1,0 +1,85 @@
+{
+  "id": 722488511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.11374,42.457166,-83.11374,42.457166",
+    "geom:latitude":42.457166,
+    "geom:longitude":-83.11374,
+    "iso:country":"US",
+    "sg:address":"1505 Jarvis St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 999 5157",
+    "sg:postcode":"48220",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.bnektar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896687,
+        102191575,
+        404508191,
+        85633793,
+        85952063,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vMSbBnhKlP3WVjhcoNCu0_42.457166_-83.113740@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812618,
+    "wof:geomhash":"0fb73a9c3cd70852add327d2dfdb1bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":85896687,
+            "region_id":85688599,
+            "venue_id":722488511
+        }
+    ],
+    "wof:id":722488511,
+    "wof:lastmodified":1461812618,
+    "wof:name":"B Nektar Meadery",
+    "wof:parent_id":85896687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.11374,
+    42.457166,
+    -83.11374,
+    42.457166
+],
+  "geometry": {"coordinates":[-83.11374000000001,42.457166],"type":"Point"}
+}

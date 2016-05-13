@@ -1,0 +1,74 @@
+{
+  "id": 689656255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.439255,42.247328,-84.439255,42.247328",
+    "geom:latitude":42.247328,
+    "geom:longitude":-84.439255,
+    "iso:country":"US",
+    "sg:address":"1803 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 9000",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GJwKt8Ihx3bsNXnMYlpWv_42.247328_-84.439255@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778027,
+    "wof:geomhash":"a0afff81e65a899a77c6967464e17769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689656255
+        }
+    ],
+    "wof:id":689656255,
+    "wof:lastmodified":1461778027,
+    "wof:name":"Medaware Jewelers",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -84.439255,
+    42.247328,
+    -84.439255,
+    42.247328
+],
+  "geometry": {"coordinates":[-84.439255,42.247328],"type":"Point"}
+}

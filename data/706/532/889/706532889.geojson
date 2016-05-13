@@ -1,0 +1,73 @@
+{
+  "id": 706532889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589387,44.397565,-85.589387,44.397565",
+    "geom:latitude":44.397565,
+    "geom:longitude":-85.589387,
+    "iso:country":"US",
+    "sg:address":"451 W 18 Rd",
+    "sg:city":"Mesick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 885 2202",
+    "sg:postcode":"49668",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GrLj8To9cYwptP9IMuneT_44.397565_-85.589387@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805291,
+    "wof:geomhash":"1798eb5670c37abc47ac576b51fd111c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706532889
+        }
+    ],
+    "wof:id":706532889,
+    "wof:lastmodified":1461805291,
+    "wof:name":"Larry's Excavating",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.589387,
+    44.397565,
+    -85.589387,
+    44.397565
+],
+  "geometry": {"coordinates":[-85.589387,44.397565],"type":"Point"}
+}

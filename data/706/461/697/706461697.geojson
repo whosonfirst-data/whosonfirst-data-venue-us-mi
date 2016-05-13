@@ -1,0 +1,71 @@
+{
+  "id": 706461697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.413502,42.339329,-84.413502,42.339329",
+    "geom:latitude":42.339329,
+    "geom:longitude":-84.413502,
+    "iso:country":"US",
+    "sg:address":"6525 Lansing Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 9221",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NoWLKkkvLRJYgeDPb8uVa_42.339329_-84.413502@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803674,
+    "wof:geomhash":"896c39eca0725db5086f16e681ce7082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706461697
+        }
+    ],
+    "wof:id":706461697,
+    "wof:lastmodified":1461803674,
+    "wof:name":"Northwest Auto Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.413502,
+    42.339329,
+    -84.413502,
+    42.339329
+],
+  "geometry": {"coordinates":[-84.41350199999999,42.339329],"type":"Point"}
+}

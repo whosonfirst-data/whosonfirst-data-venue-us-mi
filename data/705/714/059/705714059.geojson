@@ -1,0 +1,83 @@
+{
+  "id": 705714059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362224,42.577308,-83.362224,42.577308",
+    "geom:latitude":42.577308,
+    "geom:longitude":-83.362224,
+    "iso:country":"US",
+    "sg:address":"4133 Orchard Lake Rd",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 855 3541",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A4ov3zcdztVkVndifeILb_42.577308_-83.362224@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787013,
+    "wof:geomhash":"3256f56dfb00df8b830831ec728119f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":705714059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":705714059
+        }
+    ],
+    "wof:id":705714059,
+    "wof:lastmodified":1461787013,
+    "wof:name":"Always Summer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -83.362224,
+    42.577308,
+    -83.362224,
+    42.577308
+],
+  "geometry": {"coordinates":[-83.362224,42.577308],"type":"Point"}
+}

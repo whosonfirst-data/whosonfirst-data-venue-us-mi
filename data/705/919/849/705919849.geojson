@@ -1,0 +1,71 @@
+{
+  "id": 705919849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.217704,43.082517,-86.217704,43.082517",
+    "geom:latitude":43.082517,
+    "geom:longitude":-86.217704,
+    "iso:country":"US",
+    "sg:address":"408 5th St",
+    "sg:city":"Ferrysburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 1165",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HdbNc251RRj1PukPWUD0s_43.082517_-86.217704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791839,
+    "wof:geomhash":"f842b1ccbe8f7b524279340808929106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705919849
+        }
+    ],
+    "wof:id":705919849,
+    "wof:lastmodified":1461791839,
+    "wof:name":"Ferrysburg Fire Dept",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.217704,
+    43.082517,
+    -86.217704,
+    43.082517
+],
+  "geometry": {"coordinates":[-86.217704,43.082517],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706448941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.08,43.23508,-86.08,43.23508",
+    "geom:latitude":43.23508,
+    "geom:longitude":-86.08,
+    "iso:country":"US",
+    "sg:address":"6720 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3766",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VtjDcPDd8OQsvfKVsUEgl_43.235080_-86.080000@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803409,
+    "wof:geomhash":"b1b1f2b62b49b419e91383ef5b82606d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706448941
+        }
+    ],
+    "wof:id":706448941,
+    "wof:lastmodified":1461803409,
+    "wof:name":"Apple Avenue Auto Sales",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -86.08,
+    43.23508,
+    -86.08,
+    43.23508
+],
+  "geometry": {"coordinates":[-86.08,43.23508],"type":"Point"}
+}

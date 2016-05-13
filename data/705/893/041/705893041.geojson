@@ -1,0 +1,79 @@
+{
+  "id": 705893041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.02348,42.399443,-83.02348,42.399443",
+    "geom:latitude":42.399443,
+    "geom:longitude":-83.02348,
+    "iso:country":"US",
+    "sg:address":"7390 Marjorie St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 923 8192",
+    "sg:postcode":"48213",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pe2z0peXwejnRyGYqBig6_42.399443_-83.023480@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791248,
+    "wof:geomhash":"a4fd9c7c7e0c812392f0ed8201e0e84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":705893041
+        }
+    ],
+    "wof:id":705893041,
+    "wof:lastmodified":1461791248,
+    "wof:name":"Two Hands Delivery",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.02348,
+    42.399443,
+    -83.02348,
+    42.399443
+],
+  "geometry": {"coordinates":[-83.02348000000001,42.399443],"type":"Point"}
+}

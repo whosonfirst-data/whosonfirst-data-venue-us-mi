@@ -1,0 +1,71 @@
+{
+  "id": 705983519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209438,43.234228,-86.209438,43.234228",
+    "geom:latitude":43.234228,
+    "geom:longitude":-86.209438,
+    "iso:country":"US",
+    "sg:address":"1314 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 2568",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58XmcSnBcrqW5Z2NfCOBDo_43.234228_-86.209438@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793237,
+    "wof:geomhash":"30c3f98de0a9a73b41f5cc932edd7b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705983519
+        }
+    ],
+    "wof:id":705983519,
+    "wof:lastmodified":1461793237,
+    "wof:name":"Tri Cunty Orthopaedic Assoc PC",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -86.209438,
+    43.234228,
+    -86.209438,
+    43.234228
+],
+  "geometry": {"coordinates":[-86.20943800000001,43.234228],"type":"Point"}
+}

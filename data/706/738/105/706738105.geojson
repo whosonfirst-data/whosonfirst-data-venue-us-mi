@@ -1,0 +1,71 @@
+{
+  "id": 706738105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398693,42.222233,-83.398693,42.222233",
+    "geom:latitude":42.222233,
+    "geom:longitude":-83.398693,
+    "iso:country":"US",
+    "sg:address":"36628 Goddard Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 229 0005",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3onAjlbtifTaXGjxsrxgDk_42.222233_-83.398693@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811738,
+    "wof:geomhash":"439c2543674d8e48acdb2d223e6d3c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706738105
+        }
+    ],
+    "wof:id":706738105,
+    "wof:lastmodified":1461811738,
+    "wof:name":"Fluff N Puff Pet Grooming",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.398693,
+    42.222233,
+    -83.398693,
+    42.222233
+],
+  "geometry": {"coordinates":[-83.39869299999999,42.222233],"type":"Point"}
+}

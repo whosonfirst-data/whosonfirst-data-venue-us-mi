@@ -1,0 +1,78 @@
+{
+  "id": 706678975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.140591,42.411232,-83.140591,42.411232",
+    "geom:latitude":42.411232,
+    "geom:longitude":-83.140591,
+    "iso:country":"US",
+    "sg:address":"16245 Livernois Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/197288-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 341 9110",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870615,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MbFx6gvME2SYQUWTif6Ko_42.411232_-83.140591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809244,
+    "wof:geomhash":"436c73df8842875277b3b276d8fd2611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870615,
+            "region_id":85688599,
+            "venue_id":706678975
+        }
+    ],
+    "wof:id":706678975,
+    "wof:lastmodified":1461809244,
+    "wof:name":"Burger King",
+    "wof:parent_id":85870615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.140591,
+    42.411232,
+    -83.140591,
+    42.411232
+],
+  "geometry": {"coordinates":[-83.140591,42.411232],"type":"Point"}
+}

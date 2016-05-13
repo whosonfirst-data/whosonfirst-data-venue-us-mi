@@ -1,0 +1,69 @@
+{
+  "id": 706512727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.393633,42.212134,-84.393633,42.212134",
+    "geom:latitude":42.212134,
+    "geom:longitude":-84.393633,
+    "iso:country":"US",
+    "sg:address":"3309 Fairview Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 812 7380",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ktm0OEU6AkUsx3VzL3mEt_42.212134_-84.393633@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804898,
+    "wof:geomhash":"651c3ec26e52c7a7216824ec3ab36e8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706512727
+        }
+    ],
+    "wof:id":706512727,
+    "wof:lastmodified":1461804898,
+    "wof:name":"M & R Reconditioning",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.393633,
+    42.212134,
+    -84.393633,
+    42.212134
+],
+  "geometry": {"coordinates":[-84.39363299999999,42.212134],"type":"Point"}
+}

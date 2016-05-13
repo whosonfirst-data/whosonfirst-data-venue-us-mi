@@ -1,0 +1,71 @@
+{
+  "id": 706563451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.262856,42.518686,-83.262856,42.518686",
+    "geom:latitude":42.518686,
+    "geom:longitude":-83.262856,
+    "iso:country":"US",
+    "sg:address":"31001 Lahser Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 645 2000",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commission",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bvj0B3hL48YYEOJzOpdRk_42.518686_-83.262856@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805921,
+    "wof:geomhash":"327e157e38e2372888f1d58e79066b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706563451
+        }
+    ],
+    "wof:id":706563451,
+    "wof:lastmodified":1461805921,
+    "wof:name":"Road Comm For Oakland Cnty",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commission",
+        "road"
+    ]
+},
+  "bbox": [
+    -83.262856,
+    42.518686,
+    -83.262856,
+    42.518686
+],
+  "geometry": {"coordinates":[-83.262856,42.518686],"type":"Point"}
+}

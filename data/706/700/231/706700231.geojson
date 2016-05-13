@@ -1,0 +1,70 @@
+{
+  "id": 706700231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952499,42.5979,-82.952499,42.5979",
+    "geom:latitude":42.5979,
+    "geom:longitude":-82.952499,
+    "iso:country":"US",
+    "sg:address":"40925 Garfield Rd",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 652 2227",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32CDzDkUlp27p7lqLvd6Wz_42.597900_-82.952499@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810092,
+    "wof:geomhash":"b9cd4bfef5a6ff077550677224be1ab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706700231
+        }
+    ],
+    "wof:id":706700231,
+    "wof:lastmodified":1461810092,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -82.952499,
+    42.5979,
+    -82.952499,
+    42.5979
+],
+  "geometry": {"coordinates":[-82.952499,42.5979],"type":"Point"}
+}

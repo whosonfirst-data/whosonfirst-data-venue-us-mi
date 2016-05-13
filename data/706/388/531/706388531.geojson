@@ -1,0 +1,71 @@
+{
+  "id": 706388531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.53478,42.672803,-84.53478,42.672803",
+    "geom:latitude":42.672803,
+    "geom:longitude":-84.53478,
+    "iso:country":"US",
+    "sg:address":"5848 Executive Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 8222",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08CarmW8fBmm0fj60CJjy0_42.672803_-84.534780@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802173,
+    "wof:geomhash":"5504604c78824ad1a647cf20ce7adabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706388531
+        }
+    ],
+    "wof:id":706388531,
+    "wof:lastmodified":1461802173,
+    "wof:name":"Prasad Jwala MD",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -84.53478,
+    42.672803,
+    -84.53478,
+    42.672803
+],
+  "geometry": {"coordinates":[-84.53478,42.672803],"type":"Point"}
+}

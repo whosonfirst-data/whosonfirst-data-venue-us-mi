@@ -1,0 +1,71 @@
+{
+  "id": 706691477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222702,42.5578,-83.222702,42.5578",
+    "geom:latitude":42.5578,
+    "geom:longitude":-83.222702,
+    "iso:country":"US",
+    "sg:address":"33502 Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 645 2453",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FNJP98EGX932xzxIcP8ka_42.557800_-83.222702@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809732,
+    "wof:geomhash":"f04ccdde2b8a538bb4547ca1706b4d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":706691477
+        }
+    ],
+    "wof:id":706691477,
+    "wof:lastmodified":1461809732,
+    "wof:name":"Jerry's Bicycles of Birmingham",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -83.222702,
+    42.5578,
+    -83.222702,
+    42.5578
+],
+  "geometry": {"coordinates":[-83.222702,42.5578],"type":"Point"}
+}

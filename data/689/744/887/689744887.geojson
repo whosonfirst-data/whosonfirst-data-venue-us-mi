@@ -1,0 +1,72 @@
+{
+  "id": 689744887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.574443,42.233095,-85.574443,42.233095",
+    "geom:latitude":42.233095,
+    "geom:longitude":-85.574443,
+    "iso:country":"US",
+    "sg:address":"5942 Lovers Ln",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 9865",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.milwoodvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zec7OXhWXNkUWarOxCkFe_42.233095_-85.574443@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780316,
+    "wof:geomhash":"30c49a207e429913aba8e4b2eb3a1bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689744887
+        }
+    ],
+    "wof:id":689744887,
+    "wof:lastmodified":1461780316,
+    "wof:name":"Milwood Animal Clinic",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.574443,
+    42.233095,
+    -85.574443,
+    42.233095
+],
+  "geometry": {"coordinates":[-85.574443,42.233095],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706680799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.251807,42.810392,-83.251807,42.810392",
+    "geom:latitude":42.810392,
+    "geom:longitude":-83.251807,
+    "iso:country":"US",
+    "sg:address":"1010 S Lapeer Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oxford/168151-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 628 3690",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KN1jtaw0oNsDXkNHyDt1y_42.810392_-83.251807@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809315,
+    "wof:geomhash":"7112bce5788335bebb526f0c387491fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":706680799
+        }
+    ],
+    "wof:id":706680799,
+    "wof:lastmodified":1461809315,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.251807,
+    42.810392,
+    -83.251807,
+    42.810392
+],
+  "geometry": {"coordinates":[-83.251807,42.810392],"type":"Point"}
+}

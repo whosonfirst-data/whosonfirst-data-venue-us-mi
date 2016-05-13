@@ -1,0 +1,88 @@
+{
+  "id": 722484161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.134916,42.341222,-83.134916,42.341222",
+    "geom:latitude":42.341222,
+    "geom:longitude":-83.134916,
+    "iso:country":"US",
+    "sg:address":"5945 Martin St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 895 4900",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "rolling",
+        "forming",
+        "manufacturer",
+        "store",
+        "metal-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870527,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l2G9lWI70MApN0fM0D2gP_42.341222_-83.134916@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812457,
+    "wof:geomhash":"6a9b125f25f12d33fffaf4304c4499a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870527,
+            "region_id":85688599,
+            "venue_id":722484161
+        }
+    ],
+    "wof:id":722484161,
+    "wof:lastmodified":1461812457,
+    "wof:name":"Meccom Corporation",
+    "wof:parent_id":85870527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rolling",
+        "forming",
+        "manufacturer",
+        "store",
+        "metal-wholesale"
+    ]
+},
+  "bbox": [
+    -83.134916,
+    42.341222,
+    -83.134916,
+    42.341222
+],
+  "geometry": {"coordinates":[-83.134916,42.341222],"type":"Point"}
+}

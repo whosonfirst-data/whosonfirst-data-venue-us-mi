@@ -1,0 +1,71 @@
+{
+  "id": 705783205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.26003,42.8193,-83.26003,42.8193",
+    "geom:latitude":42.8193,
+    "geom:longitude":-83.26003,
+    "iso:country":"US",
+    "sg:address":"153 S Washington St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 652 1166",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ventilating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cR91NW3U140YgH1DCwROj_42.819300_-83.260030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788641,
+    "wof:geomhash":"c8981503ab6d13d7a12c7a2592420c14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705783205
+        }
+    ],
+    "wof:id":705783205,
+    "wof:lastmodified":1461788641,
+    "wof:name":"Air Vac Heating & Air Cond",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "system"
+    ]
+},
+  "bbox": [
+    -83.26003,
+    42.8193,
+    -83.26003,
+    42.8193
+],
+  "geometry": {"coordinates":[-83.26003,42.8193],"type":"Point"}
+}

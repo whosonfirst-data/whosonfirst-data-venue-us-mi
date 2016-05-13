@@ -1,0 +1,74 @@
+{
+  "id": 705868013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.56054,42.274198,-85.56054,42.274198",
+    "geom:latitude":42.274198,
+    "geom:longitude":-85.56054,
+    "iso:country":"US",
+    "sg:address":"1712 Cameron St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 373 5828",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.computopia.bz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lznbjqsfkF03WMG8DdFT5_42.274198_-85.560540@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790646,
+    "wof:geomhash":"3bcc0b6dd426463eee1ca937fef67edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":705868013
+        }
+    ],
+    "wof:id":705868013,
+    "wof:lastmodified":1461790646,
+    "wof:name":"Computopia",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.56054,
+    42.274198,
+    -85.56054,
+    42.274198
+],
+  "geometry": {"coordinates":[-85.56054,42.274198],"type":"Point"}
+}

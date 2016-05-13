@@ -1,0 +1,71 @@
+{
+  "id": 706624001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435805,42.093198,-86.435805,42.093198",
+    "geom:latitude":42.093198,
+    "geom:longitude":-86.435805,
+    "iso:country":"US",
+    "sg:address":"1606 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 8747",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g5pCU0vJMPccF3P02iD12_42.093198_-86.435805@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807232,
+    "wof:geomhash":"de4bcee397ee848ec0f29da981392684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706624001
+        }
+    ],
+    "wof:id":706624001,
+    "wof:lastmodified":1461807232,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.435805,
+    42.093198,
+    -86.435805,
+    42.093198
+],
+  "geometry": {"coordinates":[-86.435805,42.093198],"type":"Point"}
+}

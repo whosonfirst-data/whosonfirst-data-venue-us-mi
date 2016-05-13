@@ -1,0 +1,85 @@
+{
+  "id": 722482217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.016409,42.336357,-83.016409,42.336357",
+    "geom:latitude":42.336357,
+    "geom:longitude":-83.016409,
+    "iso:country":"US",
+    "sg:address":"300 River Place Dr Ste 1000",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 844 3583",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "college",
+        "specialty"
+    ],
+    "sg:website":"www.go-everest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870599,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72e858xG0JwAkon6AQSGU9_42.336357_-83.016409@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812378,
+    "wof:geomhash":"751c1adcdd54a3a8942e2dac8873720b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870599,
+            "region_id":85688599,
+            "venue_id":722482217
+        }
+    ],
+    "wof:id":722482217,
+    "wof:lastmodified":1461812378,
+    "wof:name":"Everest Institute",
+    "wof:parent_id":85870599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "college",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.016409,
+    42.336357,
+    -83.016409,
+    42.336357
+],
+  "geometry": {"coordinates":[-83.016409,42.336357],"type":"Point"}
+}

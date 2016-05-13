@@ -1,0 +1,77 @@
+{
+  "id": 705728383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.350386,42.638252,-83.350386,42.638252",
+    "geom:latitude":42.638252,
+    "geom:longitude":-83.350386,
+    "iso:country":"US",
+    "sg:address":"3118 W Huron St",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 7433",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851725,
+        102191575,
+        404508331,
+        85633793,
+        85952051,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bnvoOXrDoaSRJzvhbq3hP_42.638252_-83.350386@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787361,
+    "wof:geomhash":"29d9de3c996906d64a2f7d1d0de0a852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":705728383
+        }
+    ],
+    "wof:id":705728383,
+    "wof:lastmodified":1461787361,
+    "wof:name":"Multistate Transmissions",
+    "wof:parent_id":85851725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.350386,
+    42.638252,
+    -83.350386,
+    42.638252
+],
+  "geometry": {"coordinates":[-83.350386,42.638252],"type":"Point"}
+}

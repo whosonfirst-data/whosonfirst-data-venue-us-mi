@@ -1,0 +1,73 @@
+{
+  "id": 689505429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.221535,43.063999,-86.221535,43.063999",
+    "geom:latitude":43.063999,
+    "geom:longitude":-86.221535,
+    "iso:country":"US",
+    "sg:address":"714 Elliott St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 2341",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U2g9VFq72c5dxPa82ecWt_43.063999_-86.221535@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773275,
+    "wof:geomhash":"b1136487140be30a043bdc820c67f296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689505429
+        }
+    ],
+    "wof:id":689505429,
+    "wof:lastmodified":1461773275,
+    "wof:name":"Grand Haven Auto Wash",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "repair"
+    ]
+},
+  "bbox": [
+    -86.221535,
+    43.063999,
+    -86.221535,
+    43.063999
+],
+  "geometry": {"coordinates":[-86.221535,43.063999],"type":"Point"}
+}

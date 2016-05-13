@@ -1,0 +1,74 @@
+{
+  "id": 706677643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.660077,41.957306,-83.660077,41.957306",
+    "geom:latitude":41.957306,
+    "geom:longitude":-83.660077,
+    "iso:country":"US",
+    "sg:address":"130 Tecumseh St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dundee/145927-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 9021",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fsqO6r9NOn5JLeHhxpo5h_41.957306_-83.660077@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809196,
+    "wof:geomhash":"5bc8d4ad7e4e7975e3f4ee308e3cb794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706677643
+        }
+    ],
+    "wof:id":706677643,
+    "wof:lastmodified":1461809196,
+    "wof:name":"Subway",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.660077,
+    41.957306,
+    -83.660077,
+    41.957306
+],
+  "geometry": {"coordinates":[-83.660077,41.957306],"type":"Point"}
+}

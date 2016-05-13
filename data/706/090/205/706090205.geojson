@@ -1,0 +1,71 @@
+{
+  "id": 706090205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.210738,43.055645,-86.210738,43.055645",
+    "geom:latitude":43.055645,
+    "geom:longitude":-86.210738,
+    "iso:country":"US",
+    "sg:address":"1301 Waverly Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 557 0557",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WzENHMsmXKuJPLFoo2b27_43.055645_-86.210738@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795575,
+    "wof:geomhash":"c86a6b5843bcb8d81ef84992835c1ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706090205
+        }
+    ],
+    "wof:id":706090205,
+    "wof:lastmodified":1461795575,
+    "wof:name":"Wales Veterinary Practice",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.210738,
+    43.055645,
+    -86.210738,
+    43.055645
+],
+  "geometry": {"coordinates":[-86.21073800000001,43.055645],"type":"Point"}
+}

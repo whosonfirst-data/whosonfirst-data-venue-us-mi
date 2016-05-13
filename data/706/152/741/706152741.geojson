@@ -1,0 +1,71 @@
+{
+  "id": 706152741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.570768,43.005209,-85.570768,43.005209",
+    "geom:latitude":43.005209,
+    "geom:longitude":-85.570768,
+    "iso:country":"US",
+    "sg:address":"2339 Maguire Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 361 0505",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "investigation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37HdZWVfK3ROWP3DZ6bI7q_43.005209_-85.570768@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797036,
+    "wof:geomhash":"0bb90e039cdb57e988263fa5bb681f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706152741
+        }
+    ],
+    "wof:id":706152741,
+    "wof:lastmodified":1461797036,
+    "wof:name":"Daniel L Bidwell",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigation"
+    ]
+},
+  "bbox": [
+    -85.570768,
+    43.005209,
+    -85.570768,
+    43.005209
+],
+  "geometry": {"coordinates":[-85.570768,43.005209],"type":"Point"}
+}

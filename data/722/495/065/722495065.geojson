@@ -1,0 +1,82 @@
+{
+  "id": 722495065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.061496,42.329059,-83.061496,42.329059",
+    "geom:latitude":42.329059,
+    "geom:longitude":-83.061496,
+    "iso:country":"US",
+    "sg:address":"1234 Porter St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 961 7863",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "charity",
+        "foundations-educational",
+        "philanthropic",
+        "research"
+    ],
+    "sg:website":"http://www.cabriniclinic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870537,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jo21oMguZgaiwYVdpj7QC_42.329059_-83.061496@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812889,
+    "wof:geomhash":"c0bfa8fdca4abe4cf7b53f57c725d53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870537,
+            "region_id":85688599,
+            "venue_id":722495065
+        }
+    ],
+    "wof:id":722495065,
+    "wof:lastmodified":1461812889,
+    "wof:name":"Cabrini Clinic",
+    "wof:parent_id":85870537,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charity",
+        "foundations-educational",
+        "philanthropic",
+        "research"
+    ]
+},
+  "bbox": [
+    -83.061496,
+    42.329059,
+    -83.061496,
+    42.329059
+],
+  "geometry": {"coordinates":[-83.06149600000001,42.329059],"type":"Point"}
+}

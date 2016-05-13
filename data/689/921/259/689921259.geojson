@@ -1,0 +1,98 @@
+{
+  "id": 689921259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.420226,42.977497,-82.420226,42.977497",
+    "geom:latitude":42.977497,
+    "geom:longitude":-82.420226,
+    "iso:country":"US",
+    "sg:address":"100 Merchant St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 9770",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896759,
+        102191575,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599,
+        85784851,
+        85633041,
+        101740719,
+        85682057,
+        101736019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZRx0oeBClOTErHizYGFNX_42.977497_-82.420226@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785150,
+    "wof:geomhash":"ec7bb8e9b67af84eda522baf2598c8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":85896759,
+            "region_id":85688599,
+            "venue_id":689921259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689921259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689921259
+        }
+    ],
+    "wof:id":689921259,
+    "wof:lastmodified":1461785150,
+    "wof:name":"Port Huron Sewer Utilities",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -82.420226,
+    42.977497,
+    -82.420226,
+    42.977497
+],
+  "geometry": {"coordinates":[-82.420226,42.977497],"type":"Point"}
+}

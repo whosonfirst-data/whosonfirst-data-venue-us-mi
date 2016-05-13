@@ -1,0 +1,82 @@
+{
+  "id": 722526431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645104,42.296268,-85.645104,42.296268",
+    "geom:latitude":42.296268,
+    "geom:longitude":-85.645104,
+    "iso:country":"US",
+    "sg:address":"4560 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 552 9240",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uf5oeBQm1mun2qpxC7Vm0_42.296268_-85.645104@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814266,
+    "wof:geomhash":"53c8ea70a74ced07e56d78ace6af7529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":722526431
+        }
+    ],
+    "wof:id":722526431,
+    "wof:lastmodified":1461814266,
+    "wof:name":"Beaner's Coffee",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -85.645104,
+    42.296268,
+    -85.645104,
+    42.296268
+],
+  "geometry": {"coordinates":[-85.645104,42.296268],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706090343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.669019,41.958849,-83.669019,41.958849",
+    "geom:latitude":41.958849,
+    "geom:longitude":-83.669019,
+    "iso:country":"US",
+    "sg:address":"601 Tecumseh St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 3730",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRFRnuLerAMP7smMpcTLj_41.958849_-83.669019@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795577,
+    "wof:geomhash":"9827ca8a315a9fee3251f885f715142c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706090343
+        }
+    ],
+    "wof:id":706090343,
+    "wof:lastmodified":1461795577,
+    "wof:name":"Farmers Market",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -83.669019,
+    41.958849,
+    -83.669019,
+    41.958849
+],
+  "geometry": {"coordinates":[-83.66901900000001,41.958849],"type":"Point"}
+}

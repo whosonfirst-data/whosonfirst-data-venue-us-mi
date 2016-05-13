@@ -1,0 +1,76 @@
+{
+  "id": 706690867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.214258,42.546563,-83.214258,42.546563",
+    "geom:latitude":42.546563,
+    "geom:longitude":-83.214258,
+    "iso:country":"US",
+    "sg:address":"100 E Maple Rd",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 430 7979",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"budget.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896565,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gamHrgwQUNlWtBguBKIfX_42.546563_-83.214258@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809709,
+    "wof:geomhash":"d668f3e2fc3f9d5008a642ad8ae54357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":85896565,
+            "region_id":85688599,
+            "venue_id":706690867
+        }
+    ],
+    "wof:id":706690867,
+    "wof:lastmodified":1461809709,
+    "wof:name":"Budget Car Rental",
+    "wof:parent_id":85896565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.214258,
+    42.546563,
+    -83.214258,
+    42.546563
+],
+  "geometry": {"coordinates":[-83.214258,42.546563],"type":"Point"}
+}

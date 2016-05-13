@@ -1,0 +1,78 @@
+{
+  "id": 706679689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.169872,42.641772,-83.169872,42.641772",
+    "geom:latitude":42.641772,
+    "geom:longitude":-83.169872,
+    "iso:country":"US",
+    "sg:address":"2593 Crooks Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester-hills/197301-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 852 7123",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524495,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yi2fuWUjHdSbqShjDsaSs_42.641772_-83.169872@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809269,
+    "wof:geomhash":"586ede0db92c1686b88af5caa421772c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":420524495,
+            "region_id":85688599,
+            "venue_id":706679689
+        }
+    ],
+    "wof:id":706679689,
+    "wof:lastmodified":1461809269,
+    "wof:name":"Burger King",
+    "wof:parent_id":420524495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.169872,
+    42.641772,
+    -83.169872,
+    42.641772
+],
+  "geometry": {"coordinates":[-83.169872,42.641772],"type":"Point"}
+}

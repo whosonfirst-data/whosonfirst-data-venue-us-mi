@@ -1,0 +1,71 @@
+{
+  "id": 706222977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.522716,42.956437,-82.522716,42.956437",
+    "geom:latitude":42.956437,
+    "geom:longitude":-82.522716,
+    "iso:country":"US",
+    "sg:address":"1899 Allen Rd",
+    "sg:city":"Kimball",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 989 2082",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TiYs7hnvxA2t2PwEpYPU6_42.956437_-82.522716@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798563,
+    "wof:geomhash":"391f8023709d9373e8afa3b4da600916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706222977
+        }
+    ],
+    "wof:id":706222977,
+    "wof:lastmodified":1461798563,
+    "wof:name":"Snyder Electric",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.522716,
+    42.956437,
+    -82.522716,
+    42.956437
+],
+  "geometry": {"coordinates":[-82.522716,42.956437],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706020401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.581758,43.131158,-82.581758,43.131158",
+    "geom:latitude":43.131158,
+    "geom:longitude":-82.581758,
+    "iso:country":"US",
+    "sg:address":"7942 Wildcat Rd",
+    "sg:city":"Grant Twp",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 327 1122",
+    "sg:postcode":"48032",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHPgfstV0TxhAb8AN96rg_43.131158_-82.581758@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794017,
+    "wof:geomhash":"34d8030618032f2025b05a41ae0c11b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706020401
+        }
+    ],
+    "wof:id":706020401,
+    "wof:lastmodified":1461794017,
+    "wof:name":"Grant Township Fire Dept",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.581758,
+    43.131158,
+    -82.581758,
+    43.131158
+],
+  "geometry": {"coordinates":[-82.58175799999999,43.131158],"type":"Point"}
+}

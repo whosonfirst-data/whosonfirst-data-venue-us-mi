@@ -1,0 +1,76 @@
+{
+  "id": 722499313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.204803,42.415699,-83.204803,42.415699",
+    "geom:latitude":42.415699,
+    "geom:longitude":-83.204803,
+    "iso:country":"US",
+    "sg:address":"16005 W McNichols Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 273 2420",
+    "sg:postcode":"48235",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524869,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TwGEPKLtFsXWUudKctAmz_42.415699_-83.204803@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461813051,
+    "wof:geomhash":"5ffa577e3575156ff174a78c50e9cd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524869,
+            "region_id":85688599,
+            "venue_id":722499313
+        }
+    ],
+    "wof:id":722499313,
+    "wof:lastmodified":1461813051,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420524869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.204803,
+    42.415699,
+    -83.204803,
+    42.415699
+],
+  "geometry": {"coordinates":[-83.204803,42.415699],"type":"Point"}
+}

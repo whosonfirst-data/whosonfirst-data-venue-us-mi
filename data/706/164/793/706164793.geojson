@@ -1,0 +1,71 @@
+{
+  "id": 706164793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.50068,41.793952,-83.50068,41.793952",
+    "geom:latitude":41.793952,
+    "geom:longitude":-83.50068,
+    "iso:country":"US",
+    "sg:address":"2048 Manhattan St",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 848 3473",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85842547,
+        102084787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7glQyrH7U6RQHJuRuiy1E4_41.793952_-83.500680@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797322,
+    "wof:geomhash":"1815c33238aa28d16b0ec83d6c3a0c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":706164793
+        }
+    ],
+    "wof:id":706164793,
+    "wof:lastmodified":1461797322,
+    "wof:name":"Erie Township Fire Department",
+    "wof:parent_id":85842547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -83.50068,
+    41.793952,
+    -83.50068,
+    41.793952
+],
+  "geometry": {"coordinates":[-83.50068,41.793952],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705983993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.605579,43.143432,-83.605579,43.143432",
+    "geom:latitude":43.143432,
+    "geom:longitude":-83.605579,
+    "iso:country":"US",
+    "sg:address":"5315 Scott Rd",
+    "sg:city":"Mt Morris",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 687 2678",
+    "sg:postcode":"48458",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85841859,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FgBFoNwqtKn320uHjg2z0_43.143432_-83.605579@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793249,
+    "wof:geomhash":"353d1af7fea597bd35836fbd04c206c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85841859,
+            "region_id":85688599,
+            "venue_id":705983993
+        }
+    ],
+    "wof:id":705983993,
+    "wof:lastmodified":1461793249,
+    "wof:name":"Jim's Pump Svc",
+    "wof:parent_id":85841859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.605579,
+    43.143432,
+    -83.605579,
+    43.143432
+],
+  "geometry": {"coordinates":[-83.60557900000001,43.143432],"type":"Point"}
+}

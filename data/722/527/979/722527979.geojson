@@ -1,0 +1,85 @@
+{
+  "id": 722527979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632692,43.069483,-85.632692,43.069483",
+    "geom:latitude":43.069483,
+    "geom:longitude":-85.632692,
+    "iso:country":"US",
+    "sg:address":"5870 Safety Dr NE",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 785 5215",
+    "sg:postcode":"49306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "device",
+        "place",
+        "arcade"
+    ],
+    "sg:website":"http://theblastfactory.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cBJKsaH5K8YElSPrr0QHy_43.069483_-85.632692@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814331,
+    "wof:geomhash":"8a7b9840886b3975a82b310d5cb605aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":722527979
+        }
+    ],
+    "wof:id":722527979,
+    "wof:lastmodified":1461814331,
+    "wof:name":"Blast Factory",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "place",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -85.632692,
+    43.069483,
+    -85.632692,
+    43.069483
+],
+  "geometry": {"coordinates":[-85.63269200000001,43.069483],"type":"Point"}
+}

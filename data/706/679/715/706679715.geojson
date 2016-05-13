@@ -1,0 +1,89 @@
+{
+  "id": 706679715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.156907,42.681547,-83.156907,42.681547",
+    "geom:latitude":42.681547,
+    "geom:longitude":-83.156907,
+    "iso:country":"US",
+    "sg:address":"1398 Walton Blvd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester-hills/40307-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 650 5166",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896781,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pf6yrbEZrOzU23tHN4kLP_42.681547_-83.156907@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809270,
+    "wof:geomhash":"11da677422a07946962d42e2dc290139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896781,
+            "region_id":85688599,
+            "venue_id":706679715
+        }
+    ],
+    "wof:id":706679715,
+    "wof:lastmodified":1461809270,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85896781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -83.156907,
+    42.681547,
+    -83.156907,
+    42.681547
+],
+  "geometry": {"coordinates":[-83.156907,42.681547],"type":"Point"}
+}

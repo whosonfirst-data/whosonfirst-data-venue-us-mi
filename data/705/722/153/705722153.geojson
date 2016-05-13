@@ -1,0 +1,69 @@
+{
+  "id": 705722153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.602992,42.317516,-85.602992,42.317516",
+    "geom:latitude":42.317516,
+    "geom:longitude":-85.602992,
+    "iso:country":"US",
+    "sg:address":"2622 Douglas Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 7091",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878463,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lAHvlVkb21Owd7wsIrgp5_42.317516_-85.602992@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787212,
+    "wof:geomhash":"8991456fbda367e8b27ca1d22d27dfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878463,
+            "region_id":85688599,
+            "venue_id":705722153
+        }
+    ],
+    "wof:id":705722153,
+    "wof:lastmodified":1461787212,
+    "wof:name":"MARTIN Spring & Driveline",
+    "wof:parent_id":85878463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.602992,
+    42.317516,
+    -85.602992,
+    42.317516
+],
+  "geometry": {"coordinates":[-85.602992,42.317516],"type":"Point"}
+}

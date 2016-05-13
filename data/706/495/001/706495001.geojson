@@ -1,0 +1,73 @@
+{
+  "id": 706495001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.199006,43.238706,-86.199006,43.238706",
+    "geom:latitude":43.238706,
+    "geom:longitude":-86.199006,
+    "iso:country":"US",
+    "sg:address":"1775 Wells Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9048",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eD2wpgVSKhkJTEa4RQj8F_43.238706_-86.199006@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804534,
+    "wof:geomhash":"5f325c2090a76fb11dada4330aa75caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706495001
+        }
+    ],
+    "wof:id":706495001,
+    "wof:lastmodified":1461804534,
+    "wof:name":"Great Lakes Ob/Gyn Specialists",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.199006,
+    43.238706,
+    -86.199006,
+    43.238706
+],
+  "geometry": {"coordinates":[-86.199006,43.238706],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689815747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.575428,43.072241,-82.575428,43.072241",
+    "geom:latitude":43.072241,
+    "geom:longitude":-82.575428,
+    "iso:country":"US",
+    "sg:address":"5894 McIntyre Rd",
+    "sg:city":"North Street",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 5716",
+    "sg:postcode":"48049",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DPtgvI0NLGxti7cXe5LH9_43.072241_-82.575428@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782355,
+    "wof:geomhash":"d14ec9777e1aca69ff142cf439bd5fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689815747
+        }
+    ],
+    "wof:id":689815747,
+    "wof:lastmodified":1461782355,
+    "wof:name":"Colin Louks",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -82.575428,
+    43.072241,
+    -82.575428,
+    43.072241
+],
+  "geometry": {"coordinates":[-82.575428,43.072241],"type":"Point"}
+}

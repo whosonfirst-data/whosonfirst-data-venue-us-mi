@@ -1,0 +1,73 @@
+{
+  "id": 706615217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.934132,43.467022,-85.934132,43.467022",
+    "geom:latitude":43.467022,
+    "geom:longitude":-85.934132,
+    "iso:country":"US",
+    "sg:address":"510 E Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 5835",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26wvAGEpU9krEC0rvHmRUd_43.467022_-85.934132@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807050,
+    "wof:geomhash":"21d21452d20c1f6c97437e8eb8aaeea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706615217
+        }
+    ],
+    "wof:id":706615217,
+    "wof:lastmodified":1461807050,
+    "wof:name":"Moore's Plumbing Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.934132,
+    43.467022,
+    -85.934132,
+    43.467022
+],
+  "geometry": {"coordinates":[-85.93413200000001,43.467022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689606637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.39746,46.573723,-87.39746,46.573723",
+    "geom:latitude":46.573723,
+    "geom:longitude":-87.39746,
+    "iso:country":"US",
+    "sg:address":"2515 Schneider Mill Ct",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 7945",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kutfVS3H1JA1mcq3oxfUT_46.573723_-87.397460@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776460,
+    "wof:geomhash":"444d032e80f27b3ef2532a193d62530e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689606637
+        }
+    ],
+    "wof:id":689606637,
+    "wof:lastmodified":1461776460,
+    "wof:name":"Riverpark Storage",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.39746,
+    46.573723,
+    -87.39746,
+    46.573723
+],
+  "geometry": {"coordinates":[-87.39746,46.573723],"type":"Point"}
+}

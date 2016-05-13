@@ -1,0 +1,87 @@
+{
+  "id": 722527493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540323,42.279584,-85.540323,42.279584",
+    "geom:latitude":42.279584,
+    "geom:longitude":-85.540323,
+    "iso:country":"US",
+    "sg:address":"3214 Brookfield Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 4447",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club",
+        "tavern",
+        "cocktail",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rkaf2lI06RoJKXkDFB9C2_42.279584_-85.540323@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814306,
+    "wof:geomhash":"212fb059b92ac2ff2453d17bea5a542c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":722527493
+        }
+    ],
+    "wof:id":722527493,
+    "wof:lastmodified":1461814306,
+    "wof:name":"Sommys Duck In & Waddle Out Lounge",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "tavern",
+        "cocktail",
+        "night"
+    ]
+},
+  "bbox": [
+    -85.540323,
+    42.279584,
+    -85.540323,
+    42.279584
+],
+  "geometry": {"coordinates":[-85.540323,42.279584],"type":"Point"}
+}

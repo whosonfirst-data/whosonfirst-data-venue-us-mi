@@ -1,0 +1,71 @@
+{
+  "id": 689542615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643778,42.27217,-85.643778,42.27217",
+    "geom:latitude":42.27217,
+    "geom:longitude":-85.643778,
+    "iso:country":"US",
+    "sg:address":"4412 Ridgeway Cir",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 0200",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zTiN4IJceKbuClnm9ax5j_42.272170_-85.643778@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774436,
+    "wof:geomhash":"3220e36f7ab08878ca17962a66236d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":689542615
+        }
+    ],
+    "wof:id":689542615,
+    "wof:lastmodified":1461774436,
+    "wof:name":"Cedar Trail Apartments",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.643778,
+    42.27217,
+    -85.643778,
+    42.27217
+],
+  "geometry": {"coordinates":[-85.643778,42.27217],"type":"Point"}
+}

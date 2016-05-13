@@ -1,0 +1,76 @@
+{
+  "id": 722479647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.067328,42.361426,-83.067328,42.361426",
+    "geom:latitude":42.361426,
+    "geom:longitude":-83.067328,
+    "iso:country":"US",
+    "sg:address":"5564 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 831 2100",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870589,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wJuW2ozyMJW7uB1FlAzVK_42.361426_-83.067328@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812269,
+    "wof:geomhash":"6fec11d172f166b0077683dafbdb511a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870589,
+            "region_id":85688599,
+            "venue_id":722479647
+        }
+    ],
+    "wof:id":722479647,
+    "wof:lastmodified":1461812269,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85870589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.067328,
+    42.361426,
+    -83.067328,
+    42.361426
+],
+  "geometry": {"coordinates":[-83.067328,42.361426],"type":"Point"}
+}

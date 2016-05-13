@@ -1,0 +1,73 @@
+{
+  "id": 689880683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.482989,42.085278,-86.482989,42.085278",
+    "geom:latitude":42.085278,
+    "geom:longitude":-86.482989,
+    "iso:country":"US",
+    "sg:address":"820 Highland Ave",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 1414",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mWopVrlEEgizodOv9Rv4N_42.085278_-86.482989@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784062,
+    "wof:geomhash":"bff0d1aa3ae268eafd108f181d450033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689880683
+        }
+    ],
+    "wof:id":689880683,
+    "wof:lastmodified":1461784062,
+    "wof:name":"St Joe Auto Body Inc",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.482989,
+    42.085278,
+    -86.482989,
+    42.085278
+],
+  "geometry": {"coordinates":[-86.482989,42.085278],"type":"Point"}
+}

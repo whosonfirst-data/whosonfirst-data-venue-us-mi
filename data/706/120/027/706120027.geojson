@@ -1,0 +1,73 @@
+{
+  "id": 706120027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.311318,42.427878,-83.311318,42.427878",
+    "geom:latitude":42.427878,
+    "geom:longitude":-83.311318,
+    "iso:country":"US",
+    "sg:address":"26920 W 7 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 592 6530",
+    "sg:postcode":"48240",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "maintenance",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FL9AHMzti6zvp83QLRPrT_42.427878_-83.311318@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796266,
+    "wof:geomhash":"a759be2601d9b301e26328fbd0166412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":706120027
+        }
+    ],
+    "wof:id":706120027,
+    "wof:lastmodified":1461796266,
+    "wof:name":"Onsight Vehicle Maintenance",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "maintenance",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -83.311318,
+    42.427878,
+    -83.311318,
+    42.427878
+],
+  "geometry": {"coordinates":[-83.311318,42.427878],"type":"Point"}
+}

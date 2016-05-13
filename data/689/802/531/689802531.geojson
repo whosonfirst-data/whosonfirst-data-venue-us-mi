@@ -1,0 +1,71 @@
+{
+  "id": 689802531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.350444,44.439693,-85.350444,44.439693",
+    "geom:latitude":44.439693,
+    "geom:longitude":-85.350444,
+    "iso:country":"US",
+    "sg:address":"10760 E 12 Rd",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 6010",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZjcNR0uZjmnjXwXRQR5GQ_44.439693_-85.350444@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781959,
+    "wof:geomhash":"fe40d51c9bec409c5a2edec8d509ceed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689802531
+        }
+    ],
+    "wof:id":689802531,
+    "wof:lastmodified":1461781959,
+    "wof:name":"Ralph Coon Trucking",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.350444,
+    44.439693,
+    -85.350444,
+    44.439693
+],
+  "geometry": {"coordinates":[-85.350444,44.439693],"type":"Point"}
+}

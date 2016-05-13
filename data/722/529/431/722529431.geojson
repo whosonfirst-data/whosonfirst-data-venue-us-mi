@@ -1,0 +1,71 @@
+{
+  "id": 722529431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.117256,42.82782,-86.117256,42.82782",
+    "geom:latitude":42.82782,
+    "geom:longitude":-86.117256,
+    "iso:country":"US",
+    "sg:address":"185 Panther Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 2140",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22cKd1LrTc5yRDjr4HcNqL_42.827820_-86.117256@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814386,
+    "wof:geomhash":"8383bee950b598b601da48b53f1b952a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":722529431
+        }
+    ],
+    "wof:id":722529431,
+    "wof:lastmodified":1461814386,
+    "wof:name":"Bader Jim DVM",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.117256,
+    42.82782,
+    -86.117256,
+    42.82782
+],
+  "geometry": {"coordinates":[-86.117256,42.82782],"type":"Point"}
+}

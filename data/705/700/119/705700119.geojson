@@ -1,0 +1,84 @@
+{
+  "id": 705700119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.688634,43.004694,-85.688634,43.004694",
+    "geom:latitude":43.004694,
+    "geom:longitude":-85.688634,
+    "iso:country":"US",
+    "sg:address":"2225 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 361 6646",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "collision",
+        "body",
+        "painting",
+        "automobile"
+    ],
+    "sg:website":"www.alpinecollisioncenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877929,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2foqd7hh912cizTFHvZ98H_43.004694_-85.688634@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786526,
+    "wof:geomhash":"6d10e6647ed19cbccc6537e7b6f4dabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877929,
+            "region_id":85688599,
+            "venue_id":705700119
+        }
+    ],
+    "wof:id":705700119,
+    "wof:lastmodified":1461786526,
+    "wof:name":"Alpine Collision Center",
+    "wof:parent_id":85877929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "collision",
+        "body",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.688634,
+    43.004694,
+    -85.688634,
+    43.004694
+],
+  "geometry": {"coordinates":[-85.68863399999999,43.004694],"type":"Point"}
+}

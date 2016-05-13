@@ -1,0 +1,88 @@
+{
+  "id": 706678925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.26228,42.418366,-83.26228,42.418366",
+    "geom:latitude":42.418366,
+    "geom:longitude":-83.26228,
+    "iso:country":"US",
+    "sg:address":"22365 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/240929-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LFwPepuJtSjc8QVc1FyZn_42.418366_-83.262280@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809242,
+    "wof:geomhash":"01f629af5d7e697663fdf7cf783da5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":706678925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":706678925
+        }
+    ],
+    "wof:id":706678925,
+    "wof:lastmodified":1461809242,
+    "wof:name":"White Castle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.26228,
+    42.418366,
+    -83.26228,
+    42.418366
+],
+  "geometry": {"coordinates":[-83.26228,42.418366],"type":"Point"}
+}

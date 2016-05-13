@@ -1,0 +1,75 @@
+{
+  "id": 722477023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.199303,42.199299,-83.199303,42.199299",
+    "geom:latitude":42.199299,
+    "geom:longitude":-83.199303,
+    "iso:country":"US",
+    "sg:address":"14420 Eureka Rd",
+    "sg:city":"Southgate",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 284 9122",
+    "sg:postcode":"48195",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896825,
+        102191575,
+        404508659,
+        85633793,
+        85950971,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45rUqFOneNrqZy6ElThqr9_42.199299_-83.199303@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812153,
+    "wof:geomhash":"19a4f2b3dd717feb1a5a346b1dfd8024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508659,
+            "locality_id":85950971,
+            "neighbourhood_id":85896825,
+            "region_id":85688599,
+            "venue_id":722477023
+        }
+    ],
+    "wof:id":722477023,
+    "wof:lastmodified":1461812153,
+    "wof:name":"Southgate-Conway Animal Hospital",
+    "wof:parent_id":85896825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.199303,
+    42.199299,
+    -83.199303,
+    42.199299
+],
+  "geometry": {"coordinates":[-83.199303,42.199299],"type":"Point"}
+}

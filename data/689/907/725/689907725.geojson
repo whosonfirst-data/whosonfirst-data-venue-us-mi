@@ -1,0 +1,75 @@
+{
+  "id": 689907725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.074342,42.761084,-85.074342,42.761084",
+    "geom:latitude":42.761084,
+    "geom:longitude":-85.074342,
+    "iso:country":"US",
+    "sg:address":"103 Cedar St",
+    "sg:city":"Lake Odessa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 374 7759",
+    "sg:postcode":"48849",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cM6PobMRIgOHo9wHzjtUZ_42.761084_-85.074342@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784781,
+    "wof:geomhash":"4b5b5a1f79160056ff6b7b8cd5eba2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689907725
+        }
+    ],
+    "wof:id":689907725,
+    "wof:lastmodified":1461784781,
+    "wof:name":"Tri County Auto Body",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.074342,
+    42.761084,
+    -85.074342,
+    42.761084
+],
+  "geometry": {"coordinates":[-85.074342,42.761084],"type":"Point"}
+}

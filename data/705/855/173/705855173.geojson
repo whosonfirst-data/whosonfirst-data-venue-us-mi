@@ -1,0 +1,71 @@
+{
+  "id": 705855173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.35124,42.688233,-83.35124,42.688233",
+    "geom:latitude":42.688233,
+    "geom:longitude":-83.35124,
+    "iso:country":"US",
+    "sg:address":"3110 W Walton Blvd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 3277",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mjD8y7KyZgmOiemT4h6zg_42.688233_-83.351240@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790305,
+    "wof:geomhash":"a15eccd1d5f32e2946a55fd61b5eadb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705855173
+        }
+    ],
+    "wof:id":705855173,
+    "wof:lastmodified":1461790305,
+    "wof:name":"Ring & Pinion",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.35124,
+    42.688233,
+    -83.35124,
+    42.688233
+],
+  "geometry": {"coordinates":[-83.35124,42.688233],"type":"Point"}
+}

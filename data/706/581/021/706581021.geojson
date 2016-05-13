@@ -1,0 +1,82 @@
+{
+  "id": 706581021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.881355,42.589923,-82.881355,42.589923",
+    "geom:latitude":42.589923,
+    "geom:longitude":-82.881355,
+    "iso:country":"US",
+    "sg:address":"200 S Main St",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 3480",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J0nO9eItAhbDIW2mKpVmt_42.589923_-82.881355@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806346,
+    "wof:geomhash":"339493110ca11237b6cabc28b9f60efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706581021
+        }
+    ],
+    "wof:id":706581021,
+    "wof:lastmodified":1461806346,
+    "wof:name":"Dale's Auto Detailing",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -82.881355,
+    42.589923,
+    -82.881355,
+    42.589923
+],
+  "geometry": {"coordinates":[-82.881355,42.589923],"type":"Point"}
+}

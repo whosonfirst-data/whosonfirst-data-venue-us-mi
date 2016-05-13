@@ -1,0 +1,80 @@
+{
+  "id": 706687745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.897766,42.499999,-82.897766,42.499999",
+    "geom:latitude":42.499999,
+    "geom:longitude":-82.897766,
+    "iso:country":"US",
+    "sg:address":"28101 Harper Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/st-clair-shores/122057-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 777 7575",
+    "sg:postcode":"48081",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896827,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XD6q7n5V6Vq4XhmxE8bPy_42.500592_-82.897834@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809588,
+    "wof:geomhash":"74ecb0cf60a03a89a87944299b0d3beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":85896827,
+            "region_id":85688599,
+            "venue_id":706687745
+        }
+    ],
+    "wof:id":706687745,
+    "wof:lastmodified":1461809588,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85896827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.897766,
+    42.499999,
+    -82.897766,
+    42.499999
+],
+  "geometry": {"coordinates":[-82.897766,42.499999],"type":"Point"}
+}

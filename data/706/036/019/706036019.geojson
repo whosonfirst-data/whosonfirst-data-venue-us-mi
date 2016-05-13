@@ -1,0 +1,79 @@
+{
+  "id": 706036019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.059917,42.393963,-83.059917,42.393963",
+    "geom:latitude":42.393963,
+    "geom:longitude":-83.059917,
+    "iso:country":"US",
+    "sg:address":"2235 Poland St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 871 5567",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IEiYbgx81lzn2CShb8Ynq_42.393963_-83.059917@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794328,
+    "wof:geomhash":"ac656b9fe7ea73a595264ff885269d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":706036019
+        }
+    ],
+    "wof:id":706036019,
+    "wof:lastmodified":1461794328,
+    "wof:name":"FAA Trucking",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.059917,
+    42.393963,
+    -83.059917,
+    42.393963
+],
+  "geometry": {"coordinates":[-83.059917,42.393963],"type":"Point"}
+}

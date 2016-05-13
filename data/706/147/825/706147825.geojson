@@ -1,0 +1,73 @@
+{
+  "id": 706147825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.746761,41.786904,-86.746761,41.786904",
+    "geom:latitude":41.786904,
+    "geom:longitude":-86.746761,
+    "iso:country":"US",
+    "sg:address":"604 W Clay St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 4722",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WyQs8Mai8mdtfJfVRmop_41.786904_-86.746761@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796928,
+    "wof:geomhash":"e2cb9a8950b643b405492de2f0179472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706147825
+        }
+    ],
+    "wof:id":706147825,
+    "wof:lastmodified":1461796928,
+    "wof:name":"Rays Service",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.746761,
+    41.786904,
+    -86.746761,
+    41.786904
+],
+  "geometry": {"coordinates":[-86.74676100000001,41.786904],"type":"Point"}
+}

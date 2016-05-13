@@ -1,0 +1,73 @@
+{
+  "id": 689667415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.327751,46.428758,-87.327751,46.428758",
+    "geom:latitude":46.428758,
+    "geom:longitude":-87.327751,
+    "iso:country":"US",
+    "sg:address":"350 Karen Rd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 249 9500",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822319,
+        102083039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18R58mOiYoOAaZbev1P7Qa_46.428758_-87.327751@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778310,
+    "wof:geomhash":"97f489c5cbc19cb7034a510a312dd955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "neighbourhood_id":85822319,
+            "region_id":85688599,
+            "venue_id":689667415
+        }
+    ],
+    "wof:id":689667415,
+    "wof:lastmodified":1461778310,
+    "wof:name":"Boyer Trucking",
+    "wof:parent_id":85822319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.327751,
+    46.428758,
+    -87.327751,
+    46.428758
+],
+  "geometry": {"coordinates":[-87.32775100000001,46.428758],"type":"Point"}
+}

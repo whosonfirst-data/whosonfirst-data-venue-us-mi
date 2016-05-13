@@ -1,0 +1,76 @@
+{
+  "id": 706689395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065677,45.81939,-88.065677,45.81939",
+    "geom:latitude":45.81939,
+    "geom:longitude":-88.065677,
+    "iso:country":"US",
+    "sg:address":"400 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/iron-mountain/76518-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 9494",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N29GVoFWwo8kIkeGzW07H_45.819381_-88.065710@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809648,
+    "wof:geomhash":"2539cb3642bad9c2fc0123a874b53f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706689395
+        }
+    ],
+    "wof:id":706689395,
+    "wof:lastmodified":1461809648,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.065677,
+    45.81939,
+    -88.065677,
+    45.81939
+],
+  "geometry": {"coordinates":[-88.06567699999999,45.81939],"type":"Point"}
+}

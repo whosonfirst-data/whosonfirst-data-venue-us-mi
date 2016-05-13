@@ -1,0 +1,72 @@
+{
+  "id": 705890971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.375779,42.256159,-84.375779,42.256159",
+    "geom:latitude":42.256159,
+    "geom:longitude":-84.375779,
+    "iso:country":"US",
+    "sg:address":"225 N Horton St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 3161",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.edscha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TFfTea5ejnlmSB5Prb0bh_42.256159_-84.375779@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791206,
+    "wof:geomhash":"3d54ed407d0f557b590924b0e9cae6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705890971
+        }
+    ],
+    "wof:id":705890971,
+    "wof:lastmodified":1461791206,
+    "wof:name":"Edscha",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.375779,
+    42.256159,
+    -84.375779,
+    42.256159
+],
+  "geometry": {"coordinates":[-84.37577899999999,42.256159],"type":"Point"}
+}

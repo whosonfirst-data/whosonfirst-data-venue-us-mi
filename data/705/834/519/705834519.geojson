@@ -1,0 +1,71 @@
+{
+  "id": 705834519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.646223,42.230633,-83.646223,42.230633",
+    "geom:latitude":42.230633,
+    "geom:longitude":-83.646223,
+    "iso:country":"US",
+    "sg:address":"2216 Ellsworth Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 572 0590",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GLZ3PieTrYkgOeemidmKA_42.230633_-83.646223@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789834,
+    "wof:geomhash":"b3df6638db7e48544fbba14b70116990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":705834519
+        }
+    ],
+    "wof:id":705834519,
+    "wof:lastmodified":1461789834,
+    "wof:name":"Victory Lane Quick Oil Change",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -83.646223,
+    42.230633,
+    -83.646223,
+    42.230633
+],
+  "geometry": {"coordinates":[-83.64622300000001,42.230633],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705781061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.547346,42.281352,-85.547346,42.281352",
+    "geom:latitude":42.281352,
+    "geom:longitude":-85.547346,
+    "iso:country":"US",
+    "sg:address":"1010 Willis Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 492 9798",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IbeQVK8niJQy70fl9z22z_42.281352_-85.547346@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788579,
+    "wof:geomhash":"d538d44f3d7afaf2c98a71de51a68afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":705781061
+        }
+    ],
+    "wof:id":705781061,
+    "wof:lastmodified":1461788579,
+    "wof:name":"Vornkamp Bike Shop",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "motorcycle"
+    ]
+},
+  "bbox": [
+    -85.547346,
+    42.281352,
+    -85.547346,
+    42.281352
+],
+  "geometry": {"coordinates":[-85.547346,42.281352],"type":"Point"}
+}

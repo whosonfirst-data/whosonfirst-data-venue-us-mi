@@ -1,0 +1,71 @@
+{
+  "id": 689495645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.505598,42.331464,-85.505598,42.331464",
+    "geom:latitude":42.331464,
+    "geom:longitude":-85.505598,
+    "iso:country":"US",
+    "sg:address":"6044 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 2852",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aFa4Dc2SAA7XoI07nQjoB_42.331464_-85.505598@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772977,
+    "wof:geomhash":"2d17838e6c2ccdbd1e56ad34771da62e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689495645
+        }
+    ],
+    "wof:id":689495645,
+    "wof:lastmodified":1461772977,
+    "wof:name":"Crestview Animal Hospital",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.505598,
+    42.331464,
+    -85.505598,
+    42.331464
+],
+  "geometry": {"coordinates":[-85.50559800000001,42.331464],"type":"Point"}
+}

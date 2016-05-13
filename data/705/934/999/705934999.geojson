@@ -1,0 +1,73 @@
+{
+  "id": 705934999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645113,42.820684,-85.645113,42.820684",
+    "geom:latitude":42.820684,
+    "geom:longitude":-85.645113,
+    "iso:country":"US",
+    "sg:address":"630 79th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 2345",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QESJjZjklHXFeSqKBJY4r_42.820684_-85.645113@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792178,
+    "wof:geomhash":"825273e751e3baca6384d04113853427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705934999
+        }
+    ],
+    "wof:id":705934999,
+    "wof:lastmodified":1461792178,
+    "wof:name":"Lanning Electric Inc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.645113,
+    42.820684,
+    -85.645113,
+    42.820684
+],
+  "geometry": {"coordinates":[-85.64511299999999,42.820684],"type":"Point"}
+}

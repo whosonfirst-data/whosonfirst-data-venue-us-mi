@@ -1,0 +1,80 @@
+{
+  "id": 706733547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.373802,42.440465,-83.373802,42.440465",
+    "geom:latitude":42.440465,
+    "geom:longitude":-83.373802,
+    "iso:country":"US",
+    "sg:address":"33111 8 Mile Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 477 4675",
+    "sg:postcode":"48152",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524969,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lD7vTWB09CU16sBmb55fp_42.440465_-83.373802@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811551,
+    "wof:geomhash":"e2ee14af36301bcc076615a663278712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524969,
+            "region_id":85688599,
+            "venue_id":706733547
+        }
+    ],
+    "wof:id":706733547,
+    "wof:lastmodified":1461811551,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":420524969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.373802,
+    42.440465,
+    -83.373802,
+    42.440465
+],
+  "geometry": {"coordinates":[-83.373802,42.440465],"type":"Point"}
+}

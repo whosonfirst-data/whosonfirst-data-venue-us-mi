@@ -1,0 +1,77 @@
+{
+  "id": 706366319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.582607,42.653496,-83.582607,42.653496",
+    "geom:latitude":42.653496,
+    "geom:longitude":-83.582607,
+    "iso:country":"US",
+    "sg:address":"2736 E Highland Rd",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 887 0300",
+    "sg:postcode":"48356",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "rep",
+        "replacement",
+        "glass",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jXARX0yvKAY6LwiW3GMiS_42.653496_-83.582607@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801738,
+    "wof:geomhash":"7e12e8d54c91277e7da0886af0483f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":706366319
+        }
+    ],
+    "wof:id":706366319,
+    "wof:lastmodified":1461801738,
+    "wof:name":"Harmon Autoglass",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "rep",
+        "replacement",
+        "glass",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -83.582607,
+    42.653496,
+    -83.582607,
+    42.653496
+],
+  "geometry": {"coordinates":[-83.582607,42.653496],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705854815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.415995,42.227323,-84.415995,42.227323",
+    "geom:latitude":42.227323,
+    "geom:longitude":-84.415995,
+    "iso:country":"US",
+    "sg:address":"405 W Prospect St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5353",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pO0DVs3YWZXvs6D0EBNyI_42.227323_-84.415995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790299,
+    "wof:geomhash":"405da880fe3eadf2697b795c06002588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705854815
+        }
+    ],
+    "wof:id":705854815,
+    "wof:lastmodified":1461790299,
+    "wof:name":"Brails Dry Cleaners",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.415995,
+    42.227323,
+    -84.415995,
+    42.227323
+],
+  "geometry": {"coordinates":[-84.415995,42.227323],"type":"Point"}
+}

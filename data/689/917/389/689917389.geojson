@@ -1,0 +1,73 @@
+{
+  "id": 689917389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.62597,42.885095,-85.62597,42.885095",
+    "geom:latitude":42.885095,
+    "geom:longitude":-85.62597,
+    "iso:country":"US",
+    "sg:address":"4328 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 1609",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SXBV3q1Y24uijefRvsPmw_42.885095_-85.625970@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785045,
+    "wof:geomhash":"f3afe5157f82cf09891a1aec040cee9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689917389
+        }
+    ],
+    "wof:id":689917389,
+    "wof:lastmodified":1461785045,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.62597,
+    42.885095,
+    -85.62597,
+    42.885095
+],
+  "geometry": {"coordinates":[-85.62597,42.885095],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706256677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447861,43.953499,-86.447861,43.953499",
+    "geom:latitude":43.953499,
+    "geom:longitude":-86.447861,
+    "iso:country":"US",
+    "sg:address":"302 S James St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 845 7124",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FmMUqAjNvHc4Yfn6Kfqma_43.953499_-86.447861@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799341,
+    "wof:geomhash":"328019cd3ffc1472957d8e38a718c8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706256677
+        }
+    ],
+    "wof:id":706256677,
+    "wof:lastmodified":1461799341,
+    "wof:name":"Northland Performance Svc",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.447861,
+    43.953499,
+    -86.447861,
+    43.953499
+],
+  "geometry": {"coordinates":[-86.447861,43.953499],"type":"Point"}
+}

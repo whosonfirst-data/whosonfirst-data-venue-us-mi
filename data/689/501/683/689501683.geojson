@@ -1,0 +1,74 @@
+{
+  "id": 689501683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.0656,42.783324,-86.0656,42.783324",
+    "geom:latitude":42.783324,
+    "geom:longitude":-86.0656,
+    "iso:country":"US",
+    "sg:address":"985 E 16th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 1723",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cTIg3dwirsK6gDFti5zkO_42.783324_-86.065600@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773139,
+    "wof:geomhash":"9cfb27c1f2af370f076a15fc94f13daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":689501683
+        }
+    ],
+    "wof:id":689501683,
+    "wof:lastmodified":1461773139,
+    "wof:name":"Ridgeland Heights Apartments",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.0656,
+    42.783324,
+    -86.0656,
+    42.783324
+],
+  "geometry": {"coordinates":[-86.0656,42.783324],"type":"Point"}
+}

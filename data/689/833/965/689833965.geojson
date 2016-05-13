@@ -1,0 +1,71 @@
+{
+  "id": 689833965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591908,42.726945,-84.591908,42.726945",
+    "geom:latitude":42.726945,
+    "geom:longitude":-84.591908,
+    "iso:country":"US",
+    "sg:address":"425 Lentz Ct",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 702 1979",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85864301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zcgQSO7gVpEW4VdUEMu8_42.726945_-84.591908@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782957,
+    "wof:geomhash":"758f2f15028dbc6f725e623afe9872fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85864301,
+            "region_id":85688599,
+            "venue_id":689833965
+        }
+    ],
+    "wof:id":689833965,
+    "wof:lastmodified":1461782957,
+    "wof:name":"Huntington Cleaners",
+    "wof:parent_id":85864301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.591908,
+    42.726945,
+    -84.591908,
+    42.726945
+],
+  "geometry": {"coordinates":[-84.591908,42.726945],"type":"Point"}
+}

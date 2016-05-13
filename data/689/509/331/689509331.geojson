@@ -1,0 +1,73 @@
+{
+  "id": 689509331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.415229,46.545947,-87.415229,46.545947",
+    "geom:latitude":46.545947,
+    "geom:longitude":-87.415229,
+    "iso:country":"US",
+    "sg:address":"1004 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 5566",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MHUgGfbVeCL01hmHDWRxs_46.545947_-87.415229@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773387,
+    "wof:geomhash":"01c05ae9787df8b53efc3c3c4357973d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689509331
+        }
+    ],
+    "wof:id":689509331,
+    "wof:lastmodified":1461773387,
+    "wof:name":"Jon's Auto",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.415229,
+    46.545947,
+    -87.415229,
+    46.545947
+],
+  "geometry": {"coordinates":[-87.415229,46.545947],"type":"Point"}
+}

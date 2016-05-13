@@ -1,0 +1,85 @@
+{
+  "id": 722526863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659025,42.296072,-85.659025,42.296072",
+    "geom:latitude":42.296072,
+    "geom:longitude":-85.659025,
+    "iso:country":"US",
+    "sg:address":"5622 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 6600",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "used",
+        "new"
+    ],
+    "sg:website":"http://www.maplehillauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BX1Rub7asdb9C1pF3klK9_42.296072_-85.659025@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814282,
+    "wof:geomhash":"334031c1f81128f10f63c2ac6c409403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":722526863
+        }
+    ],
+    "wof:id":722526863,
+    "wof:lastmodified":1461814282,
+    "wof:name":"Maple Hill Hyundai",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [
+    -85.659025,
+    42.296072,
+    -85.659025,
+    42.296072
+],
+  "geometry": {"coordinates":[-85.659025,42.296072],"type":"Point"}
+}

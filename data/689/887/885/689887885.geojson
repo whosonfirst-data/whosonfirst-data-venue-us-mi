@@ -1,0 +1,71 @@
+{
+  "id": 689887885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.535413,42.6149,-82.535413,42.6149",
+    "geom:latitude":42.6149,
+    "geom:longitude":-82.535413,
+    "iso:country":"US",
+    "sg:address":"626 Michigan St",
+    "sg:city":"Algonac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 794 9200",
+    "sg:postcode":"48001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951529,
+        102083053,
+        85842569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bOePBBcAexcR80vlwa0lb_42.614900_-82.535413@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784254,
+    "wof:geomhash":"bce484706b6b4c56e8f1da8187022dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951529,
+            "neighbourhood_id":85842569,
+            "region_id":85688599,
+            "venue_id":689887885
+        }
+    ],
+    "wof:id":689887885,
+    "wof:lastmodified":1461784254,
+    "wof:name":"Giuliano & Giuliano",
+    "wof:parent_id":85842569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.535413,
+    42.6149,
+    -82.535413,
+    42.6149
+],
+  "geometry": {"coordinates":[-82.53541300000001,42.6149],"type":"Point"}
+}

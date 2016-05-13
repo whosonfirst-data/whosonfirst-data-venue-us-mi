@@ -1,0 +1,71 @@
+{
+  "id": 705845633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.36623,41.926415,-86.36623,41.926415",
+    "geom:latitude":41.926415,
+    "geom:longitude":-86.36623,
+    "iso:country":"US",
+    "sg:address":"3829 E Snow Rd",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 9132",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05AJ46OZQVBlVGEAwWsADX_41.926415_-86.366230@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790080,
+    "wof:geomhash":"ba729c87e9e7152f4bb9fb655ce5cedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705845633
+        }
+    ],
+    "wof:id":705845633,
+    "wof:lastmodified":1461790080,
+    "wof:name":"Emhoff Electric",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.36623,
+    41.926415,
+    -86.36623,
+    41.926415
+],
+  "geometry": {"coordinates":[-86.36623,41.926415],"type":"Point"}
+}

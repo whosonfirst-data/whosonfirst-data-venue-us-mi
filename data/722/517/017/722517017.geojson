@@ -1,0 +1,87 @@
+{
+  "id": 722517017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.375984,42.464738,-83.375984,42.464738",
+    "geom:latitude":42.464738,
+    "geom:longitude":-83.375984,
+    "iso:country":"US",
+    "sg:address":"33316 Grand River Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 957 8179",
+    "sg:postcode":"48336",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"Basementburgerbar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524579,
+        102191575,
+        404508185,
+        85633793,
+        85952009,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gkjq6IQpWz8tfDs4t6Avx_42.464738_-83.375984@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813784,
+    "wof:geomhash":"764bcf7ddaa0ca4ea90f25e27e6a5aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508185,
+            "locality_id":85952009,
+            "neighbourhood_id":420524579,
+            "region_id":85688599,
+            "venue_id":722517017
+        }
+    ],
+    "wof:id":722517017,
+    "wof:lastmodified":1461813784,
+    "wof:name":"Basement Burger Bar",
+    "wof:parent_id":420524579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.375984,
+    42.464738,
+    -83.375984,
+    42.464738
+],
+  "geometry": {"coordinates":[-83.375984,42.464738],"type":"Point"}
+}

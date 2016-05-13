@@ -1,0 +1,78 @@
+{
+  "id": 706583255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.334009,42.233611,-84.334009,42.233611",
+    "geom:latitude":42.233611,
+    "geom:longitude":-84.334009,
+    "iso:country":"US",
+    "sg:address":"150 Factory Rd",
+    "sg:city":"Michigan Center",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 748 2500",
+    "sg:postcode":"49254",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30b2rq3XXZtL0AFmfjSHQp_42.233611_-84.334009@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806386,
+    "wof:geomhash":"1f295786cb8167a8cf97b1ad1688bdb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706583255
+        }
+    ],
+    "wof:id":706583255,
+    "wof:lastmodified":1461806386,
+    "wof:name":"Center Machine & Tool LLC",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.334009,
+    42.233611,
+    -84.334009,
+    42.233611
+],
+  "geometry": {"coordinates":[-84.33400899999999,42.233611],"type":"Point"}
+}

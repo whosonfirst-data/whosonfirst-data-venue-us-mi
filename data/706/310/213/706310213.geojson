@@ -1,0 +1,71 @@
+{
+  "id": 706310213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.10083,45.745674,-87.10083,45.745674",
+    "geom:latitude":45.745674,
+    "geom:longitude":-87.10083,
+    "iso:country":"US",
+    "sg:address":"3409 Ludington St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 1356",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eE3v5jSo7ZBTVcCw8oqNQ_45.745674_-87.100830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800523,
+    "wof:geomhash":"b7ef2ad27d02921ff7b7ba20d06810d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706310213
+        }
+    ],
+    "wof:id":706310213,
+    "wof:lastmodified":1461800523,
+    "wof:name":"OSF St Francis Women's Ctr",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.10083,
+    45.745674,
+    -87.10083,
+    45.745674
+],
+  "geometry": {"coordinates":[-87.10083,45.745674],"type":"Point"}
+}

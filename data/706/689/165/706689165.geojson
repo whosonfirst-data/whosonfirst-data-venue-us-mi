@@ -1,0 +1,72 @@
+{
+  "id": 706689165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.018861,42.807251,-86.018861,42.807251",
+    "geom:latitude":42.807251,
+    "geom:longitude":-86.018861,
+    "iso:country":"US",
+    "sg:address":"261 S State St",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/zeeland/196940-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 772 1307",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZgPPxPGR2o4l0npSqluQL_42.806752_-86.018785@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809639,
+    "wof:geomhash":"c109b93456cdcb3935076352966838be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":706689165
+        }
+    ],
+    "wof:id":706689165,
+    "wof:lastmodified":1461809639,
+    "wof:name":"Burger King",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.018861,
+    42.807251,
+    -86.018861,
+    42.807251
+],
+  "geometry": {"coordinates":[-86.018861,42.807251],"type":"Point"}
+}

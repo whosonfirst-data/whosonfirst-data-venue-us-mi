@@ -1,0 +1,71 @@
+{
+  "id": 705882937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245554,43.159886,-86.245554,43.159886",
+    "geom:latitude":43.159886,
+    "geom:longitude":-86.245554,
+    "iso:country":"US",
+    "sg:address":"5129 Martin Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 7811",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IWSy7XGoy38Fm5KPLAvbd_43.159886_-86.245554@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790993,
+    "wof:geomhash":"8caeca9c17941b6d03ca5669322b865b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705882937
+        }
+    ],
+    "wof:id":705882937,
+    "wof:lastmodified":1461790993,
+    "wof:name":"Superior Cleaning Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.245554,
+    43.159886,
+    -86.245554,
+    43.159886
+],
+  "geometry": {"coordinates":[-86.245554,43.159886],"type":"Point"}
+}

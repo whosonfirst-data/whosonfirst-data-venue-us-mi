@@ -1,0 +1,69 @@
+{
+  "id": 705776981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.339641,42.685417,-83.339641,42.685417",
+    "geom:latitude":42.685417,
+    "geom:longitude":-83.339641,
+    "iso:country":"US",
+    "sg:address":"3325 Angelus Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 524 1122",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5US1ael3SpcHefabjqnvuj_42.685417_-83.339641@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788474,
+    "wof:geomhash":"c858bf634bfec118cc4c2814607b6a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705776981
+        }
+    ],
+    "wof:id":705776981,
+    "wof:lastmodified":1461788474,
+    "wof:name":"Beatty Transmission Svc",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.339641,
+    42.685417,
+    -83.339641,
+    42.685417
+],
+  "geometry": {"coordinates":[-83.339641,42.685417],"type":"Point"}
+}

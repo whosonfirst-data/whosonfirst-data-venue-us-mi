@@ -1,0 +1,71 @@
+{
+  "id": 706464427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20569,43.051329,-86.20569,43.051329",
+    "geom:latitude":43.051329,
+    "geom:longitude":-86.20569,
+    "iso:country":"US",
+    "sg:address":"925 S Beechtree St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 2640",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e0C92vjsTCJ3SayqnccKd_43.051329_-86.205690@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803737,
+    "wof:geomhash":"9c739811a5924a01287ca55ff5cb3f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":706464427
+        }
+    ],
+    "wof:id":706464427,
+    "wof:lastmodified":1461803737,
+    "wof:name":"Robert W Dixon Jr MD",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.20569,
+    43.051329,
+    -86.20569,
+    43.051329
+],
+  "geometry": {"coordinates":[-86.20569,43.051329],"type":"Point"}
+}

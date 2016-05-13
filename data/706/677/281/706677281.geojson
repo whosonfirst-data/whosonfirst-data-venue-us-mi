@@ -1,0 +1,80 @@
+{
+  "id": 706677281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.485225,42.216496,-83.485225,42.216496",
+    "geom:latitude":42.216496,
+    "geom:longitude":-83.485225,
+    "iso:country":"US",
+    "sg:address":"11550 Belleville Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/van-buren/197232-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 2908",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fumJL53xyyF8OETlaSdMG_42.216496_-83.485225@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809174,
+    "wof:geomhash":"8ac84426162bf6cc399576577af7d657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706677281
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677281
+        }
+    ],
+    "wof:id":706677281,
+    "wof:lastmodified":1461809174,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.485225,
+    42.216496,
+    -83.485225,
+    42.216496
+],
+  "geometry": {"coordinates":[-83.485225,42.216496],"type":"Point"}
+}

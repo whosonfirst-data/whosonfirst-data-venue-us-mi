@@ -1,0 +1,73 @@
+{
+  "id": 689549485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440819,43.949429,-86.440819,43.949429",
+    "geom:latitude":43.949429,
+    "geom:longitude":-86.440819,
+    "iso:country":"US",
+    "sg:address":"410 E Dowland St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 845 6218",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bSZ88V1cQjEtkJcOiVK97_43.949429_-86.440819@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774699,
+    "wof:geomhash":"1d8fe90c79f11efecbbe565a6b580e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":689549485
+        }
+    ],
+    "wof:id":689549485,
+    "wof:lastmodified":1461774699,
+    "wof:name":"Dial-A-Ride",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.440819,
+    43.949429,
+    -86.440819,
+    43.949429
+],
+  "geometry": {"coordinates":[-86.440819,43.949429],"type":"Point"}
+}

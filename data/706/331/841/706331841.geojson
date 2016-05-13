@@ -1,0 +1,71 @@
+{
+  "id": 706331841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.543098,41.938985,-86.543098,41.938985",
+    "geom:latitude":41.938985,
+    "geom:longitude":-86.543098,
+    "iso:country":"US",
+    "sg:address":"9964 Gast Rd",
+    "sg:city":"Bridgman",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 465 5432",
+    "sg:postcode":"49106",
+    "sg:province":"MI",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NM5WT1CjMipPFnGDbBk3Y_41.938985_-86.543098@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801022,
+    "wof:geomhash":"5d0e29be0e388dc7cc77d86efed2bf17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706331841
+        }
+    ],
+    "wof:id":706331841,
+    "wof:lastmodified":1461801022,
+    "wof:name":"Bridgman School District",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -86.543098,
+    41.938985,
+    -86.543098,
+    41.938985
+],
+  "geometry": {"coordinates":[-86.543098,41.938985],"type":"Point"}
+}

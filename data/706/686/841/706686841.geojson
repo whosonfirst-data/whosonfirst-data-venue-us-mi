@@ -1,0 +1,72 @@
+{
+  "id": 706686841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.400919,44.252266,-85.400919,44.252266",
+    "geom:latitude":44.252266,
+    "geom:longitude":-85.400919,
+    "iso:country":"US",
+    "sg:address":"302 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cadillac/137754-pizza-plus/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7727",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mDadiaCJPcxnglcRH9dCf_44.252266_-85.400919@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809551,
+    "wof:geomhash":"0aa6ed8d5b67ba6a11a75d7914ef9685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686841
+        }
+    ],
+    "wof:id":706686841,
+    "wof:lastmodified":1461809551,
+    "wof:name":"Pizza Plus",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.400919,
+    44.252266,
+    -85.400919,
+    44.252266
+],
+  "geometry": {"coordinates":[-85.400919,44.252266],"type":"Point"}
+}

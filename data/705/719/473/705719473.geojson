@@ -1,0 +1,67 @@
+{
+  "id": 705719473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645011,42.862533,-85.645011,42.862533",
+    "geom:latitude":42.862533,
+    "geom:longitude":-85.645011,
+    "iso:country":"US",
+    "sg:address":"5525 Eastern Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 261 3661",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:website":"www.shopcvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bcfBmV9H1rhXcRsAAx714_42.862533_-85.645011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787152,
+    "wof:geomhash":"030a43d553b96f8c53af4e93a23bb73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705719473
+        }
+    ],
+    "wof:id":705719473,
+    "wof:lastmodified":1461787152,
+    "wof:name":"CVS Pharmacy",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.645011,
+    42.862533,
+    -85.645011,
+    42.862533
+],
+  "geometry": {"coordinates":[-85.645011,42.862533],"type":"Point"}
+}

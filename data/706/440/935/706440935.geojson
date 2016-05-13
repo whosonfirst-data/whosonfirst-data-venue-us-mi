@@ -1,0 +1,80 @@
+{
+  "id": 706440935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.424687,42.268837,-84.424687,42.268837",
+    "geom:latitude":42.268837,
+    "geom:longitude":-84.424687,
+    "iso:country":"US",
+    "sg:address":"1709 N West Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 9357",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "packaging",
+        "mailing",
+        "shipping",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BWT4TPrAkphbWpnL3qLiA_42.268837_-84.424687@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803231,
+    "wof:geomhash":"6b576700b0c856777a6b782f36157910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706440935
+        }
+    ],
+    "wof:id":706440935,
+    "wof:lastmodified":1461803231,
+    "wof:name":"Mail Port Plus Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "mailing",
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [
+    -84.424687,
+    42.268837,
+    -84.424687,
+    42.268837
+],
+  "geometry": {"coordinates":[-84.42468700000001,42.268837],"type":"Point"}
+}

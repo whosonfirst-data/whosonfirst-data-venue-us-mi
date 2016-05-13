@@ -1,0 +1,72 @@
+{
+  "id": 706486289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065364,45.820209,-88.065364,45.820209",
+    "geom:latitude":45.820209,
+    "geom:longitude":-88.065364,
+    "iso:country":"US",
+    "sg:address":"215 E Ludington St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2772",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.ironmountaindailynews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZO0jZGrW0y7ZSTgZzMrQd_45.820209_-88.065364@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804236,
+    "wof:geomhash":"38ec058448c77ca5c477e0280d7d7417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706486289
+        }
+    ],
+    "wof:id":706486289,
+    "wof:lastmodified":1461804236,
+    "wof:name":"Daily News",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -88.065364,
+    45.820209,
+    -88.065364,
+    45.820209
+],
+  "geometry": {"coordinates":[-88.065364,45.820209],"type":"Point"}
+}

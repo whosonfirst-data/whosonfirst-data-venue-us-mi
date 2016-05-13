@@ -1,0 +1,71 @@
+{
+  "id": 689679401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796899,43.421461,-85.796899,43.421461",
+    "geom:latitude":43.421461,
+    "geom:longitude":-85.796899,
+    "iso:country":"US",
+    "sg:address":"103 Water St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 6017",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52DQZpjfd42vtIdpcwAmOt_43.421461_-85.796899@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778605,
+    "wof:geomhash":"bd195163016bff8eaaec7fb8d385d96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689679401
+        }
+    ],
+    "wof:id":689679401,
+    "wof:lastmodified":1461778605,
+    "wof:name":"Michigan Agriculture Commodts",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -85.796899,
+    43.421461,
+    -85.796899,
+    43.421461
+],
+  "geometry": {"coordinates":[-85.796899,43.421461],"type":"Point"}
+}

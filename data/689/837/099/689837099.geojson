@@ -1,0 +1,73 @@
+{
+  "id": 689837099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.202194,43.001256,-86.202194,43.001256",
+    "geom:latitude":43.001256,
+    "geom:longitude":-86.202194,
+    "iso:country":"US",
+    "sg:address":"16715 Lincoln St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 2814",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846207,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MNReLTd3QsEGqT2ZIguWI_43.001256_-86.202194@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783040,
+    "wof:geomhash":"8584d37ca7793f83344a75b77862b3ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85846207,
+            "region_id":85688599,
+            "venue_id":689837099
+        }
+    ],
+    "wof:id":689837099,
+    "wof:lastmodified":1461783040,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85846207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.202194,
+    43.001256,
+    -86.202194,
+    43.001256
+],
+  "geometry": {"coordinates":[-86.20219400000001,43.001256],"type":"Point"}
+}

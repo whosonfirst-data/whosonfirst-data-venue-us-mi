@@ -1,0 +1,71 @@
+{
+  "id": 706647201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.006183,43.439696,-84.006183,43.439696",
+    "geom:latitude":43.439696,
+    "geom:longitude":-84.006183,
+    "iso:country":"US",
+    "sg:address":"4725 Hemmeter Ct",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 2669",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jeV4LfckD2zp3uwlLDOP9_43.439696_-84.006183@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807809,
+    "wof:geomhash":"895f332dc9fd9652124378971b32adb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706647201
+        }
+    ],
+    "wof:id":706647201,
+    "wof:lastmodified":1461807809,
+    "wof:name":"Van Y Electric",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.006183,
+    43.439696,
+    -84.006183,
+    43.439696
+],
+  "geometry": {"coordinates":[-84.00618299999999,43.439696],"type":"Point"}
+}

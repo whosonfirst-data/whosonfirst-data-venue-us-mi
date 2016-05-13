@@ -1,0 +1,71 @@
+{
+  "id": 706367409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.730222,43.027214,-83.730222,43.027214",
+    "geom:latitude":43.027214,
+    "geom:longitude":-83.730222,
+    "iso:country":"US",
+    "sg:address":"1275 N Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 424 3736",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SE27deMV8UGFqlOiXBsDI_43.027214_-83.730222@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801758,
+    "wof:geomhash":"4eed160d905042d17ecc5b0ee00f08a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706367409
+        }
+    ],
+    "wof:id":706367409,
+    "wof:lastmodified":1461801758,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.730222,
+    43.027214,
+    -83.730222,
+    43.027214
+],
+  "geometry": {"coordinates":[-83.730222,43.027214],"type":"Point"}
+}

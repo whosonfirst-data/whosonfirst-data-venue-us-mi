@@ -1,0 +1,67 @@
+{
+  "id": 706305643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.73322,43.057781,-83.73322,43.057781",
+    "geom:latitude":43.057781,
+    "geom:longitude":-83.73322,
+    "iso:country":"US",
+    "sg:address":"4949 Clio Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 3401",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:website":"www.footlocker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0df5hdFAwrJOF5mdMHSOT6_43.057781_-83.733220@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800424,
+    "wof:geomhash":"3c479b79d8ac5bb5216082a4a4240fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706305643
+        }
+    ],
+    "wof:id":706305643,
+    "wof:lastmodified":1461800424,
+    "wof:name":"Footaction",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73322,
+    43.057781,
+    -83.73322,
+    43.057781
+],
+  "geometry": {"coordinates":[-83.73322,43.057781],"type":"Point"}
+}

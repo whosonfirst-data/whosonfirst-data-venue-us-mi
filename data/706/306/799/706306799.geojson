@@ -1,0 +1,71 @@
+{
+  "id": 706306799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.504219,42.65337,-83.504219,42.65337",
+    "geom:latitude":42.65337,
+    "geom:longitude":-83.504219,
+    "iso:country":"US",
+    "sg:address":"1075 Lakelane Dr",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 698 1618",
+    "sg:postcode":"48386",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L9xjTsrFKz40sYo6EPpvh_42.653370_-83.504219@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800452,
+    "wof:geomhash":"d2873ef726720cb92dcd12f96a3cfb85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":706306799
+        }
+    ],
+    "wof:id":706306799,
+    "wof:lastmodified":1461800452,
+    "wof:name":"Rick's Plumbing",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.504219,
+    42.65337,
+    -83.504219,
+    42.65337
+],
+  "geometry": {"coordinates":[-83.50421900000001,42.65337],"type":"Point"}
+}

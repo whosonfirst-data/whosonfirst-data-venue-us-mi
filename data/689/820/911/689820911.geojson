@@ -1,0 +1,69 @@
+{
+  "id": 689820911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.657622,42.256998,-83.657622,42.256998",
+    "geom:latitude":42.256998,
+    "geom:longitude":-83.657622,
+    "iso:country":"US",
+    "sg:address":"2901 Bynan Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 528 0107",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ddPRfMALSISYwHjzensqR_42.256998_-83.657622@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782540,
+    "wof:geomhash":"7ba14b8afc90e7479fb42e755da1d40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":689820911
+        }
+    ],
+    "wof:id":689820911,
+    "wof:lastmodified":1461782540,
+    "wof:name":"Mr Mobile Automotive Svc",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.657622,
+    42.256998,
+    -83.657622,
+    42.256998
+],
+  "geometry": {"coordinates":[-83.657622,42.256998],"type":"Point"}
+}

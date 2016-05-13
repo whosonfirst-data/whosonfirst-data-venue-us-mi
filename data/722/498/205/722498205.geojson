@@ -1,0 +1,77 @@
+{
+  "id": 722498205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.023399,42.407101,-83.023399,42.407101",
+    "geom:latitude":42.407101,
+    "geom:longitude":-83.023399,
+    "iso:country":"US",
+    "sg:address":"11445 Van Dyke St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 571 5135",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uy7YJ8NDeelqrKynNnpFt_42.407101_-83.023399@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461813001,
+    "wof:geomhash":"a4916b0d2cd0afde36ab1cf1268ac22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":722498205
+        }
+    ],
+    "wof:id":722498205,
+    "wof:lastmodified":1461813001,
+    "wof:name":"Knocker's Collision",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.023399,
+    42.407101,
+    -83.023399,
+    42.407101
+],
+  "geometry": {"coordinates":[-83.023399,42.407101],"type":"Point"}
+}

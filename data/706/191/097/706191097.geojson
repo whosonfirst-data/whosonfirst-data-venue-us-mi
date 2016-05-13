@@ -1,0 +1,73 @@
+{
+  "id": 706191097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720733,43.014578,-83.720733,43.014578",
+    "geom:latitude":43.014578,
+    "geom:longitude":-83.720733,
+    "iso:country":"US",
+    "sg:address":"623 Frank St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 244 4038",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OtNaLy9a53nqk8d6TtkHj_43.014578_-83.720733@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797882,
+    "wof:geomhash":"e2fc74732a16768f578a7989dca18ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706191097
+        }
+    ],
+    "wof:id":706191097,
+    "wof:lastmodified":1461797882,
+    "wof:name":"Marx Locksmith",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.720733,
+    43.014578,
+    -83.720733,
+    43.014578
+],
+  "geometry": {"coordinates":[-83.720733,43.014578],"type":"Point"}
+}

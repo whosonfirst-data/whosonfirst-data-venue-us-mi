@@ -1,0 +1,73 @@
+{
+  "id": 706275223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.291385,43.216015,-86.291385,43.216015",
+    "geom:latitude":43.216015,
+    "geom:longitude":-86.291385,
+    "iso:country":"US",
+    "sg:address":"1953 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 2611",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UEB2KnbP4VEZySLwC5lT6_43.216015_-86.291385@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799730,
+    "wof:geomhash":"71a95b8b58165855ab9dca0c8469081e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706275223
+        }
+    ],
+    "wof:id":706275223,
+    "wof:lastmodified":1461799730,
+    "wof:name":"Blais Dance Academy",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -86.291385,
+    43.216015,
+    -86.291385,
+    43.216015
+],
+  "geometry": {"coordinates":[-86.29138500000001,43.216015],"type":"Point"}
+}

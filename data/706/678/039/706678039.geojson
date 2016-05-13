@@ -1,0 +1,72 @@
+{
+  "id": 706678039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.441306,42.359405,-83.441306,42.359405",
+    "geom:latitude":42.359405,
+    "geom:longitude":-83.441306,
+    "iso:country":"US",
+    "sg:address":"40400 Ann Arbor Rd E",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plymouth/97466-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 1515",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oLWT09PdPt2rwTzkYIV01_42.359405_-83.441306@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809210,
+    "wof:geomhash":"18117a5c48c80d489675d97d1a10f091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706678039
+        }
+    ],
+    "wof:id":706678039,
+    "wof:lastmodified":1461809210,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -83.441306,
+    42.359405,
+    -83.441306,
+    42.359405
+],
+  "geometry": {"coordinates":[-83.441306,42.359405],"type":"Point"}
+}

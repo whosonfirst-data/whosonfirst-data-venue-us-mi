@@ -1,0 +1,76 @@
+{
+  "id": 705956475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.810056,42.596158,-82.810056,42.596158",
+    "geom:latitude":42.596158,
+    "geom:longitude":-82.810056,
+    "iso:country":"US",
+    "sg:address":"30201 S River Rd",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 6960",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transporting",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67wYjzhBWHrAi3mfYGq5Aq_42.596158_-82.810056@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792678,
+    "wof:geomhash":"f0be270e46d6ea7a34d9202f920a99a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":705956475
+        }
+    ],
+    "wof:id":705956475,
+    "wof:lastmodified":1461792678,
+    "wof:name":"Blue Water Marine Inc",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporting",
+        "boat"
+    ]
+},
+  "bbox": [
+    -82.810056,
+    42.596158,
+    -82.810056,
+    42.596158
+],
+  "geometry": {"coordinates":[-82.810056,42.596158],"type":"Point"}
+}

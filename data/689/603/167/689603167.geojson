@@ -1,0 +1,69 @@
+{
+  "id": 689603167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.989454,42.662709,-85.989454,42.662709",
+    "geom:latitude":42.662709,
+    "geom:longitude":-85.989454,
+    "iso:country":"US",
+    "sg:address":"3372 Lincoln Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 751 8500",
+    "sg:postcode":"49419",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sin6lDSRdtmTlKueRx0Ff_42.662709_-85.989454@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776351,
+    "wof:geomhash":"cd754a45c5be940f552ca4e3ce7411c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689603167
+        }
+    ],
+    "wof:id":689603167,
+    "wof:lastmodified":1461776351,
+    "wof:name":"Hamilton Veterinary Clinic",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.989454,
+    42.662709,
+    -85.989454,
+    42.662709
+],
+  "geometry": {"coordinates":[-85.98945399999999,42.662709],"type":"Point"}
+}

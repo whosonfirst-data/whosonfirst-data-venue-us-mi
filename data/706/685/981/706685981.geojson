@@ -1,0 +1,74 @@
+{
+  "id": 706685981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.324166,43.40911,-86.324166,43.40911",
+    "geom:latitude":43.40911,
+    "geom:longitude":-86.324166,
+    "iso:country":"US",
+    "sg:address":"3280 Colby Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/whitehall/210820-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 1908",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3om6xqvdtPE6D5e00lHkxN_43.409110_-86.324166@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809520,
+    "wof:geomhash":"074e739c954432ed70fe1669a03c3843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685981
+        }
+    ],
+    "wof:id":706685981,
+    "wof:lastmodified":1461809520,
+    "wof:name":"Arby's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.324166,
+    43.40911,
+    -86.324166,
+    43.40911
+],
+  "geometry": {"coordinates":[-86.32416600000001,43.40911],"type":"Point"}
+}

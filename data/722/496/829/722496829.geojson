@@ -1,0 +1,70 @@
+{
+  "id": 722496829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.185303,42.3512,-83.185303,42.3512",
+    "geom:latitude":42.3512,
+    "geom:longitude":-83.185303,
+    "iso:country":"US",
+    "sg:address":"14440 Tireman St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 584 8551",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896599,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ns1HMNs6fOcxGgz4iyh17_42.351200_-83.185303@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812953,
+    "wof:geomhash":"28a8d27190988d6b14c5fc7e16855f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896599,
+            "region_id":85688599,
+            "venue_id":722496829
+        }
+    ],
+    "wof:id":722496829,
+    "wof:lastmodified":1461812953,
+    "wof:name":"Sam's Auto Repair",
+    "wof:parent_id":85896599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.185303,
+    42.3512,
+    -83.185303,
+    42.3512
+],
+  "geometry": {"coordinates":[-83.185303,42.3512],"type":"Point"}
+}

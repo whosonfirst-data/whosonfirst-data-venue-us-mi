@@ -1,0 +1,69 @@
+{
+  "id": 722519625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.445999,42.5966,-83.445999,42.5966",
+    "geom:latitude":42.5966,
+    "geom:longitude":-83.445999,
+    "iso:country":"US",
+    "sg:address":"2645 Union Lake Rd",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 0822",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17tfOmwahVZWwWKFYKFAjz_42.596600_-83.445999@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813904,
+    "wof:geomhash":"1c21886248da69bf0c39a281b24feabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":722519625
+        }
+    ],
+    "wof:id":722519625,
+    "wof:lastmodified":1461813904,
+    "wof:name":"Lakeside Animal Hospital PC",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.445999,
+    42.5966,
+    -83.445999,
+    42.5966
+],
+  "geometry": {"coordinates":[-83.445999,42.5966],"type":"Point"}
+}

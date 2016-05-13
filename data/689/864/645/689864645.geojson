@@ -1,0 +1,73 @@
+{
+  "id": 689864645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394895,46.555395,-87.394895,46.555395",
+    "geom:latitude":46.555395,
+    "geom:longitude":-87.394895,
+    "iso:country":"US",
+    "sg:address":"1219 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 5070",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tkIWrc5Bdl0yfRbiDW11c_46.555395_-87.394895@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783638,
+    "wof:geomhash":"1189b9398b9622510637cd1f7b46b954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689864645
+        }
+    ],
+    "wof:id":689864645,
+    "wof:lastmodified":1461783638,
+    "wof:name":"Planned Parenthood Nthrn Mich",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -87.394895,
+    46.555395,
+    -87.394895,
+    46.555395
+],
+  "geometry": {"coordinates":[-87.39489500000001,46.555395],"type":"Point"}
+}

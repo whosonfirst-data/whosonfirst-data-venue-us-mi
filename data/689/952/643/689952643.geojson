@@ -1,0 +1,71 @@
+{
+  "id": 689952643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.508489,42.230383,-85.508489,42.230383",
+    "geom:latitude":42.230383,
+    "geom:longitude":-85.508489,
+    "iso:country":"US",
+    "sg:address":"6171 E O Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 5474",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cpkiOxD7owGA7UmGeQAYS_42.230383_-85.508489@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785926,
+    "wof:geomhash":"cbab6bd22e472532548f999919f65fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689952643
+        }
+    ],
+    "wof:id":689952643,
+    "wof:lastmodified":1461785926,
+    "wof:name":"Escape Fire Inspection Co",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.508489,
+    42.230383,
+    -85.508489,
+    42.230383
+],
+  "geometry": {"coordinates":[-85.508489,42.230383],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705981313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.481451,42.432344,-83.481451,42.432344",
+    "geom:latitude":42.432344,
+    "geom:longitude":-83.481451,
+    "iso:country":"US",
+    "sg:address":"111 E Dunlap St",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 348 4147",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xAj7Z1H8kqIw33eVsCnRr_42.432344_-83.481451@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793191,
+    "wof:geomhash":"087b044c3d648bbdd7281a79b6db79e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":705981313
+        }
+    ],
+    "wof:id":705981313,
+    "wof:lastmodified":1461793191,
+    "wof:name":"Jacks Barber Shop",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.481451,
+    42.432344,
+    -83.481451,
+    42.432344
+],
+  "geometry": {"coordinates":[-83.48145100000001,42.432344],"type":"Point"}
+}

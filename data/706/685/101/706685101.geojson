@@ -1,0 +1,72 @@
+{
+  "id": 706685101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.340166,42.236642,-84.340166,42.236642",
+    "geom:latitude":42.236642,
+    "geom:longitude":-84.340166,
+    "iso:country":"US",
+    "sg:address":"4080 Page Ave",
+    "sg:city":"Michigan Center",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/leoni/196906-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 7705",
+    "sg:postcode":"49254",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tvpWVWCDrKiVitEa7xr3M_42.236642_-84.340166@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809488,
+    "wof:geomhash":"bf21606319d8c930947fdd1d3acf1681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706685101
+        }
+    ],
+    "wof:id":706685101,
+    "wof:lastmodified":1461809488,
+    "wof:name":"Burger King",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.340166,
+    42.236642,
+    -84.340166,
+    42.236642
+],
+  "geometry": {"coordinates":[-84.340166,42.236642],"type":"Point"}
+}

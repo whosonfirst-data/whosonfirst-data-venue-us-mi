@@ -1,0 +1,73 @@
+{
+  "id": 705715817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.733219,43.006989,-83.733219,43.006989",
+    "geom:latitude":43.006989,
+    "geom:longitude":-83.733219,
+    "iso:country":"US",
+    "sg:address":"809 S Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 234 8838",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I0xKuFsvWDeXUkJBiOqGq_43.006989_-83.733219@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787060,
+    "wof:geomhash":"e8a333dd152499beee09ed364fb64012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705715817
+        }
+    ],
+    "wof:id":705715817,
+    "wof:lastmodified":1461787060,
+    "wof:name":"Tony's Auto Repair",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.733219,
+    43.006989,
+    -83.733219,
+    43.006989
+],
+  "geometry": {"coordinates":[-83.73321900000001,43.006989],"type":"Point"}
+}

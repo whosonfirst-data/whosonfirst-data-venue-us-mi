@@ -1,0 +1,82 @@
+{
+  "id": 722497321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.918586,42.389424,-82.918586,42.389424",
+    "geom:latitude":42.389424,
+    "geom:longitude":-82.918586,
+    "iso:country":"US",
+    "sg:address":"16821 Kercheval Ave",
+    "sg:city":"Grosse Pointe Park",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 882 1052",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:website":"www.flagstar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85951121,
+        420524945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14r2D9BkA9jX6uzlTOFmaY_42.389424_-82.918586@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812969,
+    "wof:geomhash":"187840dbc8cc472e21f428177ba0011c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722497321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":722497321
+        }
+    ],
+    "wof:id":722497321,
+    "wof:lastmodified":1461812969,
+    "wof:name":"Flagstar Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.918586,
+    42.389424,
+    -82.918586,
+    42.389424
+],
+  "geometry": {"coordinates":[-82.918586,42.389424],"type":"Point"}
+}

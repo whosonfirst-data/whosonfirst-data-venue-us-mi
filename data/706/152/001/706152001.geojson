@@ -1,0 +1,71 @@
+{
+  "id": 706152001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.740891,41.790191,-86.740891,41.790191",
+    "geom:latitude":41.790191,
+    "geom:longitude":-86.740891,
+    "iso:country":"US",
+    "sg:address":"346 S Whittaker St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 7956",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5steCHxrzTBeFIJeTkzk8A_41.790191_-86.740891@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797022,
+    "wof:geomhash":"09f71c78932a97ff08462a022b80d027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706152001
+        }
+    ],
+    "wof:id":706152001,
+    "wof:lastmodified":1461797022,
+    "wof:name":"Harbor Country Car Wash",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.740891,
+    41.790191,
+    -86.740891,
+    41.790191
+],
+  "geometry": {"coordinates":[-86.740891,41.790191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705863399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.034463,43.389596,-84.034463,43.389596",
+    "geom:latitude":43.389596,
+    "geom:longitude":-84.034463,
+    "iso:country":"US",
+    "sg:address":"2205 Weigl Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 0183",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bw7CBtbURUtMNVtB6mMlN_43.389596_-84.034463@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790503,
+    "wof:geomhash":"a189a025161d0c2eb4af399e66d0e29f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705863399
+        }
+    ],
+    "wof:id":705863399,
+    "wof:lastmodified":1461790503,
+    "wof:name":"Thon Electric",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.034463,
+    43.389596,
+    -84.034463,
+    43.389596
+],
+  "geometry": {"coordinates":[-84.034463,43.389596],"type":"Point"}
+}

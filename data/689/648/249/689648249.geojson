@@ -1,0 +1,71 @@
+{
+  "id": 689648249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617505,42.688581,-85.617505,42.688581",
+    "geom:latitude":42.688581,
+    "geom:longitude":-85.617505,
+    "iso:country":"US",
+    "sg:address":"617 137th Ave",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 4574",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BG83PGLqcRSDvJAaYjqgx_42.688581_-85.617505@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777819,
+    "wof:geomhash":"d7c20aac12183d7bd09db304123e9a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689648249
+        }
+    ],
+    "wof:id":689648249,
+    "wof:lastmodified":1461777819,
+    "wof:name":"Roadside Repair",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "road"
+    ]
+},
+  "bbox": [
+    -85.617505,
+    42.688581,
+    -85.617505,
+    42.688581
+],
+  "geometry": {"coordinates":[-85.61750499999999,42.688581],"type":"Point"}
+}

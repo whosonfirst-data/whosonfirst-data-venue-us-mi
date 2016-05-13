@@ -1,0 +1,69 @@
+{
+  "id": 705857515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.892395,43.168563,-83.892395,43.168563",
+    "geom:latitude":43.168563,
+    "geom:longitude":-83.892395,
+    "iso:country":"US",
+    "sg:address":"11155 Nichols Rd",
+    "sg:city":"Montrose",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 639 5400",
+    "sg:postcode":"48457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5teVsb9LBk5xkHmQh8A51n_43.168563_-83.892395@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790360,
+    "wof:geomhash":"690820a1b2947cb8fe5dae9cb0c12c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705857515
+        }
+    ],
+    "wof:id":705857515,
+    "wof:lastmodified":1461790360,
+    "wof:name":"Montrose Police Dept",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.892395,
+    43.168563,
+    -83.892395,
+    43.168563
+],
+  "geometry": {"coordinates":[-83.89239499999999,43.168563],"type":"Point"}
+}

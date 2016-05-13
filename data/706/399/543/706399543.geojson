@@ -1,0 +1,82 @@
+{
+  "id": 706399543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065988,45.814617,-88.065988,45.814617",
+    "geom:latitude":45.814617,
+    "geom:longitude":-88.065988,
+    "iso:country":"US",
+    "sg:address":"904 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 0344",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QTqLU5wpsiD59arCN7HkX_45.814617_-88.065988@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802389,
+    "wof:geomhash":"08f04d9de52a019b2826f8767641c2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706399543
+        }
+    ],
+    "wof:id":706399543,
+    "wof:lastmodified":1461802389,
+    "wof:name":"Wickman Welding & Service Co",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "welding"
+    ]
+},
+  "bbox": [
+    -88.065988,
+    45.814617,
+    -88.065988,
+    45.814617
+],
+  "geometry": {"coordinates":[-88.065988,45.814617],"type":"Point"}
+}

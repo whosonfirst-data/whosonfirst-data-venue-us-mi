@@ -1,0 +1,77 @@
+{
+  "id": 705949563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418531,42.570186,-83.418531,42.570186",
+    "geom:latitude":42.570186,
+    "geom:longitude":-83.418531,
+    "iso:country":"US",
+    "sg:address":"4545 Welland Dr",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 360 2147",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85856655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J5XjEB3r8wWWSbAdm7WNx_42.570186_-83.418531@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792515,
+    "wof:geomhash":"5ede2b0da456ca8e2547c4c20a7b9d0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":705949563
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":705949563
+        }
+    ],
+    "wof:id":705949563,
+    "wof:lastmodified":1461792515,
+    "wof:name":"Traditional Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.418531,
+    42.570186,
+    -83.418531,
+    42.570186
+],
+  "geometry": {"coordinates":[-83.418531,42.570186],"type":"Point"}
+}

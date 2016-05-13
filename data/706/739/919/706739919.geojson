@@ -1,0 +1,88 @@
+{
+  "id": 706739919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.263416,42.197671,-83.263416,42.197671",
+    "geom:latitude":42.197671,
+    "geom:longitude":-83.263416,
+    "iso:country":"US",
+    "sg:address":"23649 Eureka Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 374 9000",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machines-service",
+        "cleaners-repair",
+        "sewing",
+        "machines-household",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KxcsmnvUyWpT4gzmnIO5L_42.197671_-83.263416@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811804,
+    "wof:geomhash":"168037a823be6127dfa98fe57877fc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706739919
+        }
+    ],
+    "wof:id":706739919,
+    "wof:lastmodified":1461811804,
+    "wof:name":"A-Ok Vacuum & Sewing Machines Center",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-service",
+        "cleaners-repair",
+        "sewing",
+        "machines-household",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -83.263416,
+    42.197671,
+    -83.263416,
+    42.197671
+],
+  "geometry": {"coordinates":[-83.26341600000001,42.197671],"type":"Point"}
+}

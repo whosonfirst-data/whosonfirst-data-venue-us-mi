@@ -1,0 +1,75 @@
+{
+  "id": 706528285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244139,43.233851,-86.244139,43.233851",
+    "geom:latitude":43.233851,
+    "geom:longitude":-86.244139,
+    "iso:country":"US",
+    "sg:address":"1093 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 4213",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kcqiTSPWB67uR3KICEN1M_43.233851_-86.244139@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805192,
+    "wof:geomhash":"64c5e59c14d4674912d8660c8b0ca047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706528285
+        }
+    ],
+    "wof:id":706528285,
+    "wof:lastmodified":1461805192,
+    "wof:name":"Kelley Trucking LLC",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.244139,
+    43.233851,
+    -86.244139,
+    43.233851
+],
+  "geometry": {"coordinates":[-86.244139,43.233851],"type":"Point"}
+}

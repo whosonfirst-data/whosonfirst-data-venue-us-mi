@@ -1,0 +1,73 @@
+{
+  "id": 689808683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.562326,42.313706,-85.562326,42.313706",
+    "geom:latitude":42.313706,
+    "geom:longitude":-85.562326,
+    "iso:country":"US",
+    "sg:address":"2235 Mount Olivet Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 385 3180",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k7tYs1PAarHHwtFYFhUJf_42.313706_-85.562326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782147,
+    "wof:geomhash":"c9c55efee3e0aa8491157487dd8eb7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689808683
+        }
+    ],
+    "wof:id":689808683,
+    "wof:lastmodified":1461782147,
+    "wof:name":"Bartender's Stop",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -85.562326,
+    42.313706,
+    -85.562326,
+    42.313706
+],
+  "geometry": {"coordinates":[-85.562326,42.313706],"type":"Point"}
+}

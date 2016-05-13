@@ -1,0 +1,83 @@
+{
+  "id": 722481607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.969544,42.449596,-82.969544,42.449596",
+    "geom:latitude":42.449596,
+    "geom:longitude":-82.969544,
+    "iso:country":"US",
+    "sg:address":"14858 E 8 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 372 6404",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870569,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46yjXHaWAeMtrhpqcTRcma_42.449596_-82.969544@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812355,
+    "wof:geomhash":"10481f2360b30c6eca32375c0577c202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870569,
+            "region_id":85688599,
+            "venue_id":722481607
+        }
+    ],
+    "wof:id":722481607,
+    "wof:lastmodified":1461812355,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85870569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -82.969544,
+    42.449596,
+    -82.969544,
+    42.449596
+],
+  "geometry": {"coordinates":[-82.969544,42.449596],"type":"Point"}
+}

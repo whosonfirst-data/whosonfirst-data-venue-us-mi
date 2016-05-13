@@ -1,0 +1,71 @@
+{
+  "id": 706215941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.837117,42.682955,-84.837117,42.682955",
+    "geom:latitude":42.682955,
+    "geom:longitude":-84.837117,
+    "iso:country":"US",
+    "sg:address":"7790 N Cochran Rd",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 543 1568",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TrxXvY3IAbNU2Ki6rRQNx_42.682955_-84.837117@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798419,
+    "wof:geomhash":"d9e5d485cafb78079e5da818d59fa1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706215941
+        }
+    ],
+    "wof:id":706215941,
+    "wof:lastmodified":1461798419,
+    "wof:name":"Michigan Equine Dental",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.837117,
+    42.682955,
+    -84.837117,
+    42.682955
+],
+  "geometry": {"coordinates":[-84.83711700000001,42.682955],"type":"Point"}
+}

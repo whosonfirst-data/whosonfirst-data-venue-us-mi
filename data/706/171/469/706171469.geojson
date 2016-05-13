@@ -1,0 +1,71 @@
+{
+  "id": 706171469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.160452,43.074088,-86.160452,43.074088",
+    "geom:latitude":43.074088,
+    "geom:longitude":-86.160452,
+    "iso:country":"US",
+    "sg:address":"15035 Cleveland St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 2575",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZcqqVSZyuwRahyQTAPrcF_43.074088_-86.160452@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797462,
+    "wof:geomhash":"e6e329c6ef7c947e668c48e6a4752608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706171469
+        }
+    ],
+    "wof:id":706171469,
+    "wof:lastmodified":1461797462,
+    "wof:name":"Harbor Tech Transmission Inc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.160452,
+    43.074088,
+    -86.160452,
+    43.074088
+],
+  "geometry": {"coordinates":[-86.16045200000001,43.074088],"type":"Point"}
+}

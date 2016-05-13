@@ -1,0 +1,74 @@
+{
+  "id": 706688353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.766117,43.060551,-83.766117,43.060551",
+    "geom:latitude":43.060551,
+    "geom:longitude":-83.766117,
+    "iso:country":"US",
+    "sg:address":"4325 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-morris/210744-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 6610",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i6nSgH5ec79jYMkcuCgc8_43.060530_-83.765766@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809610,
+    "wof:geomhash":"2c02d9186a917c20444625c9ba9b2083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706688353
+        }
+    ],
+    "wof:id":706688353,
+    "wof:lastmodified":1461809610,
+    "wof:name":"Arby's",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.766117,
+    43.060551,
+    -83.766117,
+    43.060551
+],
+  "geometry": {"coordinates":[-83.76611699999999,43.060551],"type":"Point"}
+}

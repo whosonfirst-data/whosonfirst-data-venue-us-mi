@@ -1,0 +1,75 @@
+{
+  "id": 706220675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.400206,42.935204,-85.400206,42.935204",
+    "geom:latitude":42.935204,
+    "geom:longitude":-85.400206,
+    "iso:country":"US",
+    "sg:address":"10831 Sconcewood Dr SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 7304",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vHuZN3jAnVjj5D6Lu4fdn_42.935204_-85.400206@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798516,
+    "wof:geomhash":"a22e5d81115174ed0df97854d447fde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706220675
+        }
+    ],
+    "wof:id":706220675,
+    "wof:lastmodified":1461798516,
+    "wof:name":"Red Arrow Trucking",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.400206,
+    42.935204,
+    -85.400206,
+    42.935204
+],
+  "geometry": {"coordinates":[-85.400206,42.935204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705839525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.346691,43.409763,-86.346691,43.409763",
+    "geom:latitude":43.409763,
+    "geom:longitude":-86.346691,
+    "iso:country":"US",
+    "sg:address":"112 W Colby St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 5415",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7qqalpzOC2gmtpbUN3aO_43.409763_-86.346691@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789945,
+    "wof:geomhash":"6833b99b9e09b7588e9d19bc4dd09e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705839525
+        }
+    ],
+    "wof:id":705839525,
+    "wof:lastmodified":1461789945,
+    "wof:name":"Trim Time Barber Shop",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.346691,
+    43.409763,
+    -86.346691,
+    43.409763
+],
+  "geometry": {"coordinates":[-86.34669100000001,43.409763],"type":"Point"}
+}

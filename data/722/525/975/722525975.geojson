@@ -1,0 +1,76 @@
+{
+  "id": 722525975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.562912,42.274764,-85.562912,42.274764",
+    "geom:latitude":42.274764,
+    "geom:longitude":-85.562912,
+    "iso:country":"US",
+    "sg:address":"1704 March St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 0349",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kzzXKOCEiVUGT3HDH9fjz_42.274764_-85.562912@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814250,
+    "wof:geomhash":"722d90131623f5c974a4aa45f0a6c3d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":722525975
+        }
+    ],
+    "wof:id":722525975,
+    "wof:lastmodified":1461814250,
+    "wof:name":"Krill's Korners",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -85.562912,
+    42.274764,
+    -85.562912,
+    42.274764
+],
+  "geometry": {"coordinates":[-85.562912,42.274764],"type":"Point"}
+}

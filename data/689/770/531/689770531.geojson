@@ -1,0 +1,84 @@
+{
+  "id": 689770531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602996,42.683224,-84.602996,42.683224",
+    "geom:latitude":42.683224,
+    "geom:longitude":-84.602996,
+    "iso:country":"US",
+    "sg:address":"3814 W Jolly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 1725",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878667,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599,
+        85840163,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RC0qrbXu959prJ0Zk0uSn_42.683224_-84.602996@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781026,
+    "wof:geomhash":"f72e284eebbe34e521607771f6e3644a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878667,
+            "region_id":85688599,
+            "venue_id":689770531
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":689770531
+        }
+    ],
+    "wof:id":689770531,
+    "wof:lastmodified":1461781026,
+    "wof:name":"Admiral Petroleum",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -84.602996,
+    42.683224,
+    -84.602996,
+    42.683224
+],
+  "geometry": {"coordinates":[-84.602996,42.683224],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 706434653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.166212,42.19509,-83.166212,42.19509",
+    "geom:latitude":42.19509,
+    "geom:longitude":-83.166212,
+    "iso:country":"US",
+    "sg:address":"3665 11th St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 284 9070",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck",
+        "radiator",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896867,
+        102191575,
+        404508709,
+        85633793,
+        85951075,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YV1QKeM0o8BxilU4WQbR2_42.195090_-83.166212@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803077,
+    "wof:geomhash":"15b7dbb1783989cb4d7f66754aa4470c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508709,
+            "locality_id":85951075,
+            "neighbourhood_id":85896867,
+            "region_id":85688599,
+            "venue_id":706434653
+        }
+    ],
+    "wof:id":706434653,
+    "wof:lastmodified":1461803077,
+    "wof:name":"Detroit Radiator",
+    "wof:parent_id":85896867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "radiator",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -83.166212,
+    42.19509,
+    -83.166212,
+    42.19509
+],
+  "geometry": {"coordinates":[-83.166212,42.19509],"type":"Point"}
+}

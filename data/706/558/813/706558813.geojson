@@ -1,0 +1,71 @@
+{
+  "id": 706558813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907332,45.787259,-87.907332,45.787259",
+    "geom:latitude":45.787259,
+    "geom:longitude":-87.907332,
+    "iso:country":"US",
+    "sg:address":"515 E 7th Ave",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 5572",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eemjv9RoGa1HwVrj4nk3U_45.787259_-87.907332@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805827,
+    "wof:geomhash":"fce5b1c89b1b4f7a46a64fbe9823c588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706558813
+        }
+    ],
+    "wof:id":706558813,
+    "wof:lastmodified":1461805827,
+    "wof:name":"Brians Auto Body",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -87.907332,
+    45.787259,
+    -87.907332,
+    45.787259
+],
+  "geometry": {"coordinates":[-87.907332,45.787259],"type":"Point"}
+}

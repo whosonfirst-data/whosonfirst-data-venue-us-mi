@@ -1,0 +1,80 @@
+{
+  "id": 705930187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651168,44.762656,-85.651168,44.762656",
+    "geom:latitude":44.762656,
+    "geom:longitude":-85.651168,
+    "iso:country":"US",
+    "sg:address":"5246 N Royal Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 929 0303",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gi4MGJaTlQl8oFAyOYUhh_44.762656_-85.651168@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792064,
+    "wof:geomhash":"d6eb532df999538e40b9b75cd56efb7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705930187
+        }
+    ],
+    "wof:id":705930187,
+    "wof:lastmodified":1461792064,
+    "wof:name":"Excel Rehabilitation Services",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.651168,
+    44.762656,
+    -85.651168,
+    44.762656
+],
+  "geometry": {"coordinates":[-85.651168,44.762656],"type":"Point"}
+}

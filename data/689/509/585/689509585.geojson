@@ -1,0 +1,69 @@
+{
+  "id": 689509585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.077279,42.768932,-86.077279,42.768932",
+    "geom:latitude":42.768932,
+    "geom:longitude":-86.077279,
+    "iso:country":"US",
+    "sg:address":"761 S Waverly Rd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 355 1025",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yTxyRKOUPgms00EwMPXHp_42.768932_-86.077279@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773393,
+    "wof:geomhash":"3dc4b8270ba7111059f05d79e3b40fdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":689509585
+        }
+    ],
+    "wof:id":689509585,
+    "wof:lastmodified":1461773393,
+    "wof:name":"Holland Fire Dept",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.077279,
+    42.768932,
+    -86.077279,
+    42.768932
+],
+  "geometry": {"coordinates":[-86.077279,42.768932],"type":"Point"}
+}

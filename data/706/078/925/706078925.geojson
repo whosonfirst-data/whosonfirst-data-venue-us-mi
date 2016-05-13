@@ -1,0 +1,71 @@
+{
+  "id": 706078925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.607565,42.903417,-85.607565,42.903417",
+    "geom:latitude":42.903417,
+    "geom:longitude":-85.607565,
+    "iso:country":"US",
+    "sg:address":"3303 Breton Rd SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 245 2203",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sRWKq4Ol8j7n1OSerzTlu_42.903417_-85.607565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795233,
+    "wof:geomhash":"fe8f24396a9d10770e249f4e84c939a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706078925
+        }
+    ],
+    "wof:id":706078925,
+    "wof:lastmodified":1461795233,
+    "wof:name":"Alexander Hamilton School",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -85.607565,
+    42.903417,
+    -85.607565,
+    42.903417
+],
+  "geometry": {"coordinates":[-85.60756499999999,42.903417],"type":"Point"}
+}

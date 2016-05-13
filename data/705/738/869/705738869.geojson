@@ -1,0 +1,71 @@
+{
+  "id": 705738869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.742648,41.79459,-86.742648,41.79459",
+    "geom:latitude":41.79459,
+    "geom:longitude":-86.742648,
+    "iso:country":"US",
+    "sg:address":"10 N Thompson St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1210",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_691SxAQkdOxSl4LUKWt5ZQ_41.794590_-86.742648@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787616,
+    "wof:geomhash":"7aa0238d332341b9dc7123d0b86dcd44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":705738869
+        }
+    ],
+    "wof:id":705738869,
+    "wof:lastmodified":1461787616,
+    "wof:name":"Barneys Market",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.742648,
+    41.79459,
+    -86.742648,
+    41.79459
+],
+  "geometry": {"coordinates":[-86.742648,41.79459],"type":"Point"}
+}

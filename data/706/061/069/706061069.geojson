@@ -1,0 +1,73 @@
+{
+  "id": 706061069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.532577,42.642687,-84.532577,42.642687",
+    "geom:latitude":42.642687,
+    "geom:longitude":-84.532577,
+    "iso:country":"US",
+    "sg:address":"2048 Hamilton St",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 3645",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47RyVd0ikP7HTug8YobHlu_42.642687_-84.532577@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794834,
+    "wof:geomhash":"22d4fa965960b7b83ced7069c4f35d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706061069
+        }
+    ],
+    "wof:id":706061069,
+    "wof:lastmodified":1461794834,
+    "wof:name":"Dave's Nozzle Exchange",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "station"
+    ]
+},
+  "bbox": [
+    -84.532577,
+    42.642687,
+    -84.532577,
+    42.642687
+],
+  "geometry": {"coordinates":[-84.532577,42.642687],"type":"Point"}
+}

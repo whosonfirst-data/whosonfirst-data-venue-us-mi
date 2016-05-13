@@ -1,0 +1,71 @@
+{
+  "id": 705700091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.181322,43.177801,-86.181322,43.177801",
+    "geom:latitude":43.177801,
+    "geom:longitude":-86.181322,
+    "iso:country":"US",
+    "sg:address":"2600 Briar Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 6465",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j22WSVDUmMtQWXynQHopB_43.177801_-86.181322@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786525,
+    "wof:geomhash":"84dd95fa98b75a1478b95b2ba8732ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705700091
+        }
+    ],
+    "wof:id":705700091,
+    "wof:lastmodified":1461786525,
+    "wof:name":"Muskegon Appliance Sales & Svc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.181322,
+    43.177801,
+    -86.181322,
+    43.177801
+],
+  "geometry": {"coordinates":[-86.18132199999999,43.177801],"type":"Point"}
+}

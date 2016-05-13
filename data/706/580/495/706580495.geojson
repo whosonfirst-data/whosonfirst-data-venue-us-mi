@@ -1,0 +1,79 @@
+{
+  "id": 706580495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.096739,42.303956,-83.096739,42.303956",
+    "geom:latitude":42.303956,
+    "geom:longitude":-83.096739,
+    "iso:country":"US",
+    "sg:address":"301 S Cavalry St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 843 3101",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820253,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4391nbKTmmigA2RdRmNKTj_42.303956_-83.096739@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806334,
+    "wof:geomhash":"25ae42229e74ebd7001416bd6f21eb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85820253,
+            "region_id":85688599,
+            "venue_id":706580495
+        }
+    ],
+    "wof:id":706580495,
+    "wof:lastmodified":1461806334,
+    "wof:name":"Repair & Maintenance Garage",
+    "wof:parent_id":85820253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.096739,
+    42.303956,
+    -83.096739,
+    42.303956
+],
+  "geometry": {"coordinates":[-83.096739,42.303956],"type":"Point"}
+}

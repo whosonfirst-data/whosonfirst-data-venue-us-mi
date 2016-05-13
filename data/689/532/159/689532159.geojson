@@ -1,0 +1,84 @@
+{
+  "id": 689532159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.115246,43.234817,-86.115246,43.234817",
+    "geom:latitude":43.234817,
+    "geom:longitude":-86.115246,
+    "iso:country":"US",
+    "sg:address":"5270 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 2434",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "engine",
+        "repairing",
+        "lawn",
+        "small",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CV0pkFO1jlMYsKZoICTuC_43.234817_-86.115246@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774149,
+    "wof:geomhash":"770fb50b36be54e5eb66f84f7541d6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689532159
+        }
+    ],
+    "wof:id":689532159,
+    "wof:lastmodified":1461774149,
+    "wof:name":"Norton Small Engine Repair LLC",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "repairing",
+        "lawn",
+        "small",
+        "mower"
+    ]
+},
+  "bbox": [
+    -86.115246,
+    43.234817,
+    -86.115246,
+    43.234817
+],
+  "geometry": {"coordinates":[-86.115246,43.234817],"type":"Point"}
+}

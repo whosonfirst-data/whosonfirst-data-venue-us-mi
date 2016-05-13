@@ -1,0 +1,71 @@
+{
+  "id": 706197259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.619048,42.250235,-83.619048,42.250235",
+    "geom:latitude":42.250235,
+    "geom:longitude":-83.619048,
+    "iso:country":"US",
+    "sg:address":"334 Jarvis St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 4442",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oueavxMzsenh8XDG96OQ4_42.250235_-83.619048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798016,
+    "wof:geomhash":"542909af54c2f18a153f1fd344a10855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706197259
+        }
+    ],
+    "wof:id":706197259,
+    "wof:lastmodified":1461798016,
+    "wof:name":"Ambassador East & West APT",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.619048,
+    42.250235,
+    -83.619048,
+    42.250235
+],
+  "geometry": {"coordinates":[-83.61904800000001,42.250235],"type":"Point"}
+}

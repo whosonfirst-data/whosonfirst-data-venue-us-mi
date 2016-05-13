@@ -1,0 +1,79 @@
+{
+  "id": 706689421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394968,46.551501,-87.394968,46.551501",
+    "geom:latitude":46.551501,
+    "geom:longitude":-87.394968,
+    "iso:country":"US",
+    "sg:address":"927 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marquette/276172-vangos-pizza--cocktail-lounge/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 7707",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPJmfcPx4ZSC6e4ejT2Vg_46.551932_-87.394813@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809649,
+    "wof:geomhash":"1d14a21e37447f4018595d51869d78ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706689421
+        }
+    ],
+    "wof:id":706689421,
+    "wof:lastmodified":1461809649,
+    "wof:name":"Vango's Pizza & Cocktail Lounge",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.394968,
+    46.551501,
+    -87.394968,
+    46.551501
+],
+  "geometry": {"coordinates":[-87.39496800000001,46.551501],"type":"Point"}
+}

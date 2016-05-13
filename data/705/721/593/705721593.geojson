@@ -1,0 +1,69 @@
+{
+  "id": 705721593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.279741,42.545006,-83.279741,42.545006",
+    "geom:latitude":42.545006,
+    "geom:longitude":-83.279741,
+    "iso:country":"US",
+    "sg:address":"4050 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 644 1216",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HZji9J9KdWIOyocc1dJZn_42.545006_-83.279741@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787202,
+    "wof:geomhash":"6587a41b1d0c1507f6444efc3297ecb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":705721593
+        }
+    ],
+    "wof:id":705721593,
+    "wof:lastmodified":1461787202,
+    "wof:name":"Larry Degroat DDS",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.279741,
+    42.545006,
+    -83.279741,
+    42.545006
+],
+  "geometry": {"coordinates":[-83.279741,42.545006],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689800683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.395299,46.543473,-87.395299,46.543473",
+    "geom:latitude":46.543473,
+    "geom:longitude":-87.395299,
+    "iso:country":"US",
+    "sg:address":"113 S 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 9243",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WHLRIHEBO8LGFysacjVOb_46.543473_-87.395299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781895,
+    "wof:geomhash":"9eb0198cdf4f580fd0b004c96d0b9005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689800683
+        }
+    ],
+    "wof:id":689800683,
+    "wof:lastmodified":1461781895,
+    "wof:name":"Queen City Barber Shop",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.395299,
+    46.543473,
+    -87.395299,
+    46.543473
+],
+  "geometry": {"coordinates":[-87.39529899999999,46.543473],"type":"Point"}
+}

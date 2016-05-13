@@ -1,0 +1,81 @@
+{
+  "id": 706465821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.7314,42.275122,-83.7314,42.275122",
+    "geom:latitude":42.275122,
+    "geom:longitude":-83.7314,
+    "iso:country":"US",
+    "sg:address":"1335 S University Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 665 8825",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875931,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OKeBajIHH5gQY6St6MJC8_42.275122_-83.731400@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803764,
+    "wof:geomhash":"b807816cd009e274972b80c85e9ee870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875931,
+            "region_id":85688599,
+            "venue_id":706465821
+        }
+    ],
+    "wof:id":706465821,
+    "wof:lastmodified":1461803764,
+    "wof:name":"Campus Rentals",
+    "wof:parent_id":85875931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.7314,
+    42.275122,
+    -83.7314,
+    42.275122
+],
+  "geometry": {"coordinates":[-83.73139999999999,42.275122],"type":"Point"}
+}

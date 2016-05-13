@@ -1,0 +1,71 @@
+{
+  "id": 689854745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833298,42.886102,-85.833298,42.886102",
+    "geom:latitude":42.886102,
+    "geom:longitude":-85.833298,
+    "iso:country":"US",
+    "sg:address":"1828 Chicago Dr",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 534 2119",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tpmXM8oDFzDJ4J3apdZOO_42.886102_-85.833298@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783414,
+    "wof:geomhash":"b70d49f53059e254e744e6f16fd8991b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":689854745
+        }
+    ],
+    "wof:id":689854745,
+    "wof:lastmodified":1461783414,
+    "wof:name":"Kennedy Auto Repair",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.833298,
+    42.886102,
+    -85.833298,
+    42.886102
+],
+  "geometry": {"coordinates":[-85.833298,42.886102],"type":"Point"}
+}

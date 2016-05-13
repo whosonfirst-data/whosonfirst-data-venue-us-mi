@@ -1,0 +1,71 @@
+{
+  "id": 689503895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.478406,43.713926,-86.478406,43.713926",
+    "geom:latitude":43.713926,
+    "geom:longitude":-86.478406,
+    "iso:country":"US",
+    "sg:address":"3435 N Ridge Rd",
+    "sg:city":"Mears",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 873 5781",
+    "sg:postcode":"49436",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851185,
+        102083141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78R16fu0wSaYaUBb01JJGR_43.713926_-86.478406@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773227,
+    "wof:geomhash":"eb71c78ad85c8c386e979c1b6dd411f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083141,
+            "neighbourhood_id":85851185,
+            "region_id":85688599,
+            "venue_id":689503895
+        }
+    ],
+    "wof:id":689503895,
+    "wof:lastmodified":1461773227,
+    "wof:name":"Silver Lake Electric Inc",
+    "wof:parent_id":85851185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.478406,
+    43.713926,
+    -86.478406,
+    43.713926
+],
+  "geometry": {"coordinates":[-86.47840600000001,43.713926],"type":"Point"}
+}

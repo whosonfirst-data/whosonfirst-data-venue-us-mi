@@ -1,0 +1,86 @@
+{
+  "id": 689764009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.097261,45.803969,-88.097261,45.803969",
+    "geom:latitude":45.803969,
+    "geom:longitude":-88.097261,
+    "iso:country":"US",
+    "sg:address":"1645 Pyle Dr",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 5050",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420549997,
+        102191575,
+        404507319,
+        85633793,
+        85950929,
+        102083107,
+        85688599,
+        420524269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bHcpqmWZzJSZyqOQjpMsY_45.803969_-88.097261@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780875,
+    "wof:geomhash":"e5808e1cce82d3c95c7b41017637eaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420549997,
+            "region_id":85688599,
+            "venue_id":689764009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420524269,
+            "region_id":85688599,
+            "venue_id":689764009
+        }
+    ],
+    "wof:id":689764009,
+    "wof:lastmodified":1461780875,
+    "wof:name":"Beacon Ambulance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -88.097261,
+    45.803969,
+    -88.097261,
+    45.803969
+],
+  "geometry": {"coordinates":[-88.097261,45.803969],"type":"Point"}
+}

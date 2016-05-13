@@ -1,0 +1,73 @@
+{
+  "id": 689925661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.951318,45.800605,-87.951318,45.800605",
+    "geom:latitude":45.800605,
+    "geom:longitude":-87.951318,
+    "iso:country":"US",
+    "sg:address":"6426 US Hwy 2",
+    "sg:city":"Quinnesec",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9099",
+    "sg:postcode":"49876",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FOrflJ9C3gnnH8BnkA95I_45.800605_-87.951318@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785255,
+    "wof:geomhash":"fd9cb1653c7929205bca2e52943945f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689925661
+        }
+    ],
+    "wof:id":689925661,
+    "wof:lastmodified":1461785255,
+    "wof:name":"Mel's U-Store",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.951318,
+    45.800605,
+    -87.951318,
+    45.800605
+],
+  "geometry": {"coordinates":[-87.951318,45.800605],"type":"Point"}
+}

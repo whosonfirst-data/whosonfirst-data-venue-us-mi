@@ -1,0 +1,71 @@
+{
+  "id": 689945357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.398545,44.428254,-85.398545,44.428254",
+    "geom:latitude":44.428254,
+    "geom:longitude":-85.398545,
+    "iso:country":"US",
+    "sg:address":"6051 N 43 Rd",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 3859",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4etos3ETUuRR79qqN8qnzM_44.428254_-85.398545@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785738,
+    "wof:geomhash":"31a6c118ef482835af4b566b993cce37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689945357
+        }
+    ],
+    "wof:id":689945357,
+    "wof:lastmodified":1461785738,
+    "wof:name":"Custom Auto Tinting",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.398545,
+    44.428254,
+    -85.398545,
+    44.428254
+],
+  "geometry": {"coordinates":[-85.398545,44.428254],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706464073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.28283,42.426322,-83.28283,42.426322",
+    "geom:latitude":42.426322,
+    "geom:longitude":-83.28283,
+    "iso:country":"US",
+    "sg:address":"24454 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 534 8500",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners",
+        "vacuum",
+        "commercial",
+        "ma",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ra06yuw4n3IbAR9laAPzu_42.426322_-83.282830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803731,
+    "wof:geomhash":"a474f66363bdfa09dac906ec1d191f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":706464073
+        }
+    ],
+    "wof:id":706464073,
+    "wof:lastmodified":1461803731,
+    "wof:name":"American-Redford Vacuum",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum",
+        "commercial",
+        "ma",
+        "floor"
+    ]
+},
+  "bbox": [
+    -83.28283,
+    42.426322,
+    -83.28283,
+    42.426322
+],
+  "geometry": {"coordinates":[-83.28283,42.426322],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 722472343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.333801,42.347,-83.333801,42.347",
+    "geom:latitude":42.347,
+    "geom:longitude":-83.333801,
+    "iso:country":"US",
+    "sg:address":"29501 Ann Arbor Trl",
+    "sg:city":"Westland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 422 0160",
+    "sg:postcode":"48185",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896865,
+        102191575,
+        404508705,
+        85633793,
+        85951041,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RZzJN9sGsM2wTq539KrcC_42.347000_-83.333801@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461811960,
+    "wof:geomhash":"bef96b84f48d1d64eb318fefc6271fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508705,
+            "locality_id":85951041,
+            "neighbourhood_id":85896865,
+            "region_id":85688599,
+            "venue_id":722472343
+        }
+    ],
+    "wof:id":722472343,
+    "wof:lastmodified":1461811960,
+    "wof:name":"Vintage Wine & Deli Market",
+    "wof:parent_id":85896865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.333801,
+    42.347,
+    -83.333801,
+    42.347
+],
+  "geometry": {"coordinates":[-83.33380099999999,42.347],"type":"Point"}
+}

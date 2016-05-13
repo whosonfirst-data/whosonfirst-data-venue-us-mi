@@ -1,0 +1,73 @@
+{
+  "id": 705727345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.448396,42.117616,-86.448396,42.117616",
+    "geom:latitude":42.117616,
+    "geom:longitude":-86.448396,
+    "iso:country":"US",
+    "sg:address":"447 E Main St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 4016",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w7DntSAna6GWzfS8KzXJm_42.117616_-86.448396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787342,
+    "wof:geomhash":"570aa5fa546b77e65deff45a72ad1f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705727345
+        }
+    ],
+    "wof:id":705727345,
+    "wof:lastmodified":1461787342,
+    "wof:name":"Harbor Classic Motors",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.448396,
+    42.117616,
+    -86.448396,
+    42.117616
+],
+  "geometry": {"coordinates":[-86.448396,42.117616],"type":"Point"}
+}

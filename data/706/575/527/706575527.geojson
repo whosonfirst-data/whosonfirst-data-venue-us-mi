@@ -1,0 +1,71 @@
+{
+  "id": 706575527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678996,42.200954,-85.678996,42.200954",
+    "geom:latitude":42.200954,
+    "geom:longitude":-85.678996,
+    "iso:country":"US",
+    "sg:address":"6711 W Q Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 3593",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bAVPz92FqLce9undXyMYS_42.200954_-85.678996@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806193,
+    "wof:geomhash":"57e5ded79cdfe4e2fdda540058e28b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706575527
+        }
+    ],
+    "wof:id":706575527,
+    "wof:lastmodified":1461806193,
+    "wof:name":"Briggs Plumbing",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.678996,
+    42.200954,
+    -85.678996,
+    42.200954
+],
+  "geometry": {"coordinates":[-85.678996,42.200954],"type":"Point"}
+}

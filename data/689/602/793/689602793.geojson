@@ -1,0 +1,71 @@
+{
+  "id": 689602793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.525195,42.658436,-84.525195,42.658436",
+    "geom:latitude":42.658436,
+    "geom:longitude":-84.525195,
+    "iso:country":"US",
+    "sg:address":"1918 Fairmont St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 699 1713",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZPbIeWA3AvOoDIv8YE6lt_42.658436_-84.525195@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776339,
+    "wof:geomhash":"86da05af20737a29d8162762415bca48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689602793
+        }
+    ],
+    "wof:id":689602793,
+    "wof:lastmodified":1461776339,
+    "wof:name":"Clean In A Wink",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.525195,
+    42.658436,
+    -84.525195,
+    42.658436
+],
+  "geometry": {"coordinates":[-84.525195,42.658436],"type":"Point"}
+}

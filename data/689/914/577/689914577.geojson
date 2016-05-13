@@ -1,0 +1,71 @@
+{
+  "id": 689914577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860502,43.425195,-85.860502,43.425195",
+    "geom:latitude":43.425195,
+    "geom:longitude":-85.860502,
+    "iso:country":"US",
+    "sg:address":"7121 Bingham Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 4632",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hQ3rw7k6COWMmaFUM36AP_43.425195_-85.860502@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784975,
+    "wof:geomhash":"8bc17402474b0fb4c58cbd15a8db26e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689914577
+        }
+    ],
+    "wof:id":689914577,
+    "wof:lastmodified":1461784975,
+    "wof:name":"Grabill-Lifford Limos",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -85.860502,
+    43.425195,
+    -85.860502,
+    43.425195
+],
+  "geometry": {"coordinates":[-85.860502,43.425195],"type":"Point"}
+}

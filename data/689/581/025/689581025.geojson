@@ -1,0 +1,71 @@
+{
+  "id": 689581025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.189011,43.201502,-86.189011,43.201502",
+    "geom:latitude":43.201502,
+    "geom:longitude":-86.189011,
+    "iso:country":"US",
+    "sg:address":"2266 E Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 0336",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N3AfAAj3mF0djMDakciFG_43.201502_-86.189011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775647,
+    "wof:geomhash":"44b0530fd850730314bda64658110bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689581025
+        }
+    ],
+    "wof:id":689581025,
+    "wof:lastmodified":1461775647,
+    "wof:name":"Bill Smith Used Cars",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.189011,
+    43.201502,
+    -86.189011,
+    43.201502
+],
+  "geometry": {"coordinates":[-86.18901099999999,43.201502],"type":"Point"}
+}

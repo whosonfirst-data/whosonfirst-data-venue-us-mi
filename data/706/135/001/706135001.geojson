@@ -1,0 +1,73 @@
+{
+  "id": 706135001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.319778,43.216111,-86.319778,43.216111",
+    "geom:latitude":43.216111,
+    "geom:longitude":-86.319778,
+    "iso:country":"US",
+    "sg:address":"3156 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3310",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ITJRYpvnzOTUWkm0AM8Ws_43.216111_-86.319778@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796642,
+    "wof:geomhash":"4395ba7f433914a26e4af84e04f5328e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706135001
+        }
+    ],
+    "wof:id":706135001,
+    "wof:lastmodified":1461796642,
+    "wof:name":"Hagars Hideaway",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.319778,
+    43.216111,
+    -86.319778,
+    43.216111
+],
+  "geometry": {"coordinates":[-86.319778,43.216111],"type":"Point"}
+}

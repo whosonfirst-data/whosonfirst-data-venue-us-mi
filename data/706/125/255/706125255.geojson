@@ -1,0 +1,73 @@
+{
+  "id": 706125255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.557327,42.912633,-85.557327,42.912633",
+    "geom:latitude":42.912633,
+    "geom:longitude":-85.557327,
+    "iso:country":"US",
+    "sg:address":"4675 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 285 7014",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YtY9TsB4OpDi561mx1ilT_42.912633_-85.557327@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796392,
+    "wof:geomhash":"d7719497612ae42a0242dc3a2c8749d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706125255
+        }
+    ],
+    "wof:id":706125255,
+    "wof:lastmodified":1461796392,
+    "wof:name":"Tommy's Express Car Wash & Oil",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.557327,
+    42.912633,
+    -85.557327,
+    42.912633
+],
+  "geometry": {"coordinates":[-85.557327,42.912633],"type":"Point"}
+}

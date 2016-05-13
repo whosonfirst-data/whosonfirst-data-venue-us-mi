@@ -1,0 +1,73 @@
+{
+  "id": 706567663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661966,43.340274,-85.661966,43.340274",
+    "geom:latitude":43.340274,
+    "geom:longitude":-85.661966,
+    "iso:country":"US",
+    "sg:address":"11839 S Locust Ave",
+    "sg:city":"Sand Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 636 4620",
+    "sg:postcode":"49343",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YOYAvl9pC2KV41IMqYXhQ_43.340274_-85.661966@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806009,
+    "wof:geomhash":"f7351d7cc04535ca69a3249286d76162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706567663
+        }
+    ],
+    "wof:id":706567663,
+    "wof:lastmodified":1461806009,
+    "wof:name":"Knight Heating & Cooling",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.661966,
+    43.340274,
+    -85.661966,
+    43.340274
+],
+  "geometry": {"coordinates":[-85.66196600000001,43.340274],"type":"Point"}
+}

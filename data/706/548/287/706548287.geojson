@@ -1,0 +1,71 @@
+{
+  "id": 706548287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447882,43.954326,-86.447882,43.954326",
+    "geom:latitude":43.954326,
+    "geom:longitude":-86.447882,
+    "iso:country":"US",
+    "sg:address":"220 S James St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 3700",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QP0bVLtcI83IDuU7q55aA_43.954326_-86.447882@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805624,
+    "wof:geomhash":"bfa8c253a468deaf3d3b6dd0e563782f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706548287
+        }
+    ],
+    "wof:id":706548287,
+    "wof:lastmodified":1461805624,
+    "wof:name":"Family Care Clinic",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.447882,
+    43.954326,
+    -86.447882,
+    43.954326
+],
+  "geometry": {"coordinates":[-86.44788200000001,43.954326],"type":"Point"}
+}

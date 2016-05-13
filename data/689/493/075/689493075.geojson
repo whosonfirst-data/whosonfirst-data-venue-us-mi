@@ -1,0 +1,71 @@
+{
+  "id": 689493075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130876,43.400809,-84.130876,43.400809",
+    "geom:latitude":43.400809,
+    "geom:longitude":-84.130876,
+    "iso:country":"US",
+    "sg:address":"1459 S Graham Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 2310",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45nIrdAN3CfjBsgs4oEVaQ_43.400809_-84.130876@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772906,
+    "wof:geomhash":"53f21c3f0ae484b6fe31730bd4b5c8dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689493075
+        }
+    ],
+    "wof:id":689493075,
+    "wof:lastmodified":1461772906,
+    "wof:name":"Michigan Transportation Garage",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -84.130876,
+    43.400809,
+    -84.130876,
+    43.400809
+],
+  "geometry": {"coordinates":[-84.130876,43.400809],"type":"Point"}
+}

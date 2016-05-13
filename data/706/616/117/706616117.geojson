@@ -1,0 +1,71 @@
+{
+  "id": 706616117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.07992,45.806024,-88.07992,45.806024",
+    "geom:latitude":45.806024,
+    "geom:longitude":-88.07992,
+    "iso:country":"US",
+    "sg:address":"812 Hamilton Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 5367",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K5QHWX0JtpUbtsNcai7tb_45.806024_-88.079920@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807072,
+    "wof:geomhash":"f9d7d5f0df6ef4443da2194eda919bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706616117
+        }
+    ],
+    "wof:id":706616117,
+    "wof:lastmodified":1461807072,
+    "wof:name":"Car Wash Brokers Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -88.07992,
+    45.806024,
+    -88.07992,
+    45.806024
+],
+  "geometry": {"coordinates":[-88.07992,45.806024],"type":"Point"}
+}

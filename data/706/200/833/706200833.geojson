@@ -1,0 +1,84 @@
+{
+  "id": 706200833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.362884,41.827265,-86.362884,41.827265",
+    "geom:latitude":41.827265,
+    "geom:longitude":-86.362884,
+    "iso:country":"US",
+    "sg:address":"117 W Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 0214",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art",
+        "teach",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wIHv9PcMe8ojq22HRicJZ_41.827265_-86.362884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798092,
+    "wof:geomhash":"95b246abfd2b8e9a79d66d5cad1b5862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706200833
+        }
+    ],
+    "wof:id":706200833,
+    "wof:lastmodified":1461798092,
+    "wof:name":"Buchanan Art Center",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art",
+        "teach",
+        "sales"
+    ]
+},
+  "bbox": [
+    -86.362884,
+    41.827265,
+    -86.362884,
+    41.827265
+],
+  "geometry": {"coordinates":[-86.36288399999999,41.827265],"type":"Point"}
+}

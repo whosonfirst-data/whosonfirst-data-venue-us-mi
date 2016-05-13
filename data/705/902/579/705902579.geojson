@@ -1,0 +1,74 @@
+{
+  "id": 705902579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610689,44.739003,-85.610689,44.739003",
+    "geom:latitude":44.739003,
+    "geom:longitude":-85.610689,
+    "iso:country":"US",
+    "sg:address":"1721 Park Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 1664",
+    "sg:postcode":"49686",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "sg:website":"www.bramermachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XycTAAchMcf6sncFJB6a5_44.739003_-85.610689@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791468,
+    "wof:geomhash":"dbd59d8fa9bf2a5770088eec31b85052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705902579
+        }
+    ],
+    "wof:id":705902579,
+    "wof:lastmodified":1461791468,
+    "wof:name":"Bramer Machine Inc",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.610689,
+    44.739003,
+    -85.610689,
+    44.739003
+],
+  "geometry": {"coordinates":[-85.61068899999999,44.739003],"type":"Point"}
+}

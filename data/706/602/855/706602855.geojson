@@ -1,0 +1,75 @@
+{
+  "id": 706602855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.215165,42.372357,-83.215165,42.372357",
+    "geom:latitude":42.372357,
+    "geom:longitude":-83.215165,
+    "iso:country":"US",
+    "sg:address":"17706 Plymouth Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 273 6211",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870495,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yzO77atm7O1hPmmRd9Mtl_42.372357_-83.215165@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806784,
+    "wof:geomhash":"00cbbfc12a885e04049e4d5e4c9e9bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870495,
+            "region_id":85688599,
+            "venue_id":706602855
+        }
+    ],
+    "wof:id":706602855,
+    "wof:lastmodified":1461806784,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85870495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.215165,
+    42.372357,
+    -83.215165,
+    42.372357
+],
+  "geometry": {"coordinates":[-83.215165,42.372357],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706483375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.446472,42.251045,-84.446472,42.251045",
+    "geom:latitude":42.251045,
+    "geom:longitude":-84.446472,
+    "iso:country":"US",
+    "sg:address":"2424 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5959",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pMn5WDonDgwmuwASCXwQj_42.251045_-84.446472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804142,
+    "wof:geomhash":"a1a4b28fe4e77ac9f25a373d63a9c6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706483375
+        }
+    ],
+    "wof:id":706483375,
+    "wof:lastmodified":1461804142,
+    "wof:name":"Larry's Auto Mart",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.446472,
+    42.251045,
+    -84.446472,
+    42.251045
+],
+  "geometry": {"coordinates":[-84.446472,42.251045],"type":"Point"}
+}

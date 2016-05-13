@@ -1,0 +1,77 @@
+{
+  "id": 706674913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.179498,42.407179,-83.179498,42.407179",
+    "geom:latitude":42.407179,
+    "geom:longitude":-83.179498,
+    "iso:country":"US",
+    "sg:address":"15735 Schaefer Hwy",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 836 2018",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "fleet",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524869,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Swzzg4tCZpe82GkeFWiNu_42.406900_-83.179433@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809076,
+    "wof:geomhash":"6667fae288cbcffd519bbe2a56e35741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524869,
+            "region_id":85688599,
+            "venue_id":706674913
+        }
+    ],
+    "wof:id":706674913,
+    "wof:lastmodified":1461809076,
+    "wof:name":"Motor City Sales & Service",
+    "wof:parent_id":420524869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fleet",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.179498,
+    42.407179,
+    -83.179498,
+    42.407179
+],
+  "geometry": {"coordinates":[-83.179498,42.407179],"type":"Point"}
+}

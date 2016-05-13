@@ -1,0 +1,71 @@
+{
+  "id": 706161485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.351259,41.798171,-86.351259,41.798171",
+    "geom:latitude":41.798171,
+    "geom:longitude":-86.351259,
+    "iso:country":"US",
+    "sg:address":"3700 Buffalo Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 3635",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dJvcHjhaN9U6Y7yQMNwUv_41.798171_-86.351259@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797239,
+    "wof:geomhash":"7b8d0610893322eda9da19a3c8180a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706161485
+        }
+    ],
+    "wof:id":706161485,
+    "wof:lastmodified":1461797239,
+    "wof:name":"Accurate Welding",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -86.351259,
+    41.798171,
+    -86.351259,
+    41.798171
+],
+  "geometry": {"coordinates":[-86.351259,41.798171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705807525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98683,43.437809,-83.98683,43.437809",
+    "geom:latitude":43.437809,
+    "geom:longitude":-83.98683,
+    "iso:country":"US",
+    "sg:address":"2110 N Morson St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 3450",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VMJVh1ydDFRbj69k3iEcy_43.437809_-83.986830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789181,
+    "wof:geomhash":"3618deeef8bb83b6a43a6935742d9083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705807525
+        }
+    ],
+    "wof:id":705807525,
+    "wof:lastmodified":1461789181,
+    "wof:name":"Cavendish John W II MD",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.98683,
+    43.437809,
+    -83.98683,
+    43.437809
+],
+  "geometry": {"coordinates":[-83.98683,43.437809],"type":"Point"}
+}

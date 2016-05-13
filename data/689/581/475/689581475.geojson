@@ -1,0 +1,69 @@
+{
+  "id": 689581475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.21272,42.59335,-86.21272,42.59335",
+    "geom:latitude":42.59335,
+    "geom:longitude":-86.21272,
+    "iso:country":"US",
+    "sg:address":"6821 124th Ave",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 543 4360",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805003,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JV4s0CJINwJA4J28Ox6A9_42.593350_-86.212720@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775662,
+    "wof:geomhash":"71d3c08f7da22baacf6270f0c726e89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85805003,
+            "region_id":85688599,
+            "venue_id":689581475
+        }
+    ],
+    "wof:id":689581475,
+    "wof:lastmodified":1461775662,
+    "wof:name":"Lyons Fruit Market",
+    "wof:parent_id":85805003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -86.21272,
+    42.59335,
+    -86.21272,
+    42.59335
+],
+  "geometry": {"coordinates":[-86.21272,42.59335],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 689895813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.479859,41.733419,-83.479859,41.733419",
+    "geom:latitude":41.733419,
+    "geom:longitude":-83.479859,
+    "iso:country":"US",
+    "sg:address":"6333 Summit St",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 848 8942",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848565,
+        102191575,
+        404525355,
+        85633793,
+        101712039,
+        102084787,
+        85688485,
+        85842547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJy748SIbK4Hj5V9oofNj_41.733419_-83.479859@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784454,
+    "wof:geomhash":"67db894f5c6e4fa21741d600915b7118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084787,
+            "localadmin_id":404525355,
+            "locality_id":101712039,
+            "neighbourhood_id":85848565,
+            "region_id":85688485,
+            "venue_id":689895813
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":689895813
+        }
+    ],
+    "wof:id":689895813,
+    "wof:lastmodified":1461784454,
+    "wof:name":"Morin Point Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -83.479859,
+    41.733419,
+    -83.479859,
+    41.733419
+],
+  "geometry": {"coordinates":[-83.479859,41.733419],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706291545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.229903,41.826663,-86.229903,41.826663",
+    "geom:latitude":41.826663,
+    "geom:longitude":-86.229903,
+    "iso:country":"US",
+    "sg:address":"1 S 19th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 687 8388",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acihT7cm6aRplIer5uglV_41.826663_-86.229903@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800124,
+    "wof:geomhash":"c2e34477b880c51fd29d168bd1bf3c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706291545
+        }
+    ],
+    "wof:id":706291545,
+    "wof:lastmodified":1461800124,
+    "wof:name":"Niles Edited Video",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.229903,
+    41.826663,
+    -86.229903,
+    41.826663
+],
+  "geometry": {"coordinates":[-86.22990299999999,41.826663],"type":"Point"}
+}

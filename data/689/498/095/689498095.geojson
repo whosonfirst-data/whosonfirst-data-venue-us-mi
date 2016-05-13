@@ -1,0 +1,71 @@
+{
+  "id": 689498095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.042595,45.744305,-87.042595,45.744305",
+    "geom:latitude":45.744305,
+    "geom:longitude":-87.042595,
+    "iso:country":"US",
+    "sg:address":"1 Water Plant Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 3291",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VagsH1dr5fRiZlfaud17a_45.744305_-87.042595@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773042,
+    "wof:geomhash":"c1c46bb9d888931038921dd9cafa69b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689498095
+        }
+    ],
+    "wof:id":689498095,
+    "wof:lastmodified":1461773042,
+    "wof:name":"Escanaba City Water",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -87.042595,
+    45.744305,
+    -87.042595,
+    45.744305
+],
+  "geometry": {"coordinates":[-87.04259500000001,45.744305],"type":"Point"}
+}

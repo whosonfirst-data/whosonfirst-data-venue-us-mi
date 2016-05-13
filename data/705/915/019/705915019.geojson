@@ -1,0 +1,71 @@
+{
+  "id": 705915019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.248257,41.760598,-86.248257,41.760598",
+    "geom:latitude":41.760598,
+    "geom:longitude":-86.248257,
+    "iso:country":"US",
+    "sg:address":"1211 Stateline Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2810",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DhzBn9Kgr4QxsFmDSrHoC_41.760598_-86.248257@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791745,
+    "wof:geomhash":"0e99983253cef769aa5bc1bb369590f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705915019
+        }
+    ],
+    "wof:id":705915019,
+    "wof:lastmodified":1461791745,
+    "wof:name":"West Woods Of Niles",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.248257,
+    41.760598,
+    -86.248257,
+    41.760598
+],
+  "geometry": {"coordinates":[-86.248257,41.760598],"type":"Point"}
+}

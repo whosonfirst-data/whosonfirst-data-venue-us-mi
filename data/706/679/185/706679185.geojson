@@ -1,0 +1,78 @@
+{
+  "id": 706679185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.196529,42.343663,-83.196529,42.343663",
+    "geom:latitude":42.343663,
+    "geom:longitude":-83.196529,
+    "iso:country":"US",
+    "sg:address":"15520 W Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/247288-la-bella-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 945 8200",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524935,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54iPvHoQYunuNJ8JQhHAgZ_42.343663_-83.196529@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809252,
+    "wof:geomhash":"988e7585112a37f06fe68ce8f7570e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524935,
+            "region_id":85688599,
+            "venue_id":706679185
+        }
+    ],
+    "wof:id":706679185,
+    "wof:lastmodified":1461809252,
+    "wof:name":"La-bella Pizza",
+    "wof:parent_id":420524935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.196529,
+    42.343663,
+    -83.196529,
+    42.343663
+],
+  "geometry": {"coordinates":[-83.196529,42.343663],"type":"Point"}
+}

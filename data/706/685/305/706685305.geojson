@@ -1,0 +1,76 @@
+{
+  "id": 706685305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796449,43.40602,-85.796449,43.40602",
+    "geom:latitude":43.40602,
+    "geom:longitude":-85.796449,
+    "iso:country":"US",
+    "sg:address":"250 W Pine Lake Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/newaygo/182306-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 3391",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54FPvgnvqwsFuG8TGJCpkI_43.406020_-85.796449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809495,
+    "wof:geomhash":"89d95339f8ecb958b8c861363a42b112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706685305
+        }
+    ],
+    "wof:id":706685305,
+    "wof:lastmodified":1461809495,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.796449,
+    43.40602,
+    -85.796449,
+    43.40602
+],
+  "geometry": {"coordinates":[-85.796449,43.40602],"type":"Point"}
+}

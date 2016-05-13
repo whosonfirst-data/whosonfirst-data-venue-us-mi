@@ -1,0 +1,73 @@
+{
+  "id": 689849125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.041624,42.72705,-85.041624,42.72705",
+    "geom:latitude":42.72705,
+    "geom:longitude":-85.041624,
+    "iso:country":"US",
+    "sg:address":"5901 W Saint Joe Hwy",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 2537",
+    "sg:postcode":"48890",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X9Tpar1yvcO0wUcbQTT2B_42.727050_-85.041624@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783295,
+    "wof:geomhash":"bb6145f72502f4703905db5cc74759c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689849125
+        }
+    ],
+    "wof:id":689849125,
+    "wof:lastmodified":1461783295,
+    "wof:name":"Duffy Electric",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.041624,
+    42.72705,
+    -85.041624,
+    42.72705
+],
+  "geometry": {"coordinates":[-85.041624,42.72705],"type":"Point"}
+}

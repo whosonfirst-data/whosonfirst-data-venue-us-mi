@@ -1,0 +1,86 @@
+{
+  "id": 722489909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.225311,42.403542,-83.225311,42.403542",
+    "geom:latitude":42.403542,
+    "geom:longitude":-83.225311,
+    "iso:country":"US",
+    "sg:address":"18701 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 805 0718",
+    "sg:postcode":"48223",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "designer",
+        "staging",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524917,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GDZzMhqsWEqytcwCZCzAk_42.403542_-83.225311@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812680,
+    "wof:geomhash":"de29b6a286c87082632d824b5093851c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524917,
+            "region_id":85688599,
+            "venue_id":722489909
+        }
+    ],
+    "wof:id":722489909,
+    "wof:lastmodified":1461812680,
+    "wof:name":"Picture Perfect Home Staging",
+    "wof:parent_id":420524917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "designer",
+        "staging",
+        "home"
+    ]
+},
+  "bbox": [
+    -83.225311,
+    42.403542,
+    -83.225311,
+    42.403542
+],
+  "geometry": {"coordinates":[-83.225311,42.403542],"type":"Point"}
+}

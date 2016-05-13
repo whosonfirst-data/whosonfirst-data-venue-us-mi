@@ -1,0 +1,88 @@
+{
+  "id": 706739795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.269913,42.244054,-83.269913,42.244054",
+    "geom:latitude":42.244054,
+    "geom:longitude":-83.269913,
+    "iso:country":"US",
+    "sg:address":"8850 Telegraph Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 299 2360",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "surgeons",
+        "imaging",
+        "pediatrics-radiology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823787,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pKjXKM2P8U2t7OQO0quKs_42.244054_-83.269913@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811800,
+    "wof:geomhash":"b9a4c7135ce9645dce62b8a67b7cf8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85823787,
+            "region_id":85688599,
+            "venue_id":706739795
+        }
+    ],
+    "wof:id":706739795,
+    "wof:lastmodified":1461811800,
+    "wof:name":"Millenium Medical Group South",
+    "wof:parent_id":85823787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "surgeons",
+        "imaging",
+        "pediatrics-radiology"
+    ]
+},
+  "bbox": [
+    -83.269913,
+    42.244054,
+    -83.269913,
+    42.244054
+],
+  "geometry": {"coordinates":[-83.269913,42.244054],"type":"Point"}
+}

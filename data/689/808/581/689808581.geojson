@@ -1,0 +1,89 @@
+{
+  "id": 689808581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617879,42.984408,-85.617879,42.984408",
+    "geom:latitude":42.984408,
+    "geom:longitude":-85.617879,
+    "iso:country":"US",
+    "sg:address":"2000 Leonard St NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 458 1133",
+    "sg:postcode":"49505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "skilled",
+        "residential",
+        "retirement",
+        "community",
+        "home"
+    ],
+    "sg:website":"www.pilgrimmanor.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877885,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nGKcrt36Rfqh36xLUXdYD_42.984408_-85.617879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782139,
+    "wof:geomhash":"3d53bc3626bce4c79a40312a92753fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877885,
+            "region_id":85688599,
+            "venue_id":689808581
+        }
+    ],
+    "wof:id":689808581,
+    "wof:lastmodified":1461782139,
+    "wof:name":"Pilgrim Manor Inc",
+    "wof:parent_id":85877885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "residential",
+        "retirement",
+        "community",
+        "home"
+    ]
+},
+  "bbox": [
+    -85.617879,
+    42.984408,
+    -85.617879,
+    42.984408
+],
+  "geometry": {"coordinates":[-85.617879,42.984408],"type":"Point"}
+}

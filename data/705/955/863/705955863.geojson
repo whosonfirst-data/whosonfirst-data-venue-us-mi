@@ -1,0 +1,75 @@
+{
+  "id": 705955863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.949987,43.464308,-85.949987,43.464308",
+    "geom:latitude":43.464308,
+    "geom:longitude":-85.949987,
+    "iso:country":"US",
+    "sg:address":"230 W Oak St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 4200",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L9Pb5eTYtu4PcFkMmg2fI_43.464308_-85.949987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792667,
+    "wof:geomhash":"abba49dbc18581849f12f53cc6162a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705955863
+        }
+    ],
+    "wof:id":705955863,
+    "wof:lastmodified":1461792667,
+    "wof:name":"Pine Medical Group PC",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.949987,
+    43.464308,
+    -85.949987,
+    43.464308
+],
+  "geometry": {"coordinates":[-85.94998699999999,43.464308],"type":"Point"}
+}

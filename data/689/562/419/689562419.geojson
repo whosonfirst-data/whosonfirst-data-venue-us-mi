@@ -1,0 +1,71 @@
+{
+  "id": 689562419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.069242,45.824691,-88.069242,45.824691",
+    "geom:latitude":45.824691,
+    "geom:longitude":-88.069242,
+    "iso:country":"US",
+    "sg:address":"315 Kent St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 5961",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gzMvxuY2c37cuKGN9Gz3t_45.824691_-88.069242@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775084,
+    "wof:geomhash":"4d21fa28fd921a8d5de61693e91f9ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689562419
+        }
+    ],
+    "wof:id":689562419,
+    "wof:lastmodified":1461775084,
+    "wof:name":"Iron Mountain Animal Hospital",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.069242,
+    45.824691,
+    -88.069242,
+    45.824691
+],
+  "geometry": {"coordinates":[-88.069242,45.824691],"type":"Point"}
+}

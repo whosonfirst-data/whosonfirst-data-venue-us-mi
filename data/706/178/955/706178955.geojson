@@ -1,0 +1,71 @@
+{
+  "id": 706178955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.075747,45.749314,-87.075747,45.749314",
+    "geom:latitude":45.749314,
+    "geom:longitude":-87.075747,
+    "iso:country":"US",
+    "sg:address":"1900 3rd Ave N",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 5911",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NlaurVEwMkTvwN5iOIhks_45.749314_-87.075747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797610,
+    "wof:geomhash":"1bdc324883519b94ba22b32c83b868de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706178955
+        }
+    ],
+    "wof:id":706178955,
+    "wof:lastmodified":1461797610,
+    "wof:name":"Escanaba Public Safety Dept",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    -87.075747,
+    45.749314,
+    -87.075747,
+    45.749314
+],
+  "geometry": {"coordinates":[-87.07574700000001,45.749314],"type":"Point"}
+}

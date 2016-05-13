@@ -1,0 +1,73 @@
+{
+  "id": 706080685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643205,42.67612,-85.643205,42.67612",
+    "geom:latitude":42.67612,
+    "geom:longitude":-85.643205,
+    "iso:country":"US",
+    "sg:address":"216 N Main St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 2349",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x8AAtfg7lTXzyIb5G5VQb_42.676120_-85.643205@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795268,
+    "wof:geomhash":"3126433253971c02dcc4ea3cb17037b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706080685
+        }
+    ],
+    "wof:id":706080685,
+    "wof:lastmodified":1461795268,
+    "wof:name":"Dan F Kreuzer Do",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -85.643205,
+    42.67612,
+    -85.643205,
+    42.67612
+],
+  "geometry": {"coordinates":[-85.64320499999999,42.67612],"type":"Point"}
+}

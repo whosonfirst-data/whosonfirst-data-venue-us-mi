@@ -1,0 +1,71 @@
+{
+  "id": 689623829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.596162,42.265701,-83.596162,42.265701",
+    "geom:latitude":42.265701,
+    "geom:longitude":-83.596162,
+    "iso:country":"US",
+    "sg:address":"1585 Sheffield Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 483 4977",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13bk4MSbvaErr5gZemiMF6_42.265701_-83.596162@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776999,
+    "wof:geomhash":"62cefb8f6bdda64baf686dac9e778058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":689623829
+        }
+    ],
+    "wof:id":689623829,
+    "wof:lastmodified":1461776999,
+    "wof:name":"Golden Properties",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.596162,
+    42.265701,
+    -83.596162,
+    42.265701
+],
+  "geometry": {"coordinates":[-83.59616200000001,42.265701],"type":"Point"}
+}

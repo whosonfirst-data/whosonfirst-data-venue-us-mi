@@ -1,0 +1,69 @@
+{
+  "id": 689935223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.080461,45.716636,-87.080461,45.716636",
+    "geom:latitude":45.716636,
+    "geom:longitude":-87.080461,
+    "iso:country":"US",
+    "sg:address":"2715 S Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 6260",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x99rX4szVPzbFfeKaLiqH_45.716636_-87.080461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785497,
+    "wof:geomhash":"44206f52bd4afe772f9f082926965afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689935223
+        }
+    ],
+    "wof:id":689935223,
+    "wof:lastmodified":1461785497,
+    "wof:name":"Delta Animal Hospital",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.080461,
+    45.716636,
+    -87.080461,
+    45.716636
+],
+  "geometry": {"coordinates":[-87.080461,45.716636],"type":"Point"}
+}

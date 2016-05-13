@@ -1,0 +1,66 @@
+{
+  "id": 689768749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590793,42.973462,-85.590793,42.973462",
+    "geom:latitude":42.973462,
+    "geom:longitude":-85.590793,
+    "iso:country":"US",
+    "sg:address":"739 E Beltline Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 3668",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KBfTCuOCaWdBuEVSxT6iS_42.973462_-85.590793@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780990,
+    "wof:geomhash":"4c938c4a02469f2bf37e0670a46ddd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":689768749
+        }
+    ],
+    "wof:id":689768749,
+    "wof:lastmodified":1461780990,
+    "wof:name":"Beltline Podiatry",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.590793,
+    42.973462,
+    -85.590793,
+    42.973462
+],
+  "geometry": {"coordinates":[-85.59079300000001,42.973462],"type":"Point"}
+}

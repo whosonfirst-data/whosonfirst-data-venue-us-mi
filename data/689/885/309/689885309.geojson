@@ -1,0 +1,71 @@
+{
+  "id": 689885309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.842133,42.66306,-82.842133,42.66306",
+    "geom:latitude":42.66306,
+    "geom:longitude":-82.842133,
+    "iso:country":"US",
+    "sg:address":"49660 Gratiot Ave",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 1020",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oFesdYsqm7tYSGWjCmSNB_42.663060_-82.842133@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784180,
+    "wof:geomhash":"824927de9696165943814ea92e565c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":689885309
+        }
+    ],
+    "wof:id":689885309,
+    "wof:lastmodified":1461784180,
+    "wof:name":"R & T Plumbing",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.842133,
+    42.66306,
+    -82.842133,
+    42.66306
+],
+  "geometry": {"coordinates":[-82.842133,42.66306],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 689724593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362442,42.578555,-83.362442,42.578555",
+    "geom:latitude":42.578555,
+    "geom:longitude":-83.362442,
+    "iso:country":"US",
+    "sg:address":"4210 Orchard Lake Rd",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 2360",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "curtain",
+        "drapery",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D5frY64I8d2NttMpj25yf_42.578555_-83.362442@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779794,
+    "wof:geomhash":"bdab4c34aeb3f28ce12008d62fc2b9ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689724593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689724593
+        }
+    ],
+    "wof:id":689724593,
+    "wof:lastmodified":1461779794,
+    "wof:name":"Kameo Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "drapery",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.362442,
+    42.578555,
+    -83.362442,
+    42.578555
+],
+  "geometry": {"coordinates":[-83.362442,42.578555],"type":"Point"}
+}

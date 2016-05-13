@@ -1,0 +1,75 @@
+{
+  "id": 689531723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.284881,43.156627,-86.284881,43.156627",
+    "geom:latitude":43.156627,
+    "geom:longitude":-86.284881,
+    "iso:country":"US",
+    "sg:address":"5305 Lake Harbor Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 9902",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "health",
+        "program",
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42T3A8ESZ0dHoOAXK90wGV_43.156627_-86.284881@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774138,
+    "wof:geomhash":"d5174ecdd3e0ec46aab74c4c9b12a963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689531723
+        }
+    ],
+    "wof:id":689531723,
+    "wof:lastmodified":1461774138,
+    "wof:name":"Stats",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "program",
+        "education"
+    ]
+},
+  "bbox": [
+    -86.284881,
+    43.156627,
+    -86.284881,
+    43.156627
+],
+  "geometry": {"coordinates":[-86.284881,43.156627],"type":"Point"}
+}

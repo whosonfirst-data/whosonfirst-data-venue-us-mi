@@ -1,0 +1,69 @@
+{
+  "id": 706215149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.174415,43.231381,-86.174415,43.231381",
+    "geom:latitude":43.231381,
+    "geom:longitude":-86.174415,
+    "iso:country":"US",
+    "sg:address":"1117 S Walker Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 4316",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H04y0lTfRGBgLydiNlYtC_43.231381_-86.174415@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798395,
+    "wof:geomhash":"4b830ac43cfacb0237d7937dde08b347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706215149
+        }
+    ],
+    "wof:id":706215149,
+    "wof:lastmodified":1461798395,
+    "wof:name":"Muskegon Township Fire Dept",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.174415,
+    43.231381,
+    -86.174415,
+    43.231381
+],
+  "geometry": {"coordinates":[-86.174415,43.231381],"type":"Point"}
+}

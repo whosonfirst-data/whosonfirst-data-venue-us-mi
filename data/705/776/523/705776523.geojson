@@ -1,0 +1,71 @@
+{
+  "id": 705776523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.864481,42.583905,-82.864481,42.583905",
+    "geom:latitude":42.583905,
+    "geom:longitude":-82.864481,
+    "iso:country":"US",
+    "sg:address":"38437 Albert Blvd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 2261",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nO1cloj0o4RDEAFBA7JjC_42.583905_-82.864481@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788463,
+    "wof:geomhash":"094310d0ede553f244dcbcaa3bb06b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":705776523
+        }
+    ],
+    "wof:id":705776523,
+    "wof:lastmodified":1461788463,
+    "wof:name":"Albert Group Home",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -82.864481,
+    42.583905,
+    -82.864481,
+    42.583905
+],
+  "geometry": {"coordinates":[-82.864481,42.583905],"type":"Point"}
+}

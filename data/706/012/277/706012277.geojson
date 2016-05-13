@@ -1,0 +1,71 @@
+{
+  "id": 706012277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.489264,42.202567,-83.489264,42.202567",
+    "geom:latitude":42.202567,
+    "geom:longitude":-83.489264,
+    "iso:country":"US",
+    "sg:address":"250 Henry St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 2042",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58VuF85LCPtxTwfQH74Grd_42.202567_-83.489264@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793839,
+    "wof:geomhash":"0c85a82989bcefbc0b18ac035778f0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706012277
+        }
+    ],
+    "wof:id":706012277,
+    "wof:lastmodified":1461793839,
+    "wof:name":"Belmont Manor",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.489264,
+    42.202567,
+    -83.489264,
+    42.202567
+],
+  "geometry": {"coordinates":[-83.48926400000001,42.202567],"type":"Point"}
+}

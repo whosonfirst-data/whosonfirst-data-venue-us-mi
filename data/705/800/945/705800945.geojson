@@ -1,0 +1,71 @@
+{
+  "id": 705800945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.80701,43.307508,-85.80701,43.307508",
+    "geom:latitude":43.307508,
+    "geom:longitude":-85.80701,
+    "iso:country":"US",
+    "sg:address":"351 W 136th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 9046",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DW8jnpNJxELvOwKFOtgZ7_43.307508_-85.807010@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789037,
+    "wof:geomhash":"c9ecb6a33b5b3d5a4616c86d8ac5ede4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705800945
+        }
+    ],
+    "wof:id":705800945,
+    "wof:lastmodified":1461789037,
+    "wof:name":"Terrys Transmissions",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.80701,
+    43.307508,
+    -85.80701,
+    43.307508
+],
+  "geometry": {"coordinates":[-85.80701000000001,43.307508],"type":"Point"}
+}

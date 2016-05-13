@@ -1,0 +1,71 @@
+{
+  "id": 705760421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.570376,42.321734,-85.570376,42.321734",
+    "geom:latitude":42.321734,
+    "geom:longitude":-85.570376,
+    "iso:country":"US",
+    "sg:address":"621 Commerce Ln",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 385 5102",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52AsI7VBd9wCft9BE7FE7R_42.321734_-85.570376@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788096,
+    "wof:geomhash":"2dd584a956821510d6feb98ef7aa9aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":705760421
+        }
+    ],
+    "wof:id":705760421,
+    "wof:lastmodified":1461788096,
+    "wof:name":"Michigan Towing & Recovery",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.570376,
+    42.321734,
+    -85.570376,
+    42.321734
+],
+  "geometry": {"coordinates":[-85.570376,42.321734],"type":"Point"}
+}

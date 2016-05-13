@@ -1,0 +1,75 @@
+{
+  "id": 706262495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.85671,42.763678,-84.85671,42.763678",
+    "geom:latitude":42.763678,
+    "geom:longitude":-84.85671,
+    "iso:country":"US",
+    "sg:address":"13940 N Wheaton Rd",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 4675",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U7EU0QZOOvepOatUI7eUE_42.763678_-84.856710@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799455,
+    "wof:geomhash":"9dfb72ebffeaac577d72b90ce11ab5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706262495
+        }
+    ],
+    "wof:id":706262495,
+    "wof:lastmodified":1461799455,
+    "wof:name":"McIntyre Expediting",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.85671,
+    42.763678,
+    -84.85671,
+    42.763678
+],
+  "geometry": {"coordinates":[-84.85671000000001,42.763678],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706293899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.849014,43.492724,-85.849014,43.492724",
+    "geom:latitude":43.492724,
+    "geom:longitude":-85.849014,
+    "iso:country":"US",
+    "sg:address":"1918 W 32nd St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 4809",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38O2pk2W9bO2dMeIxCAoDV_43.492724_-85.849014@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800172,
+    "wof:geomhash":"d92b16e1e55223463c22cead984c3c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706293899
+        }
+    ],
+    "wof:id":706293899,
+    "wof:lastmodified":1461800172,
+    "wof:name":"YMCA Camp Echo Caretaker",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -85.849014,
+    43.492724,
+    -85.849014,
+    43.492724
+],
+  "geometry": {"coordinates":[-85.849014,43.492724],"type":"Point"}
+}

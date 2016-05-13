@@ -1,0 +1,73 @@
+{
+  "id": 706242469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.568638,42.913836,-85.568638,42.913836",
+    "geom:latitude":42.913836,
+    "geom:longitude":-85.568638,
+    "iso:country":"US",
+    "sg:address":"2768 E Paris Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 957 3110",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LxoqGhrRxVyxwvtJbMcI0_42.913836_-85.568638@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799006,
+    "wof:geomhash":"3509feba53a02306fd4331f53d517cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706242469
+        }
+    ],
+    "wof:id":706242469,
+    "wof:lastmodified":1461799006,
+    "wof:name":"Baker Bookhouse",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -85.568638,
+    42.913836,
+    -85.568638,
+    42.913836
+],
+  "geometry": {"coordinates":[-85.56863800000001,42.913836],"type":"Point"}
+}

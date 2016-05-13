@@ -1,0 +1,70 @@
+{
+  "id": 722478863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.28669,42.601322,-83.28669,42.601322",
+    "geom:latitude":42.601322,
+    "geom:longitude":-83.28669,
+    "iso:country":"US",
+    "sg:address":"2701 S Telegraph",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 562 5003",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egaTG4SKiQqG09lri1j8j_42.601322_-83.286690@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812242,
+    "wof:geomhash":"dd14cc5504cae4cf7d3617f5bd5d3fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":722478863
+        }
+    ],
+    "wof:id":722478863,
+    "wof:lastmodified":1461812242,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.28669,
+    42.601322,
+    -83.28669,
+    42.601322
+],
+  "geometry": {"coordinates":[-83.28668999999999,42.601322],"type":"Point"}
+}

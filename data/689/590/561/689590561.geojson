@@ -1,0 +1,82 @@
+{
+  "id": 689590561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694074,43.085146,-83.694074,43.085146",
+    "geom:latitude":43.085146,
+    "geom:longitude":-83.694074,
+    "iso:country":"US",
+    "sg:address":"5330 N Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 787 8396",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Ba0mAmFqVrZC2jeCabte_43.085146_-83.694074@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775927,
+    "wof:geomhash":"d924a5e59eb5c31da42b720cee2e0b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":689590561
+        }
+    ],
+    "wof:id":689590561,
+    "wof:lastmodified":1461775927,
+    "wof:name":"Big M Beer & Wine Inc",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -83.694074,
+    43.085146,
+    -83.694074,
+    43.085146
+],
+  "geometry": {"coordinates":[-83.694074,43.085146],"type":"Point"}
+}

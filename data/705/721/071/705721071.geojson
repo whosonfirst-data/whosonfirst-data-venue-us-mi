@@ -1,0 +1,72 @@
+{
+  "id": 705721071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.218302,43.287639,-86.218302,43.287639",
+    "geom:latitude":43.287639,
+    "geom:longitude":-86.218302,
+    "iso:country":"US",
+    "sg:address":"1800 Holton Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 7601",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_699CFdifhyo1kzgdTaL8mt_43.287639_-86.218302@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787192,
+    "wof:geomhash":"ac49c59bf770935c11200afbc4a64658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705721071
+        }
+    ],
+    "wof:id":705721071,
+    "wof:lastmodified":1461787192,
+    "wof:name":"Meijer",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.218302,
+    43.287639,
+    -86.218302,
+    43.287639
+],
+  "geometry": {"coordinates":[-86.21830199999999,43.287639],"type":"Point"}
+}

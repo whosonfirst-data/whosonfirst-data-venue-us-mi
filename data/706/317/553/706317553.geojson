@@ -1,0 +1,84 @@
+{
+  "id": 706317553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.494333,42.958668,-85.494333,42.958668",
+    "geom:latitude":42.958668,
+    "geom:longitude":-85.494333,
+    "iso:country":"US",
+    "sg:address":"7100 Fulton St E",
+    "sg:city":"Ada",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 682 1388",
+    "sg:postcode":"49301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "station",
+        "wash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817053,
+        102191575,
+        404509019,
+        85633793,
+        85952231,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZOVqBjccquUpRmglN1Qrz_42.958668_-85.494333@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800670,
+    "wof:geomhash":"f4a69d5e79d4abb2ffd8d423b480d126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509019,
+            "locality_id":85952231,
+            "neighbourhood_id":85817053,
+            "region_id":85688599,
+            "venue_id":706317553
+        }
+    ],
+    "wof:id":706317553,
+    "wof:lastmodified":1461800670,
+    "wof:name":"Sunrise Auto Plaza Inc",
+    "wof:parent_id":85817053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "station",
+        "wash"
+    ]
+},
+  "bbox": [
+    -85.494333,
+    42.958668,
+    -85.494333,
+    42.958668
+],
+  "geometry": {"coordinates":[-85.494333,42.958668],"type":"Point"}
+}

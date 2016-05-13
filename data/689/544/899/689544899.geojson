@@ -1,0 +1,73 @@
+{
+  "id": 689544899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.226073,43.235009,-86.226073,43.235009",
+    "geom:latitude":43.235009,
+    "geom:longitude":-86.226073,
+    "iso:country":"US",
+    "sg:address":"657 Allen Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 0070",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9b2INI5MYNfB2rch03uZ_43.235009_-86.226073@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774525,
+    "wof:geomhash":"dcd1abd6530d7bb23252615f6e344b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689544899
+        }
+    ],
+    "wof:id":689544899,
+    "wof:lastmodified":1461774525,
+    "wof:name":"Janet Young",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.226073,
+    43.235009,
+    -86.226073,
+    43.235009
+],
+  "geometry": {"coordinates":[-86.226073,43.235009],"type":"Point"}
+}

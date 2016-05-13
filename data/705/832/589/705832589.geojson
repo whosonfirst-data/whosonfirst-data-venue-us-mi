@@ -1,0 +1,77 @@
+{
+  "id": 705832589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.078761,42.344443,-83.078761,42.344443",
+    "geom:latitude":42.344443,
+    "geom:longitude":-83.078761,
+    "iso:country":"US",
+    "sg:address":"3901 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 832 8337",
+    "sg:postcode":"48208",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870533,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_410sFzE0NkwHESnr85x6Sy_42.344443_-83.078761@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789795,
+    "wof:geomhash":"03f0c96d7f1944afe107a25a045cc18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870533,
+            "region_id":85688599,
+            "venue_id":705832589
+        }
+    ],
+    "wof:id":705832589,
+    "wof:lastmodified":1461789795,
+    "wof:name":"A&D Package Delivery",
+    "wof:parent_id":85870533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "package"
+    ]
+},
+  "bbox": [
+    -83.078761,
+    42.344443,
+    -83.078761,
+    42.344443
+],
+  "geometry": {"coordinates":[-83.078761,42.344443],"type":"Point"}
+}

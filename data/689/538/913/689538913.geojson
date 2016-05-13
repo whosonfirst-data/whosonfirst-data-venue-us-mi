@@ -1,0 +1,71 @@
+{
+  "id": 689538913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.581067,47.113378,-88.581067,47.113378",
+    "geom:latitude":47.113378,
+    "geom:longitude":-88.581067,
+    "iso:country":"US",
+    "sg:address":"725 Cedar Bluff Dr",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 2020",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0obpLt054pLkAG25hkXFbP_47.113378_-88.581067@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774323,
+    "wof:geomhash":"75d1a2b51bd756c2c5ecd2b0cab12add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689538913
+        }
+    ],
+    "wof:id":689538913,
+    "wof:lastmodified":1461774323,
+    "wof:name":"Rick L Kavorik DDS",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.581067,
+    47.113378,
+    -88.581067,
+    47.113378
+],
+  "geometry": {"coordinates":[-88.581067,47.113378],"type":"Point"}
+}

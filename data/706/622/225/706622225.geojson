@@ -1,0 +1,71 @@
+{
+  "id": 706622225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.432357,42.261906,-84.432357,42.261906",
+    "geom:latitude":42.261906,
+    "geom:longitude":-84.432357,
+    "iso:country":"US",
+    "sg:address":"1401 W Argyle St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 2421",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4if1ewzwbYLehU58klfq2W_42.261906_-84.432357@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807192,
+    "wof:geomhash":"a9ee6c0b4835b457d8a19e76c1f10b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706622225
+        }
+    ],
+    "wof:id":706622225,
+    "wof:lastmodified":1461807192,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -84.432357,
+    42.261906,
+    -84.432357,
+    42.261906
+],
+  "geometry": {"coordinates":[-84.432357,42.261906],"type":"Point"}
+}

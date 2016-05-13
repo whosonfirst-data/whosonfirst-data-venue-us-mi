@@ -1,0 +1,71 @@
+{
+  "id": 689760133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.803578,43.336279,-85.803578,43.336279",
+    "geom:latitude":43.336279,
+    "geom:longitude":-85.803578,
+    "iso:country":"US",
+    "sg:address":"12012 S Elder Ave",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7973",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7grNHfH0lXv7ib9swywD2n_43.336279_-85.803578@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780745,
+    "wof:geomhash":"8170ab78bc6eaddf675b7259b6298352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689760133
+        }
+    ],
+    "wof:id":689760133,
+    "wof:lastmodified":1461780745,
+    "wof:name":"Grant Welding Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -85.803578,
+    43.336279,
+    -85.803578,
+    43.336279
+],
+  "geometry": {"coordinates":[-85.803578,43.336279],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689811701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.388799,41.925424,-83.388799,41.925424",
+    "geom:latitude":41.925424,
+    "geom:longitude":-83.388799,
+    "iso:country":"US",
+    "sg:address":"718 N Macomb St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 0727",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dMjTFrEn0ZdZgtLaUhTsQ_41.925424_-83.388799@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782245,
+    "wof:geomhash":"9f02593f2a72b41f809fb84b715f9a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689811701
+        }
+    ],
+    "wof:id":689811701,
+    "wof:lastmodified":1461782245,
+    "wof:name":"Monroe Emergency Physicians",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.388799,
+    41.925424,
+    -83.388799,
+    41.925424
+],
+  "geometry": {"coordinates":[-83.38879900000001,41.925424],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689733313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879496,43.479766,-85.879496,43.479766",
+    "geom:latitude":43.479766,
+    "geom:longitude":-85.879496,
+    "iso:country":"US",
+    "sg:address":"4078 Baldwin Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 5467",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056vW4syesGoSKmelk4Cqk_43.479766_-85.879496@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780022,
+    "wof:geomhash":"f5934c30401ce49d57e2d245c266cae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689733313
+        }
+    ],
+    "wof:id":689733313,
+    "wof:lastmodified":1461780022,
+    "wof:name":"Schipper Electric",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.879496,
+    43.479766,
+    -85.879496,
+    43.479766
+],
+  "geometry": {"coordinates":[-85.879496,43.479766],"type":"Point"}
+}

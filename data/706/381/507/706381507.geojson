@@ -1,0 +1,83 @@
+{
+  "id": 706381507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.479782,41.735285,-83.479782,41.735285",
+    "geom:latitude":41.735285,
+    "geom:longitude":-83.479782,
+    "iso:country":"US",
+    "sg:address":"6400 Summit St",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 848 2113",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848565,
+        102191575,
+        404525355,
+        85633793,
+        101712039,
+        102084787,
+        85688485,
+        85842547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W8YS4Kf1dKVkhcrzdHgfT_41.735285_-83.479782@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802035,
+    "wof:geomhash":"6178246313b1877dbb8ea7cface1855b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084787,
+            "localadmin_id":404525355,
+            "locality_id":101712039,
+            "neighbourhood_id":85848565,
+            "region_id":85688485,
+            "venue_id":706381507
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":706381507
+        }
+    ],
+    "wof:id":706381507,
+    "wof:lastmodified":1461802035,
+    "wof:name":"Little Red Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor"
+    ]
+},
+  "bbox": [
+    -83.479782,
+    41.735285,
+    -83.479782,
+    41.735285
+],
+  "geometry": {"coordinates":[-83.479782,41.735285],"type":"Point"}
+}

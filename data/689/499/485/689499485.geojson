@@ -1,0 +1,71 @@
+{
+  "id": 689499485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.098718,42.594216,-86.098718,42.594216",
+    "geom:latitude":42.594216,
+    "geom:longitude":-86.098718,
+    "iso:country":"US",
+    "sg:address":"724 E Main St",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 561 5755",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RXfUqnKlUVpXdkESYvLfI_42.594216_-86.098718@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773078,
+    "wof:geomhash":"3488a71f2fc454c8391789dc492f6fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689499485
+        }
+    ],
+    "wof:id":689499485,
+    "wof:lastmodified":1461773078,
+    "wof:name":"Fennville Transmission",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.098718,
+    42.594216,
+    -86.098718,
+    42.594216
+],
+  "geometry": {"coordinates":[-86.09871800000001,42.594216],"type":"Point"}
+}

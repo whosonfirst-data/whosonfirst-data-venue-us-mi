@@ -1,0 +1,73 @@
+{
+  "id": 705972829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.149081,42.803779,-86.149081,42.803779",
+    "geom:latitude":42.803779,
+    "geom:longitude":-86.149081,
+    "iso:country":"US",
+    "sg:address":"974 Bay Ridge Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 1616",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "connector",
+        "electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MScgXTO0Hef7KhcPfov0o_42.803779_-86.149081@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793021,
+    "wof:geomhash":"2ba097cbd36c47dcc2762dbefab4df7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705972829
+        }
+    ],
+    "wof:id":705972829,
+    "wof:lastmodified":1461793021,
+    "wof:name":"Molex Inc",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "connector",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -86.149081,
+    42.803779,
+    -86.149081,
+    42.803779
+],
+  "geometry": {"coordinates":[-86.149081,42.803779],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706678661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.115037,42.432221,-83.115037,42.432221",
+    "geom:latitude":42.432221,
+    "geom:longitude":-83.115037,
+    "iso:country":"US",
+    "sg:address":"19102 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/185827-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870525,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WGThXgGu3Fa6eSYeZx5FR_42.432221_-83.115037@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809232,
+    "wof:geomhash":"52f964152f3ff3951cf674e52e222494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870525,
+            "region_id":85688599,
+            "venue_id":706678661
+        }
+    ],
+    "wof:id":706678661,
+    "wof:lastmodified":1461809232,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85870525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.115037,
+    42.432221,
+    -83.115037,
+    42.432221
+],
+  "geometry": {"coordinates":[-83.115037,42.432221],"type":"Point"}
+}

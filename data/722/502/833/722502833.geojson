@@ -1,0 +1,76 @@
+{
+  "id": 722502833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.312682,42.370117,-83.312682,42.370117",
+    "geom:latitude":42.370117,
+    "geom:longitude":-83.312682,
+    "iso:country":"US",
+    "sg:address":"27350 Plymouth Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 937 2500",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524971,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WGIXuuP5w1S7cdd3BM8dD_42.370117_-83.312682@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813179,
+    "wof:geomhash":"6cf9e2ab875bf1a3aab4614c975671a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524971,
+            "region_id":85688599,
+            "venue_id":722502833
+        }
+    ],
+    "wof:id":722502833,
+    "wof:lastmodified":1461813179,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":420524971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.312682,
+    42.370117,
+    -83.312682,
+    42.370117
+],
+  "geometry": {"coordinates":[-83.312682,42.370117],"type":"Point"}
+}

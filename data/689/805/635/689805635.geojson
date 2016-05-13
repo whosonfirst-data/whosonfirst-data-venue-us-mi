@@ -1,0 +1,77 @@
+{
+  "id": 689805635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.735688,43.025656,-83.735688,43.025656",
+    "geom:latitude":43.025656,
+    "geom:longitude":-83.735688,
+    "iso:country":"US",
+    "sg:address":"3042 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 4146",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "used",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NijK1is2SaTbs4d8G5YMl_43.025656_-83.735688@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782068,
+    "wof:geomhash":"14c6d907d86b99f272317e629f28725d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689805635
+        }
+    ],
+    "wof:id":689805635,
+    "wof:lastmodified":1461782068,
+    "wof:name":"Flushing Road Collision Inc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "used",
+        "body"
+    ]
+},
+  "bbox": [
+    -83.735688,
+    43.025656,
+    -83.735688,
+    43.025656
+],
+  "geometry": {"coordinates":[-83.735688,43.025656],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706685401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.950428,43.467125,-85.950428,43.467125",
+    "geom:latitude":43.467125,
+    "geom:longitude":-85.950428,
+    "iso:country":"US",
+    "sg:address":"1348 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fremont/185764-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eDB6rgHMO3eQ4ZrgnLExj_43.467125_-85.950428@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809498,
+    "wof:geomhash":"3f449fa86c75dfc16ecc5ff7b4ce7c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706685401
+        }
+    ],
+    "wof:id":706685401,
+    "wof:lastmodified":1461809498,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.950428,
+    43.467125,
+    -85.950428,
+    43.467125
+],
+  "geometry": {"coordinates":[-85.950428,43.467125],"type":"Point"}
+}

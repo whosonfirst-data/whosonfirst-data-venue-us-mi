@@ -1,0 +1,73 @@
+{
+  "id": 706076153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651034,44.76255,-85.651034,44.76255",
+    "geom:latitude":44.76255,
+    "geom:longitude":-85.651034,
+    "iso:country":"US",
+    "sg:address":"5217 N Royal Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 932 9000",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hMNKV2MBKPyvmSb20BCoH_44.762550_-85.651034@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795179,
+    "wof:geomhash":"62549954313c638b0dba3bb7a1295558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706076153
+        }
+    ],
+    "wof:id":706076153,
+    "wof:lastmodified":1461795179,
+    "wof:name":"Northern Vision Eye Care",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.651034,
+    44.76255,
+    -85.651034,
+    44.76255
+],
+  "geometry": {"coordinates":[-85.651034,44.76255],"type":"Point"}
+}

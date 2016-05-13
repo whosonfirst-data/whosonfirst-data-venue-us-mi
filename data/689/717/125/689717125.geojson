@@ -1,0 +1,73 @@
+{
+  "id": 689717125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.406594,44.270238,-85.406594,44.270238",
+    "geom:latitude":44.270238,
+    "geom:longitude":-85.406594,
+    "iso:country":"US",
+    "sg:address":"112 Irma Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 6055",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BPISkI4Wp9ZBEB8bIY0a8_44.270238_-85.406594@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779581,
+    "wof:geomhash":"ddf6a44b56107b8f8cb92a6e83d33203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689717125
+        }
+    ],
+    "wof:id":689717125,
+    "wof:lastmodified":1461779581,
+    "wof:name":"Budget Transmission",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.406594,
+    44.270238,
+    -85.406594,
+    44.270238
+],
+  "geometry": {"coordinates":[-85.406594,44.270238],"type":"Point"}
+}

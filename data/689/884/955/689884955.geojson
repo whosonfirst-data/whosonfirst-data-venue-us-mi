@@ -1,0 +1,71 @@
+{
+  "id": 689884955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706663,42.255288,-85.706663,42.255288",
+    "geom:latitude":42.255288,
+    "geom:longitude":-85.706663,
+    "iso:country":"US",
+    "sg:address":"3265 S 6th St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 6130",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DQhnhkX1mrDAmI1GA7mGk_42.255288_-85.706663@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784171,
+    "wof:geomhash":"1fbefec64366337c4e003fe324cad777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":689884955
+        }
+    ],
+    "wof:id":689884955,
+    "wof:lastmodified":1461784171,
+    "wof:name":"Little John's Excavating",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.706663,
+    42.255288,
+    -85.706663,
+    42.255288
+],
+  "geometry": {"coordinates":[-85.70666300000001,42.255288],"type":"Point"}
+}

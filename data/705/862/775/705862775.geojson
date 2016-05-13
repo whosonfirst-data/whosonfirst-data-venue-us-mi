@@ -1,0 +1,69 @@
+{
+  "id": 705862775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601695,42.751163,-84.601695,42.751163",
+    "geom:latitude":42.751163,
+    "geom:longitude":-84.601695,
+    "iso:country":"US",
+    "sg:address":"1831 Briarwood Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 886 5141",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807273,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lmbu0BeVXCm3Dw6Dkm4uo_42.751163_-84.601695@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790484,
+    "wof:geomhash":"b3047191315cffff7b7a323bdd79384c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "neighbourhood_id":85807273,
+            "region_id":85688599,
+            "venue_id":705862775
+        }
+    ],
+    "wof:id":705862775,
+    "wof:lastmodified":1461790484,
+    "wof:name":"Great Lakes Phlebotomy LLC",
+    "wof:parent_id":85807273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.601695,
+    42.751163,
+    -84.601695,
+    42.751163
+],
+  "geometry": {"coordinates":[-84.60169500000001,42.751163],"type":"Point"}
+}

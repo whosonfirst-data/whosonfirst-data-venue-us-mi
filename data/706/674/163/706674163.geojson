@@ -1,0 +1,78 @@
+{
+  "id": 706674163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.234901,42.407299,-83.234901,42.407299",
+    "geom:latitude":42.407299,
+    "geom:longitude":-83.234901,
+    "iso:country":"US",
+    "sg:address":"19541 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 535 3600",
+    "sg:postcode":"48223",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "sg:website":"hendersonglass.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524867,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fcsVlpQbnlQEzrL0YVHkN_42.407250_-83.234908@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809046,
+    "wof:geomhash":"85fb5630b547da3ee3918bed27e08cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524867,
+            "region_id":85688599,
+            "venue_id":706674163
+        }
+    ],
+    "wof:id":706674163,
+    "wof:lastmodified":1461809046,
+    "wof:name":"Henderson Glass Inc",
+    "wof:parent_id":420524867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -83.234901,
+    42.407299,
+    -83.234901,
+    42.407299
+],
+  "geometry": {"coordinates":[-83.23490099999999,42.407299],"type":"Point"}
+}

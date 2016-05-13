@@ -1,0 +1,86 @@
+{
+  "id": 706718325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.107908,42.582606,-83.107908,42.582606",
+    "geom:latitude":42.582606,
+    "geom:longitude":-83.107908,
+    "iso:country":"US",
+    "sg:address":"4307 Marywood Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 736 0879",
+    "sg:postcode":"48085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B4KO7nPlGQBndZ6JlXqoa_42.582606_-83.107908@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810889,
+    "wof:geomhash":"b01d204b694cd7249862f998f6fb9d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706718325
+        }
+    ],
+    "wof:id":706718325,
+    "wof:lastmodified":1461810889,
+    "wof:name":"Wiggle Butts Pet Sitting East",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "walker",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.107908,
+    42.582606,
+    -83.107908,
+    42.582606
+],
+  "geometry": {"coordinates":[-83.10790799999999,42.582606],"type":"Point"}
+}

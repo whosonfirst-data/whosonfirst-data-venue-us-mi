@@ -1,0 +1,71 @@
+{
+  "id": 705849887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285624,42.709286,-83.285624,42.709286",
+    "geom:latitude":42.709286,
+    "geom:longitude":-83.285624,
+    "iso:country":"US",
+    "sg:address":"4520 Joslyn Rd",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 391 4786",
+    "sg:postcode":"48359",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821589,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CGL7i8vk1H2oMYFDuzgRc_42.709286_-83.285624@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790178,
+    "wof:geomhash":"eb15d1edaf162e60fb33a390e74301ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85821589,
+            "region_id":85688599,
+            "venue_id":705849887
+        }
+    ],
+    "wof:id":705849887,
+    "wof:lastmodified":1461790178,
+    "wof:name":"Rams Auto Svc",
+    "wof:parent_id":85821589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.285624,
+    42.709286,
+    -83.285624,
+    42.709286
+],
+  "geometry": {"coordinates":[-83.285624,42.709286],"type":"Point"}
+}

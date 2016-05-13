@@ -1,0 +1,76 @@
+{
+  "id": 706288231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.505576,41.824177,-83.505576,41.824177",
+    "geom:latitude":41.824177,
+    "geom:longitude":-83.505576,
+    "iso:country":"US",
+    "sg:address":"2104 Rauch Rd",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 848 5054",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804009,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u4NbPB0K0N9KXDAvd49yf_41.824177_-83.505576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800044,
+    "wof:geomhash":"08f23fe11cbcd1483a4599f57d52591d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":706288231
+        }
+    ],
+    "wof:id":706288231,
+    "wof:lastmodified":1461800044,
+    "wof:name":"Zubkoff Trucking Co",
+    "wof:parent_id":85804009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.505576,
+    41.824177,
+    -83.505576,
+    41.824177
+],
+  "geometry": {"coordinates":[-83.505576,41.824177],"type":"Point"}
+}

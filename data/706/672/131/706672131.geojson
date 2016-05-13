@@ -1,0 +1,74 @@
+{
+  "id": 706672131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.688265,42.201062,-85.688265,42.201062",
+    "geom:latitude":42.201062,
+    "geom:longitude":-85.688265,
+    "iso:country":"US",
+    "sg:address":"7067 W Q Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 3400",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "sg:website":"http://www.texascornersanimalhospital.vetsuite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HkPJnIxZKi0GSrsBzoyM7_42.200977_-85.687621@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808952,
+    "wof:geomhash":"b11c4cca01fcf07d6404c807d7da8ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706672131
+        }
+    ],
+    "wof:id":706672131,
+    "wof:lastmodified":1461808952,
+    "wof:name":"Texas Corners Animal Hospital Inc",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -85.688265,
+    42.201062,
+    -85.688265,
+    42.201062
+],
+  "geometry": {"coordinates":[-85.688265,42.201062],"type":"Point"}
+}

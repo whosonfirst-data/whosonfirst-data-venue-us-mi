@@ -1,0 +1,77 @@
+{
+  "id": 706143569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.451326,41.867464,-83.451326,41.867464",
+    "geom:latitude":41.867464,
+    "geom:longitude":-83.451326,
+    "iso:country":"US",
+    "sg:address":"4120 Laplaisance Rd",
+    "sg:city":"La Salle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 6507",
+    "sg:postcode":"48145",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117,
+        85804009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b7FyosRxzMAGwixPYhs2O_41.867464_-83.451326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796835,
+    "wof:geomhash":"2c30452bf0d831a8e23f73a0c45c71e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706143569
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":706143569
+        }
+    ],
+    "wof:id":706143569,
+    "wof:lastmodified":1461796835,
+    "wof:name":"LA Salle Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.451326,
+    41.867464,
+    -83.451326,
+    41.867464
+],
+  "geometry": {"coordinates":[-83.45132599999999,41.867464],"type":"Point"}
+}

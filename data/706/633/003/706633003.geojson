@@ -1,0 +1,71 @@
+{
+  "id": 706633003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.655913,44.737355,-85.655913,44.737355",
+    "geom:latitude":44.737355,
+    "geom:longitude":-85.655913,
+    "iso:country":"US",
+    "sg:address":"3663 Silver Lake Rd",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 4001",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ikW3fuiwXjP2vrAk5yEl0_44.737355_-85.655913@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807430,
+    "wof:geomhash":"7c4dbf31b8273e6521015fec7aed8d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706633003
+        }
+    ],
+    "wof:id":706633003,
+    "wof:lastmodified":1461807430,
+    "wof:name":"Roto-Rooter Plumbing & Drain",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.655913,
+    44.737355,
+    -85.655913,
+    44.737355
+],
+  "geometry": {"coordinates":[-85.655913,44.737355],"type":"Point"}
+}

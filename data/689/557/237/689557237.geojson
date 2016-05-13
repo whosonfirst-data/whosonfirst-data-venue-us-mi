@@ -1,0 +1,73 @@
+{
+  "id": 689557237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.254346,43.221104,-86.254346,43.221104",
+    "geom:latitude":43.221104,
+    "geom:longitude":-86.254346,
+    "iso:country":"US",
+    "sg:address":"1675 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 9434",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09p2xnwllUANdykL55VbrF_43.221104_-86.254346@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774947,
+    "wof:geomhash":"ecf3351e377146790f6e0728033c2936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689557237
+        }
+    ],
+    "wof:id":689557237,
+    "wof:lastmodified":1461774947,
+    "wof:name":"Kelly's Auto Electric Repair",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.254346,
+    43.221104,
+    -86.254346,
+    43.221104
+],
+  "geometry": {"coordinates":[-86.254346,43.221104],"type":"Point"}
+}

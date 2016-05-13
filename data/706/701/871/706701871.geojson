@@ -1,0 +1,70 @@
+{
+  "id": 706701871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.933359,42.628669,-82.933359,42.628669",
+    "geom:latitude":42.628669,
+    "geom:longitude":-82.933359,
+    "iso:country":"US",
+    "sg:address":"18815 Hall Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 5777",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U19no5iEaF4wszQB6MMdC_42.628669_-82.933359@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810152,
+    "wof:geomhash":"97608a3f6ce1b0c5beaabdff7c0685eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701871
+        }
+    ],
+    "wof:id":706701871,
+    "wof:lastmodified":1461810152,
+    "wof:name":"Burger King",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -82.933359,
+    42.628669,
+    -82.933359,
+    42.628669
+],
+  "geometry": {"coordinates":[-82.933359,42.628669],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 689567531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.174285,42.561608,-83.174285,42.561608",
+    "geom:latitude":42.561608,
+    "geom:longitude":-83.174285,
+    "iso:country":"US",
+    "sg:address":"1800 W Big Beaver Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 649 1173",
+    "sg:postcode":"48084",
+    "sg:province":"MI",
+    "sg:tags":[
+        "objective",
+        "center",
+        "therapist",
+        "rehabilitation",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896575,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68S8bJxoPj2CyO5CjmYfST_42.561608_-83.174285@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775226,
+    "wof:geomhash":"734e1e48e07aec3daa2d94d9fd9b7a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896575,
+            "region_id":85688599,
+            "venue_id":689567531
+        }
+    ],
+    "wof:id":689567531,
+    "wof:lastmodified":1461775226,
+    "wof:name":"Dynamic Rehabilitation Centers",
+    "wof:parent_id":85896575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "objective",
+        "center",
+        "therapist",
+        "rehabilitation",
+        "physical"
+    ]
+},
+  "bbox": [
+    -83.174285,
+    42.561608,
+    -83.174285,
+    42.561608
+],
+  "geometry": {"coordinates":[-83.174285,42.561608],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705896693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570312,42.844444,-84.570312,42.844444",
+    "geom:latitude":42.844444,
+    "geom:longitude":-84.570312,
+    "iso:country":"US",
+    "sg:address":"430 N Scott St",
+    "sg:city":"Dewitt",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 669 1295",
+    "sg:postcode":"48820",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816227,
+        102083123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kk05AaAOkyrXT60MMDWrM_42.844444_-84.570312@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791329,
+    "wof:geomhash":"94b3b171dea720a9b070323fc74bc13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083123,
+            "neighbourhood_id":85816227,
+            "region_id":85688599,
+            "venue_id":705896693
+        }
+    ],
+    "wof:id":705896693,
+    "wof:lastmodified":1461791329,
+    "wof:name":"North Scott Villa Apartments",
+    "wof:parent_id":85816227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.570312,
+    42.844444,
+    -84.570312,
+    42.844444
+],
+  "geometry": {"coordinates":[-84.570312,42.844444],"type":"Point"}
+}

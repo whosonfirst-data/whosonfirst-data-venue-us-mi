@@ -1,0 +1,71 @@
+{
+  "id": 705956167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.671932,41.962504,-83.671932,41.962504",
+    "geom:latitude":41.962504,
+    "geom:longitude":-83.671932,
+    "iso:country":"US",
+    "sg:address":"4700 Ann Arbor Rd",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2426",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R64VotVb6z9ccGRE9kiOy_41.962504_-83.671932@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792672,
+    "wof:geomhash":"652953f9b741fe2577fccee26ed0db7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":705956167
+        }
+    ],
+    "wof:id":705956167,
+    "wof:lastmodified":1461792672,
+    "wof:name":"Bulk Transit Inc",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.671932,
+    41.962504,
+    -83.671932,
+    41.962504
+],
+  "geometry": {"coordinates":[-83.671932,41.962504],"type":"Point"}
+}

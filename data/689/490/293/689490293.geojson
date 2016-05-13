@@ -1,0 +1,75 @@
+{
+  "id": 689490293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.859958,42.592729,-82.859958,42.592729",
+    "geom:latitude":42.592729,
+    "geom:longitude":-82.859958,
+    "iso:country":"US",
+    "sg:address":"24651 N River Rd",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 4073",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kRpZoKs82W7xYWZZKvxK8_42.592729_-82.859958@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772837,
+    "wof:geomhash":"9a8e5b947c7cfcbe532dccb7cb52c5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":689490293
+        }
+    ],
+    "wof:id":689490293,
+    "wof:lastmodified":1461772837,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -82.859958,
+    42.592729,
+    -82.859958,
+    42.592729
+],
+  "geometry": {"coordinates":[-82.85995800000001,42.592729],"type":"Point"}
+}

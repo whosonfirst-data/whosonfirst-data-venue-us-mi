@@ -1,0 +1,69 @@
+{
+  "id": 689868149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.35339,42.001604,-83.35339,42.001604",
+    "geom:latitude":42.001604,
+    "geom:longitude":-83.35339,
+    "iso:country":"US",
+    "sg:address":"8472 Killy Ct",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 586 1720",
+    "sg:postcode":"48166",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85858699,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y5JRyiKgGX5LeZWI4jALE_42.001604_-83.353390@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783741,
+    "wof:geomhash":"adb86585eeffeb30eaeb2ac0026b8e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85858699,
+            "region_id":85688599,
+            "venue_id":689868149
+        }
+    ],
+    "wof:id":689868149,
+    "wof:lastmodified":1461783741,
+    "wof:name":"Wash On Wheels Monroe County",
+    "wof:parent_id":85858699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.35339,
+    42.001604,
+    -83.35339,
+    42.001604
+],
+  "geometry": {"coordinates":[-83.35339,42.001604],"type":"Point"}
+}

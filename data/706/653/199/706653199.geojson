@@ -1,0 +1,71 @@
+{
+  "id": 706653199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.95632,42.640092,-82.95632,42.640092",
+    "geom:latitude":42.640092,
+    "geom:longitude":-82.95632,
+    "iso:country":"US",
+    "sg:address":"46857 Garfield Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 532 9005",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cC0nUeMnxxDPxGfZLqE07_42.640092_-82.956320@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808094,
+    "wof:geomhash":"f0f58fc5797656ba8d3040158a649ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706653199
+        }
+    ],
+    "wof:id":706653199,
+    "wof:lastmodified":1461808094,
+    "wof:name":"Associated Rheumatology Cnslnt",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.95632,
+    42.640092,
+    -82.95632,
+    42.640092
+],
+  "geometry": {"coordinates":[-82.95632000000001,42.640092],"type":"Point"}
+}

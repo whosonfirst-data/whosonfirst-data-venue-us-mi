@@ -1,0 +1,77 @@
+{
+  "id": 722529511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.83106,42.907167,-85.83106,42.907167",
+    "geom:latitude":42.907167,
+    "geom:longitude":-85.83106,
+    "iso:country":"US",
+    "sg:address":"1965 Baldwin St",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ig0zxfMdySydKkGdFe4bB_42.907167_-85.831060@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814389,
+    "wof:geomhash":"0d8f12a63826517ac41068386a9ce675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":722529511
+        }
+    ],
+    "wof:id":722529511,
+    "wof:lastmodified":1461814389,
+    "wof:name":"USPS - United States Post Office - CPU Family Fare - 1589",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -85.83106,
+    42.907167,
+    -85.83106,
+    42.907167
+],
+  "geometry": {"coordinates":[-85.83105999999999,42.907167],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 689719889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551102,43.221603,-85.551102,43.221603",
+    "geom:latitude":43.221603,
+    "geom:longitude":-85.551102,
+    "iso:country":"US",
+    "sg:address":"108 S Main",
+    "sg:city":"Cedar Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 696 2466",
+    "sg:postcode":"49319",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JG1ENqsuSuXQCkjligySD_43.221603_-85.551102@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779670,
+    "wof:geomhash":"67b116669b11dccdc5bc74375b5adba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":689719889
+        }
+    ],
+    "wof:id":689719889,
+    "wof:lastmodified":1461779670,
+    "wof:name":"Cedar Auto Svc",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.551102,
+    43.221603,
+    -85.551102,
+    43.221603
+],
+  "geometry": {"coordinates":[-85.551102,43.221603],"type":"Point"}
+}

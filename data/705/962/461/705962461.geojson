@@ -1,0 +1,73 @@
+{
+  "id": 705962461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635584,44.765093,-85.635584,44.765093",
+    "geom:latitude":44.765093,
+    "geom:longitude":-85.635584,
+    "iso:country":"US",
+    "sg:address":"701 3rd St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 0800",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xdFzlUrCxHDzKqnZlIYDG_44.765093_-85.635584@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792807,
+    "wof:geomhash":"443eca1869a836d2e2462afcfe42d80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705962461
+        }
+    ],
+    "wof:id":705962461,
+    "wof:lastmodified":1461792807,
+    "wof:name":"Hand Surgery Northern Michigan",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.635584,
+    44.765093,
+    -85.635584,
+    44.765093
+],
+  "geometry": {"coordinates":[-85.63558399999999,44.765093],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689710469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.645708,42.230647,-83.645708,42.230647",
+    "geom:latitude":42.230647,
+    "geom:longitude":-83.645708,
+    "iso:country":"US",
+    "sg:address":"2244 Ellsworth Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 528 2800",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64H3lgmdR6rCG1K36uZtok_42.230647_-83.645708@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779416,
+    "wof:geomhash":"071c37f491346c5799939ba3a8e430ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":689710469
+        }
+    ],
+    "wof:id":689710469,
+    "wof:lastmodified":1461779416,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.645708,
+    42.230647,
+    -83.645708,
+    42.230647
+],
+  "geometry": {"coordinates":[-83.645708,42.230647],"type":"Point"}
+}

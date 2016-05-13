@@ -1,0 +1,71 @@
+{
+  "id": 705708813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.731167,43.002509,-83.731167,43.002509",
+    "geom:latitude":43.002509,
+    "geom:longitude":-83.731167,
+    "iso:country":"US",
+    "sg:address":"3312 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 0072",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P9gOLCJGYGUnRYSjWa5WX_43.002509_-83.731167@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786844,
+    "wof:geomhash":"c6d3acfac6121a9db44953577d5b9d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705708813
+        }
+    ],
+    "wof:id":705708813,
+    "wof:lastmodified":1461786844,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.731167,
+    43.002509,
+    -83.731167,
+    43.002509
+],
+  "geometry": {"coordinates":[-83.731167,43.002509],"type":"Point"}
+}

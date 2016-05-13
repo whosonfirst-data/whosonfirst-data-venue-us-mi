@@ -1,0 +1,73 @@
+{
+  "id": 705750193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270213,43.201308,-86.270213,43.201308",
+    "geom:latitude":43.201308,
+    "geom:longitude":-86.270213,
+    "iso:country":"US",
+    "sg:address":"1300 W Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 2221",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LL3qmYnXsKiaekVLdPjPl_43.201308_-86.270213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787849,
+    "wof:geomhash":"43c89269f8d6f10432845d7733c10ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705750193
+        }
+    ],
+    "wof:id":705750193,
+    "wof:lastmodified":1461787849,
+    "wof:name":"Roosevelt Park Nursing Ctr",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.270213,
+    43.201308,
+    -86.270213,
+    43.201308
+],
+  "geometry": {"coordinates":[-86.270213,43.201308],"type":"Point"}
+}

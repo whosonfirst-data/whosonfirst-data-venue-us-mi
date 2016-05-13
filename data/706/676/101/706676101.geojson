@@ -1,0 +1,77 @@
+{
+  "id": 706676101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.896297,42.46653,-82.896297,42.46653",
+    "geom:latitude":42.46653,
+    "geom:longitude":-82.896297,
+    "iso:country":"US",
+    "sg:address":"22333 E 9 Mile Rd",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/st-clair-shores/185856-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524407,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29z1qpX9rJ2RNp3lWry8DC_42.466530_-82.896297@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809125,
+    "wof:geomhash":"8de1a722f6b0c96bec664ca057787e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524407,
+            "region_id":85688599,
+            "venue_id":706676101
+        }
+    ],
+    "wof:id":706676101,
+    "wof:lastmodified":1461809125,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420524407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.896297,
+    42.46653,
+    -82.896297,
+    42.46653
+],
+  "geometry": {"coordinates":[-82.896297,42.46653],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706671455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.893402,42.603699,-82.893402,42.603699",
+    "geom:latitude":42.603699,
+    "geom:longitude":-82.893402,
+    "iso:country":"US",
+    "sg:address":"201 Hubbard St",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 7194",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67a2FDY1OpFEe6nlOHhm5t_42.603436_-82.893414@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808924,
+    "wof:geomhash":"3a6d6307f95fcfdc23b465458d7d613c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706671455
+        }
+    ],
+    "wof:id":706671455,
+    "wof:lastmodified":1461808924,
+    "wof:name":"Kingston Manor Apartments",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.893402,
+    42.603699,
+    -82.893402,
+    42.603699
+],
+  "geometry": {"coordinates":[-82.89340199999999,42.603699],"type":"Point"}
+}

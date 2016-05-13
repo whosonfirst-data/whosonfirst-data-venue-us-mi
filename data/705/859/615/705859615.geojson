@@ -1,0 +1,73 @@
+{
+  "id": 705859615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.899327,42.585762,-82.899327,42.585762",
+    "geom:latitude":42.585762,
+    "geom:longitude":-82.899327,
+    "iso:country":"US",
+    "sg:address":"38856 Hilldale St",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 3900",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FOkXdhQ5HmbB4u4bkNiQI_42.585762_-82.899327@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790415,
+    "wof:geomhash":"3673e5ad36bd7caf63f77fd976accf65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":705859615
+        }
+    ],
+    "wof:id":705859615,
+    "wof:lastmodified":1461790415,
+    "wof:name":"Neurological Rehabilitation",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.899327,
+    42.585762,
+    -82.899327,
+    42.585762
+],
+  "geometry": {"coordinates":[-82.899327,42.585762],"type":"Point"}
+}

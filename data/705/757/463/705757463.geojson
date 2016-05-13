@@ -1,0 +1,73 @@
+{
+  "id": 705757463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.521329,42.298622,-85.521329,42.298622",
+    "geom:latitude":42.298622,
+    "geom:longitude":-85.521329,
+    "iso:country":"US",
+    "sg:address":"5489 Susan Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 5118",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HtouUeDw9sYpTGWKc6PJz_42.298622_-85.521329@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788040,
+    "wof:geomhash":"f6cc3ecdec259c269ebc4a6cd3caad77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":705757463
+        }
+    ],
+    "wof:id":705757463,
+    "wof:lastmodified":1461788040,
+    "wof:name":"Community Electric",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.521329,
+    42.298622,
+    -85.521329,
+    42.298622
+],
+  "geometry": {"coordinates":[-85.52132899999999,42.298622],"type":"Point"}
+}

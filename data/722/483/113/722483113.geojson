@@ -1,0 +1,81 @@
+{
+  "id": 722483113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.099197,42.324799,-83.099197,42.324799",
+    "geom:latitude":42.324799,
+    "geom:longitude":-83.099197,
+    "iso:country":"US",
+    "sg:address":"2444 Clark St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 554 0474",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Pw46DThS5cWUDgAaTWGU_42.324799_-83.099197@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812411,
+    "wof:geomhash":"bfb72ff16f56ab85f6806bf5fd6a537f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722483113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870605,
+            "region_id":85688599,
+            "venue_id":722483113
+        }
+    ],
+    "wof:id":722483113,
+    "wof:lastmodified":1461812411,
+    "wof:name":"Craftsman Credit Union",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.099197,
+    42.324799,
+    -83.099197,
+    42.324799
+],
+  "geometry": {"coordinates":[-83.099197,42.324799],"type":"Point"}
+}

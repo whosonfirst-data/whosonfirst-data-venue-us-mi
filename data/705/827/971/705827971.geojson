@@ -1,0 +1,79 @@
+{
+  "id": 705827971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.665467,42.665143,-84.665467,42.665143",
+    "geom:latitude":42.665143,
+    "geom:longitude":-84.665467,
+    "iso:country":"US",
+    "sg:address":"359 Stratford Ct",
+    "sg:city":"Dimondale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 646 0699",
+    "sg:postcode":"48821",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EqGBaYiM5jWQyHLqszUAi_42.665143_-84.665467@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789683,
+    "wof:geomhash":"e9eb12f59a656c5dee33bab58b4a8500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":705827971
+        }
+    ],
+    "wof:id":705827971,
+    "wof:lastmodified":1461789683,
+    "wof:name":"Holbrook Trucking",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.665467,
+    42.665143,
+    -84.665467,
+    42.665143
+],
+  "geometry": {"coordinates":[-84.66546700000001,42.665143],"type":"Point"}
+}

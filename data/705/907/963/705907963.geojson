@@ -1,0 +1,71 @@
+{
+  "id": 705907963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.975386,43.408577,-83.975386,43.408577",
+    "geom:latitude":43.408577,
+    "geom:longitude":-83.975386,
+    "iso:country":"US",
+    "sg:address":"409 Dearborn St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 4102",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CN0CEhyzS5gWfEz10pgOW_43.408577_-83.975386@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791583,
+    "wof:geomhash":"5764a1f0052dbf442fce76513fbbab61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705907963
+        }
+    ],
+    "wof:id":705907963,
+    "wof:lastmodified":1461791583,
+    "wof:name":"Fill & Wash",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.975386,
+    43.408577,
+    -83.975386,
+    43.408577
+],
+  "geometry": {"coordinates":[-83.975386,43.408577],"type":"Point"}
+}

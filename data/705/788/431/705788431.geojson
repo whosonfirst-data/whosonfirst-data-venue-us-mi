@@ -1,0 +1,71 @@
+{
+  "id": 705788431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.640997,44.771672,-85.640997,44.771672",
+    "geom:latitude":44.771672,
+    "geom:longitude":-85.640997,
+    "iso:country":"US",
+    "sg:address":"616 N Monroe St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 7091",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EEeYdn63TF6R6JmBLvUmn_44.771672_-85.640997@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788769,
+    "wof:geomhash":"8e1b000f9bd9db491ade9c1a019f1865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705788431
+        }
+    ],
+    "wof:id":705788431,
+    "wof:lastmodified":1461788769,
+    "wof:name":"T C Telecom",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.640997,
+    44.771672,
+    -85.640997,
+    44.771672
+],
+  "geometry": {"coordinates":[-85.640997,44.771672],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 706529621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.273054,43.150881,-86.273054,43.150881",
+    "geom:latitude":43.150881,
+    "geom:longitude":-86.273054,
+    "iso:country":"US",
+    "sg:address":"1084 Anthony Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 799 9888",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "distributor",
+        "contracting",
+        "cable",
+        "connector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19kSo35LrhX4R9awDPA5FX_43.150881_-86.273054@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805227,
+    "wof:geomhash":"103f1c1bcb26afc3fbce0089a5515154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706529621
+        }
+    ],
+    "wof:id":706529621,
+    "wof:lastmodified":1461805227,
+    "wof:name":"Port City Associates Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "contracting",
+        "cable",
+        "connector"
+    ]
+},
+  "bbox": [
+    -86.273054,
+    43.150881,
+    -86.273054,
+    43.150881
+],
+  "geometry": {"coordinates":[-86.273054,43.150881],"type":"Point"}
+}

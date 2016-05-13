@@ -1,0 +1,74 @@
+{
+  "id": 706687919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.56777,41.75052,-83.56777,41.75052",
+    "geom:latitude":41.75052,
+    "geom:longitude":-83.56777,
+    "iso:country":"US",
+    "sg:address":"7400 Lewis Ave",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bedford/68875-marcos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 5555",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MUK82B9bMmaXOpZW5jwmK_41.750535_-83.567752@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809594,
+    "wof:geomhash":"2bf94d7468105ceeb9f376c22f8a103d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":706687919
+        }
+    ],
+    "wof:id":706687919,
+    "wof:lastmodified":1461809594,
+    "wof:name":"Marco's Pizza",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.56777,
+    41.75052,
+    -83.56777,
+    41.75052
+],
+  "geometry": {"coordinates":[-83.56777,41.75052],"type":"Point"}
+}

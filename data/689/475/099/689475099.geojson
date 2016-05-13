@@ -1,0 +1,71 @@
+{
+  "id": 689475099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377778,43.085211,-85.377778,43.085211",
+    "geom:latitude":43.085211,
+    "geom:longitude":-85.377778,
+    "iso:country":"US",
+    "sg:address":"11676 Old Belding Rd NE",
+    "sg:city":"Belding",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 691 7404",
+    "sg:postcode":"48809",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HdG6b6IkD3d8QMVn1Yew1_43.085211_-85.377778@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772380,
+    "wof:geomhash":"a34be80c0aa3db563c862c504f33f16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689475099
+        }
+    ],
+    "wof:id":689475099,
+    "wof:lastmodified":1461772380,
+    "wof:name":"Grattan Township Fire Dept",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -85.377778,
+    43.085211,
+    -85.377778,
+    43.085211
+],
+  "geometry": {"coordinates":[-85.37777800000001,43.085211],"type":"Point"}
+}

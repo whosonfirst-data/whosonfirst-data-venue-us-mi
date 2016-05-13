@@ -1,0 +1,71 @@
+{
+  "id": 706589567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.06551,45.820071,-88.06551,45.820071",
+    "geom:latitude":45.820071,
+    "geom:longitude":-88.06551,
+    "iso:country":"US",
+    "sg:address":"323 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 1495",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45bg0TPLXw31FATpZnD20P_45.820071_-88.065510@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806512,
+    "wof:geomhash":"9ae794b8b60231fb8727e2fb192231a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706589567
+        }
+    ],
+    "wof:id":706589567,
+    "wof:lastmodified":1461806512,
+    "wof:name":"Salon 323",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.06551,
+    45.820071,
+    -88.06551,
+    45.820071
+],
+  "geometry": {"coordinates":[-88.06551,45.820071],"type":"Point"}
+}

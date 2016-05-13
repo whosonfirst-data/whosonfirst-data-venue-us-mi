@@ -1,0 +1,73 @@
+{
+  "id": 706253675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.248922,43.219662,-86.248922,43.219662",
+    "geom:latitude":43.219662,
+    "geom:longitude":-86.248922,
+    "iso:country":"US",
+    "sg:address":"187 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 727 1640",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WFb3ITM1DaUAcsD7MqVnA_43.219662_-86.248922@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799284,
+    "wof:geomhash":"8ff0014b15e374f6047deb9013b31446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706253675
+        }
+    ],
+    "wof:id":706253675,
+    "wof:lastmodified":1461799284,
+    "wof:name":"Full Throttle Automotive",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.248922,
+    43.219662,
+    -86.248922,
+    43.219662
+],
+  "geometry": {"coordinates":[-86.24892199999999,43.219662],"type":"Point"}
+}

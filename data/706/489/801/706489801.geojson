@@ -1,0 +1,71 @@
+{
+  "id": 706489801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251367,41.828006,-86.251367,41.828006",
+    "geom:latitude":41.828006,
+    "geom:longitude":-86.251367,
+    "iso:country":"US",
+    "sg:address":"17 N 7th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2246",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15EJSeL5BoeSM5QPVhZVly_41.828006_-86.251367@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804351,
+    "wof:geomhash":"d09477b24ae5d11379ad4e0f79e9f5bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706489801
+        }
+    ],
+    "wof:id":706489801,
+    "wof:lastmodified":1461804351,
+    "wof:name":"Four Flags Plaza",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.251367,
+    41.828006,
+    -86.251367,
+    41.828006
+],
+  "geometry": {"coordinates":[-86.251367,41.828006],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 705835937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550201,42.870212,-85.550201,42.870212",
+    "geom:latitude":42.870212,
+    "geom:longitude":-85.550201,
+    "iso:country":"US",
+    "sg:address":"5160 Falcon View Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 656 0123",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "sg:website":"www.dksecurity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ZMXRpCiYG6ZmF2XfXMEO_42.870212_-85.550201@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789863,
+    "wof:geomhash":"7f3f65bdb85743861ca2300d9fb4b31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":705835937
+        }
+    ],
+    "wof:id":705835937,
+    "wof:lastmodified":1461789863,
+    "wof:name":"D K Security",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -85.550201,
+    42.870212,
+    -85.550201,
+    42.870212
+],
+  "geometry": {"coordinates":[-85.550201,42.870212],"type":"Point"}
+}

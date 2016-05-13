@@ -1,0 +1,85 @@
+{
+  "id": 722494867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.049103,42.334801,-83.049103,42.334801",
+    "geom:latitude":42.334801,
+    "geom:longitude":-83.049103,
+    "iso:country":"US",
+    "sg:address":"1456 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 962 7200",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club",
+        "sushi",
+        "bar"
+    ],
+    "sg:website":"www.oslodetroit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866985,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IHDfj6uHKJ7gPSjllTeMo_42.334801_-83.049103@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812883,
+    "wof:geomhash":"f16e6c6c0120279c88f22187ed632f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85866985,
+            "region_id":85688599,
+            "venue_id":722494867
+        }
+    ],
+    "wof:id":722494867,
+    "wof:lastmodified":1461812883,
+    "wof:name":"Oslo",
+    "wof:parent_id":85866985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [
+    -83.049103,
+    42.334801,
+    -83.049103,
+    42.334801
+],
+  "geometry": {"coordinates":[-83.049103,42.334801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706114207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.610214,41.806119,-86.610214,41.806119",
+    "geom:latitude":41.806119,
+    "geom:longitude":-86.610214,
+    "iso:country":"US",
+    "sg:address":"11 Butternut St",
+    "sg:city":"Three Oaks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 756 3951",
+    "sg:postcode":"49128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CT5pUhnU9lXc2waVwQRhZ_41.806119_-86.610214@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796114,
+    "wof:geomhash":"80f84617a674c5890290bf8c05eeaeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706114207
+        }
+    ],
+    "wof:id":706114207,
+    "wof:lastmodified":1461796114,
+    "wof:name":"Three Oaks Veterinary Clinic",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.610214,
+    41.806119,
+    -86.610214,
+    41.806119
+],
+  "geometry": {"coordinates":[-86.610214,41.806119],"type":"Point"}
+}

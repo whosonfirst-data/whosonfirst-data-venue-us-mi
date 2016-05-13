@@ -1,0 +1,73 @@
+{
+  "id": 706445259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.538109,42.677181,-84.538109,42.677181",
+    "geom:latitude":42.677181,
+    "geom:longitude":-84.538109,
+    "iso:country":"US",
+    "sg:address":"5551 S Pennsylvania Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 394 1314",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nR9YSCw6skaFiuspc344_42.677181_-84.538109@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803334,
+    "wof:geomhash":"3123c12ed925126ad51b60abe8522a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706445259
+        }
+    ],
+    "wof:id":706445259,
+    "wof:lastmodified":1461803334,
+    "wof:name":"Auto-Lab Diagnostic & Tune Up",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.538109,
+    42.677181,
+    -84.538109,
+    42.677181
+],
+  "geometry": {"coordinates":[-84.53810900000001,42.677181],"type":"Point"}
+}

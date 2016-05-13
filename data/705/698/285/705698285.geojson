@@ -1,0 +1,80 @@
+{
+  "id": 705698285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810641,43.319179,-85.810641,43.319179",
+    "geom:latitude":43.319179,
+    "geom:longitude":-85.810641,
+    "iso:country":"US",
+    "sg:address":"13045 Mason Dr",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 5775",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42KCUUXgx3Kn2TpC3gcrLS_43.319179_-85.810641@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786428,
+    "wof:geomhash":"58c0175d64c9c2bfa435e0013db17269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705698285
+        }
+    ],
+    "wof:id":705698285,
+    "wof:lastmodified":1461786428,
+    "wof:name":"Ashland Auto Sales Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.810641,
+    43.319179,
+    -85.810641,
+    43.319179
+],
+  "geometry": {"coordinates":[-85.810641,43.319179],"type":"Point"}
+}

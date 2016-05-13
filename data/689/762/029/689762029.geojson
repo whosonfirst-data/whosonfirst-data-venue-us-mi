@@ -1,0 +1,71 @@
+{
+  "id": 689762029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342214,41.943888,-86.342214,41.943888",
+    "geom:latitude":41.943888,
+    "geom:longitude":-86.342214,
+    "iso:country":"US",
+    "sg:address":"471 W Ferry St",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 2600",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h4TVQAIPcpXmR4NMTeyoq_41.943888_-86.342214@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780814,
+    "wof:geomhash":"aa9c7d1451562ce0a09c01d56bbd4876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689762029
+        }
+    ],
+    "wof:id":689762029,
+    "wof:lastmodified":1461780814,
+    "wof:name":"Dons Automotive Service",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.342214,
+    41.943888,
+    -86.342214,
+    41.943888
+],
+  "geometry": {"coordinates":[-86.342214,41.943888],"type":"Point"}
+}

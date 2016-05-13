@@ -1,0 +1,71 @@
+{
+  "id": 706133641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261995,43.201189,-86.261995,43.201189",
+    "geom:latitude":43.201189,
+    "geom:longitude":-86.261995,
+    "iso:country":"US",
+    "sg:address":"798 W Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 2139",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JcYM2I92qNuF1M3cxL0sF_43.201189_-86.261995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796611,
+    "wof:geomhash":"ac81a1931946bc65dea23dee8dddf667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706133641
+        }
+    ],
+    "wof:id":706133641,
+    "wof:lastmodified":1461796611,
+    "wof:name":"Meier Cleaners",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.261995,
+    43.201189,
+    -86.261995,
+    43.201189
+],
+  "geometry": {"coordinates":[-86.261995,43.201189],"type":"Point"}
+}

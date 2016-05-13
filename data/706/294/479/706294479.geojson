@@ -1,0 +1,73 @@
+{
+  "id": 706294479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220545,43.081234,-86.220545,43.081234",
+    "geom:latitude":43.081234,
+    "geom:longitude":-86.220545,
+    "iso:country":"US",
+    "sg:address":"342 Carmen Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 9401",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eTCM4PISfLOCLHQuy75HV_43.081234_-86.220545@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800187,
+    "wof:geomhash":"b74b7c6e31435b3f02a21d09581716b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706294479
+        }
+    ],
+    "wof:id":706294479,
+    "wof:lastmodified":1461800187,
+    "wof:name":"Lee's Auto Repair",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.220545,
+    43.081234,
+    -86.220545,
+    43.081234
+],
+  "geometry": {"coordinates":[-86.220545,43.081234],"type":"Point"}
+}

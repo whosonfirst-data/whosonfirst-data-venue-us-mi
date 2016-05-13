@@ -1,0 +1,85 @@
+{
+  "id": 689925559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.328263,42.57881,-83.328263,42.57881",
+    "geom:latitude":42.57881,
+    "geom:longitude":-83.328263,
+    "iso:country":"US",
+    "sg:address":"4140 Lakeridge Ln",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 932 3445",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LqBoNs1bkuvrvktKSNJm6_42.578810_-83.328263@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785253,
+    "wof:geomhash":"d8ee970e77a0008b2b7abbe0d5a61a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689925559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689925559
+        }
+    ],
+    "wof:id":689925559,
+    "wof:lastmodified":1461785253,
+    "wof:name":"Aylesworth William-Catherine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.328263,
+    42.57881,
+    -83.328263,
+    42.57881
+],
+  "geometry": {"coordinates":[-83.32826300000001,42.57881],"type":"Point"}
+}

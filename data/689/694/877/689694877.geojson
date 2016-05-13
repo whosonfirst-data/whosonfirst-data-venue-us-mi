@@ -1,0 +1,73 @@
+{
+  "id": 689694877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810636,43.310039,-85.810636,43.310039",
+    "geom:latitude":43.310039,
+    "geom:longitude":-85.810636,
+    "iso:country":"US",
+    "sg:address":"13495 Mason Dr",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7890",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79BWspJOuZwT3jUzAZCP0u_43.310039_-85.810636@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778983,
+    "wof:geomhash":"3ec4d33653a10a8596967337f217f110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689694877
+        }
+    ],
+    "wof:id":689694877,
+    "wof:lastmodified":1461778983,
+    "wof:name":"A-1 Auto Electric",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -85.810636,
+    43.310039,
+    -85.810636,
+    43.310039
+],
+  "geometry": {"coordinates":[-85.810636,43.310039],"type":"Point"}
+}

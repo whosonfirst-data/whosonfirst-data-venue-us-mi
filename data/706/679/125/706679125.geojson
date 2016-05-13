@@ -1,0 +1,89 @@
+{
+  "id": 706679125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.04191,42.329964,-83.04191,42.329964",
+    "geom:latitude":42.329964,
+    "geom:longitude":-83.04191,
+    "iso:country":"US",
+    "sg:address":"317 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/11891-pizzapapalis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 259 7272",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YqhRzz7JWueUbwtougi0g_42.329964_-83.041910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809250,
+    "wof:geomhash":"139c16bb48e3e16f4048a26fb49ce947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":706679125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":706679125
+        }
+    ],
+    "wof:id":706679125,
+    "wof:lastmodified":1461809250,
+    "wof:name":"PizzaPapalis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.04191,
+    42.329964,
+    -83.04191,
+    42.329964
+],
+  "geometry": {"coordinates":[-83.04191,42.329964],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722522713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.713303,43.013199,-83.713303,43.013199",
+    "geom:latitude":43.013199,
+    "geom:longitude":-83.713303,
+    "iso:country":"US",
+    "sg:address":"1700 W 3rd Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 762 9500",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QN9F4dOR0JqVBUqNtP1Fh_43.013199_-83.713303@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814055,
+    "wof:geomhash":"f4362823f1d425f4e102f65981aa4f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":722522713
+        }
+    ],
+    "wof:id":722522713,
+    "wof:lastmodified":1461814055,
+    "wof:name":"Kettering University Inf",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -83.713303,
+    43.013199,
+    -83.713303,
+    43.013199
+],
+  "geometry": {"coordinates":[-83.713303,43.013199],"type":"Point"}
+}

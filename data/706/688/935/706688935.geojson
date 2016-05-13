@@ -1,0 +1,72 @@
+{
+  "id": 706688935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247637,41.816586,-86.247637,41.816586",
+    "geom:latitude":41.816586,
+    "geom:longitude":-86.247637,
+    "iso:country":"US",
+    "sg:address":"1137 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/210798-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 8811",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DHMF3JvmP8zntzdJxJcvh_41.816575_-86.247615@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809630,
+    "wof:geomhash":"cc9c6ce16dd9266bd7acef90ac3a9bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706688935
+        }
+    ],
+    "wof:id":706688935,
+    "wof:lastmodified":1461809630,
+    "wof:name":"Arby's",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.247637,
+    41.816586,
+    -86.247637,
+    41.816586
+],
+  "geometry": {"coordinates":[-86.247637,41.816586],"type":"Point"}
+}

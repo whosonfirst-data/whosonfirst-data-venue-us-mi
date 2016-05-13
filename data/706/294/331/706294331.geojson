@@ -1,0 +1,71 @@
+{
+  "id": 706294331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6289,44.751735,-85.6289,44.751735",
+    "geom:latitude":44.751735,
+    "geom:longitude":-85.6289,
+    "iso:country":"US",
+    "sg:address":"440 W 14th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 5800",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZCa9kW7XFGj1TqedplN8c_44.751735_-85.628900@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800185,
+    "wof:geomhash":"42dda10767c86a62ad1cb1f45953e2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706294331
+        }
+    ],
+    "wof:id":706294331,
+    "wof:lastmodified":1461800185,
+    "wof:name":"Redmond Automotive",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.6289,
+    44.751735,
+    -85.6289,
+    44.751735
+],
+  "geometry": {"coordinates":[-85.6289,44.751735],"type":"Point"}
+}

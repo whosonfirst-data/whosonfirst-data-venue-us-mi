@@ -1,0 +1,85 @@
+{
+  "id": 705984343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.89301,43.64599,-83.89301,43.64599",
+    "geom:latitude":43.64599,
+    "geom:longitude":-83.89301,
+    "iso:country":"US",
+    "sg:address":"3196 State Street Rd",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 326 0503",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814849,
+        102083135,
+        420524233,
+        102191575,
+        404506795,
+        85951273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WjnQVktzo7L4JqaGSFOic_43.645990_-83.893010@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793255,
+    "wof:geomhash":"3847ddf3ac077c7d63393df65a2818eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083135,
+            "neighbourhood_id":85814849,
+            "region_id":85688599,
+            "venue_id":705984343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":705984343
+        }
+    ],
+    "wof:id":705984343,
+    "wof:lastmodified":1461793255,
+    "wof:name":"David Goss",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -83.89301,
+    43.64599,
+    -83.89301,
+    43.64599
+],
+  "geometry": {"coordinates":[-83.89301,43.64599],"type":"Point"}
+}

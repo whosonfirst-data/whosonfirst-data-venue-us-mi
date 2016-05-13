@@ -1,0 +1,71 @@
+{
+  "id": 705903653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280731,42.582316,-83.280731,42.582316",
+    "geom:latitude":42.582316,
+    "geom:longitude":-83.280731,
+    "iso:country":"US",
+    "sg:address":"3955 Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 203 9988",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RHCTTXmBOmOqrnjnRKzEv_42.582316_-83.280731@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791488,
+    "wof:geomhash":"21f921a0d1a82e86de3d506b3dd6f39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":705903653
+        }
+    ],
+    "wof:id":705903653,
+    "wof:lastmodified":1461791488,
+    "wof:name":"Trailer Trash",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -83.280731,
+    42.582316,
+    -83.280731,
+    42.582316
+],
+  "geometry": {"coordinates":[-83.280731,42.582316],"type":"Point"}
+}

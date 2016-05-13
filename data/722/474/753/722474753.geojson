@@ -1,0 +1,77 @@
+{
+  "id": 722474753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.486545,42.292922,-83.486545,42.292922",
+    "geom:latitude":42.292922,
+    "geom:longitude":-83.486545,
+    "iso:country":"US",
+    "sg:address":"46000 Summit Pkwy",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 394 5460",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "venue",
+        "leisure"
+    ],
+    "sg:website":"leisure.canton-mi.org/summit/mem...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uksWFI0qAdi00qC5wqvt3_42.292922_-83.486545@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812069,
+    "wof:geomhash":"7378f47d36688622fb9110f6de7904eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474753
+        }
+    ],
+    "wof:id":722474753,
+    "wof:lastmodified":1461812069,
+    "wof:name":"Summit on the Park",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "leisure"
+    ]
+},
+  "bbox": [
+    -83.486545,
+    42.292922,
+    -83.486545,
+    42.292922
+],
+  "geometry": {"coordinates":[-83.48654500000001,42.292922],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705705151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403704,44.266519,-85.403704,44.266519",
+    "geom:latitude":44.266519,
+    "geom:longitude":-85.403704,
+    "iso:country":"US",
+    "sg:address":"1225 Manning St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 8484",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P9jZyASKuFLByOxM092vs_44.266519_-85.403704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786735,
+    "wof:geomhash":"7d6c100553da30d111bc85ed4ba039d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705705151
+        }
+    ],
+    "wof:id":705705151,
+    "wof:lastmodified":1461786735,
+    "wof:name":"Home Health Care Provider",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -85.403704,
+    44.266519,
+    -85.403704,
+    44.266519
+],
+  "geometry": {"coordinates":[-85.403704,44.266519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706663591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0326,42.635201,-83.0326,42.635201",
+    "geom:latitude":42.635201,
+    "geom:longitude":-83.0326,
+    "iso:country":"US",
+    "sg:address":"46238 Van Dyke Ave",
+    "sg:city":"Shelby Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 991 0278",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "spring",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2reTzvBLoIr5PVCDb8itrk_42.635163_-83.032689@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808607,
+    "wof:geomhash":"71f7e82925c5b3d132b98ec3f7678303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706663591
+        }
+    ],
+    "wof:id":706663591,
+    "wof:lastmodified":1461808607,
+    "wof:name":"Shelby Spring",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.0326,
+    42.635201,
+    -83.0326,
+    42.635201
+],
+  "geometry": {"coordinates":[-83.0326,42.635201],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705725463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.243694,43.227967,-86.243694,43.227967",
+    "geom:latitude":43.227967,
+    "geom:longitude":-86.243694,
+    "iso:country":"US",
+    "sg:address":"26 E Isabella Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 725 0045",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h5nCJDVMlGf3tw4zqVW4h_43.227967_-86.243694@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787294,
+    "wof:geomhash":"d1ac8a42ec02d0a9a816cccc4f61d6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705725463
+        }
+    ],
+    "wof:id":705725463,
+    "wof:lastmodified":1461787294,
+    "wof:name":"Towncar Livery",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.243694,
+    43.227967,
+    -86.243694,
+    43.227967
+],
+  "geometry": {"coordinates":[-86.243694,43.227967],"type":"Point"}
+}

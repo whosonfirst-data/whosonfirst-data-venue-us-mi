@@ -1,0 +1,71 @@
+{
+  "id": 689506305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.61317,42.241681,-83.61317,42.241681",
+    "geom:latitude":42.241681,
+    "geom:longitude":-83.61317,
+    "iso:country":"US",
+    "sg:address":"47 N Huron St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 3600",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kz54OuimS7Inx1m1wIFRH_42.241681_-83.613170@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773299,
+    "wof:geomhash":"7f93eb26eeabc30a77f88e026101e2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":689506305
+        }
+    ],
+    "wof:id":689506305,
+    "wof:lastmodified":1461773299,
+    "wof:name":"Corner Health Center The",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.61317,
+    42.241681,
+    -83.61317,
+    42.241681
+],
+  "geometry": {"coordinates":[-83.61317,42.241681],"type":"Point"}
+}

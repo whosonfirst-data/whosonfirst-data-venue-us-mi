@@ -1,0 +1,71 @@
+{
+  "id": 689877479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437035,42.117759,-86.437035,42.117759",
+    "geom:latitude":42.117759,
+    "geom:longitude":-86.437035,
+    "iso:country":"US",
+    "sg:address":"102 N Fair Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 0203",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dCldeHa1AvK7xSHuigCqi_42.117759_-86.437035@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783978,
+    "wof:geomhash":"9cb784fc9d541b8939ff652bf37ee49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689877479
+        }
+    ],
+    "wof:id":689877479,
+    "wof:lastmodified":1461783978,
+    "wof:name":"Me & My Dogs",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -86.437035,
+    42.117759,
+    -86.437035,
+    42.117759
+],
+  "geometry": {"coordinates":[-86.43703499999999,42.117759],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705714193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.146233,43.106765,-86.146233,43.106765",
+    "geom:latitude":43.106765,
+    "geom:longitude":-86.146233,
+    "iso:country":"US",
+    "sg:address":"18777 144th Ave",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 1744",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38bJp1BmrodQJBRJlY3WgU_43.106765_-86.146233@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787016,
+    "wof:geomhash":"aaaa037d05c9a93131fa71fd96ca1fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705714193
+        }
+    ],
+    "wof:id":705714193,
+    "wof:lastmodified":1461787016,
+    "wof:name":"Office Cleaning Svc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.146233,
+    43.106765,
+    -86.146233,
+    43.106765
+],
+  "geometry": {"coordinates":[-86.146233,43.106765],"type":"Point"}
+}

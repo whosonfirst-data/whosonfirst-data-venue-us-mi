@@ -1,0 +1,80 @@
+{
+  "id": 689800727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.428278,43.784423,-86.428278,43.784423",
+    "geom:latitude":43.784423,
+    "geom:longitude":-86.428278,
+    "iso:country":"US",
+    "sg:address":"310 N Rush St",
+    "sg:city":"Pentwater",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 869 7901",
+    "sg:postcode":"49449",
+    "sg:province":"MI",
+    "sg:tags":[
+        "rooms",
+        "banquet",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951205,
+        102083141,
+        85820689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14OabwwsSKODA9yaZEuj32_43.784423_-86.428278@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781896,
+    "wof:geomhash":"5120277d53ba7843818d91593dc32bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083141,
+            "locality_id":85951205,
+            "neighbourhood_id":85820689,
+            "region_id":85688599,
+            "venue_id":689800727
+        }
+    ],
+    "wof:id":689800727,
+    "wof:lastmodified":1461781896,
+    "wof:name":"Pentwater Friendship Center",
+    "wof:parent_id":85820689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rooms",
+        "banquet",
+        "day"
+    ]
+},
+  "bbox": [
+    -86.428278,
+    43.784423,
+    -86.428278,
+    43.784423
+],
+  "geometry": {"coordinates":[-86.42827800000001,43.784423],"type":"Point"}
+}

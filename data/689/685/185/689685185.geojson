@@ -1,0 +1,71 @@
+{
+  "id": 689685185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.866089,42.29251,-83.866089,42.29251",
+    "geom:latitude":42.29251,
+    "geom:longitude":-83.866089,
+    "iso:country":"US",
+    "sg:address":"6655 Jackson Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 327 1034",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875951,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Xo04FrOMbbxiFL6cbkTx_42.292510_-83.866089@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778753,
+    "wof:geomhash":"7615ecdc6d1f9baa419d0dfa0a89a0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875951,
+            "region_id":85688599,
+            "venue_id":689685185
+        }
+    ],
+    "wof:id":689685185,
+    "wof:lastmodified":1461778753,
+    "wof:name":"Discount Legalbrokers",
+    "wof:parent_id":85875951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -83.866089,
+    42.29251,
+    -83.866089,
+    42.29251
+],
+  "geometry": {"coordinates":[-83.866089,42.29251],"type":"Point"}
+}

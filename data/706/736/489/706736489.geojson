@@ -1,0 +1,69 @@
+{
+  "id": 706736489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.472298,42.361599,-83.472298,42.361599",
+    "geom:latitude":42.361599,
+    "geom:longitude":-83.472298,
+    "iso:country":"US",
+    "sg:address":"1477 S Sheldon Rd Apt 1",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 8811",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HvKXfYadpfI7AG7lp7peL_42.361599_-83.472298@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811677,
+    "wof:geomhash":"03a5916e17816959dccda0c550d72d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736489
+        }
+    ],
+    "wof:id":706736489,
+    "wof:lastmodified":1461811677,
+    "wof:name":"Sheldon Park Apartments",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.472298,
+    42.361599,
+    -83.472298,
+    42.361599
+],
+  "geometry": {"coordinates":[-83.47229799999999,42.361599],"type":"Point"}
+}

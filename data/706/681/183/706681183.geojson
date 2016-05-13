@@ -1,0 +1,82 @@
+{
+  "id": 706681183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.516417,43.014756,-83.516417,43.014756",
+    "geom:latitude":43.014756,
+    "geom:longitude":-83.516417,
+    "iso:country":"US",
+    "sg:address":"10030 Lapeer Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/davison/88668-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 653 3900",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JvTEG8Vy6Wnzhla9ow9bO_43.014756_-83.516417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809328,
+    "wof:geomhash":"c15a689a4a7c4f3dc8b3bc1988160a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706681183
+        }
+    ],
+    "wof:id":706681183,
+    "wof:lastmodified":1461809328,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.516417,
+    43.014756,
+    -83.516417,
+    43.014756
+],
+  "geometry": {"coordinates":[-83.516417,43.014756],"type":"Point"}
+}

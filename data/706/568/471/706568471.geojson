@@ -1,0 +1,91 @@
+{
+  "id": 706568471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.084173,42.466708,-83.084173,42.466708",
+    "geom:latitude":42.466708,
+    "geom:longitude":-83.084173,
+    "iso:country":"US",
+    "sg:address":"23402 Dequindre Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 755 0778",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524399,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524611,
+        404508191,
+        85952063,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I1lEZlvS9Uk6uenozuvcf_42.466708_-83.084173@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806025,
+    "wof:geomhash":"4fa0aa9d590e58fbf5b0316304371d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524399,
+            "region_id":85688599,
+            "venue_id":706568471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":420524611,
+            "region_id":85688599,
+            "venue_id":706568471
+        }
+    ],
+    "wof:id":706568471,
+    "wof:lastmodified":1461806025,
+    "wof:name":"Jules Resale Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -83.084173,
+    42.466708,
+    -83.084173,
+    42.466708
+],
+  "geometry": {"coordinates":[-83.08417300000001,42.466708],"type":"Point"}
+}

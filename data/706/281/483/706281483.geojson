@@ -1,0 +1,73 @@
+{
+  "id": 706281483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225343,43.188775,-86.225343,43.188775",
+    "geom:latitude":43.188775,
+    "geom:longitude":-86.225343,
+    "iso:country":"US",
+    "sg:address":"3471 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 5266",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eA94Ppwh4oWKHRZPZLMku_43.188775_-86.225343@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799876,
+    "wof:geomhash":"6b035ce33d653372e76057699e12221f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706281483
+        }
+    ],
+    "wof:id":706281483,
+    "wof:lastmodified":1461799876,
+    "wof:name":"Lee's Collision Svc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.225343,
+    43.188775,
+    -86.225343,
+    43.188775
+],
+  "geometry": {"coordinates":[-86.225343,43.188775],"type":"Point"}
+}

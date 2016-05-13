@@ -1,0 +1,71 @@
+{
+  "id": 706571849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.475658,42.429647,-83.475658,42.429647",
+    "geom:latitude":42.429647,
+    "geom:longitude":-83.475658,
+    "iso:country":"US",
+    "sg:address":"216 S Main St",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 344 2120",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "claim",
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HRRLGsST0cwPTPT0Orlh3_42.429647_-83.475658@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806097,
+    "wof:geomhash":"8c69e66a4d09f43ccc213a6aef257f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":706571849
+        }
+    ],
+    "wof:id":706571849,
+    "wof:lastmodified":1461806097,
+    "wof:name":"Statewide Claims Service",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "claim",
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -83.475658,
+    42.429647,
+    -83.475658,
+    42.429647
+],
+  "geometry": {"coordinates":[-83.475658,42.429647],"type":"Point"}
+}

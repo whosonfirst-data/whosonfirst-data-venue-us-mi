@@ -1,0 +1,83 @@
+{
+  "id": 722513789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.352548,42.470276,-83.352548,42.470276",
+    "geom:latitude":42.470276,
+    "geom:longitude":-83.352548,
+    "iso:country":"US",
+    "sg:address":"30715 W 10 Mile Rd",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 474 3033",
+    "sg:postcode":"48332",
+    "sg:province":"MI",
+    "sg:tags":[
+        "venue",
+        "italian"
+    ],
+    "sg:website":"www.cafecortina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896629,
+        102191575,
+        404508185,
+        85633793,
+        85952009,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GfxjI9ZGVzE5RBcoOBWeC_42.470276_-83.352548@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813644,
+    "wof:geomhash":"17560259d467de65533b3d471cf95ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508185,
+            "locality_id":85952009,
+            "neighbourhood_id":85896629,
+            "region_id":85688599,
+            "venue_id":722513789
+        }
+    ],
+    "wof:id":722513789,
+    "wof:lastmodified":1461813644,
+    "wof:name":"Ristorante Cafe Cortina",
+    "wof:parent_id":85896629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.352548,
+    42.470276,
+    -83.352548,
+    42.470276
+],
+  "geometry": {"coordinates":[-83.352548,42.470276],"type":"Point"}
+}

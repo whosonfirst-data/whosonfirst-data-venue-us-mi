@@ -1,0 +1,71 @@
+{
+  "id": 706327205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.185397,43.182485,-86.185397,43.182485",
+    "geom:latitude":43.182485,
+    "geom:longitude":-86.185397,
+    "iso:country":"US",
+    "sg:address":"3799 S Sheridan Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9698",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aa4gtx5RU83T6Ym8Q1nR1_43.182485_-86.185397@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800921,
+    "wof:geomhash":"c334a2fab80d146f196a92a0afdf7aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706327205
+        }
+    ],
+    "wof:id":706327205,
+    "wof:lastmodified":1461800921,
+    "wof:name":"Greenes Super Lube Inc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.185397,
+    43.182485,
+    -86.185397,
+    43.182485
+],
+  "geometry": {"coordinates":[-86.18539699999999,43.182485],"type":"Point"}
+}

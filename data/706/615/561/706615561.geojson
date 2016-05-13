@@ -1,0 +1,71 @@
+{
+  "id": 706615561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.707441,43.037968,-83.707441,43.037968",
+    "geom:latitude":43.037968,
+    "geom:longitude":-83.707441,
+    "iso:country":"US",
+    "sg:address":"127 White St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 238 1986",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UzMyadz0vssriceR9zOA1_43.037968_-83.707441@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807059,
+    "wof:geomhash":"14ddd720c45eec3d7357fdd5dac2474e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706615561
+        }
+    ],
+    "wof:id":706615561,
+    "wof:lastmodified":1461807059,
+    "wof:name":"B T Car Wash",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.707441,
+    43.037968,
+    -83.707441,
+    43.037968
+],
+  "geometry": {"coordinates":[-83.707441,43.037968],"type":"Point"}
+}

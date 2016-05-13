@@ -1,0 +1,75 @@
+{
+  "id": 706006181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.217331,43.241376,-86.217331,43.241376",
+    "geom:latitude":43.241376,
+    "geom:longitude":-86.217331,
+    "iso:country":"US",
+    "sg:address":"1175 Wesley Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 724 3311",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UrR42t6LIdxBbDyMvTSJu_43.241376_-86.217331@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793703,
+    "wof:geomhash":"f0e17837082e1c6a98d8bd4dca755db1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706006181
+        }
+    ],
+    "wof:id":706006181,
+    "wof:lastmodified":1461793703,
+    "wof:name":"Community Mental Health Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -86.217331,
+    43.241376,
+    -86.217331,
+    43.241376
+],
+  "geometry": {"coordinates":[-86.217331,43.241376],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 722481611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.990346,42.444823,-82.990346,42.444823",
+    "geom:latitude":42.444823,
+    "geom:longitude":-82.990346,
+    "iso:country":"US",
+    "sg:address":"20103 Joann St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 527 0525",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524895,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rrrMTgiyGZ3FM2xl7ONA7_42.444823_-82.990346@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812355,
+    "wof:geomhash":"7315d5c63b9f2a684e96663421dbab5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":722481611
+        }
+    ],
+    "wof:id":722481611,
+    "wof:lastmodified":1461812355,
+    "wof:name":"St Raymond's Catholic Church",
+    "wof:parent_id":420524895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [
+    -82.990346,
+    42.444823,
+    -82.990346,
+    42.444823
+],
+  "geometry": {"coordinates":[-82.990346,42.444823],"type":"Point"}
+}

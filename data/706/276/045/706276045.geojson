@@ -1,0 +1,73 @@
+{
+  "id": 706276045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.675955,42.825205,-85.675955,42.825205",
+    "geom:latitude":42.825205,
+    "geom:longitude":-85.675955,
+    "iso:country":"US",
+    "sg:address":"7721 Gordon Industrial Dr SW",
+    "sg:city":"Byron Center",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 878 7154",
+    "sg:postcode":"49315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dh40aFZsSNA1oJPLiXFM8_42.825205_-85.675955@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799754,
+    "wof:geomhash":"cb10f02b36959d882c9669cdf62c6e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706276045
+        }
+    ],
+    "wof:id":706276045,
+    "wof:lastmodified":1461799754,
+    "wof:name":"Preferred Truck Svc Ctr",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -85.675955,
+    42.825205,
+    -85.675955,
+    42.825205
+],
+  "geometry": {"coordinates":[-85.675955,42.825205],"type":"Point"}
+}

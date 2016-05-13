@@ -1,0 +1,78 @@
+{
+  "id": 705933541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.760406,43.045944,-83.760406,43.045944",
+    "geom:latitude":43.045944,
+    "geom:longitude":-83.760406,
+    "iso:country":"US",
+    "sg:address":"4287 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 3820",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CguGD4vRehn1H23NfhWFq_43.045944_-83.760406@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792144,
+    "wof:geomhash":"0c36db2ca17fbda263fd08342f57249a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705933541
+        }
+    ],
+    "wof:id":705933541,
+    "wof:lastmodified":1461792144,
+    "wof:name":"Genesee Valley Regional Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.760406,
+    43.045944,
+    -83.760406,
+    43.045944
+],
+  "geometry": {"coordinates":[-83.760406,43.045944],"type":"Point"}
+}

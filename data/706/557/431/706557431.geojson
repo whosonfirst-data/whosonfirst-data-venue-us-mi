@@ -1,0 +1,71 @@
+{
+  "id": 706557431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852544,42.528931,-85.852544,42.528931",
+    "geom:latitude":42.528931,
+    "geom:longitude":-85.852544,
+    "iso:country":"US",
+    "sg:address":"222 Trowbridge St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 686 9464",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OS44mkYgJM5fafKC68NR3_42.528931_-85.852544@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805799,
+    "wof:geomhash":"9113f38edfd6a56f5a01122984dd0d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706557431
+        }
+    ],
+    "wof:id":706557431,
+    "wof:lastmodified":1461805799,
+    "wof:name":"Medical Resource Management",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -85.852544,
+    42.528931,
+    -85.852544,
+    42.528931
+],
+  "geometry": {"coordinates":[-85.85254399999999,42.528931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706238401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.633493,41.764811,-83.633493,41.764811",
+    "geom:latitude":41.764811,
+    "geom:longitude":-83.633493,
+    "iso:country":"US",
+    "sg:address":"3370 Butternut St",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 5574",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ye5dswxAS0vl1ZLji2CZI_41.764811_-83.633493@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798902,
+    "wof:geomhash":"ed73257b2eaee763ae61c1fd07011a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706238401
+        }
+    ],
+    "wof:id":706238401,
+    "wof:lastmodified":1461798902,
+    "wof:name":"Jenco Physician Services Inc",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.633493,
+    41.764811,
+    -83.633493,
+    41.764811
+],
+  "geometry": {"coordinates":[-83.633493,41.764811],"type":"Point"}
+}

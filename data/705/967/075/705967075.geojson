@@ -1,0 +1,71 @@
+{
+  "id": 705967075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433052,43.778818,-86.433052,43.778818",
+    "geom:latitude":43.778818,
+    "geom:longitude":-86.433052,
+    "iso:country":"US",
+    "sg:address":"327 S Hancock St",
+    "sg:city":"Pentwater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 869 8301",
+    "sg:postcode":"49449",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951205,
+        102083141,
+        85820689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tWA1N89GDzOwP7ye2PNYf_43.778818_-86.433052@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792907,
+    "wof:geomhash":"0b63c4c61025919bcea5aa4a96e2f754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083141,
+            "locality_id":85951205,
+            "neighbourhood_id":85820689,
+            "region_id":85688599,
+            "venue_id":705967075
+        }
+    ],
+    "wof:id":705967075,
+    "wof:lastmodified":1461792907,
+    "wof:name":"Pentwater Village Office",
+    "wof:parent_id":85820689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -86.433052,
+    43.778818,
+    -86.433052,
+    43.778818
+],
+  "geometry": {"coordinates":[-86.433052,43.778818],"type":"Point"}
+}

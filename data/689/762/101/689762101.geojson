@@ -1,0 +1,71 @@
+{
+  "id": 689762101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.283896,42.555084,-83.283896,42.555084",
+    "geom:latitude":42.555084,
+    "geom:longitude":-83.283896,
+    "iso:country":"US",
+    "sg:address":"5710 Whethersfield Ln",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 645 0026",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kHnlvVpUC3bYxUBiftMdb_42.555084_-83.283896@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780816,
+    "wof:geomhash":"e5d77eb5308e284332855fde2e1c4e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":689762101
+        }
+    ],
+    "wof:id":689762101,
+    "wof:lastmodified":1461780816,
+    "wof:name":"Whethersfield Apartments",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.283896,
+    42.555084,
+    -83.283896,
+    42.555084
+],
+  "geometry": {"coordinates":[-83.283896,42.555084],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705944993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.47545,42.000544,-86.47545,42.000544",
+    "geom:latitude":42.000544,
+    "geom:longitude":-86.47545,
+    "iso:country":"US",
+    "sg:address":"5776 Lincoln Ave",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 6051",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MNPEvjPyB189NVAyDeHWv_42.000544_-86.475450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792423,
+    "wof:geomhash":"0635e2aed806d9d611c6538b63d76da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":705944993
+        }
+    ],
+    "wof:id":705944993,
+    "wof:lastmodified":1461792423,
+    "wof:name":"Zielke Towing & Tire",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.47545,
+    42.000544,
+    -86.47545,
+    42.000544
+],
+  "geometry": {"coordinates":[-86.47545,42.000544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706136055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.428327,44.30453,-85.428327,44.30453",
+    "geom:latitude":44.30453,
+    "geom:longitude":-85.428327,
+    "iso:country":"US",
+    "sg:address":"7460 Red Maple Dr",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 9896",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d2ltLLhde5CdhRrYcX5cs_44.304530_-85.428327@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796669,
+    "wof:geomhash":"d19e204715ba59b58dbb0a0a0aa7aa6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706136055
+        }
+    ],
+    "wof:id":706136055,
+    "wof:lastmodified":1461796669,
+    "wof:name":"C & M Services",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.428327,
+    44.30453,
+    -85.428327,
+    44.30453
+],
+  "geometry": {"coordinates":[-85.428327,44.30453],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 706677605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.22883,42.317314,-83.22883,42.317314",
+    "geom:latitude":42.317314,
+    "geom:longitude":-83.22883,
+    "iso:country":"US",
+    "sg:address":"4901 Evergreen Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dearborn/142266-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 593 0330",
+    "sg:postcode":"48128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896597,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36vBgVVmqFTjr5PXH8cZOj_42.317314_-83.228830@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809194,
+    "wof:geomhash":"538ff82dc04eea6e8515dea6b13ab29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896597,
+            "region_id":85688599,
+            "venue_id":706677605
+        }
+    ],
+    "wof:id":706677605,
+    "wof:lastmodified":1461809194,
+    "wof:name":"Subway",
+    "wof:parent_id":85896597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.22883,
+    42.317314,
+    -83.22883,
+    42.317314
+],
+  "geometry": {"coordinates":[-83.22883,42.317314],"type":"Point"}
+}

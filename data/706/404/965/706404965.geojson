@@ -1,0 +1,71 @@
+{
+  "id": 706404965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.455004,42.355748,-83.455004,42.355748",
+    "geom:latitude":42.355748,
+    "geom:longitude":-83.455004,
+    "iso:country":"US",
+    "sg:address":"9260 General Dr",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 414 8433",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WqcwXugUpTxmqrEoZPD3J_42.355748_-83.455004@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802498,
+    "wof:geomhash":"5bd027f117b8683351de2747eb704406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706404965
+        }
+    ],
+    "wof:id":706404965,
+    "wof:lastmodified":1461802498,
+    "wof:name":"Sara Lee Coffee & Tea",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -83.455004,
+    42.355748,
+    -83.455004,
+    42.355748
+],
+  "geometry": {"coordinates":[-83.455004,42.355748],"type":"Point"}
+}

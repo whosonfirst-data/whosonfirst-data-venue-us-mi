@@ -1,0 +1,71 @@
+{
+  "id": 706658227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.413101,42.5886,-83.413101,42.5886",
+    "geom:latitude":42.5886,
+    "geom:longitude":-83.413101,
+    "iso:country":"US",
+    "sg:address":"6575 Commerce Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 360 1800",
+    "sg:postcode":"48324",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FeWx1GZ39fWwc81oIyDJs_42.588687_-83.413664@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808346,
+    "wof:geomhash":"18212846608ce23e0b804d500dd32048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":706658227
+        }
+    ],
+    "wof:id":706658227,
+    "wof:lastmodified":1461808346,
+    "wof:name":"J Regent Cleaners",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -83.413101,
+    42.5886,
+    -83.413101,
+    42.5886
+],
+  "geometry": {"coordinates":[-83.413101,42.5886],"type":"Point"}
+}

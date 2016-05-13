@@ -1,0 +1,74 @@
+{
+  "id": 706683629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589556,42.222943,-85.589556,42.222943",
+    "geom:latitude":42.222943,
+    "geom:longitude":-85.589556,
+    "iso:country":"US",
+    "sg:address":"6535 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/portage/47243-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 1329",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39iIdRdSMI8NzNU5hGoKT7_42.222943_-85.589556@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809430,
+    "wof:geomhash":"80c8424cfbac39b29c609ecb8498d246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706683629
+        }
+    ],
+    "wof:id":706683629,
+    "wof:lastmodified":1461809430,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.589556,
+    42.222943,
+    -85.589556,
+    42.222943
+],
+  "geometry": {"coordinates":[-85.589556,42.222943],"type":"Point"}
+}

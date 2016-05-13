@@ -1,0 +1,71 @@
+{
+  "id": 705926741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.323734,41.950758,-83.323734,41.950758",
+    "geom:latitude":41.950758,
+    "geom:longitude":-83.323734,
+    "iso:country":"US",
+    "sg:address":"2682 Nadeau Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 289 3559",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85858699,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P4ZEjDqoEl3o3mFDrzkJj_41.950758_-83.323734@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791988,
+    "wof:geomhash":"392425ccf61af8e97a83743a1465a479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85858699,
+            "region_id":85688599,
+            "venue_id":705926741
+        }
+    ],
+    "wof:id":705926741,
+    "wof:lastmodified":1461791988,
+    "wof:name":"McD Properties",
+    "wof:parent_id":85858699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.323734,
+    41.950758,
+    -83.323734,
+    41.950758
+],
+  "geometry": {"coordinates":[-83.323734,41.950758],"type":"Point"}
+}

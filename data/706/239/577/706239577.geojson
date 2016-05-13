@@ -1,0 +1,73 @@
+{
+  "id": 706239577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261903,43.301095,-86.261903,43.301095",
+    "geom:latitude":43.301095,
+    "geom:longitude":-86.261903,
+    "iso:country":"US",
+    "sg:address":"2505 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 766 0866",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43rhbTdgKAQkrnfeh93mpW_43.301095_-86.261903@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798935,
+    "wof:geomhash":"9e6bff0d35c2935b81a596ea7693b985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706239577
+        }
+    ],
+    "wof:id":706239577,
+    "wof:lastmodified":1461798935,
+    "wof:name":"Riverside Automotive",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.261903,
+    43.301095,
+    -86.261903,
+    43.301095
+],
+  "geometry": {"coordinates":[-86.261903,43.301095],"type":"Point"}
+}

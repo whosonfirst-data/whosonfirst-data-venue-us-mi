@@ -1,0 +1,70 @@
+{
+  "id": 722483499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.126999,42.292999,-83.126999,42.292999",
+    "geom:latitude":42.292999,
+    "geom:longitude":-83.126999,
+    "iso:country":"US",
+    "sg:address":"9100 Dearborn St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 841 4242",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870531,
+        102191575,
+        404506405,
+        85633793,
+        85951103,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07AA1gEWRKRWmsdSlyj0AT_42.292999_-83.126999@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812435,
+    "wof:geomhash":"f269506a7abf7feb76e0bea5fe1463c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506405,
+            "locality_id":85951103,
+            "neighbourhood_id":85870531,
+            "region_id":85688599,
+            "venue_id":722483499
+        }
+    ],
+    "wof:id":722483499,
+    "wof:lastmodified":1461812435,
+    "wof:name":"Star Dearborn Auto Service",
+    "wof:parent_id":85870531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.126999,
+    42.292999,
+    -83.126999,
+    42.292999
+],
+  "geometry": {"coordinates":[-83.126999,42.292999],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 722504999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.315201,42.604698,-83.315201,42.604698",
+    "geom:latitude":42.604698,
+    "geom:longitude":-83.315201,
+    "iso:country":"US",
+    "sg:address":"1830 W Square Lake Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 338 8383",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851725,
+        102191575,
+        404508331,
+        85633793,
+        85952051,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YlGck262JONNOjMcwHUGB_42.604698_-83.315201@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813264,
+    "wof:geomhash":"32b40cfe5f1f3846ad64254ec958500e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722504999
+        }
+    ],
+    "wof:id":722504999,
+    "wof:lastmodified":1461813264,
+    "wof:name":"Unity Montessori & Day Care",
+    "wof:parent_id":85851725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.315201,
+    42.604698,
+    -83.315201,
+    42.604698
+],
+  "geometry": {"coordinates":[-83.315201,42.604698],"type":"Point"}
+}

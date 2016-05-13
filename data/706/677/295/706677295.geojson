@@ -1,0 +1,80 @@
+{
+  "id": 706677295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.485087,42.222994,-83.485087,42.222994",
+    "geom:latitude":42.222994,
+    "geom:longitude":-83.485087,
+    "iso:country":"US",
+    "sg:address":"10940 Belleville Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/van-buren/210693-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 5002",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34wAYkyeIEjaanMeRS25cU_42.222994_-83.485087@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809178,
+    "wof:geomhash":"c6432a61f7953707d8265d3bd36be9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706677295
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677295
+        }
+    ],
+    "wof:id":706677295,
+    "wof:lastmodified":1461809178,
+    "wof:name":"Arby's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.485087,
+    42.222994,
+    -83.485087,
+    42.222994
+],
+  "geometry": {"coordinates":[-83.48508699999999,42.222994],"type":"Point"}
+}

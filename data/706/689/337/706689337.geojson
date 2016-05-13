@@ -1,0 +1,83 @@
+{
+  "id": 706689337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.619857,44.764064,-85.619857,44.764064",
+    "geom:latitude":44.764064,
+    "geom:longitude":-85.619857,
+    "iso:country":"US",
+    "sg:address":"240 E Front St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/traverse-city/184889-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 944 1036",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mN67yygAaSuaCqjvY9euA_44.763990_-85.620200@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809645,
+    "wof:geomhash":"6e514a49aa5c8be665082f5bbabf5203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706689337
+        }
+    ],
+    "wof:id":706689337,
+    "wof:lastmodified":1461809645,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.619857,
+    44.764064,
+    -85.619857,
+    44.764064
+],
+  "geometry": {"coordinates":[-85.619857,44.764064],"type":"Point"}
+}

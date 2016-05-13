@@ -1,0 +1,82 @@
+{
+  "id": 706676091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.24314,42.50192,-83.24314,42.50192",
+    "geom:latitude":42.50192,
+    "geom:longitude":-83.24314,
+    "iso:country":"US",
+    "sg:address":"20097 W 12 Mile Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/southfield/10787-papa-romanos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 356 7272",
+    "sg:postcode":"48076",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524603,
+        102191575,
+        404508205,
+        85633793,
+        85952035,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67QaaZq0tGChl79xXjJJSE_42.501920_-83.243140@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809124,
+    "wof:geomhash":"debc6d8ddfcf44c2e370662a1fecdeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508205,
+            "locality_id":85952035,
+            "neighbourhood_id":420524603,
+            "region_id":85688599,
+            "venue_id":706676091
+        }
+    ],
+    "wof:id":706676091,
+    "wof:lastmodified":1461809124,
+    "wof:name":"Papa Romano's",
+    "wof:parent_id":420524603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.24314,
+    42.50192,
+    -83.24314,
+    42.50192
+],
+  "geometry": {"coordinates":[-83.24314,42.50192],"type":"Point"}
+}

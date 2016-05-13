@@ -1,0 +1,75 @@
+{
+  "id": 706648957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.561051,42.293507,-85.561051,42.293507",
+    "geom:latitude":42.293507,
+    "geom:longitude":-85.561051,
+    "iso:country":"US",
+    "sg:address":"1201 E Michigan Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 978 1239",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817145,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rN8xldvpM0cGeKZm57SY6_42.293507_-85.561051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807885,
+    "wof:geomhash":"87e2e91a0b92976b6ce2a4fd33eb780c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85817145,
+            "region_id":85688599,
+            "venue_id":706648957
+        }
+    ],
+    "wof:id":706648957,
+    "wof:lastmodified":1461807885,
+    "wof:name":"GLL Delivery Svc",
+    "wof:parent_id":85817145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -85.561051,
+    42.293507,
+    -85.561051,
+    42.293507
+],
+  "geometry": {"coordinates":[-85.56105100000001,42.293507],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706071927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065619,45.834101,-88.065619,45.834101",
+    "geom:latitude":45.834101,
+    "geom:longitude":-88.065619,
+    "iso:country":"US",
+    "sg:address":"235 W Grant St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 2923",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "product",
+        "chocolate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3okO9wGbC2e5rS6zfpInCC_45.834101_-88.065619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795073,
+    "wof:geomhash":"c4818d1ea98695ba09319b40132e931d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706071927
+        }
+    ],
+    "wof:id":706071927,
+    "wof:lastmodified":1461795073,
+    "wof:name":"Hershey",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "chocolate"
+    ]
+},
+  "bbox": [
+    -88.065619,
+    45.834101,
+    -88.065619,
+    45.834101
+],
+  "geometry": {"coordinates":[-88.065619,45.834101],"type":"Point"}
+}

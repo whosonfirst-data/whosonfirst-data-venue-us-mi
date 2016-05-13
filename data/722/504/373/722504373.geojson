@@ -1,0 +1,69 @@
+{
+  "id": 722504373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.266899,42.535301,-83.266899,42.535301",
+    "geom:latitude":42.535301,
+    "geom:longitude":-83.266899,
+    "iso:country":"US",
+    "sg:address":"3759 Wedgewood Dr",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 2169",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GZKpENTQOUirlKBLCpmow_42.535301_-83.266899@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813241,
+    "wof:geomhash":"83efa698115db363fece9b2a3aefaa3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":722504373
+        }
+    ],
+    "wof:id":722504373,
+    "wof:lastmodified":1461813241,
+    "wof:name":"Green Leslie M DVM",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.266899,
+    42.535301,
+    -83.266899,
+    42.535301
+],
+  "geometry": {"coordinates":[-83.266899,42.535301],"type":"Point"}
+}

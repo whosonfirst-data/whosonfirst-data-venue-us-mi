@@ -1,0 +1,78 @@
+{
+  "id": 706689205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.654285,43.001975,-85.654285,43.001975",
+    "geom:latitude":43.001975,
+    "geom:longitude":-85.654285,
+    "iso:country":"US",
+    "sg:address":"2153 Plainfield Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/59214-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 365 9988",
+    "sg:postcode":"49505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877873,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73s8Fi50wrksOR4g5bhdse_43.001816_-85.654394@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809640,
+    "wof:geomhash":"4b6aa54b140b0b34eed03a4de8171dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877873,
+            "region_id":85688599,
+            "venue_id":706689205
+        }
+    ],
+    "wof:id":706689205,
+    "wof:lastmodified":1461809640,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85877873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.654285,
+    43.001975,
+    -85.654285,
+    43.001975
+],
+  "geometry": {"coordinates":[-85.654285,43.001975],"type":"Point"}
+}

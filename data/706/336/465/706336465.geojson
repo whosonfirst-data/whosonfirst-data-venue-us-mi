@@ -1,0 +1,71 @@
+{
+  "id": 706336465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.972005,42.072695,-83.972005,42.072695",
+    "geom:latitude":42.072695,
+    "geom:longitude":-83.972005,
+    "iso:country":"US",
+    "sg:address":"111 Brown St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 456 4757",
+    "sg:postcode":"49236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951675,
+        102083099,
+        85836787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yA4DU13VXcxznwS3x9pd4_42.072695_-83.972005@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801127,
+    "wof:geomhash":"85104724a5dd4c3b38c8d3220d0aac8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083099,
+            "locality_id":85951675,
+            "neighbourhood_id":85836787,
+            "region_id":85688599,
+            "venue_id":706336465
+        }
+    ],
+    "wof:id":706336465,
+    "wof:lastmodified":1461801127,
+    "wof:name":"One Eleven Brown Street",
+    "wof:parent_id":85836787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.972005,
+    42.072695,
+    -83.972005,
+    42.072695
+],
+  "geometry": {"coordinates":[-83.972005,42.072695],"type":"Point"}
+}

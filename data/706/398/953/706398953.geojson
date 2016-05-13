@@ -1,0 +1,69 @@
+{
+  "id": 706398953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427367,42.259051,-84.427367,42.259051",
+    "geom:latitude":42.259051,
+    "geom:longitude":-84.427367,
+    "iso:country":"US",
+    "sg:address":"1100 W North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 000 1111",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r6dLbl9WqTVi0g8KIzOcv_42.259051_-84.427367@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802379,
+    "wof:geomhash":"d95309ce513ea4e9fce0d7be34a46d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706398953
+        }
+    ],
+    "wof:id":706398953,
+    "wof:lastmodified":1461802379,
+    "wof:name":"Aldi",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.427367,
+    42.259051,
+    -84.427367,
+    42.259051
+],
+  "geometry": {"coordinates":[-84.427367,42.259051],"type":"Point"}
+}

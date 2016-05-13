@@ -1,0 +1,73 @@
+{
+  "id": 706687359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.418656,46.545905,-87.418656,46.545905",
+    "geom:latitude":46.545905,
+    "geom:longitude":-87.418656,
+    "iso:country":"US",
+    "sg:address":"1105 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marquette/185724-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Az531t0n5Ir8opyovycWq_46.545905_-87.418656@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809569,
+    "wof:geomhash":"ab5ee9c5407c133490fdcd79485b5b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706687359
+        }
+    ],
+    "wof:id":706687359,
+    "wof:lastmodified":1461809569,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.418656,
+    46.545905,
+    -87.418656,
+    46.545905
+],
+  "geometry": {"coordinates":[-87.418656,46.545905],"type":"Point"}
+}

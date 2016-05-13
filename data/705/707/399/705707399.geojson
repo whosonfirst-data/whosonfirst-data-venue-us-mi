@@ -1,0 +1,77 @@
+{
+  "id": 705707399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624927,42.851994,-85.624927,42.851994",
+    "geom:latitude":42.851994,
+    "geom:longitude":-85.624927,
+    "iso:country":"US",
+    "sg:address":"6127 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 554 5500",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cpfdls1LbS99y9fv33gm3_42.851994_-85.624927@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786803,
+    "wof:geomhash":"6d63fd6b7af552209a79552cb4827144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705707399
+        }
+    ],
+    "wof:id":705707399,
+    "wof:lastmodified":1461786803,
+    "wof:name":"Eye On Video",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.624927,
+    42.851994,
+    -85.624927,
+    42.851994
+],
+  "geometry": {"coordinates":[-85.624927,42.851994],"type":"Point"}
+}

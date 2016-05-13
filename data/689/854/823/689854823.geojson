@@ -1,0 +1,71 @@
+{
+  "id": 689854823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.404116,42.195299,-83.404116,42.195299",
+    "geom:latitude":42.195299,
+    "geom:longitude":-83.404116,
+    "iso:country":"US",
+    "sg:address":"13880 S Huron River Dr",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 941 3215",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40amUy9O2qzSjs8hZSEUgk_42.195299_-83.404116@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783417,
+    "wof:geomhash":"8824e313a65a79d0631c7adc76ddfa06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":689854823
+        }
+    ],
+    "wof:id":689854823,
+    "wof:lastmodified":1461783417,
+    "wof:name":"Double D Electric",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.404116,
+    42.195299,
+    -83.404116,
+    42.195299
+],
+  "geometry": {"coordinates":[-83.404116,42.195299],"type":"Point"}
+}

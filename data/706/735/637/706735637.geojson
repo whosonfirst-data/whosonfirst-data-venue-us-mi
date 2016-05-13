@@ -1,0 +1,82 @@
+{
+  "id": 706735637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.412697,42.395199,-83.412697,42.395199",
+    "geom:latitude":42.395199,
+    "geom:longitude":-83.412697,
+    "iso:country":"US",
+    "sg:address":"15089 Newburgh Rd Ste 2",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 464 1222",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:website":"www.stedith.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        420559303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MTCtILckKv1OGaibaJr45_42.395199_-83.412697@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811646,
+    "wof:geomhash":"b74720b0276cca83ff183a80030af019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706735637
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420559303,
+            "region_id":85688599,
+            "venue_id":706735637
+        }
+    ],
+    "wof:id":706735637,
+    "wof:lastmodified":1461811646,
+    "wof:name":"St Edith Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.412697,
+    42.395199,
+    -83.412697,
+    42.395199
+],
+  "geometry": {"coordinates":[-83.41269699999999,42.395199],"type":"Point"}
+}

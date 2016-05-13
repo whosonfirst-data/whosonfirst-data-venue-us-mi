@@ -1,0 +1,76 @@
+{
+  "id": 706677765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.374892,42.425588,-83.374892,42.425588",
+    "geom:latitude":42.425588,
+    "geom:longitude":-83.374892,
+    "iso:country":"US",
+    "sg:address":"19055 Farmington Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/livonia/207777-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 476 6061",
+    "sg:postcode":"48152",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524969,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PHtyERW1B618H2TUID65T_42.425588_-83.374892@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809200,
+    "wof:geomhash":"29d14a6d5f621900af69fd197bfd5ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524969,
+            "region_id":85688599,
+            "venue_id":706677765
+        }
+    ],
+    "wof:id":706677765,
+    "wof:lastmodified":1461809200,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420524969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.374892,
+    42.425588,
+    -83.374892,
+    42.425588
+],
+  "geometry": {"coordinates":[-83.374892,42.425588],"type":"Point"}
+}

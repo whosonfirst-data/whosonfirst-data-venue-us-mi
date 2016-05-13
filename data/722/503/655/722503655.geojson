@@ -1,0 +1,87 @@
+{
+  "id": 722503655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.038464,42.330096,-83.038464,42.330096",
+    "geom:latitude":42.330096,
+    "geom:longitude":-83.038464,
+    "iso:country":"US",
+    "sg:address":"400 Renaissance Center Suite 2550",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 877 9100",
+    "sg:postcode":"48243",
+    "sg:province":"MI",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.sphinxmusic.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4tpRYiUspXQ19mnqLPA6_42.330096_-83.038464@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813210,
+    "wof:geomhash":"5111be86f23fd51ed00094ff451776ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":722503655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":722503655
+        }
+    ],
+    "wof:id":722503655,
+    "wof:lastmodified":1461813210,
+    "wof:name":"Sphinx Organization",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -83.038464,
+    42.330096,
+    -83.038464,
+    42.330096
+],
+  "geometry": {"coordinates":[-83.038464,42.330096],"type":"Point"}
+}

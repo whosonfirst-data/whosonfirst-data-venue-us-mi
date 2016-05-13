@@ -1,0 +1,78 @@
+{
+  "id": 706689083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.11595,42.769895,-86.11595,42.769895",
+    "geom:latitude":42.769895,
+    "geom:longitude":-86.11595,
+    "iso:country":"US",
+    "sg:address":"735 Michigan Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/196926-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 355 5428",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822391,
+        102191575,
+        404506669,
+        85633793,
+        85950993,
+        102083043,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RvQVx3GKomgTSmXL3jGiD_42.769685_-86.115904@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809636,
+    "wof:geomhash":"b62fbd182d44803c26a6b23eb642e893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083043,
+            "localadmin_id":404506669,
+            "locality_id":85950993,
+            "neighbourhood_id":85822391,
+            "region_id":85688599,
+            "venue_id":706689083
+        }
+    ],
+    "wof:id":706689083,
+    "wof:lastmodified":1461809636,
+    "wof:name":"Burger King",
+    "wof:parent_id":85822391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.11595,
+    42.769895,
+    -86.11595,
+    42.769895
+],
+  "geometry": {"coordinates":[-86.11595,42.769895],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 706686079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646004,42.970028,-85.646004,42.970028",
+    "geom:latitude":42.970028,
+    "geom:longitude":-85.646004,
+    "iso:country":"US",
+    "sg:address":"945 Michigan St NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/176381-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 459 8469",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877895,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xVx3DxaV5RZ6DxPLpl1HN_42.970028_-85.646004@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809523,
+    "wof:geomhash":"810819aedbfd14ded20ec2511acffd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877895,
+            "region_id":85688599,
+            "venue_id":706686079
+        }
+    ],
+    "wof:id":706686079,
+    "wof:lastmodified":1461809523,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85877895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.646004,
+    42.970028,
+    -85.646004,
+    42.970028
+],
+  "geometry": {"coordinates":[-85.646004,42.970028],"type":"Point"}
+}

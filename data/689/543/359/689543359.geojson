@@ -1,0 +1,75 @@
+{
+  "id": 689543359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540768,42.769709,-84.540768,42.769709",
+    "geom:latitude":42.769709,
+    "geom:longitude":-84.540768,
+    "iso:country":"US",
+    "sg:address":"927 E Sheridan Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 487 2224",
+    "sg:postcode":"48906",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ohLKM8NZo3IYqzNnfdho2_42.769709_-84.540768@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774465,
+    "wof:geomhash":"dcb57a07a32b8240639acb082624dac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878629,
+            "region_id":85688599,
+            "venue_id":689543359
+        }
+    ],
+    "wof:id":689543359,
+    "wof:lastmodified":1461774465,
+    "wof:name":"Daggett Rolloff Container Svc",
+    "wof:parent_id":85878629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.540768,
+    42.769709,
+    -84.540768,
+    42.769709
+],
+  "geometry": {"coordinates":[-84.540768,42.769709],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706678379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.435293,42.279964,-83.435293,42.279964",
+    "geom:latitude":42.279964,
+    "geom:longitude":-83.435293,
+    "iso:country":"US",
+    "sg:address":"40210 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/canton/210713-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 641 9919",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896853,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62J9vfqxw2sRRYz6ea4RJM_42.279964_-83.435293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809222,
+    "wof:geomhash":"ba46307fb8ded4926836339867524fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896853,
+            "region_id":85688599,
+            "venue_id":706678379
+        }
+    ],
+    "wof:id":706678379,
+    "wof:lastmodified":1461809222,
+    "wof:name":"Arby's",
+    "wof:parent_id":85896853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.435293,
+    42.279964,
+    -83.435293,
+    42.279964
+],
+  "geometry": {"coordinates":[-83.435293,42.279964],"type":"Point"}
+}

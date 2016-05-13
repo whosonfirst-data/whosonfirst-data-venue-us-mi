@@ -1,0 +1,78 @@
+{
+  "id": 706679153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.21638,42.399929,-83.21638,42.399929",
+    "geom:latitude":42.399929,
+    "geom:longitude":-83.21638,
+    "iso:country":"US",
+    "sg:address":"17776 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/56902-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 836 7827",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524917,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SIi5irNvxWeGmxDgaw0R6_42.399929_-83.216380@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809251,
+    "wof:geomhash":"cc2b27c0e2e7ffb4b8d23441c969512b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524917,
+            "region_id":85688599,
+            "venue_id":706679153
+        }
+    ],
+    "wof:id":706679153,
+    "wof:lastmodified":1461809251,
+    "wof:name":"Subway",
+    "wof:parent_id":420524917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.21638,
+    42.399929,
+    -83.21638,
+    42.399929
+],
+  "geometry": {"coordinates":[-83.21638,42.399929],"type":"Point"}
+}

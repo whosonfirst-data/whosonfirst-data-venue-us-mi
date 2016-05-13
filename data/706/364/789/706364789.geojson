@@ -1,0 +1,71 @@
+{
+  "id": 706364789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.019275,42.635771,-83.019275,42.635771",
+    "geom:latitude":42.635771,
+    "geom:longitude":-83.019275,
+    "iso:country":"US",
+    "sg:address":"46255 Hecker Dr",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 739 7409",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "flight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DOlfYJbfaEm7qz031q8Yi_42.635771_-83.019275@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801710,
+    "wof:geomhash":"395001e5a52b528ccb40f63ada856fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706364789
+        }
+    ],
+    "wof:id":706364789,
+    "wof:lastmodified":1461801710,
+    "wof:name":"Berz Airport",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "flight"
+    ]
+},
+  "bbox": [
+    -83.019275,
+    42.635771,
+    -83.019275,
+    42.635771
+],
+  "geometry": {"coordinates":[-83.01927499999999,42.635771],"type":"Point"}
+}

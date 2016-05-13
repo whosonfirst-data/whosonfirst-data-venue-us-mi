@@ -1,0 +1,71 @@
+{
+  "id": 689850283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.41566,42.253964,-84.41566,42.253964",
+    "geom:latitude":42.253964,
+    "geom:longitude":-84.41566,
+    "iso:country":"US",
+    "sg:address":"524 Woodruff Pl",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 8567",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GOeTlD2L754yCUvjlbFzf_42.253964_-84.415660@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783319,
+    "wof:geomhash":"83befde4cf9d6ccf64ebeff083faf799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689850283
+        }
+    ],
+    "wof:id":689850283,
+    "wof:lastmodified":1461783319,
+    "wof:name":"Quality First Heating Air-Cond",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.41566,
+    42.253964,
+    -84.41566,
+    42.253964
+],
+  "geometry": {"coordinates":[-84.41566,42.253964],"type":"Point"}
+}

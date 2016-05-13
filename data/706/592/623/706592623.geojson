@@ -1,0 +1,73 @@
+{
+  "id": 706592623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.192265,43.245045,-86.192265,43.245045",
+    "geom:latitude":43.245045,
+    "geom:longitude":-86.192265,
+    "iso:country":"US",
+    "sg:address":"2051 Marquette Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 7778",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18W8TMS0gonXGrMoukMWQE_43.245045_-86.192265@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806570,
+    "wof:geomhash":"df618e2731cbe38f463ef48e33e647c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706592623
+        }
+    ],
+    "wof:id":706592623,
+    "wof:lastmodified":1461806570,
+    "wof:name":"Grand Bays Car Wash",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.192265,
+    43.245045,
+    -86.192265,
+    43.245045
+],
+  "geometry": {"coordinates":[-86.19226500000001,43.245045],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706678847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.000245,42.358259,-83.000245,42.358259",
+    "geom:latitude":42.358259,
+    "geom:longitude":-83.000245,
+    "iso:country":"US",
+    "sg:address":"7968 Kercheval St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/40633-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 571 3030",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870555,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sd4HZ3LQBFE2jXPNpTGyT_42.358259_-83.000245@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809239,
+    "wof:geomhash":"06183a5a1ef459e6d467e689ec23a1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870555,
+            "region_id":85688599,
+            "venue_id":706678847
+        }
+    ],
+    "wof:id":706678847,
+    "wof:lastmodified":1461809239,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85870555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.000245,
+    42.358259,
+    -83.000245,
+    42.358259
+],
+  "geometry": {"coordinates":[-83.00024500000001,42.358259],"type":"Point"}
+}

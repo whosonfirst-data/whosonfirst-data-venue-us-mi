@@ -1,0 +1,70 @@
+{
+  "id": 722473621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.476601,42.3078,-83.476601,42.3078",
+    "geom:latitude":42.3078,
+    "geom:longitude":-83.476601,
+    "iso:country":"US",
+    "sg:address":"44350 Cherry Hill Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 844 6000",
+    "sg:postcode":"48187",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mP8DFz6aqPvCYs8RFu58E_42.307800_-83.476601@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812015,
+    "wof:geomhash":"921106be995e35f4d998c23a98f3cbcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722473621
+        }
+    ],
+    "wof:id":722473621,
+    "wof:lastmodified":1461812015,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.476601,
+    42.3078,
+    -83.476601,
+    42.3078
+],
+  "geometry": {"coordinates":[-83.476601,42.3078],"type":"Point"}
+}

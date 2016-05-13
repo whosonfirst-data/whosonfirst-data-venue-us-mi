@@ -1,0 +1,73 @@
+{
+  "id": 689906777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.390906,42.187621,-83.390906,42.187621",
+    "geom:latitude":42.187621,
+    "geom:longitude":-83.390906,
+    "iso:country":"US",
+    "sg:address":"15300 Oakwood Dr",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 732 1054",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "returnable",
+        "cleaning",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32U5nMRhgfMMB7KAAhKEq0_42.187621_-83.390906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784759,
+    "wof:geomhash":"1b791aef2205db2850c1237c302c7459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":689906777
+        }
+    ],
+    "wof:id":689906777,
+    "wof:lastmodified":1461784759,
+    "wof:name":"Merlin Services LLC",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "returnable",
+        "cleaning",
+        "plastic"
+    ]
+},
+  "bbox": [
+    -83.390906,
+    42.187621,
+    -83.390906,
+    42.187621
+],
+  "geometry": {"coordinates":[-83.390906,42.187621],"type":"Point"}
+}

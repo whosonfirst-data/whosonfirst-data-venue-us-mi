@@ -1,0 +1,69 @@
+{
+  "id": 706119573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.156063,43.153923,-86.156063,43.153923",
+    "geom:latitude":43.153923,
+    "geom:longitude":-86.156063,
+    "iso:country":"US",
+    "sg:address":"3636 E Sternberg Rd",
+    "sg:city":"Fruitport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 865 3466",
+    "sg:postcode":"49415",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09pYYnRuONQ28L555za35C_43.153923_-86.156063@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796258,
+    "wof:geomhash":"967c20e42b3f0b700abf7bb2be2fa36f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706119573
+        }
+    ],
+    "wof:id":706119573,
+    "wof:lastmodified":1461796258,
+    "wof:name":"Franks Auto Body",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.156063,
+    43.153923,
+    -86.156063,
+    43.153923
+],
+  "geometry": {"coordinates":[-86.156063,43.153923],"type":"Point"}
+}

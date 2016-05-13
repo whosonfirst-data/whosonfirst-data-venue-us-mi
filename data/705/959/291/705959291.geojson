@@ -1,0 +1,81 @@
+{
+  "id": 705959291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.386899,42.263354,-84.386899,42.263354",
+    "geom:latitude":42.263354,
+    "geom:longitude":-84.386899,
+    "iso:country":"US",
+    "sg:address":"930 Fleming Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 4460",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "center",
+        "detention",
+        "treatment"
+    ],
+    "sg:website":"www.jacksoncounty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OPv4oorTGXN7leoa5xYRA_42.263354_-84.386899@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792730,
+    "wof:geomhash":"37432b26e6845ee662a3349a700fbcf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705959291
+        }
+    ],
+    "wof:id":705959291,
+    "wof:lastmodified":1461792730,
+    "wof:name":"Jackson County Youth Center",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "center",
+        "detention",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -84.386899,
+    42.263354,
+    -84.386899,
+    42.263354
+],
+  "geometry": {"coordinates":[-84.386899,42.263354],"type":"Point"}
+}

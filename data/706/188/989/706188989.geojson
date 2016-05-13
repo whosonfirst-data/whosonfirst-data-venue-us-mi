@@ -1,0 +1,71 @@
+{
+  "id": 706188989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.398253,46.533897,-87.398253,46.533897",
+    "geom:latitude":46.533897,
+    "geom:longitude":-87.398253,
+    "iso:country":"US",
+    "sg:address":"123 Genesee St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7371",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x6t0wBKxUDX62pmiUV0Ur_46.533897_-87.398253@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797835,
+    "wof:geomhash":"38541332c429d0df262f199be8b69179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706188989
+        }
+    ],
+    "wof:id":706188989,
+    "wof:lastmodified":1461797835,
+    "wof:name":"Cal's Party Store",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.398253,
+    46.533897,
+    -87.398253,
+    46.533897
+],
+  "geometry": {"coordinates":[-87.398253,46.533897],"type":"Point"}
+}

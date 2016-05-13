@@ -1,0 +1,75 @@
+{
+  "id": 706038249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.34993,42.230241,-86.34993,42.230241",
+    "geom:latitude":42.230241,
+    "geom:longitude":-86.34993,
+    "iso:country":"US",
+    "sg:address":"6850 Martin Rd",
+    "sg:city":"Coloma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 468 6098",
+    "sg:postcode":"49038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952305,
+        102083151,
+        85830991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oPCeukiR315UfMbl0nUva_42.230241_-86.349930@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794370,
+    "wof:geomhash":"480ad9f22abfd449f62e0f6f855bb413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952305,
+            "neighbourhood_id":85830991,
+            "region_id":85688599,
+            "venue_id":706038249
+        }
+    ],
+    "wof:id":706038249,
+    "wof:lastmodified":1461794370,
+    "wof:name":"Bill Ulleg Trucking",
+    "wof:parent_id":85830991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.34993,
+    42.230241,
+    -86.34993,
+    42.230241
+],
+  "geometry": {"coordinates":[-86.34993,42.230241],"type":"Point"}
+}

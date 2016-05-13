@@ -1,0 +1,71 @@
+{
+  "id": 689763309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247929,43.205,-86.247929,43.205",
+    "geom:latitude":43.205,
+    "geom:longitude":-86.247929,
+    "iso:country":"US",
+    "sg:address":"123 W Sherman Blvd",
+    "sg:city":"Muskegon Heights",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 1264",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "roofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lC4OoAKX29kfmIvkjt1Ar_43.205000_-86.247929@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780860,
+    "wof:geomhash":"e37fdd689c4159d5e107d3b6bf9f93e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689763309
+        }
+    ],
+    "wof:id":689763309,
+    "wof:lastmodified":1461780860,
+    "wof:name":"ABC Supply Co",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing"
+    ]
+},
+  "bbox": [
+    -86.247929,
+    43.205,
+    -86.247929,
+    43.205
+],
+  "geometry": {"coordinates":[-86.247929,43.205],"type":"Point"}
+}

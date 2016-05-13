@@ -1,0 +1,71 @@
+{
+  "id": 689477079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.625099,41.749021,-83.625099,41.749021",
+    "geom:latitude":41.749021,
+    "geom:longitude":-83.625099,
+    "iso:country":"US",
+    "sg:address":"3277 W Sterns Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 6640",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48USo5iEu8TM20yAagu22H_41.749021_-83.625099@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772439,
+    "wof:geomhash":"f58fe81577a871d0852ccc6302d0571d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":689477079
+        }
+    ],
+    "wof:id":689477079,
+    "wof:lastmodified":1461772439,
+    "wof:name":"Lambertville Veterinary Clinic",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.625099,
+    41.749021,
+    -83.625099,
+    41.749021
+],
+  "geometry": {"coordinates":[-83.62509900000001,41.749021],"type":"Point"}
+}

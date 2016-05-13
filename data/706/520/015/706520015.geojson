@@ -1,0 +1,69 @@
+{
+  "id": 706520015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625888,44.75351,-85.625888,44.75351",
+    "geom:latitude":44.75351,
+    "geom:longitude":-85.625888,
+    "iso:country":"US",
+    "sg:address":"210 W 13th St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 933 4789",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pxm0uSiXekoQxsCFsdmkF_44.753510_-85.625888@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805036,
+    "wof:geomhash":"41faa19bc647abc93a3add48da8e8f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706520015
+        }
+    ],
+    "wof:id":706520015,
+    "wof:lastmodified":1461805036,
+    "wof:name":"Sandys Cleaning Services",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.625888,
+    44.75351,
+    -85.625888,
+    44.75351
+],
+  "geometry": {"coordinates":[-85.625888,44.75351],"type":"Point"}
+}

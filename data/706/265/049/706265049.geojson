@@ -1,0 +1,73 @@
+{
+  "id": 706265049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240961,43.22413,-86.240961,43.22413",
+    "geom:latitude":43.22413,
+    "geom:longitude":-86.240961,
+    "iso:country":"US",
+    "sg:address":"125 E Southern Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 720 3200",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TEaS34u1poBK1E4Af4pFi_43.224130_-86.240961@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799503,
+    "wof:geomhash":"6707b5ca83f99007fad994e1320160c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706265049
+        }
+    ],
+    "wof:id":706265049,
+    "wof:lastmodified":1461799503,
+    "wof:name":"Community Mental Health Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.240961,
+    43.22413,
+    -86.240961,
+    43.22413
+],
+  "geometry": {"coordinates":[-86.240961,43.22413],"type":"Point"}
+}

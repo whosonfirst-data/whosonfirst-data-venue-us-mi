@@ -1,0 +1,72 @@
+{
+  "id": 706684877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384369,42.251521,-84.384369,42.251521",
+    "geom:latitude":42.251521,
+    "geom:longitude":-84.384369,
+    "iso:country":"US",
+    "sg:address":"106 N Elm Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/jackson/168575-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 0085",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wz3uugDUwgCIUeEA25XSU_42.251521_-84.384369@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809480,
+    "wof:geomhash":"d8d5bc260648e3e6b2cb240ee77bcd30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706684877
+        }
+    ],
+    "wof:id":706684877,
+    "wof:lastmodified":1461809480,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.384369,
+    42.251521,
+    -84.384369,
+    42.251521
+],
+  "geometry": {"coordinates":[-84.38436900000001,42.251521],"type":"Point"}
+}

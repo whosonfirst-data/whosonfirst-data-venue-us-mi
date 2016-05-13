@@ -1,0 +1,71 @@
+{
+  "id": 689821357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.532467,42.119924,-85.532467,42.119924",
+    "geom:latitude":42.119924,
+    "geom:longitude":-85.532467,
+    "iso:country":"US",
+    "sg:address":"102 S Main St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 649 2067",
+    "sg:postcode":"49097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85840935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cQT1nkN3Ro99gQiUfZi6L_42.119924_-85.532467@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782556,
+    "wof:geomhash":"727f13845ecaa0ad2024500c5d3b5e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85840935,
+            "region_id":85688599,
+            "venue_id":689821357
+        }
+    ],
+    "wof:id":689821357,
+    "wof:lastmodified":1461782556,
+    "wof:name":"Dornbos Family Dentistry",
+    "wof:parent_id":85840935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.532467,
+    42.119924,
+    -85.532467,
+    42.119924
+],
+  "geometry": {"coordinates":[-85.532467,42.119924],"type":"Point"}
+}

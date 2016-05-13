@@ -1,0 +1,69 @@
+{
+  "id": 706297661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.679913,42.228096,-83.679913,42.228096",
+    "geom:latitude":42.228096,
+    "geom:longitude":-83.679913,
+    "iso:country":"US",
+    "sg:address":"4161 Carpenter Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 973 2340",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875889,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p6LN1d9n7s0ay7LvT70Wt_42.228096_-83.679913@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800254,
+    "wof:geomhash":"81d2b8c61f135ebe868b11f35da1de37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875889,
+            "region_id":85688599,
+            "venue_id":706297661
+        }
+    ],
+    "wof:id":706297661,
+    "wof:lastmodified":1461800254,
+    "wof:name":"Ann Arbor Transmission",
+    "wof:parent_id":85875889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.679913,
+    42.228096,
+    -83.679913,
+    42.228096
+],
+  "geometry": {"coordinates":[-83.679913,42.228096],"type":"Point"}
+}

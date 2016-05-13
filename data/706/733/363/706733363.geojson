@@ -1,0 +1,84 @@
+{
+  "id": 706733363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.374802,42.425999,-83.374802,42.425999",
+    "geom:latitude":42.425999,
+    "geom:longitude":-83.374802,
+    "iso:country":"US",
+    "sg:address":"19066 Farmington Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 476 0570",
+    "sg:postcode":"48152",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524969,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FTTMdBIQr5aFlYNY1DLnl_42.425999_-83.374802@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811545,
+    "wof:geomhash":"21f8bc1600e9220e686419387778cadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524969,
+            "region_id":85688599,
+            "venue_id":706733363
+        }
+    ],
+    "wof:id":706733363,
+    "wof:lastmodified":1461811545,
+    "wof:name":"Allen Vilas L DVM",
+    "wof:parent_id":420524969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.374802,
+    42.425999,
+    -83.374802,
+    42.425999
+],
+  "geometry": {"coordinates":[-83.374802,42.425999],"type":"Point"}
+}

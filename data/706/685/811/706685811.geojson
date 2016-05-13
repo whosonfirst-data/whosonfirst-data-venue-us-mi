@@ -1,0 +1,76 @@
+{
+  "id": 706685811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263313,43.196536,-86.263313,43.196536",
+    "geom:latitude":43.196536,
+    "geom:longitude":-86.263313,
+    "iso:country":"US",
+    "sg:address":"3089 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/roosevelt-park/122038-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 7821",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vrecGdjxEe8x05SvRjHki_43.196536_-86.263313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809513,
+    "wof:geomhash":"a36692e231af1e3265d7014233e4bb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685811
+        }
+    ],
+    "wof:id":706685811,
+    "wof:lastmodified":1461809513,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.263313,
+    43.196536,
+    -86.263313,
+    43.196536
+],
+  "geometry": {"coordinates":[-86.263313,43.196536],"type":"Point"}
+}

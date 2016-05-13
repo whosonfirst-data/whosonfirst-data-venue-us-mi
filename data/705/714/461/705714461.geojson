@@ -1,0 +1,71 @@
+{
+  "id": 705714461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.462259,42.383464,-83.462259,42.383464",
+    "geom:latitude":42.383464,
+    "geom:longitude":-83.462259,
+    "iso:country":"US",
+    "sg:address":"1165 Starkweather St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 8855",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YCPjplnjiexyvjxeiIfti_42.383464_-83.462259@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787021,
+    "wof:geomhash":"288d7cf42387184c21c8357c5e7293d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":705714461
+        }
+    ],
+    "wof:id":705714461,
+    "wof:lastmodified":1461787021,
+    "wof:name":"B&L Radiator Service",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.462259,
+    42.383464,
+    -83.462259,
+    42.383464
+],
+  "geometry": {"coordinates":[-83.462259,42.383464],"type":"Point"}
+}

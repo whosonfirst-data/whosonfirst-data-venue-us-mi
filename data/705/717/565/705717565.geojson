@@ -1,0 +1,84 @@
+{
+  "id": 705717565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.206857,42.489959,-83.206857,42.489959",
+    "geom:latitude":42.489959,
+    "geom:longitude":-83.206857,
+    "iso:country":"US",
+    "sg:address":"27105 Everett St",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 557 4357",
+    "sg:postcode":"48076",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "merchandise",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896551,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YnuOwU8BNtA5i3ko3Hj9t_42.489959_-83.206857@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787101,
+    "wof:geomhash":"cd571d6afd16f67ef6ce782b0045f9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896551,
+            "region_id":85688599,
+            "venue_id":705717565
+        }
+    ],
+    "wof:id":705717565,
+    "wof:lastmodified":1461787101,
+    "wof:name":"Al's Plumbing & Heating Co",
+    "wof:parent_id":85896551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "merchandise",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.206857,
+    42.489959,
+    -83.206857,
+    42.489959
+],
+  "geometry": {"coordinates":[-83.206857,42.489959],"type":"Point"}
+}

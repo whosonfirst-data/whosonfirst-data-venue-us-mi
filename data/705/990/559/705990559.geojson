@@ -1,0 +1,69 @@
+{
+  "id": 705990559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.1116,43.444274,-84.1116,43.444274",
+    "geom:latitude":43.444274,
+    "geom:longitude":-84.1116,
+    "iso:country":"US",
+    "sg:address":"2715 N Thomas Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 2704",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DamPoy9TS0iMqaDuq2BOm_43.444274_-84.111600@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793380,
+    "wof:geomhash":"8523858a69ba78c4173e1c14daa30d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705990559
+        }
+    ],
+    "wof:id":705990559,
+    "wof:lastmodified":1461793380,
+    "wof:name":"Wurtzel Greenhouse",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -84.1116,
+    43.444274,
+    -84.1116,
+    43.444274
+],
+  "geometry": {"coordinates":[-84.1116,43.444274],"type":"Point"}
+}

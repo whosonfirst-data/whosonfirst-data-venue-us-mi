@@ -1,0 +1,71 @@
+{
+  "id": 706358461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.492031,42.437042,-83.492031,42.437042",
+    "geom:latitude":42.437042,
+    "geom:longitude":-83.492031,
+    "iso:country":"US",
+    "sg:address":"755 Randolph St",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 349 7743",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tIqBuLb1EuJ5ZJfM5jVP2_42.437042_-83.492031@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801580,
+    "wof:geomhash":"93467319e6065c55489d7f2f49dd815d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":706358461
+        }
+    ],
+    "wof:id":706358461,
+    "wof:lastmodified":1461801580,
+    "wof:name":"Northville Green Apartments",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.492031,
+    42.437042,
+    -83.492031,
+    42.437042
+],
+  "geometry": {"coordinates":[-83.492031,42.437042],"type":"Point"}
+}

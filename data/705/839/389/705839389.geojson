@@ -1,0 +1,73 @@
+{
+  "id": 705839389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714777,43.005056,-83.714777,43.005056",
+    "geom:latitude":43.005056,
+    "geom:longitude":-83.714777,
+    "iso:country":"US",
+    "sg:address":"2102 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 0049",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KvCzKLQeDjYx1JqDn2aQ4_43.005056_-83.714777@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789942,
+    "wof:geomhash":"0bfb32e3bf430aabdeb2ca6aba976c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705839389
+        }
+    ],
+    "wof:id":705839389,
+    "wof:lastmodified":1461789942,
+    "wof:name":"3 D Automotive",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.714777,
+    43.005056,
+    -83.714777,
+    43.005056
+],
+  "geometry": {"coordinates":[-83.714777,43.005056],"type":"Point"}
+}

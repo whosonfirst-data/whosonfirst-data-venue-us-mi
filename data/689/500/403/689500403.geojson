@@ -1,0 +1,79 @@
+{
+  "id": 689500403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.514014,42.214239,-83.514014,42.214239",
+    "geom:latitude":42.214239,
+    "geom:longitude":-83.514014,
+    "iso:country":"US",
+    "sg:address":"49000 Denton Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 9156",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwOfxOkh0JPkd9LO9VDSf_42.214239_-83.514014@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773105,
+    "wof:geomhash":"72d6660e6cfdd3ff5d236e674ce47125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":689500403
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":689500403
+        }
+    ],
+    "wof:id":689500403,
+    "wof:lastmodified":1461773105,
+    "wof:name":"Harbour Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.514014,
+    42.214239,
+    -83.514014,
+    42.214239
+],
+  "geometry": {"coordinates":[-83.514014,42.214239],"type":"Point"}
+}

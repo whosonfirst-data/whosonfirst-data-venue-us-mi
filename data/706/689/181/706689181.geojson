@@ -1,0 +1,80 @@
+{
+  "id": 706689181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671179,42.965712,-85.671179,42.965712",
+    "geom:latitude":42.965712,
+    "geom:longitude":-85.671179,
+    "iso:country":"US",
+    "sg:address":"146 Monroe Center St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/122001-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 742 4400",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877871,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f9kOb1wgQgDV61lL3Vmst_42.966263_-85.671957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809639,
+    "wof:geomhash":"45d2bf09c867f3840a2e82e02e6649cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877871,
+            "region_id":85688599,
+            "venue_id":706689181
+        }
+    ],
+    "wof:id":706689181,
+    "wof:lastmodified":1461809639,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85877871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.671179,
+    42.965712,
+    -85.671179,
+    42.965712
+],
+  "geometry": {"coordinates":[-85.671179,42.965712],"type":"Point"}
+}

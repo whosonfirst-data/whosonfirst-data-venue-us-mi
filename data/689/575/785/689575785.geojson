@@ -1,0 +1,71 @@
+{
+  "id": 689575785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.406657,44.272715,-85.406657,44.272715",
+    "geom:latitude":44.272715,
+    "geom:longitude":-85.406657,
+    "iso:country":"US",
+    "sg:address":"1539 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 1203",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wT97ekycf1Z3IOquANOwf_44.272715_-85.406657@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775462,
+    "wof:geomhash":"c797540916ed0009be427514d477db66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689575785
+        }
+    ],
+    "wof:id":689575785,
+    "wof:lastmodified":1461775462,
+    "wof:name":"Professional Oil Fast Lube",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.406657,
+    44.272715,
+    -85.406657,
+    44.272715
+],
+  "geometry": {"coordinates":[-85.406657,44.272715],"type":"Point"}
+}

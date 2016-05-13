@@ -1,0 +1,86 @@
+{
+  "id": 706435221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.24194,42.410676,-83.24194,42.410676",
+    "geom:latitude":42.410676,
+    "geom:longitude":-83.24194,
+    "iso:country":"US",
+    "sg:address":"16626 Stout St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 538 7792",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524867,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k4pQezCrfF1j5sP6GVy7y_42.410676_-83.241940@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803089,
+    "wof:geomhash":"e9c63723b45d1365c18ec1cf77cf1dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524867,
+            "region_id":85688599,
+            "venue_id":706435221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":706435221
+        }
+    ],
+    "wof:id":706435221,
+    "wof:lastmodified":1461803089,
+    "wof:name":"Pas Vending",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -83.24194,
+    42.410676,
+    -83.24194,
+    42.410676
+],
+  "geometry": {"coordinates":[-83.24194,42.410676],"type":"Point"}
+}

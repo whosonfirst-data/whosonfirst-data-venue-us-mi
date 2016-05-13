@@ -1,0 +1,83 @@
+{
+  "id": 722486379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952723,42.370884,-82.952723,42.370884",
+    "geom:latitude":42.370884,
+    "geom:longitude":-82.952723,
+    "iso:country":"US",
+    "sg:address":"900 Dickerson St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 822 8820",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85891667,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GRDY31sihvgARBiGSwNpp_42.370884_-82.952723@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812540,
+    "wof:geomhash":"eb9ea3cc80af6616c9bc22080bf10f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722486379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":722486379
+        }
+    ],
+    "wof:id":722486379,
+    "wof:lastmodified":1461812540,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.952723,
+    42.370884,
+    -82.952723,
+    42.370884
+],
+  "geometry": {"coordinates":[-82.95272300000001,42.370884],"type":"Point"}
+}

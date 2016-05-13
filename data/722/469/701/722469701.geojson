@@ -1,0 +1,73 @@
+{
+  "id": 722469701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.183601,42.144402,-83.183601,42.144402",
+    "geom:latitude":42.144402,
+    "geom:longitude":-83.183601,
+    "iso:country":"US",
+    "sg:address":"734 Elm St",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 692 1350",
+    "sg:postcode":"48183",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85896835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6glwwpZzBKiQn7Nr0bDLKP_42.144402_-83.183601@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811851,
+    "wof:geomhash":"8718b87785f8f98ae781fcb4785edd31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85896835,
+            "region_id":85688599,
+            "venue_id":722469701
+        }
+    ],
+    "wof:id":722469701,
+    "wof:lastmodified":1461811851,
+    "wof:name":"Professional Auto Body",
+    "wof:parent_id":85896835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.183601,
+    42.144402,
+    -83.183601,
+    42.144402
+],
+  "geometry": {"coordinates":[-83.183601,42.144402],"type":"Point"}
+}

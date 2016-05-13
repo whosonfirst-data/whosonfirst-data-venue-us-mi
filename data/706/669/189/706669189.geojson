@@ -1,0 +1,71 @@
+{
+  "id": 706669189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.219597,42.553699,-83.219597,42.553699",
+    "geom:latitude":42.553699,
+    "geom:longitude":-83.219597,
+    "iso:country":"US",
+    "sg:address":"900 N Old Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 6230",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_598zVqdxV6s4sDnPgQodWU_42.554192_-83.220196@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808830,
+    "wof:geomhash":"56920f4bd0678e53b4fdad227aebde4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":706669189
+        }
+    ],
+    "wof:id":706669189,
+    "wof:lastmodified":1461808830,
+    "wof:name":"Douglas Cleaners",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -83.219597,
+    42.553699,
+    -83.219597,
+    42.553699
+],
+  "geometry": {"coordinates":[-83.21959699999999,42.553699],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 722483975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.109596,42.3283,-83.109596,42.3283",
+    "geom:latitude":42.3283,
+    "geom:longitude":-83.109596,
+    "iso:country":"US",
+    "sg:address":"3301 Junction St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 897 4880",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YLgf01r0gGutAY9Z2bbzC_42.328300_-83.109596@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812451,
+    "wof:geomhash":"e54377db85e98934fd948ad9483dbc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722483975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870603,
+            "region_id":85688599,
+            "venue_id":722483975
+        }
+    ],
+    "wof:id":722483975,
+    "wof:lastmodified":1461812451,
+    "wof:name":"St Hedwig Flower & Gift Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.109596,
+    42.3283,
+    -83.109596,
+    42.3283
+],
+  "geometry": {"coordinates":[-83.109596,42.3283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706209257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511767,42.648874,-84.511767,42.648874",
+    "geom:latitude":42.648874,
+    "geom:longitude":-84.511767,
+    "iso:country":"US",
+    "sg:address":"2345 Jarco Dr",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 8700",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SUriB1PYtrw1YaxZgM7nC_42.648874_-84.511767@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798267,
+    "wof:geomhash":"0e35a956e43a1e16530e6c9720779f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706209257
+        }
+    ],
+    "wof:id":706209257,
+    "wof:lastmodified":1461798267,
+    "wof:name":"Quality Electric Inc",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.511767,
+    42.648874,
+    -84.511767,
+    42.648874
+],
+  "geometry": {"coordinates":[-84.51176700000001,42.648874],"type":"Point"}
+}

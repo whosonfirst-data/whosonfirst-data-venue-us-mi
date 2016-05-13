@@ -1,0 +1,71 @@
+{
+  "id": 689905447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.460299,42.276426,-84.460299,42.276426",
+    "geom:latitude":42.276426,
+    "geom:longitude":-84.460299,
+    "iso:country":"US",
+    "sg:address":"3195 County Farm Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 2033",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FBLL1L9qYT6e54XC9op41_42.276426_-84.460299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784719,
+    "wof:geomhash":"8a3a381462f8cd2ca285a68cb593b0c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689905447
+        }
+    ],
+    "wof:id":689905447,
+    "wof:lastmodified":1461784719,
+    "wof:name":"Blue Bay Storage",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.460299,
+    42.276426,
+    -84.460299,
+    42.276426
+],
+  "geometry": {"coordinates":[-84.46029900000001,42.276426],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 706042105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.62016,44.764141,-85.62016,44.764141",
+    "geom:latitude":44.764141,
+    "geom:longitude":-85.62016,
+    "iso:country":"US",
+    "sg:address":"243 E Front St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 7290",
+    "sg:postcode":"49686",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.horizonbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sk1Q1GgTsCTDGTs00DSJO_44.764141_-85.620160@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794444,
+    "wof:geomhash":"d6747d28acf5383a7138a8cd7a8e7dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706042105
+        }
+    ],
+    "wof:id":706042105,
+    "wof:lastmodified":1461794444,
+    "wof:name":"Horizon Books",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.62016,
+    44.764141,
+    -85.62016,
+    44.764141
+],
+  "geometry": {"coordinates":[-85.62016,44.764141],"type":"Point"}
+}

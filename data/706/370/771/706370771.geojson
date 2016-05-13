@@ -1,0 +1,71 @@
+{
+  "id": 706370771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.934462,43.063625,-85.934462,43.063625",
+    "geom:latitude":43.063625,
+    "geom:longitude":-85.934462,
+    "iso:country":"US",
+    "sg:address":"276 Main St",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 6728",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tkc1k9nKcciz1nDc3PXAp_43.063625_-85.934462@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801825,
+    "wof:geomhash":"ab9be14973c924fd34095f0045231271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706370771
+        }
+    ],
+    "wof:id":706370771,
+    "wof:lastmodified":1461801825,
+    "wof:name":"Courtade Body Shop",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.934462,
+    43.063625,
+    -85.934462,
+    43.063625
+],
+  "geometry": {"coordinates":[-85.934462,43.063625],"type":"Point"}
+}

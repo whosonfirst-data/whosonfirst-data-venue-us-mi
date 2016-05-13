@@ -1,0 +1,71 @@
+{
+  "id": 689863813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491404,42.033633,-86.491404,42.033633",
+    "geom:latitude":42.033633,
+    "geom:longitude":-86.491404,
+    "iso:country":"US",
+    "sg:address":"1565 Cardinal Dr",
+    "sg:city":"Saint Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 3048",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05AYJg8VCmHeNsG8JwIVGA_42.033633_-86.491404@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783610,
+    "wof:geomhash":"d999e36359bb3b65c497aa2274d086f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":689863813
+        }
+    ],
+    "wof:id":689863813,
+    "wof:lastmodified":1461783610,
+    "wof:name":"Subway",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.491404,
+    42.033633,
+    -86.491404,
+    42.033633
+],
+  "geometry": {"coordinates":[-86.491404,42.033633],"type":"Point"}
+}

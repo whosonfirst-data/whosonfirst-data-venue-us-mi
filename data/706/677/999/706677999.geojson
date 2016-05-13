@@ -1,0 +1,72 @@
+{
+  "id": 706677999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.465871,42.35882,-83.465871,42.35882",
+    "geom:latitude":42.35882,
+    "geom:longitude":-83.465871,
+    "iso:country":"US",
+    "sg:address":"575 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plymouth/210707-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 6765",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TWx06COCuC41LcaZ1YK4h_42.358820_-83.465871@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809208,
+    "wof:geomhash":"25fde5672404e37d2e7d5a1f946bbe5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706677999
+        }
+    ],
+    "wof:id":706677999,
+    "wof:lastmodified":1461809208,
+    "wof:name":"Arby's",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.465871,
+    42.35882,
+    -83.465871,
+    42.35882
+],
+  "geometry": {"coordinates":[-83.46587100000001,42.35882],"type":"Point"}
+}

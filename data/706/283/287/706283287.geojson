@@ -1,0 +1,73 @@
+{
+  "id": 706283287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.263108,42.606985,-83.263108,42.606985",
+    "geom:latitude":42.606985,
+    "geom:longitude":-83.263108,
+    "iso:country":"US",
+    "sg:address":"1948 Devonshire Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 333 3933",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UO4qSrTW8BZs3kcdffFMq_42.606985_-83.263108@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799922,
+    "wof:geomhash":"4b320a93fd33eb1b9401ea24dca7ed2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":706283287
+        }
+    ],
+    "wof:id":706283287,
+    "wof:lastmodified":1461799922,
+    "wof:name":"Able Hauling",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.263108,
+    42.606985,
+    -83.263108,
+    42.606985
+],
+  "geometry": {"coordinates":[-83.263108,42.606985],"type":"Point"}
+}

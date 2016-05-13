@@ -1,0 +1,72 @@
+{
+  "id": 706686549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.542535,42.912682,-85.542535,42.912682",
+    "geom:latitude":42.912682,
+    "geom:longitude":-85.542535,
+    "iso:country":"US",
+    "sg:address":"5100 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cascade/125615-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 975 0805",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48jpHN8liNYbZwpjpVl31p_42.912682_-85.542535@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809540,
+    "wof:geomhash":"042c6255665db6d6380577c90641a909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686549
+        }
+    ],
+    "wof:id":706686549,
+    "wof:lastmodified":1461809540,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.542535,
+    42.912682,
+    -85.542535,
+    42.912682
+],
+  "geometry": {"coordinates":[-85.542535,42.912682],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706683811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.580886,42.294559,-85.580886,42.294559",
+    "geom:latitude":42.294559,
+    "geom:longitude":-85.580886,
+    "iso:country":"US",
+    "sg:address":"242 E Kalamazoo Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/272612-sushiya/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 7340",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878449,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55unQDl4yxTcAszV5scpLo_42.294559_-85.580886@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809439,
+    "wof:geomhash":"d9640b92445b53f3274464f776b10bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85878449,
+            "region_id":85688599,
+            "venue_id":706683811
+        }
+    ],
+    "wof:id":706683811,
+    "wof:lastmodified":1461809439,
+    "wof:name":"Sushiya",
+    "wof:parent_id":85878449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -85.580886,
+    42.294559,
+    -85.580886,
+    42.294559
+],
+  "geometry": {"coordinates":[-85.58088600000001,42.294559],"type":"Point"}
+}

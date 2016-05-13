@@ -1,0 +1,82 @@
+{
+  "id": 722503469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.038899,42.330201,-83.038899,42.330201",
+    "geom:latitude":42.330201,
+    "geom:longitude":-83.038899,
+    "iso:country":"US",
+    "sg:address":"200 Renaissance Center",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 247 2559",
+    "sg:postcode":"48243",
+    "sg:province":"MI",
+    "sg:website":"www.ally.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UXcQYkeffY4ggZLlJweAn_42.330201_-83.038899@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813204,
+    "wof:geomhash":"a64ed72b909636dd13fcd73e973a56a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":722503469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":722503469
+        }
+    ],
+    "wof:id":722503469,
+    "wof:lastmodified":1461813204,
+    "wof:name":"Ally Financial Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.038899,
+    42.330201,
+    -83.038899,
+    42.330201
+],
+  "geometry": {"coordinates":[-83.038899,42.330201],"type":"Point"}
+}

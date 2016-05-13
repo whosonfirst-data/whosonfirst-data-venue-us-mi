@@ -1,0 +1,73 @@
+{
+  "id": 706408057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.052051,45.745839,-87.052051,45.745839",
+    "geom:latitude":45.745839,
+    "geom:longitude":-87.052051,
+    "iso:country":"US",
+    "sg:address":"310 Ludington St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 6568",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xKdVjlmhqmYgN4A0hSQ0z_45.745839_-87.052051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802559,
+    "wof:geomhash":"a791f060b9aec03481235b4a4933d566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706408057
+        }
+    ],
+    "wof:id":706408057,
+    "wof:lastmodified":1461802559,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -87.052051,
+    45.745839,
+    -87.052051,
+    45.745839
+],
+  "geometry": {"coordinates":[-87.05205100000001,45.745839],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706442795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.985641,42.423026,-82.985641,42.423026",
+    "geom:latitude":42.423026,
+    "geom:longitude":-82.985641,
+    "iso:country":"US",
+    "sg:address":"13118 Gratiot Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 371 0800",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870561,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K0NRP2dvrsquRg3s7vwI9_42.423026_-82.985641@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803281,
+    "wof:geomhash":"a426b24751191fdbf8cfc1e6f8e532cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870561,
+            "region_id":85688599,
+            "venue_id":706442795
+        }
+    ],
+    "wof:id":706442795,
+    "wof:lastmodified":1461803281,
+    "wof:name":"Imperial Transmission",
+    "wof:parent_id":85870561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -82.985641,
+    42.423026,
+    -82.985641,
+    42.423026
+],
+  "geometry": {"coordinates":[-82.985641,42.423026],"type":"Point"}
+}

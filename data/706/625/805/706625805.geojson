@@ -1,0 +1,71 @@
+{
+  "id": 706625805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.536146,42.663202,-84.536146,42.663202",
+    "geom:latitude":42.663202,
+    "geom:longitude":-84.536146,
+    "iso:country":"US",
+    "sg:address":"6520 Mercantile Way",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 887 8903",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UKRKVCpYbzDJzASWNRujN_42.663202_-84.536146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807267,
+    "wof:geomhash":"c0b5bb42cb9cc26fd83e613fcec53510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706625805
+        }
+    ],
+    "wof:id":706625805,
+    "wof:lastmodified":1461807267,
+    "wof:name":"US Geological Survey",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -84.536146,
+    42.663202,
+    -84.536146,
+    42.663202
+],
+  "geometry": {"coordinates":[-84.536146,42.663202],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706302731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.404739,44.256952,-85.404739,44.256952",
+    "geom:latitude":44.256952,
+    "geom:longitude":-85.404739,
+    "iso:country":"US",
+    "sg:address":"838 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 4629",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EHnbhjs4IuvY4R9FhKxT6_44.256952_-85.404739@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800360,
+    "wof:geomhash":"73cab1b1e313993ba045ea705b9282f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706302731
+        }
+    ],
+    "wof:id":706302731,
+    "wof:lastmodified":1461800360,
+    "wof:name":"Wonder Hostess",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.404739,
+    44.256952,
+    -85.404739,
+    44.256952
+],
+  "geometry": {"coordinates":[-85.40473900000001,44.256952],"type":"Point"}
+}

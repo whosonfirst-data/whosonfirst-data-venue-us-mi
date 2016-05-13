@@ -1,0 +1,71 @@
+{
+  "id": 689620693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.22424,43.228587,-86.22424,43.228587",
+    "geom:latitude":43.228587,
+    "geom:longitude":-86.22424,
+    "iso:country":"US",
+    "sg:address":"1320 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9461",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QCJ8mF8tJd0epUST5rm7b_43.228587_-86.224240@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776909,
+    "wof:geomhash":"22f5227af1d2a8008445857698e147cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689620693
+        }
+    ],
+    "wof:id":689620693,
+    "wof:lastmodified":1461776909,
+    "wof:name":"D C Collision",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.22424,
+    43.228587,
+    -86.22424,
+    43.228587
+],
+  "geometry": {"coordinates":[-86.22423999999999,43.228587],"type":"Point"}
+}

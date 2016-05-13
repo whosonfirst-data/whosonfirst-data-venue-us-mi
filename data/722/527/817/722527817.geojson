@@ -1,0 +1,81 @@
+{
+  "id": 722527817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.386888,41.827282,-86.386888,41.827282",
+    "geom:latitude":41.827282,
+    "geom:longitude":-86.386888,
+    "iso:country":"US",
+    "sg:address":"3251 W Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 6505",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "television",
+        "radio-service",
+        "audio-visual"
+    ],
+    "sg:website":"http://www.vancetek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uruWuPNJL1FEv5nH96dWE_41.827282_-86.386888@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814318,
+    "wof:geomhash":"c25a0c17f75326713309161b0e96b4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":722527817
+        }
+    ],
+    "wof:id":722527817,
+    "wof:lastmodified":1461814318,
+    "wof:name":"Vancetek",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio-service",
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    -86.386888,
+    41.827282,
+    -86.386888,
+    41.827282
+],
+  "geometry": {"coordinates":[-86.386888,41.827282],"type":"Point"}
+}

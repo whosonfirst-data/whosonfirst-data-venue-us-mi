@@ -1,0 +1,72 @@
+{
+  "id": 706675747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.455852,43.024053,-82.455852,43.024053",
+    "geom:latitude":43.024053,
+    "geom:longitude":-82.455852,
+    "iso:country":"US",
+    "sg:address":"3977 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/port-huron/208678-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 1673",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38PZWplDtWmqn0Kn3goANZ_43.024053_-82.455852@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809106,
+    "wof:geomhash":"30bbb95bf0ac0aec87e0ca96dfea23d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706675747
+        }
+    ],
+    "wof:id":706675747,
+    "wof:lastmodified":1461809106,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.455852,
+    43.024053,
+    -82.455852,
+    43.024053
+],
+  "geometry": {"coordinates":[-82.45585199999999,43.024053],"type":"Point"}
+}

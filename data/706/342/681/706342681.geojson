@@ -1,0 +1,73 @@
+{
+  "id": 706342681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.060844,45.820189,-88.060844,45.820189",
+    "geom:latitude":45.820189,
+    "geom:longitude":-88.060844,
+    "iso:country":"US",
+    "sg:address":"301 Madison St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 6007",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UtfTbxrrwELB7Lr8dUeni_45.820189_-88.060844@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801259,
+    "wof:geomhash":"bd17a9840bc20073ff262cad382d3cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706342681
+        }
+    ],
+    "wof:id":706342681,
+    "wof:lastmodified":1461801259,
+    "wof:name":"Hulst Manor",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.060844,
+    45.820189,
+    -88.060844,
+    45.820189
+],
+  "geometry": {"coordinates":[-88.060844,45.820189],"type":"Point"}
+}

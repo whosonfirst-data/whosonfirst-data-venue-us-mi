@@ -1,0 +1,71 @@
+{
+  "id": 705911323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261865,41.95613,-86.261865,41.95613",
+    "geom:latitude":41.95613,
+    "geom:longitude":-86.261865,
+    "iso:country":"US",
+    "sg:address":"8940 Painter School Rd",
+    "sg:city":"Berrien Center",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 4143",
+    "sg:postcode":"49102",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ADeeWeYpArIODM91K3RW3_41.956130_-86.261865@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791662,
+    "wof:geomhash":"2cd4966dbaf77d057ffdb3adf7d580ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705911323
+        }
+    ],
+    "wof:id":705911323,
+    "wof:lastmodified":1461791662,
+    "wof:name":"Cardiovascular Diseases",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.261865,
+    41.95613,
+    -86.261865,
+    41.95613
+],
+  "geometry": {"coordinates":[-86.261865,41.95613],"type":"Point"}
+}

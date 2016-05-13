@@ -1,0 +1,71 @@
+{
+  "id": 706700761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.896797,42.5867,-82.896797,42.5867",
+    "geom:latitude":42.5867,
+    "geom:longitude":-82.896797,
+    "iso:country":"US",
+    "sg:address":"1030 Harrington St",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 8634",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_457VzkFc4OGniQ0zAQnZs6_42.586700_-82.896797@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810112,
+    "wof:geomhash":"7411d25f43d4c6f16e4f4fac2225a234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706700761
+        }
+    ],
+    "wof:id":706700761,
+    "wof:lastmodified":1461810112,
+    "wof:name":"Southeastern Michigan Cardiac Surgeons",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -82.896797,
+    42.5867,
+    -82.896797,
+    42.5867
+],
+  "geometry": {"coordinates":[-82.89679700000001,42.5867],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689519307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.561312,42.901654,-85.561312,42.901654",
+    "geom:latitude":42.901654,
+    "geom:longitude":-85.561312,
+    "iso:country":"US",
+    "sg:address":"4243 Forest Creek Ct SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 1548",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYFbl2moRMkTra31orOJw_42.901654_-85.561312@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773663,
+    "wof:geomhash":"13079144b9cbee9a8184a6df04d9685e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689519307
+        }
+    ],
+    "wof:id":689519307,
+    "wof:lastmodified":1461773663,
+    "wof:name":"Eastland Apartments",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.561312,
+    42.901654,
+    -85.561312,
+    42.901654
+],
+  "geometry": {"coordinates":[-85.561312,42.901654],"type":"Point"}
+}

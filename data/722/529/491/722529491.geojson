@@ -1,0 +1,93 @@
+{
+  "id": 722529491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.836569,42.885401,-85.836569,42.885401",
+    "geom:latitude":42.885401,
+    "geom:longitude":-85.836569,
+    "iso:country":"US",
+    "sg:address":"6418 Center Industrial Dr",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 0501",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ],
+    "sg:website":"http://www.ChicagoDriveVet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HX09aWzFWd3qs5YREHoRY_42.885401_-85.836569@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814388,
+    "wof:geomhash":"fe9a367f7a668d2d47c9a8e68ded1edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":722529491
+        }
+    ],
+    "wof:id":722529491,
+    "wof:lastmodified":1461814388,
+    "wof:name":"Chicago Drive Veterinary Clinic",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -85.836569,
+    42.885401,
+    -85.836569,
+    42.885401
+],
+  "geometry": {"coordinates":[-85.836569,42.885401],"type":"Point"}
+}

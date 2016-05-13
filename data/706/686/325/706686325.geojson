@@ -1,0 +1,86 @@
+{
+  "id": 706686325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.611226,42.883785,-85.611226,42.883785",
+    "geom:latitude":42.883785,
+    "geom:longitude":-85.611226,
+    "iso:country":"US",
+    "sg:address":"2215 44th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/17682-village-inn-pizza-parlor/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 977 9988",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "burger",
+        "american",
+        "wrap",
+        "pizza",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lihlw7LCtfSHPSUJetwDW_42.883785_-85.611226@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809532,
+    "wof:geomhash":"2d71d3debb9e09fef41a3ad546f8f27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706686325
+        }
+    ],
+    "wof:id":706686325,
+    "wof:lastmodified":1461809532,
+    "wof:name":"Village Inn Pizza Parlor",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "burger",
+        "american",
+        "wrap",
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.611226,
+    42.883785,
+    -85.611226,
+    42.883785
+],
+  "geometry": {"coordinates":[-85.611226,42.883785],"type":"Point"}
+}

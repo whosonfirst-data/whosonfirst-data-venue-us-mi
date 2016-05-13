@@ -1,0 +1,73 @@
+{
+  "id": 689569685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.944866,43.467195,-85.944866,43.467195",
+    "geom:latitude":43.467195,
+    "geom:longitude":-85.944866,
+    "iso:country":"US",
+    "sg:address":"5 E Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3901",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67o1byVvKt3AR36rGkXqE1_43.467195_-85.944866@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775282,
+    "wof:geomhash":"4394d88762d5474d67ed1eb372cb087d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689569685
+        }
+    ],
+    "wof:id":689569685,
+    "wof:lastmodified":1461775282,
+    "wof:name":"Empowerment Network",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.944866,
+    43.467195,
+    -85.944866,
+    43.467195
+],
+  "geometry": {"coordinates":[-85.944866,43.467195],"type":"Point"}
+}

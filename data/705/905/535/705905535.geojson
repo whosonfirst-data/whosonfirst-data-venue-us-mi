@@ -1,0 +1,88 @@
+{
+  "id": 705905535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080123,42.367474,-83.080123,42.367474",
+    "geom:latitude":42.367474,
+    "geom:longitude":-83.080123,
+    "iso:country":"US",
+    "sg:address":"2888 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 5218",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870585,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mCynapjtGg3UTfAmq7h3j_42.367474_-83.080123@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791532,
+    "wof:geomhash":"42053b8c7002670918a1608380cb4094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":705905535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":705905535
+        }
+    ],
+    "wof:id":705905535,
+    "wof:lastmodified":1461791532,
+    "wof:name":"Well Ness Tian",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.080123,
+    42.367474,
+    -83.080123,
+    42.367474
+],
+  "geometry": {"coordinates":[-83.080123,42.367474],"type":"Point"}
+}

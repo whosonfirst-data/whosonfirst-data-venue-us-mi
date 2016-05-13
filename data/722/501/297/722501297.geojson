@@ -1,0 +1,77 @@
+{
+  "id": 722501297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.172203,42.452801,-83.172203,42.452801",
+    "geom:latitude":42.452801,
+    "geom:longitude":-83.172203,
+    "iso:country":"US",
+    "sg:address":"12700 Northend Ave",
+    "sg:city":"Oak Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 399 8400",
+    "sg:postcode":"48237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896733,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8ZwFaIB4AjEVYh7yYtjz_42.452801_-83.172203@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813124,
+    "wof:geomhash":"ef323dd8e782732bcd9f8a4c7274442d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":85896733,
+            "region_id":85688599,
+            "venue_id":722501297
+        }
+    ],
+    "wof:id":722501297,
+    "wof:lastmodified":1461813124,
+    "wof:name":"Northend Collision Shop",
+    "wof:parent_id":85896733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.172203,
+    42.452801,
+    -83.172203,
+    42.452801
+],
+  "geometry": {"coordinates":[-83.172203,42.452801],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 689531923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.827283,42.892533,-85.827283,42.892533",
+    "geom:latitude":42.892533,
+    "geom:longitude":-85.827283,
+    "iso:country":"US",
+    "sg:address":"6742 18th Ave",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 3170",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dock"
+    ],
+    "sg:website":"www.harbor-master.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yQniVrKjH9JSrjzHHRMvL_42.892533_-85.827283@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774142,
+    "wof:geomhash":"9f7ac49935ae65e63b50091553969635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":689531923
+        }
+    ],
+    "wof:id":689531923,
+    "wof:lastmodified":1461774142,
+    "wof:name":"Harbor Master",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -85.827283,
+    42.892533,
+    -85.827283,
+    42.892533
+],
+  "geometry": {"coordinates":[-85.82728299999999,42.892533],"type":"Point"}
+}

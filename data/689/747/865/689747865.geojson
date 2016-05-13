@@ -1,0 +1,81 @@
+{
+  "id": 689747865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.682474,42.985043,-85.682474,42.985043",
+    "geom:latitude":42.985043,
+    "geom:longitude":-85.682474,
+    "iso:country":"US",
+    "sg:address":"555 Leonard St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 742 1071",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877903,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cbJbEXjVFJe9e17Cq9GWO_42.985043_-85.682474@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780397,
+    "wof:geomhash":"57f2091d72c8465430cfc102874b68b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877903,
+            "region_id":85688599,
+            "venue_id":689747865
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877927,
+            "region_id":85688599,
+            "venue_id":689747865
+        }
+    ],
+    "wof:id":689747865,
+    "wof:lastmodified":1461780397,
+    "wof:name":"Citgo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.682474,
+    42.985043,
+    -85.682474,
+    42.985043
+],
+  "geometry": {"coordinates":[-85.682474,42.985043],"type":"Point"}
+}

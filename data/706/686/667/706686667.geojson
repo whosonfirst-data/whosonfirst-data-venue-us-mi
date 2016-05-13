@@ -1,0 +1,76 @@
+{
+  "id": 706686667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689005,43.019143,-85.689005,43.019143",
+    "geom:latitude":43.019143,
+    "geom:longitude":-85.689005,
+    "iso:country":"US",
+    "sg:address":"3030 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/walker/59259-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 785 0087",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877929,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iPSC8NuGDGtsM2npUr380_43.019143_-85.689005@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809544,
+    "wof:geomhash":"c0a09dabd8a3f9e0a258ae4c2c23b3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877929,
+            "region_id":85688599,
+            "venue_id":706686667
+        }
+    ],
+    "wof:id":706686667,
+    "wof:lastmodified":1461809544,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85877929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.689005,
+    43.019143,
+    -85.689005,
+    43.019143
+],
+  "geometry": {"coordinates":[-85.68900499999999,43.019143],"type":"Point"}
+}

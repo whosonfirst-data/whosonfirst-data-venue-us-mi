@@ -1,0 +1,75 @@
+{
+  "id": 705759313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.215498,42.369677,-83.215498,42.369677",
+    "geom:latitude":42.369677,
+    "geom:longitude":-83.215498,
+    "iso:country":"US",
+    "sg:address":"10028 Archdale St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 835 1024",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870495,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HG3l98BIk87AH9ovKRpGu_42.369677_-83.215498@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788076,
+    "wof:geomhash":"6e7e295d916333eca1feeaff337cefa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870495,
+            "region_id":85688599,
+            "venue_id":705759313
+        }
+    ],
+    "wof:id":705759313,
+    "wof:lastmodified":1461788076,
+    "wof:name":"Mels House of Repairs",
+    "wof:parent_id":85870495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.215498,
+    42.369677,
+    -83.215498,
+    42.369677
+],
+  "geometry": {"coordinates":[-83.215498,42.369677],"type":"Point"}
+}

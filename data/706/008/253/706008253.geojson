@@ -1,0 +1,71 @@
+{
+  "id": 706008253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280471,42.686267,-84.280471,42.686267",
+    "geom:latitude":42.686267,
+    "geom:longitude":-84.280471,
+    "iso:country":"US",
+    "sg:address":"315 White St",
+    "sg:city":"Williamston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 655 3243",
+    "sg:postcode":"48895",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qAm5gHaAe9azDPaUl8QXs_42.686267_-84.280471@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793756,
+    "wof:geomhash":"498c8286b7f5a163f9cd23783a05caab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706008253
+        }
+    ],
+    "wof:id":706008253,
+    "wof:lastmodified":1461793756,
+    "wof:name":"Quality Office Cleaning",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.280471,
+    42.686267,
+    -84.280471,
+    42.686267
+],
+  "geometry": {"coordinates":[-84.28047100000001,42.686267],"type":"Point"}
+}

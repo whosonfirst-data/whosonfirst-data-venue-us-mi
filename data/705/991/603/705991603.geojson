@@ -1,0 +1,72 @@
+{
+  "id": 705991603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.939869,43.189289,-85.939869,43.189289",
+    "geom:latitude":43.189289,
+    "geom:longitude":-85.939869,
+    "iso:country":"US",
+    "sg:address":"12322 Stafford St",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 2258",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.ravenna.k12.mi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OypUS2zKqmcNffLNoZ3Lh_43.189289_-85.939869@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793402,
+    "wof:geomhash":"89a897ffe111d3e729cfcd8a51d27858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705991603
+        }
+    ],
+    "wof:id":705991603,
+    "wof:lastmodified":1461793402,
+    "wof:name":"Beechnau Elementary School",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -85.939869,
+    43.189289,
+    -85.939869,
+    43.189289
+],
+  "geometry": {"coordinates":[-85.939869,43.189289],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 706163035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.413428,41.918857,-83.413428,41.918857",
+    "geom:latitude":41.918857,
+    "geom:longitude":-83.413428,
+    "iso:country":"US",
+    "sg:address":"521 Cooper St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 2311",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865277,
+        102191575,
+        404508973,
+        85633793,
+        85952215,
+        102083117,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yiUY9XcUoIQyZvkgLobpI_41.918857_-83.413428@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797273,
+    "wof:geomhash":"684196a1d6138b5d84735639e9118be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083117,
+            "localadmin_id":404508973,
+            "locality_id":85952215,
+            "neighbourhood_id":85865277,
+            "region_id":85688599,
+            "venue_id":706163035
+        }
+    ],
+    "wof:id":706163035,
+    "wof:lastmodified":1461797273,
+    "wof:name":"Kelly's Automotive",
+    "wof:parent_id":85865277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.413428,
+    41.918857,
+    -83.413428,
+    41.918857
+],
+  "geometry": {"coordinates":[-83.413428,41.918857],"type":"Point"}
+}

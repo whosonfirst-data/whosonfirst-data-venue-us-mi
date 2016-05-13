@@ -1,0 +1,69 @@
+{
+  "id": 705787423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.994011,43.485892,-83.994011,43.485892",
+    "geom:latitude":43.485892,
+    "geom:longitude":-83.994011,
+    "iso:country":"US",
+    "sg:address":"5400 Mackinaw Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 583 5260",
+    "sg:postcode":"48604",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmYTi7yJkd8Ex1Am0g3ba_43.485892_-83.994011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788740,
+    "wof:geomhash":"405fd2ad2ef36233784f550b2cee8e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705787423
+        }
+    ],
+    "wof:id":705787423,
+    "wof:lastmodified":1461788740,
+    "wof:name":"Breast Diagnostic Ctr",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.994011,
+    43.485892,
+    -83.994011,
+    43.485892
+],
+  "geometry": {"coordinates":[-83.994011,43.485892],"type":"Point"}
+}

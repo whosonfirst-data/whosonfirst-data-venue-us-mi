@@ -1,0 +1,70 @@
+{
+  "id": 689678345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.450126,47.25001,-88.450126,47.25001",
+    "geom:latitude":47.25001,
+    "geom:longitude":-88.450126,
+    "iso:country":"US",
+    "sg:address":"422 Pine St",
+    "sg:city":"Calumet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 337 0763",
+    "sg:postcode":"49913",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty"
+    ],
+    "sg:website":"www.phoenixhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851683,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zYfNQbN0sFdFunQSyCerd_47.250010_-88.450126@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778580,
+    "wof:geomhash":"0bb64ac036aa22a3ccc06ae73732bd70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85851683,
+            "region_id":85688599,
+            "venue_id":689678345
+        }
+    ],
+    "wof:id":689678345,
+    "wof:lastmodified":1461778580,
+    "wof:name":"Phoenix House Inc",
+    "wof:parent_id":85851683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -88.450126,
+    47.25001,
+    -88.450126,
+    47.25001
+],
+  "geometry": {"coordinates":[-88.450126,47.25001],"type":"Point"}
+}

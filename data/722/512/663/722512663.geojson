@@ -1,0 +1,85 @@
+{
+  "id": 722512663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.35513,42.586892,-83.35513,42.586892",
+    "geom:latitude":42.586892,
+    "geom:longitude":-83.35513,
+    "iso:country":"US",
+    "sg:address":"3828 Orchard Lake Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 681 3007",
+    "sg:postcode":"48324",
+    "sg:province":"MI",
+    "sg:tags":[
+        "interior",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wq8OAqL4oTdiPYRRnnIDV_42.586892_-83.355130@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813592,
+    "wof:geomhash":"7bfba909d4b5b90db28600cf2144f015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512663
+        }
+    ],
+    "wof:id":722512663,
+    "wof:lastmodified":1461813592,
+    "wof:name":"Petrella Designs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "design"
+    ]
+},
+  "bbox": [
+    -83.35513,
+    42.586892,
+    -83.35513,
+    42.586892
+],
+  "geometry": {"coordinates":[-83.35513,42.586892],"type":"Point"}
+}

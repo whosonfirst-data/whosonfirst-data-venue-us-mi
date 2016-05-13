@@ -1,0 +1,71 @@
+{
+  "id": 705899543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.359952,42.239902,-84.359952,42.239902",
+    "geom:latitude":42.239902,
+    "geom:longitude":-84.359952,
+    "iso:country":"US",
+    "sg:address":"3255 Page Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 7722",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j6qdQ0OP2kuNHoNYqBMsC_42.239902_-84.359952@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791406,
+    "wof:geomhash":"7e6ea3d1d8c3f2dabb48a513e8ca57ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705899543
+        }
+    ],
+    "wof:id":705899543,
+    "wof:lastmodified":1461791406,
+    "wof:name":"Center Self-Storage",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.359952,
+    42.239902,
+    -84.359952,
+    42.239902
+],
+  "geometry": {"coordinates":[-84.35995200000001,42.239902],"type":"Point"}
+}

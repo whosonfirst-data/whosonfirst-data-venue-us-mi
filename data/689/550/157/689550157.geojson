@@ -1,0 +1,71 @@
+{
+  "id": 689550157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.338278,41.947725,-86.338278,41.947725",
+    "geom:latitude":41.947725,
+    "geom:longitude":-86.338278,
+    "iso:country":"US",
+    "sg:address":"108 N Main St",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 3220",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KwRaMVQcjywyoR5jkhtWi_41.947725_-86.338278@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774721,
+    "wof:geomhash":"55d4dc4479269988a81b216c7db716ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689550157
+        }
+    ],
+    "wof:id":689550157,
+    "wof:lastmodified":1461774721,
+    "wof:name":"Fenner Plumbing Inc",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.338278,
+    41.947725,
+    -86.338278,
+    41.947725
+],
+  "geometry": {"coordinates":[-86.338278,41.947725],"type":"Point"}
+}

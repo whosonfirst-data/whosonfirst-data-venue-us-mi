@@ -1,0 +1,71 @@
+{
+  "id": 689936783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.066771,45.822057,-88.066771,45.822057",
+    "geom:latitude":45.822057,
+    "geom:longitude":-88.066771,
+    "iso:country":"US",
+    "sg:address":"111 E Fleshiem St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 1234",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ABkmIoZl6paxAaQAVRw3l_45.822057_-88.066771@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785533,
+    "wof:geomhash":"8f7344e86378f8c1b5a74bb34490d575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689936783
+        }
+    ],
+    "wof:id":689936783,
+    "wof:lastmodified":1461785533,
+    "wof:name":"Iron Mountain Police Dept",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.066771,
+    45.822057,
+    -88.066771,
+    45.822057
+],
+  "geometry": {"coordinates":[-88.066771,45.822057],"type":"Point"}
+}

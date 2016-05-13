@@ -1,0 +1,69 @@
+{
+  "id": 706089065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418555,42.7231,-83.418555,42.7231",
+    "geom:latitude":42.7231,
+    "geom:longitude":-83.418555,
+    "iso:country":"US",
+    "sg:address":"5904 S Main St",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 620 4734",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qPCCbmfYtfPpocm17nmlu_42.723100_-83.418555@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795553,
+    "wof:geomhash":"e8bcfb0fecfed9a9de68a4a82ccbba6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706089065
+        }
+    ],
+    "wof:id":706089065,
+    "wof:lastmodified":1461795553,
+    "wof:name":"Clarkston Animal Medical Ctr",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.418555,
+    42.7231,
+    -83.418555,
+    42.7231
+],
+  "geometry": {"coordinates":[-83.418555,42.7231],"type":"Point"}
+}

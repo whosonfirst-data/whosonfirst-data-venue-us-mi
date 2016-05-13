@@ -1,0 +1,101 @@
+{
+  "id": 722529425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.107845,42.826665,-86.107845,42.826665",
+    "geom:latitude":42.826665,
+    "geom:longitude":-86.107845,
+    "iso:country":"US",
+    "sg:address":"3225 132nd Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 796 2275",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "sitting",
+        "dog",
+        "cat",
+        "grooming",
+        "exercising",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lqxOmIc67wxzcmde43vrw_42.826665_-86.107845@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814386,
+    "wof:geomhash":"b06fb26d28e2b84241d854ca3df455bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":722529425
+        }
+    ],
+    "wof:id":722529425,
+    "wof:lastmodified":1461814386,
+    "wof:name":"Canine Antic",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "sitting",
+        "dog",
+        "cat",
+        "grooming",
+        "exercising",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -86.107845,
+    42.826665,
+    -86.107845,
+    42.826665
+],
+  "geometry": {"coordinates":[-86.107845,42.826665],"type":"Point"}
+}

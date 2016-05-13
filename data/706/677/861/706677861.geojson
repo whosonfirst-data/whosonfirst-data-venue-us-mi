@@ -1,0 +1,72 @@
+{
+  "id": 706677861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.413582,41.898265,-83.413582,41.898265",
+    "geom:latitude":41.898265,
+    "geom:longitude":-83.413582,
+    "iso:country":"US",
+    "sg:address":"15355 S Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/monroe/176542-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 6681",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EC9nXejEzCBbVKNIf89zU_41.898265_-83.413582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809203,
+    "wof:geomhash":"af4cc1bba49ab532b178dc3d8c9c2f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706677861
+        }
+    ],
+    "wof:id":706677861,
+    "wof:lastmodified":1461809203,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -83.413582,
+    41.898265,
+    -83.413582,
+    41.898265
+],
+  "geometry": {"coordinates":[-83.41358200000001,41.898265],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689770985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.48504,43.038717,-82.48504,43.038717",
+    "geom:latitude":43.038717,
+    "geom:longitude":-82.48504,
+    "iso:country":"US",
+    "sg:address":"3720 Keewahdin Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 5666",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DvKgEr31c8xKh96wkYvpd_43.038717_-82.485040@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781035,
+    "wof:geomhash":"f16b61c9ba3fba98114ccf66dbb2986c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689770985
+        }
+    ],
+    "wof:id":689770985,
+    "wof:lastmodified":1461781035,
+    "wof:name":"Fort Gratiot Charter Fire Dept",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.48504,
+    43.038717,
+    -82.48504,
+    43.038717
+],
+  "geometry": {"coordinates":[-82.48504,43.038717],"type":"Point"}
+}

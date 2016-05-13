@@ -1,0 +1,77 @@
+{
+  "id": 689537879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.479184,43.073447,-83.479184,43.073447",
+    "geom:latitude":43.073447,
+    "geom:longitude":-83.479184,
+    "iso:country":"US",
+    "sg:address":"4321 N Henderson Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 658 4222",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y6XkvHnNjC6rUPwashiOF_43.073447_-83.479184@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774295,
+    "wof:geomhash":"6de4f5bd6941ae79f94a7401a3bce1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":689537879
+        }
+    ],
+    "wof:id":689537879,
+    "wof:lastmodified":1461774295,
+    "wof:name":"Powell's Plumbing",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.479184,
+    43.073447,
+    -83.479184,
+    43.073447
+],
+  "geometry": {"coordinates":[-83.479184,43.073447],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706248931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.470396,42.366218,-83.470396,42.366218",
+    "geom:latitude":42.366218,
+    "geom:longitude":-83.470396,
+    "iso:country":"US",
+    "sg:address":"883 Linden St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 4564",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NyBTIbdCXMWafyGDc8eOG_42.366218_-83.470396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799170,
+    "wof:geomhash":"ea732e251e2b5672118b7a4385ed8006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706248931
+        }
+    ],
+    "wof:id":706248931,
+    "wof:lastmodified":1461799170,
+    "wof:name":"T&E Trucking",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.470396,
+    42.366218,
+    -83.470396,
+    42.366218
+],
+  "geometry": {"coordinates":[-83.47039599999999,42.366218],"type":"Point"}
+}

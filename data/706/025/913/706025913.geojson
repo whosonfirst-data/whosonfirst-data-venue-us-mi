@@ -1,0 +1,73 @@
+{
+  "id": 706025913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.208192,43.219418,-86.208192,43.219418",
+    "geom:latitude":43.219418,
+    "geom:longitude":-86.208192,
+    "iso:country":"US",
+    "sg:address":"1385 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 725 7522",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "installer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oeWgBfvFask2z9EC0bspN_43.219418_-86.208192@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794126,
+    "wof:geomhash":"21919f3f53a0700ec016060b3fd04c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706025913
+        }
+    ],
+    "wof:id":706025913,
+    "wof:lastmodified":1461794126,
+    "wof:name":"Auto Glass By Visions",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installer"
+    ]
+},
+  "bbox": [
+    -86.208192,
+    43.219418,
+    -86.208192,
+    43.219418
+],
+  "geometry": {"coordinates":[-86.208192,43.219418],"type":"Point"}
+}

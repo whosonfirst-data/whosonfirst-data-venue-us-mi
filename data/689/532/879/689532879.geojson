@@ -1,0 +1,73 @@
+{
+  "id": 689532879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.363069,41.827263,-86.363069,41.827263",
+    "geom:latitude":41.827263,
+    "geom:longitude":-86.363069,
+    "iso:country":"US",
+    "sg:address":"105 W Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 0007",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A34izWb7cYJYTksMLwAsy_41.827263_-86.363069@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774170,
+    "wof:geomhash":"09d61cb0723e80c2428f8bb258d8ff2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":689532879
+        }
+    ],
+    "wof:id":689532879,
+    "wof:lastmodified":1461774170,
+    "wof:name":"Buchanan City Fire Department",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -86.363069,
+    41.827263,
+    -86.363069,
+    41.827263
+],
+  "geometry": {"coordinates":[-86.363069,41.827263],"type":"Point"}
+}

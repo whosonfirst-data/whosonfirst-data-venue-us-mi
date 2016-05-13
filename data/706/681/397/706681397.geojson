@@ -1,0 +1,76 @@
+{
+  "id": 706681397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694392,43.105952,-83.694392,43.105952",
+    "geom:latitude":43.105952,
+    "geom:longitude":-83.694392,
+    "iso:country":"US",
+    "sg:address":"7047 N Saginaw Rd",
+    "sg:city":"Mount Morris",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-morris/208727-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 687 6601",
+    "sg:postcode":"48458",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5guzivOHW80Y0FRtH44W5y_43.105952_-83.694392@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809341,
+    "wof:geomhash":"8fb9e2c3677fe9b6d75b38977a023cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":706681397
+        }
+    ],
+    "wof:id":706681397,
+    "wof:lastmodified":1461809341,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.694392,
+    43.105952,
+    -83.694392,
+    43.105952
+],
+  "geometry": {"coordinates":[-83.69439199999999,43.105952],"type":"Point"}
+}

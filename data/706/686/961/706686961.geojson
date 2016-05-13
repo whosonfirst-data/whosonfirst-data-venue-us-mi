@@ -1,0 +1,72 @@
+{
+  "id": 706686961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.398277,44.413954,-85.398277,44.413954",
+    "geom:latitude":44.413954,
+    "geom:longitude":-85.398277,
+    "iso:country":"US",
+    "sg:address":"411 N Michigan Ave",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/manton/141202-the-north-side-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 9427",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AII16IUuwd0miesGNCxvU_44.413954_-85.398277@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809555,
+    "wof:geomhash":"2d53638fd7cd75990f41445bfb84535e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686961
+        }
+    ],
+    "wof:id":706686961,
+    "wof:lastmodified":1461809555,
+    "wof:name":"The North Side Restaurant",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.398277,
+    44.413954,
+    -85.398277,
+    44.413954
+],
+  "geometry": {"coordinates":[-85.39827699999999,44.413954],"type":"Point"}
+}

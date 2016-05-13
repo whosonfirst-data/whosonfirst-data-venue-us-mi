@@ -1,0 +1,73 @@
+{
+  "id": 689559509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.175991,42.847888,-86.175991,42.847888",
+    "geom:latitude":42.847888,
+    "geom:longitude":-86.175991,
+    "iso:country":"US",
+    "sg:address":"15957 Ransom St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 2993",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zdtPOl3pIwFCeHwm3kO1T_42.847888_-86.175991@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775003,
+    "wof:geomhash":"9debc820b4f8cfd383a2fd0accf4fd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689559509
+        }
+    ],
+    "wof:id":689559509,
+    "wof:lastmodified":1461775003,
+    "wof:name":"Trick Automotive",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.175991,
+    42.847888,
+    -86.175991,
+    42.847888
+],
+  "geometry": {"coordinates":[-86.175991,42.847888],"type":"Point"}
+}

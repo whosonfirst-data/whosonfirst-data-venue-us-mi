@@ -1,0 +1,71 @@
+{
+  "id": 706130321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.405292,44.274077,-85.405292,44.274077",
+    "geom:latitude":44.274077,
+    "geom:longitude":-85.405292,
+    "iso:country":"US",
+    "sg:address":"314 Bell Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 876 0462",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YOX9zLBThHuoosVaP6fnG_44.274077_-85.405292@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796522,
+    "wof:geomhash":"afaa61abbd0871f7a39b913fbfd6f5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706130321
+        }
+    ],
+    "wof:id":706130321,
+    "wof:lastmodified":1461796522,
+    "wof:name":"Quick Delivery Co",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -85.405292,
+    44.274077,
+    -85.405292,
+    44.274077
+],
+  "geometry": {"coordinates":[-85.405292,44.274077],"type":"Point"}
+}

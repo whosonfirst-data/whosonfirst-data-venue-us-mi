@@ -1,0 +1,71 @@
+{
+  "id": 706566507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.165655,43.173137,-86.165655,43.173137",
+    "geom:latitude":43.173137,
+    "geom:longitude":-86.165655,
+    "iso:country":"US",
+    "sg:address":"4455 S Dangl Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 3426",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wbgdgzpg5f9qmmqwKoyz2_43.173137_-86.165655@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805983,
+    "wof:geomhash":"a8abc2ed372a779fedd62f3048fd3e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706566507
+        }
+    ],
+    "wof:id":706566507,
+    "wof:lastmodified":1461805983,
+    "wof:name":"SLC Properties LLC",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.165655,
+    43.173137,
+    -86.165655,
+    43.173137
+],
+  "geometry": {"coordinates":[-86.165655,43.173137],"type":"Point"}
+}

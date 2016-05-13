@@ -1,0 +1,80 @@
+{
+  "id": 689670889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.050658,45.745828,-87.050658,45.745828",
+    "geom:latitude":45.745828,
+    "geom:longitude":-87.050658,
+    "iso:country":"US",
+    "sg:address":"111 N 3rd St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 3633",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "correctional",
+        "institution",
+        "protection",
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DK3CfFBtZXRk9gxtbO3pl_45.745828_-87.050658@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778400,
+    "wof:geomhash":"fe2c4fbd56657fb04f4bdca5e24c5014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689670889
+        }
+    ],
+    "wof:id":689670889,
+    "wof:lastmodified":1461778400,
+    "wof:name":"Delta County Sheriff Dept",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution",
+        "protection",
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -87.050658,
+    45.745828,
+    -87.050658,
+    45.745828
+],
+  "geometry": {"coordinates":[-87.050658,45.745828],"type":"Point"}
+}

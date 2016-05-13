@@ -1,0 +1,73 @@
+{
+  "id": 705702017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251938,43.267377,-86.251938,43.267377",
+    "geom:latitude":43.267377,
+    "geom:longitude":-86.251938,
+    "iso:country":"US",
+    "sg:address":"501 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 0011",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S1k89yyYq9lkct1IVkm5c_43.267377_-86.251938@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786621,
+    "wof:geomhash":"d6f58f265a10a7cc07bbd9f0968a7d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705702017
+        }
+    ],
+    "wof:id":705702017,
+    "wof:lastmodified":1461786621,
+    "wof:name":"Family Video",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.251938,
+    43.267377,
+    -86.251938,
+    43.267377
+],
+  "geometry": {"coordinates":[-86.251938,43.267377],"type":"Point"}
+}

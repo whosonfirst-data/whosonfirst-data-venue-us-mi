@@ -1,0 +1,88 @@
+{
+  "id": 705870725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.696287,42.897867,-85.696287,42.897867",
+    "geom:latitude":42.897867,
+    "geom:longitude":-85.696287,
+    "iso:country":"US",
+    "sg:address":"3691 Flamingo Ave SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 532 6825",
+    "sg:postcode":"49509",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LCrrh5WOyx5OMxrkzeaIl_42.897867_-85.696287@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790710,
+    "wof:geomhash":"0625134a6764ef9b55c65d982262ad8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":705870725
+        }
+    ],
+    "wof:id":705870725,
+    "wof:lastmodified":1461790710,
+    "wof:name":"B & K Mobile Wash",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -85.696287,
+    42.897867,
+    -85.696287,
+    42.897867
+],
+  "geometry": {"coordinates":[-85.696287,42.897867],"type":"Point"}
+}

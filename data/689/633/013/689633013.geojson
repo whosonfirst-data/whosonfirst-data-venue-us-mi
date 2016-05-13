@@ -1,0 +1,71 @@
+{
+  "id": 689633013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.423929,42.203854,-83.423929,42.203854",
+    "geom:latitude":42.203854,
+    "geom:longitude":-83.423929,
+    "iso:country":"US",
+    "sg:address":"13304 Hannan Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 942 5084",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xX7CeyicbmcYZNsI2fsCG_42.203854_-83.423929@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777231,
+    "wof:geomhash":"cf469e380379dad6088043f5dfd0b648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":689633013
+        }
+    ],
+    "wof:id":689633013,
+    "wof:lastmodified":1461777231,
+    "wof:name":"Illes Orthodontic Study",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.423929,
+    42.203854,
+    -83.423929,
+    42.203854
+],
+  "geometry": {"coordinates":[-83.423929,42.203854],"type":"Point"}
+}

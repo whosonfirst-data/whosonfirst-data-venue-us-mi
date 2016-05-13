@@ -1,0 +1,81 @@
+{
+  "id": 706726997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.156998,42.341702,-83.156998,42.341702",
+    "geom:latitude":42.341702,
+    "geom:longitude":-83.156998,
+    "iso:country":"US",
+    "sg:address":"6830 Wyoming St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 581 7777",
+    "sg:postcode":"48126",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction"
+    ],
+    "sg:website":"http://www.ozoor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896607,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dblv1Rfw99XgAAujcKowC_42.341702_-83.156998@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811307,
+    "wof:geomhash":"40c16ec8d25a3b1511193a699570dbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85896607,
+            "region_id":85688599,
+            "venue_id":706726997
+        }
+    ],
+    "wof:id":706726997,
+    "wof:lastmodified":1461811307,
+    "wof:name":"Ozoor Driving School",
+    "wof:parent_id":85896607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction"
+    ]
+},
+  "bbox": [
+    -83.156998,
+    42.341702,
+    -83.156998,
+    42.341702
+],
+  "geometry": {"coordinates":[-83.156998,42.341702],"type":"Point"}
+}

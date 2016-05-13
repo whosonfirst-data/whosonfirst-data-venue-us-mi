@@ -1,0 +1,73 @@
+{
+  "id": 706172925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635666,44.734101,-85.635666,44.734101",
+    "geom:latitude":44.734101,
+    "geom:longitude":-85.635666,
+    "iso:country":"US",
+    "sg:address":"3334 Veterans Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 4983",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "collision",
+        "rust",
+        "proofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WPxxtu6MyElvY4XKWuhlR_44.734101_-85.635666@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797491,
+    "wof:geomhash":"49e87dcc75def7045d1eca00bcf22814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706172925
+        }
+    ],
+    "wof:id":706172925,
+    "wof:lastmodified":1461797491,
+    "wof:name":"Superior Collision",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collision",
+        "rust",
+        "proofing"
+    ]
+},
+  "bbox": [
+    -85.635666,
+    44.734101,
+    -85.635666,
+    44.734101
+],
+  "geometry": {"coordinates":[-85.635666,44.734101],"type":"Point"}
+}

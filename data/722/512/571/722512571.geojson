@@ -1,0 +1,83 @@
+{
+  "id": 722512571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362141,42.574212,-83.362141,42.574212",
+    "geom:latitude":42.574212,
+    "geom:longitude":-83.362141,
+    "iso:country":"US",
+    "sg:address":"4301 Orchard Lake Rd",
+    "sg:city":"West Bloomfield Township",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 737 6888",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IlNRG08Riu7fFE9TfhxCF_42.574212_-83.362141@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813589,
+    "wof:geomhash":"ab2525a810ef98963e7e0b60600eacbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512571
+        }
+    ],
+    "wof:id":722512571,
+    "wof:lastmodified":1461813589,
+    "wof:name":"Cheesy Luigi's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.362141,
+    42.574212,
+    -83.362141,
+    42.574212
+],
+  "geometry": {"coordinates":[-83.36214099999999,42.574212],"type":"Point"}
+}

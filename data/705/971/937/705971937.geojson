@@ -1,0 +1,73 @@
+{
+  "id": 705971937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810502,43.330812,-85.810502,43.330812",
+    "geom:latitude":43.330812,
+    "geom:longitude":-85.810502,
+    "iso:country":"US",
+    "sg:address":"328 S Maple St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 5120",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ygxiVSdbNI6uS0XRx93JJ_43.330812_-85.810502@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793005,
+    "wof:geomhash":"09aa6087788aaab335d9a267c7f2a621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705971937
+        }
+    ],
+    "wof:id":705971937,
+    "wof:lastmodified":1461793005,
+    "wof:name":"Wright Cup",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.810502,
+    43.330812,
+    -85.810502,
+    43.330812
+],
+  "geometry": {"coordinates":[-85.810502,43.330812],"type":"Point"}
+}

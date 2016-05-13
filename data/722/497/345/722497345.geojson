@@ -1,0 +1,82 @@
+{
+  "id": 722497345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.91657,42.389999,-82.91657,42.389999",
+    "geom:latitude":42.389999,
+    "geom:longitude":-82.91657,
+    "iso:country":"US",
+    "sg:address":"17028 Kercheval St",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 640 7794",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:website":"www.traderjoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mSnNnAfB4SLSJST9pt9SJ_42.389999_-82.916570@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812971,
+    "wof:geomhash":"0d587e4f7565647036f717e1b8d6a6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":722497345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722497345
+        }
+    ],
+    "wof:id":722497345,
+    "wof:lastmodified":1461812971,
+    "wof:name":"Trader Joe's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.91657,
+    42.389999,
+    -82.91657,
+    42.389999
+],
+  "geometry": {"coordinates":[-82.91656999999999,42.389999],"type":"Point"}
+}

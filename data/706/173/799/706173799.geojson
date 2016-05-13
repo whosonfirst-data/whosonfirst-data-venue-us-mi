@@ -1,0 +1,73 @@
+{
+  "id": 706173799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.834664,42.569343,-82.834664,42.569343",
+    "geom:latitude":42.569343,
+    "geom:longitude":-82.834664,
+    "iso:country":"US",
+    "sg:address":"27620 Wisteria St",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 1038",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r1nwLAEZVV0a43xpwrl3i_42.569343_-82.834664@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797509,
+    "wof:geomhash":"38bd211d17bb5cb9615ad4aeab3d00af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706173799
+        }
+    ],
+    "wof:id":706173799,
+    "wof:lastmodified":1461797509,
+    "wof:name":"Turk Transport",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.834664,
+    42.569343,
+    -82.834664,
+    42.569343
+],
+  "geometry": {"coordinates":[-82.834664,42.569343],"type":"Point"}
+}

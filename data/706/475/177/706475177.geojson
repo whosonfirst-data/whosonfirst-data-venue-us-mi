@@ -1,0 +1,71 @@
+{
+  "id": 706475177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435669,42.093096,-86.435669,42.093096",
+    "geom:latitude":42.093096,
+    "geom:longitude":-86.435669,
+    "iso:country":"US",
+    "sg:address":"1605 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 9800",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wKd4zGrYndmTMT2SfbBug_42.093096_-86.435669@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803952,
+    "wof:geomhash":"77ec49b21b7c571183c5161d6e1aa43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706475177
+        }
+    ],
+    "wof:id":706475177,
+    "wof:lastmodified":1461803952,
+    "wof:name":"Once More For A Break",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.435669,
+    42.093096,
+    -86.435669,
+    42.093096
+],
+  "geometry": {"coordinates":[-86.435669,42.093096],"type":"Point"}
+}

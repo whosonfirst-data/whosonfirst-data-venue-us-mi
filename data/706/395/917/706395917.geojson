@@ -1,0 +1,77 @@
+{
+  "id": 706395917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.104715,42.38849,-83.104715,42.38849",
+    "geom:latitude":42.38849,
+    "geom:longitude":-83.104715,
+    "iso:country":"US",
+    "sg:address":"11850 Woodrow Wilson St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 865 1056",
+    "sg:postcode":"48206",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870621,
+        102191575,
+        404508599,
+        85633793,
+        85951065,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wtRfaemBXFZ0SNpwod32d_42.388490_-83.104715@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802322,
+    "wof:geomhash":"5785a724e13b2a2d1c791a5e8b07540e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508599,
+            "locality_id":85951065,
+            "neighbourhood_id":85870621,
+            "region_id":85688599,
+            "venue_id":706395917
+        }
+    ],
+    "wof:id":706395917,
+    "wof:lastmodified":1461802322,
+    "wof:name":"Health Dept",
+    "wof:parent_id":85870621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.104715,
+    42.38849,
+    -83.104715,
+    42.38849
+],
+  "geometry": {"coordinates":[-83.104715,42.38849],"type":"Point"}
+}

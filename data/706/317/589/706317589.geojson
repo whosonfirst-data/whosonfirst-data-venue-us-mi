@@ -1,0 +1,71 @@
+{
+  "id": 706317589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.565458,42.280897,-85.565458,42.280897",
+    "geom:latitude":42.280897,
+    "geom:longitude":-85.565458,
+    "iso:country":"US",
+    "sg:address":"1110 Lake St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 343 5115",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xjmBvpF8UKVbuQndV2KNs_42.280897_-85.565458@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800671,
+    "wof:geomhash":"47ef6c632ab09bb5337a2212f9081734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":706317589
+        }
+    ],
+    "wof:id":706317589,
+    "wof:lastmodified":1461800671,
+    "wof:name":"Bright Day Taxi Cab",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.565458,
+    42.280897,
+    -85.565458,
+    42.280897
+],
+  "geometry": {"coordinates":[-85.56545800000001,42.280897],"type":"Point"}
+}

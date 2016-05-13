@@ -1,0 +1,77 @@
+{
+  "id": 706618891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614198,42.690659,-84.614198,42.690659",
+    "geom:latitude":42.690659,
+    "geom:longitude":-84.614198,
+    "iso:country":"US",
+    "sg:address":"4218 Balmoral Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 394 0632",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85840163,
+        102083005,
+        85834385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NpwfEx48pswVBQIbgbEC4_42.690659_-84.614198@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807127,
+    "wof:geomhash":"e69355d2890f35f9957e394c4a810805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":706618891
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":706618891
+        }
+    ],
+    "wof:id":706618891,
+    "wof:lastmodified":1461807127,
+    "wof:name":"Lopez Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.614198,
+    42.690659,
+    -84.614198,
+    42.690659
+],
+  "geometry": {"coordinates":[-84.614198,42.690659],"type":"Point"}
+}

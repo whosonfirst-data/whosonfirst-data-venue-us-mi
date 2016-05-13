@@ -1,0 +1,65 @@
+{
+  "id": 706150133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.382417,42.855518,-85.382417,42.855518",
+    "geom:latitude":42.855518,
+    "geom:longitude":-85.382417,
+    "iso:country":"US",
+    "sg:address":"11525 Kirby St SE",
+    "sg:city":"Alto",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 000 1111",
+    "sg:postcode":"49302",
+    "sg:province":"MI",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85833173,
+        102083023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47TKzn8B6w88LXym56ykNx_42.855518_-85.382417@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796987,
+    "wof:geomhash":"0626e623eccb6739aba21074fe660fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "neighbourhood_id":85833173,
+            "region_id":85688599,
+            "venue_id":706150133
+        }
+    ],
+    "wof:id":706150133,
+    "wof:lastmodified":1461796987,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85833173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.382417,
+    42.855518,
+    -85.382417,
+    42.855518
+],
+  "geometry": {"coordinates":[-85.382417,42.855518],"type":"Point"}
+}

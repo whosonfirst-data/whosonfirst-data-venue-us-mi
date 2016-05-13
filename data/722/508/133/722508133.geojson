@@ -1,0 +1,83 @@
+{
+  "id": 722508133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029034,42.555665,-83.029034,42.555665",
+    "geom:latitude":42.555665,
+    "geom:longitude":-83.029034,
+    "iso:country":"US",
+    "sg:address":"35724 Van Dyke",
+    "sg:city":"Sterling Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 264 9974",
+    "sg:postcode":"48312",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "sg:website":"www.bellacinos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881181,
+        102191575,
+        404507483,
+        85633793,
+        85951697,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EaygUYRnWkHwI7TNk8Rrl_42.555665_-83.029034@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813387,
+    "wof:geomhash":"fd34ee972f0be547de3e336db85c07a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507483,
+            "locality_id":85951697,
+            "neighbourhood_id":85881181,
+            "region_id":85688599,
+            "venue_id":722508133
+        }
+    ],
+    "wof:id":722508133,
+    "wof:lastmodified":1461813387,
+    "wof:name":"Bellacinos",
+    "wof:parent_id":85881181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.029034,
+    42.555665,
+    -83.029034,
+    42.555665
+],
+  "geometry": {"coordinates":[-83.029034,42.555665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706082411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.767067,43.553842,-85.767067,43.553842",
+    "geom:latitude":43.553842,
+    "geom:longitude":-85.767067,
+    "iso:country":"US",
+    "sg:address":"1328 E Pine Hill Ave",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 5759",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTXn4wKqsxLxfntt2s5ne_43.553842_-85.767067@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795305,
+    "wof:geomhash":"32feb0d318bba2fbd785e6e292422ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706082411
+        }
+    ],
+    "wof:id":706082411,
+    "wof:lastmodified":1461795305,
+    "wof:name":"Boyce's Hydraulic & Truck Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.767067,
+    43.553842,
+    -85.767067,
+    43.553842
+],
+  "geometry": {"coordinates":[-85.767067,43.553842],"type":"Point"}
+}

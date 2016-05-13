@@ -1,0 +1,89 @@
+{
+  "id": 706738163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.307503,42.221199,-83.307503,42.221199",
+    "geom:latitude":42.221199,
+    "geom:longitude":-83.307503,
+    "iso:country":"US",
+    "sg:address":"11470 Inkster Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 941 7777",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851475,
+        102191575,
+        404508657,
+        85633793,
+        85951131,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Ws3Se8ndgwxz1xK5SXK7_42.221199_-83.307503@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811740,
+    "wof:geomhash":"8a43afef6eb4216a21e494b3fa47fb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508657,
+            "locality_id":85951131,
+            "neighbourhood_id":85851475,
+            "region_id":85688599,
+            "venue_id":706738163
+        }
+    ],
+    "wof:id":706738163,
+    "wof:lastmodified":1461811740,
+    "wof:name":"Ken's Airport Shuttle Service",
+    "wof:parent_id":85851475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -83.307503,
+    42.221199,
+    -83.307503,
+    42.221199
+],
+  "geometry": {"coordinates":[-83.307503,42.221199],"type":"Point"}
+}

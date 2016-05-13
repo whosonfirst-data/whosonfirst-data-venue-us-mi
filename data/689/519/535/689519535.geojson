@@ -1,0 +1,71 @@
+{
+  "id": 689519535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.728276,43.006843,-83.728276,43.006843",
+    "geom:latitude":43.006843,
+    "geom:longitude":-83.728276,
+    "iso:country":"US",
+    "sg:address":"947 Knapp Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 744 1208",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BaOlt5xcSPSY9b98ZLadj_43.006843_-83.728276@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773667,
+    "wof:geomhash":"52345f30dd6198c9a1d3b7cac9ddc011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689519535
+        }
+    ],
+    "wof:id":689519535,
+    "wof:lastmodified":1461773667,
+    "wof:name":"DLM Truck Repair",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.728276,
+    43.006843,
+    -83.728276,
+    43.006843
+],
+  "geometry": {"coordinates":[-83.72827599999999,43.006843],"type":"Point"}
+}

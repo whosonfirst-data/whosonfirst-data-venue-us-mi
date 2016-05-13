@@ -1,0 +1,71 @@
+{
+  "id": 689493641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.745503,42.752368,-84.745503,42.752368",
+    "geom:latitude":42.752368,
+    "geom:longitude":-84.745503,
+    "iso:country":"US",
+    "sg:address":"318 Taylor St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 622 3366",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Selr161aZL0dBZQea1u9M_42.752368_-84.745503@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772918,
+    "wof:geomhash":"9d36e19292ddde491622640f37a0347c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689493641
+        }
+    ],
+    "wof:id":689493641,
+    "wof:lastmodified":1461772918,
+    "wof:name":"Grand Ledge Pet Grooming",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -84.745503,
+    42.752368,
+    -84.745503,
+    42.752368
+],
+  "geometry": {"coordinates":[-84.745503,42.752368],"type":"Point"}
+}

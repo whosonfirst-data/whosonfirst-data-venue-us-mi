@@ -1,0 +1,75 @@
+{
+  "id": 706506431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.076416,45.85945,-88.076416,45.85945",
+    "geom:latitude":45.85945,
+    "geom:longitude":-88.076416,
+    "iso:country":"US",
+    "sg:address":"4073 Pine Mountain Rd",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7345",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w4ZhNeVYYl6R2c7qIjSmg_45.859450_-88.076416@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804775,
+    "wof:geomhash":"2f60861f79087506acc4e83b87d7f5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706506431
+        }
+    ],
+    "wof:id":706506431,
+    "wof:lastmodified":1461804775,
+    "wof:name":"Old Time Cars",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -88.076416,
+    45.85945,
+    -88.076416,
+    45.85945
+],
+  "geometry": {"coordinates":[-88.07641599999999,45.85945],"type":"Point"}
+}

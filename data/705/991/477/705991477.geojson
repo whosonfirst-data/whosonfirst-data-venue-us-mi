@@ -1,0 +1,71 @@
+{
+  "id": 705991477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.328957,42.214223,-84.328957,42.214223",
+    "geom:latitude":42.214223,
+    "geom:longitude":-84.328957,
+    "iso:country":"US",
+    "sg:address":"4207 Jane Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 0274",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PTdy2nXQraAUTubblCDWS_42.214223_-84.328957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793399,
+    "wof:geomhash":"4225a2e488031488370ab1b240889ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705991477
+        }
+    ],
+    "wof:id":705991477,
+    "wof:lastmodified":1461793399,
+    "wof:name":"Clarklake Properties",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.328957,
+    42.214223,
+    -84.328957,
+    42.214223
+],
+  "geometry": {"coordinates":[-84.328957,42.214223],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 706448827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.590368,43.014751,-83.590368,43.014751",
+    "geom:latitude":43.014751,
+    "geom:longitude":-83.590368,
+    "iso:country":"US",
+    "sg:address":"1210 Adams Rd",
+    "sg:city":"Burton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 744 0864",
+    "sg:postcode":"48509",
+    "sg:province":"MI",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829793,
+        102191575,
+        404506585,
+        85633793,
+        85951921,
+        102083111,
+        85688599,
+        85805647,
+        404506589,
+        85951925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PH9T8ooc0iSC6MO1MwS3n_43.014751_-83.590368@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803407,
+    "wof:geomhash":"68cefa868f6fa2bebf898dd564c22cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506585,
+            "locality_id":85951921,
+            "neighbourhood_id":85829793,
+            "region_id":85688599,
+            "venue_id":706448827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706448827
+        }
+    ],
+    "wof:id":706448827,
+    "wof:lastmodified":1461803407,
+    "wof:name":"Complete Heating & Air Cond",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.590368,
+    43.014751,
+    -83.590368,
+    43.014751
+],
+  "geometry": {"coordinates":[-83.590368,43.014751],"type":"Point"}
+}

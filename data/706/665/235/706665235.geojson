@@ -1,0 +1,76 @@
+{
+  "id": 706665235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952499,42.606499,-82.952499,42.606499",
+    "geom:latitude":42.606499,
+    "geom:longitude":-82.952499,
+    "iso:country":"US",
+    "sg:address":"42080 Garfield Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 7777",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ivb92umitvMBgQ2iFQi7O_42.605916_-82.952600@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808673,
+    "wof:geomhash":"e2188d04c394ac20da4697e91ae42e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706665235
+        }
+    ],
+    "wof:id":706665235,
+    "wof:lastmodified":1461808673,
+    "wof:name":"Gina's Salon & Spa",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -82.952499,
+    42.606499,
+    -82.952499,
+    42.606499
+],
+  "geometry": {"coordinates":[-82.952499,42.606499],"type":"Point"}
+}

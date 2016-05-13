@@ -1,0 +1,71 @@
+{
+  "id": 705853705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.071723,45.796949,-88.071723,45.796949",
+    "geom:latitude":45.796949,
+    "geom:longitude":-88.071723,
+    "iso:country":"US",
+    "sg:address":"1000 S Carpenter Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7676",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JX8ndtjd3CUFKkiytzWnE_45.796949_-88.071723@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790274,
+    "wof:geomhash":"bb46776c98828c5b01d93ee709481efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705853705
+        }
+    ],
+    "wof:id":705853705,
+    "wof:lastmodified":1461790274,
+    "wof:name":"Kingsford Funeral Home Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -88.071723,
+    45.796949,
+    -88.071723,
+    45.796949
+],
+  "geometry": {"coordinates":[-88.07172300000001,45.796949],"type":"Point"}
+}

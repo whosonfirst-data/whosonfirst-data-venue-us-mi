@@ -1,0 +1,84 @@
+{
+  "id": 706723601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.473675,42.237289,-83.473675,42.237289",
+    "geom:latitude":42.237289,
+    "geom:longitude":-83.473675,
+    "iso:country":"US",
+    "sg:address":"44132 Stonebridge Dr",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 260 1719",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cosmetologist",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Rz0H7JIwxhl1LGYHL8Oj_42.237289_-83.473675@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811135,
+    "wof:geomhash":"b5487441b0e6ded39175cbc5860cf991",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706723601
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706723601
+        }
+    ],
+    "wof:id":706723601,
+    "wof:lastmodified":1461811135,
+    "wof:name":"Modelmom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetologist",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -83.473675,
+    42.237289,
+    -83.473675,
+    42.237289
+],
+  "geometry": {"coordinates":[-83.473675,42.237289],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705856187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.08676,43.033848,-86.08676,43.033848",
+    "geom:latitude":43.033848,
+    "geom:longitude":-86.08676,
+    "iso:country":"US",
+    "sg:address":"12010 N Cedar Dr",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 5465",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85802487,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jCXpnbnLn1orjhdu2H21O_43.033848_-86.086760@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790333,
+    "wof:geomhash":"c843cae867eafb455ad8e94908f56f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85802487,
+            "region_id":85688599,
+            "venue_id":705856187
+        }
+    ],
+    "wof:id":705856187,
+    "wof:lastmodified":1461790333,
+    "wof:name":"Quality First Auto & Diesel",
+    "wof:parent_id":85802487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.08676,
+    43.033848,
+    -86.08676,
+    43.033848
+],
+  "geometry": {"coordinates":[-86.08676,43.033848],"type":"Point"}
+}

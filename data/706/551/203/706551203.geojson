@@ -1,0 +1,71 @@
+{
+  "id": 706551203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.071109,45.799425,-88.071109,45.799425",
+    "geom:latitude":45.799425,
+    "geom:longitude":-88.071109,
+    "iso:country":"US",
+    "sg:address":"800 S Carpenter Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 0800",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fBExeKlGPC5wbeL3Z1no8_45.799425_-88.071109@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805683,
+    "wof:geomhash":"b9884ba6055bd84591dd6348de080d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706551203
+        }
+    ],
+    "wof:id":706551203,
+    "wof:lastmodified":1461805683,
+    "wof:name":"Protech Lube & Wash",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.071109,
+    45.799425,
+    -88.071109,
+    45.799425
+],
+  "geometry": {"coordinates":[-88.07110900000001,45.799425],"type":"Point"}
+}

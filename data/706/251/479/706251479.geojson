@@ -1,0 +1,71 @@
+{
+  "id": 706251479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.396534,44.246113,-85.396534,44.246113",
+    "geom:latitude":44.246113,
+    "geom:longitude":-85.396534,
+    "iso:country":"US",
+    "sg:address":"602 S Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 4233",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zf1nRS52Cb5HQmRQDEYB4_44.246113_-85.396534@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799229,
+    "wof:geomhash":"dfe9e75d1ef5b9700c955e80693de019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706251479
+        }
+    ],
+    "wof:id":706251479,
+    "wof:lastmodified":1461799229,
+    "wof:name":"Glen's Markets",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.396534,
+    44.246113,
+    -85.396534,
+    44.246113
+],
+  "geometry": {"coordinates":[-85.396534,44.246113],"type":"Point"}
+}

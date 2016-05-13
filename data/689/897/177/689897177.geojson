@@ -1,0 +1,73 @@
+{
+  "id": 689897177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.255884,43.233695,-86.255884,43.233695",
+    "geom:latitude":43.233695,
+    "geom:longitude":-86.255884,
+    "iso:country":"US",
+    "sg:address":"550 W Western Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 726 4498",
+    "sg:postcode":"49440",
+    "sg:province":"MI",
+    "sg:tags":[
+        "anesthetist",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EdjtiCqAaowhsDjeP6zbL_43.233695_-86.255884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784481,
+    "wof:geomhash":"511fcd353f7b4205b635048145f92545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689897177
+        }
+    ],
+    "wof:id":689897177,
+    "wof:lastmodified":1461784481,
+    "wof:name":"Anesthesia Associates Mskgn",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "anesthetist",
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.255884,
+    43.233695,
+    -86.255884,
+    43.233695
+],
+  "geometry": {"coordinates":[-86.25588399999999,43.233695],"type":"Point"}
+}

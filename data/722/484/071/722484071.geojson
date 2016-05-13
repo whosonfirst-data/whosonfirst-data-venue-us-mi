@@ -1,0 +1,88 @@
+{
+  "id": 722484071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.130816,42.331257,-83.130816,42.331257",
+    "geom:latitude":42.331257,
+    "geom:longitude":-83.130816,
+    "iso:country":"US",
+    "sg:address":"7004 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 554 3600",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_289iwRpCETjY1vIPMJrfRD_42.331257_-83.130816@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812454,
+    "wof:geomhash":"e4e91c059659458f6742fa3715d0b03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722484071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":722484071
+        }
+    ],
+    "wof:id":722484071,
+    "wof:lastmodified":1461812454,
+    "wof:name":"Michigan Physical Therapy & Rehab Services Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -83.130816,
+    42.331257,
+    -83.130816,
+    42.331257
+],
+  "geometry": {"coordinates":[-83.130816,42.331257],"type":"Point"}
+}

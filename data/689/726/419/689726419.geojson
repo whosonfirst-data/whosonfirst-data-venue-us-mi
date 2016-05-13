@@ -1,0 +1,71 @@
+{
+  "id": 689726419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418633,42.725263,-83.418633,42.725263",
+    "geom:latitude":42.725263,
+    "geom:longitude":-83.418633,
+    "iso:country":"US",
+    "sg:address":"5916 S Main St",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 625 0135",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n1c0uf0ys8H8mLjLtOiu3_42.725263_-83.418633@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779834,
+    "wof:geomhash":"e84b442170419daa3665292ee223dc1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689726419
+        }
+    ],
+    "wof:id":689726419,
+    "wof:lastmodified":1461779834,
+    "wof:name":"Clarkston Dry Cleaners",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -83.418633,
+    42.725263,
+    -83.418633,
+    42.725263
+],
+  "geometry": {"coordinates":[-83.418633,42.725263],"type":"Point"}
+}

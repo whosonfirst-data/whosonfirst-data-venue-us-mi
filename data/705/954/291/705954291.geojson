@@ -1,0 +1,69 @@
+{
+  "id": 705954291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.64324,42.182605,-84.64324,42.182605",
+    "geom:latitude":42.182605,
+    "geom:longitude":-84.64324,
+    "iso:country":"US",
+    "sg:address":"201 Spring Arbor Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 6199",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u6C5UkkCcu2f62G9KTm7V_42.182605_-84.643240@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792629,
+    "wof:geomhash":"6833a6053f8473fb077cafb83dca08f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705954291
+        }
+    ],
+    "wof:id":705954291,
+    "wof:lastmodified":1461792629,
+    "wof:name":"Pit Stop Automotive",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.64324,
+    42.182605,
+    -84.64324,
+    42.182605
+],
+  "geometry": {"coordinates":[-84.64324000000001,42.182605],"type":"Point"}
+}

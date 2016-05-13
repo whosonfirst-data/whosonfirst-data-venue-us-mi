@@ -1,0 +1,81 @@
+{
+  "id": 722524519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.614304,43.018799,-83.614304,43.018799",
+    "geom:latitude":43.018799,
+    "geom:longitude":-83.614304,
+    "iso:country":"US",
+    "sg:address":"4165 E Court St",
+    "sg:city":"Burton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 742 8300",
+    "sg:postcode":"48509",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.vgsfood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hVhJ7QpQX9BBW2Lkg2jQo_43.018799_-83.614304@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814190,
+    "wof:geomhash":"80e090715c8b6ee8a6b0692262e5ba2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":722524519
+        }
+    ],
+    "wof:id":722524519,
+    "wof:lastmodified":1461814190,
+    "wof:name":"V G's Food Center & Pharmacies",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.614304,
+    43.018799,
+    -83.614304,
+    43.018799
+],
+  "geometry": {"coordinates":[-83.614304,43.018799],"type":"Point"}
+}

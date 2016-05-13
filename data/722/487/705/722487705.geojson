@@ -1,0 +1,81 @@
+{
+  "id": 722487705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.256203,42.415798,-83.256203,42.415798",
+    "geom:latitude":42.415798,
+    "geom:longitude":-83.256203,
+    "iso:country":"US",
+    "sg:address":"21673 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 533 6900",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vsg28miCotTV9mzsFlFH6_42.415798_-83.256203@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812585,
+    "wof:geomhash":"67c595b0fcca2e5303c76688c28e6f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":722487705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487705
+        }
+    ],
+    "wof:id":722487705,
+    "wof:lastmodified":1461812585,
+    "wof:name":"Old Redford Food Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.256203,
+    42.415798,
+    -83.256203,
+    42.415798
+],
+  "geometry": {"coordinates":[-83.256203,42.415798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706208025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417382,42.259049,-84.417382,42.259049",
+    "geom:latitude":42.259049,
+    "geom:longitude":-84.417382,
+    "iso:country":"US",
+    "sg:address":"504 W North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 6313",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C8lCZkMgrMnlSrvt5nCUm_42.259049_-84.417382@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798245,
+    "wof:geomhash":"a40605173cac13f3cd7f334923b51e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706208025
+        }
+    ],
+    "wof:id":706208025,
+    "wof:lastmodified":1461798245,
+    "wof:name":"Bo's Keys & Locksmith",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.417382,
+    42.259049,
+    -84.417382,
+    42.259049
+],
+  "geometry": {"coordinates":[-84.417382,42.259049],"type":"Point"}
+}

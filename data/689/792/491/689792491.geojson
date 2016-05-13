@@ -1,0 +1,71 @@
+{
+  "id": 689792491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.998309,45.80375,-87.998309,45.80375",
+    "geom:latitude":45.80375,
+    "geom:longitude":-87.998309,
+    "iso:country":"US",
+    "sg:address":"4375 Wells St",
+    "sg:city":"Quinnesec",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 776 0950",
+    "sg:postcode":"49876",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HyOYZDnNofknssdiCOANE_45.803750_-87.998309@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781616,
+    "wof:geomhash":"184c4cc89a550eecbb6e96314390bfa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689792491
+        }
+    ],
+    "wof:id":689792491,
+    "wof:lastmodified":1461781616,
+    "wof:name":"Landstar Ranger Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.998309,
+    45.80375,
+    -87.998309,
+    45.80375
+],
+  "geometry": {"coordinates":[-87.99830900000001,45.80375],"type":"Point"}
+}

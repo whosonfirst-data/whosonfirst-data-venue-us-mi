@@ -1,0 +1,71 @@
+{
+  "id": 706099101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583888,42.311655,-85.583888,42.311655",
+    "geom:latitude":42.311655,
+    "geom:longitude":-85.583888,
+    "iso:country":"US",
+    "sg:address":"2609 N Burdick St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 4285",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878463,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h5MijUmsJjmp3ZO32ZdOq_42.311655_-85.583888@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795763,
+    "wof:geomhash":"1498ec4189f5a1095b809bc224730e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878463,
+            "region_id":85688599,
+            "venue_id":706099101
+        }
+    ],
+    "wof:id":706099101,
+    "wof:lastmodified":1461795763,
+    "wof:name":"A Plus Student Haulers",
+    "wof:parent_id":85878463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.583888,
+    42.311655,
+    -85.583888,
+    42.311655
+],
+  "geometry": {"coordinates":[-85.583888,42.311655],"type":"Point"}
+}

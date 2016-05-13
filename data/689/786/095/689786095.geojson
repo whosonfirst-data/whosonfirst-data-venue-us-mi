@@ -1,0 +1,69 @@
+{
+  "id": 689786095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20479,43.013874,-86.20479,43.013874",
+    "geom:latitude":43.013874,
+    "geom:longitude":-86.20479,
+    "iso:country":"US",
+    "sg:address":"13300 168th Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 000 1111",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846207,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xo82GTnHTUFGpReaSoEHN_43.013874_-86.204790@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781422,
+    "wof:geomhash":"3f6697b76bc636d07c6ea5814140f3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85846207,
+            "region_id":85688599,
+            "venue_id":689786095
+        }
+    ],
+    "wof:id":689786095,
+    "wof:lastmodified":1461781422,
+    "wof:name":"Grand Haven Twp Fire Dept",
+    "wof:parent_id":85846207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.20479,
+    43.013874,
+    -86.20479,
+    43.013874
+],
+  "geometry": {"coordinates":[-86.20479,43.013874],"type":"Point"}
+}

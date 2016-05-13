@@ -1,0 +1,67 @@
+{
+  "id": 705903715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.432511,42.682148,-84.432511,42.682148",
+    "geom:latitude":42.682148,
+    "geom:longitude":-84.432511,
+    "iso:country":"US",
+    "sg:address":"3464 Okemos Rd",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 349 6946",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T5xt1ABRZNy3M5zsEq6WY_42.682148_-84.432511@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791490,
+    "wof:geomhash":"958d94a61684bfa1e6e87de2c6dec8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705903715
+        }
+    ],
+    "wof:id":705903715,
+    "wof:lastmodified":1461791490,
+    "wof:name":"Burger King",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.432511,
+    42.682148,
+    -84.432511,
+    42.682148
+],
+  "geometry": {"coordinates":[-84.43251100000001,42.682148],"type":"Point"}
+}

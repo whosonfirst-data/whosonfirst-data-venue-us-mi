@@ -1,0 +1,78 @@
+{
+  "id": 706701703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.951302,42.628899,-82.951302,42.628899",
+    "geom:latitude":42.628899,
+    "geom:longitude":-82.951302,
+    "iso:country":"US",
+    "sg:address":"45081 Northport Dr Apt 1109",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 286 6110",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment",
+        "property",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vzrCAZ78OiLpgJwduVexT_42.628899_-82.951302@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810146,
+    "wof:geomhash":"8cdee334ccb798aa0a65797db4c2c1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701703
+        }
+    ],
+    "wof:id":706701703,
+    "wof:lastmodified":1461810146,
+    "wof:name":"Northport Apartments",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "property",
+        "management"
+    ]
+},
+  "bbox": [
+    -82.951302,
+    42.628899,
+    -82.951302,
+    42.628899
+],
+  "geometry": {"coordinates":[-82.951302,42.628899],"type":"Point"}
+}

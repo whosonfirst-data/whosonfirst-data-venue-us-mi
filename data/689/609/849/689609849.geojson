@@ -1,0 +1,84 @@
+{
+  "id": 689609849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.90799,42.466217,-82.90799,42.466217",
+    "geom:latitude":42.466217,
+    "geom:longitude":-82.90799,
+    "iso:country":"US",
+    "sg:address":"20709 E 9 Mile Rd",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 774 2787",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524413,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jTmBAyM34uugdIYIwzKCW_42.466217_-82.907990@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776601,
+    "wof:geomhash":"b7f3ab9bfb208915d90c6ab38d9336fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524413,
+            "region_id":85688599,
+            "venue_id":689609849
+        }
+    ],
+    "wof:id":689609849,
+    "wof:lastmodified":1461776601,
+    "wof:name":"Malibu Gallery",
+    "wof:parent_id":420524413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.90799,
+    42.466217,
+    -82.90799,
+    42.466217
+],
+  "geometry": {"coordinates":[-82.90799,42.466217],"type":"Point"}
+}

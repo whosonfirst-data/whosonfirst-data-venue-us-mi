@@ -1,0 +1,71 @@
+{
+  "id": 689632647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.123017,45.783539,-87.123017,45.783539",
+    "geom:latitude":45.783539,
+    "geom:longitude":-87.123017,
+    "iso:country":"US",
+    "sg:address":"4850 Danforth Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 5897",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XPwM44LZb4FsZUmBYWTZ0_45.783539_-87.123017@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777217,
+    "wof:geomhash":"9ffcea034c52e58fa022540008890369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689632647
+        }
+    ],
+    "wof:id":689632647,
+    "wof:lastmodified":1461777217,
+    "wof:name":"Pre Tube Inc",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.123017,
+    45.783539,
+    -87.123017,
+    45.783539
+],
+  "geometry": {"coordinates":[-87.123017,45.783539],"type":"Point"}
+}

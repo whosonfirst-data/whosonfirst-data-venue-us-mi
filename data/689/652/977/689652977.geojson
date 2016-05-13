@@ -1,0 +1,73 @@
+{
+  "id": 689652977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.120335,43.249349,-86.120335,43.249349",
+    "geom:latitude":43.249349,
+    "geom:longitude":-86.120335,
+    "iso:country":"US",
+    "sg:address":"4905 Hall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3305",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cZKS5x30biywk15cy4lYD_43.249349_-86.120335@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777942,
+    "wof:geomhash":"9e48315c858772aef6bf49eb01a96d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689652977
+        }
+    ],
+    "wof:id":689652977,
+    "wof:lastmodified":1461777942,
+    "wof:name":"Eagle Country Day Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.120335,
+    43.249349,
+    -86.120335,
+    43.249349
+],
+  "geometry": {"coordinates":[-86.120335,43.249349],"type":"Point"}
+}

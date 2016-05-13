@@ -1,0 +1,73 @@
+{
+  "id": 705697811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.57044,41.903964,-86.57044,41.903964",
+    "geom:latitude":41.903964,
+    "geom:longitude":-86.57044,
+    "iso:country":"US",
+    "sg:address":"11792 Snow Rd",
+    "sg:city":"Bridgman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 426 4556",
+    "sg:postcode":"49106",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NGBZ0cmsrgqJvRQ93vkDQ_41.903964_-86.570440@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786414,
+    "wof:geomhash":"5c2ab605e7c3aba901bb935df082701d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":705697811
+        }
+    ],
+    "wof:id":705697811,
+    "wof:lastmodified":1461786414,
+    "wof:name":"Bullseye Automotive",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.57044,
+    41.903964,
+    -86.57044,
+    41.903964
+],
+  "geometry": {"coordinates":[-86.57044,41.903964],"type":"Point"}
+}

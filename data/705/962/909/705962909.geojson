@@ -1,0 +1,88 @@
+{
+  "id": 705962909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.082704,45.807702,-88.082704,45.807702",
+    "geom:latitude":45.807702,
+    "geom:longitude":-88.082704,
+    "iso:country":"US",
+    "sg:address":"945 Woodward Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7700",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524269,
+        102191575,
+        404507319,
+        85633793,
+        85950929,
+        102083107,
+        85688599,
+        420549997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UsK8grW1eC3TxT0JONzQb_45.807702_-88.082704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792816,
+    "wof:geomhash":"7e431b6d3aeb493f66a2a5213f6e5db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420524269,
+            "region_id":85688599,
+            "venue_id":705962909
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420549997,
+            "region_id":85688599,
+            "venue_id":705962909
+        }
+    ],
+    "wof:id":705962909,
+    "wof:lastmodified":1461792816,
+    "wof:name":"Khoury Apts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.082704,
+    45.807702,
+    -88.082704,
+    45.807702
+],
+  "geometry": {"coordinates":[-88.08270400000001,45.807702],"type":"Point"}
+}

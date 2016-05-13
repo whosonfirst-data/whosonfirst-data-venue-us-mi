@@ -1,0 +1,71 @@
+{
+  "id": 706098975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65329,42.296271,-85.65329,42.296271",
+    "geom:latitude":42.296271,
+    "geom:longitude":-85.65329,
+    "iso:country":"US",
+    "sg:address":"5394 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 5027",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46MpyDYO5l8w0jrW2IO37O_42.296271_-85.653290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795761,
+    "wof:geomhash":"5becfbff07fdcb5056c541dc6c40ba7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":706098975
+        }
+    ],
+    "wof:id":706098975,
+    "wof:lastmodified":1461795761,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.65329,
+    42.296271,
+    -85.65329,
+    42.296271
+],
+  "geometry": {"coordinates":[-85.65329,42.296271],"type":"Point"}
+}

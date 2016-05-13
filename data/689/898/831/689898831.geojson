@@ -1,0 +1,73 @@
+{
+  "id": 689898831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.058719,45.828625,-88.058719,45.828625",
+    "geom:latitude":45.828625,
+    "geom:longitude":-88.058719,
+    "iso:country":"US",
+    "sg:address":"503 Norway St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 5447",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JA5Uz26ASvibjuO7boH2i_45.828625_-88.058719@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784532,
+    "wof:geomhash":"d6a12526089826ba5bf5b674337579a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689898831
+        }
+    ],
+    "wof:id":689898831,
+    "wof:lastmodified":1461784532,
+    "wof:name":"Amidon Apartments",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.058719,
+    45.828625,
+    -88.058719,
+    45.828625
+],
+  "geometry": {"coordinates":[-88.058719,45.828625],"type":"Point"}
+}

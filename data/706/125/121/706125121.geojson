@@ -1,0 +1,71 @@
+{
+  "id": 706125121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.007489,42.688217,-83.007489,42.688217",
+    "geom:latitude":42.688217,
+    "geom:longitude":-83.007489,
+    "iso:country":"US",
+    "sg:address":"11702 Forest Glen Ln",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 677 5180",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85843103,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a6qq097SUYuIDGWq6gbFe_42.688217_-83.007489@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796388,
+    "wof:geomhash":"39121e36b39a9f381ef04c2e7ba38c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85843103,
+            "region_id":85688599,
+            "venue_id":706125121
+        }
+    ],
+    "wof:id":706125121,
+    "wof:lastmodified":1461796388,
+    "wof:name":"Express Automotive",
+    "wof:parent_id":85843103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.007489,
+    42.688217,
+    -83.007489,
+    42.688217
+],
+  "geometry": {"coordinates":[-83.00748900000001,42.688217],"type":"Point"}
+}

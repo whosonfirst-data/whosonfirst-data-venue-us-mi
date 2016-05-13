@@ -1,0 +1,71 @@
+{
+  "id": 706699217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.867798,42.616798,-82.867798,42.616798",
+    "geom:latitude":42.616798,
+    "geom:longitude":-82.867798,
+    "iso:country":"US",
+    "sg:address":"43727 N Gratiot Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 9550",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24OKw6TnDVubbqPFZapJTz_42.616798_-82.867798@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810037,
+    "wof:geomhash":"949b4db4a210c999be3c92ee594c92a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706699217
+        }
+    ],
+    "wof:id":706699217,
+    "wof:lastmodified":1461810037,
+    "wof:name":"Cats Veterinary",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.867798,
+    42.616798,
+    -82.867798,
+    42.616798
+],
+  "geometry": {"coordinates":[-82.86779799999999,42.616798],"type":"Point"}
+}

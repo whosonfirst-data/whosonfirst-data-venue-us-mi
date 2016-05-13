@@ -1,0 +1,80 @@
+{
+  "id": 722526009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.567765,42.262307,-85.567765,42.262307",
+    "geom:latitude":42.262307,
+    "geom:longitude":-85.567765,
+    "iso:country":"US",
+    "sg:address":"952 Vassar Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 344 7946",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "management",
+        "pain",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16pD5B588l5wR1Q7gkpxvM_42.262307_-85.567765@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814251,
+    "wof:geomhash":"b94bbd6752d268f31fdbe43156b13715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722526009
+        }
+    ],
+    "wof:id":722526009,
+    "wof:lastmodified":1461814251,
+    "wof:name":"Carls Chiropractic Health Center",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "pain",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -85.567765,
+    42.262307,
+    -85.567765,
+    42.262307
+],
+  "geometry": {"coordinates":[-85.56776499999999,42.262307],"type":"Point"}
+}

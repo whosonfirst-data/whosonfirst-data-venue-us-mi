@@ -1,0 +1,74 @@
+{
+  "id": 706676729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.835158,42.28827,-83.835158,42.28827",
+    "geom:latitude":42.28827,
+    "geom:longitude":-83.835158,
+    "iso:country":"US",
+    "sg:address":"5340 Jackson Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/scio/103110-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 222 4944",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875951,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Nntbl8eq1ePP9oUq8ltU_42.288270_-83.835158@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809152,
+    "wof:geomhash":"969dab6eb09409e3bdb9e065b23912e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875951,
+            "region_id":85688599,
+            "venue_id":706676729
+        }
+    ],
+    "wof:id":706676729,
+    "wof:lastmodified":1461809152,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85875951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.835158,
+    42.28827,
+    -83.835158,
+    42.28827
+],
+  "geometry": {"coordinates":[-83.83515800000001,42.28827],"type":"Point"}
+}

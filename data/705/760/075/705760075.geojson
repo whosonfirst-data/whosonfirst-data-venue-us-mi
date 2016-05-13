@@ -1,0 +1,71 @@
+{
+  "id": 705760075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.37361,42.250495,-84.37361,42.250495",
+    "geom:latitude":42.250495,
+    "geom:longitude":-84.37361,
+    "iso:country":"US",
+    "sg:address":"620 S Roberts St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 2654",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GeIBpuDcnfT8Eir4PPkp6_42.250495_-84.373610@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788090,
+    "wof:geomhash":"bcf90c7dd8a125434f32657250146d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705760075
+        }
+    ],
+    "wof:id":705760075,
+    "wof:lastmodified":1461788090,
+    "wof:name":"Christian Westchester School",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.37361,
+    42.250495,
+    -84.37361,
+    42.250495
+],
+  "geometry": {"coordinates":[-84.37361,42.250495],"type":"Point"}
+}

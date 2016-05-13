@@ -1,0 +1,73 @@
+{
+  "id": 706249763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.884159,42.531708,-82.884159,42.531708",
+    "geom:latitude":42.531708,
+    "geom:longitude":-82.884159,
+    "iso:country":"US",
+    "sg:address":"22721 Masonic Blvd",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 855 4724",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OLt1hU9JwWRodsWRjV6ro_42.531708_-82.884159@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799189,
+    "wof:geomhash":"00979a267e768cf2709ea37bec41a259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706249763
+        }
+    ],
+    "wof:id":706249763,
+    "wof:lastmodified":1461799189,
+    "wof:name":"Junk Man",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -82.884159,
+    42.531708,
+    -82.884159,
+    42.531708
+],
+  "geometry": {"coordinates":[-82.884159,42.531708],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 689915587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.668619,41.799043,-86.668619,41.799043",
+    "geom:latitude":41.799043,
+    "geom:longitude":-86.668619,
+    "iso:country":"US",
+    "sg:address":"8911 US Hwy 12",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 756 3986",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_019oUgz2qiuPsaoIsyo2dd_41.799043_-86.668619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785006,
+    "wof:geomhash":"64f2289e55101e09bf535430b9e512b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689915587
+        }
+    ],
+    "wof:id":689915587,
+    "wof:lastmodified":1461785006,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.668619,
+    41.799043,
+    -86.668619,
+    41.799043
+],
+  "geometry": {"coordinates":[-86.66861900000001,41.799043],"type":"Point"}
+}

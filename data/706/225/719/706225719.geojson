@@ -1,0 +1,71 @@
+{
+  "id": 706225719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.66754,41.950817,-83.66754,41.950817",
+    "geom:latitude":41.950817,
+    "geom:longitude":-83.66754,
+    "iso:country":"US",
+    "sg:address":"601 Riley St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2429",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38J1njlhfqkQHwMjL2tBKZ_41.950817_-83.667540@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798619,
+    "wof:geomhash":"50d417eaeadc79a89be96474bd1542c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706225719
+        }
+    ],
+    "wof:id":706225719,
+    "wof:lastmodified":1461798619,
+    "wof:name":"Dundee Veterinary Clinic",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.66754,
+    41.950817,
+    -83.66754,
+    41.950817
+],
+  "geometry": {"coordinates":[-83.66754,41.950817],"type":"Point"}
+}

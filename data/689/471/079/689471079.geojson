@@ -1,0 +1,69 @@
+{
+  "id": 689471079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.245509,42.758199,-83.245509,42.758199",
+    "geom:latitude":42.758199,
+    "geom:longitude":-83.245509,
+    "iso:country":"US",
+    "sg:address":"1258 S Lapeer Rd",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 9375",
+    "sg:postcode":"48360",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSjX2LRmDHmnKk1f3c8Rc_42.758199_-83.245509@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772246,
+    "wof:geomhash":"abc823658eb3f7e4ce6b0f42d2bbec90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":689471079
+        }
+    ],
+    "wof:id":689471079,
+    "wof:lastmodified":1461772246,
+    "wof:name":"Buckhorn Service",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.245509,
+    42.758199,
+    -83.245509,
+    42.758199
+],
+  "geometry": {"coordinates":[-83.245509,42.758199],"type":"Point"}
+}

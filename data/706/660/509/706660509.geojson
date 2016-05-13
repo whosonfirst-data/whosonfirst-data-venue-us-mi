@@ -1,0 +1,76 @@
+{
+  "id": 706660509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.224098,42.530602,-83.224098,42.530602",
+    "geom:latitude":42.530602,
+    "geom:longitude":-83.224098,
+    "iso:country":"US",
+    "sg:address":"32831 Southfield Rd",
+    "sg:city":"Beverly Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 646 5655",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.beverlyhillsvets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896673,
+        102191575,
+        404508307,
+        85633793,
+        85952039,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hDN7Vx1MYden8U6njzbTg_42.531072_-83.224004@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808449,
+    "wof:geomhash":"dd66e589ed9b8da57b88c6f1c26fb6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508307,
+            "locality_id":85952039,
+            "neighbourhood_id":85896673,
+            "region_id":85688599,
+            "venue_id":706660509
+        }
+    ],
+    "wof:id":706660509,
+    "wof:lastmodified":1461808449,
+    "wof:name":"Beverly Hills Veterinary Associates",
+    "wof:parent_id":85896673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.224098,
+    42.530602,
+    -83.224098,
+    42.530602
+],
+  "geometry": {"coordinates":[-83.224098,42.530602],"type":"Point"}
+}

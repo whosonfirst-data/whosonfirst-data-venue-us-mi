@@ -1,0 +1,88 @@
+{
+  "id": 722479657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.077301,42.3689,-83.077301,42.3689",
+    "geom:latitude":42.3689,
+    "geom:longitude":-83.077301,
+    "iso:country":"US",
+    "sg:address":"3031 W Grand Blvd Ste 530",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 872 7608",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870609,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fjMfqCnN96RO9miHQf8vL_42.368900_-83.077301@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812269,
+    "wof:geomhash":"2b2310a1769244cf0a79422ecb5afbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":722479657
+        }
+    ],
+    "wof:id":722479657,
+    "wof:lastmodified":1461812269,
+    "wof:name":"University of Michigan Detroit Adjunct Admssns Ofc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -83.077301,
+    42.3689,
+    -83.077301,
+    42.3689
+],
+  "geometry": {"coordinates":[-83.07730100000001,42.3689],"type":"Point"}
+}

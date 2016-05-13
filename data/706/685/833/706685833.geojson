@@ -1,0 +1,72 @@
+{
+  "id": 706685833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.144354,43.2343,-86.144354,43.2343",
+    "geom:latitude":43.2343,
+    "geom:longitude":-86.144354,
+    "iso:country":"US",
+    "sg:address":"3998 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/egelston/45039-arturos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3593",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vw7Wk6ly9J9iQEwPUYoiz_43.234300_-86.144354@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809514,
+    "wof:geomhash":"5d37c258e536c82d034fa864ab108b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706685833
+        }
+    ],
+    "wof:id":706685833,
+    "wof:lastmodified":1461809514,
+    "wof:name":"Arturo's Pizza",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.144354,
+    43.2343,
+    -86.144354,
+    43.2343
+],
+  "geometry": {"coordinates":[-86.14435400000001,43.2343],"type":"Point"}
+}

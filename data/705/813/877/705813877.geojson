@@ -1,0 +1,73 @@
+{
+  "id": 705813877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.069214,45.763172,-87.069214,45.763172",
+    "geom:latitude":45.763172,
+    "geom:longitude":-87.069214,
+    "iso:country":"US",
+    "sg:address":"1323 Sheridan Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 0123",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32gLykrvEDNWsHMTOtYgz4_45.763172_-87.069214@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789325,
+    "wof:geomhash":"16f7517afd34994628b6d67514f3451b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":705813877
+        }
+    ],
+    "wof:id":705813877,
+    "wof:lastmodified":1461789325,
+    "wof:name":"Pooch Parlor",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.069214,
+    45.763172,
+    -87.069214,
+    45.763172
+],
+  "geometry": {"coordinates":[-87.069214,45.763172],"type":"Point"}
+}

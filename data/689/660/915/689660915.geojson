@@ -1,0 +1,71 @@
+{
+  "id": 689660915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.538424,41.744345,-83.538424,41.744345",
+    "geom:latitude":41.744345,
+    "geom:longitude":-83.538424,
+    "iso:country":"US",
+    "sg:address":"6960 Telegraph Rd",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 7468",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jcH8ozVPRllvHNMbSOLX2_41.744345_-83.538424@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778148,
+    "wof:geomhash":"93de3c52e01eea160d5b3202d05e81dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":689660915
+        }
+    ],
+    "wof:id":689660915,
+    "wof:lastmodified":1461778148,
+    "wof:name":"Ron's Diesel Svc",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.538424,
+    41.744345,
+    -83.538424,
+    41.744345
+],
+  "geometry": {"coordinates":[-83.53842400000001,41.744345],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 689900375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029097,42.548757,-83.029097,42.548757",
+    "geom:latitude":42.548757,
+    "geom:longitude":-83.029097,
+    "iso:country":"US",
+    "sg:address":"34911 Van Dyke Ave",
+    "sg:city":"Sterling Heights",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 268 3628",
+    "sg:postcode":"48312",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881181,
+        102191575,
+        404507483,
+        85633793,
+        85951697,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37MQP7xckv8uHExkEcspT1_42.548757_-83.029097@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784583,
+    "wof:geomhash":"e50c806df9f6190c2c2a37072110952c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507483,
+            "locality_id":85951697,
+            "neighbourhood_id":85881181,
+            "region_id":85688599,
+            "venue_id":689900375
+        }
+    ],
+    "wof:id":689900375,
+    "wof:lastmodified":1461784583,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85881181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.029097,
+    42.548757,
+    -83.029097,
+    42.548757
+],
+  "geometry": {"coordinates":[-83.02909699999999,42.548757],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705786431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.410277,42.652509,-83.410277,42.652509",
+    "geom:latitude":42.652509,
+    "geom:longitude":-83.410277,
+    "iso:country":"US",
+    "sg:address":"6020 Pontiac Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 666 4000",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820385,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72jLWmI5VZlLYzC6oUwJPT_42.652509_-83.410277@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788721,
+    "wof:geomhash":"831877d7382b4f7c3f8c470880ef40e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85820385,
+            "region_id":85688599,
+            "venue_id":705786431
+        }
+    ],
+    "wof:id":705786431,
+    "wof:lastmodified":1461788721,
+    "wof:name":"Waterford School District",
+    "wof:parent_id":85820385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    -83.410277,
+    42.652509,
+    -83.410277,
+    42.652509
+],
+  "geometry": {"coordinates":[-83.41027699999999,42.652509],"type":"Point"}
+}

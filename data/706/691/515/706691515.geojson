@@ -1,0 +1,84 @@
+{
+  "id": 706691515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.208298,42.533401,-83.208298,42.533401",
+    "geom:latitude":42.533401,
+    "geom:longitude":-83.208298,
+    "iso:country":"US",
+    "sg:address":"1555 E 14 Mile Rd",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 644 1916",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896573,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SVSWOXCpJR0rDhJsDPs57_42.533401_-83.208298@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809733,
+    "wof:geomhash":"d7070b7a2e34d7d096e4f120a677983a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":85896573,
+            "region_id":85688599,
+            "venue_id":706691515
+        }
+    ],
+    "wof:id":706691515,
+    "wof:lastmodified":1461809733,
+    "wof:name":"Kako's Market",
+    "wof:parent_id":85896573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.208298,
+    42.533401,
+    -83.208298,
+    42.533401
+],
+  "geometry": {"coordinates":[-83.208298,42.533401],"type":"Point"}
+}

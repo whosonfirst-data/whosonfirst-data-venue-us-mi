@@ -1,0 +1,71 @@
+{
+  "id": 706401949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560181,42.251519,-85.560181,42.251519",
+    "geom:latitude":42.251519,
+    "geom:longitude":-85.560181,
+    "iso:country":"US",
+    "sg:address":"4011 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 1537",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jVsIxXxSOlgWZLGbjEAdK_42.251519_-85.560181@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802436,
+    "wof:geomhash":"1f46913eeb8c2e2ad82deb6a71feffcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706401949
+        }
+    ],
+    "wof:id":706401949,
+    "wof:lastmodified":1461802436,
+    "wof:name":"Carriage Cleaners",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.560181,
+    42.251519,
+    -85.560181,
+    42.251519
+],
+  "geometry": {"coordinates":[-85.560181,42.251519],"type":"Point"}
+}

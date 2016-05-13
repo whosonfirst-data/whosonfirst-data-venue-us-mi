@@ -1,0 +1,71 @@
+{
+  "id": 706320789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.733639,41.792556,-86.733639,41.792556",
+    "geom:latitude":41.792556,
+    "geom:longitude":-86.733639,
+    "iso:country":"US",
+    "sg:address":"608 E Clay St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1854",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "compressor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AB9UniEbQRuMUePqGmEDZ_41.792556_-86.733639@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800744,
+    "wof:geomhash":"8b6cd58b6b9b970d30d5ea7e1ce05833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706320789
+        }
+    ],
+    "wof:id":706320789,
+    "wof:lastmodified":1461800744,
+    "wof:name":"Zebell Compressor Svc",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor"
+    ]
+},
+  "bbox": [
+    -86.733639,
+    41.792556,
+    -86.733639,
+    41.792556
+],
+  "geometry": {"coordinates":[-86.733639,41.792556],"type":"Point"}
+}

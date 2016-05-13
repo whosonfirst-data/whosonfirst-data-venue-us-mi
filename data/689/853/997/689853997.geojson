@@ -1,0 +1,73 @@
+{
+  "id": 689853997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761221,43.398272,-85.761221,43.398272",
+    "geom:latitude":43.398272,
+    "geom:longitude":-85.761221,
+    "iso:country":"US",
+    "sg:address":"8610 Vista Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 9913",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ji3Ymi0sRehmMBB0Hml0B_43.398272_-85.761221@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783399,
+    "wof:geomhash":"6ca2c4e4041ad3926146f830e2fb6be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689853997
+        }
+    ],
+    "wof:id":689853997,
+    "wof:lastmodified":1461783399,
+    "wof:name":"American Waste",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.761221,
+    43.398272,
+    -85.761221,
+    43.398272
+],
+  "geometry": {"coordinates":[-85.76122100000001,43.398272],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689911765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.335863,42.935401,-85.335863,42.935401",
+    "geom:latitude":42.935401,
+    "geom:longitude":-85.335863,
+    "iso:country":"US",
+    "sg:address":"140 N Washington St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 6546",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5caG86v7f18wuqy74D5Q_42.935401_-85.335863@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784906,
+    "wof:geomhash":"283b7098c3610d787a4a54918e694602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689911765
+        }
+    ],
+    "wof:id":689911765,
+    "wof:lastmodified":1461784906,
+    "wof:name":"L A Trim",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.335863,
+    42.935401,
+    -85.335863,
+    42.935401
+],
+  "geometry": {"coordinates":[-85.335863,42.935401],"type":"Point"}
+}

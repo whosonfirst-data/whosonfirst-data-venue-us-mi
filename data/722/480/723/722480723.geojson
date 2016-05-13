@@ -1,0 +1,85 @@
+{
+  "id": 722480723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.140962,42.363937,-83.140962,42.363937",
+    "geom:latitude":42.363937,
+    "geom:longitude":-83.140962,
+    "iso:country":"US",
+    "sg:address":"7131 Westfield St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 834 8888",
+    "sg:postcode":"48204",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "classic",
+        "automobile",
+        "painting",
+        "restoration-antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870625,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NGpNdnJwR3XTbD5VRnS1u_42.363937_-83.140962@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812320,
+    "wof:geomhash":"a927e03829a798068c17df35c32c0f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870625,
+            "region_id":85688599,
+            "venue_id":722480723
+        }
+    ],
+    "wof:id":722480723,
+    "wof:lastmodified":1461812320,
+    "wof:name":"Hunt's Collision & Restoration",
+    "wof:parent_id":85870625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "classic",
+        "automobile",
+        "painting",
+        "restoration-antique"
+    ]
+},
+  "bbox": [
+    -83.140962,
+    42.363937,
+    -83.140962,
+    42.363937
+],
+  "geometry": {"coordinates":[-83.140962,42.363937],"type":"Point"}
+}

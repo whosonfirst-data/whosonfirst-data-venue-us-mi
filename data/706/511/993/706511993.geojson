@@ -1,0 +1,73 @@
+{
+  "id": 706511993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.547301,42.915649,-85.547301,42.915649",
+    "geom:latitude":42.915649,
+    "geom:longitude":-85.547301,
+    "iso:country":"US",
+    "sg:address":"4995 Starr St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 975 0500",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gQY3ebZlPwDAP7QH9lalZ_42.915649_-85.547301@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804886,
+    "wof:geomhash":"268561d170fa7caa7ebd8a521a830f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706511993
+        }
+    ],
+    "wof:id":706511993,
+    "wof:lastmodified":1461804886,
+    "wof:name":"MTI Retreading Co",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.547301,
+    42.915649,
+    -85.547301,
+    42.915649
+],
+  "geometry": {"coordinates":[-85.547301,42.915649],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706678581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.577195,42.253801,-83.577195,42.253801",
+    "geom:latitude":42.253801,
+    "geom:longitude":-83.577195,
+    "iso:country":"US",
+    "sg:address":"1653 Holmes Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/70049-cottage-inn-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 2100",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RcrpgAJKnmVRHf2DbYS7V_42.253801_-83.577195@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809230,
+    "wof:geomhash":"1d2cd67c0f9dda4aac63940237cc867c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678581
+        }
+    ],
+    "wof:id":706678581,
+    "wof:lastmodified":1461809230,
+    "wof:name":"Cottage Inn Pizza",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.577195,
+    42.253801,
+    -83.577195,
+    42.253801
+],
+  "geometry": {"coordinates":[-83.577195,42.253801],"type":"Point"}
+}

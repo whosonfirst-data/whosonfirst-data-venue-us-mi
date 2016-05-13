@@ -1,0 +1,71 @@
+{
+  "id": 689510837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.450092,43.015381,-82.450092,43.015381",
+    "geom:latitude":43.015381,
+    "geom:longitude":-82.450092,
+    "iso:country":"US",
+    "sg:address":"1978 Holland Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 7511",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HN4qrrMostMfKhAKMt7nB_43.015381_-82.450092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773440,
+    "wof:geomhash":"9e5cd05beaf393507ee836a1a5c0f518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689510837
+        }
+    ],
+    "wof:id":689510837,
+    "wof:lastmodified":1461773440,
+    "wof:name":"Holland Dental Ctr",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.450092,
+    43.015381,
+    -82.450092,
+    43.015381
+],
+  "geometry": {"coordinates":[-82.450092,43.015381],"type":"Point"}
+}

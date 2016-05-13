@@ -1,0 +1,69 @@
+{
+  "id": 689639911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661966,42.449915,-85.661966,42.449915",
+    "geom:latitude":42.449915,
+    "geom:longitude":-85.661966,
+    "iso:country":"US",
+    "sg:address":"1211 M 89",
+    "sg:city":"Plainwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 685 9139",
+    "sg:postcode":"49080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MKLH32kGTvCDtieaqqPD6_42.449915_-85.661966@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777442,
+    "wof:geomhash":"9cb0a6287dcf2339372c99081bb9d257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689639911
+        }
+    ],
+    "wof:id":689639911,
+    "wof:lastmodified":1461777442,
+    "wof:name":"Nation 1 Transmissions",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.661966,
+    42.449915,
+    -85.661966,
+    42.449915
+],
+  "geometry": {"coordinates":[-85.66196600000001,42.449915],"type":"Point"}
+}

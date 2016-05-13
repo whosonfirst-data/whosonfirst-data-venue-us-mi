@@ -1,0 +1,83 @@
+{
+  "id": 706689401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.070441,45.800793,-88.070441,45.800793",
+    "geom:latitude":45.800793,
+    "geom:longitude":-88.070441,
+    "iso:country":"US",
+    "sg:address":"700 S Carpenter Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kingsford/168580-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2602",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gSScIU0aDiYAasrKRE09l_45.800824_-88.070464@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809648,
+    "wof:geomhash":"b05e07b76879303439687c834852d167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706689401
+        }
+    ],
+    "wof:id":706689401,
+    "wof:lastmodified":1461809648,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -88.070441,
+    45.800793,
+    -88.070441,
+    45.800793
+],
+  "geometry": {"coordinates":[-88.070441,45.800793],"type":"Point"}
+}

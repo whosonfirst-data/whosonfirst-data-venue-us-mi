@@ -1,0 +1,67 @@
+{
+  "id": 706565275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.442516,46.284415,-87.442516,46.284415",
+    "geom:latitude":46.284415,
+    "geom:longitude":-87.442516,
+    "iso:country":"US",
+    "sg:address":"250 W Iron St",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 5726",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:website":"www.gwinn.k12.mi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U1PTTYcF2QvNAswWoInrU_46.284415_-87.442516@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805960,
+    "wof:geomhash":"7b765362b9b25afecbd5de72e150e07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706565275
+        }
+    ],
+    "wof:id":706565275,
+    "wof:lastmodified":1461805960,
+    "wof:name":"Gilbert Elementary School",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.442516,
+    46.284415,
+    -87.442516,
+    46.284415
+],
+  "geometry": {"coordinates":[-87.442516,46.284415],"type":"Point"}
+}

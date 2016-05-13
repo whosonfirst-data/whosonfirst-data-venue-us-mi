@@ -1,0 +1,91 @@
+{
+  "id": 706664343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.064688,42.467092,-83.064688,42.467092",
+    "geom:latitude":42.467092,
+    "geom:longitude":-83.064688,
+    "iso:country":"US",
+    "sg:address":"23670 Ryan Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 759 4424",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.van8collision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524429,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31u2RNLNmd8nKOUiSgOQe1_42.467599_-83.064669@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808635,
+    "wof:geomhash":"e0de1542346d36a0c9a95fb3e1706bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524429,
+            "region_id":85688599,
+            "venue_id":706664343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524839,
+            "region_id":85688599,
+            "venue_id":706664343
+        }
+    ],
+    "wof:id":706664343,
+    "wof:lastmodified":1461808635,
+    "wof:name":"Van 8 Collision",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.064688,
+    42.467092,
+    -83.064688,
+    42.467092
+],
+  "geometry": {"coordinates":[-83.064688,42.467092],"type":"Point"}
+}

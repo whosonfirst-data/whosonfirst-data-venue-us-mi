@@ -1,0 +1,71 @@
+{
+  "id": 705748055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739671,43.006808,-83.739671,43.006808",
+    "geom:latitude":43.006808,
+    "geom:longitude":-83.739671,
+    "iso:country":"US",
+    "sg:address":"4079 W Court St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 720 5438",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hxpZdVfhGByIPXSdA8iio_43.006808_-83.739671@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787809,
+    "wof:geomhash":"ddf3367af191916ce4c2353b843e679c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705748055
+        }
+    ],
+    "wof:id":705748055,
+    "wof:lastmodified":1461787809,
+    "wof:name":"Altha Janitorial Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.739671,
+    43.006808,
+    -83.739671,
+    43.006808
+],
+  "geometry": {"coordinates":[-83.739671,43.006808],"type":"Point"}
+}

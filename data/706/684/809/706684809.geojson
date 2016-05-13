@@ -1,0 +1,72 @@
+{
+  "id": 706684809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250615,41.774647,-86.250615,41.774647",
+    "geom:latitude":41.774647,
+    "geom:longitude":-86.250615,
+    "iso:country":"US",
+    "sg:address":"2701 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/196894-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 684 5756",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQxW7IKzQPxRfF0L39Blr_41.774647_-86.250615@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809477,
+    "wof:geomhash":"ef4938b710e9df5eae0cb192b0d67d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706684809
+        }
+    ],
+    "wof:id":706684809,
+    "wof:lastmodified":1461809477,
+    "wof:name":"Burger King",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.250615,
+    41.774647,
+    -86.250615,
+    41.774647
+],
+  "geometry": {"coordinates":[-86.250615,41.774647],"type":"Point"}
+}

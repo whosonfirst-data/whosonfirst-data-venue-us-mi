@@ -1,0 +1,72 @@
+{
+  "id": 706474209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.6424,41.952199,-83.6424,41.952199",
+    "geom:latitude":41.952199,
+    "geom:longitude":-83.6424,
+    "iso:country":"US",
+    "sg:address":"571 E Monroe St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 3242",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.kroger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p3Zu5XOF6Ctt5uBtb7MaK_41.952199_-83.642400@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803928,
+    "wof:geomhash":"0c1653cf60d4d25aa09d21e39c61faab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706474209
+        }
+    ],
+    "wof:id":706474209,
+    "wof:lastmodified":1461803928,
+    "wof:name":"Kroger",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.6424,
+    41.952199,
+    -83.6424,
+    41.952199
+],
+  "geometry": {"coordinates":[-83.64239999999999,41.952199],"type":"Point"}
+}

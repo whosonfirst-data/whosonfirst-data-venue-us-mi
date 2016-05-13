@@ -1,0 +1,74 @@
+{
+  "id": 722525821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.66198,42.739609,-84.66198,42.739609",
+    "geom:latitude":42.739609,
+    "geom:longitude":-84.66198,
+    "iso:country":"US",
+    "sg:address":"525 N Canal Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 8381",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.lansingmi.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MNk1m2WO2R9F2qWnTd7TC_42.739609_-84.661980@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814245,
+    "wof:geomhash":"d61f080032eea5435fb86a702e1f5836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":722525821
+        }
+    ],
+    "wof:id":722525821,
+    "wof:lastmodified":1461814245,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -84.66198,
+    42.739609,
+    -84.66198,
+    42.739609
+],
+  "geometry": {"coordinates":[-84.66198,42.739609],"type":"Point"}
+}

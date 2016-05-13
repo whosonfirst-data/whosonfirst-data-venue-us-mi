@@ -1,0 +1,69 @@
+{
+  "id": 706644165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.325547,41.93573,-86.325547,41.93573",
+    "geom:latitude":41.93573,
+    "geom:longitude":-86.325547,
+    "iso:country":"US",
+    "sg:address":"10140 Range Line Rd",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 5510",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P7Y4b5xwzHE1tQDWu9e7R_41.935730_-86.325547@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807679,
+    "wof:geomhash":"94756c3d5e182be2f817b546b41722f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706644165
+        }
+    ],
+    "wof:id":706644165,
+    "wof:lastmodified":1461807679,
+    "wof:name":"Berrien Twp Fire Dept",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.325547,
+    41.93573,
+    -86.325547,
+    41.93573
+],
+  "geometry": {"coordinates":[-86.325547,41.93573],"type":"Point"}
+}

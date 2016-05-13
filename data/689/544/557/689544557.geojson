@@ -1,0 +1,73 @@
+{
+  "id": 689544557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354814,43.416248,-86.354814,43.416248",
+    "geom:latitude":43.416248,
+    "geom:longitude":-86.354814,
+    "iso:country":"US",
+    "sg:address":"8691 Water St",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 8562",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36TExQr6WdMIx2JxrlgYwD_43.416248_-86.354814@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774514,
+    "wof:geomhash":"8482035c54d5868060d87c6acac8bbd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":689544557
+        }
+    ],
+    "wof:id":689544557,
+    "wof:lastmodified":1461774514,
+    "wof:name":"T-Car",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.354814,
+    43.416248,
+    -86.354814,
+    43.416248
+],
+  "geometry": {"coordinates":[-86.354814,43.416248],"type":"Point"}
+}

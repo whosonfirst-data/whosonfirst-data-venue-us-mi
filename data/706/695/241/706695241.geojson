@@ -1,0 +1,77 @@
+{
+  "id": 706695241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.286555,42.447995,-83.286555,42.447995",
+    "geom:latitude":42.447995,
+    "geom:longitude":-83.286555,
+    "iso:country":"US",
+    "sg:address":"21285 Hilltop St",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 358 2450",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870509,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qCg7IGyTmUjsrDDRyOWos_42.447995_-83.286555@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809880,
+    "wof:geomhash":"213670aaf0edb3065cdc435cdacaae88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870509,
+            "region_id":85688599,
+            "venue_id":706695241
+        }
+    ],
+    "wof:id":706695241,
+    "wof:lastmodified":1461809880,
+    "wof:name":"Corporate Bank Transit Inc",
+    "wof:parent_id":85870509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -83.286555,
+    42.447995,
+    -83.286555,
+    42.447995
+],
+  "geometry": {"coordinates":[-83.28655500000001,42.447995],"type":"Point"}
+}

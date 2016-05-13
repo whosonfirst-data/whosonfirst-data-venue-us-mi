@@ -1,0 +1,74 @@
+{
+  "id": 706723547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.532205,42.174535,-83.532205,42.174535",
+    "geom:latitude":42.174535,
+    "geom:longitude":-83.532205,
+    "iso:country":"US",
+    "sg:address":"50425 Bemis Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 461 9788",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vLMinpbv2A1VgqCqrfyTf_42.174535_-83.532205@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811134,
+    "wof:geomhash":"f0ecf66bd4bd4c1023d49376e3175ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706723547
+        }
+    ],
+    "wof:id":706723547,
+    "wof:lastmodified":1461811134,
+    "wof:name":"The Pet Resort Inc",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -83.532205,
+    42.174535,
+    -83.532205,
+    42.174535
+],
+  "geometry": {"coordinates":[-83.532205,42.174535],"type":"Point"}
+}

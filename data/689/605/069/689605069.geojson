@@ -1,0 +1,73 @@
+{
+  "id": 689605069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.091507,43.416105,-84.091507,43.416105",
+    "geom:latitude":43.416105,
+    "geom:longitude":-84.091507,
+    "iso:country":"US",
+    "sg:address":"300 Kennely Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 6909",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pbmS3WvfElDb35rdtx42J_43.416105_-84.091507@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776409,
+    "wof:geomhash":"c7139e48f7faa50e1543c54b9389ef78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689605069
+        }
+    ],
+    "wof:id":689605069,
+    "wof:lastmodified":1461776409,
+    "wof:name":"Swanhaven Manor",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.091507,
+    43.416105,
+    -84.091507,
+    43.416105
+],
+  "geometry": {"coordinates":[-84.09150699999999,43.416105],"type":"Point"}
+}

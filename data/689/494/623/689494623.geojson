@@ -1,0 +1,75 @@
+{
+  "id": 689494623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.914209,45.788661,-87.914209,45.788661",
+    "geom:latitude":45.788661,
+    "geom:longitude":-87.914209,
+    "iso:country":"US",
+    "sg:address":"101 9th Ave",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9164",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XmyyF3lZYovluQnJfqsLC_45.788661_-87.914209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772948,
+    "wof:geomhash":"63d93f2e7a630778c4a45291e4533f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689494623
+        }
+    ],
+    "wof:id":689494623,
+    "wof:lastmodified":1461772948,
+    "wof:name":"Ed's Auto Body",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.914209,
+    45.788661,
+    -87.914209,
+    45.788661
+],
+  "geometry": {"coordinates":[-87.914209,45.788661],"type":"Point"}
+}

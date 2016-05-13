@@ -1,0 +1,73 @@
+{
+  "id": 705746809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.717825,43.007829,-85.717825,43.007829",
+    "geom:latitude":43.007829,
+    "geom:longitude":-85.717825,
+    "iso:country":"US",
+    "sg:address":"2001 Waldorf St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 735 1527",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ay69qvUKWgnsM3TaLRmMW_43.007829_-85.717825@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787787,
+    "wof:geomhash":"dfcea49bf61ab53802fb86f3c7c7a383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":705746809
+        }
+    ],
+    "wof:id":705746809,
+    "wof:lastmodified":1461787787,
+    "wof:name":"Brooks Plumbing",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.717825,
+    43.007829,
+    -85.717825,
+    43.007829
+],
+  "geometry": {"coordinates":[-85.717825,43.007829],"type":"Point"}
+}

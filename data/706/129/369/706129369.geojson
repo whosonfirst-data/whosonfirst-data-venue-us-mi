@@ -1,0 +1,71 @@
+{
+  "id": 706129369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.976546,43.414901,-83.976546,43.414901",
+    "geom:latitude":43.414901,
+    "geom:longitude":-83.976546,
+    "iso:country":"US",
+    "sg:address":"1029 Gratiot Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 1113",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bN5CXTPgoLw6qurcYaSk2_43.414901_-83.976546@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796494,
+    "wof:geomhash":"bd55b480fecb555f9ad1e96059263203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706129369
+        }
+    ],
+    "wof:id":706129369,
+    "wof:lastmodified":1461796494,
+    "wof:name":"Tony's Original Restaurant",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "out"
+    ]
+},
+  "bbox": [
+    -83.976546,
+    43.414901,
+    -83.976546,
+    43.414901
+],
+  "geometry": {"coordinates":[-83.976546,43.414901],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689473891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.664393,41.851572,-83.664393,41.851572",
+    "geom:latitude":41.851572,
+    "geom:longitude":-83.664393,
+    "iso:country":"US",
+    "sg:address":"15656 Todd Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 6969",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0me2E6GPQ7hbXs3jXtiRoZ_41.851572_-83.664393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772350,
+    "wof:geomhash":"b20abd53423241004dd0a16825ecb5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689473891
+        }
+    ],
+    "wof:id":689473891,
+    "wof:lastmodified":1461772350,
+    "wof:name":"Lucas Auto Repair",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.664393,
+    41.851572,
+    -83.664393,
+    41.851572
+],
+  "geometry": {"coordinates":[-83.664393,41.851572],"type":"Point"}
+}

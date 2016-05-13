@@ -1,0 +1,69 @@
+{
+  "id": 706154585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.553567,42.205184,-84.553567,42.205184",
+    "geom:latitude":42.205184,
+    "geom:longitude":-84.553567,
+    "iso:country":"US",
+    "sg:address":"111 E Main St",
+    "sg:city":"Spring Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 4800",
+    "sg:postcode":"49283",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vHDqnQ3lZdQWhSw54oeKH_42.205184_-84.553567@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797079,
+    "wof:geomhash":"fae28b559385c48a1ef2db7b064dabb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706154585
+        }
+    ],
+    "wof:id":706154585,
+    "wof:lastmodified":1461797079,
+    "wof:name":"Spring Arbor Twp Fire Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.553567,
+    42.205184,
+    -84.553567,
+    42.205184
+],
+  "geometry": {"coordinates":[-84.553567,42.205184],"type":"Point"}
+}

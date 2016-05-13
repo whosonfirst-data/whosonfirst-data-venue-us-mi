@@ -1,0 +1,71 @@
+{
+  "id": 705981315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.377647,42.249279,-84.377647,42.249279",
+    "geom:latitude":42.249279,
+    "geom:longitude":-84.377647,
+    "iso:country":"US",
+    "sg:address":"2219 Chapin St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 5709",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w6C8tUZXP00ARUBUnubri_42.249279_-84.377647@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793191,
+    "wof:geomhash":"a594312111455decdb98b88efec25f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705981315
+        }
+    ],
+    "wof:id":705981315,
+    "wof:lastmodified":1461793191,
+    "wof:name":"Kinder Morgan Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -84.377647,
+    42.249279,
+    -84.377647,
+    42.249279
+],
+  "geometry": {"coordinates":[-84.377647,42.249279],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 706265699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.005427,42.457672,-83.005427,42.457672",
+    "geom:latitude":42.457672,
+    "geom:longitude":-83.005427,
+    "iso:country":"US",
+    "sg:address":"21750 Hoover Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 755 7620",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "sg:tags":[
+        "steel",
+        "mills"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524395,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524895,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xLKWGw0wV0xlGlQTlZHj7_42.457672_-83.005427@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799516,
+    "wof:geomhash":"573d6b3cd94f86a0b270c4db7aeb01b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524395,
+            "region_id":85688599,
+            "venue_id":706265699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":706265699
+        }
+    ],
+    "wof:id":706265699,
+    "wof:lastmodified":1461799516,
+    "wof:name":"Plymouth Shafting Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "mills"
+    ]
+},
+  "bbox": [
+    -83.005427,
+    42.457672,
+    -83.005427,
+    42.457672
+],
+  "geometry": {"coordinates":[-83.005427,42.457672],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 689821247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.02033,42.441396,-83.02033,42.441396",
+    "geom:latitude":42.441396,
+    "geom:longitude":-83.02033,
+    "iso:country":"US",
+    "sg:address":"4777 E Outer Dr",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 369 9100",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "psychiatric",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870543,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_116LweJM3y0ZwTyaTq3b6n_42.441396_-83.020330@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782552,
+    "wof:geomhash":"d96dba66af305d0f5ca2d6163f5058d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870543,
+            "region_id":85688599,
+            "venue_id":689821247
+        }
+    ],
+    "wof:id":689821247,
+    "wof:lastmodified":1461782552,
+    "wof:name":"St John Northeast Cmnty Hosp",
+    "wof:parent_id":85870543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "psychiatric",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.02033,
+    42.441396,
+    -83.02033,
+    42.441396
+],
+  "geometry": {"coordinates":[-83.02033,42.441396],"type":"Point"}
+}

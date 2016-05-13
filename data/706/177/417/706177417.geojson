@@ -1,0 +1,72 @@
+{
+  "id": 706177417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732506,43.024738,-83.732506,43.024738",
+    "geom:latitude":43.024738,
+    "geom:longitude":-83.732506,
+    "iso:country":"US",
+    "sg:address":"2918 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 238 4275",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.savealot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ePqkSLluzsnib0RCvULhI_43.024738_-83.732506@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797579,
+    "wof:geomhash":"362923fb00e06f46f620584abb7359be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706177417
+        }
+    ],
+    "wof:id":706177417,
+    "wof:lastmodified":1461797579,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.732506,
+    43.024738,
+    -83.732506,
+    43.024738
+],
+  "geometry": {"coordinates":[-83.732506,43.024738],"type":"Point"}
+}

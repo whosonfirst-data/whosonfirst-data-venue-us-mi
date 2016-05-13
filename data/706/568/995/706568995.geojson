@@ -1,0 +1,71 @@
+{
+  "id": 706568995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.279836,42.620451,-83.279836,42.620451",
+    "geom:latitude":42.620451,
+    "geom:longitude":-83.279836,
+    "iso:country":"US",
+    "sg:address":"565 S Saginaw St",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 745 8999",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ODNzwwV0fSuh3oMsJc7hB_42.620451_-83.279836@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806037,
+    "wof:geomhash":"e6bf4f6cfe6080dd93090882a1788e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706568995
+        }
+    ],
+    "wof:id":706568995,
+    "wof:lastmodified":1461806037,
+    "wof:name":"Auto Lube Plus Inc",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -83.279836,
+    42.620451,
+    -83.279836,
+    42.620451
+],
+  "geometry": {"coordinates":[-83.279836,42.620451],"type":"Point"}
+}

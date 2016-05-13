@@ -1,0 +1,93 @@
+{
+  "id": 706676021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.166636,42.532985,-83.166636,42.532985",
+    "geom:latitude":42.532985,
+    "geom:longitude":-83.166636,
+    "iso:country":"US",
+    "sg:address":"1700 W 14 Mile Rd",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/royal-oak/133194-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 288 3053",
+    "sg:postcode":"48073",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896813,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48bvFBitUnHy6heuzHObdw_42.532985_-83.166636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809122,
+    "wof:geomhash":"a1532e9b6c675efe41186832c0e53b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896813,
+            "region_id":85688599,
+            "venue_id":706676021
+        }
+    ],
+    "wof:id":706676021,
+    "wof:lastmodified":1461809122,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85896813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.166636,
+    42.532985,
+    -83.166636,
+    42.532985
+],
+  "geometry": {"coordinates":[-83.166636,42.532985],"type":"Point"}
+}

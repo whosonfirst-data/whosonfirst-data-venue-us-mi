@@ -1,0 +1,74 @@
+{
+  "id": 706682481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.453389,42.726982,-84.453389,42.726982",
+    "geom:latitude":42.726982,
+    "geom:longitude":-84.453389,
+    "iso:country":"US",
+    "sg:address":"2682 E Grand River Ave",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/meridian/248852-hersheys-steak--seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 337 7324",
+    "sg:postcode":"48823",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nUlRO4q9qQIPVBKSEEC04_42.726982_-84.453389@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809383,
+    "wof:geomhash":"5b2ca9f49f2118b1dac40176c2ded25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682481
+        }
+    ],
+    "wof:id":706682481,
+    "wof:lastmodified":1461809383,
+    "wof:name":"Hershey's Steak & Seafood",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.453389,
+    42.726982,
+    -84.453389,
+    42.726982
+],
+  "geometry": {"coordinates":[-84.453389,42.726982],"type":"Point"}
+}

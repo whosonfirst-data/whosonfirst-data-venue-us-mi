@@ -1,0 +1,86 @@
+{
+  "id": 706677567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.274791,42.356715,-83.274791,42.356715",
+    "geom:latitude":42.356715,
+    "geom:longitude":-83.274791,
+    "iso:country":"US",
+    "sg:address":"8675 N Telegraph Rd",
+    "sg:city":"Dearborn Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dearborn-heights/163042-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 563 1699",
+    "sg:postcode":"48127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870583,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75UHjFN05MGcoJo9ZAjeQI_42.356715_-83.274791@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809193,
+    "wof:geomhash":"405b268cd1fa0d168c2138b448356697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85870583,
+            "region_id":85688599,
+            "venue_id":706677567
+        }
+    ],
+    "wof:id":706677567,
+    "wof:lastmodified":1461809193,
+    "wof:name":"Rally's",
+    "wof:parent_id":85870583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.274791,
+    42.356715,
+    -83.274791,
+    42.356715
+],
+  "geometry": {"coordinates":[-83.27479099999999,42.356715],"type":"Point"}
+}

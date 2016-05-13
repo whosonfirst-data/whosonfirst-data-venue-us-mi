@@ -1,0 +1,73 @@
+{
+  "id": 689618257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.543197,42.653531,-84.543197,42.653531",
+    "geom:latitude":42.653531,
+    "geom:longitude":-84.543197,
+    "iso:country":"US",
+    "sg:address":"2373 Eifert Rd",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 9230",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GjEoaY10I9ZmebT5jPWvB_42.653531_-84.543197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776841,
+    "wof:geomhash":"25c0afad7c4ac5e8392e3f8a5fa57b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689618257
+        }
+    ],
+    "wof:id":689618257,
+    "wof:lastmodified":1461776841,
+    "wof:name":"Two Guys & A Wrench",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.543197,
+    42.653531,
+    -84.543197,
+    42.653531
+],
+  "geometry": {"coordinates":[-84.54319700000001,42.653531],"type":"Point"}
+}

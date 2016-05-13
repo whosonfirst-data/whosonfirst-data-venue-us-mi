@@ -1,0 +1,81 @@
+{
+  "id": 705974109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.245293,42.424268,-83.245293,42.424268",
+    "geom:latitude":42.424268,
+    "geom:longitude":-83.245293,
+    "iso:country":"US",
+    "sg:address":"18107 Patton St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 534 3749",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hGL52yGDLg7lOwebT2vw4_42.424268_-83.245293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793049,
+    "wof:geomhash":"ccabb3cdb7ca3fecd7624ab5de547088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":705974109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":705974109
+        }
+    ],
+    "wof:id":705974109,
+    "wof:lastmodified":1461793049,
+    "wof:name":"Patton Street Cmnty Block Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.245293,
+    42.424268,
+    -83.245293,
+    42.424268
+],
+  "geometry": {"coordinates":[-83.245293,42.424268],"type":"Point"}
+}

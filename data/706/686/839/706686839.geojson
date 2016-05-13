@@ -1,0 +1,72 @@
+{
+  "id": 706686839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.448498,44.232479,-85.448498,44.232479",
+    "geom:latitude":44.232479,
+    "geom:longitude":-85.448498,
+    "iso:country":"US",
+    "sg:address":"2404 Sunnyside Dr",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cadillac/141332-the-marina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 9322",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HcJGoQsjBRSUatCSFiAKv_44.232479_-85.448498@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809551,
+    "wof:geomhash":"372d7470ce12bf828dae04e99a868450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686839
+        }
+    ],
+    "wof:id":706686839,
+    "wof:lastmodified":1461809551,
+    "wof:name":"The Marina",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.448498,
+    44.232479,
+    -85.448498,
+    44.232479
+],
+  "geometry": {"coordinates":[-85.448498,44.232479],"type":"Point"}
+}

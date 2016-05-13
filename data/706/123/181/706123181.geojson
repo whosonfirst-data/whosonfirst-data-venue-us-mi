@@ -1,0 +1,69 @@
+{
+  "id": 706123181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.238695,42.775051,-83.238695,42.775051",
+    "geom:latitude":42.775051,
+    "geom:longitude":-83.238695,
+    "iso:country":"US",
+    "sg:address":"167 Glanworth St",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 814 8263",
+    "sg:postcode":"48362",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EJVmL4BN4jHOLPdUJxIUq_42.775051_-83.238695@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796334,
+    "wof:geomhash":"6a1365175273e0ffe107bf89725f1e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":706123181
+        }
+    ],
+    "wof:id":706123181,
+    "wof:lastmodified":1461796334,
+    "wof:name":"Ricks Orion Transmission",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.238695,
+    42.775051,
+    -83.238695,
+    42.775051
+],
+  "geometry": {"coordinates":[-83.23869500000001,42.775051],"type":"Point"}
+}

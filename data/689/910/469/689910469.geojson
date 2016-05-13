@@ -1,0 +1,79 @@
+{
+  "id": 689910469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.110541,42.315524,-83.110541,42.315524",
+    "geom:latitude":42.315524,
+    "geom:longitude":-83.110541,
+    "iso:country":"US",
+    "sg:address":"6371 W Vernor Hwy",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 843 7278",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870603,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ibqJSLe7hnCfGylFvHaeI_42.315524_-83.110541@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784869,
+    "wof:geomhash":"23eec46ba56b6558c0d65fc7edb0f570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870603,
+            "region_id":85688599,
+            "venue_id":689910469
+        }
+    ],
+    "wof:id":689910469,
+    "wof:lastmodified":1461784869,
+    "wof:name":"Domino Brothers Trucking",
+    "wof:parent_id":85870603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.110541,
+    42.315524,
+    -83.110541,
+    42.315524
+],
+  "geometry": {"coordinates":[-83.110541,42.315524],"type":"Point"}
+}

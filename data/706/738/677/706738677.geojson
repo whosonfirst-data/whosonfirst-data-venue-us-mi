@@ -1,0 +1,85 @@
+{
+  "id": 706738677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.311558,42.224735,-83.311558,42.224735",
+    "geom:latitude":42.224735,
+    "geom:longitude":-83.311558,
+    "iso:country":"US",
+    "sg:address":"28000 Goddard Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 946 8750",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "forwarding",
+        "broker",
+        "custom"
+    ],
+    "sg:website":"http://www.trans-overseas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851475,
+        102191575,
+        404508657,
+        85633793,
+        85951131,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OzTz40v6oii2UtiX2bSDC_42.224735_-83.311558@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811759,
+    "wof:geomhash":"54e03eb90d42e28977c5a14a59b3609a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508657,
+            "locality_id":85951131,
+            "neighbourhood_id":85851475,
+            "region_id":85688599,
+            "venue_id":706738677
+        }
+    ],
+    "wof:id":706738677,
+    "wof:lastmodified":1461811759,
+    "wof:name":"Trans Overseas Corporation",
+    "wof:parent_id":85851475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding",
+        "broker",
+        "custom"
+    ]
+},
+  "bbox": [
+    -83.311558,
+    42.224735,
+    -83.311558,
+    42.224735
+],
+  "geometry": {"coordinates":[-83.31155800000001,42.224735],"type":"Point"}
+}

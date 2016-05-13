@@ -1,0 +1,73 @@
+{
+  "id": 706420443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.946578,43.467037,-85.946578,43.467037",
+    "geom:latitude":43.467037,
+    "geom:longitude":-85.946578,
+    "iso:country":"US",
+    "sg:address":"46 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1046",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZCDbCVumyeas9EJr0cani_43.467037_-85.946578@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802798,
+    "wof:geomhash":"65ffd7f61692d0e8155731f4b825363d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706420443
+        }
+    ],
+    "wof:id":706420443,
+    "wof:lastmodified":1461802798,
+    "wof:name":"Koffee Kuppe",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.946578,
+    43.467037,
+    -85.946578,
+    43.467037
+],
+  "geometry": {"coordinates":[-85.946578,43.467037],"type":"Point"}
+}

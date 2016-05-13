@@ -1,0 +1,69 @@
+{
+  "id": 689914403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.143792,43.234303,-86.143792,43.234303",
+    "geom:latitude":43.234303,
+    "geom:longitude":-86.143792,
+    "iso:country":"US",
+    "sg:address":"4037 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3244",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zcbNN2VWn26hUqdca8wYQ_43.234303_-86.143792@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784972,
+    "wof:geomhash":"e2351f91de1927c29ee4f212dd6bb649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689914403
+        }
+    ],
+    "wof:id":689914403,
+    "wof:lastmodified":1461784972,
+    "wof:name":"National Transmission",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.143792,
+    43.234303,
+    -86.143792,
+    43.234303
+],
+  "geometry": {"coordinates":[-86.143792,43.234303],"type":"Point"}
+}

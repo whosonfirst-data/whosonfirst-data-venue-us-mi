@@ -1,0 +1,83 @@
+{
+  "id": 706699479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.929497,42.610298,-82.929497,42.610298",
+    "geom:latitude":42.610298,
+    "geom:longitude":-82.929497,
+    "iso:country":"US",
+    "sg:address":"18990 Cass Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 412 5070",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47mk4e6yFXQNBAy6xcaARf_42.610298_-82.929497@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810052,
+    "wof:geomhash":"7f90c6d957b249302c75a927b892c04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706699479
+        }
+    ],
+    "wof:id":706699479,
+    "wof:lastmodified":1461810052,
+    "wof:name":"Early Learning Academy",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -82.929497,
+    42.610298,
+    -82.929497,
+    42.610298
+],
+  "geometry": {"coordinates":[-82.929497,42.610298],"type":"Point"}
+}

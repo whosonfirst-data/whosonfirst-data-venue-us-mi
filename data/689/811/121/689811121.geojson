@@ -1,0 +1,71 @@
+{
+  "id": 689811121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.933808,43.063591,-85.933808,43.063591",
+    "geom:latitude":43.063591,
+    "geom:longitude":-85.933808,
+    "iso:country":"US",
+    "sg:address":"259 Main St",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 6399",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TPFqMoEXYPy8NWH86GHLD_43.063591_-85.933808@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782227,
+    "wof:geomhash":"6df5695787f99466536a757679c8c1a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":689811121
+        }
+    ],
+    "wof:id":689811121,
+    "wof:lastmodified":1461782227,
+    "wof:name":"Ottawa County Mental Health",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -85.933808,
+    43.063591,
+    -85.933808,
+    43.063591
+],
+  "geometry": {"coordinates":[-85.933808,43.063591],"type":"Point"}
+}

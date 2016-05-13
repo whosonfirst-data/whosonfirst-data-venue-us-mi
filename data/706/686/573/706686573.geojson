@@ -1,0 +1,80 @@
+{
+  "id": 706686573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579952,43.061062,-85.579952,43.061062",
+    "geom:latitude":43.061062,
+    "geom:longitude":-85.579952,
+    "iso:country":"US",
+    "sg:address":"5429 Northland Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plainfield/122000-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 447 7741",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X50RmnfGkvbXlxsyaNUUs_43.061062_-85.579952@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809541,
+    "wof:geomhash":"0b4daa9a363e436981166b21fe0acaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706686573
+        }
+    ],
+    "wof:id":706686573,
+    "wof:lastmodified":1461809541,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.579952,
+    43.061062,
+    -85.579952,
+    43.061062
+],
+  "geometry": {"coordinates":[-85.57995200000001,43.061062],"type":"Point"}
+}

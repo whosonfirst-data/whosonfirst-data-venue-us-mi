@@ -1,0 +1,71 @@
+{
+  "id": 706521225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398772,42.699085,-83.398772,42.699085",
+    "geom:latitude":42.699085,
+    "geom:longitude":-83.398772,
+    "iso:country":"US",
+    "sg:address":"5498 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 9898",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JBNbAIrcccfxNLwN7XDV9_42.699085_-83.398772@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805059,
+    "wof:geomhash":"f3d9d4885ce8256ca0a700378a579e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706521225
+        }
+    ],
+    "wof:id":706521225,
+    "wof:lastmodified":1461805059,
+    "wof:name":"Al's Quick Lube",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -83.398772,
+    42.699085,
+    -83.398772,
+    42.699085
+],
+  "geometry": {"coordinates":[-83.39877199999999,42.699085],"type":"Point"}
+}

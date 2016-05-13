@@ -1,0 +1,73 @@
+{
+  "id": 689659885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244256,43.220575,-86.244256,43.220575",
+    "geom:latitude":43.220575,
+    "geom:longitude":-86.244256,
+    "iso:country":"US",
+    "sg:address":"1774 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 5758",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Imv9bflfOdJv0D7gN9rzg_43.220575_-86.244256@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778125,
+    "wof:geomhash":"084ca0d736073710cd53319b952498a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689659885
+        }
+    ],
+    "wof:id":689659885,
+    "wof:lastmodified":1461778125,
+    "wof:name":"Wilson Reichardt & Lobert",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.244256,
+    43.220575,
+    -86.244256,
+    43.220575
+],
+  "geometry": {"coordinates":[-86.24425599999999,43.220575],"type":"Point"}
+}

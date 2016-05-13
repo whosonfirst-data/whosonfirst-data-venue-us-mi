@@ -1,0 +1,71 @@
+{
+  "id": 689848283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428828,42.223461,-84.428828,42.223461",
+    "geom:latitude":42.223461,
+    "geom:longitude":-84.428828,
+    "iso:country":"US",
+    "sg:address":"2031 Cascade Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 768 1270",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "detector",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O0iD5buhxTjEgmWKiqgHr_42.223461_-84.428828@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783277,
+    "wof:geomhash":"3a6c7c1132988c14a38f75880e2f355f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689848283
+        }
+    ],
+    "wof:id":689848283,
+    "wof:lastmodified":1461783277,
+    "wof:name":"Bacharach Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detector",
+        "gas"
+    ]
+},
+  "bbox": [
+    -84.428828,
+    42.223461,
+    -84.428828,
+    42.223461
+],
+  "geometry": {"coordinates":[-84.428828,42.223461],"type":"Point"}
+}

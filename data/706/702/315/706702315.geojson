@@ -1,0 +1,87 @@
+{
+  "id": 706702315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.834361,42.674807,-82.834361,42.674807",
+    "geom:latitude":42.674807,
+    "geom:longitude":-82.834361,
+    "iso:country":"US",
+    "sg:address":"27255 23 Mile Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 2001",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consumer",
+        "super"
+    ],
+    "sg:website":"http://www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834493,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x8ODD7GnJEhf7tEeT8R4J_42.674807_-82.834361@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810175,
+    "wof:geomhash":"1747a8435a63396bca5c495dbe0f8fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85834493,
+            "region_id":85688599,
+            "venue_id":706702315
+        }
+    ],
+    "wof:id":706702315,
+    "wof:lastmodified":1461810175,
+    "wof:name":"MEIJER",
+    "wof:parent_id":85834493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer",
+        "super"
+    ]
+},
+  "bbox": [
+    -82.834361,
+    42.674807,
+    -82.834361,
+    42.674807
+],
+  "geometry": {"coordinates":[-82.834361,42.674807],"type":"Point"}
+}

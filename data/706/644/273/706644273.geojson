@@ -1,0 +1,82 @@
+{
+  "id": 706644273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.643263,42.182591,-84.643263,42.182591",
+    "geom:latitude":42.182591,
+    "geom:longitude":-84.643263,
+    "iso:country":"US",
+    "sg:address":"202 E Jackson Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 8441",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "ale",
+        "gasoline",
+        "convenience",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YU6RA5WbiTgqlSDoy8Jz9_42.182591_-84.643263@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807681,
+    "wof:geomhash":"2637603d8bb2a507f7ad835b729393b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706644273
+        }
+    ],
+    "wof:id":706644273,
+    "wof:lastmodified":1461807681,
+    "wof:name":"Concord PS Food Mart",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale",
+        "gasoline",
+        "convenience",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.643263,
+    42.182591,
+    -84.643263,
+    42.182591
+],
+  "geometry": {"coordinates":[-84.643263,42.182591],"type":"Point"}
+}

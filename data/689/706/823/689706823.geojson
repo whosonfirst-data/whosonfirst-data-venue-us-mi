@@ -1,0 +1,74 @@
+{
+  "id": 689706823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.851886,42.601744,-82.851886,42.601744",
+    "geom:latitude":42.601744,
+    "geom:longitude":-82.851886,
+    "iso:country":"US",
+    "sg:address":"41451 Irwin Dr",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 5829",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "cylinder"
+    ],
+    "sg:website":"www.sarnsindustries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4onMfivuTWf0S7MJpaaMap_42.601744_-82.851886@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779312,
+    "wof:geomhash":"a03f7f4c21910b161579b37766e93845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":689706823
+        }
+    ],
+    "wof:id":689706823,
+    "wof:lastmodified":1461779312,
+    "wof:name":"Sarns Machine",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "cylinder"
+    ]
+},
+  "bbox": [
+    -82.851886,
+    42.601744,
+    -82.851886,
+    42.601744
+],
+  "geometry": {"coordinates":[-82.85188599999999,42.601744],"type":"Point"}
+}

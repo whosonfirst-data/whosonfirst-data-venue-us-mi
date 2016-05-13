@@ -1,0 +1,71 @@
+{
+  "id": 705889591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.611584,46.509986,-87.611584,46.509986",
+    "geom:latitude":46.509986,
+    "geom:longitude":-87.611584,
+    "iso:country":"US",
+    "sg:address":"100 Croix St",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 9958",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fKWMN7r1R9QwerL9AmC7k_46.509986_-87.611584@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791172,
+    "wof:geomhash":"c7e2ea1c5c992758048151ed96dd0665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705889591
+        }
+    ],
+    "wof:id":705889591,
+    "wof:lastmodified":1461791172,
+    "wof:name":"Dan W Collins DDS",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.611584,
+    46.509986,
+    -87.611584,
+    46.509986
+],
+  "geometry": {"coordinates":[-87.61158399999999,46.509986],"type":"Point"}
+}

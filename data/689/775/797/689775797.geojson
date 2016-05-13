@@ -1,0 +1,67 @@
+{
+  "id": 689775797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.565689,47.121857,-88.565689,47.121857",
+    "geom:latitude":47.121857,
+    "geom:longitude":-88.565689,
+    "iso:country":"US",
+    "sg:address":"701 Shelden Ave",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 000 1111",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WEyfk0Nqt40PSC8xCLAU8_47.121857_-88.565689@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781144,
+    "wof:geomhash":"429431cb01c4e2e194158f4932d37c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689775797
+        }
+    ],
+    "wof:id":689775797,
+    "wof:lastmodified":1461781144,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.565689,
+    47.121857,
+    -88.565689,
+    47.121857
+],
+  "geometry": {"coordinates":[-88.56568900000001,47.121857],"type":"Point"}
+}

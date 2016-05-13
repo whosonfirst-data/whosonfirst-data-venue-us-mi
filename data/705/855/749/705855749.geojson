@@ -1,0 +1,73 @@
+{
+  "id": 705855749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.661747,41.813671,-83.661747,41.813671",
+    "geom:latitude":41.813671,
+    "geom:longitude":-83.661747,
+    "iso:country":"US",
+    "sg:address":"4830 School Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 8912",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GYROnoPiXYo165XmwheAQ_41.813671_-83.661747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790321,
+    "wof:geomhash":"673df1a8226911214c6cc6881a5bb419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":705855749
+        }
+    ],
+    "wof:id":705855749,
+    "wof:lastmodified":1461790321,
+    "wof:name":"Bob's Collision & Restoration",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.661747,
+    41.813671,
+    -83.661747,
+    41.813671
+],
+  "geometry": {"coordinates":[-83.66174700000001,41.813671],"type":"Point"}
+}

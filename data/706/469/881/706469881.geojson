@@ -1,0 +1,88 @@
+{
+  "id": 706469881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080611,42.367224,-83.080611,42.367224",
+    "geom:latitude":42.367224,
+    "geom:longitude":-83.080611,
+    "iso:country":"US",
+    "sg:address":"2920 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 4247",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870585,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23VfWwYWDPpP9BofhVvevK_42.367224_-83.080611@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803844,
+    "wof:geomhash":"29cd6b39898eaa8efc39eb2a5f3bdaa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706469881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":706469881
+        }
+    ],
+    "wof:id":706469881,
+    "wof:lastmodified":1461803844,
+    "wof:name":"Klassy CS Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.080611,
+    42.367224,
+    -83.080611,
+    42.367224
+],
+  "geometry": {"coordinates":[-83.080611,42.367224],"type":"Point"}
+}

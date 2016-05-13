@@ -1,0 +1,81 @@
+{
+  "id": 706421483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613402,42.182953,-85.613402,42.182953",
+    "geom:latitude":42.182953,
+    "geom:longitude":-85.613402,
+    "iso:country":"US",
+    "sg:address":"1824 Vanderbilt Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 329 0705",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "small",
+        "elevator",
+        "mfg"
+    ],
+    "sg:website":"www.centralelevator.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iV6BilmAEplw8QZoQmYN1_42.182953_-85.613402@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802823,
+    "wof:geomhash":"42eb5eff95d2ece6aae3bcdae1681f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706421483
+        }
+    ],
+    "wof:id":706421483,
+    "wof:lastmodified":1461802823,
+    "wof:name":"Central Elevator Co Inc",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "elevator",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.613402,
+    42.182953,
+    -85.613402,
+    42.182953
+],
+  "geometry": {"coordinates":[-85.61340199999999,42.182953],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 705712661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.916735,45.791762,-87.916735,45.791762",
+    "geom:latitude":45.791762,
+    "geom:longitude":-87.916735,
+    "iso:country":"US",
+    "sg:address":"100 W 11th Ave",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9226",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "truck"
+    ],
+    "sg:website":"www.loadmaster.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mLYkljiz6laxsrD6Dl9rm_45.791762_-87.916735@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786966,
+    "wof:geomhash":"d7670bf67009a4306d64a0ecc6c853a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705712661
+        }
+    ],
+    "wof:id":705712661,
+    "wof:lastmodified":1461786966,
+    "wof:name":"Loadmaster",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.916735,
+    45.791762,
+    -87.916735,
+    45.791762
+],
+  "geometry": {"coordinates":[-87.916735,45.791762],"type":"Point"}
+}

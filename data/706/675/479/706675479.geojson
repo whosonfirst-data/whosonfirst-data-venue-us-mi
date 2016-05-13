@@ -1,0 +1,74 @@
+{
+  "id": 706675479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.477093,42.919888,-82.477093,42.919888",
+    "geom:latitude":42.919888,
+    "geom:longitude":-82.477093,
+    "iso:country":"US",
+    "sg:address":"1501 Gratiot Blvd",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marysville/176480-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 5130",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nqVpYCzIJK3bVRyt6PW0x_42.919888_-82.477093@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809096,
+    "wof:geomhash":"b1a2538c2d6ccbb0c933138bcb671a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706675479
+        }
+    ],
+    "wof:id":706675479,
+    "wof:lastmodified":1461809096,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -82.477093,
+    42.919888,
+    -82.477093,
+    42.919888
+],
+  "geometry": {"coordinates":[-82.477093,42.919888],"type":"Point"}
+}

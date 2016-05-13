@@ -1,0 +1,71 @@
+{
+  "id": 706445799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225664,41.822711,-86.225664,41.822711",
+    "geom:latitude":41.822711,
+    "geom:longitude":-86.225664,
+    "iso:country":"US",
+    "sg:address":"2401 Kathryn St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 6583",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ogoJckPnY3N9VlgbPXLFH_41.822711_-86.225664@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803347,
+    "wof:geomhash":"2d20ad17185819cf9896c19ac143a833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706445799
+        }
+    ],
+    "wof:id":706445799,
+    "wof:lastmodified":1461803347,
+    "wof:name":"Smith Lock Shop",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.225664,
+    41.822711,
+    -86.225664,
+    41.822711
+],
+  "geometry": {"coordinates":[-86.22566399999999,41.822711],"type":"Point"}
+}

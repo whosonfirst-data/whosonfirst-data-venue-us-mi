@@ -1,0 +1,77 @@
+{
+  "id": 706658763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.146202,42.534199,-83.146202,42.534199",
+    "geom:latitude":42.534199,
+    "geom:longitude":-83.146202,
+    "iso:country":"US",
+    "sg:address":"64 N Main St",
+    "sg:city":"Clawson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 588 7155",
+    "sg:postcode":"48017",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896587,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MzNPisHeWh8F5uDpAlpae_42.533801_-83.146227@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808380,
+    "wof:geomhash":"559bf7214ee8647d536327f2b9228073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896587,
+            "region_id":85688599,
+            "venue_id":706658763
+        }
+    ],
+    "wof:id":706658763,
+    "wof:lastmodified":1461808380,
+    "wof:name":"Clawson Service Center",
+    "wof:parent_id":85896587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.146202,
+    42.534199,
+    -83.146202,
+    42.534199
+],
+  "geometry": {"coordinates":[-83.146202,42.534199],"type":"Point"}
+}

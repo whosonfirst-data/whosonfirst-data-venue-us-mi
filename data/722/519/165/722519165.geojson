@@ -1,0 +1,93 @@
+{
+  "id": 722519165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.47128,42.452243,-83.47128,42.452243",
+    "geom:latitude":42.452243,
+    "geom:longitude":-83.47128,
+    "iso:country":"US",
+    "sg:address":"43180 W 9 Mile Rd",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 348 1212",
+    "sg:postcode":"48375",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club",
+        "sushi",
+        "bar",
+        "japanese",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896645,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTamC4cMDyfxP2Kkt0eEV_42.452243_-83.471280@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813883,
+    "wof:geomhash":"c756d94c6340fb1d67117b1f76fae8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896645,
+            "region_id":85688599,
+            "venue_id":722519165
+        }
+    ],
+    "wof:id":722519165,
+    "wof:lastmodified":1461813883,
+    "wof:name":"Shiro Restaurant",
+    "wof:parent_id":85896645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "sushi",
+        "bar",
+        "japanese",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.47128,
+    42.452243,
+    -83.47128,
+    42.452243
+],
+  "geometry": {"coordinates":[-83.47127999999999,42.452243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706673623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.225304,42.620499,-83.225304,42.620499",
+    "geom:latitude":42.620499,
+    "geom:longitude":-83.225304,
+    "iso:country":"US",
+    "sg:address":"3260 South Blvd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 852 9620",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dry",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ag9DLmzlxqA1R1Y79mFj_42.620487_-83.225895@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809025,
+    "wof:geomhash":"75e6fcb17b7cb8b4b7c006e89fe656b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":706673623
+        }
+    ],
+    "wof:id":706673623,
+    "wof:lastmodified":1461809025,
+    "wof:name":"Plaza Cleaners",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -83.225304,
+    42.620499,
+    -83.225304,
+    42.620499
+],
+  "geometry": {"coordinates":[-83.22530399999999,42.620499],"type":"Point"}
+}

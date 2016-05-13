@@ -1,0 +1,92 @@
+{
+  "id": 722482141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.973709,42.347851,-82.973709,42.347851",
+    "geom:latitude":42.347851,
+    "geom:longitude":-82.973709,
+    "iso:country":"US",
+    "sg:address":"1 Riverbank Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 824 1200",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club",
+        "workers'",
+        "placement",
+        "volunteer"
+    ],
+    "sg:website":"http://www.dyc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870559,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vaEabGD7mbeCTb4FB09I7_42.347851_-82.973709@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812375,
+    "wof:geomhash":"29ae2f5273cf25e2d6b647d128c60508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870559,
+            "region_id":85688599,
+            "venue_id":722482141
+        }
+    ],
+    "wof:id":722482141,
+    "wof:lastmodified":1461812375,
+    "wof:name":"Detroit Yacht Club",
+    "wof:parent_id":85870559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "workers'",
+        "placement",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -82.973709,
+    42.347851,
+    -82.973709,
+    42.347851
+],
+  "geometry": {"coordinates":[-82.973709,42.347851],"type":"Point"}
+}

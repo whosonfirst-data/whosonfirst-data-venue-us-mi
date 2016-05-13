@@ -1,0 +1,71 @@
+{
+  "id": 689487001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.743029,42.428127,-85.743029,42.428127",
+    "geom:latitude":42.428127,
+    "geom:longitude":-85.743029,
+    "iso:country":"US",
+    "sg:address":"2048 101st Ave",
+    "sg:city":"Otsego",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 694 6011",
+    "sg:postcode":"49078",
+    "sg:province":"MI",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BdHjFLMQyMvd72qjm6BuP_42.428127_-85.743029@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772734,
+    "wof:geomhash":"ccf20cec0fc0102cf31a8147bddbdae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689487001
+        }
+    ],
+    "wof:id":689487001,
+    "wof:lastmodified":1461772734,
+    "wof:name":"J & R Gun Shop",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -85.743029,
+    42.428127,
+    -85.743029,
+    42.428127
+],
+  "geometry": {"coordinates":[-85.74302900000001,42.428127],"type":"Point"}
+}

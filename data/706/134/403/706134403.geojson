@@ -1,0 +1,71 @@
+{
+  "id": 706134403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551063,42.349095,-85.551063,42.349095",
+    "geom:latitude":42.349095,
+    "geom:longitude":-85.551063,
+    "iso:country":"US",
+    "sg:address":"2863 Roosevelt Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 388 6148",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jzxmZtos8ZwWfHuWW1Yn7_42.349095_-85.551063@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796627,
+    "wof:geomhash":"79311330581be740aee6301af74c975d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706134403
+        }
+    ],
+    "wof:id":706134403,
+    "wof:lastmodified":1461796627,
+    "wof:name":"Aneu Building Svcs",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.551063,
+    42.349095,
+    -85.551063,
+    42.349095
+],
+  "geometry": {"coordinates":[-85.551063,42.349095],"type":"Point"}
+}

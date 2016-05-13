@@ -1,0 +1,71 @@
+{
+  "id": 706192791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.649209,41.957251,-83.649209,41.957251",
+    "geom:latitude":41.957251,
+    "geom:longitude":-83.649209,
+    "iso:country":"US",
+    "sg:address":"596 E Main St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 3001",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wfaq2pku2r769ak1dR1WY_41.957251_-83.649209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797920,
+    "wof:geomhash":"497e60d2b357b42ac59e37abb1ef60c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706192791
+        }
+    ],
+    "wof:id":706192791,
+    "wof:lastmodified":1461797920,
+    "wof:name":"Dundee Waste Water Plant",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -83.649209,
+    41.957251,
+    -83.649209,
+    41.957251
+],
+  "geometry": {"coordinates":[-83.649209,41.957251],"type":"Point"}
+}

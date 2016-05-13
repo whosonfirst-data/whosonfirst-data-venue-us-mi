@@ -1,0 +1,84 @@
+{
+  "id": 706732909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.407434,42.374774,-83.407434,42.374774",
+    "geom:latitude":42.374774,
+    "geom:longitude":-83.407434,
+    "iso:country":"US",
+    "sg:address":"36977 Amrhein Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 338 3000",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.mollymaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CNpHgFQScpt6LybGIt4Ls_42.374774_-83.407434@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811527,
+    "wof:geomhash":"bca5950a814209715952f0c2251017b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706732909
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706732909
+        }
+    ],
+    "wof:id":706732909,
+    "wof:lastmodified":1461811527,
+    "wof:name":"Molly Maid",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -83.407434,
+    42.374774,
+    -83.407434,
+    42.374774
+],
+  "geometry": {"coordinates":[-83.40743399999999,42.374774],"type":"Point"}
+}

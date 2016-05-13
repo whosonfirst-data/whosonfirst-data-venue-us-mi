@@ -1,0 +1,71 @@
+{
+  "id": 705786655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.447663,42.256669,-84.447663,42.256669",
+    "geom:latitude":42.256669,
+    "geom:longitude":-84.447663,
+    "iso:country":"US",
+    "sg:address":"605 Laurence Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 9556",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cPWiY45dA2GJWO64MknlE_42.256669_-84.447663@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788726,
+    "wof:geomhash":"04de6ab17b225eee23e90609689c25b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705786655
+        }
+    ],
+    "wof:id":705786655,
+    "wof:lastmodified":1461788726,
+    "wof:name":"Wildwood Auto Wash",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.447663,
+    42.256669,
+    -84.447663,
+    42.256669
+],
+  "geometry": {"coordinates":[-84.44766300000001,42.256669],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706285855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249261,41.784359,-86.249261,41.784359",
+    "geom:latitude":41.784359,
+    "geom:longitude":-86.249261,
+    "iso:country":"US",
+    "sg:address":"1109 Mc Kee St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 2421",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "armature",
+        "motor",
+        "electric",
+        "rewinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqwvqR0SHN9OEFTDB5X1N_41.784359_-86.249261@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799993,
+    "wof:geomhash":"67126383ca31ec3309d71f2a08886718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706285855
+        }
+    ],
+    "wof:id":706285855,
+    "wof:lastmodified":1461799993,
+    "wof:name":"Electrical Repair Service",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "motor",
+        "electric",
+        "rewinding"
+    ]
+},
+  "bbox": [
+    -86.249261,
+    41.784359,
+    -86.249261,
+    41.784359
+],
+  "geometry": {"coordinates":[-86.249261,41.784359],"type":"Point"}
+}

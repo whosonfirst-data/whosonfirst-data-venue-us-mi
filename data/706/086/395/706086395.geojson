@@ -1,0 +1,73 @@
+{
+  "id": 706086395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810638,43.317543,-85.810638,43.317543",
+    "geom:latitude":43.317543,
+    "geom:longitude":-85.810638,
+    "iso:country":"US",
+    "sg:address":"13187 Mason Dr",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 0474",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gwTDl19nqFf4X3eeWtTsq_43.317543_-85.810638@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795464,
+    "wof:geomhash":"5d802bff85902dbf42910e03168a29a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706086395
+        }
+    ],
+    "wof:id":706086395,
+    "wof:lastmodified":1461795464,
+    "wof:name":"Rick's Auto Clinic",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.810638,
+    43.317543,
+    -85.810638,
+    43.317543
+],
+  "geometry": {"coordinates":[-85.810638,43.317543],"type":"Point"}
+}

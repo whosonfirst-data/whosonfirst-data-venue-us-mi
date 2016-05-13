@@ -1,0 +1,83 @@
+{
+  "id": 722526343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.56015,42.240742,-85.56015,42.240742",
+    "geom:latitude":42.240742,
+    "geom:longitude":-85.56015,
+    "iso:country":"US",
+    "sg:address":"5235 Portage Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 388 3717",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tavern",
+        "brew",
+        "cocktail"
+    ],
+    "sg:website":"http://www.oldfishermanblues.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533001,
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B44tTkpgFvLo0n5ZGeFHP_42.240742_-85.560150@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814263,
+    "wof:geomhash":"b36a06f3ba8f7ff9fda98dabc003882c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533001,
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722526343
+        }
+    ],
+    "wof:id":722526343,
+    "wof:lastmodified":1461814263,
+    "wof:name":"The Old Fisherman's Pub",
+    "wof:parent_id":102533001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "brew",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -85.56015,
+    42.240742,
+    -85.56015,
+    42.240742
+],
+  "geometry": {"coordinates":[-85.56014999999999,42.240742],"type":"Point"}
+}

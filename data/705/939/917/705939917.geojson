@@ -1,0 +1,75 @@
+{
+  "id": 705939917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.70943,43.043457,-85.70943,43.043457",
+    "geom:latitude":43.043457,
+    "geom:longitude":-85.70943,
+    "iso:country":"US",
+    "sg:address":"4010 Bristol Ave NW",
+    "sg:city":"Comstock Park",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 3021",
+    "sg:postcode":"49321",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JqwG82hARPei9cmojzVgH_43.043457_-85.709430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792303,
+    "wof:geomhash":"264a3b584e433dc21d0e1e66a7b9195a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":705939917
+        }
+    ],
+    "wof:id":705939917,
+    "wof:lastmodified":1461792303,
+    "wof:name":"Geelhoed Trucking",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.70943,
+    43.043457,
+    -85.70943,
+    43.043457
+],
+  "geometry": {"coordinates":[-85.70943,43.043457],"type":"Point"}
+}

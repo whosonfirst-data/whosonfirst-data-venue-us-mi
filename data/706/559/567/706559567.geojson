@@ -1,0 +1,71 @@
+{
+  "id": 706559567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.172479,42.680967,-86.172479,42.680967",
+    "geom:latitude":42.680967,
+    "geom:longitude":-86.172479,
+    "iso:country":"US",
+    "sg:address":"6380 Blue Star Hwy",
+    "sg:city":"Saugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 857 4869",
+    "sg:postcode":"49453",
+    "sg:province":"MI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bhYFrVUAkUAITRGkTtI8Z_42.680967_-86.172479@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805843,
+    "wof:geomhash":"96d501b5b9dd6a6383b89b75efdad103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":706559567
+        }
+    ],
+    "wof:id":706559567,
+    "wof:lastmodified":1461805843,
+    "wof:name":"Shell",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.172479,
+    42.680967,
+    -86.172479,
+    42.680967
+],
+  "geometry": {"coordinates":[-86.172479,42.680967],"type":"Point"}
+}

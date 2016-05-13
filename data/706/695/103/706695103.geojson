@@ -1,0 +1,76 @@
+{
+  "id": 706695103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.260288,42.458738,-83.260288,42.458738",
+    "geom:latitude":42.458738,
+    "geom:longitude":-83.260288,
+    "iso:country":"US",
+    "sg:address":"23111 Lahser Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 945 9216",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870505,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KZS7p6AbtXExNkobDlzM0_42.458738_-83.260288@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809874,
+    "wof:geomhash":"27f9e9f2188cdf43e65056010e5c333a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870505,
+            "region_id":85688599,
+            "venue_id":706695103
+        }
+    ],
+    "wof:id":706695103,
+    "wof:lastmodified":1461809874,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85870505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.260288,
+    42.458738,
+    -83.260288,
+    42.458738
+],
+  "geometry": {"coordinates":[-83.260288,42.458738],"type":"Point"}
+}

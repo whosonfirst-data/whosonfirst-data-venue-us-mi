@@ -1,0 +1,78 @@
+{
+  "id": 706679007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.925609,42.407609,-82.925609,42.407609",
+    "geom:latitude":42.407609,
+    "geom:longitude":-82.925609,
+    "iso:country":"US",
+    "sg:address":"17440 E Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/197289-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 882 0095",
+    "sg:postcode":"48224",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870573,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sjEDVgMcOOioq6eikZdYP_42.407609_-82.925609@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809245,
+    "wof:geomhash":"7033ad39133c4504fa5e9927a06c3d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870573,
+            "region_id":85688599,
+            "venue_id":706679007
+        }
+    ],
+    "wof:id":706679007,
+    "wof:lastmodified":1461809245,
+    "wof:name":"Burger King",
+    "wof:parent_id":85870573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.925609,
+    42.407609,
+    -82.925609,
+    42.407609
+],
+  "geometry": {"coordinates":[-82.92560899999999,42.407609],"type":"Point"}
+}

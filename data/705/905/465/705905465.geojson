@@ -1,0 +1,73 @@
+{
+  "id": 705905465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.8037,43.40718,-85.8037,43.40718",
+    "geom:latitude":43.40718,
+    "geom:longitude":-85.8037,
+    "iso:country":"US",
+    "sg:address":"177 Cooperative Center Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 6789",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Buyr5ZFT58AvAyBz4ynEn_43.407180_-85.803700@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791531,
+    "wof:geomhash":"72bd41ac4f84c607b41e8b6b9eb7cafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705905465
+        }
+    ],
+    "wof:id":705905465,
+    "wof:lastmodified":1461791531,
+    "wof:name":"Newaygo Volunteer Fire Dept",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -85.8037,
+    43.40718,
+    -85.8037,
+    43.40718
+],
+  "geometry": {"coordinates":[-85.80370000000001,43.40718],"type":"Point"}
+}

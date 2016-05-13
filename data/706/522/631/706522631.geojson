@@ -1,0 +1,73 @@
+{
+  "id": 706522631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.944321,43.35157,-85.944321,43.35157",
+    "geom:latitude":43.35157,
+    "geom:longitude":-85.944321,
+    "iso:country":"US",
+    "sg:address":"5850 W 112th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1016",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VJkkARn2zZXuS1qqAuYKT_43.351570_-85.944321@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805090,
+    "wof:geomhash":"c9c3211e3224cf56e5b35a58ab6b5722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706522631
+        }
+    ],
+    "wof:id":706522631,
+    "wof:lastmodified":1461805090,
+    "wof:name":"Fire Suppression Design Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.944321,
+    43.35157,
+    -85.944321,
+    43.35157
+],
+  "geometry": {"coordinates":[-85.944321,43.35157],"type":"Point"}
+}

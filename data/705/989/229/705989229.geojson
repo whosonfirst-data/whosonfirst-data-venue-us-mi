@@ -1,0 +1,76 @@
+{
+  "id": 705989229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.595592,42.255816,-84.595592,42.255816",
+    "geom:latitude":42.255816,
+    "geom:longitude":-84.595592,
+    "iso:country":"US",
+    "sg:address":"261 John St",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 937 4389",
+    "sg:postcode":"49269",
+    "sg:province":"MI",
+    "sg:tags":[
+        "house",
+        "modular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Ql5IdFp5Mbn6gjD67K3Z_42.255816_-84.595592@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793354,
+    "wof:geomhash":"ed090d52713e034b318e5cf309cbbb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705989229
+        }
+    ],
+    "wof:id":705989229,
+    "wof:lastmodified":1461793354,
+    "wof:name":"Sayre Builders Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "modular"
+    ]
+},
+  "bbox": [
+    -84.595592,
+    42.255816,
+    -84.595592,
+    42.255816
+],
+  "geometry": {"coordinates":[-84.595592,42.255816],"type":"Point"}
+}

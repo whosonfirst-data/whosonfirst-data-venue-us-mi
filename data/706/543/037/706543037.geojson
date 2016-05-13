@@ -1,0 +1,69 @@
+{
+  "id": 706543037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.442698,42.234601,-84.442698,42.234601",
+    "geom:latitude":42.234601,
+    "geom:longitude":-84.442698,
+    "iso:country":"US",
+    "sg:address":"2424 Spring Arbor Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 2226",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OxPWP1yKUDDqhUQwcFgdy_42.234601_-84.442698@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805520,
+    "wof:geomhash":"5a1a8f425da6c8d591cbddaec038c105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706543037
+        }
+    ],
+    "wof:id":706543037,
+    "wof:lastmodified":1461805520,
+    "wof:name":"Springcrest Family Dentistry",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.442698,
+    42.234601,
+    -84.442698,
+    42.234601
+],
+  "geometry": {"coordinates":[-84.44269799999999,42.234601],"type":"Point"}
+}

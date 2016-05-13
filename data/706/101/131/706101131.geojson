@@ -1,0 +1,67 @@
+{
+  "id": 706101131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.888429,42.532251,-82.888429,42.532251",
+    "geom:latitude":42.532251,
+    "geom:longitude":-82.888429,
+    "iso:country":"US",
+    "sg:address":"32201 Harper Ave",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 293 5151",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iHBsMuRppfm2in6SeDyHr_42.532251_-82.888429@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795807,
+    "wof:geomhash":"89b58d9b3a2aaf1b773cc52fd2cfcf89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706101131
+        }
+    ],
+    "wof:id":706101131,
+    "wof:lastmodified":1461795807,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.888429,
+    42.532251,
+    -82.888429,
+    42.532251
+],
+  "geometry": {"coordinates":[-82.888429,42.532251],"type":"Point"}
+}

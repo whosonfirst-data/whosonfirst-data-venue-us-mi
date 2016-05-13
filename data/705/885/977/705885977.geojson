@@ -1,0 +1,69 @@
+{
+  "id": 705885977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.382278,42.675183,-83.382278,42.675183",
+    "geom:latitude":42.675183,
+    "geom:longitude":-83.382278,
+    "iso:country":"US",
+    "sg:address":"4850 Hatchery Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 0558",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pf00OFGf7dHS5wmneBn2v_42.675183_-83.382278@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791076,
+    "wof:geomhash":"98f5f32f9a5099c71bc76f2f54c616b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705885977
+        }
+    ],
+    "wof:id":705885977,
+    "wof:lastmodified":1461791076,
+    "wof:name":"Hatchery Market",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.382278,
+    42.675183,
+    -83.382278,
+    42.675183
+],
+  "geometry": {"coordinates":[-83.382278,42.675183],"type":"Point"}
+}

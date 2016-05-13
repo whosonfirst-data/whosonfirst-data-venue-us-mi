@@ -1,0 +1,71 @@
+{
+  "id": 689776791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550682,42.33273,-85.550682,42.33273",
+    "geom:latitude":42.33273,
+    "geom:longitude":-85.550682,
+    "iso:country":"US",
+    "sg:address":"2134 E G Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 4231",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35elPUHp5mvzFyhrv842WJ_42.332730_-85.550682@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781163,
+    "wof:geomhash":"d36c0f444dbf4a85597230965cbcb909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689776791
+        }
+    ],
+    "wof:id":689776791,
+    "wof:lastmodified":1461781163,
+    "wof:name":"David T Brown DDS",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.550682,
+    42.33273,
+    -85.550682,
+    42.33273
+],
+  "geometry": {"coordinates":[-85.55068199999999,42.33273],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706723589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.485901,42.234001,-83.485901,42.234001",
+    "geom:latitude":42.234001,
+    "geom:longitude":-83.485901,
+    "iso:country":"US",
+    "sg:address":"9701 Belleville Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 1900",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F0reomVY2qUq7eZS5dvcS_42.234001_-83.485901@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811135,
+    "wof:geomhash":"08340e409f56a4bed2bc5cb195150d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706723589
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706723589
+        }
+    ],
+    "wof:id":706723589,
+    "wof:lastmodified":1461811135,
+    "wof:name":"Meijer Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.485901,
+    42.234001,
+    -83.485901,
+    42.234001
+],
+  "geometry": {"coordinates":[-83.485901,42.234001],"type":"Point"}
+}

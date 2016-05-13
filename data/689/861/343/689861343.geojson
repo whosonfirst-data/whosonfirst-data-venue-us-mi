@@ -1,0 +1,73 @@
+{
+  "id": 689861343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.73839,41.796406,-86.73839,41.796406",
+    "geom:latitude":41.796406,
+    "geom:longitude":-86.73839,
+    "iso:country":"US",
+    "sg:address":"412 E Buffalo St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 9400",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VrcyHn4joDzoLRLIl44lz_41.796406_-86.738390@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783559,
+    "wof:geomhash":"be5c1bfc69fb30d0950e14c3822b4c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689861343
+        }
+    ],
+    "wof:id":689861343,
+    "wof:lastmodified":1461783559,
+    "wof:name":"Dog Trainer",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -86.73839,
+    41.796406,
+    -86.73839,
+    41.796406
+],
+  "geometry": {"coordinates":[-86.73839,41.796406],"type":"Point"}
+}

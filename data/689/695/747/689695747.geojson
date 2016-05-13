@@ -1,0 +1,71 @@
+{
+  "id": 689695747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.376361,44.243571,-85.376361,44.243571",
+    "geom:latitude":44.243571,
+    "geom:longitude":-85.376361,
+    "iso:country":"US",
+    "sg:address":"6610 Crosby Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 4254",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pS02sZI28BkfR2lxZVmCt_44.243571_-85.376361@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779003,
+    "wof:geomhash":"1ed3c50d11dadaac2f4f98dfcd1881e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689695747
+        }
+    ],
+    "wof:id":689695747,
+    "wof:lastmodified":1461779003,
+    "wof:name":"Davenport Superwash Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.376361,
+    44.243571,
+    -85.376361,
+    44.243571
+],
+  "geometry": {"coordinates":[-85.376361,44.243571],"type":"Point"}
+}

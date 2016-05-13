@@ -1,0 +1,71 @@
+{
+  "id": 706548459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.064365,45.815615,-88.064365,45.815615",
+    "geom:latitude":45.815615,
+    "geom:longitude":-88.064365,
+    "iso:country":"US",
+    "sg:address":"300 E D St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7091",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EdxPwksPTxuEym95pX4LA_45.815615_-88.064365@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805627,
+    "wof:geomhash":"15e390ffa774d812e5d4db8d246271aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706548459
+        }
+    ],
+    "wof:id":706548459,
+    "wof:lastmodified":1461805627,
+    "wof:name":"Dickinson County Marine Patrol",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -88.064365,
+    45.815615,
+    -88.064365,
+    45.815615
+],
+  "geometry": {"coordinates":[-88.064365,45.815615],"type":"Point"}
+}

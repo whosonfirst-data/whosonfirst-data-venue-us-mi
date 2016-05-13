@@ -1,0 +1,73 @@
+{
+  "id": 706232793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.267348,43.215503,-86.267348,43.215503",
+    "geom:latitude":43.215503,
+    "geom:longitude":-86.267348,
+    "iso:country":"US",
+    "sg:address":"2056 Dowd St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7470",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dY6a54d9LNIDmvY3eYQKg_43.215503_-86.267348@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798760,
+    "wof:geomhash":"d99f8af8768d021586e4f46b851b921f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706232793
+        }
+    ],
+    "wof:id":706232793,
+    "wof:lastmodified":1461798760,
+    "wof:name":"Small Talk Day Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.267348,
+    43.215503,
+    -86.267348,
+    43.215503
+],
+  "geometry": {"coordinates":[-86.267348,43.215503],"type":"Point"}
+}

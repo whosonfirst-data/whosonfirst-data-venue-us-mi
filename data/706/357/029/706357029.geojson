@@ -1,0 +1,71 @@
+{
+  "id": 706357029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.291091,43.194115,-86.291091,43.194115",
+    "geom:latitude":43.194115,
+    "geom:longitude":-86.291091,
+    "iso:country":"US",
+    "sg:address":"1891 Furhman St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3230",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44jvyfHDcq78F0jEjKre9U_43.194115_-86.291091@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801544,
+    "wof:geomhash":"6c99c9f936455750dfd50987dbb11e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706357029
+        }
+    ],
+    "wof:id":706357029,
+    "wof:lastmodified":1461801544,
+    "wof:name":"Canine Country Club",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -86.291091,
+    43.194115,
+    -86.291091,
+    43.194115
+],
+  "geometry": {"coordinates":[-86.29109099999999,43.194115],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 689832399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.609148,42.68844,-84.609148,42.68844",
+    "geom:latitude":42.68844,
+    "geom:longitude":-84.609148,
+    "iso:country":"US",
+    "sg:address":"4503 Seaway Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 272 5117",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85840163,
+        102083005,
+        420524303,
+        102191575,
+        404507643,
+        85951849,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LkqXb70gWaVP6D9jdxijJ_42.688440_-84.609148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782905,
+    "wof:geomhash":"955254564ff5a012a957f152e1cf85a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":689832399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":420524303,
+            "region_id":85688599,
+            "venue_id":689832399
+        }
+    ],
+    "wof:id":689832399,
+    "wof:lastmodified":1461782905,
+    "wof:name":"Dee Janitorial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.609148,
+    42.68844,
+    -84.609148,
+    42.68844
+],
+  "geometry": {"coordinates":[-84.609148,42.68844],"type":"Point"}
+}

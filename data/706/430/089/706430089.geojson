@@ -1,0 +1,71 @@
+{
+  "id": 706430089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877329,42.478934,-85.877329,42.478934",
+    "geom:latitude":42.478934,
+    "geom:longitude":-85.877329,
+    "iso:country":"US",
+    "sg:address":"888 34th St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 5983",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gKPkhoyym7lOPLtxjWzgo_42.478934_-85.877329@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802979,
+    "wof:geomhash":"2a64878496e47c55bdf941b99729e56d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706430089
+        }
+    ],
+    "wof:id":706430089,
+    "wof:lastmodified":1461802979,
+    "wof:name":"C & D Auto Svc",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.877329,
+    42.478934,
+    -85.877329,
+    42.478934
+],
+  "geometry": {"coordinates":[-85.877329,42.478934],"type":"Point"}
+}

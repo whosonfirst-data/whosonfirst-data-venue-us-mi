@@ -1,0 +1,71 @@
+{
+  "id": 705750041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.944607,43.467193,-85.944607,43.467193",
+    "geom:latitude":43.467193,
+    "geom:longitude":-85.944607,
+    "iso:country":"US",
+    "sg:address":"25 E Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 776 6288",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KsdDfCq6D5vmhW74AAkxS_43.467193_-85.944607@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787847,
+    "wof:geomhash":"30913e20578a206a37a29f2ea7768cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705750041
+        }
+    ],
+    "wof:id":705750041,
+    "wof:lastmodified":1461787847,
+    "wof:name":"Ameritech",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -85.944607,
+    43.467193,
+    -85.944607,
+    43.467193
+],
+  "geometry": {"coordinates":[-85.944607,43.467193],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689942517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.40179,42.243016,-84.40179,42.243016",
+    "geom:latitude":42.243016,
+    "geom:longitude":-84.40179,
+    "iso:country":"US",
+    "sg:address":"79 Warwick Ct",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 4984",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wpHs6wq8ADJAYKP8gMtrT_42.243016_-84.401790@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785675,
+    "wof:geomhash":"7f24a8d17018500ca95cd1dfb7c49d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689942517
+        }
+    ],
+    "wof:id":689942517,
+    "wof:lastmodified":1461785675,
+    "wof:name":"Park Southridge",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.40179,
+    42.243016,
+    -84.40179,
+    42.243016
+],
+  "geometry": {"coordinates":[-84.40179000000001,42.243016],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 706684929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.423404,42.259079,-84.423404,42.259079",
+    "geom:latitude":42.259079,
+    "geom:longitude":-84.423404,
+    "iso:country":"US",
+    "sg:address":"906 N West Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/jackson/133247-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 3123",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xd3k5wI6fJQfGpP0tYYY_42.259079_-84.423404@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809482,
+    "wof:geomhash":"74606560e20c578b0691e0c89219ca5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706684929
+        }
+    ],
+    "wof:id":706684929,
+    "wof:lastmodified":1461809482,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.423404,
+    42.259079,
+    -84.423404,
+    42.259079
+],
+  "geometry": {"coordinates":[-84.423404,42.259079],"type":"Point"}
+}

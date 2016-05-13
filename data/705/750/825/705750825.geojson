@@ -1,0 +1,89 @@
+{
+  "id": 705750825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.993293,42.455501,-82.993293,42.455501",
+    "geom:latitude":42.455501,
+    "geom:longitude":-82.993293,
+    "iso:country":"US",
+    "sg:address":"12806 Couwlier Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 778 9173",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524395,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524895,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IU7lgoN0IMGABkjQvEGjG_42.455501_-82.993293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787863,
+    "wof:geomhash":"f962b23a9425dbe56ad6809cb26aa292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524395,
+            "region_id":85688599,
+            "venue_id":705750825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":705750825
+        }
+    ],
+    "wof:id":705750825,
+    "wof:lastmodified":1461787863,
+    "wof:name":"C D Delivery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -82.993293,
+    42.455501,
+    -82.993293,
+    42.455501
+],
+  "geometry": {"coordinates":[-82.99329299999999,42.455501],"type":"Point"}
+}

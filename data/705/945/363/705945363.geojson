@@ -1,0 +1,77 @@
+{
+  "id": 705945363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.420335,46.545823,-87.420335,46.545823",
+    "geom:latitude":46.545823,
+    "geom:longitude":-87.420335,
+    "iso:country":"US",
+    "sg:address":"1201 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 3340",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "oil",
+        "automatic",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20j9fS5zfw0BbxSHgIFPSp_46.545823_-87.420335@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792432,
+    "wof:geomhash":"9f8696d5e15694418ec04a5dfc01f148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705945363
+        }
+    ],
+    "wof:id":705945363,
+    "wof:lastmodified":1461792432,
+    "wof:name":"Superior Car Wash",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "oil",
+        "automatic",
+        "change"
+    ]
+},
+  "bbox": [
+    -87.420335,
+    46.545823,
+    -87.420335,
+    46.545823
+],
+  "geometry": {"coordinates":[-87.42033499999999,46.545823],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689829531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250776,41.775383,-86.250776,41.775383",
+    "geom:latitude":41.775383,
+    "geom:longitude":-86.250776,
+    "iso:country":"US",
+    "sg:address":"2550 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 1510",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YJDhbB7Faifxa6HUxWwDT_41.775383_-86.250776@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782787,
+    "wof:geomhash":"4c421512f5c86d4908f08a588b8ffae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689829531
+        }
+    ],
+    "wof:id":689829531,
+    "wof:lastmodified":1461782787,
+    "wof:name":"Tylers' Collision Ctr",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.250776,
+    41.775383,
+    -86.250776,
+    41.775383
+],
+  "geometry": {"coordinates":[-86.250776,41.775383],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689777285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.246957,41.825907,-86.246957,41.825907",
+    "geom:latitude":41.825907,
+    "geom:longitude":-86.246957,
+    "iso:country":"US",
+    "sg:address":"215 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 1989",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5umXZtoBSGnTtK1KwWuXOV_41.825907_-86.246957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781175,
+    "wof:geomhash":"045ee6226e5d6412763101d492ddc4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689777285
+        }
+    ],
+    "wof:id":689777285,
+    "wof:lastmodified":1461781175,
+    "wof:name":"Coleman Motor Co",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.246957,
+    41.825907,
+    -86.246957,
+    41.825907
+],
+  "geometry": {"coordinates":[-86.24695699999999,41.825907],"type":"Point"}
+}

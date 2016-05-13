@@ -1,0 +1,76 @@
+{
+  "id": 722475425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.176903,42.213902,-83.176903,42.213902",
+    "geom:latitude":42.213902,
+    "geom:longitude":-83.176903,
+    "iso:country":"US",
+    "sg:address":"2050 Ford Ave",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 285 4848",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.downrivervet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896825,
+        102191575,
+        404508659,
+        85633793,
+        85950971,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wJeogml9ErJMhq1c6FsT6_42.213902_-83.176903@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812098,
+    "wof:geomhash":"7d060c8f72aba31fdbcc4c9d18bfc776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508659,
+            "locality_id":85950971,
+            "neighbourhood_id":85896825,
+            "region_id":85688599,
+            "venue_id":722475425
+        }
+    ],
+    "wof:id":722475425,
+    "wof:lastmodified":1461812098,
+    "wof:name":"Downriver Animal Hospital",
+    "wof:parent_id":85896825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.176903,
+    42.213902,
+    -83.176903,
+    42.213902
+],
+  "geometry": {"coordinates":[-83.176903,42.213902],"type":"Point"}
+}

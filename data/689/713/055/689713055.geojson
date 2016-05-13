@@ -1,0 +1,79 @@
+{
+  "id": 689713055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.14845,42.270637,-83.14845,42.270637",
+    "geom:latitude":42.270637,
+    "geom:longitude":-83.14845,
+    "iso:country":"US",
+    "sg:address":"1803 Bassett St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 554 0509",
+    "sg:postcode":"48217",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870519,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sd3cSdCX81yCz5wFwwATC_42.270637_-83.148450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779475,
+    "wof:geomhash":"81c208b8ebf18680c9ee524e36d3beb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870519,
+            "region_id":85688599,
+            "venue_id":689713055
+        }
+    ],
+    "wof:id":689713055,
+    "wof:lastmodified":1461779475,
+    "wof:name":"Thanns Hauling",
+    "wof:parent_id":85870519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.14845,
+    42.270637,
+    -83.14845,
+    42.270637
+],
+  "geometry": {"coordinates":[-83.14845,42.270637],"type":"Point"}
+}

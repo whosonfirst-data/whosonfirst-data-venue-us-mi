@@ -1,0 +1,73 @@
+{
+  "id": 689571951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740449,43.015335,-83.740449,43.015335",
+    "geom:latitude":43.015335,
+    "geom:longitude":-83.740449,
+    "iso:country":"US",
+    "sg:address":"3286 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 720 3370",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xkOCRQfACr1N9u1P09efy_43.015335_-83.740449@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775346,
+    "wof:geomhash":"6a3330616c15195dc6cdd1e8f3d97fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689571951
+        }
+    ],
+    "wof:id":689571951,
+    "wof:lastmodified":1461775346,
+    "wof:name":"Mc Laren Heart & Vascular Ctr",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.740449,
+    43.015335,
+    -83.740449,
+    43.015335
+],
+  "geometry": {"coordinates":[-83.740449,43.015335],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 689810761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4819,42.109662,-86.4819,42.109662",
+    "geom:latitude":42.109662,
+    "geom:longitude":-86.4819,
+    "iso:country":"US",
+    "sg:address":"519 Pleasant St",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 982 4122",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "popcorn",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jBzIo5R8snllEmlYACfYe_42.109662_-86.481900@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782212,
+    "wof:geomhash":"77639cc90c4c125c214d8e3482f088af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689810761
+        }
+    ],
+    "wof:id":689810761,
+    "wof:lastmodified":1461782212,
+    "wof:name":"Popcorn Galley LLC",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "popcorn",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.4819,
+    42.109662,
+    -86.4819,
+    42.109662
+],
+  "geometry": {"coordinates":[-86.4819,42.109662],"type":"Point"}
+}

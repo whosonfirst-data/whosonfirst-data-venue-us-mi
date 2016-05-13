@@ -1,0 +1,73 @@
+{
+  "id": 706375355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646794,44.758672,-85.646794,44.758672",
+    "geom:latitude":44.758672,
+    "geom:longitude":-85.646794,
+    "iso:country":"US",
+    "sg:address":"1400 Medical Campus Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 8000",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l0GJdPVnKsn4exV8iR6lo_44.758672_-85.646794@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801911,
+    "wof:geomhash":"ad34242183b468fbfa067c998f81bf18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706375355
+        }
+    ],
+    "wof:id":706375355,
+    "wof:lastmodified":1461801911,
+    "wof:name":"Munson Family Practice Center",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.646794,
+    44.758672,
+    -85.646794,
+    44.758672
+],
+  "geometry": {"coordinates":[-85.646794,44.758672],"type":"Point"}
+}

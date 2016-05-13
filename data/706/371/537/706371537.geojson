@@ -1,0 +1,66 @@
+{
+  "id": 706371537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.201142,43.295945,-86.201142,43.295945",
+    "geom:latitude":43.295945,
+    "geom:longitude":-86.201142,
+    "iso:country":"US",
+    "sg:address":"2210 Holton Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 7436",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32X1aYLCOzJyT7sL4avd6Q_43.295945_-86.201142@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801840,
+    "wof:geomhash":"383e11c41642c3764d76cc7b86556faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706371537
+        }
+    ],
+    "wof:id":706371537,
+    "wof:lastmodified":1461801840,
+    "wof:name":"Ray's Mini-Mart",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.201142,
+    43.295945,
+    -86.201142,
+    43.295945
+],
+  "geometry": {"coordinates":[-86.201142,43.295945],"type":"Point"}
+}

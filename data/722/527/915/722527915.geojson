@@ -1,0 +1,77 @@
+{
+  "id": 722527915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.5214,43.042599,-85.5214,43.042599",
+    "geom:latitude":43.042599,
+    "geom:longitude":-85.5214,
+    "iso:country":"US",
+    "sg:address":"6111 5 Mile Rd NE",
+    "sg:city":"Ada",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 874 7713",
+    "sg:postcode":"49301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zoLZXMsLnXuTCsJZ9Wrcu_43.042599_-85.521400@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814329,
+    "wof:geomhash":"91f9f08f8e3c8cae24a465aaade4c40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":722527915
+        }
+    ],
+    "wof:id":722527915,
+    "wof:lastmodified":1461814329,
+    "wof:name":"Hylock Kennels",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.5214,
+    43.042599,
+    -85.5214,
+    43.042599
+],
+  "geometry": {"coordinates":[-85.5214,43.042599],"type":"Point"}
+}

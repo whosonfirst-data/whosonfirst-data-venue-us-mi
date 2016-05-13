@@ -1,0 +1,69 @@
+{
+  "id": 706106509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.386842,42.672253,-83.386842,42.672253",
+    "geom:latitude":42.672253,
+    "geom:longitude":-83.386842,
+    "iso:country":"US",
+    "sg:address":"2495 Crescent Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 0405",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IbCvcouQTlRYSq6CiwgC0_42.672253_-83.386842@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795918,
+    "wof:geomhash":"06bc6bc98e88683006b3f9affa069f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706106509
+        }
+    ],
+    "wof:id":706106509,
+    "wof:lastmodified":1461795918,
+    "wof:name":"Water Township Fire Dept",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.386842,
+    42.672253,
+    -83.386842,
+    42.672253
+],
+  "geometry": {"coordinates":[-83.386842,42.672253],"type":"Point"}
+}

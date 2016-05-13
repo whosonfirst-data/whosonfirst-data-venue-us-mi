@@ -1,0 +1,73 @@
+{
+  "id": 689815811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394837,46.549919,-87.394837,46.549919",
+    "geom:latitude":46.549919,
+    "geom:longitude":-87.394837,
+    "iso:country":"US",
+    "sg:address":"727 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 0499",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cBT5xAKv3dhIaCZXiPBHp_46.549919_-87.394837@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782356,
+    "wof:geomhash":"fae88eb37683808d8b7d859797b634ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689815811
+        }
+    ],
+    "wof:id":689815811,
+    "wof:lastmodified":1461782356,
+    "wof:name":"Cruise-N-Coffee",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -87.394837,
+    46.549919,
+    -87.394837,
+    46.549919
+],
+  "geometry": {"coordinates":[-87.394837,46.549919],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705792089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378078,42.689716,-83.378078,42.689716",
+    "geom:latitude":42.689716,
+    "geom:longitude":-83.378078,
+    "iso:country":"US",
+    "sg:address":"4468 W Walton Blvd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 9220",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMgpNnwv1SVtUZUXFkGNK_42.689716_-83.378078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788839,
+    "wof:geomhash":"ac5c7d2e0ba76328d10a8e531953287f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705792089
+        }
+    ],
+    "wof:id":705792089,
+    "wof:lastmodified":1461788839,
+    "wof:name":"Stephen E Hershey DDS",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.378078,
+    42.689716,
+    -83.378078,
+    42.689716
+],
+  "geometry": {"coordinates":[-83.378078,42.689716],"type":"Point"}
+}

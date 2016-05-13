@@ -1,0 +1,71 @@
+{
+  "id": 689768327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.454656,42.116208,-86.454656,42.116208",
+    "geom:latitude":42.116208,
+    "geom:longitude":-86.454656,
+    "iso:country":"US",
+    "sg:address":"143 E Main St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 927 1313",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZirLLtaJyuz1XgAOv1N95_42.116208_-86.454656@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780979,
+    "wof:geomhash":"14c3cad4728e578c6bb3d6bc0890784e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689768327
+        }
+    ],
+    "wof:id":689768327,
+    "wof:lastmodified":1461780979,
+    "wof:name":"Harbor Dental",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.454656,
+    42.116208,
+    -86.454656,
+    42.116208
+],
+  "geometry": {"coordinates":[-86.454656,42.116208],"type":"Point"}
+}

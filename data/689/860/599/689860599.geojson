@@ -1,0 +1,71 @@
+{
+  "id": 689860599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.346965,41.943049,-86.346965,41.943049",
+    "geom:latitude":41.943049,
+    "geom:longitude":-86.346965,
+    "iso:country":"US",
+    "sg:address":"4676 E Shawnee Rd",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 1100",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uW9Q61Ms1AAkA89twRVJ4_41.943049_-86.346965@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783544,
+    "wof:geomhash":"cec809921209d20986de1fa07941ed2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689860599
+        }
+    ],
+    "wof:id":689860599,
+    "wof:lastmodified":1461783544,
+    "wof:name":"Berrien Bus",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -86.346965,
+    41.943049,
+    -86.346965,
+    41.943049
+],
+  "geometry": {"coordinates":[-86.346965,41.943049],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706030005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.144416,43.295622,-86.144416,43.295622",
+    "geom:latitude":43.295622,
+    "geom:longitude":-86.144416,
+    "iso:country":"US",
+    "sg:address":"3864 River Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 5069",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26SeZdlp0bsivP45JnbYQY_43.295622_-86.144416@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794208,
+    "wof:geomhash":"89ea3f372894c6078341bee5aeab741f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706030005
+        }
+    ],
+    "wof:id":706030005,
+    "wof:lastmodified":1461794208,
+    "wof:name":"United Contracting Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.144416,
+    43.295622,
+    -86.144416,
+    43.295622
+],
+  "geometry": {"coordinates":[-86.14441600000001,43.295622],"type":"Point"}
+}

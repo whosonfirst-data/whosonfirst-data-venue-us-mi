@@ -1,0 +1,72 @@
+{
+  "id": 706369369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4282,42.262589,-84.4282,42.262589",
+    "geom:latitude":42.262589,
+    "geom:longitude":-84.4282,
+    "iso:country":"US",
+    "sg:address":"1345 N Wisner St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 9500",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.jackson-ford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CEAAkHYqUe58NaqxhFEdv_42.262589_-84.428200@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801794,
+    "wof:geomhash":"a75b86c889589a47f98fde524dad6062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706369369
+        }
+    ],
+    "wof:id":706369369,
+    "wof:lastmodified":1461801794,
+    "wof:name":"Jackson Ford",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.4282,
+    42.262589,
+    -84.4282,
+    42.262589
+],
+  "geometry": {"coordinates":[-84.4282,42.262589],"type":"Point"}
+}

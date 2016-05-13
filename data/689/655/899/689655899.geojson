@@ -1,0 +1,73 @@
+{
+  "id": 689655899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.40641,44.26694,-85.40641,44.26694",
+    "geom:latitude":44.26694,
+    "geom:longitude":-85.40641,
+    "iso:country":"US",
+    "sg:address":"1202 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 0123",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1oWkp7fHXefNsGPSuma0_44.266940_-85.406410@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778018,
+    "wof:geomhash":"1a1db07872fc2cac6671878a7ef7be5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689655899
+        }
+    ],
+    "wof:id":689655899,
+    "wof:lastmodified":1461778018,
+    "wof:name":"Cadillac Wexford Transit Auth",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -85.40641,
+    44.26694,
+    -85.40641,
+    44.26694
+],
+  "geometry": {"coordinates":[-85.40640999999999,44.26694],"type":"Point"}
+}

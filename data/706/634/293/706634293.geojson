@@ -1,0 +1,71 @@
+{
+  "id": 706634293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.436013,46.562433,-87.436013,46.562433",
+    "geom:latitude":46.562433,
+    "geom:longitude":-87.436013,
+    "iso:country":"US",
+    "sg:address":"2262 Norwood St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 5500",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UMCE6eUtdNsy0x9wGwga5_46.562433_-87.436013@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807463,
+    "wof:geomhash":"673eb9e5bf4ceec136ef847556a9be56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706634293
+        }
+    ],
+    "wof:id":706634293,
+    "wof:lastmodified":1461807463,
+    "wof:name":"Ontario House",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -87.436013,
+    46.562433,
+    -87.436013,
+    46.562433
+],
+  "geometry": {"coordinates":[-87.436013,46.562433],"type":"Point"}
+}

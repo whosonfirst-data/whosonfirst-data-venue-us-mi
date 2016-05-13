@@ -1,0 +1,71 @@
+{
+  "id": 689873317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.311333,43.399226,-86.311333,43.399226",
+    "geom:latitude":43.399226,
+    "geom:longitude":-86.311333,
+    "iso:country":"US",
+    "sg:address":"8520 Durham Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 767 9001",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHE405TWy4AqTeVL5yJz1_43.399226_-86.311333@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783873,
+    "wof:geomhash":"581403182a9253f8101cdf642daf680b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689873317
+        }
+    ],
+    "wof:id":689873317,
+    "wof:lastmodified":1461783873,
+    "wof:name":"ASAP Towing & Transprtn",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -86.311333,
+    43.399226,
+    -86.311333,
+    43.399226
+],
+  "geometry": {"coordinates":[-86.311333,43.399226],"type":"Point"}
+}

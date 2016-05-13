@@ -1,0 +1,80 @@
+{
+  "id": 706191601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.66027,41.957158,-83.66027,41.957158",
+    "geom:latitude":41.957158,
+    "geom:longitude":-83.66027,
+    "iso:country":"US",
+    "sg:address":"168 Riley St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 5331",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair",
+        "list",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59de8dSehZpbNUMJYeKlvp_41.957158_-83.660270@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797892,
+    "wof:geomhash":"a30d529adb3e1ec0227845609843dbb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706191601
+        }
+    ],
+    "wof:id":706191601,
+    "wof:lastmodified":1461797892,
+    "wof:name":"Dundee Internet Services Inc",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "list",
+        "internet"
+    ]
+},
+  "bbox": [
+    -83.66027,
+    41.957158,
+    -83.66027,
+    41.957158
+],
+  "geometry": {"coordinates":[-83.66027,41.957158],"type":"Point"}
+}

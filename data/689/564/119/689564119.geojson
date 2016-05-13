@@ -1,0 +1,71 @@
+{
+  "id": 689564119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263528,43.1904,-86.263528,43.1904",
+    "geom:latitude":43.1904,
+    "geom:longitude":-86.263528,
+    "iso:country":"US",
+    "sg:address":"3579 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 8889",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bTbnsoDAPKB40A5Q9MqsH_43.190400_-86.263528@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775135,
+    "wof:geomhash":"5bc310050efee32fdba04f303f5e3de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689564119
+        }
+    ],
+    "wof:id":689564119,
+    "wof:lastmodified":1461775135,
+    "wof:name":"M J Fischer Dentistry",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.263528,
+    43.1904,
+    -86.263528,
+    43.1904
+],
+  "geometry": {"coordinates":[-86.26352799999999,43.1904],"type":"Point"}
+}

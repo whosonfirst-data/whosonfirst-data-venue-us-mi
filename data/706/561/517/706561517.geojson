@@ -1,0 +1,71 @@
+{
+  "id": 706561517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.697862,43.036085,-83.697862,43.036085",
+    "geom:latitude":43.036085,
+    "geom:longitude":-83.697862,
+    "iso:country":"US",
+    "sg:address":"426 E Newall St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 249 8931",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45VcRyo4OcQKjz4oyYR2JH_43.036085_-83.697862@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805882,
+    "wof:geomhash":"2269f6b389bdd9acc9214ef23e3faaed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706561517
+        }
+    ],
+    "wof:id":706561517,
+    "wof:lastmodified":1461805882,
+    "wof:name":"A Brown Cleaning Co",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.697862,
+    43.036085,
+    -83.697862,
+    43.036085
+],
+  "geometry": {"coordinates":[-83.697862,43.036085],"type":"Point"}
+}

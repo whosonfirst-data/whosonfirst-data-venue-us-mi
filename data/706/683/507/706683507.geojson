@@ -1,0 +1,76 @@
+{
+  "id": 706683507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599539,42.741095,-84.599539,42.741095",
+    "geom:latitude":42.741095,
+    "geom:longitude":-84.599539,
+    "iso:country":"US",
+    "sg:address":"3598 W Saginaw St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/lansing/58151-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 321 6045",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807273,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O98X5Fi7y8E7vy1P2Mrzi_42.741095_-84.599539@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809422,
+    "wof:geomhash":"a1b58d4d6526d33e784631911f03ff38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "neighbourhood_id":85807273,
+            "region_id":85688599,
+            "venue_id":706683507
+        }
+    ],
+    "wof:id":706683507,
+    "wof:lastmodified":1461809422,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85807273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.599539,
+    42.741095,
+    -84.599539,
+    42.741095
+],
+  "geometry": {"coordinates":[-84.59953899999999,42.741095],"type":"Point"}
+}

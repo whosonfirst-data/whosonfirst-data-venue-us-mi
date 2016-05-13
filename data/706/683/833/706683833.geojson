@@ -1,0 +1,76 @@
+{
+  "id": 706683833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634626,42.271322,-85.634626,42.271322",
+    "geom:latitude":42.271322,
+    "geom:longitude":-85.634626,
+    "iso:country":"US",
+    "sg:address":"3939 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/45102-ground-round/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 9300",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k5pSq60sa5xinFVoVIYKr_42.271322_-85.634626@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809440,
+    "wof:geomhash":"61db24ccbdcfd9e4882b234a884228fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706683833
+        }
+    ],
+    "wof:id":706683833,
+    "wof:lastmodified":1461809440,
+    "wof:name":"Ground Round",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.634626,
+    42.271322,
+    -85.634626,
+    42.271322
+],
+  "geometry": {"coordinates":[-85.634626,42.271322],"type":"Point"}
+}

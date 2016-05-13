@@ -1,0 +1,71 @@
+{
+  "id": 689757047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.422177,42.265011,-84.422177,42.265011",
+    "geom:latitude":42.265011,
+    "geom:longitude":-84.422177,
+    "iso:country":"US",
+    "sg:address":"1320 Clinton Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 1604",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QnvmIrzJ0Waxn7hbXEURz_42.265011_-84.422177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780643,
+    "wof:geomhash":"7a17754c48f727edf0ac4ca59a0ff438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689757047
+        }
+    ],
+    "wof:id":689757047,
+    "wof:lastmodified":1461780643,
+    "wof:name":"Clinton Road Car Wash",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.422177,
+    42.265011,
+    -84.422177,
+    42.265011
+],
+  "geometry": {"coordinates":[-84.422177,42.265011],"type":"Point"}
+}

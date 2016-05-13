@@ -1,0 +1,86 @@
+{
+  "id": 722503517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.039153,42.330242,-83.039153,42.330242",
+    "geom:latitude":42.330242,
+    "geom:longitude":-83.039153,
+    "iso:country":"US",
+    "sg:address":"500 Renaissance Ctr",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 567 4832",
+    "sg:postcode":"48243",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CQftPlKEYekGCdLISMx8J_42.330242_-83.039153@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813206,
+    "wof:geomhash":"40172b83096e9286f551cf3352e35950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":722503517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":722503517
+        }
+    ],
+    "wof:id":722503517,
+    "wof:lastmodified":1461813206,
+    "wof:name":"Riverfront Holdings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.039153,
+    42.330242,
+    -83.039153,
+    42.330242
+],
+  "geometry": {"coordinates":[-83.039153,42.330242],"type":"Point"}
+}

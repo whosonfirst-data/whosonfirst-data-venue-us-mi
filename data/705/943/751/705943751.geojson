@@ -1,0 +1,69 @@
+{
+  "id": 705943751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480001,42.01458,-86.480001,42.01458",
+    "geom:latitude":42.01458,
+    "geom:longitude":-86.480001,
+    "iso:country":"US",
+    "sg:address":"911 W John Beers Rd",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 5202",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MVpIKnt8WkSiq5FjQANE9_42.014580_-86.480001@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792391,
+    "wof:geomhash":"adf1971010af9aa364053b49990b13a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":705943751
+        }
+    ],
+    "wof:id":705943751,
+    "wof:lastmodified":1461792391,
+    "wof:name":"Royalton Twp Fire Dept",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.480001,
+    42.01458,
+    -86.480001,
+    42.01458
+],
+  "geometry": {"coordinates":[-86.480001,42.01458],"type":"Point"}
+}

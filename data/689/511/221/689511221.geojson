@@ -1,0 +1,73 @@
+{
+  "id": 689511221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.568917,41.781147,-83.568917,41.781147",
+    "geom:latitude":41.781147,
+    "geom:longitude":-83.568917,
+    "iso:country":"US",
+    "sg:address":"9100 Lewis Ave",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0938",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qpRFlleOMceQQIdxtb9oo_41.781147_-83.568917@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773450,
+    "wof:geomhash":"4503a27a438256cd382eac6d7299ee19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":689511221
+        }
+    ],
+    "wof:id":689511221,
+    "wof:lastmodified":1461773450,
+    "wof:name":"Whitman Ford Co",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.568917,
+    41.781147,
+    -83.568917,
+    41.781147
+],
+  "geometry": {"coordinates":[-83.568917,41.781147],"type":"Point"}
+}

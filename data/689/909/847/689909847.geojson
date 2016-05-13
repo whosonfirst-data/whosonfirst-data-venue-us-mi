@@ -1,0 +1,71 @@
+{
+  "id": 689909847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.264851,43.2013,-86.264851,43.2013",
+    "geom:latitude":43.2013,
+    "geom:longitude":-86.264851,
+    "iso:country":"US",
+    "sg:address":"892 W Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 8126",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57fbWCL85ZxdRzDJel68Wj_43.201300_-86.264851@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784850,
+    "wof:geomhash":"2b8319a6581d3cefa2029db4ead8934c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689909847
+        }
+    ],
+    "wof:id":689909847,
+    "wof:lastmodified":1461784850,
+    "wof:name":"Garvey Dental Lab",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.264851,
+    43.2013,
+    -86.264851,
+    43.2013
+],
+  "geometry": {"coordinates":[-86.26485099999999,43.2013],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706321259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.822169,43.129318,-82.822169,43.129318",
+    "geom:latitude":43.129318,
+    "geom:longitude":-82.822169,
+    "iso:country":"US",
+    "sg:address":"12139 Yale Rd",
+    "sg:city":"Brockway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 387 3532",
+    "sg:postcode":"48097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "lawn",
+        "industrial",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AQr7pxWGmqkk68uBNwBks_43.129318_-82.822169@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800762,
+    "wof:geomhash":"6f74150038605565ec7e2d6c4e14d908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706321259
+        }
+    ],
+    "wof:id":706321259,
+    "wof:lastmodified":1461800762,
+    "wof:name":"Dave S Small Engine Repair",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lawn",
+        "industrial",
+        "mower"
+    ]
+},
+  "bbox": [
+    -82.822169,
+    43.129318,
+    -82.822169,
+    43.129318
+],
+  "geometry": {"coordinates":[-82.822169,43.129318],"type":"Point"}
+}

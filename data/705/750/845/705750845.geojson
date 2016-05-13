@@ -1,0 +1,71 @@
+{
+  "id": 705750845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.423928,42.754669,-84.423928,42.754669",
+    "geom:latitude":42.754669,
+    "geom:longitude":-84.423928,
+    "iso:country":"US",
+    "sg:address":"1988 Lac du Mont Dr",
+    "sg:city":"Haslett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 339 1873",
+    "sg:postcode":"48840",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_275b9EoLnSgBuzPKdNGAHe_42.754669_-84.423928@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787863,
+    "wof:geomhash":"0e5b72c1c534d1efe909a80eedce1185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705750845
+        }
+    ],
+    "wof:id":705750845,
+    "wof:lastmodified":1461787863,
+    "wof:name":"Arthroscopy Education Labs",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.423928,
+    42.754669,
+    -84.423928,
+    42.754669
+],
+  "geometry": {"coordinates":[-84.423928,42.754669],"type":"Point"}
+}

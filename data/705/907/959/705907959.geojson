@@ -1,0 +1,76 @@
+{
+  "id": 705907959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990197,43.437709,-83.990197,43.437709",
+    "geom:latitude":43.437709,
+    "geom:longitude":-83.990197,
+    "iso:country":"US",
+    "sg:address":"2121 Warwick St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 793 7071",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ptTBdNUuRbOc6Q9imMNCA_43.437709_-83.990197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791583,
+    "wof:geomhash":"00c13d337c3cd9f0297ee68ee0fc2a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705907959
+        }
+    ],
+    "wof:id":705907959,
+    "wof:lastmodified":1461791583,
+    "wof:name":"Warwick Cleaners & Coin Lndry",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -83.990197,
+    43.437709,
+    -83.990197,
+    43.437709
+],
+  "geometry": {"coordinates":[-83.99019699999999,43.437709],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689862983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418199,42.711709,-83.418199,42.711709",
+    "geom:latitude":42.711709,
+    "geom:longitude":-83.418199,
+    "iso:country":"US",
+    "sg:address":"4951 Lancaster Hills Dr",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 8710",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QqacGAod45wbXGaSRg7Je_42.711709_-83.418199@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783591,
+    "wof:geomhash":"b35f1995711c8e5e91cec1c6bcf65157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689862983
+        }
+    ],
+    "wof:id":689862983,
+    "wof:lastmodified":1461783591,
+    "wof:name":"Stoutenburg Plumbing Inc",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.418199,
+    42.711709,
+    -83.418199,
+    42.711709
+],
+  "geometry": {"coordinates":[-83.418199,42.711709],"type":"Point"}
+}

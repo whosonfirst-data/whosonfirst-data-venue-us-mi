@@ -1,0 +1,71 @@
+{
+  "id": 705960847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240554,43.22304,-86.240554,43.22304",
+    "geom:latitude":43.22304,
+    "geom:longitude":-86.240554,
+    "iso:country":"US",
+    "sg:address":"1675 Leahy St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 5614",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ELqVhUDlzXhG8JTxUq6g2_43.223040_-86.240554@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792765,
+    "wof:geomhash":"aab650c6d2b4712cd88431f094b12544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705960847
+        }
+    ],
+    "wof:id":705960847,
+    "wof:lastmodified":1461792765,
+    "wof:name":"James H Dallman Jr MD",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.240554,
+    43.22304,
+    -86.240554,
+    43.22304
+],
+  "geometry": {"coordinates":[-86.240554,43.22304],"type":"Point"}
+}

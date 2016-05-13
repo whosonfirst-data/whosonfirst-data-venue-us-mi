@@ -1,0 +1,69 @@
+{
+  "id": 706587253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.159581,42.288569,-85.159581,42.288569",
+    "geom:latitude":42.288569,
+    "geom:longitude":-85.159581,
+    "iso:country":"US",
+    "sg:address":"7115 Tower Rd",
+    "sg:city":"Battle Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 441 9233",
+    "sg:postcode":"49014",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805033,
+        102082993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tDdP62qpdaObFBfEhw0gU_42.288569_-85.159581@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806470,
+    "wof:geomhash":"f11f480a8fde174074c96f98493be5bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082993,
+            "neighbourhood_id":85805033,
+            "region_id":85688599,
+            "venue_id":706587253
+        }
+    ],
+    "wof:id":706587253,
+    "wof:lastmodified":1461806470,
+    "wof:name":"Beadle Lake Large Animal Clinc",
+    "wof:parent_id":85805033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.159581,
+    42.288569,
+    -85.159581,
+    42.288569
+],
+  "geometry": {"coordinates":[-85.159581,42.288569],"type":"Point"}
+}

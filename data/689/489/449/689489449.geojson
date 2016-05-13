@@ -1,0 +1,71 @@
+{
+  "id": 689489449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.193086,42.662766,-86.193086,42.662766",
+    "geom:latitude":42.662766,
+    "geom:longitude":-86.193086,
+    "iso:country":"US",
+    "sg:address":"1037 N Maple St",
+    "sg:city":"Saugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 857 4331",
+    "sg:postcode":"49453",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sZmDBrnDH5ZMnHHfyVZCF_42.662766_-86.193086@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772813,
+    "wof:geomhash":"90372d86ad4696ce977970b0cfc50e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":689489449
+        }
+    ],
+    "wof:id":689489449,
+    "wof:lastmodified":1461772813,
+    "wof:name":"Gardner Management Company",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.193086,
+    42.662766,
+    -86.193086,
+    42.662766
+],
+  "geometry": {"coordinates":[-86.19308599999999,42.662766],"type":"Point"}
+}

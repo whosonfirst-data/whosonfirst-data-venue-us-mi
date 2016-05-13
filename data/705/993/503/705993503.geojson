@@ -1,0 +1,71 @@
+{
+  "id": 705993503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167649,43.351165,-86.167649,43.351165",
+    "geom:latitude":43.351165,
+    "geom:longitude":-86.167649,
+    "iso:country":"US",
+    "sg:address":"5085 Holton Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 4042",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y9ZGNp4U72aP34VfCjBpk_43.351165_-86.167649@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793434,
+    "wof:geomhash":"3fc98fe4957969ea3198e5db6972f436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705993503
+        }
+    ],
+    "wof:id":705993503,
+    "wof:lastmodified":1461793434,
+    "wof:name":"Twin Lake Greenhouse",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -86.167649,
+    43.351165,
+    -86.167649,
+    43.351165
+],
+  "geometry": {"coordinates":[-86.167649,43.351165],"type":"Point"}
+}

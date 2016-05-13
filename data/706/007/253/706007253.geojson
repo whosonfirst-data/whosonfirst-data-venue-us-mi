@@ -1,0 +1,75 @@
+{
+  "id": 706007253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.797591,43.060262,-83.797591,43.060262",
+    "geom:latitude":43.060262,
+    "geom:longitude":-83.797591,
+    "iso:country":"US",
+    "sg:address":"6095 W Pierson Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 249 5886",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nV7um2jw0OO34Q9bm09Uz_43.060262_-83.797591@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793729,
+    "wof:geomhash":"b534cb1e54cb97860de2c9dfd6e1a763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706007253
+        }
+    ],
+    "wof:id":706007253,
+    "wof:lastmodified":1461793729,
+    "wof:name":"Flushing Service Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.797591,
+    43.060262,
+    -83.797591,
+    43.060262
+],
+  "geometry": {"coordinates":[-83.797591,43.060262],"type":"Point"}
+}

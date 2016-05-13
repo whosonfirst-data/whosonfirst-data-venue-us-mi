@@ -1,0 +1,71 @@
+{
+  "id": 706141533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685869,44.504095,-85.685869,44.504095",
+    "geom:latitude":44.504095,
+    "geom:longitude":-85.685869,
+    "iso:country":"US",
+    "sg:address":"106 Industrial Dr",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 269 3702",
+    "sg:postcode":"49620",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nVhPA9qm3krqsDADqcVpH_44.504095_-85.685869@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796796,
+    "wof:geomhash":"e5bc63885d69730c9c4ed5271225e437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706141533
+        }
+    ],
+    "wof:id":706141533,
+    "wof:lastmodified":1461796796,
+    "wof:name":"Buckley Fire Dept",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.685869,
+    44.504095,
+    -85.685869,
+    44.504095
+],
+  "geometry": {"coordinates":[-85.685869,44.504095],"type":"Point"}
+}

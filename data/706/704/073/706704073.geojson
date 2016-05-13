@@ -1,0 +1,81 @@
+{
+  "id": 706704073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.143722,42.487732,-83.143722,42.487732",
+    "geom:latitude":42.487732,
+    "geom:longitude":-83.143722,
+    "iso:country":"US",
+    "sg:address":"311 S Main St",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 545 5305",
+    "sg:postcode":"48067",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896807,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GQ9BuqtgcpgCVS7kDjMk9_42.487732_-83.143722@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810246,
+    "wof:geomhash":"653a6b3fd7ea3d56faf13fb550bcadc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896807,
+            "region_id":85688599,
+            "venue_id":706704073
+        }
+    ],
+    "wof:id":706704073,
+    "wof:lastmodified":1461810246,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85896807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -83.143722,
+    42.487732,
+    -83.143722,
+    42.487732
+],
+  "geometry": {"coordinates":[-83.143722,42.487732],"type":"Point"}
+}

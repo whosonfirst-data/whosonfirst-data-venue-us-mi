@@ -1,0 +1,71 @@
+{
+  "id": 706418607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240267,43.08884,-86.240267,43.08884",
+    "geom:latitude":43.08884,
+    "geom:longitude":-86.240267,
+    "iso:country":"US",
+    "sg:address":"18117 Alpine Ct",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 402 8261",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e9BV7Y5fyaIhoppDRe1az_43.088840_-86.240267@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802765,
+    "wof:geomhash":"f17f8c910995c95a3f85d9fd747c615d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706418607
+        }
+    ],
+    "wof:id":706418607,
+    "wof:lastmodified":1461802765,
+    "wof:name":"Tri-Cities Courier",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.240267,
+    43.08884,
+    -86.240267,
+    43.08884
+],
+  "geometry": {"coordinates":[-86.240267,43.08884],"type":"Point"}
+}

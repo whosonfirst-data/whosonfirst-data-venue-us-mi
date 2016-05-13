@@ -1,0 +1,73 @@
+{
+  "id": 706136447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.068626,45.80976,-88.068626,45.80976",
+    "geom:latitude":45.80976,
+    "geom:longitude":-88.068626,
+    "iso:country":"US",
+    "sg:address":"1301 Carpenter Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 1404",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WcWHYfufomtzuArZaRqve_45.809760_-88.068626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796679,
+    "wof:geomhash":"0776ce15b36af0387a92ffa0d2668cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706136447
+        }
+    ],
+    "wof:id":706136447,
+    "wof:lastmodified":1461796679,
+    "wof:name":"Garrett Eye & Laser Ctr",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.068626,
+    45.80976,
+    -88.068626,
+    45.80976
+],
+  "geometry": {"coordinates":[-88.06862599999999,45.80976],"type":"Point"}
+}

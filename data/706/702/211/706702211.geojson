@@ -1,0 +1,88 @@
+{
+  "id": 706702211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.853996,42.594101,-82.853996,42.594101",
+    "geom:latitude":42.594101,
+    "geom:longitude":-82.853996,
+    "iso:country":"US",
+    "sg:address":"40501 Production Dr",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 2000",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hall",
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b3o2gQNbarP081IbB19Zi_42.594101_-82.853996@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810168,
+    "wof:geomhash":"02c6959a733dfce3416d2bb3d100e838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706702211
+        }
+    ],
+    "wof:id":706702211,
+    "wof:lastmodified":1461810168,
+    "wof:name":"Total Sports",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [
+    -82.853996,
+    42.594101,
+    -82.853996,
+    42.594101
+],
+  "geometry": {"coordinates":[-82.853996,42.594101],"type":"Point"}
+}

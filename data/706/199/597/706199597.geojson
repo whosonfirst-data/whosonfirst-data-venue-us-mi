@@ -1,0 +1,71 @@
+{
+  "id": 706199597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.434529,43.013675,-82.434529,43.013675",
+    "geom:latitude":43.013675,
+    "geom:longitude":-82.434529,
+    "iso:country":"US",
+    "sg:address":"3302 Stone St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 4070",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AVM5zRbev0GIG88TS3mdK_43.013675_-82.434529@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798065,
+    "wof:geomhash":"d9b9df54cc716766a3fafe3afb0e4095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706199597
+        }
+    ],
+    "wof:id":706199597,
+    "wof:lastmodified":1461798065,
+    "wof:name":"Hicks Dental Laboratory",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -82.434529,
+    43.013675,
+    -82.434529,
+    43.013675
+],
+  "geometry": {"coordinates":[-82.434529,43.013675],"type":"Point"}
+}

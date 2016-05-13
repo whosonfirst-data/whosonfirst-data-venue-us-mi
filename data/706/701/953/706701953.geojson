@@ -1,0 +1,71 @@
+{
+  "id": 706701953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.790439,42.591912,-82.790439,42.591912",
+    "geom:latitude":42.591912,
+    "geom:longitude":-82.790439,
+    "iso:country":"US",
+    "sg:address":"39475 W Archer Dr",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 469 2963",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yMJ9Nn7iHiww9zVoQYA7x_42.591912_-82.790439@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810155,
+    "wof:geomhash":"efe18e295f387ec7ed9df769cb449cc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706701953
+        }
+    ],
+    "wof:id":706701953,
+    "wof:lastmodified":1461810155,
+    "wof:name":"Airport Bus & Limo Service",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -82.790439,
+    42.591912,
+    -82.790439,
+    42.591912
+],
+  "geometry": {"coordinates":[-82.79043900000001,42.591912],"type":"Point"}
+}

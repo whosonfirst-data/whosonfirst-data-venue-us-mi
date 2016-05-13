@@ -1,0 +1,69 @@
+{
+  "id": 706737343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.460602,42.376499,-83.460602,42.376499",
+    "geom:latitude":42.376499,
+    "geom:longitude":-83.460602,
+    "iso:country":"US",
+    "sg:address":"480 N Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 3400",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q7XYHBLDpjpwh3PtsBcYw_42.376499_-83.460602@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811707,
+    "wof:geomhash":"94faf105c20f05bdf6578b32f2e2243e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737343
+        }
+    ],
+    "wof:id":706737343,
+    "wof:lastmodified":1461811707,
+    "wof:name":"Beyer Drugs",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.460602,
+    42.376499,
+    -83.460602,
+    42.376499
+],
+  "geometry": {"coordinates":[-83.46060199999999,42.376499],"type":"Point"}
+}

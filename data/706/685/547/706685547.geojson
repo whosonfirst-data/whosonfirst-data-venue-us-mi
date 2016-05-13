@@ -1,0 +1,72 @@
+{
+  "id": 706685547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.07732,42.797792,-86.07732,42.797792",
+    "geom:latitude":42.797792,
+    "geom:longitude":-86.07732,
+    "iso:country":"US",
+    "sg:address":"716 Chicago Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/86823-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 394 0591",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tVpXla5NRsp8GLtNTxUGu_42.797792_-86.077320@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809504,
+    "wof:geomhash":"3e1147cca4c592f5eb7cb424b16beb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706685547
+        }
+    ],
+    "wof:id":706685547,
+    "wof:lastmodified":1461809504,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.07732,
+    42.797792,
+    -86.07732,
+    42.797792
+],
+  "geometry": {"coordinates":[-86.07732,42.797792],"type":"Point"}
+}

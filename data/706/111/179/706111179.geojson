@@ -1,0 +1,77 @@
+{
+  "id": 706111179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.659621,41.95722,-83.659621,41.95722",
+    "geom:latitude":41.95722,
+    "geom:longitude":-83.659621,
+    "iso:country":"US",
+    "sg:address":"179 W Main St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2650",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "township",
+        "meeting",
+        "hall",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dRxw097ZypOxooECAKjTb_41.957220_-83.659621@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796012,
+    "wof:geomhash":"c2a48b1f18bd436fd075ec2d046188c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706111179
+        }
+    ],
+    "wof:id":706111179,
+    "wof:lastmodified":1461796012,
+    "wof:name":"Dundee Township Hall",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "meeting",
+        "hall",
+        "village"
+    ]
+},
+  "bbox": [
+    -83.659621,
+    41.95722,
+    -83.659621,
+    41.95722
+],
+  "geometry": {"coordinates":[-83.659621,41.95722],"type":"Point"}
+}

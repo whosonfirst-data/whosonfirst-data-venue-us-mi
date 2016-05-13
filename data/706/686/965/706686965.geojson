@@ -1,0 +1,72 @@
+{
+  "id": 706686965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.398238,44.411984,-85.398238,44.411984",
+    "geom:latitude":44.411984,
+    "geom:longitude":-85.398238,
+    "iso:country":"US",
+    "sg:address":"204 N Michigan Ave",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/manton/141195-merry-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 3600",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PWun2PNQIuI38ljw5alAP_44.411984_-85.398238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809556,
+    "wof:geomhash":"2ffed9e4ce61c1891fd977c58109be71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686965
+        }
+    ],
+    "wof:id":706686965,
+    "wof:lastmodified":1461809556,
+    "wof:name":"Merry Inn",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.398238,
+    44.411984,
+    -85.398238,
+    44.411984
+],
+  "geometry": {"coordinates":[-85.39823800000001,44.411984],"type":"Point"}
+}

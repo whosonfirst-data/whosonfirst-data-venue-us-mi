@@ -1,0 +1,87 @@
+{
+  "id": 722489459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.167912,42.431403,-83.167912,42.431403",
+    "geom:latitude":42.431403,
+    "geom:longitude":-83.167912,
+    "iso:country":"US",
+    "sg:address":"10636 W 7 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 529 5188",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "sport",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"www.dwightortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524875,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pcEXDoTXSSVWAp1fTeSTD_42.431403_-83.167912@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812655,
+    "wof:geomhash":"a9c5fd431c4942fe2b77fbd4dc6c64be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524875,
+            "region_id":85688599,
+            "venue_id":722489459
+        }
+    ],
+    "wof:id":722489459,
+    "wof:lastmodified":1461812655,
+    "wof:name":"Dwight Orthopedic Rehabilitation Co",
+    "wof:parent_id":420524875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -83.167912,
+    42.431403,
+    -83.167912,
+    42.431403
+],
+  "geometry": {"coordinates":[-83.167912,42.431403],"type":"Point"}
+}

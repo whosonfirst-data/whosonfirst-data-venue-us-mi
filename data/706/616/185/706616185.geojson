@@ -1,0 +1,69 @@
+{
+  "id": 706616185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599769,42.260993,-84.599769,42.260993",
+    "geom:latitude":42.260993,
+    "geom:longitude":-84.599769,
+    "iso:country":"US",
+    "sg:address":"297 N Union St",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 000 1111",
+    "sg:postcode":"49269",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QgMwkKB0R8oiIrHcOrVJn_42.260993_-84.599769@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807073,
+    "wof:geomhash":"91a2fe61777d4eb633b1247efb35f2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706616185
+        }
+    ],
+    "wof:id":706616185,
+    "wof:lastmodified":1461807073,
+    "wof:name":"Parma Sandstone Fire Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.599769,
+    42.260993,
+    -84.599769,
+    42.260993
+],
+  "geometry": {"coordinates":[-84.59976899999999,42.260993],"type":"Point"}
+}

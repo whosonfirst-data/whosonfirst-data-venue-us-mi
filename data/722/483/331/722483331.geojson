@@ -1,0 +1,92 @@
+{
+  "id": 722483331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.13471,42.316431,-83.13471,42.316431",
+    "geom:latitude":42.316431,
+    "geom:longitude":-83.13471,
+    "iso:country":"US",
+    "sg:address":"8350 Dix St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 841 5550",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "sg:tags":[
+        "steel",
+        "junk",
+        "used",
+        "metals-wholesale"
+    ],
+    "sg:website":"http://www.detroitironandmetal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870619,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1opqWRNfxNl858HHykMnwq_42.316431_-83.134710@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812426,
+    "wof:geomhash":"64465ccc4708295e6796c7acc60e69e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":722483331
+        }
+    ],
+    "wof:id":722483331,
+    "wof:lastmodified":1461812426,
+    "wof:name":"Detroit Iron & Metal Company",
+    "wof:parent_id":85870619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "junk",
+        "used",
+        "metals-wholesale"
+    ]
+},
+  "bbox": [
+    -83.13471,
+    42.316431,
+    -83.13471,
+    42.316431
+],
+  "geometry": {"coordinates":[-83.13471,42.316431],"type":"Point"}
+}

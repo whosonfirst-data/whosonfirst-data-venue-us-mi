@@ -1,0 +1,73 @@
+{
+  "id": 706682755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.43427,42.56769,-84.43427,42.56769",
+    "geom:latitude":42.56769,
+    "geom:longitude":-84.43427,
+    "iso:country":"US",
+    "sg:address":"614 E Kipp Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mason/186057-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zj0Prge02eUEWFwNWZTIY_42.567690_-84.434270@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809393,
+    "wof:geomhash":"836f065b62a27dbd8013b6ef63d554ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682755
+        }
+    ],
+    "wof:id":706682755,
+    "wof:lastmodified":1461809393,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.43427,
+    42.56769,
+    -84.43427,
+    42.56769
+],
+  "geometry": {"coordinates":[-84.43427,42.56769],"type":"Point"}
+}

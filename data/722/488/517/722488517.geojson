@@ -1,0 +1,92 @@
+{
+  "id": 722488517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.123302,42.466973,-83.123302,42.466973",
+    "geom:latitude":42.466973,
+    "geom:longitude":-83.123302,
+    "iso:country":"US",
+    "sg:address":"2525 Hilton Rd",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 399 0428",
+    "sg:postcode":"48220",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524593,
+        102191575,
+        404508189,
+        85633793,
+        85951997,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VwOyxEtnHSdLtRcuKpvVC_42.466973_-83.123302@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812619,
+    "wof:geomhash":"ef982deea80709a329c9ea1623c363c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508189,
+            "locality_id":85951997,
+            "neighbourhood_id":420524593,
+            "region_id":85688599,
+            "venue_id":722488517
+        }
+    ],
+    "wof:id":722488517,
+    "wof:lastmodified":1461812619,
+    "wof:name":"Subway",
+    "wof:parent_id":420524593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.123302,
+    42.466973,
+    -83.123302,
+    42.466973
+],
+  "geometry": {"coordinates":[-83.123302,42.466973],"type":"Point"}
+}

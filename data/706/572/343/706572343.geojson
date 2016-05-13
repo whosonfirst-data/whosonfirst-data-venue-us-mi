@@ -1,0 +1,71 @@
+{
+  "id": 706572343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.45543,42.119275,-86.45543,42.119275",
+    "geom:latitude":42.119275,
+    "geom:longitude":-86.45543,
+    "iso:country":"US",
+    "sg:address":"111 Graham Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 1210",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4joeQlwyvOF6WwO7Tw9sOs_42.119275_-86.455430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806107,
+    "wof:geomhash":"26dd7ded6f085ee22af9be99d06c1fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706572343
+        }
+    ],
+    "wof:id":706572343,
+    "wof:lastmodified":1461806107,
+    "wof:name":"Harbor Habitat For Humanity",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -86.45543,
+    42.119275,
+    -86.45543,
+    42.119275
+],
+  "geometry": {"coordinates":[-86.45543000000001,42.119275],"type":"Point"}
+}

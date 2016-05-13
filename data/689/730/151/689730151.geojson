@@ -1,0 +1,90 @@
+{
+  "id": 689730151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.07969,42.363053,-83.07969,42.363053",
+    "geom:latitude":42.363053,
+    "geom:longitude":-83.07969,
+    "iso:country":"US",
+    "sg:address":"6045 John C Lodge Fwy",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 5446",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870585,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OEE3mxUskKP8QDKxacBTZ_42.363053_-83.079690@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779936,
+    "wof:geomhash":"8422bcacf575c1bf3757f3e4725124d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":689730151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":689730151
+        }
+    ],
+    "wof:id":689730151,
+    "wof:lastmodified":1461779936,
+    "wof:name":"Union Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.07969,
+    42.363053,
+    -83.07969,
+    42.363053
+],
+  "geometry": {"coordinates":[-83.07969,42.363053],"type":"Point"}
+}

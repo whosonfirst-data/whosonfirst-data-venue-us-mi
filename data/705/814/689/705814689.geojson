@@ -1,0 +1,73 @@
+{
+  "id": 705814689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.96637,43.463422,-85.96637,43.463422",
+    "geom:latitude":43.463422,
+    "geom:longitude":-85.96637,
+    "iso:country":"US",
+    "sg:address":"1256 Locust St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2065",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LIKu6OaNGR9EwNOMBTuS8_43.463422_-85.966370@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789356,
+    "wof:geomhash":"8665761471aab8e2e479ea50bf63dda0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705814689
+        }
+    ],
+    "wof:id":705814689,
+    "wof:lastmodified":1461789356,
+    "wof:name":"Fremont Mini Storage Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.96637,
+    43.463422,
+    -85.96637,
+    43.463422
+],
+  "geometry": {"coordinates":[-85.96637,43.463422],"type":"Point"}
+}

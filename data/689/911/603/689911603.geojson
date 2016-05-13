@@ -1,0 +1,74 @@
+{
+  "id": 689911603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.398405,42.24874,-84.398405,42.24874",
+    "geom:latitude":42.24874,
+    "geom:longitude":-84.398405,
+    "iso:country":"US",
+    "sg:address":"606 E Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 6989",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DCYnVNetaAPd4nunrieBF_42.248740_-84.398405@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784903,
+    "wof:geomhash":"11880df6488c7782e9eccb5a01fd197e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689911603
+        }
+    ],
+    "wof:id":689911603,
+    "wof:lastmodified":1461784903,
+    "wof:name":"Apria Healthcare Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -84.398405,
+    42.24874,
+    -84.398405,
+    42.24874
+],
+  "geometry": {"coordinates":[-84.398405,42.24874],"type":"Point"}
+}

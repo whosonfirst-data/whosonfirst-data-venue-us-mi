@@ -1,0 +1,71 @@
+{
+  "id": 706530307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988659,43.438031,-83.988659,43.438031",
+    "geom:latitude":43.438031,
+    "geom:longitude":-83.988659,
+    "iso:country":"US",
+    "sg:address":"3424 Davenport Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 0100",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hZ7UF6d6FrqZiq9jepFs4_43.438031_-83.988659@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805244,
+    "wof:geomhash":"ded6cdf676c2104ca46ba8b9cf297504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706530307
+        }
+    ],
+    "wof:id":706530307,
+    "wof:lastmodified":1461805244,
+    "wof:name":"Great Lakes Family Health Ctr",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.988659,
+    43.438031,
+    -83.988659,
+    43.438031
+],
+  "geometry": {"coordinates":[-83.988659,43.438031],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706365193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.459284,43.954262,-86.459284,43.954262",
+    "geom:latitude":43.954262,
+    "geom:longitude":-86.459284,
+    "iso:country":"US",
+    "sg:address":"214 S Lakeshore Dr",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 9088",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OKrILrTlYRXJoP90bHx2V_43.954262_-86.459284@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801717,
+    "wof:geomhash":"27229ea6708bbc8be3bb4546c553b05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706365193
+        }
+    ],
+    "wof:id":706365193,
+    "wof:lastmodified":1461801717,
+    "wof:name":"Coast Guard Station",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -86.459284,
+    43.954262,
+    -86.459284,
+    43.954262
+],
+  "geometry": {"coordinates":[-86.459284,43.954262],"type":"Point"}
+}

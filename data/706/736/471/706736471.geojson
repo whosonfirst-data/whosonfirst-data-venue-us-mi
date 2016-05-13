@@ -1,0 +1,69 @@
+{
+  "id": 706736471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.470001,42.3643,-83.470001,42.3643",
+    "geom:latitude":42.3643,
+    "geom:longitude":-83.470001,
+    "iso:country":"US",
+    "sg:address":"898 S Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 6630",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FQdw0DoLqHL1CKS3Uc9Zb_42.364300_-83.470001@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811677,
+    "wof:geomhash":"713d89d0a269736194ae8536f506d50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736471
+        }
+    ],
+    "wof:id":706736471,
+    "wof:lastmodified":1461811677,
+    "wof:name":"Dunlap Heating & Cooling",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -83.470001,
+    42.3643,
+    -83.470001,
+    42.3643
+],
+  "geometry": {"coordinates":[-83.470001,42.3643],"type":"Point"}
+}

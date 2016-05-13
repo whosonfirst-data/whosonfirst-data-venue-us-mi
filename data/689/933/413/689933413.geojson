@@ -1,0 +1,73 @@
+{
+  "id": 689933413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.45694,43.025049,-82.45694,43.025049",
+    "geom:latitude":43.025049,
+    "geom:longitude":-82.45694,
+    "iso:country":"US",
+    "sg:address":"3050 Kraft Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 7700",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_454xRxE9M6mCLyObkF4jjG_43.025049_-82.456940@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785455,
+    "wof:geomhash":"7593afaed47ba9dac3cffa843b1f9bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689933413
+        }
+    ],
+    "wof:id":689933413,
+    "wof:lastmodified":1461785455,
+    "wof:name":"Blue Water Neurology Clinic",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.45694,
+    43.025049,
+    -82.45694,
+    43.025049
+],
+  "geometry": {"coordinates":[-82.45694,43.025049],"type":"Point"}
+}

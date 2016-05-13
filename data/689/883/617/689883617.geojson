@@ -1,0 +1,71 @@
+{
+  "id": 689883617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.450166,42.094875,-86.450166,42.094875",
+    "geom:latitude":42.094875,
+    "geom:longitude":-86.450166,
+    "iso:country":"US",
+    "sg:address":"1228 Pearl St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 934 0546",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LAcUJBWoqSVCbUTMjLfiy_42.094875_-86.450166@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784130,
+    "wof:geomhash":"b2757d12f55c873acf0e3430d207ba57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689883617
+        }
+    ],
+    "wof:id":689883617,
+    "wof:lastmodified":1461784130,
+    "wof:name":"Lamonts Cleaners",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.450166,
+    42.094875,
+    -86.450166,
+    42.094875
+],
+  "geometry": {"coordinates":[-86.450166,42.094875],"type":"Point"}
+}

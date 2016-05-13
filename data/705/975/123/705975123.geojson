@@ -1,0 +1,69 @@
+{
+  "id": 705975123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.379289,42.729072,-83.379289,42.729072",
+    "geom:latitude":42.729072,
+    "geom:longitude":-83.379289,
+    "iso:country":"US",
+    "sg:address":"6473 Sashabaw Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 620 2900",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MQYZW5wnd1XU6P7ycIoHT_42.729072_-83.379289@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793068,
+    "wof:geomhash":"3c177ce64f5b2354f5b179e14cad6b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705975123
+        }
+    ],
+    "wof:id":705975123,
+    "wof:lastmodified":1461793068,
+    "wof:name":"Independence Animal Hospital",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.379289,
+    42.729072,
+    -83.379289,
+    42.729072
+],
+  "geometry": {"coordinates":[-83.379289,42.729072],"type":"Point"}
+}

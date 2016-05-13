@@ -1,0 +1,73 @@
+{
+  "id": 706220555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.390037,46.524439,-87.390037,46.524439",
+    "geom:latitude":46.524439,
+    "geom:longitude":-87.390037,
+    "iso:country":"US",
+    "sg:address":"630 S Lake St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 0669",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzNFzBmZUsa9mB4koy3e1_46.524439_-87.390037@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798514,
+    "wof:geomhash":"c7c68bc4f0f6b98e35e8e90418ce38d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706220555
+        }
+    ],
+    "wof:id":706220555,
+    "wof:lastmodified":1461798514,
+    "wof:name":"CJK Automotive",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.390037,
+    46.524439,
+    -87.390037,
+    46.524439
+],
+  "geometry": {"coordinates":[-87.39003700000001,46.524439],"type":"Point"}
+}

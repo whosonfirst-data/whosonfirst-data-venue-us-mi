@@ -1,0 +1,71 @@
+{
+  "id": 689795985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416511,41.893939,-83.416511,41.893939",
+    "geom:latitude":41.893939,
+    "geom:longitude":-83.416511,
+    "iso:country":"US",
+    "sg:address":"15360 S Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 4120",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6geWuYhKap72u5tzEweh1F_41.893939_-83.416511@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781741,
+    "wof:geomhash":"dd5f93d7a29bf3e5c76e12ca83fa03b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689795985
+        }
+    ],
+    "wof:id":689795985,
+    "wof:lastmodified":1461781741,
+    "wof:name":"Sherlock Storage",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.416511,
+    41.893939,
+    -83.416511,
+    41.893939
+],
+  "geometry": {"coordinates":[-83.416511,41.893939],"type":"Point"}
+}

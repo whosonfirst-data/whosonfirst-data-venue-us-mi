@@ -1,0 +1,73 @@
+{
+  "id": 706034141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.235048,43.243317,-86.235048,43.243317",
+    "geom:latitude":43.243317,
+    "geom:longitude":-86.235048,
+    "iso:country":"US",
+    "sg:address":"504 Octavius St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 726 6955",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26U6DRFz1mneb4DydgeT8S_43.243317_-86.235048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794292,
+    "wof:geomhash":"61df519c1edcfced7f9ea3b6d8777da1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706034141
+        }
+    ],
+    "wof:id":706034141,
+    "wof:lastmodified":1461794292,
+    "wof:name":"Mae Knox",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.235048,
+    43.243317,
+    -86.235048,
+    43.243317
+],
+  "geometry": {"coordinates":[-86.23504800000001,43.243317],"type":"Point"}
+}

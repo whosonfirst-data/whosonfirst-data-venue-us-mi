@@ -1,0 +1,71 @@
+{
+  "id": 689687825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.397735,41.916309,-83.397735,41.916309",
+    "geom:latitude":41.916309,
+    "geom:longitude":-83.397735,
+    "iso:country":"US",
+    "sg:address":"34 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 6950",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pTSjqW0bDPla0FkLjHTQB_41.916309_-83.397735@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778818,
+    "wof:geomhash":"55fc72bbdb623d78b6d96ab1014e2966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689687825
+        }
+    ],
+    "wof:id":689687825,
+    "wof:lastmodified":1461778818,
+    "wof:name":"Brent's Locksmiths",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.397735,
+    41.916309,
+    -83.397735,
+    41.916309
+],
+  "geometry": {"coordinates":[-83.397735,41.916309],"type":"Point"}
+}

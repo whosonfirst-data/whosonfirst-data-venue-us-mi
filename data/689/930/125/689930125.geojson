@@ -1,0 +1,71 @@
+{
+  "id": 689930125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.670983,42.842786,-85.670983,42.842786",
+    "geom:latitude":42.842786,
+    "geom:longitude":-85.670983,
+    "iso:country":"US",
+    "sg:address":"250 Buck Creek Ct SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 233 1719",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ZCvLNQdD6zpZbV8l05T5_42.842786_-85.670983@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785366,
+    "wof:geomhash":"9ec24ff1c4d2b4f9727c9eae7ce7cf3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689930125
+        }
+    ],
+    "wof:id":689930125,
+    "wof:lastmodified":1461785366,
+    "wof:name":"Steffler & Company",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.670983,
+    42.842786,
+    -85.670983,
+    42.842786
+],
+  "geometry": {"coordinates":[-85.67098300000001,42.842786],"type":"Point"}
+}

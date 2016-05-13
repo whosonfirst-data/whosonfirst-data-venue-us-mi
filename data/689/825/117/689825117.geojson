@@ -1,0 +1,71 @@
+{
+  "id": 689825117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.093292,42.790485,-86.093292,42.790485",
+    "geom:latitude":42.790485,
+    "geom:longitude":-86.093292,
+    "iso:country":"US",
+    "sg:address":"307 E 8th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 393 8400",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aab8FjnQjDUxljwwehDSv_42.790485_-86.093292@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782654,
+    "wof:geomhash":"13bcf1a212e08f2cb292b5bb108ca307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":689825117
+        }
+    ],
+    "wof:id":689825117,
+    "wof:lastmodified":1461782654,
+    "wof:name":"Holland Imports",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.093292,
+    42.790485,
+    -86.093292,
+    42.790485
+],
+  "geometry": {"coordinates":[-86.09329200000001,42.790485],"type":"Point"}
+}

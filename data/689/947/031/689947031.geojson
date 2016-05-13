@@ -1,0 +1,88 @@
+{
+  "id": 689947031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.614356,42.954188,-85.614356,42.954188",
+    "geom:latitude":42.954188,
+    "geom:longitude":-85.614356,
+    "iso:country":"US",
+    "sg:address":"515 Lakeside Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 459 3564",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877911,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bzIbluQRsX0gVTFBnK92P_42.954188_-85.614356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785790,
+    "wof:geomhash":"18f47ada9fa9c447df48651b8cc30fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":689947031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":689947031
+        }
+    ],
+    "wof:id":689947031,
+    "wof:lastmodified":1461785790,
+    "wof:name":"Thomas A Malec MD PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.614356,
+    42.954188,
+    -85.614356,
+    42.954188
+],
+  "geometry": {"coordinates":[-85.614356,42.954188],"type":"Point"}
+}

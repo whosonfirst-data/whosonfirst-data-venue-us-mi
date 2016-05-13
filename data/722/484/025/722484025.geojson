@@ -1,0 +1,81 @@
+{
+  "id": 722484025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.120697,42.331001,-83.120697,42.331001",
+    "geom:latitude":42.331001,
+    "geom:longitude":-83.120697,
+    "iso:country":"US",
+    "sg:address":"6307 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 898 4705",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gvjqAO6lYwTr9PLWTpmyv_42.331001_-83.120697@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812452,
+    "wof:geomhash":"415541b7e6327f7e0118624eb4b41e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722484025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":722484025
+        }
+    ],
+    "wof:id":722484025,
+    "wof:lastmodified":1461812452,
+    "wof:name":"Dun-Well Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.120697,
+    42.331001,
+    -83.120697,
+    42.331001
+],
+  "geometry": {"coordinates":[-83.12069700000001,42.331001],"type":"Point"}
+}

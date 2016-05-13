@@ -1,0 +1,66 @@
+{
+  "id": 706141101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.3051,43.185581,-86.3051,43.185581",
+    "geom:latitude":43.185581,
+    "geom:longitude":-86.3051,
+    "iso:country":"US",
+    "sg:address":"2438 Norcrest Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 4123",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rYrnmvn1XS8yh2RGdFKDH_43.185581_-86.305100@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796783,
+    "wof:geomhash":"655c17d1d3e2e80560de3ce85632b62d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706141101
+        }
+    ],
+    "wof:id":706141101,
+    "wof:lastmodified":1461796783,
+    "wof:name":"Elliots Ephemera",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3051,
+    43.185581,
+    -86.3051,
+    43.185581
+],
+  "geometry": {"coordinates":[-86.3051,43.185581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706320583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.473295,42.430406,-83.473295,42.430406",
+    "geom:latitude":42.430406,
+    "geom:longitude":-83.473295,
+    "iso:country":"US",
+    "sg:address":"700 Doheny Dr",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 349 1090",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "collision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lWEtgz7fKyx7zvZKgwZdj_42.430406_-83.473295@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800739,
+    "wof:geomhash":"b554d6d6e9966f46198b046a172020cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":706320583
+        }
+    ],
+    "wof:id":706320583,
+    "wof:lastmodified":1461800739,
+    "wof:name":"Northville Collision Inc",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "collision"
+    ]
+},
+  "bbox": [
+    -83.473295,
+    42.430406,
+    -83.473295,
+    42.430406
+],
+  "geometry": {"coordinates":[-83.47329499999999,42.430406],"type":"Point"}
+}

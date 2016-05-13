@@ -1,0 +1,73 @@
+{
+  "id": 706301545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.746755,43.015079,-83.746755,43.015079",
+    "geom:latitude":43.015079,
+    "geom:longitude":-83.746755,
+    "iso:country":"US",
+    "sg:address":"1024 Professional Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 9260",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1svk1PR12Jmt7xIvKRA0Yw_43.015079_-83.746755@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800333,
+    "wof:geomhash":"a5cf35d48dc36aee270c0ffdb58e11da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706301545
+        }
+    ],
+    "wof:id":706301545,
+    "wof:lastmodified":1461800333,
+    "wof:name":"Jamal Hussain MD",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.746755,
+    43.015079,
+    -83.746755,
+    43.015079
+],
+  "geometry": {"coordinates":[-83.74675499999999,43.015079],"type":"Point"}
+}

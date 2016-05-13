@@ -1,0 +1,71 @@
+{
+  "id": 689933625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.374571,41.922108,-83.374571,41.922108",
+    "geom:latitude":41.922108,
+    "geom:longitude":-83.374571,
+    "iso:country":"US",
+    "sg:address":"425 N Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 2188",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N9pzjWAlmGUwIdczbgeNp_41.922108_-83.374571@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785459,
+    "wof:geomhash":"c7b82a24210c8bd09416d756c6fae32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689933625
+        }
+    ],
+    "wof:id":689933625,
+    "wof:lastmodified":1461785459,
+    "wof:name":"Paul's Automotive Svc",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.374571,
+    41.922108,
+    -83.374571,
+    41.922108
+],
+  "geometry": {"coordinates":[-83.374571,41.922108],"type":"Point"}
+}

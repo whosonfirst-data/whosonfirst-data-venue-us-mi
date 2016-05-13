@@ -1,0 +1,76 @@
+{
+  "id": 706214743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.502168,43.146775,-82.502168,43.146775",
+    "geom:latitude":43.146775,
+    "geom:longitude":-82.502168,
+    "iso:country":"US",
+    "sg:address":"8243 Kimball Dr",
+    "sg:city":"Burtchville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 327 6679",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nRHRy26xg79bU77pz2xHx_43.146775_-82.502168@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798387,
+    "wof:geomhash":"baf59fac403fcd5fca34385cb486dddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706214743
+        }
+    ],
+    "wof:id":706214743,
+    "wof:lastmodified":1461798387,
+    "wof:name":"C & M Properties",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -82.502168,
+    43.146775,
+    -82.502168,
+    43.146775
+],
+  "geometry": {"coordinates":[-82.502168,43.146775],"type":"Point"}
+}

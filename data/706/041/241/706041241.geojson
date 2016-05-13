@@ -1,0 +1,73 @@
+{
+  "id": 706041241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.56058,41.736096,-83.56058,41.736096",
+    "geom:latitude":41.736096,
+    "geom:longitude":-83.56058,
+    "iso:country":"US",
+    "sg:address":"565 Smith Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 9625",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1izjiaArt3zHZd0w55Ggx5_41.736096_-83.560580@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794428,
+    "wof:geomhash":"8bf29c3ceccd7ce16ce08e540b5a1f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":706041241
+        }
+    ],
+    "wof:id":706041241,
+    "wof:lastmodified":1461794428,
+    "wof:name":"ABC Roll-Off Svc",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -83.56058,
+    41.736096,
+    -83.56058,
+    41.736096
+],
+  "geometry": {"coordinates":[-83.56058,41.736096],"type":"Point"}
+}

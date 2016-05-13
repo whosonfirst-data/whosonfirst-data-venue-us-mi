@@ -1,0 +1,71 @@
+{
+  "id": 689657795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.179356,42.794589,-83.179356,42.794589",
+    "geom:latitude":42.794589,
+    "geom:longitude":-83.179356,
+    "iso:country":"US",
+    "sg:address":"497 Lake George Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 1137",
+    "sg:postcode":"48363",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12AYOapSX7nD5BFQ7wTbFG_42.794589_-83.179356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778069,
+    "wof:geomhash":"0445c548d29caf54454e89c55de3de12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":689657795
+        }
+    ],
+    "wof:id":689657795,
+    "wof:lastmodified":1461778069,
+    "wof:name":"Shorter Electric Inc",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.179356,
+    42.794589,
+    -83.179356,
+    42.794589
+],
+  "geometry": {"coordinates":[-83.179356,42.794589],"type":"Point"}
+}

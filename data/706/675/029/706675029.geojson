@@ -1,0 +1,83 @@
+{
+  "id": 706675029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.146028,42.485521,-83.146028,42.485521",
+    "geom:latitude":42.485521,
+    "geom:longitude":-83.146028,
+    "iso:country":"US",
+    "sg:address":"218 W 6th St",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 541 9808",
+    "sg:postcode":"48067",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "ope",
+        "hotel",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896807,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wpm5HCOC49uUWAmEcKbov_42.485608_-83.146368@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809080,
+    "wof:geomhash":"c92cfb64c51ad5026806c1f50ae5df03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896807,
+            "region_id":85688599,
+            "venue_id":706675029
+        }
+    ],
+    "wof:id":706675029,
+    "wof:lastmodified":1461809080,
+    "wof:name":"Madrid Hotel",
+    "wof:parent_id":85896807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "hotel",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.146028,
+    42.485521,
+    -83.146028,
+    42.485521
+],
+  "geometry": {"coordinates":[-83.146028,42.485521],"type":"Point"}
+}

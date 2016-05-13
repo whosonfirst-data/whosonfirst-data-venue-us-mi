@@ -1,0 +1,71 @@
+{
+  "id": 706457459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.721493,43.006892,-83.721493,43.006892",
+    "geom:latitude":43.006892,
+    "geom:longitude":-83.721493,
+    "iso:country":"US",
+    "sg:address":"2500 W Court St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 3222",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6frnI7byfq28ReCev6GrX4_43.006892_-83.721493@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803596,
+    "wof:geomhash":"9e5a2f08b4eb0891a4aeb0219c7bece5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706457459
+        }
+    ],
+    "wof:id":706457459,
+    "wof:lastmodified":1461803596,
+    "wof:name":"Glenwood Cemetery",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -83.721493,
+    43.006892,
+    -83.721493,
+    43.006892
+],
+  "geometry": {"coordinates":[-83.721493,43.006892],"type":"Point"}
+}

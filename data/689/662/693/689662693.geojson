@@ -1,0 +1,69 @@
+{
+  "id": 689662693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20416,42.655199,-86.20416,42.655199",
+    "geom:latitude":42.655199,
+    "geom:longitude":-86.20416,
+    "iso:country":"US",
+    "sg:address":"152 Butler St",
+    "sg:city":"Saugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 857 1195",
+    "sg:postcode":"49453",
+    "sg:province":"MI",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9h81tsrnPkEdBpV5ksRm_42.655199_-86.204160@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778194,
+    "wof:geomhash":"bbd0061570badf6610dcd664baeb79ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":689662693
+        }
+    ],
+    "wof:id":689662693,
+    "wof:lastmodified":1461778194,
+    "wof:name":"Kilwin's Chocolates",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -86.20416,
+    42.655199,
+    -86.20416,
+    42.655199
+],
+  "geometry": {"coordinates":[-86.20416,42.655199],"type":"Point"}
+}

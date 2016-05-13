@@ -1,0 +1,71 @@
+{
+  "id": 689510825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86574,42.987121,-85.86574,42.987121",
+    "geom:latitude":42.987121,
+    "geom:longitude":-85.86574,
+    "iso:country":"US",
+    "sg:address":"2860 Buchanan St",
+    "sg:city":"Marne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 677 3684",
+    "sg:postcode":"49435",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822455,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hESweZ4fdD5eOqGwxno01_42.987121_-85.865740@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773439,
+    "wof:geomhash":"3d573503f2326d1f190bfabdd4a7b035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85822455,
+            "region_id":85688599,
+            "venue_id":689510825
+        }
+    ],
+    "wof:id":689510825,
+    "wof:lastmodified":1461773439,
+    "wof:name":"Kent Painting",
+    "wof:parent_id":85822455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.86574,
+    42.987121,
+    -85.86574,
+    42.987121
+],
+  "geometry": {"coordinates":[-85.86574,42.987121],"type":"Point"}
+}

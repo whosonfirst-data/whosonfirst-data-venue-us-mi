@@ -1,0 +1,71 @@
+{
+  "id": 706424757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.380549,42.125224,-86.380549,42.125224",
+    "geom:latitude":42.125224,
+    "geom:longitude":-86.380549,
+    "iso:country":"US",
+    "sg:address":"3247 Territorial Rd",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 944 9944",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852857,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BCsEAqhjnKH54udK7MTxS_42.125224_-86.380549@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802882,
+    "wof:geomhash":"cf0525278dc2794239a0106da49d63d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85852857,
+            "region_id":85688599,
+            "venue_id":706424757
+        }
+    ],
+    "wof:id":706424757,
+    "wof:lastmodified":1461802882,
+    "wof:name":"Best Trucks",
+    "wof:parent_id":85852857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.380549,
+    42.125224,
+    -86.380549,
+    42.125224
+],
+  "geometry": {"coordinates":[-86.380549,42.125224],"type":"Point"}
+}

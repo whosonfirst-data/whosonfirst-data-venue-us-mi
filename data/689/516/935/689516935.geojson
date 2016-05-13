@@ -1,0 +1,69 @@
+{
+  "id": 689516935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.492637,42.096624,-86.492637,42.096624",
+    "geom:latitude":42.096624,
+    "geom:longitude":-86.492637,
+    "iso:country":"US",
+    "sg:address":"1801 Lakeshore Dr",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 5208",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_257laMPj3HbFvuKfsHhb7n_42.096624_-86.492637@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773602,
+    "wof:geomhash":"0f606904bfa3940c6c4d1f51cf2fc073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689516935
+        }
+    ],
+    "wof:id":689516935,
+    "wof:lastmodified":1461773602,
+    "wof:name":"Hair Station",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.492637,
+    42.096624,
+    -86.492637,
+    42.096624
+],
+  "geometry": {"coordinates":[-86.492637,42.096624],"type":"Point"}
+}

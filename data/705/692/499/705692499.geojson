@@ -1,0 +1,81 @@
+{
+  "id": 705692499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.780791,42.29509,-83.780791,42.29509",
+    "geom:latitude":42.29509,
+    "geom:longitude":-83.780791,
+    "iso:country":"US",
+    "sg:address":"1502 N Maple Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 995 5262",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875949,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cuSZyeG0AGVmJGwprWOqC_42.295090_-83.780791@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786225,
+    "wof:geomhash":"00e008e2ecbe6911c17caeba80f1d610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875949,
+            "region_id":85688599,
+            "venue_id":705692499
+        }
+    ],
+    "wof:id":705692499,
+    "wof:lastmodified":1461786225,
+    "wof:name":"Clark Service Station",
+    "wof:parent_id":85875949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.780791,
+    42.29509,
+    -83.780791,
+    42.29509
+],
+  "geometry": {"coordinates":[-83.78079099999999,42.29509],"type":"Point"}
+}

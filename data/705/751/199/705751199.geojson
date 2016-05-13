@@ -1,0 +1,71 @@
+{
+  "id": 705751199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693674,43.035388,-83.693674,43.035388",
+    "geom:latitude":43.035388,
+    "geom:longitude":-83.693674,
+    "iso:country":"US",
+    "sg:address":"2000 N Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 2987",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zMq2LTjCVwQUjdHT76TW2_43.035388_-83.693674@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787872,
+    "wof:geomhash":"10a8e20d0e026dc2bf0c66bd8ff3b42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705751199
+        }
+    ],
+    "wof:id":705751199,
+    "wof:lastmodified":1461787872,
+    "wof:name":"Vision Manufacturing Inc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -83.693674,
+    43.035388,
+    -83.693674,
+    43.035388
+],
+  "geometry": {"coordinates":[-83.693674,43.035388],"type":"Point"}
+}

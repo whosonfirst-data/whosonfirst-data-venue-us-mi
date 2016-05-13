@@ -1,0 +1,69 @@
+{
+  "id": 706535533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.544384,42.645402,-85.544384,42.645402",
+    "geom:latitude":42.645402,
+    "geom:longitude":-85.544384,
+    "iso:country":"US",
+    "sg:address":"2220 Patterson Rd",
+    "sg:city":"Middleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 795 9817",
+    "sg:postcode":"49333",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aT70NVouBS8um8ql76zup_42.645402_-85.544384@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805372,
+    "wof:geomhash":"18984607494d3c51dd03323186b616b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706535533
+        }
+    ],
+    "wof:id":706535533,
+    "wof:lastmodified":1461805372,
+    "wof:name":"Thornapple Veterinary Med Ctr",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.544384,
+    42.645402,
+    -85.544384,
+    42.645402
+],
+  "geometry": {"coordinates":[-85.54438399999999,42.645402],"type":"Point"}
+}

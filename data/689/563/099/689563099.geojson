@@ -1,0 +1,71 @@
+{
+  "id": 689563099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6446,42.855803,-85.6446,42.855803",
+    "geom:latitude":42.855803,
+    "geom:longitude":-85.6446,
+    "iso:country":"US",
+    "sg:address":"5960 Eastern Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 7595",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KlT5L1fbyyMIGOH9MvNVw_42.855803_-85.644600@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775106,
+    "wof:geomhash":"17983b257a890f280bfd727e903f3065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689563099
+        }
+    ],
+    "wof:id":689563099,
+    "wof:lastmodified":1461775106,
+    "wof:name":"American Home",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -85.6446,
+    42.855803,
+    -85.6446,
+    42.855803
+],
+  "geometry": {"coordinates":[-85.6446,42.855803],"type":"Point"}
+}

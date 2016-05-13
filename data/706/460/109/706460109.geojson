@@ -1,0 +1,71 @@
+{
+  "id": 706460109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.395157,42.250183,-84.395157,42.250183",
+    "geom:latitude":42.250183,
+    "geom:longitude":-84.395157,
+    "iso:country":"US",
+    "sg:address":"110 N Waterloo Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 4854",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EE6qkZsT3hloCVcPD7cf4_42.250183_-84.395157@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803644,
+    "wof:geomhash":"1c4f57f207a43cd3d3487030702b7abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706460109
+        }
+    ],
+    "wof:id":706460109,
+    "wof:lastmodified":1461803644,
+    "wof:name":"Ortpatient Therapy Clinic",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.395157,
+    42.250183,
+    -84.395157,
+    42.250183
+],
+  "geometry": {"coordinates":[-84.395157,42.250183],"type":"Point"}
+}

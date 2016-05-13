@@ -1,0 +1,86 @@
+{
+  "id": 722487677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.257524,42.417342,-83.257524,42.417342",
+    "geom:latitude":42.417342,
+    "geom:longitude":-83.257524,
+    "iso:country":"US",
+    "sg:address":"17352 Lahser Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 255 8102",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KARUkTfYYYbO7cRcsm1wK_42.417342_-83.257524@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812584,
+    "wof:geomhash":"af13204aa02118fcec50e92bf0a04a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":722487677
+        }
+    ],
+    "wof:id":722487677,
+    "wof:lastmodified":1461812584,
+    "wof:name":"Neo-Sole",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -83.257524,
+    42.417342,
+    -83.257524,
+    42.417342
+],
+  "geometry": {"coordinates":[-83.257524,42.417342],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706680359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306595,42.702742,-83.306595,42.702742",
+    "geom:latitude":42.702742,
+    "geom:longitude":-83.306595,
+    "iso:country":"US",
+    "sg:address":"4342 Baldwin Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/auburn-hills/232946-gloria-jeans-coffees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 9440",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821589,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LKudpLEbTgNRbDQmYyI13_42.702742_-83.306595@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809293,
+    "wof:geomhash":"8a74869ac1ff0d29931a273b11e01b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85821589,
+            "region_id":85688599,
+            "venue_id":706680359
+        }
+    ],
+    "wof:id":706680359,
+    "wof:lastmodified":1461809293,
+    "wof:name":"Gloria Jean's Coffees",
+    "wof:parent_id":85821589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.306595,
+    42.702742,
+    -83.306595,
+    42.702742
+],
+  "geometry": {"coordinates":[-83.306595,42.702742],"type":"Point"}
+}

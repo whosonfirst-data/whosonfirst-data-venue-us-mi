@@ -1,0 +1,76 @@
+{
+  "id": 706678529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.680137,42.2339,-83.680137,42.2339",
+    "geom:latitude":42.2339,
+    "geom:longitude":-83.680137,
+    "iso:country":"US",
+    "sg:address":"3819 Carpenter Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pittsfield/88694-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 973 7440",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875889,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pMAS7FK5BtTX1JbE3NcIx_42.233900_-83.680137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809228,
+    "wof:geomhash":"92a56b103e41509eaf08a35f26bda501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875889,
+            "region_id":85688599,
+            "venue_id":706678529
+        }
+    ],
+    "wof:id":706678529,
+    "wof:lastmodified":1461809228,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85875889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.680137,
+    42.2339,
+    -83.680137,
+    42.2339
+],
+  "geometry": {"coordinates":[-83.680137,42.2339],"type":"Point"}
+}

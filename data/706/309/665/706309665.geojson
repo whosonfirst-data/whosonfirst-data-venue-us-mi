@@ -1,0 +1,73 @@
+{
+  "id": 706309665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.562058,42.922389,-85.562058,42.922389",
+    "geom:latitude":42.922389,
+    "geom:longitude":-85.562058,
+    "iso:country":"US",
+    "sg:address":"2353 Oak Forest Ln SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 2171",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPEL3FIZ3tx2qo4SNte2K_42.922389_-85.562058@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800513,
+    "wof:geomhash":"c64613662b9e1d02cea019c34c3533e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706309665
+        }
+    ],
+    "wof:id":706309665,
+    "wof:lastmodified":1461800513,
+    "wof:name":"Glen Oaks East Apartments",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.562058,
+    42.922389,
+    -85.562058,
+    42.922389
+],
+  "geometry": {"coordinates":[-85.56205799999999,42.922389],"type":"Point"}
+}

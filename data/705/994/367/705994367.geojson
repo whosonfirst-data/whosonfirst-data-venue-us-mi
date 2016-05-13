@@ -1,0 +1,71 @@
+{
+  "id": 705994367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66365,42.825664,-85.66365,42.825664",
+    "geom:latitude":42.825664,
+    "geom:longitude":-85.66365,
+    "iso:country":"US",
+    "sg:address":"7625 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 9696",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_756yuPLAFGDk2Zq5kJQQub_42.825664_-85.663650@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793451,
+    "wof:geomhash":"40dea934de3c7865834141e20d905e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705994367
+        }
+    ],
+    "wof:id":705994367,
+    "wof:lastmodified":1461793451,
+    "wof:name":"Carlisle Welding",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -85.66365,
+    42.825664,
+    -85.66365,
+    42.825664
+],
+  "geometry": {"coordinates":[-85.66365,42.825664],"type":"Point"}
+}

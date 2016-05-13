@@ -1,0 +1,73 @@
+{
+  "id": 706098647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.943254,43.469657,-85.943254,43.469657",
+    "geom:latitude":43.469657,
+    "geom:longitude":-85.943254,
+    "iso:country":"US",
+    "sg:address":"221 N Merchant Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3783",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pVnbOs5JhRU5dpgJlavmr_43.469657_-85.943254@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795754,
+    "wof:geomhash":"5ddeb37a6d95a8d11176607ac935e887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706098647
+        }
+    ],
+    "wof:id":706098647,
+    "wof:lastmodified":1461795754,
+    "wof:name":"Paulsen Heating & Cooling",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.943254,
+    43.469657,
+    -85.943254,
+    43.469657
+],
+  "geometry": {"coordinates":[-85.943254,43.469657],"type":"Point"}
+}

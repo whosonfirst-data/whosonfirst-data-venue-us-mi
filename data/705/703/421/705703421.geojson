@@ -1,0 +1,75 @@
+{
+  "id": 705703421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.088927,42.3777,-83.088927,42.3777",
+    "geom:latitude":42.3777,
+    "geom:longitude":-83.088927,
+    "iso:country":"US",
+    "sg:address":"8921 John C Lodge Fwy",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 876 4177",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870529,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wLJeAaqSoPEoAxphWhmgd_42.377700_-83.088927@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786663,
+    "wof:geomhash":"336e6a27046480e61571f0515563f021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870529,
+            "region_id":85688599,
+            "venue_id":705703421
+        }
+    ],
+    "wof:id":705703421,
+    "wof:lastmodified":1461786663,
+    "wof:name":"Health Dept",
+    "wof:parent_id":85870529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -83.088927,
+    42.3777,
+    -83.088927,
+    42.3777
+],
+  "geometry": {"coordinates":[-83.088927,42.3777],"type":"Point"}
+}

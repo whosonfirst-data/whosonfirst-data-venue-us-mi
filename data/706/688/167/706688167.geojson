@@ -1,0 +1,72 @@
+{
+  "id": 706688167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.385944,42.69019,-83.385944,42.69019",
+    "geom:latitude":42.69019,
+    "geom:longitude":-83.385944,
+    "iso:country":"US",
+    "sg:address":"4825 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/210728-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 2129",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wbKMQas2RyoIOuDGTbpN6_42.689823_-83.385685@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809604,
+    "wof:geomhash":"fa249799a6001922aacdad1318779955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706688167
+        }
+    ],
+    "wof:id":706688167,
+    "wof:lastmodified":1461809604,
+    "wof:name":"Arby's",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.385944,
+    42.69019,
+    -83.385944,
+    42.69019
+],
+  "geometry": {"coordinates":[-83.38594399999999,42.69019],"type":"Point"}
+}

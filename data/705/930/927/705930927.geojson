@@ -1,0 +1,73 @@
+{
+  "id": 705930927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.583944,41.778882,-83.583944,41.778882",
+    "geom:latitude":41.778882,
+    "geom:longitude":-83.583944,
+    "iso:country":"US",
+    "sg:address":"1575 W Temperance Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 7241",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egkek6w6lqsHXQu67tsIP_41.778882_-83.583944@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792079,
+    "wof:geomhash":"ae3308efd6f58f9cc41e14c68c90d5de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":705930927
+        }
+    ],
+    "wof:id":705930927,
+    "wof:lastmodified":1461792079,
+    "wof:name":"Monroe County WIC",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -83.583944,
+    41.778882,
+    -83.583944,
+    41.778882
+],
+  "geometry": {"coordinates":[-83.583944,41.778882],"type":"Point"}
+}

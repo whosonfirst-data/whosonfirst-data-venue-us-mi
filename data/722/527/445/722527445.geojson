@@ -1,0 +1,90 @@
+{
+  "id": 722527445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560252,42.305347,-85.560252,42.305347",
+    "geom:latitude":42.305347,
+    "geom:longitude":-85.560252,
+    "iso:country":"US",
+    "sg:address":"1541 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 7380",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "neurology",
+        "surgeons",
+        "surgeon"
+    ],
+    "sg:website":"http://www.southwestmichiganderm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2scYsWzqpgOVDdUpFMwcJs_42.305347_-85.560252@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814304,
+    "wof:geomhash":"a7bdb16fcece0b895d2aab23a10f91d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":722527445
+        }
+    ],
+    "wof:id":722527445,
+    "wof:lastmodified":1461814304,
+    "wof:name":"Kalamazoo Neurology",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "neurology",
+        "surgeons",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.560252,
+    42.305347,
+    -85.560252,
+    42.305347
+],
+  "geometry": {"coordinates":[-85.56025200000001,42.305347],"type":"Point"}
+}

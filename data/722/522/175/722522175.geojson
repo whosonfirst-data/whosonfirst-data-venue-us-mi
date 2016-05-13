@@ -1,0 +1,84 @@
+{
+  "id": 722522175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.677803,42.996899,-83.677803,42.996899",
+    "geom:latitude":42.996899,
+    "geom:longitude":-83.677803,
+    "iso:country":"US",
+    "sg:address":"2820 S Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 600 5000",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SLXQmoSOm1VsU4WRxN4q3_42.996899_-83.677803@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814026,
+    "wof:geomhash":"78f710e0a27a0d6e0e348c09d6c0c65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":722522175
+        }
+    ],
+    "wof:id":722522175,
+    "wof:lastmodified":1461814026,
+    "wof:name":"International Academy of Flint",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.677803,
+    42.996899,
+    -83.677803,
+    42.996899
+],
+  "geometry": {"coordinates":[-83.677803,42.996899],"type":"Point"}
+}

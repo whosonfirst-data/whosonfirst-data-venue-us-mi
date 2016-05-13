@@ -1,0 +1,71 @@
+{
+  "id": 689693447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.266457,43.20117,-86.266457,43.20117",
+    "geom:latitude":43.20117,
+    "geom:longitude":-86.266457,
+    "iso:country":"US",
+    "sg:address":"991 W Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 4545",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kHQsBQuEmaCflOT9cZV8q_43.201170_-86.266457@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778950,
+    "wof:geomhash":"47374b7716139d05f831341347883009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689693447
+        }
+    ],
+    "wof:id":689693447,
+    "wof:lastmodified":1461778950,
+    "wof:name":"Goodgrains Bake House",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.266457,
+    43.20117,
+    -86.266457,
+    43.20117
+],
+  "geometry": {"coordinates":[-86.266457,43.20117],"type":"Point"}
+}

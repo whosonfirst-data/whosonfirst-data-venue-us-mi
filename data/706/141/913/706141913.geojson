@@ -1,0 +1,71 @@
+{
+  "id": 706141913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284208,42.682637,-84.284208,42.682637",
+    "geom:latitude":42.682637,
+    "geom:longitude":-84.284208,
+    "iso:country":"US",
+    "sg:address":"836 Georgia St",
+    "sg:city":"Williamston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 655 1341",
+    "sg:postcode":"48895",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E6w76Y9gCGF4wtGXAnOU4_42.682637_-84.284208@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796803,
+    "wof:geomhash":"6e239a66af31e845f3d93f9bf4067ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706141913
+        }
+    ],
+    "wof:id":706141913,
+    "wof:lastmodified":1461796803,
+    "wof:name":"Capitol City Cleaning",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.284208,
+    42.682637,
+    -84.284208,
+    42.682637
+],
+  "geometry": {"coordinates":[-84.28420800000001,42.682637],"type":"Point"}
+}

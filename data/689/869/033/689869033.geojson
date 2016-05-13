@@ -1,0 +1,71 @@
+{
+  "id": 689869033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251089,43.189895,-86.251089,43.189895",
+    "geom:latitude":43.189895,
+    "geom:longitude":-86.251089,
+    "iso:country":"US",
+    "sg:address":"290 Eric Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 8449",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zr00yUs3ucB9vGQiCkhbr_43.189895_-86.251089@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783768,
+    "wof:geomhash":"00bb9067fa19298543ba0462d08fc418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689869033
+        }
+    ],
+    "wof:id":689869033,
+    "wof:lastmodified":1461783768,
+    "wof:name":"Ruiter Heating & Cooling",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.251089,
+    43.189895,
+    -86.251089,
+    43.189895
+],
+  "geometry": {"coordinates":[-86.25108899999999,43.189895],"type":"Point"}
+}

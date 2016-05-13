@@ -1,0 +1,71 @@
+{
+  "id": 705873489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.034509,42.690836,-83.034509,42.690836",
+    "geom:latitude":42.690836,
+    "geom:longitude":-83.034509,
+    "iso:country":"US",
+    "sg:address":"53960 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 781 6538",
+    "sg:postcode":"48316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Mf1wQM7LhljhxRMiJV95_42.690836_-83.034509@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790778,
+    "wof:geomhash":"b0d08492de60c12cfba49edc85436de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":705873489
+        }
+    ],
+    "wof:id":705873489,
+    "wof:lastmodified":1461790778,
+    "wof:name":"Shelby Family Care Ctr",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.034509,
+    42.690836,
+    -83.034509,
+    42.690836
+],
+  "geometry": {"coordinates":[-83.034509,42.690836],"type":"Point"}
+}

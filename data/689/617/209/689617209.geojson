@@ -1,0 +1,73 @@
+{
+  "id": 689617209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.371658,41.962066,-86.371658,41.962066",
+    "geom:latitude":41.962066,
+    "geom:longitude":-86.371658,
+    "iso:country":"US",
+    "sg:address":"8754 US Hwy 31",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 3088",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bHpEOpiUUF0oaVu25rIIb_41.962066_-86.371658@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776818,
+    "wof:geomhash":"799000a13da64f660909230653c61ea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689617209
+        }
+    ],
+    "wof:id":689617209,
+    "wof:lastmodified":1461776818,
+    "wof:name":"Russell's Foreign Car Repair",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.371658,
+    41.962066,
+    -86.371658,
+    41.962066
+],
+  "geometry": {"coordinates":[-86.371658,41.962066],"type":"Point"}
+}

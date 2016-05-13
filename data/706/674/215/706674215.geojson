@@ -1,0 +1,73 @@
+{
+  "id": 706674215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.893929,42.595085,-82.893929,42.595085",
+    "geom:latitude":42.595085,
+    "geom:longitude":-82.893929,
+    "iso:country":"US",
+    "sg:address":"239 Church St",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 3532",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fZoOwTfUxhNf8XuaNoRl4_42.595149_-82.894533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809048,
+    "wof:geomhash":"28350e64bd381acb560058eabf20b6f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706674215
+        }
+    ],
+    "wof:id":706674215,
+    "wof:lastmodified":1461809048,
+    "wof:name":"Church St Automotive",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.893929,
+    42.595085,
+    -82.893929,
+    42.595085
+],
+  "geometry": {"coordinates":[-82.893929,42.595085],"type":"Point"}
+}

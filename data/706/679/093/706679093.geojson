@@ -1,0 +1,87 @@
+{
+  "id": 706679093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.04173,42.330063,-83.04173,42.330063",
+    "geom:latitude":42.330063,
+    "geom:longitude":-83.04173,
+    "iso:country":"US",
+    "sg:address":"333 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/125594-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 964 8131",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQUacnyxAS221TdlR2ntH_42.330063_-83.041730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809248,
+    "wof:geomhash":"0f569c70d2bb3e3c3b8a6d490eeb1d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":706679093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":706679093
+        }
+    ],
+    "wof:id":706679093,
+    "wof:lastmodified":1461809248,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.04173,
+    42.330063,
+    -83.04173,
+    42.330063
+],
+  "geometry": {"coordinates":[-83.04173,42.330063],"type":"Point"}
+}

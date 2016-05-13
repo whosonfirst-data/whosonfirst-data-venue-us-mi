@@ -1,0 +1,73 @@
+{
+  "id": 705801615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403501,44.274237,-85.403501,44.274237",
+    "geom:latitude":44.274237,
+    "geom:longitude":-85.403501,
+    "iso:country":"US",
+    "sg:address":"515 Bell Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7319",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FBk0kHlvYCmkMmg3AAdkO_44.274237_-85.403501@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789051,
+    "wof:geomhash":"fa0f27fee8f3a3cd7d2bbfe16e56a19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705801615
+        }
+    ],
+    "wof:id":705801615,
+    "wof:lastmodified":1461789051,
+    "wof:name":"Charter Township of Haring Fir",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -85.403501,
+    44.274237,
+    -85.403501,
+    44.274237
+],
+  "geometry": {"coordinates":[-85.40350100000001,44.274237],"type":"Point"}
+}

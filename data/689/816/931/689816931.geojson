@@ -1,0 +1,71 @@
+{
+  "id": 689816931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800392,43.419276,-85.800392,43.419276",
+    "geom:latitude":43.419276,
+    "geom:longitude":-85.800392,
+    "iso:country":"US",
+    "sg:address":"51 State Rd",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 5600",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7aT4IQNsnLu0UuA4WpFw_43.419276_-85.800392@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782382,
+    "wof:geomhash":"8d92cc9c16c30ee7655b522c6f3033f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689816931
+        }
+    ],
+    "wof:id":689816931,
+    "wof:lastmodified":1461782382,
+    "wof:name":"Babbling Books",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.800392,
+    43.419276,
+    -85.800392,
+    43.419276
+],
+  "geometry": {"coordinates":[-85.800392,43.419276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689571227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.877574,42.5978,-82.877574,42.5978",
+    "geom:latitude":42.5978,
+    "geom:longitude":-82.877574,
+    "iso:country":"US",
+    "sg:address":"43 N Main St",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 1011",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39qwAn36u9lNlZoRJ5NZVs_42.597800_-82.877574@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775324,
+    "wof:geomhash":"6c95235234c2112834a098cd9666242e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":689571227
+        }
+    ],
+    "wof:id":689571227,
+    "wof:lastmodified":1461775324,
+    "wof:name":"O'Shea's Book Store",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.877574,
+    42.5978,
+    -82.877574,
+    42.5978
+],
+  "geometry": {"coordinates":[-82.877574,42.5978],"type":"Point"}
+}

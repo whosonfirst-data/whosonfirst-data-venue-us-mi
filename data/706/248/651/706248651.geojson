@@ -1,0 +1,71 @@
+{
+  "id": 706248651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.757873,43.026149,-83.757873,43.026149",
+    "geom:latitude":43.026149,
+    "geom:longitude":-83.757873,
+    "iso:country":"US",
+    "sg:address":"4200 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 342 4964",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bcSktaMmX6gfOX8MFjVzV_43.026149_-83.757873@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799164,
+    "wof:geomhash":"7f135b47e8ab2341112921be05adadbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706248651
+        }
+    ],
+    "wof:id":706248651,
+    "wof:lastmodified":1461799164,
+    "wof:name":"McLaren Kidney Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.757873,
+    43.026149,
+    -83.757873,
+    43.026149
+],
+  "geometry": {"coordinates":[-83.757873,43.026149],"type":"Point"}
+}

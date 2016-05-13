@@ -1,0 +1,71 @@
+{
+  "id": 706545017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.421456,41.91056,-83.421456,41.91056",
+    "geom:latitude":41.91056,
+    "geom:longitude":-83.421456,
+    "iso:country":"US",
+    "sg:address":"1000 S Telegraph Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 6040",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UjLuU2OLYF583O9GLJolb_41.910560_-83.421456@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805559,
+    "wof:geomhash":"8ae81903edd10099169f7b7aba02712c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706545017
+        }
+    ],
+    "wof:id":706545017,
+    "wof:lastmodified":1461805559,
+    "wof:name":"Harris Peg Dance Studio",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -83.421456,
+    41.91056,
+    -83.421456,
+    41.91056
+],
+  "geometry": {"coordinates":[-83.42145600000001,41.91056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689756809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.457031,43.045241,-82.457031,43.045241",
+    "geom:latitude":43.045241,
+    "geom:longitude":-82.457031,
+    "iso:country":"US",
+    "sg:address":"4610 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 8338",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QXNx3OWo9JmWspjDWHein_43.045241_-82.457031@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780634,
+    "wof:geomhash":"678526c0a84c3bd718201bafb6781710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689756809
+        }
+    ],
+    "wof:id":689756809,
+    "wof:lastmodified":1461780634,
+    "wof:name":"Doctor Detail",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -82.457031,
+    43.045241,
+    -82.457031,
+    43.045241
+],
+  "geometry": {"coordinates":[-82.457031,43.045241],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706288431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.992931,43.416591,-83.992931,43.416591",
+    "geom:latitude":43.416591,
+    "geom:longitude":-83.992931,
+    "iso:country":"US",
+    "sg:address":"220 Alice St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 791 7191",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ik15BGR5KLg462inTcLr5_43.416591_-83.992931@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800050,
+    "wof:geomhash":"39220938025a04b24f6b146dc76ae4e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706288431
+        }
+    ],
+    "wof:id":706288431,
+    "wof:lastmodified":1461800050,
+    "wof:name":"Discount Detail",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -83.992931,
+    43.416591,
+    -83.992931,
+    43.416591
+],
+  "geometry": {"coordinates":[-83.992931,43.416591],"type":"Point"}
+}

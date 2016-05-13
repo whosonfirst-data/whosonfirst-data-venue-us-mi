@@ -1,0 +1,74 @@
+{
+  "id": 706686447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.569433,42.912541,-85.569433,42.912541",
+    "geom:latitude":42.912541,
+    "geom:longitude":-85.569433,
+    "iso:country":"US",
+    "sg:address":"3971 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/58319-mikado-sushi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 285 7666",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sushi",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gSa3dcTRIiLZnlHNd91Gx_42.912541_-85.569433@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809536,
+    "wof:geomhash":"13e6ecef2f958901b3971145f1a5d901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686447
+        }
+    ],
+    "wof:id":706686447,
+    "wof:lastmodified":1461809536,
+    "wof:name":"Mikado Sushi",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "asian"
+    ]
+},
+  "bbox": [
+    -85.569433,
+    42.912541,
+    -85.569433,
+    42.912541
+],
+  "geometry": {"coordinates":[-85.569433,42.912541],"type":"Point"}
+}

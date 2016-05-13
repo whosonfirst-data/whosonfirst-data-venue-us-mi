@@ -1,0 +1,92 @@
+{
+  "id": 706725233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.254615,42.302866,-83.254615,42.302866",
+    "geom:latitude":42.302866,
+    "geom:longitude":-83.254615,
+    "iso:country":"US",
+    "sg:address":"22681 Newman St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 563 7482",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "middle",
+        "eastern",
+        "sandwich",
+        "caterer"
+    ],
+    "sg:website":"www.lapitadearborn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896617,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075NStc0LLZz6vExVGV1n5_42.302866_-83.254615@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811230,
+    "wof:geomhash":"43cae15cc27ee289f8ffdc0031f5959a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896617,
+            "region_id":85688599,
+            "venue_id":706725233
+        }
+    ],
+    "wof:id":706725233,
+    "wof:lastmodified":1461811230,
+    "wof:name":"LaPita Restaurant",
+    "wof:parent_id":85896617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle",
+        "eastern",
+        "sandwich",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.254615,
+    42.302866,
+    -83.254615,
+    42.302866
+],
+  "geometry": {"coordinates":[-83.254615,42.302866],"type":"Point"}
+}

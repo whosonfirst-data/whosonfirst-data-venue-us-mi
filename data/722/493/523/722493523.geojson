@@ -1,0 +1,76 @@
+{
+  "id": 722493523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.055009,42.335022,-83.055009,42.335022",
+    "geom:latitude":42.335022,
+    "geom:longitude":-83.055009,
+    "iso:country":"US",
+    "sg:address":"1942 W Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866989,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35rgvmNbUfT05Pd6IKGEE5_42.335022_-83.055009@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812828,
+    "wof:geomhash":"2e5b010caaedf0a7763f1382cdd561f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85866989,
+            "region_id":85688599,
+            "venue_id":722493523
+        }
+    ],
+    "wof:id":722493523,
+    "wof:lastmodified":1461812828,
+    "wof:name":"Grand Army of the Republic Building",
+    "wof:parent_id":85866989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -83.055009,
+    42.335022,
+    -83.055009,
+    42.335022
+],
+  "geometry": {"coordinates":[-83.055009,42.335022],"type":"Point"}
+}

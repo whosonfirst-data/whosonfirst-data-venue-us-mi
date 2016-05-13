@@ -1,0 +1,71 @@
+{
+  "id": 706128085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.300348,42.024559,-86.300348,42.024559",
+    "geom:latitude":42.024559,
+    "geom:longitude":-86.300348,
+    "iso:country":"US",
+    "sg:address":"5133 Old Pipestone Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 6728",
+    "sg:postcode":"49111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LalwhGfxx05Lvw6RSoOEp_42.024559_-86.300348@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796461,
+    "wof:geomhash":"27df761e1bb191258018ea96cf1ca4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706128085
+        }
+    ],
+    "wof:id":706128085,
+    "wof:lastmodified":1461796461,
+    "wof:name":"Sunset Coast Pedicabs",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.300348,
+    42.024559,
+    -86.300348,
+    42.024559
+],
+  "geometry": {"coordinates":[-86.300348,42.024559],"type":"Point"}
+}

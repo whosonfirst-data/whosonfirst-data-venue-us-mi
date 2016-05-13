@@ -1,0 +1,73 @@
+{
+  "id": 706565431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.554282,42.301262,-85.554282,42.301262",
+    "geom:latitude":42.301262,
+    "geom:longitude":-85.554282,
+    "iso:country":"US",
+    "sg:address":"2003 E Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 343 0988",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HymbnLDN0a6LUSbxuSVMq_42.301262_-85.554282@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805963,
+    "wof:geomhash":"8ec44588ad23a14c7d87d613fd15ceab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706565431
+        }
+    ],
+    "wof:id":706565431,
+    "wof:lastmodified":1461805963,
+    "wof:name":"Lowder's Automotive",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.554282,
+    42.301262,
+    -85.554282,
+    42.301262
+],
+  "geometry": {"coordinates":[-85.554282,42.301262],"type":"Point"}
+}

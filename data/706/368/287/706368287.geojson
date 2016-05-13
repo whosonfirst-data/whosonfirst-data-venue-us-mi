@@ -1,0 +1,69 @@
+{
+  "id": 706368287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275725,42.400096,-83.275725,42.400096",
+    "geom:latitude":42.400096,
+    "geom:longitude":-83.275725,
+    "iso:country":"US",
+    "sg:address":"23900 Fenkell St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 534 9113",
+    "sg:postcode":"48223",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896771,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M4bRClH9PlfKAbW4Icczn_42.400096_-83.275725@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801775,
+    "wof:geomhash":"32e65860689bf46761802f3e3ba5d211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896771,
+            "region_id":85688599,
+            "venue_id":706368287
+        }
+    ],
+    "wof:id":706368287,
+    "wof:lastmodified":1461801775,
+    "wof:name":"M & M Collision Service Inc",
+    "wof:parent_id":85896771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.275725,
+    42.400096,
+    -83.275725,
+    42.400096
+],
+  "geometry": {"coordinates":[-83.27572499999999,42.400096],"type":"Point"}
+}

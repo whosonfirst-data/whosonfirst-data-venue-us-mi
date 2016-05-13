@@ -1,0 +1,71 @@
+{
+  "id": 706405057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907341,45.786049,-87.907341,45.786049",
+    "geom:latitude":45.786049,
+    "geom:longitude":-87.907341,
+    "iso:country":"US",
+    "sg:address":"510 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9291",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bgdyfsB0fOiB6M5waQhAU_45.786049_-87.907341@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802500,
+    "wof:geomhash":"c5001d6aaeccb7b3d097ee8e0e502594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706405057
+        }
+    ],
+    "wof:id":706405057,
+    "wof:lastmodified":1461802500,
+    "wof:name":"Thomas R Carlson DDS",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.907341,
+    45.786049,
+    -87.907341,
+    45.786049
+],
+  "geometry": {"coordinates":[-87.907341,45.786049],"type":"Point"}
+}

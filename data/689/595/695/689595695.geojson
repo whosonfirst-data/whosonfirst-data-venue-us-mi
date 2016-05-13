@@ -1,0 +1,71 @@
+{
+  "id": 689595695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.214011,43.219387,-86.214011,43.219387",
+    "geom:latitude":43.219387,
+    "geom:longitude":-86.214011,
+    "iso:country":"US",
+    "sg:address":"1225 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 4641",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qIVYmtSQPp633Eltw4mlH_43.219387_-86.214011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776084,
+    "wof:geomhash":"a7cda7832c7766fbc1e3fd59c6a0b3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689595695
+        }
+    ],
+    "wof:id":689595695,
+    "wof:lastmodified":1461776084,
+    "wof:name":"Oven Fresh Bakery",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.214011,
+    43.219387,
+    -86.214011,
+    43.219387
+],
+  "geometry": {"coordinates":[-86.214011,43.219387],"type":"Point"}
+}

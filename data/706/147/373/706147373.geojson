@@ -1,0 +1,75 @@
+{
+  "id": 706147373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590653,42.989661,-85.590653,42.989661",
+    "geom:latitude":42.989661,
+    "geom:longitude":-85.590653,
+    "iso:country":"US",
+    "sg:address":"1525 E Beltline Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 363 0055",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739IoowC5yTtXF5OqTbKKs_42.989661_-85.590653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796916,
+    "wof:geomhash":"51eb9cdb4997db4b6cab7ced5efc8211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706147373
+        }
+    ],
+    "wof:id":706147373,
+    "wof:lastmodified":1461796916,
+    "wof:name":"Family Care Center",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.590653,
+    42.989661,
+    -85.590653,
+    42.989661
+],
+  "geometry": {"coordinates":[-85.590653,42.989661],"type":"Point"}
+}

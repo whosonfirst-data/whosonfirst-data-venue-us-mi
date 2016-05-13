@@ -1,0 +1,71 @@
+{
+  "id": 706249293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604504,42.376434,-85.604504,42.376434",
+    "geom:latitude":42.376434,
+    "geom:longitude":-85.604504,
+    "iso:country":"US",
+    "sg:address":"1249 W D Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 5677",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mVPVODzxQfJrq1QyY7XVC_42.376434_-85.604504@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799180,
+    "wof:geomhash":"9c00a5a9e51ce21dca803801c3b2dce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":706249293
+        }
+    ],
+    "wof:id":706249293,
+    "wof:lastmodified":1461799180,
+    "wof:name":"Kalamazoo Kennel Club",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -85.604504,
+    42.376434,
+    -85.604504,
+    42.376434
+],
+  "geometry": {"coordinates":[-85.60450400000001,42.376434],"type":"Point"}
+}

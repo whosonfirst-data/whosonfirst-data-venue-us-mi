@@ -1,0 +1,75 @@
+{
+  "id": 706347509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.017762,42.355556,-83.017762,42.355556",
+    "geom:latitude":42.355556,
+    "geom:longitude":-83.017762,
+    "iso:country":"US",
+    "sg:address":"2444 Mount Elliott St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 921 2028",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870555,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D6dnSfWuJmJmclWeGuuO1_42.355556_-83.017762@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801360,
+    "wof:geomhash":"26d07534a64ad548c1cc670f1787d1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870555,
+            "region_id":85688599,
+            "venue_id":706347509
+        }
+    ],
+    "wof:id":706347509,
+    "wof:lastmodified":1461801360,
+    "wof:name":"E & S Truck Rental",
+    "wof:parent_id":85870555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.017762,
+    42.355556,
+    -83.017762,
+    42.355556
+],
+  "geometry": {"coordinates":[-83.017762,42.355556],"type":"Point"}
+}

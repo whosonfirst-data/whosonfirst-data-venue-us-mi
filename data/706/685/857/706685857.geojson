@@ -1,0 +1,82 @@
+{
+  "id": 706685857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.186327,43.234213,-86.186327,43.234213",
+    "geom:latitude":43.234213,
+    "geom:longitude":-86.186327,
+    "iso:country":"US",
+    "sg:address":"2315 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/163058-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 0502",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Eb26LwzUiA8MScNAqDpYr_43.234213_-86.186327@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809515,
+    "wof:geomhash":"e4a4e891de596393cbece6a2e342ee87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685857
+        }
+    ],
+    "wof:id":706685857,
+    "wof:lastmodified":1461809515,
+    "wof:name":"Rally's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.186327,
+    43.234213,
+    -86.186327,
+    43.234213
+],
+  "geometry": {"coordinates":[-86.18632700000001,43.234213],"type":"Point"}
+}

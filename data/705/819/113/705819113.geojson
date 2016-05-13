@@ -1,0 +1,71 @@
+{
+  "id": 705819113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.746022,41.793083,-86.746022,41.793083",
+    "geom:latitude":41.793083,
+    "geom:longitude":-86.746022,
+    "iso:country":"US",
+    "sg:address":"224 W Buffalo St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1500",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AkkwKoTjO2qCyk1mQwqAi_41.793083_-86.746022@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789459,
+    "wof:geomhash":"4973a315eefc9e33fe74dd035d38dc62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":705819113
+        }
+    ],
+    "wof:id":705819113,
+    "wof:lastmodified":1461789459,
+    "wof:name":"New Buffalo City Hall",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -86.746022,
+    41.793083,
+    -86.746022,
+    41.793083
+],
+  "geometry": {"coordinates":[-86.746022,41.793083],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 722512291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362396,42.579201,-83.362396,42.579201",
+    "geom:latitude":42.579201,
+    "geom:longitude":-83.362396,
+    "iso:country":"US",
+    "sg:address":"4170 Orchard Lake Rd",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 3400",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gUJWslLE9UfLyvUfPCCea_42.579201_-83.362396@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813578,
+    "wof:geomhash":"fcd6396e928cfaa6678520a7b8ee2953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512291
+        }
+    ],
+    "wof:id":722512291,
+    "wof:lastmodified":1461813578,
+    "wof:name":"Village Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.362396,
+    42.579201,
+    -83.362396,
+    42.579201
+],
+  "geometry": {"coordinates":[-83.362396,42.579201],"type":"Point"}
+}

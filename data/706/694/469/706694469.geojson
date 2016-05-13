@@ -1,0 +1,69 @@
+{
+  "id": 706694469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.960503,42.551998,-82.960503,42.551998",
+    "geom:latitude":42.551998,
+    "geom:longitude":-82.960503,
+    "iso:country":"US",
+    "sg:address":"34835 Utica Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 415 6410",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jwOH0Wh25hInSgj3FFcmu_42.551998_-82.960503@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809849,
+    "wof:geomhash":"af09ae377aa6649c2d0b0a19a48ac6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706694469
+        }
+    ],
+    "wof:id":706694469,
+    "wof:lastmodified":1461809849,
+    "wof:name":"Meijer Pharmacy",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -82.960503,
+    42.551998,
+    -82.960503,
+    42.551998
+],
+  "geometry": {"coordinates":[-82.960503,42.551998],"type":"Point"}
+}

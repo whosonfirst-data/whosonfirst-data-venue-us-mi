@@ -1,0 +1,73 @@
+{
+  "id": 689559171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.033107,42.64295,-83.033107,42.64295",
+    "geom:latitude":42.64295,
+    "geom:longitude":-83.033107,
+    "iso:country":"US",
+    "sg:address":"47389 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 739 8030",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kexVwqhPbLzURtXWnaJad_42.642950_-83.033107@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774996,
+    "wof:geomhash":"df397cf6d4c1689cd4461bd428f93f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":689559171
+        }
+    ],
+    "wof:id":689559171,
+    "wof:lastmodified":1461774996,
+    "wof:name":"Shelby Pediatrics",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.033107,
+    42.64295,
+    -83.033107,
+    42.64295
+],
+  "geometry": {"coordinates":[-83.033107,42.64295],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 706730063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3116,42.3246,-83.3116,42.3246",
+    "geom:latitude":42.3246,
+    "geom:longitude":-83.3116,
+    "iso:country":"US",
+    "sg:address":"2085 Inkster Rd",
+    "sg:city":"Garden City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 425 4515",
+    "sg:postcode":"48135",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896625,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I3dDxBYaJMqM6eXSCMNMD_42.324600_-83.311600@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811425,
+    "wof:geomhash":"a3be5b116e392f1ed0c98b1d07720549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85896625,
+            "region_id":85688599,
+            "venue_id":706730063
+        }
+    ],
+    "wof:id":706730063,
+    "wof:lastmodified":1461811425,
+    "wof:name":"Pet Practice the",
+    "wof:parent_id":85896625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.3116,
+    42.3246,
+    -83.3116,
+    42.3246
+],
+  "geometry": {"coordinates":[-83.3116,42.3246],"type":"Point"}
+}

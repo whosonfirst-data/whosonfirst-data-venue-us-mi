@@ -1,0 +1,71 @@
+{
+  "id": 705832705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.606652,41.763571,-83.606652,41.763571",
+    "geom:latitude":41.763571,
+    "geom:longitude":-83.606652,
+    "iso:country":"US",
+    "sg:address":"8166 Douglas Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 4900",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqZ6nzQ2Eo6qLcn62Ce80_41.763571_-83.606652@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789797,
+    "wof:geomhash":"8bdc907b6bd3f93aa38f91565ef128c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":705832705
+        }
+    ],
+    "wof:id":705832705,
+    "wof:lastmodified":1461789797,
+    "wof:name":"Horvath Wm L MD",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.606652,
+    41.763571,
+    -83.606652,
+    41.763571
+],
+  "geometry": {"coordinates":[-83.606652,41.763571],"type":"Point"}
+}

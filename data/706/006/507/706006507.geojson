@@ -1,0 +1,73 @@
+{
+  "id": 706006507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.189589,43.224498,-86.189589,43.224498",
+    "geom:latitude":43.224498,
+    "geom:longitude":-86.189589,
+    "iso:country":"US",
+    "sg:address":"1563 Center St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 6240",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hev9utioZ8AXC4roVhz9T_43.224498_-86.189589@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793709,
+    "wof:geomhash":"2d44d001d48b74e26e986d480b2a565d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706006507
+        }
+    ],
+    "wof:id":706006507,
+    "wof:lastmodified":1461793709,
+    "wof:name":"Koomen Trucking",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.189589,
+    43.224498,
+    -86.189589,
+    43.224498
+],
+  "geometry": {"coordinates":[-86.189589,43.224498],"type":"Point"}
+}

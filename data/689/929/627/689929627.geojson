@@ -1,0 +1,79 @@
+{
+  "id": 689929627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.486964,42.233806,-83.486964,42.233806",
+    "geom:latitude":42.233806,
+    "geom:longitude":-83.486964,
+    "iso:country":"US",
+    "sg:address":"46425 Tyler Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 8930",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gi6RIBFePTtCz6OqM5p9b_42.233806_-83.486964@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785356,
+    "wof:geomhash":"96ee0ad3c4538300f8f90dce8d8f01ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":689929627
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":689929627
+        }
+    ],
+    "wof:id":689929627,
+    "wof:lastmodified":1461785356,
+    "wof:name":"Van Buren Fire Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -83.486964,
+    42.233806,
+    -83.486964,
+    42.233806
+],
+  "geometry": {"coordinates":[-83.486964,42.233806],"type":"Point"}
+}

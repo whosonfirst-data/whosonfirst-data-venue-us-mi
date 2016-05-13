@@ -1,0 +1,71 @@
+{
+  "id": 706249491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367811,41.827253,-86.367811,41.827253",
+    "geom:latitude":41.827253,
+    "geom:longitude":-86.367811,
+    "iso:country":"US",
+    "sg:address":"417 W Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 3510",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nu6wmDVoheLJa8HzWXFZ3_41.827253_-86.367811@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799183,
+    "wof:geomhash":"0ec6b43247996b9a44d8a2e11b0c225d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706249491
+        }
+    ],
+    "wof:id":706249491,
+    "wof:lastmodified":1461799183,
+    "wof:name":"Ben's Backyard Barbacue",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -86.367811,
+    41.827253,
+    -86.367811,
+    41.827253
+],
+  "geometry": {"coordinates":[-86.367811,41.827253],"type":"Point"}
+}

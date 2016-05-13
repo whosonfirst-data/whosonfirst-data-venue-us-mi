@@ -1,0 +1,82 @@
+{
+  "id": 722478705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.053596,42.3549,-83.053596,42.3549",
+    "geom:latitude":42.3549,
+    "geom:longitude":-83.053596,
+    "iso:country":"US",
+    "sg:address":"4276 Saint Antoine St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 833 6055",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870591,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bGGHrh9iqrYjAnaFuHbhW_42.354900_-83.053596@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812237,
+    "wof:geomhash":"ca5f71c2958e3ce00ea72d033b270304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870591,
+            "region_id":85688599,
+            "venue_id":722478705
+        }
+    ],
+    "wof:id":722478705,
+    "wof:lastmodified":1461812237,
+    "wof:name":"Medical Center Courts",
+    "wof:parent_id":85870591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.053596,
+    42.3549,
+    -83.053596,
+    42.3549
+],
+  "geometry": {"coordinates":[-83.053596,42.3549],"type":"Point"}
+}

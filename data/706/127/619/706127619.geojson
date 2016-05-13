@@ -1,0 +1,73 @@
+{
+  "id": 706127619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.381291,41.913524,-83.381291,41.913524",
+    "geom:latitude":41.913524,
+    "geom:longitude":-83.381291,
+    "iso:country":"US",
+    "sg:address":"1236 E Elm Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 654 9556",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d3h3WauVKlEW3uTEda3jB_41.913524_-83.381291@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796451,
+    "wof:geomhash":"2797349af703fec958cc508424adbb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706127619
+        }
+    ],
+    "wof:id":706127619,
+    "wof:lastmodified":1461796451,
+    "wof:name":"3t Trucking",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.381291,
+    41.913524,
+    -83.381291,
+    41.913524
+],
+  "geometry": {"coordinates":[-83.381291,41.913524],"type":"Point"}
+}

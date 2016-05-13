@@ -1,0 +1,85 @@
+{
+  "id": 706504201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.230334,42.670731,-83.230334,42.670731",
+    "geom:latitude":42.670731,
+    "geom:longitude":-83.230334,
+    "iso:country":"US",
+    "sg:address":"3005 University Dr",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 340 9400",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "sg:website":"www.moceri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896797,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rotUjo13T4bXgrUlU9wqx_42.670731_-83.230334@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804732,
+    "wof:geomhash":"dd52129919b0a724bbefbe7a6d02ea0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896797,
+            "region_id":85688599,
+            "venue_id":706504201
+        }
+    ],
+    "wof:id":706504201,
+    "wof:lastmodified":1461804732,
+    "wof:name":"Moceri Management Co",
+    "wof:parent_id":85896797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.230334,
+    42.670731,
+    -83.230334,
+    42.670731
+],
+  "geometry": {"coordinates":[-83.230334,42.670731],"type":"Point"}
+}

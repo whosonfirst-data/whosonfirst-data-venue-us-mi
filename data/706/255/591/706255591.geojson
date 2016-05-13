@@ -1,0 +1,77 @@
+{
+  "id": 706255591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.592298,43.04358,-85.592298,43.04358",
+    "geom:latitude":43.04358,
+    "geom:longitude":-85.592298,
+    "iso:country":"US",
+    "sg:address":"3068 Crisfield Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 365 8506",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PLuAlHs5zLSnz8sPlLPwU_43.043580_-85.592298@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799320,
+    "wof:geomhash":"769474de24ae87844b89dffc3cb60c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706255591
+        }
+    ],
+    "wof:id":706255591,
+    "wof:lastmodified":1461799320,
+    "wof:name":"Christian Science Visiting Nrs",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -85.592298,
+    43.04358,
+    -85.592298,
+    43.04358
+],
+  "geometry": {"coordinates":[-85.592298,43.04358],"type":"Point"}
+}

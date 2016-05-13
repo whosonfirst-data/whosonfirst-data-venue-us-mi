@@ -1,0 +1,71 @@
+{
+  "id": 689835461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.939908,43.454743,-85.939908,43.454743",
+    "geom:latitude":43.454743,
+    "geom:longitude":-85.939908,
+    "iso:country":"US",
+    "sg:address":"5472 S Warner Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3747",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WwCMoAcvacY4olDedGz7k_43.454743_-85.939908@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783011,
+    "wof:geomhash":"96a515611feb6efeff7319588cc6e3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689835461
+        }
+    ],
+    "wof:id":689835461,
+    "wof:lastmodified":1461783011,
+    "wof:name":"Larrys Transmission Service",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.939908,
+    43.454743,
+    -85.939908,
+    43.454743
+],
+  "geometry": {"coordinates":[-85.939908,43.454743],"type":"Point"}
+}

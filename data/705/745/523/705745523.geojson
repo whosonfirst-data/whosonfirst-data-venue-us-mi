@@ -1,0 +1,71 @@
+{
+  "id": 705745523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.723104,43.03503,-83.723104,43.03503",
+    "geom:latitude":43.03503,
+    "geom:longitude":-83.723104,
+    "iso:country":"US",
+    "sg:address":"1601 Greenway Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 8716",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d1d9Tf8b6rvHAE0XDJYWT_43.035030_-83.723104@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787763,
+    "wof:geomhash":"91041a5b0d596d985da362c41a78d200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705745523
+        }
+    ],
+    "wof:id":705745523,
+    "wof:lastmodified":1461787763,
+    "wof:name":"Special Care Day Care",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -83.723104,
+    43.03503,
+    -83.723104,
+    43.03503
+],
+  "geometry": {"coordinates":[-83.72310400000001,43.03503],"type":"Point"}
+}

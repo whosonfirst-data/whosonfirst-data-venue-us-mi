@@ -1,0 +1,71 @@
+{
+  "id": 705794723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065995,45.816624,-88.065995,45.816624",
+    "geom:latitude":45.816624,
+    "geom:longitude":-88.065995,
+    "iso:country":"US",
+    "sg:address":"700 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 5000",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EVlZXSzfdwIy6nH3ELC5W_45.816624_-88.065995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788897,
+    "wof:geomhash":"a747086ea5c65875c8dc5d789b2f8852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705794723
+        }
+    ],
+    "wof:id":705794723,
+    "wof:lastmodified":1461788897,
+    "wof:name":"Bakery Shoppe",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -88.065995,
+    45.816624,
+    -88.065995,
+    45.816624
+],
+  "geometry": {"coordinates":[-88.065995,45.816624],"type":"Point"}
+}

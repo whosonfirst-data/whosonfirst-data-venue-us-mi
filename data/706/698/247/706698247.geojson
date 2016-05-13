@@ -1,0 +1,71 @@
+{
+  "id": 706698247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.965738,42.561892,-82.965738,42.561892",
+    "geom:latitude":42.561892,
+    "geom:longitude":-82.965738,
+    "iso:country":"US",
+    "sg:address":"36015 Utica Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 792 1398",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18UuJAqMlazMWTDAVQEeiR_42.561892_-82.965738@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461809990,
+    "wof:geomhash":"ddd6345225663b964fa112f1a3c3d14d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706698247
+        }
+    ],
+    "wof:id":706698247,
+    "wof:lastmodified":1461809990,
+    "wof:name":"Beaumont Clinton Twp Internal Medicine",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -82.965738,
+    42.561892,
+    -82.965738,
+    42.561892
+],
+  "geometry": {"coordinates":[-82.965738,42.561892],"type":"Point"}
+}

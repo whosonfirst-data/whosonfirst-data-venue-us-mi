@@ -1,0 +1,71 @@
+{
+  "id": 689478377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.707579,43.040176,-83.707579,43.040176",
+    "geom:latitude":43.040176,
+    "geom:longitude":-83.707579,
+    "iso:country":"US",
+    "sg:address":"116 W Rankin St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 4876",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26NSxBuqf9UY2iPuJrbUNp_43.040176_-83.707579@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772476,
+    "wof:geomhash":"99a11054fb9066993f636decafd96235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689478377
+        }
+    ],
+    "wof:id":689478377,
+    "wof:lastmodified":1461772476,
+    "wof:name":"Angel's Appliance Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.707579,
+    43.040176,
+    -83.707579,
+    43.040176
+],
+  "geometry": {"coordinates":[-83.707579,43.040176],"type":"Point"}
+}

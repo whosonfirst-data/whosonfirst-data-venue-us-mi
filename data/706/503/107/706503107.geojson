@@ -1,0 +1,75 @@
+{
+  "id": 706503107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.481051,43.162081,-85.481051,43.162081",
+    "geom:latitude":43.162081,
+    "geom:longitude":-85.481051,
+    "iso:country":"US",
+    "sg:address":"11555 Berrigan Ave NE",
+    "sg:city":"Rockford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 866 3250",
+    "sg:postcode":"49341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XGmuDfq3lh9Dzc1PzXTXr_43.162081_-85.481051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804711,
+    "wof:geomhash":"a010f41c78b8d73f2a9e5b5a2182fd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706503107
+        }
+    ],
+    "wof:id":706503107,
+    "wof:lastmodified":1461804711,
+    "wof:name":"Rockford Ambulance",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.481051,
+    43.162081,
+    -85.481051,
+    43.162081
+],
+  "geometry": {"coordinates":[-85.48105099999999,43.162081],"type":"Point"}
+}

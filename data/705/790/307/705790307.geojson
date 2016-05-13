@@ -1,0 +1,71 @@
+{
+  "id": 705790307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.454734,42.738319,-84.454734,42.738319",
+    "geom:latitude":42.738319,
+    "geom:longitude":-84.454734,
+    "iso:country":"US",
+    "sg:address":"1844 Snyder Rd",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 336 9099",
+    "sg:postcode":"48823",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XtkZvMvfvcougvY7TNEhN_42.738319_-84.454734@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788805,
+    "wof:geomhash":"f278c84de2762090fc18e4607708fc2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705790307
+        }
+    ],
+    "wof:id":705790307,
+    "wof:lastmodified":1461788805,
+    "wof:name":"Spielberg Building & Rmdlng",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.454734,
+    42.738319,
+    -84.454734,
+    42.738319
+],
+  "geometry": {"coordinates":[-84.454734,42.738319],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689755357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988683,43.438031,-83.988683,43.438031",
+    "geom:latitude":43.438031,
+    "geom:longitude":-83.988683,
+    "iso:country":"US",
+    "sg:address":"3422 Davenport Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 797 6077",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UchiRJYU3nxSJVOrmVu7y_43.438031_-83.988683@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780586,
+    "wof:geomhash":"99bbf0acf232f0806c0054061763033d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689755357
+        }
+    ],
+    "wof:id":689755357,
+    "wof:lastmodified":1461780586,
+    "wof:name":"Doctors On Call",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.988683,
+    43.438031,
+    -83.988683,
+    43.438031
+],
+  "geometry": {"coordinates":[-83.98868299999999,43.438031],"type":"Point"}
+}

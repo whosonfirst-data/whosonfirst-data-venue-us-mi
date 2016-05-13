@@ -1,0 +1,71 @@
+{
+  "id": 706532201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.123467,42.804788,-86.123467,42.804788",
+    "geom:latitude":42.804788,
+    "geom:longitude":-86.123467,
+    "iso:country":"US",
+    "sg:address":"342 W Lakewood Blvd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 395 2200",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lcdF9OGm5JARER821gom5_42.804788_-86.123467@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805279,
+    "wof:geomhash":"acc864b4582ae70e12b1b2a5544d6826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706532201
+        }
+    ],
+    "wof:id":706532201,
+    "wof:lastmodified":1461805279,
+    "wof:name":"Glerum Elementary School",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -86.123467,
+    42.804788,
+    -86.123467,
+    42.804788
+],
+  "geometry": {"coordinates":[-86.12346700000001,42.804788],"type":"Point"}
+}

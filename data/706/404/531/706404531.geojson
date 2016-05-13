@@ -1,0 +1,71 @@
+{
+  "id": 706404531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.526404,42.321255,-85.526404,42.321255",
+    "geom:latitude":42.321255,
+    "geom:longitude":-85.526404,
+    "iso:country":"US",
+    "sg:address":"3730 Jennings Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 7730",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ro7SHnkV0jis6iPWwvRrY_42.321255_-85.526404@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802490,
+    "wof:geomhash":"bca1db9981b1ffaf638d6ba3ff7ffcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706404531
+        }
+    ],
+    "wof:id":706404531,
+    "wof:lastmodified":1461802490,
+    "wof:name":"Robert W Clements Jr DDS",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.526404,
+    42.321255,
+    -85.526404,
+    42.321255
+],
+  "geometry": {"coordinates":[-85.526404,42.321255],"type":"Point"}
+}

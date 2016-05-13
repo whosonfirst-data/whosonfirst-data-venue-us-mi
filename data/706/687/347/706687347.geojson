@@ -1,0 +1,74 @@
+{
+  "id": 706687347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.396142,46.556953,-87.396142,46.556953",
+    "geom:latitude":46.556953,
+    "geom:longitude":-87.396142,
+    "iso:country":"US",
+    "sg:address":"1422 Presque Isle Ave",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marquette/155968-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 1991",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k7o4NmYY2wU6jtn7A2J8v_46.556953_-87.396142@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809569,
+    "wof:geomhash":"3c132789feac494871d932c796407cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706687347
+        }
+    ],
+    "wof:id":706687347,
+    "wof:lastmodified":1461809569,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.396142,
+    46.556953,
+    -87.396142,
+    46.556953
+],
+  "geometry": {"coordinates":[-87.396142,46.556953],"type":"Point"}
+}

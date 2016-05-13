@@ -1,0 +1,72 @@
+{
+  "id": 706677223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.680675,42.252513,-83.680675,42.252513",
+    "geom:latitude":42.252513,
+    "geom:longitude":-83.680675,
+    "iso:country":"US",
+    "sg:address":"2420 Carpenter Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pittsfield/44234-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 971 4412",
+    "sg:postcode":"48108",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875953,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g7c38Ax92myIHUVONH688_42.252513_-83.680675@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809172,
+    "wof:geomhash":"4468397ea156b2258e5b285169baad8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875953,
+            "region_id":85688599,
+            "venue_id":706677223
+        }
+    ],
+    "wof:id":706677223,
+    "wof:lastmodified":1461809172,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85875953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.680675,
+    42.252513,
+    -83.680675,
+    42.252513
+],
+  "geometry": {"coordinates":[-83.68067499999999,42.252513],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 706683723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613932,42.294685,-85.613932,42.294685",
+    "geom:latitude":42.294685,
+    "geom:longitude":-85.613932,
+    "iso:country":"US",
+    "sg:address":"2026 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/176425-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 381 7290",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878481,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wrBbLOp3bYdMdy8OayApo_42.294685_-85.613932@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809436,
+    "wof:geomhash":"cd8d890bb0b2fdac58eea4c3ed32a272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85878481,
+            "region_id":85688599,
+            "venue_id":706683723
+        }
+    ],
+    "wof:id":706683723,
+    "wof:lastmodified":1461809436,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85878481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.613932,
+    42.294685,
+    -85.613932,
+    42.294685
+],
+  "geometry": {"coordinates":[-85.61393200000001,42.294685],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706687017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63136,44.76387,-85.63136,44.76387",
+    "geom:latitude":44.76387,
+    "geom:longitude":-85.63136,
+    "iso:country":"US",
+    "sg:address":"525 W Front St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/traverse-city/281573-grand-traverse-pie-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 922 7437",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3anPRPgoOrSivhP9PVaOli_44.763870_-85.631360@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809558,
+    "wof:geomhash":"5b1249ca3191f929f67666d62ff4200a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706687017
+        }
+    ],
+    "wof:id":706687017,
+    "wof:lastmodified":1461809558,
+    "wof:name":"Grand Traverse Pie Company",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.63136,
+    44.76387,
+    -85.63136,
+    44.76387
+],
+  "geometry": {"coordinates":[-85.63136,44.76387],"type":"Point"}
+}

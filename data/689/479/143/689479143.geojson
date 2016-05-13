@@ -1,0 +1,71 @@
+{
+  "id": 689479143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.448138,42.583004,-84.448138,42.583004",
+    "geom:latitude":42.583004,
+    "geom:longitude":-84.448138,
+    "iso:country":"US",
+    "sg:address":"124 Mason St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 4110",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dh3pdhoohdF8l3q0vlr91_42.583004_-84.448138@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772491,
+    "wof:geomhash":"5eb8e7b09ade3e24bfa8893fc1108f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689479143
+        }
+    ],
+    "wof:id":689479143,
+    "wof:lastmodified":1461772491,
+    "wof:name":"Davis Automotive",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.448138,
+    42.583004,
+    -84.448138,
+    42.583004
+],
+  "geometry": {"coordinates":[-84.448138,42.583004],"type":"Point"}
+}

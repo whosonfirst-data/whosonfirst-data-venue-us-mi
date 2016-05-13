@@ -1,0 +1,75 @@
+{
+  "id": 705823679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.293334,43.429005,-86.293334,43.429005",
+    "geom:latitude":43.429005,
+    "geom:longitude":-86.293334,
+    "iso:country":"US",
+    "sg:address":"9410 Mill Pond Trl",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 2851",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "construction",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06EbeCR1l8CYXHO6OXf6VL_43.429005_-86.293334@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789571,
+    "wof:geomhash":"f17401dd3db06ab542f96b3d2913a545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705823679
+        }
+    ],
+    "wof:id":705823679,
+    "wof:lastmodified":1461789571,
+    "wof:name":"Muskegon Truck & Equipment Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "construction",
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.293334,
+    43.429005,
+    -86.293334,
+    43.429005
+],
+  "geometry": {"coordinates":[-86.293334,43.429005],"type":"Point"}
+}

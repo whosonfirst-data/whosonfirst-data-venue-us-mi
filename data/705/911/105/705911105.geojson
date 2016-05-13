@@ -1,0 +1,71 @@
+{
+  "id": 705911105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.871619,42.569091,-82.871619,42.569091",
+    "geom:latitude":42.569091,
+    "geom:longitude":-82.871619,
+    "iso:country":"US",
+    "sg:address":"36888 Harper Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 792 2060",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WfAKWHu1e3Jt3w5aLmjfQ_42.569091_-82.871619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791657,
+    "wof:geomhash":"bb400f2af6e177f8d637b2744ad3db45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":705911105
+        }
+    ],
+    "wof:id":705911105,
+    "wof:lastmodified":1461791657,
+    "wof:name":"New Car Finish",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -82.871619,
+    42.569091,
+    -82.871619,
+    42.569091
+],
+  "geometry": {"coordinates":[-82.871619,42.569091],"type":"Point"}
+}

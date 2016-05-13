@@ -1,0 +1,71 @@
+{
+  "id": 706058387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.474273,41.861169,-83.474273,41.861169",
+    "geom:latitude":41.861169,
+    "geom:longitude":-83.474273,
+    "iso:country":"US",
+    "sg:address":"3426 Swartz Rd",
+    "sg:city":"La Salle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 5271",
+    "sg:postcode":"48145",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804009,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldIdwe8kSY5OBs4cEHvQP_41.861169_-83.474273@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794780,
+    "wof:geomhash":"f23e4ea8af4f019224a694a00e6250e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":706058387
+        }
+    ],
+    "wof:id":706058387,
+    "wof:lastmodified":1461794780,
+    "wof:name":"Bin's Disposal Svc",
+    "wof:parent_id":85804009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -83.474273,
+    41.861169,
+    -83.474273,
+    41.861169
+],
+  "geometry": {"coordinates":[-83.474273,41.861169],"type":"Point"}
+}

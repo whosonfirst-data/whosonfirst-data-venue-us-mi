@@ -1,0 +1,74 @@
+{
+  "id": 706599265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.664508,42.880293,-85.664508,42.880293",
+    "geom:latitude":42.880293,
+    "geom:longitude":-85.664508,
+    "iso:country":"US",
+    "sg:address":"4640 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 249 2800",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.bestbuyusedcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C1OSqUa92DckfnKI3dzK1_42.880293_-85.664508@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806714,
+    "wof:geomhash":"6bdc1ff858afb9ab5d7be1f4821ed95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706599265
+        }
+    ],
+    "wof:id":706599265,
+    "wof:lastmodified":1461806714,
+    "wof:name":"Best Buy Used Cars",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.664508,
+    42.880293,
+    -85.664508,
+    42.880293
+],
+  "geometry": {"coordinates":[-85.664508,42.880293],"type":"Point"}
+}

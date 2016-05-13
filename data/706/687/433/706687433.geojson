@@ -1,0 +1,78 @@
+{
+  "id": 706687433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.156514,46.46329,-90.156514,46.46329",
+    "geom:latitude":46.46329,
+    "geom:longitude":-90.156514,
+    "iso:country":"US",
+    "sg:address":"521 N Lake St",
+    "sg:city":"Ironwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ironwood/86833-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 932 0922",
+    "sg:postcode":"49938",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803971,
+        102191575,
+        404506663,
+        85633793,
+        85951281,
+        102083009,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fajBzsGEPZpQglXTPTr0l_46.463290_-90.156514@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809572,
+    "wof:geomhash":"a52d023e0c12d96baa0b93006424064d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083009,
+            "localadmin_id":404506663,
+            "locality_id":85951281,
+            "neighbourhood_id":85803971,
+            "region_id":85688599,
+            "venue_id":706687433
+        }
+    ],
+    "wof:id":706687433,
+    "wof:lastmodified":1461809572,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85803971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.156514,
+    46.46329,
+    -90.156514,
+    46.46329
+],
+  "geometry": {"coordinates":[-90.156514,46.46329],"type":"Point"}
+}

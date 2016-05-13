@@ -1,0 +1,72 @@
+{
+  "id": 706689105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851754,42.886596,-85.851754,42.886596",
+    "geom:latitude":42.886596,
+    "geom:longitude":-85.851754,
+    "iso:country":"US",
+    "sg:address":"6450 28th Ave",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/georgetown/50899-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 662 0100",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S7Gt35bS81VUvGArItAAw_42.887136_-85.851740@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809637,
+    "wof:geomhash":"0ed5491f4fac1d0bf7749abc8ddf0fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706689105
+        }
+    ],
+    "wof:id":706689105,
+    "wof:lastmodified":1461809637,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.851754,
+    42.886596,
+    -85.851754,
+    42.886596
+],
+  "geometry": {"coordinates":[-85.851754,42.886596],"type":"Point"}
+}

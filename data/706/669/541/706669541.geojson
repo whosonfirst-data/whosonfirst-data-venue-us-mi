@@ -1,0 +1,77 @@
+{
+  "id": 706669541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.689598,42.959499,-83.689598,42.959499",
+    "geom:latitude":42.959499,
+    "geom:longitude":-83.689598,
+    "iso:country":"US",
+    "sg:address":"1064 E Maple Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 235 5757",
+    "sg:postcode":"48507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5yK2IwF9UTtCIFP976vQ_42.959579_-83.688992@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808843,
+    "wof:geomhash":"33dc25afc4b86d1a91db386a5add294d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":706669541
+        }
+    ],
+    "wof:id":706669541,
+    "wof:lastmodified":1461808843,
+    "wof:name":"Mel's Transmission Service",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.689598,
+    42.959499,
+    -83.689598,
+    42.959499
+],
+  "geometry": {"coordinates":[-83.689598,42.959499],"type":"Point"}
+}

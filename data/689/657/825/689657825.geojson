@@ -1,0 +1,69 @@
+{
+  "id": 689657825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622664,44.740952,-85.622664,44.740952",
+    "geom:latitude":44.740952,
+    "geom:longitude":-85.622664,
+    "iso:country":"US",
+    "sg:address":"3387 Cass Rd",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 7561",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GMt13H8QV1js7tNSEN2n3_44.740952_-85.622664@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778070,
+    "wof:geomhash":"e8000324a9dedb46b53752c26f6cd652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689657825
+        }
+    ],
+    "wof:id":689657825,
+    "wof:lastmodified":1461778070,
+    "wof:name":"Grand Traverse Transmission",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.622664,
+    44.740952,
+    -85.622664,
+    44.740952
+],
+  "geometry": {"coordinates":[-85.622664,44.740952],"type":"Point"}
+}

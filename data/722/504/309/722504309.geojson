@@ -1,0 +1,78 @@
+{
+  "id": 722504309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282997,42.544998,-83.282997,42.544998",
+    "geom:latitude":42.544998,
+    "geom:longitude":-83.282997,
+    "iso:country":"US",
+    "sg:address":"4062 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 646 1669",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wmEriUg9ThpIURu9muanU_42.544998_-83.282997@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813239,
+    "wof:geomhash":"3d03805194b42db16c5f9ff046633a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":722504309
+        }
+    ],
+    "wof:id":722504309,
+    "wof:lastmodified":1461813239,
+    "wof:name":"Deporre Veterinary Hospital",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.282997,
+    42.544998,
+    -83.282997,
+    42.544998
+],
+  "geometry": {"coordinates":[-83.28299699999999,42.544998],"type":"Point"}
+}

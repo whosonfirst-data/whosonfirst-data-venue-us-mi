@@ -1,0 +1,79 @@
+{
+  "id": 705775103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.454391,41.870319,-83.454391,41.870319",
+    "geom:latitude":41.870319,
+    "geom:longitude":-83.454391,
+    "iso:country":"US",
+    "sg:address":"14252 S Telegraph Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 782 7210",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117,
+        85804009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TtJwO9bdeRHg3bQO4vrj3_41.870319_-83.454391@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788431,
+    "wof:geomhash":"b3b8495f9a25bb6da7941e554cf79bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705775103
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":705775103
+        }
+    ],
+    "wof:id":705775103,
+    "wof:lastmodified":1461788431,
+    "wof:name":"Truck Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.454391,
+    41.870319,
+    -83.454391,
+    41.870319
+],
+  "geometry": {"coordinates":[-83.454391,41.870319],"type":"Point"}
+}

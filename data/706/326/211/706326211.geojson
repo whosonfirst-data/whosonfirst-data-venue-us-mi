@@ -1,0 +1,85 @@
+{
+  "id": 706326211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.783648,43.058284,-83.783648,43.058284",
+    "geom:latitude":43.058284,
+    "geom:longitude":-83.783648,
+    "iso:country":"US",
+    "sg:address":"3429 Pierson Pl",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 1020",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "patent",
+        "tea",
+        "coffee",
+        "product",
+        "grocery"
+    ],
+    "sg:website":"www.coffeebeanery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E0yzYrhPjLbrDHIfUwkwB_43.058284_-83.783648@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800889,
+    "wof:geomhash":"498f40fa78cf00161f819e0d1f3ebb71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706326211
+        }
+    ],
+    "wof:id":706326211,
+    "wof:lastmodified":1461800889,
+    "wof:name":"Coffee Beanery LTD",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patent",
+        "tea",
+        "coffee",
+        "product",
+        "grocery"
+    ]
+},
+  "bbox": [
+    -83.783648,
+    43.058284,
+    -83.783648,
+    43.058284
+],
+  "geometry": {"coordinates":[-83.783648,43.058284],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 706020573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602906,42.683073,-84.602906,42.683073",
+    "geom:latitude":42.683073,
+    "geom:longitude":-84.602906,
+    "iso:country":"US",
+    "sg:address":"3825 W Jolly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 6616",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85840163,
+        102083005,
+        85878667,
+        102191575,
+        404507643,
+        85951849,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A6Z74OIoWSugWOaKdKzXq_42.683073_-84.602906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794020,
+    "wof:geomhash":"9db8395f1c03c0b914605aa402d413f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":706020573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878667,
+            "region_id":85688599,
+            "venue_id":706020573
+        }
+    ],
+    "wof:id":706020573,
+    "wof:lastmodified":1461794020,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.602906,
+    42.683073,
+    -84.602906,
+    42.683073
+],
+  "geometry": {"coordinates":[-84.602906,42.683073],"type":"Point"}
+}

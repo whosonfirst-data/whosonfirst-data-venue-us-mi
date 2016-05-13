@@ -1,0 +1,71 @@
+{
+  "id": 705749905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.666237,42.840821,-85.666237,42.840821",
+    "geom:latitude":42.840821,
+    "geom:longitude":-85.666237,
+    "iso:country":"US",
+    "sg:address":"11 68th St SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 7670",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DRKTbWa7jD9csEGc5S4q0_42.840821_-85.666237@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787844,
+    "wof:geomhash":"809c76ab039dca9c628563184561b283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705749905
+        }
+    ],
+    "wof:id":705749905,
+    "wof:lastmodified":1461787844,
+    "wof:name":"Cutlerville Fire Department",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.666237,
+    42.840821,
+    -85.666237,
+    42.840821
+],
+  "geometry": {"coordinates":[-85.666237,42.840821],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 705699373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.393307,42.579409,-83.393307,42.579409",
+    "geom:latitude":42.579409,
+    "geom:longitude":-83.393307,
+    "iso:country":"US",
+    "sg:address":"3890 Bluebird St",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 681 9303",
+    "sg:postcode":"48324",
+    "sg:province":"MI",
+    "sg:tags":[
+        "recycling",
+        "cartridge",
+        "toner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63QmgMIElaw2vZfhB9VSdl_42.579409_-83.393307@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786484,
+    "wof:geomhash":"b3516ca4bf27032461a7c36fe33bfaea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":705699373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":705699373
+        }
+    ],
+    "wof:id":705699373,
+    "wof:lastmodified":1461786484,
+    "wof:name":"Toner Solutions Of Michigan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "cartridge",
+        "toner"
+    ]
+},
+  "bbox": [
+    -83.393307,
+    42.579409,
+    -83.393307,
+    42.579409
+],
+  "geometry": {"coordinates":[-83.39330699999999,42.579409],"type":"Point"}
+}

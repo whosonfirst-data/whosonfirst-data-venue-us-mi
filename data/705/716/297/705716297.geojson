@@ -1,0 +1,71 @@
+{
+  "id": 705716297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.608148,41.803865,-83.608148,41.803865",
+    "geom:latitude":41.803865,
+    "geom:longitude":-83.608148,
+    "iso:country":"US",
+    "sg:address":"10411 Douglas Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 8884",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kQ3unM9NVJXZ0xRgtgZya_41.803865_-83.608148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787069,
+    "wof:geomhash":"c2b88d2906ceb8c38784eba61f7aa7fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":705716297
+        }
+    ],
+    "wof:id":705716297,
+    "wof:lastmodified":1461787069,
+    "wof:name":"McNallys Cleaning Co",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.608148,
+    41.803865,
+    -83.608148,
+    41.803865
+],
+  "geometry": {"coordinates":[-83.608148,41.803865],"type":"Point"}
+}

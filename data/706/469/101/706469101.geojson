@@ -1,0 +1,71 @@
+{
+  "id": 706469101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810123,43.278129,-85.810123,43.278129",
+    "geom:latitude":43.278129,
+    "geom:longitude":-85.810123,
+    "iso:country":"US",
+    "sg:address":"17615 Bailey Rd",
+    "sg:city":"Bailey",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 8040",
+    "sg:postcode":"49303",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appraisal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16GzTDDA6eePY5XvF41BJ7_43.278129_-85.810123@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803831,
+    "wof:geomhash":"9ac55544a08ae3c3d2b345d907e3378d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706469101
+        }
+    ],
+    "wof:id":706469101,
+    "wof:lastmodified":1461803831,
+    "wof:name":"Haden Appraisal",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraisal"
+    ]
+},
+  "bbox": [
+    -85.810123,
+    43.278129,
+    -85.810123,
+    43.278129
+],
+  "geometry": {"coordinates":[-85.810123,43.278129],"type":"Point"}
+}

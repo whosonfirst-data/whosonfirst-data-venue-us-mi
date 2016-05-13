@@ -1,0 +1,78 @@
+{
+  "id": 706492121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748664,42.740934,-84.748664,42.740934",
+    "geom:latitude":42.740934,
+    "geom:longitude":-84.748664,
+    "iso:country":"US",
+    "sg:address":"105 E Saginaw Hwy",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 3719",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jJ305UWEOuXifwZB7OoXa_42.740934_-84.748664@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804446,
+    "wof:geomhash":"345a733ab1b6f53f3e46380cd2f82f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706492121
+        }
+    ],
+    "wof:id":706492121,
+    "wof:lastmodified":1461804446,
+    "wof:name":"Bob's Marathon",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "oil"
+    ]
+},
+  "bbox": [
+    -84.748664,
+    42.740934,
+    -84.748664,
+    42.740934
+],
+  "geometry": {"coordinates":[-84.74866400000001,42.740934],"type":"Point"}
+}

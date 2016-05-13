@@ -1,0 +1,71 @@
+{
+  "id": 706586593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.423429,42.263286,-84.423429,42.263286",
+    "geom:latitude":42.263286,
+    "geom:longitude":-84.423429,
+    "iso:country":"US",
+    "sg:address":"1190 N West Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 3001",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QA0OlEkFKAsgDglyol9lj_42.263286_-84.423429@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806458,
+    "wof:geomhash":"4d3f15b606406e362e725e571b020363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706586593
+        }
+    ],
+    "wof:id":706586593,
+    "wof:lastmodified":1461806458,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.423429,
+    42.263286,
+    -84.423429,
+    42.263286
+],
+  "geometry": {"coordinates":[-84.423429,42.263286],"type":"Point"}
+}

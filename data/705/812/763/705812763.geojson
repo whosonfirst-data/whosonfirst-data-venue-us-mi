@@ -1,0 +1,89 @@
+{
+  "id": 705812763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.902068,42.456725,-82.902068,42.456725",
+    "geom:latitude":42.456725,
+    "geom:longitude":-82.902068,
+    "iso:country":"US",
+    "sg:address":"22050 Greater Mack Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 779 9100",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "orthopedic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524409,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWjSPcVhleLXQiU22ugw2_42.456725_-82.902068@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789295,
+    "wof:geomhash":"46273f2dba03b8a5a64e3682e221b738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":705812763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":705812763
+        }
+    ],
+    "wof:id":705812763,
+    "wof:lastmodified":1461789295,
+    "wof:name":"Orthopaedic Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "orthopedic"
+    ]
+},
+  "bbox": [
+    -82.902068,
+    42.456725,
+    -82.902068,
+    42.456725
+],
+  "geometry": {"coordinates":[-82.902068,42.456725],"type":"Point"}
+}

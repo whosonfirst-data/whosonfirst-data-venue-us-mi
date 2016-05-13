@@ -1,0 +1,71 @@
+{
+  "id": 706576667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.414745,42.255595,-84.414745,42.255595",
+    "geom:latitude":42.255595,
+    "geom:longitude":-84.414745,
+    "iso:country":"US",
+    "sg:address":"603 Lansing Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 8371",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Zcpynw9pyLaZU8FzfXZ2_42.255595_-84.414745@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806226,
+    "wof:geomhash":"28f74bb63e76dbc620d2e7a4811c94cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706576667
+        }
+    ],
+    "wof:id":706576667,
+    "wof:lastmodified":1461806226,
+    "wof:name":"Central Clinic",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.414745,
+    42.255595,
+    -84.414745,
+    42.255595
+],
+  "geometry": {"coordinates":[-84.414745,42.255595],"type":"Point"}
+}

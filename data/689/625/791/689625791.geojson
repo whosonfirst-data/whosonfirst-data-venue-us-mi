@@ -1,0 +1,76 @@
+{
+  "id": 689625791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2597,43.19527,-86.2597,43.19527",
+    "geom:latitude":43.19527,
+    "geom:longitude":-86.2597,
+    "iso:country":"US",
+    "sg:address":"3142 Glade St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 8752",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NQQxH9kHIaTcuzDBdaONd_43.195270_-86.259700@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777051,
+    "wof:geomhash":"934d668eb00b3c13c56c2dd5ebab5680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689625791
+        }
+    ],
+    "wof:id":689625791,
+    "wof:lastmodified":1461777051,
+    "wof:name":"Family Chiropractic Center",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.2597,
+    43.19527,
+    -86.2597,
+    43.19527
+],
+  "geometry": {"coordinates":[-86.2597,43.19527],"type":"Point"}
+}

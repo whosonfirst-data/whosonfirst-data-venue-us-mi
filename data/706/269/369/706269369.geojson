@@ -1,0 +1,71 @@
+{
+  "id": 706269369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.113092,42.758643,-83.113092,42.758643",
+    "geom:latitude":42.758643,
+    "geom:longitude":-83.113092,
+    "iso:country":"US",
+    "sg:address":"2941 Woodcock Ct",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 651 3424",
+    "sg:postcode":"48306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896789,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ODmMT6J9luWVApZLcNy1F_42.758643_-83.113092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799600,
+    "wof:geomhash":"c69d7a55cac5ef5550aed9941aa17aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896789,
+            "region_id":85688599,
+            "venue_id":706269369
+        }
+    ],
+    "wof:id":706269369,
+    "wof:lastmodified":1461799600,
+    "wof:name":"Partrick Plumbing Svc",
+    "wof:parent_id":85896789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.113092,
+    42.758643,
+    -83.113092,
+    42.758643
+],
+  "geometry": {"coordinates":[-83.11309199999999,42.758643],"type":"Point"}
+}

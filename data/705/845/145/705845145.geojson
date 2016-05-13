@@ -1,0 +1,73 @@
+{
+  "id": 705845145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252152,41.816521,-86.252152,41.816521",
+    "geom:latitude":41.816521,
+    "geom:longitude":-86.252152,
+    "iso:country":"US",
+    "sg:address":"911 S 3rd St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 4320",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SME6KonKsZqeBAIQeoQmq_41.816521_-86.252152@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790071,
+    "wof:geomhash":"06ea65131006e5749713f90361f16f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705845145
+        }
+    ],
+    "wof:id":705845145,
+    "wof:lastmodified":1461790071,
+    "wof:name":"Silverbrook Manor Inc",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.252152,
+    41.816521,
+    -86.252152,
+    41.816521
+],
+  "geometry": {"coordinates":[-86.252152,41.816521],"type":"Point"}
+}

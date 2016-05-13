@@ -1,0 +1,71 @@
+{
+  "id": 706215239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.283776,43.184579,-86.283776,43.184579",
+    "geom:latitude":43.184579,
+    "geom:longitude":-86.283776,
+    "iso:country":"US",
+    "sg:address":"3871 Wickham Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 5264",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ebMNXpPeGNT9jPKMnFptV_43.184579_-86.283776@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798396,
+    "wof:geomhash":"417fee957f132fba234e3dafd5aad7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706215239
+        }
+    ],
+    "wof:id":706215239,
+    "wof:lastmodified":1461798396,
+    "wof:name":"Bradley W Merrills MD",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.283776,
+    43.184579,
+    -86.283776,
+    43.184579
+],
+  "geometry": {"coordinates":[-86.283776,43.184579],"type":"Point"}
+}

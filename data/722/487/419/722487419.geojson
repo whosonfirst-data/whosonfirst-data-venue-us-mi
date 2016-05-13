@@ -1,0 +1,91 @@
+{
+  "id": 722487419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.258552,42.416888,-83.258552,42.416888",
+    "geom:latitude":42.416888,
+    "geom:longitude":-83.258552,
+    "iso:country":"US",
+    "sg:address":"22100 Grand River",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 794 0888",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CZ4ZJ7dk4XsYAngnr7V6t_42.416888_-83.258552@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812576,
+    "wof:geomhash":"9a507e10f5ddc6fe6081b9e1a66cd6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":722487419
+        }
+    ],
+    "wof:id":722487419,
+    "wof:lastmodified":1461812576,
+    "wof:name":"Detroit Tire and Wheel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -83.258552,
+    42.416888,
+    -83.258552,
+    42.416888
+],
+  "geometry": {"coordinates":[-83.25855199999999,42.416888],"type":"Point"}
+}

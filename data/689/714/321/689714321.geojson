@@ -1,0 +1,73 @@
+{
+  "id": 689714321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625259,42.866096,-85.625259,42.866096",
+    "geom:latitude":42.866096,
+    "geom:longitude":-85.625259,
+    "iso:country":"US",
+    "sg:address":"5215 Kalamazoo Ave SE",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 0160",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BhFFzdlvqJ9aqKjlmQuyu_42.866096_-85.625259@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779508,
+    "wof:geomhash":"6bb36c78be1bd229a4c4bf5318db9a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689714321
+        }
+    ],
+    "wof:id":689714321,
+    "wof:lastmodified":1461779508,
+    "wof:name":"Don & Son Auto Repair",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.625259,
+    42.866096,
+    -85.625259,
+    42.866096
+],
+  "geometry": {"coordinates":[-85.625259,42.866096],"type":"Point"}
+}

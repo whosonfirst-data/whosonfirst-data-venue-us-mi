@@ -1,0 +1,86 @@
+{
+  "id": 722512007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.405017,42.548938,-83.405017,42.548938",
+    "geom:latitude":42.548938,
+    "geom:longitude":-83.405017,
+    "iso:country":"US",
+    "sg:address":"6285 Celeste Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 788 9673",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85896633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M8PWCq9e40hUewANu8z1I_42.548938_-83.405017@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813568,
+    "wof:geomhash":"7a5d6a1bdd870af72a2d952ebc68ad57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512007
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896633,
+            "region_id":85688599,
+            "venue_id":722512007
+        }
+    ],
+    "wof:id":722512007,
+    "wof:lastmodified":1461813568,
+    "wof:name":"Chauffeured Transportation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -83.405017,
+    42.548938,
+    -83.405017,
+    42.548938
+],
+  "geometry": {"coordinates":[-83.405017,42.548938],"type":"Point"}
+}

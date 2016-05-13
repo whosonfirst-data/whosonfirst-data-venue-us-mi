@@ -1,0 +1,71 @@
+{
+  "id": 706653703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.920329,42.844323,-85.920329,42.844323",
+    "geom:latitude":42.844323,
+    "geom:longitude":-85.920329,
+    "iso:country":"US",
+    "sg:address":"4235 56th Ave",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 875 7858",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805159,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XRth0F9tVcgnkz3OW2E7R_42.844323_-85.920329@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808119,
+    "wof:geomhash":"5aa2ab7cb74b72a0b497cf3e37bb5f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85805159,
+            "region_id":85688599,
+            "venue_id":706653703
+        }
+    ],
+    "wof:id":706653703,
+    "wof:lastmodified":1461808119,
+    "wof:name":"Jim Kooienga Trucking",
+    "wof:parent_id":85805159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.920329,
+    42.844323,
+    -85.920329,
+    42.844323
+],
+  "geometry": {"coordinates":[-85.920329,42.844323],"type":"Point"}
+}

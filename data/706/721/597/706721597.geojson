@@ -1,0 +1,76 @@
+{
+  "id": 706721597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.007502,42.519399,-83.007502,42.519399",
+    "geom:latitude":42.519399,
+    "geom:longitude":-83.007502,
+    "iso:country":"US",
+    "sg:address":"30730 Hoover Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 558 7421",
+    "sg:postcode":"48093",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896845,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NpJ4Ag6KwY5qSsTxSSB7r_42.519399_-83.007502@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461811047,
+    "wof:geomhash":"1ccbb2571062216f68b047dc7ba79647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":85896845,
+            "region_id":85688599,
+            "venue_id":706721597
+        }
+    ],
+    "wof:id":706721597,
+    "wof:lastmodified":1461811047,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85896845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.007502,
+    42.519399,
+    -83.007502,
+    42.519399
+],
+  "geometry": {"coordinates":[-83.007502,42.519399],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 706732267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.420902,42.359356,-83.420902,42.359356",
+    "geom:latitude":42.359356,
+    "geom:longitude":-83.420902,
+    "iso:country":"US",
+    "sg:address":"9449 Hix Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 744 2790",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d7lyDl0rfBG8tdg14mCDO_42.359356_-83.420902@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811506,
+    "wof:geomhash":"c711aeac86c09fb3ec4dfe27b09d50f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706732267
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706732267
+        }
+    ],
+    "wof:id":706732267,
+    "wof:lastmodified":1461811506,
+    "wof:name":"Livonia Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.420902,
+    42.359356,
+    -83.420902,
+    42.359356
+],
+  "geometry": {"coordinates":[-83.420902,42.359356],"type":"Point"}
+}

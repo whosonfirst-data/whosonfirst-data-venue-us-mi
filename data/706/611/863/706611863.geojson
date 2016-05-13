@@ -1,0 +1,67 @@
+{
+  "id": 706611863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724136,43.01544,-85.724136,43.01544",
+    "geom:latitude":43.01544,
+    "geom:longitude":-85.724136,
+    "iso:country":"US",
+    "sg:address":"3000 Walker Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 735 5070",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:website":"www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S3aWu2g1ZnH6e8eneCkYt_43.015440_-85.724136@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806964,
+    "wof:geomhash":"44573daba0c5c6a9134aab2ed9fa9bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706611863
+        }
+    ],
+    "wof:id":706611863,
+    "wof:lastmodified":1461806964,
+    "wof:name":"Meijer C Store",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.724136,
+    43.01544,
+    -85.724136,
+    43.01544
+],
+  "geometry": {"coordinates":[-85.724136,43.01544],"type":"Point"}
+}

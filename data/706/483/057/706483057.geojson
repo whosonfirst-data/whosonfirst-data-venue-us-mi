@@ -1,0 +1,71 @@
+{
+  "id": 706483057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.563865,43.453683,-85.563865,43.453683",
+    "geom:latitude":43.453683,
+    "geom:longitude":-85.563865,
+    "iso:country":"US",
+    "sg:address":"9477 E 56th St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 937 7105",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P0KIvRAUhB1XwWF5NSg1d_43.453683_-85.563865@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804132,
+    "wof:geomhash":"2b650216637889e003fd5b75040af9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706483057
+        }
+    ],
+    "wof:id":706483057,
+    "wof:lastmodified":1461804132,
+    "wof:name":"R & M Transport",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.563865,
+    43.453683,
+    -85.563865,
+    43.453683
+],
+  "geometry": {"coordinates":[-85.56386500000001,43.453683],"type":"Point"}
+}

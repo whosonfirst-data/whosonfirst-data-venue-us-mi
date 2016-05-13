@@ -1,0 +1,85 @@
+{
+  "id": 706722599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.1492,42.5919,-83.1492,42.5919",
+    "geom:latitude":42.5919,
+    "geom:longitude":-83.1492,
+    "iso:country":"US",
+    "sg:address":"5053 Livernois Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 879 1488",
+    "sg:postcode":"48098",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "groomers",
+        "sitting"
+    ],
+    "sg:website":"www.somersetgrooming.com/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rNguHPp1syNlTElj9T63r_42.591900_-83.149200@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811087,
+    "wof:geomhash":"149264f42d291c7018e6983ccaeeee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706722599
+        }
+    ],
+    "wof:id":706722599,
+    "wof:lastmodified":1461811087,
+    "wof:name":"Somerset Dog Grooming",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "groomers",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.1492,
+    42.5919,
+    -83.1492,
+    42.5919
+],
+  "geometry": {"coordinates":[-83.14919999999999,42.5919],"type":"Point"}
+}

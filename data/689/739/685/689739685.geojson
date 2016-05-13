@@ -1,0 +1,71 @@
+{
+  "id": 689739685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.592135,42.223229,-83.592135,42.223229",
+    "geom:latitude":42.223229,
+    "geom:longitude":-83.592135,
+    "iso:country":"US",
+    "sg:address":"1632 Laurel Bay Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 1400",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PcplYpvwwjiLxQrECIzvR_42.223229_-83.592135@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780183,
+    "wof:geomhash":"9f48652f89c8b2f101d71deb34b7ca72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":689739685
+        }
+    ],
+    "wof:id":689739685,
+    "wof:lastmodified":1461780183,
+    "wof:name":"Laurel Bay Apartments",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.592135,
+    42.223229,
+    -83.592135,
+    42.223229
+],
+  "geometry": {"coordinates":[-83.592135,42.223229],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705748283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.186939,43.234141,-86.186939,43.234141",
+    "geom:latitude":43.234141,
+    "geom:longitude":-86.186939,
+    "iso:country":"US",
+    "sg:address":"2279 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 5715",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cGxy4D4ZJ0GlI9YtRsqxL_43.234141_-86.186939@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787813,
+    "wof:geomhash":"e7d8f1694e5cf79e28c895c4da475cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705748283
+        }
+    ],
+    "wof:id":705748283,
+    "wof:lastmodified":1461787813,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.186939,
+    43.234141,
+    -86.186939,
+    43.234141
+],
+  "geometry": {"coordinates":[-86.186939,43.234141],"type":"Point"}
+}

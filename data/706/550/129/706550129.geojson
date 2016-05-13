@@ -1,0 +1,73 @@
+{
+  "id": 706550129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.221322,43.215944,-86.221322,43.215944",
+    "geom:latitude":43.215944,
+    "geom:longitude":-86.221322,
+    "iso:country":"US",
+    "sg:address":"934 E Keating Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 1530",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eUSZsThapmYWdNU6VMJYD_43.215944_-86.221322@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805661,
+    "wof:geomhash":"12f7b30314262431a22c95a9e6e38502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706550129
+        }
+    ],
+    "wof:id":706550129,
+    "wof:lastmodified":1461805661,
+    "wof:name":"National Guard",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -86.221322,
+    43.215944,
+    -86.221322,
+    43.215944
+],
+  "geometry": {"coordinates":[-86.221322,43.215944],"type":"Point"}
+}

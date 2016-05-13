@@ -1,0 +1,75 @@
+{
+  "id": 689475709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.393826,46.545411,-87.393826,46.545411",
+    "geom:latitude":46.545411,
+    "geom:longitude":-87.393826,
+    "iso:country":"US",
+    "sg:address":"150 W Ridge St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 8753",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s42JkXKyNYH6dKbN438Ql_46.545411_-87.393826@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772398,
+    "wof:geomhash":"b31c6ee8f432e03becb3842e5c7c76af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689475709
+        }
+    ],
+    "wof:id":689475709,
+    "wof:lastmodified":1461772398,
+    "wof:name":"Art Academy",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -87.393826,
+    46.545411,
+    -87.393826,
+    46.545411
+],
+  "geometry": {"coordinates":[-87.393826,46.545411],"type":"Point"}
+}

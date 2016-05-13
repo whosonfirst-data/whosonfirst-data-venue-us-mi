@@ -1,0 +1,71 @@
+{
+  "id": 706278777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.391117,46.579809,-87.391117,46.579809",
+    "geom:latitude":46.579809,
+    "geom:longitude":-87.391117,
+    "iso:country":"US",
+    "sg:address":"2701 N Lakeshore Blvd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 4500",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YMHPSstcWcjeQltWzeqWf_46.579809_-87.391117@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799824,
+    "wof:geomhash":"423a6d13015aa743b86f4617de1dc288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706278777
+        }
+    ],
+    "wof:id":706278777,
+    "wof:lastmodified":1461799824,
+    "wof:name":"Presque Isle Power Plant",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -87.391117,
+    46.579809,
+    -87.391117,
+    46.579809
+],
+  "geometry": {"coordinates":[-87.39111699999999,46.579809],"type":"Point"}
+}

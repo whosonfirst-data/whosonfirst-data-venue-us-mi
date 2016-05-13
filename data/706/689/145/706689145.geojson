@@ -1,0 +1,74 @@
+{
+  "id": 706689145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251951,43.267548,-86.251951,43.267548",
+    "geom:latitude":43.267548,
+    "geom:longitude":-86.251951,
+    "iso:country":"US",
+    "sg:address":"485 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/north-muskegon/86875-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 2466",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H94dyb1bc4pWfre9GN2hd_43.267513_-86.252061@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809638,
+    "wof:geomhash":"4dd466c8c3c63907d98f2702291b3006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706689145
+        }
+    ],
+    "wof:id":706689145,
+    "wof:lastmodified":1461809638,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.251951,
+    43.267548,
+    -86.251951,
+    43.267548
+],
+  "geometry": {"coordinates":[-86.25195100000001,43.267548],"type":"Point"}
+}

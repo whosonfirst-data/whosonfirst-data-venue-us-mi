@@ -1,0 +1,69 @@
+{
+  "id": 706424191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.22719,41.880976,-86.22719,41.880976",
+    "geom:latitude":41.880976,
+    "geom:longitude":-86.22719,
+    "iso:country":"US",
+    "sg:address":"3127 N 5th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2840",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lq11wBOAwz92E3XKySzFu_41.880976_-86.227190@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802871,
+    "wof:geomhash":"faad8ad747c6a39eac342048fd1df21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706424191
+        }
+    ],
+    "wof:id":706424191,
+    "wof:lastmodified":1461802871,
+    "wof:name":"Town & Country Veterinary",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.22719,
+    41.880976,
+    -86.22719,
+    41.880976
+],
+  "geometry": {"coordinates":[-86.22718999999999,41.880976],"type":"Point"}
+}

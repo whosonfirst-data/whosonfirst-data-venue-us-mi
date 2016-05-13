@@ -1,0 +1,71 @@
+{
+  "id": 689568333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.406586,42.248366,-84.406586,42.248366",
+    "geom:latitude":42.248366,
+    "geom:longitude":-84.406586,
+    "iso:country":"US",
+    "sg:address":"175 W Pearl St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 9403",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qYhplXTfK3zcdGIswVKtz_42.248366_-84.406586@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775242,
+    "wof:geomhash":"7f85cdb7eb267ed1011d011f4680c5de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689568333
+        }
+    ],
+    "wof:id":689568333,
+    "wof:lastmodified":1461775242,
+    "wof:name":"Precision Instrument Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.406586,
+    42.248366,
+    -84.406586,
+    42.248366
+],
+  "geometry": {"coordinates":[-84.406586,42.248366],"type":"Point"}
+}

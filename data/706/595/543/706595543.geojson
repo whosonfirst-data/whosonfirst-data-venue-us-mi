@@ -1,0 +1,69 @@
+{
+  "id": 706595543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.620286,44.747172,-85.620286,44.747172",
+    "geom:latitude":44.747172,
+    "geom:longitude":-85.620286,
+    "iso:country":"US",
+    "sg:address":"1525 S Cass St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 3900",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ve8W0ysKgL3Ri0LIjVhM_44.747172_-85.620286@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806628,
+    "wof:geomhash":"f50edcfb94da9559487db1b67d4919ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706595543
+        }
+    ],
+    "wof:id":706595543,
+    "wof:lastmodified":1461806628,
+    "wof:name":"Clarke-Everett Dog & Cat Hosp",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.620286,
+    44.747172,
+    -85.620286,
+    44.747172
+],
+  "geometry": {"coordinates":[-85.62028599999999,44.747172],"type":"Point"}
+}

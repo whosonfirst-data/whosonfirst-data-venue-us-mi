@@ -1,0 +1,75 @@
+{
+  "id": 705811951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.690286,41.886373,-83.690286,41.886373",
+    "geom:latitude":41.886373,
+    "geom:longitude":-83.690286,
+    "iso:country":"US",
+    "sg:address":"4481 Anders Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 2070",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CofoP8Sqa7034vHHxC602_41.886373_-83.690286@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789277,
+    "wof:geomhash":"484d3817bcc751b70679744f96a4fd0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":705811951
+        }
+    ],
+    "wof:id":705811951,
+    "wof:lastmodified":1461789277,
+    "wof:name":"Williams Bros",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.690286,
+    41.886373,
+    -83.690286,
+    41.886373
+],
+  "geometry": {"coordinates":[-83.690286,41.886373],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706440881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.322338,41.806611,-86.322338,41.806611",
+    "geom:latitude":41.806611,
+    "geom:longitude":-86.322338,
+    "iso:country":"US",
+    "sg:address":"1655 Mayflower Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 1830",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yF1EuquFZIpPdIOjlFc16_41.806611_-86.322338@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803230,
+    "wof:geomhash":"bb4490792c4de82bdd5177ec85e8df66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706440881
+        }
+    ],
+    "wof:id":706440881,
+    "wof:lastmodified":1461803230,
+    "wof:name":"Sud's Truck Wash",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -86.322338,
+    41.806611,
+    -86.322338,
+    41.806611
+],
+  "geometry": {"coordinates":[-86.322338,41.806611],"type":"Point"}
+}

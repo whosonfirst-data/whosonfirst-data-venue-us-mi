@@ -1,0 +1,71 @@
+{
+  "id": 689527329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.472906,43.014569,-82.472906,43.014569",
+    "geom:latitude":43.014569,
+    "geom:longitude":-82.472906,
+    "iso:country":"US",
+    "sg:address":"3456 N River Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 4633",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oZfNB5GZaTa1CGw21wO2v_43.014569_-82.472906@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774002,
+    "wof:geomhash":"7d4bfa68e3443e855bdcf9cd1679ced1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689527329
+        }
+    ],
+    "wof:id":689527329,
+    "wof:lastmodified":1461774002,
+    "wof:name":"J & J Maintenance",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -82.472906,
+    43.014569,
+    -82.472906,
+    43.014569
+],
+  "geometry": {"coordinates":[-82.47290599999999,43.014569],"type":"Point"}
+}

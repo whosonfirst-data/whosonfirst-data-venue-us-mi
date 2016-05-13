@@ -1,0 +1,74 @@
+{
+  "id": 706680355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302679,42.707199,-83.302679,42.707199",
+    "geom:latitude":42.707199,
+    "geom:longitude":-83.302679,
+    "iso:country":"US",
+    "sg:address":"130 Brown Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/auburn-hills/182137-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 393 7795",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821589,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HqWT6e7gWyCdUpAwo60Z1_42.707199_-83.302679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809292,
+    "wof:geomhash":"523da4fa8e7bfb91e58630a1b49b04ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85821589,
+            "region_id":85688599,
+            "venue_id":706680355
+        }
+    ],
+    "wof:id":706680355,
+    "wof:lastmodified":1461809292,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85821589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.302679,
+    42.707199,
+    -83.302679,
+    42.707199
+],
+  "geometry": {"coordinates":[-83.302679,42.707199],"type":"Point"}
+}

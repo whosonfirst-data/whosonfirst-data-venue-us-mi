@@ -1,0 +1,75 @@
+{
+  "id": 689950479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.547945,42.677713,-84.547945,42.677713",
+    "geom:latitude":42.677713,
+    "geom:longitude":-84.547945,
+    "iso:country":"US",
+    "sg:address":"5400 S Cedar St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 887 9379",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJbjkiW8dVRGlr6CxVgQW_42.677713_-84.547945@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785869,
+    "wof:geomhash":"2c4c5d4145e0daa09a5e0aab01e01008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689950479
+        }
+    ],
+    "wof:id":689950479,
+    "wof:lastmodified":1461785869,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.547945,
+    42.677713,
+    -84.547945,
+    42.677713
+],
+  "geometry": {"coordinates":[-84.547945,42.677713],"type":"Point"}
+}

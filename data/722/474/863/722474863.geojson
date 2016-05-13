@@ -1,0 +1,79 @@
+{
+  "id": 722474863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.447502,42.2943,-83.447502,42.2943",
+    "geom:latitude":42.2943,
+    "geom:longitude":-83.447502,
+    "iso:country":"US",
+    "sg:address":"1735 S Haggerty Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 1900",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896853,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DfExqAggVh8hf0uudF53U_42.294300_-83.447502@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812074,
+    "wof:geomhash":"82d89cd62a39ab4f6b345efa30db2a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896853,
+            "region_id":85688599,
+            "venue_id":722474863
+        }
+    ],
+    "wof:id":722474863,
+    "wof:lastmodified":1461812074,
+    "wof:name":"Haggerty Fruit Market",
+    "wof:parent_id":85896853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -83.447502,
+    42.2943,
+    -83.447502,
+    42.2943
+],
+  "geometry": {"coordinates":[-83.447502,42.2943],"type":"Point"}
+}

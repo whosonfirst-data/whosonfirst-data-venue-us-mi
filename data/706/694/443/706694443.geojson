@@ -1,0 +1,88 @@
+{
+  "id": 706694443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.950203,42.552101,-82.950203,42.552101",
+    "geom:latitude":42.552101,
+    "geom:longitude":-82.950203,
+    "iso:country":"US",
+    "sg:address":"34760 Garfield Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 9090",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.childtime.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896679,
+        102191575,
+        404507393,
+        85633793,
+        85951617,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XtvtMX0gxcpdnxx211h8j_42.552101_-82.950203@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809848,
+    "wof:geomhash":"3480c517ea187a463fde9d6f13a1c00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507393,
+            "locality_id":85951617,
+            "neighbourhood_id":85896679,
+            "region_id":85688599,
+            "venue_id":706694443
+        }
+    ],
+    "wof:id":706694443,
+    "wof:lastmodified":1461809848,
+    "wof:name":"Childtime Learning Centers",
+    "wof:parent_id":85896679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -82.950203,
+    42.552101,
+    -82.950203,
+    42.552101
+],
+  "geometry": {"coordinates":[-82.950203,42.552101],"type":"Point"}
+}

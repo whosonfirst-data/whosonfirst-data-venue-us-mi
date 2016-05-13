@@ -1,0 +1,78 @@
+{
+  "id": 705751491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.479967,42.910837,-82.479967,42.910837",
+    "geom:latitude":42.910837,
+    "geom:longitude":-82.479967,
+    "iso:country":"US",
+    "sg:address":"1325 Michigan Ave",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 7161",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09elNgVZyCH38e5pJOaha5_42.910837_-82.479967@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787878,
+    "wof:geomhash":"40fe4aad9c336aaf150b2b5b8c234b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":705751491
+        }
+    ],
+    "wof:id":705751491,
+    "wof:lastmodified":1461787878,
+    "wof:name":"Marysville High School Pool",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -82.479967,
+    42.910837,
+    -82.479967,
+    42.910837
+],
+  "geometry": {"coordinates":[-82.479967,42.910837],"type":"Point"}
+}

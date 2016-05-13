@@ -1,0 +1,80 @@
+{
+  "id": 706693397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.273499,42.515701,-83.273499,42.515701",
+    "geom:latitude":42.515701,
+    "geom:longitude":-83.273499,
+    "iso:country":"US",
+    "sg:address":"22305 W 13 Mile Rd",
+    "sg:city":"Beverly Hills",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 540 3729",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896669,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eaC8NQSNVFsMPcY2VDCxf_42.515701_-83.273499@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809810,
+    "wof:geomhash":"e86022787141d7c130706ba07b1d128f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896669,
+            "region_id":85688599,
+            "venue_id":706693397
+        }
+    ],
+    "wof:id":706693397,
+    "wof:lastmodified":1461809810,
+    "wof:name":"Detroit Country Day School",
+    "wof:parent_id":85896669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.273499,
+    42.515701,
+    -83.273499,
+    42.515701
+],
+  "geometry": {"coordinates":[-83.273499,42.515701],"type":"Point"}
+}

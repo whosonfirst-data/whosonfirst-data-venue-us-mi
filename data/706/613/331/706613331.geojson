@@ -1,0 +1,77 @@
+{
+  "id": 706613331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.49481,42.016232,-86.49481,42.016232",
+    "geom:latitude":42.016232,
+    "geom:longitude":-86.49481,
+    "iso:country":"US",
+    "sg:address":"5599 Cleveland Ave",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 2444",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "policy"
+    ],
+    "sg:website":"www.ltpd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ivVTfEQ4awjWz5ezu0syJ_42.016232_-86.494810@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806991,
+    "wof:geomhash":"17d7fa87c4b2c471065e23662ed6102f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":706613331
+        }
+    ],
+    "wof:id":706613331,
+    "wof:lastmodified":1461806991,
+    "wof:name":"Lincoln Township Police Dept",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "policy"
+    ]
+},
+  "bbox": [
+    -86.49481,
+    42.016232,
+    -86.49481,
+    42.016232
+],
+  "geometry": {"coordinates":[-86.49481,42.016232],"type":"Point"}
+}

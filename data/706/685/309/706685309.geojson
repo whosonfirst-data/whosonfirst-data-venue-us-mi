@@ -1,0 +1,78 @@
+{
+  "id": 706685309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.50817,43.086253,-85.50817,43.086253",
+    "geom:latitude":43.086253,
+    "geom:longitude":-85.50817,
+    "iso:country":"US",
+    "sg:address":"6485 Belding Rd NE",
+    "sg:city":"Rockford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cannon/142350-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 874 5200",
+    "sg:postcode":"49341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NjTaWzhi9xKGcxbz3rnnf_43.086253_-85.508170@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809495,
+    "wof:geomhash":"f2723bd170dad712bd1fa3e644b418ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706685309
+        }
+    ],
+    "wof:id":706685309,
+    "wof:lastmodified":1461809495,
+    "wof:name":"Subway",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.50817,
+    43.086253,
+    -85.50817,
+    43.086253
+],
+  "geometry": {"coordinates":[-85.50817000000001,43.086253],"type":"Point"}
+}

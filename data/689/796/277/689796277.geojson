@@ -1,0 +1,71 @@
+{
+  "id": 689796277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.15573,42.811835,-86.15573,42.811835",
+    "geom:latitude":42.811835,
+    "geom:longitude":-86.15573,
+    "iso:country":"US",
+    "sg:address":"15172 James St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 6495",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gnBOOcKj8uEzLRYGvBwAp_42.811835_-86.155730@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781750,
+    "wof:geomhash":"75300696b775e27c1cc5bb53c94166a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689796277
+        }
+    ],
+    "wof:id":689796277,
+    "wof:lastmodified":1461781750,
+    "wof:name":"Great Lakes Painting",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.15573,
+    42.811835,
+    -86.15573,
+    42.811835
+],
+  "geometry": {"coordinates":[-86.15573000000001,42.811835],"type":"Point"}
+}

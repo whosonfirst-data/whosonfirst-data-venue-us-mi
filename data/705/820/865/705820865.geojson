@@ -1,0 +1,71 @@
+{
+  "id": 705820865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.237995,41.868277,-86.237995,41.868277",
+    "geom:latitude":41.868277,
+    "geom:longitude":-86.237995,
+    "iso:country":"US",
+    "sg:address":"2908 N 5th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2980",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tile",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hS4GMlc34u0gYeNoCUrbV_41.868277_-86.237995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789501,
+    "wof:geomhash":"669ce1c8de0722c1ce62a83d49b3fb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705820865
+        }
+    ],
+    "wof:id":705820865,
+    "wof:lastmodified":1461789501,
+    "wof:name":"Cellardoor",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -86.237995,
+    41.868277,
+    -86.237995,
+    41.868277
+],
+  "geometry": {"coordinates":[-86.237995,41.868277],"type":"Point"}
+}

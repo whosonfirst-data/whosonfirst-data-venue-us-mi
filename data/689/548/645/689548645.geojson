@@ -1,0 +1,75 @@
+{
+  "id": 689548645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.801661,43.405715,-85.801661,43.405715",
+    "geom:latitude":43.405715,
+    "geom:longitude":-85.801661,
+    "iso:country":"US",
+    "sg:address":"15 E Pine Lake Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 1636",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uefZto4AKyPXHwnp5v3oi_43.405715_-85.801661@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774670,
+    "wof:geomhash":"264e81fcdda3aad37b375f9fa32d4c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689548645
+        }
+    ],
+    "wof:id":689548645,
+    "wof:lastmodified":1461774670,
+    "wof:name":"Newaygo Insurance Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -85.801661,
+    43.405715,
+    -85.801661,
+    43.405715
+],
+  "geometry": {"coordinates":[-85.801661,43.405715],"type":"Point"}
+}

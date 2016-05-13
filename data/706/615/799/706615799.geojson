@@ -1,0 +1,69 @@
+{
+  "id": 706615799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.429573,42.27869,-84.429573,42.27869",
+    "geom:latitude":42.27869,
+    "geom:longitude":-84.429573,
+    "iso:country":"US",
+    "sg:address":"2457 Shirley Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5162",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_761xxTgzs2erUYV7UkgIi4_42.278690_-84.429573@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807066,
+    "wof:geomhash":"0e701ceb183c5755deb72274b54185b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706615799
+        }
+    ],
+    "wof:id":706615799,
+    "wof:lastmodified":1461807066,
+    "wof:name":"Clinton Trail Animal Hospital",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.429573,
+    42.27869,
+    -84.429573,
+    42.27869
+],
+  "geometry": {"coordinates":[-84.429573,42.27869],"type":"Point"}
+}

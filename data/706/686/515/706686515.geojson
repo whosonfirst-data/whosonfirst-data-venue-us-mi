@@ -1,0 +1,78 @@
+{
+  "id": 706686515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.568844,42.91254,-85.568844,42.91254",
+    "geom:latitude":42.91254,
+    "geom:longitude":-85.568844,
+    "iso:country":"US",
+    "sg:address":"3993 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kentwood/58140-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 977 1900",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvIT2daTbk86zn6EbD6na_42.912540_-85.568844@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809538,
+    "wof:geomhash":"c4de6a619911d5dbb5d89db9ffbae875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686515
+        }
+    ],
+    "wof:id":706686515,
+    "wof:lastmodified":1461809538,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.568844,
+    42.91254,
+    -85.568844,
+    42.91254
+],
+  "geometry": {"coordinates":[-85.568844,42.91254],"type":"Point"}
+}

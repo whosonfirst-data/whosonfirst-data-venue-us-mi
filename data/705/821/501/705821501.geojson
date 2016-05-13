@@ -1,0 +1,73 @@
+{
+  "id": 705821501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209326,43.224208,-86.209326,43.224208",
+    "geom:latitude":43.224208,
+    "geom:longitude":-86.209326,
+    "iso:country":"US",
+    "sg:address":"1580 Creston St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9102",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78kejFvQRLUn1pjIpmhbsK_43.224208_-86.209326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789519,
+    "wof:geomhash":"ba08deb982768b0f232357b8f5be5819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705821501
+        }
+    ],
+    "wof:id":705821501,
+    "wof:lastmodified":1461789519,
+    "wof:name":"Rich & Howell Plumbing Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.209326,
+    43.224208,
+    -86.209326,
+    43.224208
+],
+  "geometry": {"coordinates":[-86.209326,43.224208],"type":"Point"}
+}

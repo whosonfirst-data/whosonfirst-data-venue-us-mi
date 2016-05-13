@@ -1,0 +1,77 @@
+{
+  "id": 705882599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.73172,42.88469,-85.73172,42.88469",
+    "geom:latitude":42.88469,
+    "geom:longitude":-85.73172,
+    "iso:country":"US",
+    "sg:address":"2663 44th St SW",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 538 2100",
+    "sg:postcode":"49519",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qBAvZ9cJLa8YGHauIYm3G_42.884690_-85.731720@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790983,
+    "wof:geomhash":"e2645157545a5034354465033d42250c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":705882599
+        }
+    ],
+    "wof:id":705882599,
+    "wof:lastmodified":1461790983,
+    "wof:name":"Peter W L Olson MD",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.73172,
+    42.88469,
+    -85.73172,
+    42.88469
+],
+  "geometry": {"coordinates":[-85.73172,42.88469],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706064721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.415379,46.543618,-87.415379,46.543618",
+    "geom:latitude":46.543618,
+    "geom:longitude":-87.415379,
+    "iso:country":"US",
+    "sg:address":"910 W Baraga Ave",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 2028",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.wm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tp0bJgGmoOXcn0UGD13Tl_46.543618_-87.415379@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794914,
+    "wof:geomhash":"6d497fc25b79bd02b545f0387d2623a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706064721
+        }
+    ],
+    "wof:id":706064721,
+    "wof:lastmodified":1461794914,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.415379,
+    46.543618,
+    -87.415379,
+    46.543618
+],
+  "geometry": {"coordinates":[-87.415379,46.543618],"type":"Point"}
+}

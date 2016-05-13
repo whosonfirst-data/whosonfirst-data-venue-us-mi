@@ -1,0 +1,69 @@
+{
+  "id": 689742083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.311544,42.277092,-84.311544,42.277092",
+    "geom:latitude":42.277092,
+    "geom:longitude":-84.311544,
+    "iso:country":"US",
+    "sg:address":"5505 Ann Arbor Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 0104",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lqXuEUsK0IQFCTI14cfUn_42.277092_-84.311544@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780247,
+    "wof:geomhash":"ad61974fe4adb81811221749eb3a2e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689742083
+        }
+    ],
+    "wof:id":689742083,
+    "wof:lastmodified":1461780247,
+    "wof:name":"East Jackson Coin Laundry",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.311544,
+    42.277092,
+    -84.311544,
+    42.277092
+],
+  "geometry": {"coordinates":[-84.311544,42.277092],"type":"Point"}
+}

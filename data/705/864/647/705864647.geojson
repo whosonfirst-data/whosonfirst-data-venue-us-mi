@@ -1,0 +1,71 @@
+{
+  "id": 705864647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.225487,42.604577,-83.225487,42.604577",
+    "geom:latitude":42.604577,
+    "geom:longitude":-83.225487,
+    "iso:country":"US",
+    "sg:address":"2307 Lost Tree Way",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 844 1010",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vi1mFKsRXFrrtmbI6umIP_42.604577_-83.225487@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790548,
+    "wof:geomhash":"ca45a79ec64d16099d72dcb46f4bf9c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":705864647
+        }
+    ],
+    "wof:id":705864647,
+    "wof:lastmodified":1461790548,
+    "wof:name":"Cardiology & Vascular Assoc",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.225487,
+    42.604577,
+    -83.225487,
+    42.604577
+],
+  "geometry": {"coordinates":[-83.225487,42.604577],"type":"Point"}
+}

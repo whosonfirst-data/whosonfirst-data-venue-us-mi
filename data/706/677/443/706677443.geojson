@@ -1,0 +1,80 @@
+{
+  "id": 706677443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.256559,42.303321,-83.256559,42.303321",
+    "geom:latitude":42.303321,
+    "geom:longitude":-83.256559,
+    "iso:country":"US",
+    "sg:address":"22815 Michigan Ave",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dearborn/43694-zoup!/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 859 8888",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "soup",
+        "american",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ly7GF3L6bGRXggtoCfre_42.303321_-83.256559@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809189,
+    "wof:geomhash":"5c2341193ebc8baa34a421adff757362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":706677443
+        }
+    ],
+    "wof:id":706677443,
+    "wof:lastmodified":1461809189,
+    "wof:name":"Zoup!",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "salad"
+    ]
+},
+  "bbox": [
+    -83.256559,
+    42.303321,
+    -83.256559,
+    42.303321
+],
+  "geometry": {"coordinates":[-83.256559,42.303321],"type":"Point"}
+}

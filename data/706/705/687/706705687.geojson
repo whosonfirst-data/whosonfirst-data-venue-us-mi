@@ -1,0 +1,92 @@
+{
+  "id": 706705687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.123703,42.521599,-83.123703,42.521599",
+    "geom:latitude":42.521599,
+    "geom:longitude":-83.123703,
+    "iso:country":"US",
+    "sg:address":"31201 Dorchester Ave",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 585 9150",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ],
+    "sg:website":"www.japhet.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524503,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69tSQP2P9YEUgCYVG73lSt_42.521599_-83.123703@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810313,
+    "wof:geomhash":"5927d07d776523ffca90bb08b109ae9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":420524503,
+            "region_id":85688599,
+            "venue_id":706705687
+        }
+    ],
+    "wof:id":706705687,
+    "wof:lastmodified":1461810313,
+    "wof:name":"Japhet School",
+    "wof:parent_id":420524503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.123703,
+    42.521599,
+    -83.123703,
+    42.521599
+],
+  "geometry": {"coordinates":[-83.12370300000001,42.521599],"type":"Point"}
+}

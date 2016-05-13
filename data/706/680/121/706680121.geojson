@@ -1,0 +1,70 @@
+{
+  "id": 706680121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.032972,42.641773,-83.032972,42.641773",
+    "geom:latitude":42.641773,
+    "geom:longitude":-83.032972,
+    "iso:country":"US",
+    "sg:address":"47154 Van Dyke Ave",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/shelby/208695-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 254 2344",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xid0ZuFZ0wxg6i958BUMi_42.641773_-83.032972@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809284,
+    "wof:geomhash":"e70bbfd0b92ba05f8272d2acf9175319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706680121
+        }
+    ],
+    "wof:id":706680121,
+    "wof:lastmodified":1461809284,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.032972,
+    42.641773,
+    -83.032972,
+    42.641773
+],
+  "geometry": {"coordinates":[-83.032972,42.641773],"type":"Point"}
+}

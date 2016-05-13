@@ -1,0 +1,71 @@
+{
+  "id": 689716599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.486651,42.049243,-86.486651,42.049243",
+    "geom:latitude":42.049243,
+    "geom:longitude":-86.486651,
+    "iso:country":"US",
+    "sg:address":"3741 Lane Ct",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 556 1695",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zp9JOqZ7tnc8t7r3c8BLB_42.049243_-86.486651@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779570,
+    "wof:geomhash":"843ffb43e56668cc89b0735b7696bfbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689716599
+        }
+    ],
+    "wof:id":689716599,
+    "wof:lastmodified":1461779570,
+    "wof:name":"Shoreline Plumbing",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.486651,
+    42.049243,
+    -86.486651,
+    42.049243
+],
+  "geometry": {"coordinates":[-86.48665099999999,42.049243],"type":"Point"}
+}

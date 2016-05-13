@@ -1,0 +1,71 @@
+{
+  "id": 706394029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.397067,46.547241,-87.397067,46.547241",
+    "geom:latitude":46.547241,
+    "geom:longitude":-87.397067,
+    "iso:country":"US",
+    "sg:address":"318 W Michigan St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 9358",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72jz3QD0uiumObfbjoZnO9_46.547241_-87.397067@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802281,
+    "wof:geomhash":"7c8362a4554a767ba91635c5e9b53f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706394029
+        }
+    ],
+    "wof:id":706394029,
+    "wof:lastmodified":1461802281,
+    "wof:name":"Dust For You",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -87.397067,
+    46.547241,
+    -87.397067,
+    46.547241
+],
+  "geometry": {"coordinates":[-87.39706700000001,46.547241],"type":"Point"}
+}

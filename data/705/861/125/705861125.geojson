@@ -1,0 +1,69 @@
+{
+  "id": 705861125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.274243,41.999596,-86.274243,41.999596",
+    "geom:latitude":41.999596,
+    "geom:longitude":-86.274243,
+    "iso:country":"US",
+    "sg:address":"7627 W Eureka Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 208 1209",
+    "sg:postcode":"49111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "collision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F8Kjx5eij8CMhmmxKmUJi_41.999596_-86.274243@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790451,
+    "wof:geomhash":"2b356b9485252e4df5c1da4b0734d96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705861125
+        }
+    ],
+    "wof:id":705861125,
+    "wof:lastmodified":1461790451,
+    "wof:name":"Precision Collision",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collision"
+    ]
+},
+  "bbox": [
+    -86.274243,
+    41.999596,
+    -86.274243,
+    41.999596
+],
+  "geometry": {"coordinates":[-86.274243,41.999596],"type":"Point"}
+}

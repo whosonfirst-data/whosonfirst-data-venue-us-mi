@@ -1,0 +1,71 @@
+{
+  "id": 706375319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.588594,42.987155,-85.588594,42.987155",
+    "geom:latitude":42.987155,
+    "geom:longitude":-85.588594,
+    "iso:country":"US",
+    "sg:address":"3310 Eagle Park Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 0890",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FMbIrhf8LVLJteFl3LmvE_42.987155_-85.588594@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801911,
+    "wof:geomhash":"c08d0c68e1b9d56758c8d85f2a3590a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706375319
+        }
+    ],
+    "wof:id":706375319,
+    "wof:lastmodified":1461801911,
+    "wof:name":"West Michigan Heart PC",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.588594,
+    42.987155,
+    -85.588594,
+    42.987155
+],
+  "geometry": {"coordinates":[-85.588594,42.987155],"type":"Point"}
+}

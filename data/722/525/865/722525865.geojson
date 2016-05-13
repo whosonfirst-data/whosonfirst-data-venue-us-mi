@@ -1,0 +1,71 @@
+{
+  "id": 722525865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.547398,42.269125,-85.547398,42.269125",
+    "geom:latitude":42.269125,
+    "geom:longitude":-85.547398,
+    "iso:country":"US",
+    "sg:address":"2222 Glendenning Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 388 3110",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D4FXRJ4wwuEp7z9MOpaTh_42.269125_-85.547398@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814247,
+    "wof:geomhash":"97d70f36c434c599bbba7339a3e74733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":722525865
+        }
+    ],
+    "wof:id":722525865,
+    "wof:lastmodified":1461814247,
+    "wof:name":"Webster Electric",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.547398,
+    42.269125,
+    -85.547398,
+    42.269125
+],
+  "geometry": {"coordinates":[-85.547398,42.269125],"type":"Point"}
+}

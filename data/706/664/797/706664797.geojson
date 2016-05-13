@@ -1,0 +1,71 @@
+{
+  "id": 706664797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.488197,42.286201,-83.488197,42.286201",
+    "geom:latitude":42.286201,
+    "geom:longitude":-83.488197,
+    "iso:country":"US",
+    "sg:address":"45464 Elmwood Cir",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 398 5300",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3crZsy0qpIQYuAopJf92tO_42.286515_-83.488108@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808654,
+    "wof:geomhash":"5d3140ff865827ed120bd303efa6c1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":706664797
+        }
+    ],
+    "wof:id":706664797,
+    "wof:lastmodified":1461808654,
+    "wof:name":"Summit Creek Apartments",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.488197,
+    42.286201,
+    -83.488197,
+    42.286201
+],
+  "geometry": {"coordinates":[-83.488197,42.286201],"type":"Point"}
+}

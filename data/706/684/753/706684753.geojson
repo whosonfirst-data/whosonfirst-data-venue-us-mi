@@ -1,0 +1,74 @@
+{
+  "id": 706684753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.351038,41.827288,-86.351038,41.827288",
+    "geom:latitude":41.827288,
+    "geom:longitude":-86.351038,
+    "iso:country":"US",
+    "sg:address":"817 E Front St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/buchanan/50894-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 2400",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uaIv4jDfNicoAEOZDPsVK_41.827288_-86.351038@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809476,
+    "wof:geomhash":"856612f3829b69edb83b8727f4ce1e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706684753
+        }
+    ],
+    "wof:id":706684753,
+    "wof:lastmodified":1461809476,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.351038,
+    41.827288,
+    -86.351038,
+    41.827288
+],
+  "geometry": {"coordinates":[-86.351038,41.827288],"type":"Point"}
+}

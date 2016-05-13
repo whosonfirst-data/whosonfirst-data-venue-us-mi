@@ -1,0 +1,90 @@
+{
+  "id": 722511591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.345596,42.542198,-83.345596,42.542198",
+    "geom:latitude":42.542198,
+    "geom:longitude":-83.345596,
+    "iso:country":"US",
+    "sg:address":"5417 Centerbrook Dr",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 391 6200",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "pizza",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K6IThsftNai0r5ctJnOf8_42.542198_-83.345596@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813551,
+    "wof:geomhash":"ea20ef0a0fb8825a6795a4438312640f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":722511591
+        }
+    ],
+    "wof:id":722511591,
+    "wof:lastmodified":1461813551,
+    "wof:name":"Star Super Market",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "pizza",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.345596,
+    42.542198,
+    -83.345596,
+    42.542198
+],
+  "geometry": {"coordinates":[-83.345596,42.542198],"type":"Point"}
+}

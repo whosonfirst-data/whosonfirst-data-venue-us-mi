@@ -1,0 +1,73 @@
+{
+  "id": 706698329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.871201,42.5653,-82.871201,42.5653",
+    "geom:latitude":42.5653,
+    "geom:longitude":-82.871201,
+    "iso:country":"US",
+    "sg:address":"36375 Harper Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 790 0310",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x1MPTNVciScBzcmPWeSpS_42.565300_-82.871201@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461809993,
+    "wof:geomhash":"d20b6ad78fb91557f96b0de0f2dfda15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706698329
+        }
+    ],
+    "wof:id":706698329,
+    "wof:lastmodified":1461809993,
+    "wof:name":"Regis John DDS",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -82.871201,
+    42.5653,
+    -82.871201,
+    42.5653
+],
+  "geometry": {"coordinates":[-82.871201,42.5653],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 706493395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.010744,42.668328,-83.010744,42.668328",
+    "geom:latitude":42.668328,
+    "geom:longitude":-83.010744,
+    "iso:country":"US",
+    "sg:address":"50680 Corporate Dr",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 323 8280",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "medical",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sYJhaDvNdEjEEno5hc3Mi_42.668328_-83.010744@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804487,
+    "wof:geomhash":"8eb44d9d098a9b1b15cbb1cfd4dfe8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706493395
+        }
+    ],
+    "wof:id":706493395,
+    "wof:lastmodified":1461804487,
+    "wof:name":"Option Care",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "sales"
+    ]
+},
+  "bbox": [
+    -83.010744,
+    42.668328,
+    -83.010744,
+    42.668328
+],
+  "geometry": {"coordinates":[-83.010744,42.668328],"type":"Point"}
+}

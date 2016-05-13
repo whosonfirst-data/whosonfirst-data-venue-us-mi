@@ -1,0 +1,71 @@
+{
+  "id": 689498029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.533872,42.704848,-84.533872,42.704848",
+    "geom:latitude":42.704848,
+    "geom:longitude":-84.533872,
+    "iso:country":"US",
+    "sg:address":"2609 Harding Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 371 4515",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HcqkcPV3dhOdseb7DnOey_42.704848_-84.533872@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773040,
+    "wof:geomhash":"c58e93e3e5719faa0cea0bbb0e121dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689498029
+        }
+    ],
+    "wof:id":689498029,
+    "wof:lastmodified":1461773040,
+    "wof:name":"American Insurance Specialist",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -84.533872,
+    42.704848,
+    -84.533872,
+    42.704848
+],
+  "geometry": {"coordinates":[-84.533872,42.704848],"type":"Point"}
+}

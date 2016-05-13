@@ -1,0 +1,71 @@
+{
+  "id": 689485517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.054761,43.40913,-84.054761,43.40913",
+    "geom:latitude":43.40913,
+    "geom:longitude":-84.054761,
+    "iso:country":"US",
+    "sg:address":"821 Jody Dr",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 4476",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "snowmobile",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CNtX2t0akifDB8S3prDKP_43.409130_-84.054761@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772683,
+    "wof:geomhash":"75c06f8d7143d5aad688d12bceb83de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689485517
+        }
+    ],
+    "wof:id":689485517,
+    "wof:lastmodified":1461772683,
+    "wof:name":"Ron's High Performance Repair",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowmobile",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.054761,
+    43.40913,
+    -84.054761,
+    43.40913
+],
+  "geometry": {"coordinates":[-84.054761,43.40913],"type":"Point"}
+}

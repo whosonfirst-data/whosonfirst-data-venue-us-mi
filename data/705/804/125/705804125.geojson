@@ -1,0 +1,71 @@
+{
+  "id": 705804125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.802956,43.406653,-85.802956,43.406653",
+    "geom:latitude":43.406653,
+    "geom:longitude":-85.802956,
+    "iso:country":"US",
+    "sg:address":"8170 Mason Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 7470",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tAtfhsws7LuPbCH7U9DHX_43.406653_-85.802956@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789111,
+    "wof:geomhash":"d02a8c81704cbef296e6407628c5975d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705804125
+        }
+    ],
+    "wof:id":705804125,
+    "wof:lastmodified":1461789111,
+    "wof:name":"All Metals Welding",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -85.802956,
+    43.406653,
+    -85.802956,
+    43.406653
+],
+  "geometry": {"coordinates":[-85.80295599999999,43.406653],"type":"Point"}
+}

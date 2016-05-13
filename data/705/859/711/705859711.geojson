@@ -1,0 +1,71 @@
+{
+  "id": 705859711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.478004,42.909689,-82.478004,42.909689",
+    "geom:latitude":42.909689,
+    "geom:longitude":-82.478004,
+    "iso:country":"US",
+    "sg:address":"280 E 14th St",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 7811",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h5IyWlkZG3Jx4Ey9e7oGv_42.909689_-82.478004@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790416,
+    "wof:geomhash":"b7bcda9fefcb1950b8c2860cd0977d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":705859711
+        }
+    ],
+    "wof:id":705859711,
+    "wof:lastmodified":1461790416,
+    "wof:name":"Maintenance Garage",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -82.478004,
+    42.909689,
+    -82.478004,
+    42.909689
+],
+  "geometry": {"coordinates":[-82.478004,42.909689],"type":"Point"}
+}

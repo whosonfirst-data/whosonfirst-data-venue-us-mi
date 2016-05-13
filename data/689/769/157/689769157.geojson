@@ -1,0 +1,84 @@
+{
+  "id": 689769157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.399628,42.527184,-83.399628,42.527184",
+    "geom:latitude":42.527184,
+    "geom:longitude":-83.399628,
+    "iso:country":"US",
+    "sg:address":"35415 W 14 Mile Rd",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 661 9191",
+    "sg:postcode":"48331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.faithcovenantchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        420524567,
+        102191575,
+        404508187,
+        85951999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61TBynNsaJ0L7GaZmTidm6_42.527184_-83.399628@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781000,
+    "wof:geomhash":"67dfd6bc40962da3306859bd8ebf3b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689769157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508187,
+            "locality_id":85951999,
+            "neighbourhood_id":420524567,
+            "region_id":85688599,
+            "venue_id":689769157
+        }
+    ],
+    "wof:id":689769157,
+    "wof:lastmodified":1461781000,
+    "wof:name":"Faith Covenant Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -83.399628,
+    42.527184,
+    -83.399628,
+    42.527184
+],
+  "geometry": {"coordinates":[-83.39962800000001,42.527184],"type":"Point"}
+}

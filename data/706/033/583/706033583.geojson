@@ -1,0 +1,71 @@
+{
+  "id": 706033583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.660963,42.220321,-83.660963,42.220321",
+    "geom:latitude":42.220321,
+    "geom:longitude":-83.660963,
+    "iso:country":"US",
+    "sg:address":"4907 Cloverlane Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 434 3455",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875889,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2siRh775rPxok6PVGIhmjz_42.220321_-83.660963@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794279,
+    "wof:geomhash":"58d257337819fd9f3b68a318b6722bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875889,
+            "region_id":85688599,
+            "venue_id":706033583
+        }
+    ],
+    "wof:id":706033583,
+    "wof:lastmodified":1461794279,
+    "wof:name":"Pines of Cloverlane Apartments",
+    "wof:parent_id":85875889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.660963,
+    42.220321,
+    -83.660963,
+    42.220321
+],
+  "geometry": {"coordinates":[-83.660963,42.220321],"type":"Point"}
+}

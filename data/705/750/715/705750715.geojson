@@ -1,0 +1,71 @@
+{
+  "id": 705750715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.259376,41.946802,-83.259376,41.946802",
+    "geom:latitude":41.946802,
+    "geom:longitude":-83.259376,
+    "iso:country":"US",
+    "sg:address":"6325 Pointe Aux Peaux Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 289 1100",
+    "sg:postcode":"48166",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952219,
+        102083117,
+        85851191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5es9Vzxca4m5KQhxCIVlgn_41.946802_-83.259376@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787860,
+    "wof:geomhash":"305c7fc745e61261ea2f3dec28d40f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "locality_id":85952219,
+            "neighbourhood_id":85851191,
+            "region_id":85688599,
+            "venue_id":705750715
+        }
+    ],
+    "wof:id":705750715,
+    "wof:lastmodified":1461787860,
+    "wof:name":"Frenchtown Tow",
+    "wof:parent_id":85851191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.259376,
+    41.946802,
+    -83.259376,
+    41.946802
+],
+  "geometry": {"coordinates":[-83.259376,41.946802],"type":"Point"}
+}

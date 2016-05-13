@@ -1,0 +1,71 @@
+{
+  "id": 689917949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636366,42.864412,-85.636366,42.864412",
+    "geom:latitude":42.864412,
+    "geom:longitude":-85.636366,
+    "iso:country":"US",
+    "sg:address":"5479 Greenboro Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 261 2909",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66KnBfzIo6J6BSua3yd6Bz_42.864412_-85.636366@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785064,
+    "wof:geomhash":"a14cf00432e38b0d5869a56f8eb818b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689917949
+        }
+    ],
+    "wof:id":689917949,
+    "wof:lastmodified":1461785064,
+    "wof:name":"D & E Maintenance Service",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.636366,
+    42.864412,
+    -85.636366,
+    42.864412
+],
+  "geometry": {"coordinates":[-85.636366,42.864412],"type":"Point"}
+}

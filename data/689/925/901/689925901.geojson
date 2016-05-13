@@ -1,0 +1,71 @@
+{
+  "id": 689925901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.731213,43.002509,-83.731213,43.002509",
+    "geom:latitude":43.002509,
+    "geom:longitude":-83.731213,
+    "iso:country":"US",
+    "sg:address":"3306 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 3030",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nv87H5yDgsyUROX87clF7_43.002509_-83.731213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785260,
+    "wof:geomhash":"463ff771d0524ff56bda3727ffd9a671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689925901
+        }
+    ],
+    "wof:id":689925901,
+    "wof:lastmodified":1461785260,
+    "wof:name":"Don Franco",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -83.731213,
+    43.002509,
+    -83.731213,
+    43.002509
+],
+  "geometry": {"coordinates":[-83.731213,43.002509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689808309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.246518,43.234238,-86.246518,43.234238",
+    "geom:latitude":43.234238,
+    "geom:longitude":-86.246518,
+    "iso:country":"US",
+    "sg:address":"155 W Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 726 4467",
+    "sg:postcode":"49440",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LbVDKZesYBL4N2ekkfN4O_43.234238_-86.246518@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782130,
+    "wof:geomhash":"db7220cf9c5ce500c6fb80fa456a0722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689808309
+        }
+    ],
+    "wof:id":689808309,
+    "wof:lastmodified":1461782130,
+    "wof:name":"Lighthouse Insurance",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -86.246518,
+    43.234238,
+    -86.246518,
+    43.234238
+],
+  "geometry": {"coordinates":[-86.24651799999999,43.234238],"type":"Point"}
+}

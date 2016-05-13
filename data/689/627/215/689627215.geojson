@@ -1,0 +1,73 @@
+{
+  "id": 689627215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.226015,42.557366,-83.226015,42.557366",
+    "geom:latitude":42.557366,
+    "geom:longitude":-83.226015,
+    "iso:country":"US",
+    "sg:address":"1130 Lakeside Dr",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 4213",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jEIPb64U8fB4LkApOQuUl_42.557366_-83.226015@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777089,
+    "wof:geomhash":"0184022e1b378f49d71a22eca1930041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":689627215
+        }
+    ],
+    "wof:id":689627215,
+    "wof:lastmodified":1461777089,
+    "wof:name":"Ronald Vander Molen MD",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.226015,
+    42.557366,
+    -83.226015,
+    42.557366
+],
+  "geometry": {"coordinates":[-83.226015,42.557366],"type":"Point"}
+}

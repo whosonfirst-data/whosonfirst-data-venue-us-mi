@@ -1,0 +1,71 @@
+{
+  "id": 706599453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518268,42.640186,-84.518268,42.640186",
+    "geom:latitude":42.640186,
+    "geom:longitude":-84.518268,
+    "iso:country":"US",
+    "sg:address":"4385 Holt Rd",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 3280",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3egvmSmY8SKxCHJejdzirR_42.640186_-84.518268@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806718,
+    "wof:geomhash":"6e0265be8122824e769b280483bacd0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706599453
+        }
+    ],
+    "wof:id":706599453,
+    "wof:lastmodified":1461806718,
+    "wof:name":"Post Construction Cleaning",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.518268,
+    42.640186,
+    -84.518268,
+    42.640186
+],
+  "geometry": {"coordinates":[-84.51826800000001,42.640186],"type":"Point"}
+}

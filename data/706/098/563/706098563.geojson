@@ -1,0 +1,71 @@
+{
+  "id": 706098563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.021698,43.416913,-84.021698,43.416913",
+    "geom:latitude":43.416913,
+    "geom:longitude":-84.021698,
+    "iso:country":"US",
+    "sg:address":"5275 Colony Dr N",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 1350",
+    "sg:postcode":"48638",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d3L9gdIPZ8u94tZc8SVNB_43.416913_-84.021698@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795753,
+    "wof:geomhash":"54c21f29f8730a5706838903102ba85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706098563
+        }
+    ],
+    "wof:id":706098563,
+    "wof:lastmodified":1461795753,
+    "wof:name":"Pervez Yusaf MD",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.021698,
+    43.416913,
+    -84.021698,
+    43.416913
+],
+  "geometry": {"coordinates":[-84.021698,43.416913],"type":"Point"}
+}

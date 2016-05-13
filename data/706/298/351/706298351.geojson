@@ -1,0 +1,69 @@
+{
+  "id": 706298351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.182543,43.179528,-86.182543,43.179528",
+    "geom:latitude":43.179528,
+    "geom:longitude":-86.182543,
+    "iso:country":"US",
+    "sg:address":"2544 Shettler Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 3000",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yTqA1G6POsWKpEh9TPyVb_43.179528_-86.182543@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800267,
+    "wof:geomhash":"0de2d6544b01c0dfe6cbe1cbba65f92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706298351
+        }
+    ],
+    "wof:id":706298351,
+    "wof:lastmodified":1461800267,
+    "wof:name":"Start's Pumping Svc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -86.182543,
+    43.179528,
+    -86.182543,
+    43.179528
+],
+  "geometry": {"coordinates":[-86.182543,43.179528],"type":"Point"}
+}

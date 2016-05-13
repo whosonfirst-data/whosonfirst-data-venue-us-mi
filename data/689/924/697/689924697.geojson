@@ -1,0 +1,77 @@
+{
+  "id": 689924697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.123304,42.574488,-83.123304,42.574488",
+    "geom:latitude":42.574488,
+    "geom:longitude":-83.123304,
+    "iso:country":"US",
+    "sg:address":"1372 Tennyson Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 723 7900",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lBNHb8ABkILdcPOVbgPF0_42.574488_-83.123304@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785230,
+    "wof:geomhash":"b3121a6f5971314b2dfa4ab1c84fdd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":689924697
+        }
+    ],
+    "wof:id":689924697,
+    "wof:lastmodified":1461785230,
+    "wof:name":"Encore Medical",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.123304,
+    42.574488,
+    -83.123304,
+    42.574488
+],
+  "geometry": {"coordinates":[-83.123304,42.574488],"type":"Point"}
+}

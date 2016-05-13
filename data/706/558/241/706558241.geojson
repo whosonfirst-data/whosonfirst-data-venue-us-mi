@@ -1,0 +1,71 @@
+{
+  "id": 706558241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.26109,43.220572,-86.26109,43.220572",
+    "geom:latitude":43.220572,
+    "geom:longitude":-86.26109,
+    "iso:country":"US",
+    "sg:address":"1785 Beidler St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 727 7050",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b3O8UoCnG3MH9EFgYFUpW_43.220572_-86.261090@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805813,
+    "wof:geomhash":"d859f0c93c3973cb4b0ac3cf29d61af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706558241
+        }
+    ],
+    "wof:id":706558241,
+    "wof:lastmodified":1461805813,
+    "wof:name":"Port City Pawn",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -86.26109,
+    43.220572,
+    -86.26109,
+    43.220572
+],
+  "geometry": {"coordinates":[-86.26109,43.220572],"type":"Point"}
+}

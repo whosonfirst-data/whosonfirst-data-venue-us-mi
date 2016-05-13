@@ -1,0 +1,71 @@
+{
+  "id": 706226897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.39278,42.254756,-84.39278,42.254756",
+    "geom:latitude":42.254756,
+    "geom:longitude":-84.39278,
+    "iso:country":"US",
+    "sg:address":"1100 E Ganson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 2364",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F5eGt0bqCPQHuvf8qcOAu_42.254756_-84.392780@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798640,
+    "wof:geomhash":"703a7fb0e0a5c270ee47dd3f0bbdb7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706226897
+        }
+    ],
+    "wof:id":706226897,
+    "wof:lastmodified":1461798640,
+    "wof:name":"Crank & Go Auto Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.39278,
+    42.254756,
+    -84.39278,
+    42.254756
+],
+  "geometry": {"coordinates":[-84.39278,42.254756],"type":"Point"}
+}

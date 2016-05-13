@@ -1,0 +1,69 @@
+{
+  "id": 705926247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.08229,45.745757,-87.08229,45.745757",
+    "geom:latitude":45.745757,
+    "geom:longitude":-87.08229,
+    "iso:country":"US",
+    "sg:address":"2301 Ludington St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 3014",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jFzoVLH8brWF0d84e6cnB_45.745757_-87.082290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791978,
+    "wof:geomhash":"5a2088ed5af8718742c4605606949d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":705926247
+        }
+    ],
+    "wof:id":705926247,
+    "wof:lastmodified":1461791978,
+    "wof:name":"Jerry's Marathon Svc",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -87.08229,
+    45.745757,
+    -87.08229,
+    45.745757
+],
+  "geometry": {"coordinates":[-87.08229,45.745757],"type":"Point"}
+}

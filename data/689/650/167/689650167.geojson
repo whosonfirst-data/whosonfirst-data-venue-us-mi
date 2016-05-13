@@ -1,0 +1,73 @@
+{
+  "id": 689650167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.403542,46.275957,-87.403542,46.275957",
+    "geom:latitude":46.275957,
+    "geom:longitude":-87.403542,
+    "iso:country":"US",
+    "sg:address":"310 State Hwy 35",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 9448",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDkrI0IId1QEmgRAuI99p_46.275957_-87.403542@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777872,
+    "wof:geomhash":"5479de4d06bee51e26de58f480fc3b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689650167
+        }
+    ],
+    "wof:id":689650167,
+    "wof:lastmodified":1461777872,
+    "wof:name":"Fortino's Auto Repair",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.403542,
+    46.275957,
+    -87.403542,
+    46.275957
+],
+  "geometry": {"coordinates":[-87.403542,46.275957],"type":"Point"}
+}

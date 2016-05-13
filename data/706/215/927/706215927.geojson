@@ -1,0 +1,73 @@
+{
+  "id": 706215927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.61935,41.734813,-83.61935,41.734813",
+    "geom:latitude":41.734813,
+    "geom:longitude":-83.61935,
+    "iso:country":"US",
+    "sg:address":"3175 Smith Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 5494",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MWbOwx9wGDxOGAQ2kweOi_41.734813_-83.619350@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798418,
+    "wof:geomhash":"a6dca822e8c272cac01615f644cb6bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":706215927
+        }
+    ],
+    "wof:id":706215927,
+    "wof:lastmodified":1461798418,
+    "wof:name":"Bedford Medical Arts",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.61935,
+    41.734813,
+    -83.61935,
+    41.734813
+],
+  "geometry": {"coordinates":[-83.61935,41.734813],"type":"Point"}
+}

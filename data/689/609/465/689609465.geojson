@@ -1,0 +1,72 @@
+{
+  "id": 689609465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.494914,42.008562,-86.494914,42.008562",
+    "geom:latitude":42.008562,
+    "geom:longitude":-86.494914,
+    "iso:country":"US",
+    "sg:address":"5888 Cleveland Ave",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 3452",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VCeLmZDjaRZYfll8x3SSK_42.008562_-86.494914@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776585,
+    "wof:geomhash":"7ab477eca649e64aade5149ed2d8fcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":689609465
+        }
+    ],
+    "wof:id":689609465,
+    "wof:lastmodified":1461776585,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -86.494914,
+    42.008562,
+    -86.494914,
+    42.008562
+],
+  "geometry": {"coordinates":[-86.49491399999999,42.008562],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706678395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.491198,42.270947,-83.491198,42.270947",
+    "geom:latitude":42.270947,
+    "geom:longitude":-83.491198,
+    "iso:country":"US",
+    "sg:address":"46032 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/canton/142252-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 495 9903",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YsbyrMKkj0ey3thmYCwg8_42.270947_-83.491198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809223,
+    "wof:geomhash":"f75f4cd04b6e79c4c1b55ecfd236831d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":706678395
+        }
+    ],
+    "wof:id":706678395,
+    "wof:lastmodified":1461809223,
+    "wof:name":"Subway",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.491198,
+    42.270947,
+    -83.491198,
+    42.270947
+],
+  "geometry": {"coordinates":[-83.491198,42.270947],"type":"Point"}
+}

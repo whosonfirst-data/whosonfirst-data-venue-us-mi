@@ -1,0 +1,92 @@
+{
+  "id": 722526097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589504,42.225808,-85.589504,42.225808",
+    "geom:latitude":42.225808,
+    "geom:longitude":-85.589504,
+    "iso:country":"US",
+    "sg:address":"6280 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 321 0719",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dd5TjKbQhg6G4IbSGU0V0_42.225808_-85.589504@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814254,
+    "wof:geomhash":"572e8bce2899d65530c75f3345b9ffec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":722526097
+        }
+    ],
+    "wof:id":722526097,
+    "wof:lastmodified":1461814254,
+    "wof:name":"PETCO",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.589504,
+    42.225808,
+    -85.589504,
+    42.225808
+],
+  "geometry": {"coordinates":[-85.58950400000001,42.225808],"type":"Point"}
+}

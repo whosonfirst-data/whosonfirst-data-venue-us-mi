@@ -1,0 +1,84 @@
+{
+  "id": 706684197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418354,42.08251,-86.418354,42.08251",
+    "geom:latitude":42.08251,
+    "geom:longitude":-86.418354,
+    "iso:country":"US",
+    "sg:address":"1981 Pipestone Rd",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/benton/96621-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 1500",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31lTmxVGq3KRAJpf1Vwt2j_42.082510_-86.418354@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809456,
+    "wof:geomhash":"42e119cbc0d73a879820d505662391c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706684197
+        }
+    ],
+    "wof:id":706684197,
+    "wof:lastmodified":1461809456,
+    "wof:name":"IHOP",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.418354,
+    42.08251,
+    -86.418354,
+    42.08251
+],
+  "geometry": {"coordinates":[-86.41835399999999,42.08251],"type":"Point"}
+}

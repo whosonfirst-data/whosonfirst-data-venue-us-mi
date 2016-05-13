@@ -1,0 +1,73 @@
+{
+  "id": 705701075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.282485,43.187147,-86.282485,43.187147",
+    "geom:latitude":43.187147,
+    "geom:longitude":-86.282485,
+    "iso:country":"US",
+    "sg:address":"1577 Seminole Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 2500",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept",
+        "combination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HEtGn4MlPV8lxIPMVNyEW_43.187147_-86.282485@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786574,
+    "wof:geomhash":"8f825739a10ca5af4413c6f71ed69772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705701075
+        }
+    ],
+    "wof:id":705701075,
+    "wof:lastmodified":1461786574,
+    "wof:name":"Norton Shores Fire Department",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "combination"
+    ]
+},
+  "bbox": [
+    -86.282485,
+    43.187147,
+    -86.282485,
+    43.187147
+],
+  "geometry": {"coordinates":[-86.28248499999999,43.187147],"type":"Point"}
+}

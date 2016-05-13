@@ -1,0 +1,83 @@
+{
+  "id": 706638307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.869558,43.618769,-83.869558,43.618769",
+    "geom:latitude":43.618769,
+    "geom:longitude":-83.869558,
+    "iso:country":"US",
+    "sg:address":"611 Andre St",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 684 7460",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "sg:website":"www.yorkelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524233,
+        102191575,
+        404506795,
+        85633793,
+        85951273,
+        102083135,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IGaRtkKBkpWFa7sjQ1aOd_43.618769_-83.869558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807538,
+    "wof:geomhash":"05f91b267eb1b0c563905b51bd9175e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":706638307
+        }
+    ],
+    "wof:id":706638307,
+    "wof:lastmodified":1461807538,
+    "wof:name":"York Electric Motors Inc",
+    "wof:parent_id":420524233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -83.869558,
+    43.618769,
+    -83.869558,
+    43.618769
+],
+  "geometry": {"coordinates":[-83.869558,43.618769],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 705919433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.681477,42.95523,-85.681477,42.95523",
+    "geom:latitude":42.95523,
+    "geom:longitude":-85.681477,
+    "iso:country":"US",
+    "sg:address":"450 Market Ave SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 774 9032",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "industrial",
+        "machinery",
+        "machining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877921,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877867,
+        85951365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XyyjPhCePToiRb7JCw0NG_42.955230_-85.681477@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791832,
+    "wof:geomhash":"43efa6e9a6faac28752bf17ec45b881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877921,
+            "region_id":85688599,
+            "venue_id":705919433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951365,
+            "neighbourhood_id":85877867,
+            "region_id":85688599,
+            "venue_id":705919433
+        }
+    ],
+    "wof:id":705919433,
+    "wof:lastmodified":1461791832,
+    "wof:name":"Hastings Equipment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "machinery",
+        "machining"
+    ]
+},
+  "bbox": [
+    -85.681477,
+    42.95523,
+    -85.681477,
+    42.95523
+],
+  "geometry": {"coordinates":[-85.681477,42.95523],"type":"Point"}
+}

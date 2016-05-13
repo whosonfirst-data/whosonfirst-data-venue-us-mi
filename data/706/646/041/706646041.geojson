@@ -1,0 +1,71 @@
+{
+  "id": 706646041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433421,42.269318,-84.433421,42.269318",
+    "geom:latitude":42.269318,
+    "geom:longitude":-84.433421,
+    "iso:country":"US",
+    "sg:address":"1068 Jackson Xing",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 1750",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "station",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77AD9YsMvPUUg0CdDqRLMy_42.269318_-84.433421@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807753,
+    "wof:geomhash":"432854fc4805c5704febbf97d04077cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706646041
+        }
+    ],
+    "wof:id":706646041,
+    "wof:lastmodified":1461807753,
+    "wof:name":"Navy Recruiting Station",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -84.433421,
+    42.269318,
+    -84.433421,
+    42.269318
+],
+  "geometry": {"coordinates":[-84.433421,42.269318],"type":"Point"}
+}

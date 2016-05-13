@@ -1,0 +1,75 @@
+{
+  "id": 705737293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.688472,43.01082,-83.688472,43.01082",
+    "geom:latitude":43.01082,
+    "geom:longitude":-83.688472,
+    "iso:country":"US",
+    "sg:address":"210 W 5th St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 237 6800",
+    "sg:postcode":"48502",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877389,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bfGqYkb4PaBh3EuJOayn5_43.010820_-83.688472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787578,
+    "wof:geomhash":"f76ce0a3395972037d1621e3c4258f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877389,
+            "region_id":85688599,
+            "venue_id":705737293
+        }
+    ],
+    "wof:id":705737293,
+    "wof:lastmodified":1461787578,
+    "wof:name":"Flint Police Dept",
+    "wof:parent_id":85877389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.688472,
+    43.01082,
+    -83.688472,
+    43.01082
+],
+  "geometry": {"coordinates":[-83.688472,43.01082],"type":"Point"}
+}

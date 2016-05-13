@@ -1,0 +1,73 @@
+{
+  "id": 722469531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.184599,42.141854,-83.184599,42.141854",
+    "geom:latitude":42.141854,
+    "geom:longitude":-83.184599,
+    "iso:country":"US",
+    "sg:address":"1310 West Rd",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 676 4231",
+    "sg:postcode":"48183",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85896835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32xiuaj7UnmjImUAF7lo33_42.141854_-83.184599@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811840,
+    "wof:geomhash":"795462a4492cd7bc4856e88dbe23b9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85896835,
+            "region_id":85688599,
+            "venue_id":722469531
+        }
+    ],
+    "wof:id":722469531,
+    "wof:lastmodified":1461811840,
+    "wof:name":"A & M Auto Body Repair",
+    "wof:parent_id":85896835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.184599,
+    42.141854,
+    -83.184599,
+    42.141854
+],
+  "geometry": {"coordinates":[-83.18459900000001,42.141854],"type":"Point"}
+}

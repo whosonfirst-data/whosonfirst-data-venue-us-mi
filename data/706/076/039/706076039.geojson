@@ -1,0 +1,73 @@
+{
+  "id": 706076039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.285514,43.20565,-86.285514,43.20565",
+    "geom:latitude":43.20565,
+    "geom:longitude":-86.285514,
+    "iso:country":"US",
+    "sg:address":"1615 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 8008",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AS58UM5bkFPWWQDKAYQZD_43.205650_-86.285514@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795174,
+    "wof:geomhash":"bdfaf0b6c592b766a50297075e87230c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706076039
+        }
+    ],
+    "wof:id":706076039,
+    "wof:lastmodified":1461795174,
+    "wof:name":"Speedy Lube Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.285514,
+    43.20565,
+    -86.285514,
+    43.20565
+],
+  "geometry": {"coordinates":[-86.28551400000001,43.20565],"type":"Point"}
+}

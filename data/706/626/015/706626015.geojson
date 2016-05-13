@@ -1,0 +1,71 @@
+{
+  "id": 706626015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.118431,42.854447,-86.118431,42.854447",
+    "geom:latitude":42.854447,
+    "geom:longitude":-86.118431,
+    "iso:country":"US",
+    "sg:address":"4600 136th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 6522",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nflwR4X8SsEcDUteyLjVU_42.854447_-86.118431@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807270,
+    "wof:geomhash":"092632625a3d27cf1808c7703835342e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706626015
+        }
+    ],
+    "wof:id":706626015,
+    "wof:lastmodified":1461807270,
+    "wof:name":"Beechwood Automotive",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.118431,
+    42.854447,
+    -86.118431,
+    42.854447
+],
+  "geometry": {"coordinates":[-86.118431,42.854447],"type":"Point"}
+}

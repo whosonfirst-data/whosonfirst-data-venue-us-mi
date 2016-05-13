@@ -1,0 +1,75 @@
+{
+  "id": 706365863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.710403,43.006797,-83.710403,43.006797",
+    "geom:latitude":43.006797,
+    "geom:longitude":-83.710403,
+    "iso:country":"US",
+    "sg:address":"1839 W Court St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 424 6604",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_089q19Uyb2LcosD2wOLZ8n_43.006797_-83.710403@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801729,
+    "wof:geomhash":"21b9ab38227bcb959db4c27b9e5ede59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706365863
+        }
+    ],
+    "wof:id":706365863,
+    "wof:lastmodified":1461801729,
+    "wof:name":"Mc Fall's Collision & Frame",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.710403,
+    43.006797,
+    -83.710403,
+    43.006797
+],
+  "geometry": {"coordinates":[-83.710403,43.006797],"type":"Point"}
+}

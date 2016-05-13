@@ -1,0 +1,73 @@
+{
+  "id": 706388281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167958,43.322129,-86.167958,43.322129",
+    "geom:latitude":43.322129,
+    "geom:longitude":-86.167958,
+    "iso:country":"US",
+    "sg:address":"3699 Holton Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 0042",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uX4ZArfX3Oc7o1dgayukG_43.322129_-86.167958@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802169,
+    "wof:geomhash":"fef043190bdf1b54ce1b02e9d4a27f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706388281
+        }
+    ],
+    "wof:id":706388281,
+    "wof:lastmodified":1461802169,
+    "wof:name":"Key Automotive",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.167958,
+    43.322129,
+    -86.167958,
+    43.322129
+],
+  "geometry": {"coordinates":[-86.167958,43.322129],"type":"Point"}
+}

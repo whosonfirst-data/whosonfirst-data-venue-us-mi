@@ -1,0 +1,73 @@
+{
+  "id": 705811655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.545481,41.83789,-83.545481,41.83789",
+    "geom:latitude":41.83789,
+    "geom:longitude":-83.545481,
+    "iso:country":"US",
+    "sg:address":"260 E Morocco Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 269 9047",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FKM1cwX6RIbFxREQGxW9g_41.837890_-83.545481@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789271,
+    "wof:geomhash":"6d43cd66829d10cdbe2a4ed3ce335a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":705811655
+        }
+    ],
+    "wof:id":705811655,
+    "wof:lastmodified":1461789271,
+    "wof:name":"GAP Electric",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.545481,
+    41.83789,
+    -83.545481,
+    41.83789
+],
+  "geometry": {"coordinates":[-83.545481,41.83789],"type":"Point"}
+}

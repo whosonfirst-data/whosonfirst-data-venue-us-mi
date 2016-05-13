@@ -1,0 +1,71 @@
+{
+  "id": 689481939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.457266,42.239808,-84.457266,42.239808",
+    "geom:latitude":42.239808,
+    "geom:longitude":-84.457266,
+    "iso:country":"US",
+    "sg:address":"3700 W Morrell St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 3799",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NhLFETbaGSpIc1HcsZwQs_42.239808_-84.457266@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772574,
+    "wof:geomhash":"fbfd73fc654adc11b48c12ea4cc9d8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689481939
+        }
+    ],
+    "wof:id":689481939,
+    "wof:lastmodified":1461772574,
+    "wof:name":"Academy Of Dance",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.457266,
+    42.239808,
+    -84.457266,
+    42.239808
+],
+  "geometry": {"coordinates":[-84.457266,42.239808],"type":"Point"}
+}

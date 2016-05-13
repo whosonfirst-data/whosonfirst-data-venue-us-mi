@@ -1,0 +1,71 @@
+{
+  "id": 689562953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.460572,42.928518,-82.460572,42.928518",
+    "geom:latitude":42.928518,
+    "geom:longitude":-82.460572,
+    "iso:country":"US",
+    "sg:address":"180 Gratiot Blvd",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 5632",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFkatSId2bMtVlYEK7ShZ_42.928518_-82.460572@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775104,
+    "wof:geomhash":"d996323f708b6e7c23c27a8e43c717a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":689562953
+        }
+    ],
+    "wof:id":689562953,
+    "wof:lastmodified":1461775104,
+    "wof:name":"Herbert Rossin MD",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.460572,
+    42.928518,
+    -82.460572,
+    42.928518
+],
+  "geometry": {"coordinates":[-82.460572,42.928518],"type":"Point"}
+}

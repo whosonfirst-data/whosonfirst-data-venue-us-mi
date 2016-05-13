@@ -1,0 +1,89 @@
+{
+  "id": 706682305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.478238,42.733928,-84.478238,42.733928",
+    "geom:latitude":42.733928,
+    "geom:longitude":-84.478238,
+    "iso:country":"US",
+    "sg:address":"505 E Grand River Ave",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/east-lansing/40318-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 332 9940",
+    "sg:postcode":"48823",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878671,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04uuffOpmqcrpdiPqqjSEV_42.733928_-84.478238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809374,
+    "wof:geomhash":"6e2ce713bc38e80b21279ef883e63d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878671,
+            "region_id":85688599,
+            "venue_id":706682305
+        }
+    ],
+    "wof:id":706682305,
+    "wof:lastmodified":1461809374,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85878671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -84.478238,
+    42.733928,
+    -84.478238,
+    42.733928
+],
+  "geometry": {"coordinates":[-84.478238,42.733928],"type":"Point"}
+}

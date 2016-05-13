@@ -1,0 +1,71 @@
+{
+  "id": 689913267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.424004,42.697208,-83.424004,42.697208",
+    "geom:latitude":42.697208,
+    "geom:longitude":-83.424004,
+    "iso:country":"US",
+    "sg:address":"4093 Lotus Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 2524",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hVsX2zlizlQfeETXmXVFD_42.697208_-83.424004@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784939,
+    "wof:geomhash":"06e4c75972edd1a9ff81d0c423052647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689913267
+        }
+    ],
+    "wof:id":689913267,
+    "wof:lastmodified":1461784939,
+    "wof:name":"Jones Electric",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.424004,
+    42.697208,
+    -83.424004,
+    42.697208
+],
+  "geometry": {"coordinates":[-83.424004,42.697208],"type":"Point"}
+}

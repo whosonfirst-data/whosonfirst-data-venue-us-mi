@@ -1,0 +1,75 @@
+{
+  "id": 705726041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394653,46.54703,-87.394653,46.54703",
+    "geom:latitude":46.54703,
+    "geom:longitude":-87.394653,
+    "iso:country":"US",
+    "sg:address":"412 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 9819",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "videotape",
+        "household",
+        "electronics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63aUJGJ04H1y50QbqMKP6S_46.547030_-87.394653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787305,
+    "wof:geomhash":"fc33aab745d6e893c675a27164521d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705726041
+        }
+    ],
+    "wof:id":705726041,
+    "wof:lastmodified":1461787305,
+    "wof:name":"Third Street Video",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "videotape",
+        "household",
+        "electronics"
+    ]
+},
+  "bbox": [
+    -87.394653,
+    46.54703,
+    -87.394653,
+    46.54703
+],
+  "geometry": {"coordinates":[-87.39465300000001,46.54703],"type":"Point"}
+}

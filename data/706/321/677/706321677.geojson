@@ -1,0 +1,74 @@
+{
+  "id": 706321677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.203791,43.242351,-86.203791,43.242351",
+    "geom:latitude":43.242351,
+    "geom:longitude":-86.203791,
+    "iso:country":"US",
+    "sg:address":"410 Glen Oaks Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 4142",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "sg:website":"www.edwardrose.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KWS87FTxcMX8ELBz2NNbY_43.242351_-86.203791@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800771,
+    "wof:geomhash":"7e79152e48a203e2228921ecb223d11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706321677
+        }
+    ],
+    "wof:id":706321677,
+    "wof:lastmodified":1461800771,
+    "wof:name":"Glen Oaks Apartments",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.203791,
+    43.242351,
+    -86.203791,
+    43.242351
+],
+  "geometry": {"coordinates":[-86.203791,43.242351],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 705813393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.338768,42.939139,-85.338768,42.939139",
+    "geom:latitude":42.939139,
+    "geom:longitude":-85.338768,
+    "iso:country":"US",
+    "sg:address":"526 N Monroe St",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 0275",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nLOYzFryVtl5ReSxhpJKR_42.939139_-85.338768@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789309,
+    "wof:geomhash":"a441f073b37f102a68079e57a1529208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":705813393
+        }
+    ],
+    "wof:id":705813393,
+    "wof:lastmodified":1461789309,
+    "wof:name":"Pet Daze Pet Sitters",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.338768,
+    42.939139,
+    -85.338768,
+    42.939139
+],
+  "geometry": {"coordinates":[-85.338768,42.939139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689669113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.026024,42.809493,-86.026024,42.809493",
+    "geom:latitude":42.809493,
+    "geom:longitude":-86.026024,
+    "iso:country":"US",
+    "sg:address":"155 S Jefferson St",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 772 2802",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BPEH4MogASBvpie5CaFrP_42.809493_-86.026024@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778356,
+    "wof:geomhash":"5cd791f3d8ad9f5eb54c490010f95ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":689669113
+        }
+    ],
+    "wof:id":689669113,
+    "wof:lastmodified":1461778356,
+    "wof:name":"De Young Industrial Disposal",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.026024,
+    42.809493,
+    -86.026024,
+    42.809493
+],
+  "geometry": {"coordinates":[-86.02602400000001,42.809493],"type":"Point"}
+}

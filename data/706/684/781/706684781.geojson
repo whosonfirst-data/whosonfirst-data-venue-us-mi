@@ -1,0 +1,72 @@
+{
+  "id": 706684781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249098,41.82883,-86.249098,41.82883",
+    "geom:latitude":41.82883,
+    "geom:longitude":-86.249098,
+    "iso:country":"US",
+    "sg:address":"904 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/142437-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 7820",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UvKl1j0DCMU7mFlwqcYpl_41.828830_-86.249098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809477,
+    "wof:geomhash":"d19932f3d8df2b5a8c1bce768450c8d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706684781
+        }
+    ],
+    "wof:id":706684781,
+    "wof:lastmodified":1461809477,
+    "wof:name":"Subway",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.249098,
+    41.82883,
+    -86.249098,
+    41.82883
+],
+  "geometry": {"coordinates":[-86.249098,41.82883],"type":"Point"}
+}

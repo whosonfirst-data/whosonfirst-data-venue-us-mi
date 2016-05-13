@@ -1,0 +1,87 @@
+{
+  "id": 722525171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.078356,43.41596,-84.078356,43.41596",
+    "geom:latitude":43.41596,
+    "geom:longitude":-84.078356,
+    "iso:country":"US",
+    "sg:address":"8400 Gratiot Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 6501",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consumer",
+        "super"
+    ],
+    "sg:website":"http://www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tt9Mk3XVFfWxTnplxefMa_43.415960_-84.078356@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814215,
+    "wof:geomhash":"600f51584f30babee954cd575b2694c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":722525171
+        }
+    ],
+    "wof:id":722525171,
+    "wof:lastmodified":1461814215,
+    "wof:name":"MEIJER",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer",
+        "super"
+    ]
+},
+  "bbox": [
+    -84.078356,
+    43.41596,
+    -84.078356,
+    43.41596
+],
+  "geometry": {"coordinates":[-84.078356,43.41596],"type":"Point"}
+}

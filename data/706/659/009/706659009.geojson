@@ -1,0 +1,71 @@
+{
+  "id": 706659009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.882202,42.540199,-82.882202,42.540199",
+    "geom:latitude":42.540199,
+    "geom:longitude":-82.882202,
+    "iso:country":"US",
+    "sg:address":"33303 Harper Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 296 1106",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qlSR3aG1JYXyerneeYTGg_42.540192_-82.882149@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808389,
+    "wof:geomhash":"4c1b9d70ccd622db47771f3b172a727a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706659009
+        }
+    ],
+    "wof:id":706659009,
+    "wof:lastmodified":1461808389,
+    "wof:name":"Nash Veterinary Hospital",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.882202,
+    42.540199,
+    -82.882202,
+    42.540199
+],
+  "geometry": {"coordinates":[-82.88220200000001,42.540199],"type":"Point"}
+}

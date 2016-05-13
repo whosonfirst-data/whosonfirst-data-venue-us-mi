@@ -1,0 +1,70 @@
+{
+  "id": 722480687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.142181,42.35371,-83.142181,42.35371",
+    "geom:latitude":42.35371,
+    "geom:longitude":-83.142181,
+    "iso:country":"US",
+    "sg:address":"7300 Garden St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 873 6723",
+    "sg:postcode":"48204",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870625,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k9ECguDQL1I99tlyaNLYV_42.353710_-83.142181@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812319,
+    "wof:geomhash":"61f62917407b884b18e42ba1c3a4032c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870625,
+            "region_id":85688599,
+            "venue_id":722480687
+        }
+    ],
+    "wof:id":722480687,
+    "wof:lastmodified":1461812319,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":85870625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.142181,
+    42.35371,
+    -83.142181,
+    42.35371
+],
+  "geometry": {"coordinates":[-83.14218099999999,42.35371],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705882567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.840948,42.881796,-85.840948,42.881796",
+    "geom:latitude":42.881796,
+    "geom:longitude":-85.840948,
+    "iso:country":"US",
+    "sg:address":"2130 Chicago Dr",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 667 0890",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ua9BcNyGgiOwE7eTYOmhC_42.881796_-85.840948@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790982,
+    "wof:geomhash":"08d1dfa2eb494b593b8a6c3ab4af4e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":705882567
+        }
+    ],
+    "wof:id":705882567,
+    "wof:lastmodified":1461790982,
+    "wof:name":"Hudsonville Muffler & Brakes",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.840948,
+    42.881796,
+    -85.840948,
+    42.881796
+],
+  "geometry": {"coordinates":[-85.840948,42.881796],"type":"Point"}
+}

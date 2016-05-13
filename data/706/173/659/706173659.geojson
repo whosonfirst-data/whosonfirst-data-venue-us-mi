@@ -1,0 +1,75 @@
+{
+  "id": 706173659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.588927,43.055006,-85.588927,43.055006",
+    "geom:latitude":43.055006,
+    "geom:longitude":-85.588927,
+    "iso:country":"US",
+    "sg:address":"5174 Plainfield Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 364 1400",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53TmG2E6eMTU2dp7H77ojr_43.055006_-85.588927@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797507,
+    "wof:geomhash":"1f6c58a49a040b31ed0e7613671a962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706173659
+        }
+    ],
+    "wof:id":706173659,
+    "wof:lastmodified":1461797507,
+    "wof:name":"Cottman Transmission Ctr",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.588927,
+    43.055006,
+    -85.588927,
+    43.055006
+],
+  "geometry": {"coordinates":[-85.588927,43.055006],"type":"Point"}
+}

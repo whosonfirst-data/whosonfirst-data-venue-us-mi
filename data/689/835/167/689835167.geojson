@@ -1,0 +1,71 @@
+{
+  "id": 689835167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.523752,42.022263,-86.523752,42.022263",
+    "geom:latitude":42.022263,
+    "geom:longitude":-86.523752,
+    "iso:country":"US",
+    "sg:address":"5221 Ridge Rd",
+    "sg:city":"Stevensville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 5615",
+    "sg:postcode":"49127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZtniaxizW62sAXp8pLvNT_42.022263_-86.523752@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783005,
+    "wof:geomhash":"5ea363cac91ed242844f47aab3bef2e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":689835167
+        }
+    ],
+    "wof:id":689835167,
+    "wof:lastmodified":1461783005,
+    "wof:name":"Stevensville Electric",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.523752,
+    42.022263,
+    -86.523752,
+    42.022263
+],
+  "geometry": {"coordinates":[-86.523752,42.022263],"type":"Point"}
+}

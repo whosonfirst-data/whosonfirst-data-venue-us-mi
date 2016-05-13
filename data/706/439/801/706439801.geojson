@@ -1,0 +1,76 @@
+{
+  "id": 706439801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.610663,41.771271,-83.610663,41.771271",
+    "geom:latitude":41.771271,
+    "geom:longitude":-83.610663,
+    "iso:country":"US",
+    "sg:address":"2740 Consear Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0517",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "helicopter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Aca5Ug5INn0cPRisM1nV1_41.771271_-83.610663@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803203,
+    "wof:geomhash":"441b30650fcb94444abdf33da75550ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":706439801
+        }
+    ],
+    "wof:id":706439801,
+    "wof:lastmodified":1461803203,
+    "wof:name":"Precision Flight Service Inc",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter"
+    ]
+},
+  "bbox": [
+    -83.610663,
+    41.771271,
+    -83.610663,
+    41.771271
+],
+  "geometry": {"coordinates":[-83.610663,41.771271],"type":"Point"}
+}

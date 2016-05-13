@@ -1,0 +1,74 @@
+{
+  "id": 705734997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167558,43.345678,-86.167558,43.345678",
+    "geom:latitude":43.345678,
+    "geom:longitude":-86.167558,
+    "iso:country":"US",
+    "sg:address":"5386 Holton Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 6887",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.thecarplace.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iPppdo12Qbv8jgcDzdm9K_43.345678_-86.167558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787531,
+    "wof:geomhash":"e63ca0d0a5ed43854dbced5b2898e00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705734997
+        }
+    ],
+    "wof:id":705734997,
+    "wof:lastmodified":1461787531,
+    "wof:name":"Car Place",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.167558,
+    43.345678,
+    -86.167558,
+    43.345678
+],
+  "geometry": {"coordinates":[-86.167558,43.345678],"type":"Point"}
+}

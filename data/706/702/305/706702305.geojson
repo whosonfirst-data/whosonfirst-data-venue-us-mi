@@ -1,0 +1,69 @@
+{
+  "id": 706702305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.84919,42.674575,-82.84919,42.674575",
+    "geom:latitude":42.674575,
+    "geom:longitude":-82.84919,
+    "iso:country":"US",
+    "sg:address":"26090 23 Mile Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 4867",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834493,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MSbVMtyOoYxz77EDaD4zR_42.674575_-82.849190@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810175,
+    "wof:geomhash":"65a3a6e4dcf74329775c5e35aa099a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85834493,
+            "region_id":85688599,
+            "venue_id":706702305
+        }
+    ],
+    "wof:id":706702305,
+    "wof:lastmodified":1461810175,
+    "wof:name":"Metro International",
+    "wof:parent_id":85834493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -82.84919,
+    42.674575,
+    -82.84919,
+    42.674575
+],
+  "geometry": {"coordinates":[-82.84918999999999,42.674575],"type":"Point"}
+}

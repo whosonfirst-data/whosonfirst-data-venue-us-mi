@@ -1,0 +1,83 @@
+{
+  "id": 706731839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.412697,42.3619,-83.412697,42.3619",
+    "geom:latitude":42.3619,
+    "geom:longitude":-83.412697,
+    "iso:country":"US",
+    "sg:address":"37522 Ann Arbor Trl",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 432 0074",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SbYTHZdMUx2xHeLujVngK_42.361900_-83.412697@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811490,
+    "wof:geomhash":"7f17cd3f449d8ac4450f0063c08a1ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706731839
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706731839
+        }
+    ],
+    "wof:id":706731839,
+    "wof:lastmodified":1461811490,
+    "wof:name":"Tobacco Joe's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.412697,
+    42.3619,
+    -83.412697,
+    42.3619
+],
+  "geometry": {"coordinates":[-83.41269699999999,42.3619],"type":"Point"}
+}

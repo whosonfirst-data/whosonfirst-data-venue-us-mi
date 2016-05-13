@@ -1,0 +1,71 @@
+{
+  "id": 689912823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.454055,44.234665,-85.454055,44.234665",
+    "geom:latitude":44.234665,
+    "geom:longitude":-85.454055,
+    "iso:country":"US",
+    "sg:address":"2721 Sunnyside Dr",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 1737",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZor0GrUdR8SLeC5LFKf3_44.234665_-85.454055@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784929,
+    "wof:geomhash":"d0a3f3c4dd6f0b42ffa13402d2ccac04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689912823
+        }
+    ],
+    "wof:id":689912823,
+    "wof:lastmodified":1461784929,
+    "wof:name":"Coldwell Banker",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -85.454055,
+    44.234665,
+    -85.454055,
+    44.234665
+],
+  "geometry": {"coordinates":[-85.454055,44.234665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689787773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.70983,41.884191,-83.70983,41.884191",
+    "geom:latitude":41.884191,
+    "geom:longitude":-83.70983,
+    "iso:country":"US",
+    "sg:address":"4551 Sylvania-Petersburg Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 1150",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09vvX1YDuKX5wNVXELJekQ_41.884191_-83.709830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781459,
+    "wof:geomhash":"b5eadeaedc31c9cde06e24052c4f772d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689787773
+        }
+    ],
+    "wof:id":689787773,
+    "wof:lastmodified":1461781459,
+    "wof:name":"Bob's Country Market",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.70983,
+    41.884191,
+    -83.70983,
+    41.884191
+],
+  "geometry": {"coordinates":[-83.70983,41.884191],"type":"Point"}
+}

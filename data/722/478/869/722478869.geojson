@@ -1,0 +1,83 @@
+{
+  "id": 722478869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.058203,42.348215,-83.058203,42.348215",
+    "geom:latitude":42.348215,
+    "geom:longitude":-83.058203,
+    "iso:country":"US",
+    "sg:address":"3670 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 832 4744",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870587,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bcRFRjmeo2wNjSx8N9tf_42.348215_-83.058203@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812242,
+    "wof:geomhash":"4c47213422c4f4edadd51967494c202b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870587,
+            "region_id":85688599,
+            "venue_id":722478869
+        }
+    ],
+    "wof:id":722478869,
+    "wof:lastmodified":1461812242,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85870587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.058203,
+    42.348215,
+    -83.058203,
+    42.348215
+],
+  "geometry": {"coordinates":[-83.05820300000001,42.348215],"type":"Point"}
+}

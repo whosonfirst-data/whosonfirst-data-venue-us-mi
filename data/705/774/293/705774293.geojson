@@ -1,0 +1,73 @@
+{
+  "id": 705774293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598224,42.874711,-85.598224,42.874711",
+    "geom:latitude":42.874711,
+    "geom:longitude":-85.598224,
+    "iso:country":"US",
+    "sg:address":"4878 Breton Rd SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 656 5579",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0evVmVzQikwt9sjXLvfm7j_42.874711_-85.598224@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788415,
+    "wof:geomhash":"3bf755e6b5c2813f2278152385e4f42d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705774293
+        }
+    ],
+    "wof:id":705774293,
+    "wof:lastmodified":1461788415,
+    "wof:name":"Acesa Garage",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.598224,
+    42.874711,
+    -85.598224,
+    42.874711
+],
+  "geometry": {"coordinates":[-85.598224,42.874711],"type":"Point"}
+}

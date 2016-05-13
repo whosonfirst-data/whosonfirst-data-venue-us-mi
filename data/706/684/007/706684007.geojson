@@ -1,0 +1,74 @@
+{
+  "id": 706684007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.869963,42.52962,-85.869963,42.52962",
+    "geom:latitude":42.52962,
+    "geom:longitude":-85.869963,
+    "iso:country":"US",
+    "sg:address":"1509 Lincoln Rd",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/allegan/182178-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 686 1154",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QcCWehrC4pYdMfBa5ojUa_42.529620_-85.869963@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809446,
+    "wof:geomhash":"5b846ba3a8a8b117412a70232db41fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706684007
+        }
+    ],
+    "wof:id":706684007,
+    "wof:lastmodified":1461809446,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.869963,
+    42.52962,
+    -85.869963,
+    42.52962
+],
+  "geometry": {"coordinates":[-85.869963,42.52962],"type":"Point"}
+}

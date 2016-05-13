@@ -1,0 +1,71 @@
+{
+  "id": 706080493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.565422,42.933123,-82.565422,42.933123",
+    "geom:latitude":42.933123,
+    "geom:longitude":-82.565422,
+    "iso:country":"US",
+    "sg:address":"6154 Ravenswood Rd",
+    "sg:city":"Smiths Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 367 6143",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37z0telBIg3pd88jatiB5F_42.933123_-82.565422@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795264,
+    "wof:geomhash":"d007cd0d2346915a4a8d9d33794020c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706080493
+        }
+    ],
+    "wof:id":706080493,
+    "wof:lastmodified":1461795264,
+    "wof:name":"C&Z Specialist",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -82.565422,
+    42.933123,
+    -82.565422,
+    42.933123
+],
+  "geometry": {"coordinates":[-82.565422,42.933123],"type":"Point"}
+}

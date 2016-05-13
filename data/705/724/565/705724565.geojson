@@ -1,0 +1,69 @@
+{
+  "id": 705724565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.454467,41.809065,-83.454467,41.809065",
+    "geom:latitude":41.809065,
+    "geom:longitude":-83.454467,
+    "iso:country":"US",
+    "sg:address":"10600 Victory Rd",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 3601",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804009,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26EYtHW9MYBIuKFBmXfqka_41.809065_-83.454467@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787269,
+    "wof:geomhash":"7a8b5ac1940d4cc76d030c79c57c61d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":705724565
+        }
+    ],
+    "wof:id":705724565,
+    "wof:lastmodified":1461787269,
+    "wof:name":"Star Towing",
+    "wof:parent_id":85804009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.454467,
+    41.809065,
+    -83.454467,
+    41.809065
+],
+  "geometry": {"coordinates":[-83.45446699999999,41.809065],"type":"Point"}
+}

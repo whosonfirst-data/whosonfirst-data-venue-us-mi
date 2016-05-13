@@ -1,0 +1,79 @@
+{
+  "id": 706702723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.953467,42.553423,-82.953467,42.553423",
+    "geom:latitude":42.553423,
+    "geom:longitude":-82.953467,
+    "iso:country":"US",
+    "sg:address":"16664 Fifteen Mile Rd",
+    "sg:city":"Roseville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 3030",
+    "sg:postcode":"48066",
+    "sg:province":"MI",
+    "sg:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ],
+    "sg:website":"www.oakpsych.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txhTqtEqnpDO64XvU77BL_42.553423_-82.953467@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810190,
+    "wof:geomhash":"5486bd1099d15d4cb9d0a5bb512b4a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706702723
+        }
+    ],
+    "wof:id":706702723,
+    "wof:lastmodified":1461810190,
+    "wof:name":"Oakland Psychological Clinic PC",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -82.953467,
+    42.553423,
+    -82.953467,
+    42.553423
+],
+  "geometry": {"coordinates":[-82.953467,42.553423],"type":"Point"}
+}

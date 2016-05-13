@@ -1,0 +1,75 @@
+{
+  "id": 705698489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.444653,42.950204,-82.444653,42.950204",
+    "geom:latitude":42.950204,
+    "geom:longitude":-82.444653,
+    "iso:country":"US",
+    "sg:address":"1805 Cleveland Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 8120",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K3QdKmWtS3n8b0vDCBdPW_42.950204_-82.444653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786442,
+    "wof:geomhash":"27493536df0ba9f3f4402105783ec64e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":705698489
+        }
+    ],
+    "wof:id":705698489,
+    "wof:lastmodified":1461786442,
+    "wof:name":"Taylor Collision Inc",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.444653,
+    42.950204,
+    -82.444653,
+    42.950204
+],
+  "geometry": {"coordinates":[-82.444653,42.950204],"type":"Point"}
+}

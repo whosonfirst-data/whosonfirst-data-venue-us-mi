@@ -1,0 +1,74 @@
+{
+  "id": 706686459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.573075,42.912533,-85.573075,42.912533",
+    "geom:latitude":42.912533,
+    "geom:longitude":-85.573075,
+    "iso:country":"US",
+    "sg:address":"3835 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/9064-hooters/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 977 9464",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fPn97htfGj6EuEANjynSM_42.912533_-85.573075@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809537,
+    "wof:geomhash":"8eb0498878e3c7cc801fe04d8fbf430c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706686459
+        }
+    ],
+    "wof:id":706686459,
+    "wof:lastmodified":1461809537,
+    "wof:name":"Hooters",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -85.573075,
+    42.912533,
+    -85.573075,
+    42.912533
+],
+  "geometry": {"coordinates":[-85.573075,42.912533],"type":"Point"}
+}

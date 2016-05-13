@@ -1,0 +1,81 @@
+{
+  "id": 706688927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261671,41.827099,-86.261671,41.827099",
+    "geom:latitude":41.827099,
+    "geom:longitude":-86.261671,
+    "iso:country":"US",
+    "sg:address":"322 Grant St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/168144-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7346",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JEo1RCudV3Dh9LEfFCpOi_41.827029_-86.261577@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809630,
+    "wof:geomhash":"223f13976280b2bb199a9edca946ca0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706688927
+        }
+    ],
+    "wof:id":706688927,
+    "wof:lastmodified":1461809630,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -86.261671,
+    41.827099,
+    -86.261671,
+    41.827099
+],
+  "geometry": {"coordinates":[-86.26167100000001,41.827099],"type":"Point"}
+}

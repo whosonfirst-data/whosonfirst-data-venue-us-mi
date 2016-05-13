@@ -1,0 +1,71 @@
+{
+  "id": 706521273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.262975,43.206925,-86.262975,43.206925",
+    "geom:latitude":43.206925,
+    "geom:longitude":-86.262975,
+    "iso:country":"US",
+    "sg:address":"2544 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 830 9073",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_474iR8XlcNSB8djLMxD1FR_43.206925_-86.262975@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805060,
+    "wof:geomhash":"5384a11fd2fdc470927e3c53eb4a7e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706521273
+        }
+    ],
+    "wof:id":706521273,
+    "wof:lastmodified":1461805060,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.262975,
+    43.206925,
+    -86.262975,
+    43.206925
+],
+  "geometry": {"coordinates":[-86.262975,43.206925],"type":"Point"}
+}

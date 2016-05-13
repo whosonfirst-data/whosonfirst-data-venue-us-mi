@@ -1,0 +1,71 @@
+{
+  "id": 705720469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.79315,43.060291,-83.79315,43.060291",
+    "geom:latitude":43.060291,
+    "geom:longitude":-83.79315,
+    "iso:country":"US",
+    "sg:address":"6011 W Pierson Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 5566",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75oskNIVkZgP3BvICydcXO_43.060291_-83.793150@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787178,
+    "wof:geomhash":"ae51fc5bf135315059a3ca2dc619639e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705720469
+        }
+    ],
+    "wof:id":705720469,
+    "wof:lastmodified":1461787178,
+    "wof:name":"Mark Anderson DDS PC",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.79315,
+    43.060291,
+    -83.79315,
+    43.060291
+],
+  "geometry": {"coordinates":[-83.79315,43.060291],"type":"Point"}
+}

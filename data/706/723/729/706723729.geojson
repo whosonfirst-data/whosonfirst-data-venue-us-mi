@@ -1,0 +1,73 @@
+{
+  "id": 706723729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.456596,42.198799,-83.456596,42.198799",
+    "geom:latitude":42.198799,
+    "geom:longitude":-83.456596,
+    "iso:country":"US",
+    "sg:address":"45201 Owen St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 8711",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VCP1CSTZvOGqCa2sQt5It_42.198799_-83.456596@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811145,
+    "wof:geomhash":"578fe5c39062c8ad0dc43fcbaa7e4564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706723729
+        }
+    ],
+    "wof:id":706723729,
+    "wof:lastmodified":1461811145,
+    "wof:name":"South Middle School",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.456596,
+    42.198799,
+    -83.456596,
+    42.198799
+],
+  "geometry": {"coordinates":[-83.456596,42.198799],"type":"Point"}
+}

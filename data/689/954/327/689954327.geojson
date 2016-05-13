@@ -1,0 +1,73 @@
+{
+  "id": 689954327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.254945,43.212548,-86.254945,43.212548",
+    "geom:latitude":43.212548,
+    "geom:longitude":-86.254945,
+    "iso:country":"US",
+    "sg:address":"450 W Hackley Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 725 0505",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "engine",
+        "turbine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OPPi4EKGpDmZMnA8tkb1i_43.212548_-86.254945@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785980,
+    "wof:geomhash":"f098223d41ef9dc11a08c5ec305cf96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689954327
+        }
+    ],
+    "wof:id":689954327,
+    "wof:lastmodified":1461785980,
+    "wof:name":"Component Repair Management",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "turbine"
+    ]
+},
+  "bbox": [
+    -86.254945,
+    43.212548,
+    -86.254945,
+    43.212548
+],
+  "geometry": {"coordinates":[-86.25494500000001,43.212548],"type":"Point"}
+}

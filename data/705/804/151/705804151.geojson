@@ -1,0 +1,73 @@
+{
+  "id": 705804151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.595798,42.224787,-85.595798,42.224787",
+    "geom:latitude":42.224787,
+    "geom:longitude":-85.595798,
+    "iso:country":"US",
+    "sg:address":"700 Mall Dr",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 2441",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64vKpmrQ2BOwOBkhBM0SWK_42.224787_-85.595798@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789111,
+    "wof:geomhash":"37a453786e035b401a250373fecdf6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":705804151
+        }
+    ],
+    "wof:id":705804151,
+    "wof:lastmodified":1461789111,
+    "wof:name":"Milham Commons West",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -85.595798,
+    42.224787,
+    -85.595798,
+    42.224787
+],
+  "geometry": {"coordinates":[-85.595798,42.224787],"type":"Point"}
+}

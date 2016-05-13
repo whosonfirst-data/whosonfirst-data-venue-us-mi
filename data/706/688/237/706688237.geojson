@@ -1,0 +1,87 @@
+{
+  "id": 706688237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.476224,42.479591,-83.476224,42.479591",
+    "geom:latitude":42.479591,
+    "geom:longitude":-83.476224,
+    "iso:country":"US",
+    "sg:address":"25875 Novi Rd",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/novi/103132-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 374 1701",
+    "sg:postcode":"48375",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896653,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ruddfqq1ENgpT5usBgOdv_42.480100_-83.475609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809606,
+    "wof:geomhash":"34b05c3345498a49c5e34bf4bf4c73d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896653,
+            "region_id":85688599,
+            "venue_id":706688237
+        }
+    ],
+    "wof:id":706688237,
+    "wof:lastmodified":1461809606,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85896653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.476224,
+    42.479591,
+    -83.476224,
+    42.479591
+],
+  "geometry": {"coordinates":[-83.476224,42.479591],"type":"Point"}
+}

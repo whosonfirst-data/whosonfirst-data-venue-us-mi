@@ -1,0 +1,84 @@
+{
+  "id": 722481523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.991085,42.41469,-82.991085,42.41469",
+    "geom:latitude":42.41469,
+    "geom:longitude":-82.991085,
+    "iso:country":"US",
+    "sg:address":"23055 Gratiot Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 371 6060",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "major",
+        "part",
+        "appliances-small"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870561,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axzInXlIYUOfg6w6ZRZG6_42.414690_-82.991085@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812350,
+    "wof:geomhash":"77beddafe7ce97f49d6c4e532cc803e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870561,
+            "region_id":85688599,
+            "venue_id":722481523
+        }
+    ],
+    "wof:id":722481523,
+    "wof:lastmodified":1461812350,
+    "wof:name":"Pointe Appliance Inc",
+    "wof:parent_id":85870561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "part",
+        "appliances-small"
+    ]
+},
+  "bbox": [
+    -82.991085,
+    42.41469,
+    -82.991085,
+    42.41469
+],
+  "geometry": {"coordinates":[-82.991085,42.41469],"type":"Point"}
+}

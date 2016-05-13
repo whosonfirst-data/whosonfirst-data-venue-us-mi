@@ -1,0 +1,73 @@
+{
+  "id": 706620003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.525727,41.762143,-83.525727,41.762143",
+    "geom:latitude":41.762143,
+    "geom:longitude":-83.525727,
+    "iso:country":"US",
+    "sg:address":"8005 S Telegraph Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0332",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85842547,
+        102084787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bXltCF1U0RDlGSkMcP4Wx_41.762143_-83.525727@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807149,
+    "wof:geomhash":"6564e870e495dd64209341fb67202c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":706620003
+        }
+    ],
+    "wof:id":706620003,
+    "wof:lastmodified":1461807149,
+    "wof:name":"Jay's Automotive",
+    "wof:parent_id":85842547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.525727,
+    41.762143,
+    -83.525727,
+    41.762143
+],
+  "geometry": {"coordinates":[-83.525727,41.762143],"type":"Point"}
+}

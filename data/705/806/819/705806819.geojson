@@ -1,0 +1,79 @@
+{
+  "id": 705806819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.949471,42.53423,-82.949471,42.53423",
+    "geom:latitude":42.53423,
+    "geom:longitude":-82.949471,
+    "iso:country":"US",
+    "sg:address":"32210 Garfield Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 2930",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896679,
+        102191575,
+        404507393,
+        85633793,
+        85951617,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yhIG6M7UCOGfhOsVbvUXj_42.534230_-82.949471@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789166,
+    "wof:geomhash":"f10d79dc5905e731199bdfb31ca7ad6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507393,
+            "locality_id":85951617,
+            "neighbourhood_id":85896679,
+            "region_id":85688599,
+            "venue_id":705806819
+        }
+    ],
+    "wof:id":705806819,
+    "wof:lastmodified":1461789166,
+    "wof:name":"Garfield Collision",
+    "wof:parent_id":85896679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.949471,
+    42.53423,
+    -82.949471,
+    42.53423
+],
+  "geometry": {"coordinates":[-82.949471,42.53423],"type":"Point"}
+}

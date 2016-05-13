@@ -1,0 +1,84 @@
+{
+  "id": 705977227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.609395,43.075568,-85.609395,43.075568",
+    "geom:latitude":43.075568,
+    "geom:longitude":-85.609395,
+    "iso:country":"US",
+    "sg:address":"6195 Belmont Ave NE",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 361 9090",
+    "sg:postcode":"49306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "control",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vbnU69QLvTmrvIMJP2JZ8_43.075568_-85.609395@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793109,
+    "wof:geomhash":"54f5e96038d55faaf7bd3c2761ae4b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":705977227
+        }
+    ],
+    "wof:id":705977227,
+    "wof:lastmodified":1461793109,
+    "wof:name":"Consolidated Controls Company",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.609395,
+    43.075568,
+    -85.609395,
+    43.075568
+],
+  "geometry": {"coordinates":[-85.60939500000001,43.075568],"type":"Point"}
+}

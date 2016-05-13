@@ -1,0 +1,73 @@
+{
+  "id": 706599089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.039218,46.481075,-90.039218,46.481075",
+    "geom:latitude":46.481075,
+    "geom:longitude":-90.039218,
+    "iso:country":"US",
+    "sg:address":"1002 E Lead St",
+    "sg:city":"Bessemer",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 663 4633",
+    "sg:postcode":"49911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951285,
+        102083009,
+        85859297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wDxo7FcyJa8eqFKKqAVtA_46.481075_-90.039218@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806711,
+    "wof:geomhash":"30a76a0d0a10c1ae7d777b9130d84da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951285,
+            "neighbourhood_id":85859297,
+            "region_id":85688599,
+            "venue_id":706599089
+        }
+    ],
+    "wof:id":706599089,
+    "wof:lastmodified":1461806711,
+    "wof:name":"Check Equals Cash",
+    "wof:parent_id":85859297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -90.039218,
+    46.481075,
+    -90.039218,
+    46.481075
+],
+  "geometry": {"coordinates":[-90.03921800000001,46.481075],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 722477427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.584999,42.2537,-83.584999,42.2537",
+    "geom:latitude":42.2537,
+    "geom:longitude":-83.584999,
+    "iso:country":"US",
+    "sg:address":"1326 Holmes Rd Apt 4",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 480 6020",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ffmZ0rOU7cczZkJhAdSsM_42.253700_-83.584999@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812172,
+    "wof:geomhash":"cd2349e8aaaff776c0f843968f80caaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":722477427
+        }
+    ],
+    "wof:id":722477427,
+    "wof:lastmodified":1461812172,
+    "wof:name":"Oakridge Apartments",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.584999,
+    42.2537,
+    -83.584999,
+    42.2537
+],
+  "geometry": {"coordinates":[-83.584999,42.2537],"type":"Point"}
+}

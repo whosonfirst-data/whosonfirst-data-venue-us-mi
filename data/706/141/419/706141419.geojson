@@ -1,0 +1,75 @@
+{
+  "id": 706141419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.090999,42.81384,-86.090999,42.81384",
+    "geom:latitude":42.81384,
+    "geom:longitude":-86.090999,
+    "iso:country":"US",
+    "sg:address":"2500 Van Ommen Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 3510",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qag0tcRiyGx7LGu6Ojmxe_42.813840_-86.090999@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796794,
+    "wof:geomhash":"4326596de8b2a9aedd6d63fe29008afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706141419
+        }
+    ],
+    "wof:id":706141419,
+    "wof:lastmodified":1461796794,
+    "wof:name":"East End Radiator Service Inc",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.090999,
+    42.81384,
+    -86.090999,
+    42.81384
+],
+  "geometry": {"coordinates":[-86.090999,42.81384],"type":"Point"}
+}

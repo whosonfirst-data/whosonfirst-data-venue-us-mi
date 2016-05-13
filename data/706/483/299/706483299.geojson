@@ -1,0 +1,71 @@
+{
+  "id": 706483299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647393,42.14259,-85.647393,42.14259",
+    "geom:latitude":42.14259,
+    "geom:longitude":-85.647393,
+    "iso:country":"US",
+    "sg:address":"12046 S 12th St",
+    "sg:city":"Schoolcraft",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 679 5637",
+    "sg:postcode":"49087",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YNVkxDKbyeKhyROwiMWsh_42.142590_-85.647393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804140,
+    "wof:geomhash":"acdb33dc21e2d07e26c838f81a404815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706483299
+        }
+    ],
+    "wof:id":706483299,
+    "wof:lastmodified":1461804140,
+    "wof:name":"Thompson Pump Repair",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.647393,
+    42.14259,
+    -85.647393,
+    42.14259
+],
+  "geometry": {"coordinates":[-85.64739299999999,42.14259],"type":"Point"}
+}

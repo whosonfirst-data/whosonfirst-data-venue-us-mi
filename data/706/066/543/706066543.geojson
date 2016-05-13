@@ -1,0 +1,69 @@
+{
+  "id": 706066543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.294616,42.870855,-83.294616,42.870855",
+    "geom:latitude":42.870855,
+    "geom:longitude":-83.294616,
+    "iso:country":"US",
+    "sg:address":"3214 Adventure Ln",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 628 5650",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852153,
+        102083637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FlKbUTqvS7s99NxUaK49r_42.870855_-83.294616@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794956,
+    "wof:geomhash":"9b0049eb00674b3ff5b011bc4888bd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083637,
+            "neighbourhood_id":85852153,
+            "region_id":85688599,
+            "venue_id":706066543
+        }
+    ],
+    "wof:id":706066543,
+    "wof:lastmodified":1461794956,
+    "wof:name":"Auto Crafters Collision",
+    "wof:parent_id":85852153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.294616,
+    42.870855,
+    -83.294616,
+    42.870855
+],
+  "geometry": {"coordinates":[-83.294616,42.870855],"type":"Point"}
+}

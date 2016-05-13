@@ -1,0 +1,71 @@
+{
+  "id": 706456531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.395436,42.696632,-83.395436,42.696632",
+    "geom:latitude":42.696632,
+    "geom:longitude":-83.395436,
+    "iso:country":"US",
+    "sg:address":"5421 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 7711",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VrsuYp8AqB2lZCCcDEHwC_42.696632_-83.395436@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803579,
+    "wof:geomhash":"611c3c12b4b7567f47a3de1033117e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706456531
+        }
+    ],
+    "wof:id":706456531,
+    "wof:lastmodified":1461803579,
+    "wof:name":"Sparky's Towing",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.395436,
+    42.696632,
+    -83.395436,
+    42.696632
+],
+  "geometry": {"coordinates":[-83.395436,42.696632],"type":"Point"}
+}

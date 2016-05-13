@@ -1,0 +1,66 @@
+{
+  "id": 705950927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.215715,43.077015,-86.215715,43.077015",
+    "geom:latitude":43.077015,
+    "geom:longitude":-86.215715,
+    "iso:country":"US",
+    "sg:address":"123 Pine St",
+    "sg:city":"Ferrysburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 2420",
+    "sg:postcode":"49409",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAUG7AiSjKEGAFgOxblv7_43.077015_-86.215715@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792549,
+    "wof:geomhash":"dc4338b8a7caa7a613e24c3bca0ad265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705950927
+        }
+    ],
+    "wof:id":705950927,
+    "wof:lastmodified":1461792549,
+    "wof:name":"Dockside E-Z Mart",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.215715,
+    43.077015,
+    -86.215715,
+    43.077015
+],
+  "geometry": {"coordinates":[-86.215715,43.077015],"type":"Point"}
+}

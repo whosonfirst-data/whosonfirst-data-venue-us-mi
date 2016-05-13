@@ -1,0 +1,71 @@
+{
+  "id": 706365121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433393,42.269311,-84.433393,42.269311",
+    "geom:latitude":42.269311,
+    "geom:longitude":-84.433393,
+    "iso:country":"US",
+    "sg:address":"1062 Jackson Xing",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 768 2739",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ntEA4234MEQy0Vg6nnMO7_42.269311_-84.433393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801715,
+    "wof:geomhash":"57ed91570aefdb4f868a19d3ca42c233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706365121
+        }
+    ],
+    "wof:id":706365121,
+    "wof:lastmodified":1461801715,
+    "wof:name":"Things Brewed",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -84.433393,
+    42.269311,
+    -84.433393,
+    42.269311
+],
+  "geometry": {"coordinates":[-84.433393,42.269311],"type":"Point"}
+}

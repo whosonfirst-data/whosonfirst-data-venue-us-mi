@@ -1,0 +1,73 @@
+{
+  "id": 705972129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281249,42.647844,-84.281249,42.647844",
+    "geom:latitude":42.647844,
+    "geom:longitude":-84.281249,
+    "iso:country":"US",
+    "sg:address":"2380 N Williamston Rd",
+    "sg:city":"Williamston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 655 6497",
+    "sg:postcode":"48895",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LhHIziv9lM4wmrsRiPL14_42.647844_-84.281249@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793008,
+    "wof:geomhash":"f4c5d0bbfb6c3721152e547439b68752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705972129
+        }
+    ],
+    "wof:id":705972129,
+    "wof:lastmodified":1461793008,
+    "wof:name":"Dan's Services",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.281249,
+    42.647844,
+    -84.281249,
+    42.647844
+],
+  "geometry": {"coordinates":[-84.281249,42.647844],"type":"Point"}
+}

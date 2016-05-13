@@ -1,0 +1,77 @@
+{
+  "id": 705800537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.131472,42.677419,-83.131472,42.677419",
+    "geom:latitude":42.677419,
+    "geom:longitude":-83.131472,
+    "iso:country":"US",
+    "sg:address":"259 Mill St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 651 6339",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DZ5VFneyEMvJ0V47I05t9_42.677419_-83.131472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789029,
+    "wof:geomhash":"25163ec1b169637e99f365be37a431f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":705800537
+        }
+    ],
+    "wof:id":705800537,
+    "wof:lastmodified":1461789029,
+    "wof:name":"Bill's Automotive",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.131472,
+    42.677419,
+    -83.131472,
+    42.677419
+],
+  "geometry": {"coordinates":[-83.131472,42.677419],"type":"Point"}
+}

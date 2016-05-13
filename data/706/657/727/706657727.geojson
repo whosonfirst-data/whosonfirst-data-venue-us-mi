@@ -1,0 +1,79 @@
+{
+  "id": 706657727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3339,42.4468,-83.3339,42.4468",
+    "geom:latitude":42.4468,
+    "geom:longitude":-83.3339,
+    "iso:country":"US",
+    "sg:address":"29105 Grand River Ave",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 478 0911",
+    "sg:postcode":"48336",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "transmission",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524561,
+        102191575,
+        404508187,
+        85633793,
+        85951999,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_085Et0bZm9oCKdFEo4vAIf_42.447016_-83.334486@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808328,
+    "wof:geomhash":"548d5d3f290252aba1de3253b3843174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508187,
+            "locality_id":85951999,
+            "neighbourhood_id":420524561,
+            "region_id":85688599,
+            "venue_id":706657727
+        }
+    ],
+    "wof:id":706657727,
+    "wof:lastmodified":1461808328,
+    "wof:name":"American Transmission",
+    "wof:parent_id":420524561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "transmission",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.3339,
+    42.4468,
+    -83.3339,
+    42.4468
+],
+  "geometry": {"coordinates":[-83.3339,42.4468],"type":"Point"}
+}

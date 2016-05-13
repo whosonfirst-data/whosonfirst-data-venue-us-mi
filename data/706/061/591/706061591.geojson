@@ -1,0 +1,73 @@
+{
+  "id": 706061591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.582273,42.906122,-85.582273,42.906122",
+    "geom:latitude":42.906122,
+    "geom:longitude":-85.582273,
+    "iso:country":"US",
+    "sg:address":"3108 Broadmoor Ave SE",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 4249",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uttsBPpFMjIzEbOwLpLqJ_42.906122_-85.582273@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794844,
+    "wof:geomhash":"d344cea17369706a17fdb99b710d5e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706061591
+        }
+    ],
+    "wof:id":706061591,
+    "wof:lastmodified":1461794844,
+    "wof:name":"Kim's K-9 Training Ctr",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -85.582273,
+    42.906122,
+    -85.582273,
+    42.906122
+],
+  "geometry": {"coordinates":[-85.582273,42.906122],"type":"Point"}
+}

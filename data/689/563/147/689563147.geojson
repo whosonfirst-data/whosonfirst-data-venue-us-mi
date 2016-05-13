@@ -1,0 +1,71 @@
+{
+  "id": 689563147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43669,42.085052,-86.43669,42.085052",
+    "geom:latitude":42.085052,
+    "geom:longitude":-86.43669,
+    "iso:country":"US",
+    "sg:address":"1800 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 0096",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7645i32M75Qtcjhw73BAGI_42.085052_-86.436690@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775108,
+    "wof:geomhash":"2f8bb436f746e7b97865abea206b0402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689563147
+        }
+    ],
+    "wof:id":689563147,
+    "wof:lastmodified":1461775108,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.43669,
+    42.085052,
+    -86.43669,
+    42.085052
+],
+  "geometry": {"coordinates":[-86.43669,42.085052],"type":"Point"}
+}

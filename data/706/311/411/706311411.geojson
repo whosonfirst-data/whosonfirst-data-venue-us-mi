@@ -1,0 +1,71 @@
+{
+  "id": 706311411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.672708,42.252489,-83.672708,42.252489",
+    "geom:latitude":42.252489,
+    "geom:longitude":-83.672708,
+    "iso:country":"US",
+    "sg:address":"4569 Washtenaw Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 477 9350",
+    "sg:postcode":"48108",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41JuYk268jJeobb1tv44HB_42.252489_-83.672708@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800543,
+    "wof:geomhash":"25815a66e4a9d43d13812e047c6cee2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":706311411
+        }
+    ],
+    "wof:id":706311411,
+    "wof:lastmodified":1461800543,
+    "wof:name":"Randazzo Dance Studio",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -83.672708,
+    42.252489,
+    -83.672708,
+    42.252489
+],
+  "geometry": {"coordinates":[-83.672708,42.252489],"type":"Point"}
+}

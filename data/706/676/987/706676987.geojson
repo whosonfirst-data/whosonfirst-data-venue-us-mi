@@ -1,0 +1,78 @@
+{
+  "id": 706676987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.750176,42.2795,-83.750176,42.2795",
+    "geom:latitude":42.2795,
+    "geom:longitude":-83.750176,
+    "iso:country":"US",
+    "sg:address":"221 W Liberty St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/258910-pizza-pino/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 994 9858",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875899,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rxwDPNfJfaNK3ei2rnmbB_42.279500_-83.750176@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809161,
+    "wof:geomhash":"7855cf0bc5d2a53568656bb77b98f853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875899,
+            "region_id":85688599,
+            "venue_id":706676987
+        }
+    ],
+    "wof:id":706676987,
+    "wof:lastmodified":1461809161,
+    "wof:name":"Pizza Pino",
+    "wof:parent_id":85875899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.750176,
+    42.2795,
+    -83.750176,
+    42.2795
+],
+  "geometry": {"coordinates":[-83.750176,42.2795],"type":"Point"}
+}

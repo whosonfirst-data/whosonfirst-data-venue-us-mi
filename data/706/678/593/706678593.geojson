@@ -1,0 +1,72 @@
+{
+  "id": 706678593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.567663,42.216849,-83.567663,42.216849",
+    "geom:latitude":42.216849,
+    "geom:longitude":-83.567663,
+    "iso:country":"US",
+    "sg:address":"2121 S Grove St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/40634-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 483 8000",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BKLX84XFG6t731p4rjYFg_42.216849_-83.567663@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809230,
+    "wof:geomhash":"1b488004b293b4c7f6c2051f0e1f2547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678593
+        }
+    ],
+    "wof:id":706678593,
+    "wof:lastmodified":1461809230,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.567663,
+    42.216849,
+    -83.567663,
+    42.216849
+],
+  "geometry": {"coordinates":[-83.567663,42.216849],"type":"Point"}
+}

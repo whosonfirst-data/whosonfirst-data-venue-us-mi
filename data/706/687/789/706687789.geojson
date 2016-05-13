@@ -1,0 +1,78 @@
+{
+  "id": 706687789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.129131,42.592993,-83.129131,42.592993",
+    "geom:latitude":42.592993,
+    "geom:longitude":-83.129131,
+    "iso:country":"US",
+    "sg:address":"5072 Rochester Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/troy/24178-jets-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 528 1800",
+    "sg:postcode":"48085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cWJLDzR7tt0SydEukTsbm_42.593177_-83.129076@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809590,
+    "wof:geomhash":"605c7c4ea4d8a326e8e404a831df8341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706687789
+        }
+    ],
+    "wof:id":706687789,
+    "wof:lastmodified":1461809590,
+    "wof:name":"Jet's Pizza",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.129131,
+    42.592993,
+    -83.129131,
+    42.592993
+],
+  "geometry": {"coordinates":[-83.129131,42.592993],"type":"Point"}
+}

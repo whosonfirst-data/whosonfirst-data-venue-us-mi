@@ -1,0 +1,73 @@
+{
+  "id": 706105743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.078408,45.753578,-87.078408,45.753578",
+    "geom:latitude":45.753578,
+    "geom:longitude":-87.078408,
+    "iso:country":"US",
+    "sg:address":"2201 6th Ave N",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 6730",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DRdU4yO6LCO0ZL4iWbWCC_45.753578_-87.078408@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795899,
+    "wof:geomhash":"eab46900d85f1063fb868fb00201d624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706105743
+        }
+    ],
+    "wof:id":706105743,
+    "wof:lastmodified":1461795899,
+    "wof:name":"Edwards Collision Ctr",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.078408,
+    45.753578,
+    -87.078408,
+    45.753578
+],
+  "geometry": {"coordinates":[-87.078408,45.753578],"type":"Point"}
+}

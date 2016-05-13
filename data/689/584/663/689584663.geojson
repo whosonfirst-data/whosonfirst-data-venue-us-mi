@@ -1,0 +1,73 @@
+{
+  "id": 689584663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.819553,43.351243,-85.819553,43.351243",
+    "geom:latitude":43.351243,
+    "geom:longitude":-85.819553,
+    "iso:country":"US",
+    "sg:address":"469 W 112th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 8441",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_000H6tR5SHRztSx6mnkQKX_43.351243_-85.819553@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775757,
+    "wof:geomhash":"7af2678aa612e13a9b8cb1293d11fee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689584663
+        }
+    ],
+    "wof:id":689584663,
+    "wof:lastmodified":1461775757,
+    "wof:name":"Nelson's Farm Market",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -85.819553,
+    43.351243,
+    -85.819553,
+    43.351243
+],
+  "geometry": {"coordinates":[-85.819553,43.351243],"type":"Point"}
+}

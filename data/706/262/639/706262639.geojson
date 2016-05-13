@@ -1,0 +1,75 @@
+{
+  "id": 706262639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.056354,42.380774,-83.056354,42.380774",
+    "geom:latitude":42.380774,
+    "geom:longitude":-83.056354,
+    "iso:country":"US",
+    "sg:address":"1925 Clay St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 872 3700",
+    "sg:postcode":"48211",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870607,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DXMjwrerKcADkXi5ezpPh_42.380774_-83.056354@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799457,
+    "wof:geomhash":"22e97d75f9be6bfff950eef6e0ee41fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870607,
+            "region_id":85688599,
+            "venue_id":706262639
+        }
+    ],
+    "wof:id":706262639,
+    "wof:lastmodified":1461799457,
+    "wof:name":"Ivan Doverspike Co",
+    "wof:parent_id":85870607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -83.056354,
+    42.380774,
+    -83.056354,
+    42.380774
+],
+  "geometry": {"coordinates":[-83.056354,42.380774],"type":"Point"}
+}

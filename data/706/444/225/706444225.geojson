@@ -1,0 +1,71 @@
+{
+  "id": 706444225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.19099,42.576369,-86.19099,42.576369",
+    "geom:latitude":42.576369,
+    "geom:longitude":-86.19099,
+    "iso:country":"US",
+    "sg:address":"6625 Pine Hill Dr",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 543 8900",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805003,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_728fobPgsFCnf4Zi1QLbKB_42.576369_-86.190990@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803308,
+    "wof:geomhash":"b91312f92b081f402b0403b393697355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85805003,
+            "region_id":85688599,
+            "venue_id":706444225
+        }
+    ],
+    "wof:id":706444225,
+    "wof:lastmodified":1461803308,
+    "wof:name":"Sideline Electric",
+    "wof:parent_id":85805003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.19099,
+    42.576369,
+    -86.19099,
+    42.576369
+],
+  "geometry": {"coordinates":[-86.19099,42.576369],"type":"Point"}
+}

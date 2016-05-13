@@ -1,0 +1,73 @@
+{
+  "id": 706276911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.662273,42.354286,-83.662273,42.354286",
+    "geom:latitude":42.354286,
+    "geom:longitude":-83.662273,
+    "iso:country":"US",
+    "sg:address":"5594 N Dixboro Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 665 3878",
+    "sg:postcode":"48105",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "travel",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875869,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nCsMxEEzqm39imHzKkvRR_42.354286_-83.662273@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799773,
+    "wof:geomhash":"3820445bb8c5d9ced3f38a90e7d56cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875869,
+            "region_id":85688599,
+            "venue_id":706276911
+        }
+    ],
+    "wof:id":706276911,
+    "wof:lastmodified":1461799773,
+    "wof:name":"A & J Travel Service",
+    "wof:parent_id":85875869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "travel",
+        "agency"
+    ]
+},
+  "bbox": [
+    -83.662273,
+    42.354286,
+    -83.662273,
+    42.354286
+],
+  "geometry": {"coordinates":[-83.662273,42.354286],"type":"Point"}
+}

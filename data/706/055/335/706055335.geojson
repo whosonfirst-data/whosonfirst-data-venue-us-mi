@@ -1,0 +1,71 @@
+{
+  "id": 706055335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.730706,43.010216,-83.730706,43.010216",
+    "geom:latitude":43.010216,
+    "geom:longitude":-83.730706,
+    "iso:country":"US",
+    "sg:address":"3333 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 9393",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EAtzOH6IktJhtof89QBGR_43.010216_-83.730706@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794717,
+    "wof:geomhash":"4b8d7457bffd49dfd8525b136c54eaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706055335
+        }
+    ],
+    "wof:id":706055335,
+    "wof:lastmodified":1461794717,
+    "wof:name":"Troy Cleaners",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.730706,
+    43.010216,
+    -83.730706,
+    43.010216
+],
+  "geometry": {"coordinates":[-83.730706,43.010216],"type":"Point"}
+}

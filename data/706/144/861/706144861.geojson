@@ -1,0 +1,71 @@
+{
+  "id": 706144861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.82931,42.90716,-85.82931,42.90716",
+    "geom:latitude":42.90716,
+    "geom:longitude":-85.82931,
+    "iso:country":"US",
+    "sg:address":"1832 Baldwin St",
+    "sg:city":"Jenison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 457 9030",
+    "sg:postcode":"49428",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RwCocgszw5o3CA26sjEhX_42.907160_-85.829310@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796861,
+    "wof:geomhash":"c27b3e714c1872547e24e2c0bad2ce3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706144861
+        }
+    ],
+    "wof:id":706144861,
+    "wof:lastmodified":1461796861,
+    "wof:name":"Family Allergy Clinic",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.82931,
+    42.90716,
+    -85.82931,
+    42.90716
+],
+  "geometry": {"coordinates":[-85.82931000000001,42.90716],"type":"Point"}
+}

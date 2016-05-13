@@ -1,0 +1,73 @@
+{
+  "id": 689479467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.682565,42.240498,-85.682565,42.240498",
+    "geom:latitude":42.240498,
+    "geom:longitude":-85.682565,
+    "iso:country":"US",
+    "sg:address":"6677 Beatrice Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 372 4288",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42HXBcdtXHvLtEHnd3gbp7_42.240498_-85.682565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772503,
+    "wof:geomhash":"33cab480f8e28b00c37ce0c65fe09ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":689479467
+        }
+    ],
+    "wof:id":689479467,
+    "wof:lastmodified":1461772503,
+    "wof:name":"TLC Group Inc",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.682565,
+    42.240498,
+    -85.682565,
+    42.240498
+],
+  "geometry": {"coordinates":[-85.682565,42.240498],"type":"Point"}
+}

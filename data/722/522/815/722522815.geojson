@@ -1,0 +1,92 @@
+{
+  "id": 722522815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.69413,43.08207,-83.69413,43.08207",
+    "geom:latitude":43.08207,
+    "geom:longitude":-83.69413,
+    "iso:country":"US",
+    "sg:address":"G5227 N Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 787 1061",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "italian",
+        "pizza",
+        "take",
+        "caterer"
+    ],
+    "sg:website":"http://www.romaspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KAsHH02OhMp12V1Yyx8Yj_43.082070_-83.694130@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814062,
+    "wof:geomhash":"288036db114c1e53c8642b3ba3468cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":722522815
+        }
+    ],
+    "wof:id":722522815,
+    "wof:lastmodified":1461814062,
+    "wof:name":"Roma Pizzeria & Restaurant",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza",
+        "take",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.69413,
+    43.08207,
+    -83.69413,
+    43.08207
+],
+  "geometry": {"coordinates":[-83.69413,43.08207],"type":"Point"}
+}

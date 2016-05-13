@@ -1,0 +1,71 @@
+{
+  "id": 705786009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.36827,42.53271,-83.36827,42.53271",
+    "geom:latitude":42.53271,
+    "geom:longitude":-83.36827,
+    "iso:country":"US",
+    "sg:address":"7295 Finnegan Dr",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 855 3389",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qzRDSVClQX9ftQNPUomOA_42.532710_-83.368270@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788712,
+    "wof:geomhash":"dbe2f87590e4d4cfcabd15003abee9a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":705786009
+        }
+    ],
+    "wof:id":705786009,
+    "wof:lastmodified":1461788712,
+    "wof:name":"Nate Plumbing",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.36827,
+    42.53271,
+    -83.36827,
+    42.53271
+],
+  "geometry": {"coordinates":[-83.36827,42.53271],"type":"Point"}
+}

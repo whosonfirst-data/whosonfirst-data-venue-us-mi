@@ -1,0 +1,69 @@
+{
+  "id": 706669433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952499,42.605099,-82.952499,42.605099",
+    "geom:latitude":42.605099,
+    "geom:longitude":-82.952499,
+    "iso:country":"US",
+    "sg:address":"41820 Garfield Rd",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 5121",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DrqynoWWSLHopDv9DUNM0_42.605189_-82.952579@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808839,
+    "wof:geomhash":"81f878a500572cee9c99df10b824c51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706669433
+        }
+    ],
+    "wof:id":706669433,
+    "wof:lastmodified":1461808839,
+    "wof:name":"Greg's Bakery",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -82.952499,
+    42.605099,
+    -82.952499,
+    42.605099
+],
+  "geometry": {"coordinates":[-82.952499,42.605099],"type":"Point"}
+}

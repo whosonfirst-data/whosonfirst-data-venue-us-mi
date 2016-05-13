@@ -1,0 +1,75 @@
+{
+  "id": 705908599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.622984,42.245645,-83.622984,42.245645",
+    "geom:latitude":42.245645,
+    "geom:longitude":-83.622984,
+    "iso:country":"US",
+    "sg:address":"735 W Cross Ave",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 6320",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "apartment",
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dgzt06IuvtFeIqoKU2x2M_42.245645_-83.622984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791598,
+    "wof:geomhash":"54d2831761cb7bda5ef1d7f1d40a7e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":705908599
+        }
+    ],
+    "wof:id":705908599,
+    "wof:lastmodified":1461791598,
+    "wof:name":"Washington Arms Apts",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "apartment",
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.622984,
+    42.245645,
+    -83.622984,
+    42.245645
+],
+  "geometry": {"coordinates":[-83.622984,42.245645],"type":"Point"}
+}

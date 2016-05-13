@@ -1,0 +1,71 @@
+{
+  "id": 706627403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625131,42.86681,-85.625131,42.86681",
+    "geom:latitude":42.86681,
+    "geom:longitude":-85.625131,
+    "iso:country":"US",
+    "sg:address":"5256 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 9070",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IxB3ipXotXwrWh67fgmmp_42.866810_-85.625131@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807295,
+    "wof:geomhash":"6cc071c5c9df50166b18095bbd12ffac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706627403
+        }
+    ],
+    "wof:id":706627403,
+    "wof:lastmodified":1461807295,
+    "wof:name":"Princeton Family Dentistry PC",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.625131,
+    42.86681,
+    -85.625131,
+    42.86681
+],
+  "geometry": {"coordinates":[-85.625131,42.86681],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 705899141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.189643,42.675568,-83.189643,42.675568",
+    "geom:latitude":42.675568,
+    "geom:longitude":-83.189643,
+    "iso:country":"US",
+    "sg:address":"2901 Hillendale Dr",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 375 5996",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mfg",
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896797,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uyoVP4Rm6xRckPJzOciuo_42.675568_-83.189643@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791391,
+    "wof:geomhash":"acbc327c0c0b2d3ea36f9816d8fd68d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896797,
+            "region_id":85688599,
+            "venue_id":705899141
+        }
+    ],
+    "wof:id":705899141,
+    "wof:lastmodified":1461791391,
+    "wof:name":"Production Components Inc",
+    "wof:parent_id":85896797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -83.189643,
+    42.675568,
+    -83.189643,
+    42.675568
+],
+  "geometry": {"coordinates":[-83.189643,42.675568],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 689543519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625707,44.729253,-85.625707,44.729253",
+    "geom:latitude":44.729253,
+    "geom:longitude":-85.625707,
+    "iso:country":"US",
+    "sg:address":"3016 Cass Rd",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 4212",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TevxFgV3ZonyQFQeQbIzG_44.729253_-85.625707@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774471,
+    "wof:geomhash":"d2ad001efad2a66b9ef4c956a611e71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689543519
+        }
+    ],
+    "wof:id":689543519,
+    "wof:lastmodified":1461774471,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -85.625707,
+    44.729253,
+    -85.625707,
+    44.729253
+],
+  "geometry": {"coordinates":[-85.62570700000001,44.729253],"type":"Point"}
+}

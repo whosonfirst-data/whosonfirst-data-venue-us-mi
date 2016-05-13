@@ -1,0 +1,71 @@
+{
+  "id": 706648029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.253953,41.827898,-86.253953,41.827898",
+    "geom:latitude":41.827898,
+    "geom:longitude":-86.253953,
+    "iso:country":"US",
+    "sg:address":"1 S 5th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 687 9607",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xqn92XPr3oJxkkeaAXSH4_41.827898_-86.253953@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807844,
+    "wof:geomhash":"82fe423e47501a914959b413cadab6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706648029
+        }
+    ],
+    "wof:id":706648029,
+    "wof:lastmodified":1461807844,
+    "wof:name":"George E Drake MD PC",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.253953,
+    41.827898,
+    -86.253953,
+    41.827898
+],
+  "geometry": {"coordinates":[-86.253953,41.827898],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 705865301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591892,42.729085,-84.591892,42.729085",
+    "geom:latitude":42.729085,
+    "geom:longitude":-84.591892,
+    "iso:country":"US",
+    "sg:address":"601 Lentz Ct",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 484 1337",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.sosexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85864301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tnyeY23OXjhJeq36WT9ml_42.729085_-84.591892@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790562,
+    "wof:geomhash":"18b5731eaee8702955230faf2e344e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85864301,
+            "region_id":85688599,
+            "venue_id":705865301
+        }
+    ],
+    "wof:id":705865301,
+    "wof:lastmodified":1461790562,
+    "wof:name":"SOS Express",
+    "wof:parent_id":85864301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -84.591892,
+    42.729085,
+    -84.591892,
+    42.729085
+],
+  "geometry": {"coordinates":[-84.591892,42.729085],"type":"Point"}
+}

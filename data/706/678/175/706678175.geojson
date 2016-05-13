@@ -1,0 +1,93 @@
+{
+  "id": 706678175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.268915,42.225831,-83.268915,42.225831",
+    "geom:latitude":42.225831,
+    "geom:longitude":-83.268915,
+    "iso:country":"US",
+    "sg:address":"11111 Telegraph Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/taylor/133207-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 287 6650",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31XunQP4XsZ7A9q0cCbtdO_42.225831_-83.268915@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809215,
+    "wof:geomhash":"db96333c921c7d7aa5a35b70938308da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706678175
+        }
+    ],
+    "wof:id":706678175,
+    "wof:lastmodified":1461809215,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.268915,
+    42.225831,
+    -83.268915,
+    42.225831
+],
+  "geometry": {"coordinates":[-83.26891500000001,42.225831],"type":"Point"}
+}

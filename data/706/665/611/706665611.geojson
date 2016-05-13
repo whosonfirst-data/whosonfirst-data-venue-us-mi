@@ -1,0 +1,90 @@
+{
+  "id": 706665611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.104202,42.542999,-83.104202,42.542999",
+    "geom:latitude":42.542999,
+    "geom:longitude":-83.104202,
+    "iso:country":"US",
+    "sg:address":"2127 N Lovington Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 585 4499",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85896589,
+        404508209,
+        85952031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o0lajoElq72ey1hP9R2UA_42.543079_-83.104471@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808690,
+    "wof:geomhash":"56c8c9fe880a3c2ddc614a1dc669074f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":706665611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":706665611
+        }
+    ],
+    "wof:id":706665611,
+    "wof:lastmodified":1461808690,
+    "wof:name":"Canterbury Square Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.104202,
+    42.542999,
+    -83.104202,
+    42.542999
+],
+  "geometry": {"coordinates":[-83.104202,42.542999],"type":"Point"}
+}

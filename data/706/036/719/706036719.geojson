@@ -1,0 +1,71 @@
+{
+  "id": 706036719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.232422,43.042538,-86.232422,43.042538",
+    "geom:latitude":43.042538,
+    "geom:longitude":-86.232422,
+    "iso:country":"US",
+    "sg:address":"15045 Fairmount Ct",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 3997",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uJWa1leNiBlhvluI38XzJ_43.042538_-86.232422@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794341,
+    "wof:geomhash":"2b7c059bd1042830703c2e5fa94f9cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":706036719
+        }
+    ],
+    "wof:id":706036719,
+    "wof:lastmodified":1461794341,
+    "wof:name":"Beacon Lock Svc",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.232422,
+    43.042538,
+    -86.232422,
+    43.042538
+],
+  "geometry": {"coordinates":[-86.232422,43.042538],"type":"Point"}
+}

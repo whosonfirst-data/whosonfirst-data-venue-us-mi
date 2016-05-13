@@ -1,0 +1,71 @@
+{
+  "id": 689922185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.45746,43.049659,-82.45746,43.049659",
+    "geom:latitude":43.049659,
+    "geom:longitude":-82.45746,
+    "iso:country":"US",
+    "sg:address":"4863 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 0034",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SdKmpho2tp0UGpYTHOAE9_43.049659_-82.457460@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785170,
+    "wof:geomhash":"024c63693d6022ac0a10b000564bcaf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689922185
+        }
+    ],
+    "wof:id":689922185,
+    "wof:lastmodified":1461785170,
+    "wof:name":"Michaels Car Care Ctr Inc",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.45746,
+    43.049659,
+    -82.45746,
+    43.049659
+],
+  "geometry": {"coordinates":[-82.45746,43.049659],"type":"Point"}
+}

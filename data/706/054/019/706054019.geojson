@@ -1,0 +1,71 @@
+{
+  "id": 706054019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.731131,43.025388,-83.731131,43.025388",
+    "geom:latitude":43.025388,
+    "geom:longitude":-83.731131,
+    "iso:country":"US",
+    "sg:address":"1102 N Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 235 7947",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0erdoFSHVl6rEIVvHkQN7K_43.025388_-83.731131@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794691,
+    "wof:geomhash":"d7e08cd74111908b878afe639dd1e97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706054019
+        }
+    ],
+    "wof:id":706054019,
+    "wof:lastmodified":1461794691,
+    "wof:name":"Westown Marathon",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.731131,
+    43.025388,
+    -83.731131,
+    43.025388
+],
+  "geometry": {"coordinates":[-83.731131,43.025388],"type":"Point"}
+}

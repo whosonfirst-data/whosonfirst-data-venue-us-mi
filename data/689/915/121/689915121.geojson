@@ -1,0 +1,71 @@
+{
+  "id": 689915121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633042,44.763951,-85.633042,44.763951",
+    "geom:latitude":44.763951,
+    "geom:longitude":-85.633042,
+    "iso:country":"US",
+    "sg:address":"611 W Front St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 8747",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HMMs63LUYmqpGhOm7dMDN_44.763951_-85.633042@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784986,
+    "wof:geomhash":"a5fd20b1d6ac25f03f002407ddd939eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689915121
+        }
+    ],
+    "wof:id":689915121,
+    "wof:lastmodified":1461784986,
+    "wof:name":"Nash Electrical Contracting",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.633042,
+    44.763951,
+    -85.633042,
+    44.763951
+],
+  "geometry": {"coordinates":[-85.633042,44.763951],"type":"Point"}
+}

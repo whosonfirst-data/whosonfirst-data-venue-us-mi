@@ -1,0 +1,87 @@
+{
+  "id": 706695137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.28656,42.447743,-83.28656,42.447743",
+    "geom:latitude":42.447743,
+    "geom:longitude":-83.28656,
+    "iso:country":"US",
+    "sg:address":"21223 Hilltop St",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 353 0100",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instrument",
+        "robotics",
+        "electronic",
+        "equipment"
+    ],
+    "sg:website":"http://www.geltd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870509,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zkwifa2HDwp6HBLvL59CF_42.447743_-83.286560@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809875,
+    "wof:geomhash":"0b09f0db9ea7a5d3636aef0b706a1204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870509,
+            "region_id":85688599,
+            "venue_id":706695137
+        }
+    ],
+    "wof:id":706695137,
+    "wof:lastmodified":1461809875,
+    "wof:name":"Global Electronics Limited",
+    "wof:parent_id":85870509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "robotics",
+        "electronic",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -83.28656,
+    42.447743,
+    -83.28656,
+    42.447743
+],
+  "geometry": {"coordinates":[-83.28655999999999,42.447743],"type":"Point"}
+}

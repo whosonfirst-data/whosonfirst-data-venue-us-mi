@@ -1,0 +1,70 @@
+{
+  "id": 706674225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469002,42.371101,-83.469002,42.371101",
+    "geom:latitude":42.371101,
+    "geom:longitude":-83.469002,
+    "iso:country":"US",
+    "sg:address":"280 S Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 3333",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.schrader-howell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G98Fi3ShxdeDvOBlEroKb_42.371033_-83.468948@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809049,
+    "wof:geomhash":"64396c1e3512f4144daeda40215c15a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706674225
+        }
+    ],
+    "wof:id":706674225,
+    "wof:lastmodified":1461809049,
+    "wof:name":"Schrader-Howell Funeral Home",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -83.469002,
+    42.371101,
+    -83.469002,
+    42.371101
+],
+  "geometry": {"coordinates":[-83.469002,42.371101],"type":"Point"}
+}

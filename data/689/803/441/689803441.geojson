@@ -1,0 +1,71 @@
+{
+  "id": 689803441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689867,42.781665,-85.689867,42.781665",
+    "geom:latitude":42.781665,
+    "geom:longitude":-85.689867,
+    "iso:country":"US",
+    "sg:address":"10100 Sedroc Industrial Dr SW",
+    "sg:city":"Byron Center",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 877 9935",
+    "sg:postcode":"49315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T1h8FRNyLKIruRt1vIkop_42.781665_-85.689867@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781993,
+    "wof:geomhash":"d5f414ea113582244d58398a901595a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689803441
+        }
+    ],
+    "wof:id":689803441,
+    "wof:lastmodified":1461781993,
+    "wof:name":"Cordes INC",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.689867,
+    42.781665,
+    -85.689867,
+    42.781665
+],
+  "geometry": {"coordinates":[-85.68986700000001,42.781665],"type":"Point"}
+}

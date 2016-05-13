@@ -1,0 +1,73 @@
+{
+  "id": 689660533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.938583,43.410757,-85.938583,43.410757",
+    "geom:latitude":43.410757,
+    "geom:longitude":-85.938583,
+    "iso:country":"US",
+    "sg:address":"5555 Ronda Dr",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2465",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYvPj2vM8upnTZP0kjjj6_43.410757_-85.938583@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778140,
+    "wof:geomhash":"3990a9a206e38a133a74fd9fb016af04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689660533
+        }
+    ],
+    "wof:id":689660533,
+    "wof:lastmodified":1461778140,
+    "wof:name":"Growing Tots Child Care",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -85.938583,
+    43.410757,
+    -85.938583,
+    43.410757
+],
+  "geometry": {"coordinates":[-85.93858299999999,43.410757],"type":"Point"}
+}

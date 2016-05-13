@@ -1,0 +1,80 @@
+{
+  "id": 706125045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658391,42.932469,-85.658391,42.932469",
+    "geom:latitude":42.932469,
+    "geom:longitude":-85.658391,
+    "iso:country":"US",
+    "sg:address":"1717 Madison Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 241 3369",
+    "sg:postcode":"49507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877891,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ENg1p0Nq9WFcwfEuPrtTD_42.932469_-85.658391@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796387,
+    "wof:geomhash":"a0195afea76e0143fe975ff8cae0894c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877891,
+            "region_id":85688599,
+            "venue_id":706125045
+        }
+    ],
+    "wof:id":706125045,
+    "wof:lastmodified":1461796387,
+    "wof:name":"San Francisco Suite",
+    "wof:parent_id":85877891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.658391,
+    42.932469,
+    -85.658391,
+    42.932469
+],
+  "geometry": {"coordinates":[-85.65839099999999,42.932469],"type":"Point"}
+}

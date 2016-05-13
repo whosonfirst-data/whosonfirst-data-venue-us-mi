@@ -1,0 +1,71 @@
+{
+  "id": 706115549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257146,41.829988,-86.257146,41.829988",
+    "geom:latitude":41.829988,
+    "geom:longitude":-86.257146,
+    "iso:country":"US",
+    "sg:address":"227 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7460",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42JShwTO6LUGnw1qoDc1bV_41.829988_-86.257146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796154,
+    "wof:geomhash":"fe707ab21b4df7d05e9ec95493eac9d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706115549
+        }
+    ],
+    "wof:id":706115549,
+    "wof:lastmodified":1461796154,
+    "wof:name":"Berrien County Cancer Svc Inc",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -86.257146,
+    41.829988,
+    -86.257146,
+    41.829988
+],
+  "geometry": {"coordinates":[-86.25714600000001,41.829988],"type":"Point"}
+}

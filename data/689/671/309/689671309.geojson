@@ -1,0 +1,73 @@
+{
+  "id": 689671309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.536618,42.303144,-85.536618,42.303144",
+    "geom:latitude":42.303144,
+    "geom:longitude":-85.536618,
+    "iso:country":"US",
+    "sg:address":"3502 E Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 8528",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xu4naC1rfs6hyRiEeXH7r_42.303144_-85.536618@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778411,
+    "wof:geomhash":"f5625e221fa6651b6a0d665623413853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689671309
+        }
+    ],
+    "wof:id":689671309,
+    "wof:lastmodified":1461778411,
+    "wof:name":"East Main Cleaners",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -85.536618,
+    42.303144,
+    -85.536618,
+    42.303144
+],
+  "geometry": {"coordinates":[-85.536618,42.303144],"type":"Point"}
+}

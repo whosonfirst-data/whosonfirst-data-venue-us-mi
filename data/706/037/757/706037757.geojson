@@ -1,0 +1,71 @@
+{
+  "id": 706037757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.464472,42.371058,-83.464472,42.371058",
+    "geom:latitude":42.371058,
+    "geom:longitude":-83.464472,
+    "iso:country":"US",
+    "sg:address":"199 Hamilton St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 454 9046",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43c5wtPrcRNuiIOvGCn1Nd_42.371058_-83.464472@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794360,
+    "wof:geomhash":"2ad1556b121284fa24065c4add9e03db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706037757
+        }
+    ],
+    "wof:id":706037757,
+    "wof:lastmodified":1461794360,
+    "wof:name":"Caswell Dental Lab",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.464472,
+    42.371058,
+    -83.464472,
+    42.371058
+],
+  "geometry": {"coordinates":[-83.464472,42.371058],"type":"Point"}
+}

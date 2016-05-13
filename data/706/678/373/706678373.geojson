@@ -1,0 +1,72 @@
+{
+  "id": 706678373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.45879,42.308204,-83.45879,42.308204",
+    "geom:latitude":42.308204,
+    "geom:longitude":-83.45879,
+    "iso:country":"US",
+    "sg:address":"42476 Cherry Hill Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/canton/142227-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 844 8510",
+    "sg:postcode":"48187",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IVO8OCvLRjkvEyLzFLtPF_42.308204_-83.458790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809222,
+    "wof:geomhash":"dc68b6e0dcd394fd97aed1b224fb807b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":706678373
+        }
+    ],
+    "wof:id":706678373,
+    "wof:lastmodified":1461809222,
+    "wof:name":"Subway",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.45879,
+    42.308204,
+    -83.45879,
+    42.308204
+],
+  "geometry": {"coordinates":[-83.45878999999999,42.308204],"type":"Point"}
+}

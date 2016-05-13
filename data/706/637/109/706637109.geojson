@@ -1,0 +1,69 @@
+{
+  "id": 706637109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.643444,42.18248,-84.643444,42.18248",
+    "geom:latitude":42.18248,
+    "geom:longitude":-84.643444,
+    "iso:country":"US",
+    "sg:address":"210 Spring Arbor Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 6130",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64q2P6iN1CACwfjLbT7DNv_42.182480_-84.643444@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807516,
+    "wof:geomhash":"5977475b40e1fa682499ffc0b3c554c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706637109
+        }
+    ],
+    "wof:id":706637109,
+    "wof:lastmodified":1461807516,
+    "wof:name":"Concord Laundromat",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.643444,
+    42.18248,
+    -84.643444,
+    42.18248
+],
+  "geometry": {"coordinates":[-84.643444,42.18248],"type":"Point"}
+}

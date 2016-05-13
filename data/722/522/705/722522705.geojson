@@ -1,0 +1,75 @@
+{
+  "id": 722522705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.710556,43.014415,-83.710556,43.014415",
+    "geom:latitude":43.014415,
+    "geom:longitude":-83.710556,
+    "iso:country":"US",
+    "sg:address":"1518 University Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 760 1594",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kY9T3WkiMHiXqp6j8obIw_43.014415_-83.710556@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814054,
+    "wof:geomhash":"eddb4689ddddf2442ea0be3661609f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":722522705
+        }
+    ],
+    "wof:id":722522705,
+    "wof:lastmodified":1461814054,
+    "wof:name":"Flint Community Schools",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.710556,
+    43.014415,
+    -83.710556,
+    43.014415
+],
+  "geometry": {"coordinates":[-83.710556,43.014415],"type":"Point"}
+}

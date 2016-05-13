@@ -1,0 +1,86 @@
+{
+  "id": 706682759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.457219,42.589165,-84.457219,42.589165",
+    "geom:latitude":42.589165,
+    "geom:longitude":-84.457219,
+    "iso:country":"US",
+    "sg:address":"660 N Cedar St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mason/26747-big-boy-restaurants/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 4401",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70vXOpeK0CpfYuPZA6p6jv_42.589165_-84.457219@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809393,
+    "wof:geomhash":"3500bd75097d88404b9e9f2664b6f17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682759
+        }
+    ],
+    "wof:id":706682759,
+    "wof:lastmodified":1461809393,
+    "wof:name":"Big Boy Restaurants",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.457219,
+    42.589165,
+    -84.457219,
+    42.589165
+],
+  "geometry": {"coordinates":[-84.45721899999999,42.589165],"type":"Point"}
+}

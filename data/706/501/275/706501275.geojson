@@ -1,0 +1,71 @@
+{
+  "id": 706501275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.691306,42.127491,-84.691306,42.127491",
+    "geom:latitude":42.127491,
+    "geom:longitude":-84.691306,
+    "iso:country":"US",
+    "sg:address":"9080 Wheeler Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 6561",
+    "sg:postcode":"49241",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v422kqRZJaRW8ydL0bmmO_42.127491_-84.691306@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804674,
+    "wof:geomhash":"853d478b6b81a019192db2e8847988f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706501275
+        }
+    ],
+    "wof:id":706501275,
+    "wof:lastmodified":1461804674,
+    "wof:name":"Cardiovascular Imaging Conslnt",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -84.691306,
+    42.127491,
+    -84.691306,
+    42.127491
+],
+  "geometry": {"coordinates":[-84.691306,42.127491],"type":"Point"}
+}

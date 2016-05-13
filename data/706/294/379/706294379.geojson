@@ -1,0 +1,67 @@
+{
+  "id": 706294379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.068315,45.820418,-88.068315,45.820418",
+    "geom:latitude":45.820418,
+    "geom:longitude":-88.068315,
+    "iso:country":"US",
+    "sg:address":"101 W Ludington St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 6804",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mZYdN25EtT0QMdYtCFzM1_45.820418_-88.068315@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800185,
+    "wof:geomhash":"5884c21fb5f59bac6dcdb9dfbb996428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706294379
+        }
+    ],
+    "wof:id":706294379,
+    "wof:lastmodified":1461800185,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.068315,
+    45.820418,
+    -88.068315,
+    45.820418
+],
+  "geometry": {"coordinates":[-88.068315,45.820418],"type":"Point"}
+}

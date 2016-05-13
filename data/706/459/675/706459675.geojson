@@ -1,0 +1,75 @@
+{
+  "id": 706459675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.237581,42.261917,-83.237581,42.261917",
+    "geom:latitude":42.261917,
+    "geom:longitude":-83.237581,
+    "iso:country":"US",
+    "sg:address":"20516 Lorne St",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 928 1234",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524953,
+        102191575,
+        404508531,
+        85633793,
+        85951057,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cpNyMikxN0l9MD8hja6BT_42.261917_-83.237581@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803635,
+    "wof:geomhash":"daaa218ef8262a6d3abc6c2ce1903aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508531,
+            "locality_id":85951057,
+            "neighbourhood_id":420524953,
+            "region_id":85688599,
+            "venue_id":706459675
+        }
+    ],
+    "wof:id":706459675,
+    "wof:lastmodified":1461803635,
+    "wof:name":"Product 1 Auto Body",
+    "wof:parent_id":420524953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.237581,
+    42.261917,
+    -83.237581,
+    42.261917
+],
+  "geometry": {"coordinates":[-83.23758100000001,42.261917],"type":"Point"}
+}

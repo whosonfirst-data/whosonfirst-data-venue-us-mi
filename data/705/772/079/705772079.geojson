@@ -1,0 +1,73 @@
+{
+  "id": 705772079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436712,42.098909,-86.436712,42.098909",
+    "geom:latitude":42.098909,
+    "geom:longitude":-86.436712,
+    "iso:country":"US",
+    "sg:address":"1001 Pipestone St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 7696",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sFnU3sSCN8XIY4LkmL9iM_42.098909_-86.436712@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788347,
+    "wof:geomhash":"987a716419fec5397fc7609c0ad76af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705772079
+        }
+    ],
+    "wof:id":705772079,
+    "wof:lastmodified":1461788347,
+    "wof:name":"Communications Maintenance Co",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.436712,
+    42.098909,
+    -86.436712,
+    42.098909
+],
+  "geometry": {"coordinates":[-86.436712,42.098909],"type":"Point"}
+}

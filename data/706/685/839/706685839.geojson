@@ -1,0 +1,74 @@
+{
+  "id": 706685839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.207557,43.234173,-86.207557,43.234173",
+    "geom:latitude":43.234173,
+    "geom:longitude":-86.207557,
+    "iso:country":"US",
+    "sg:address":"1480 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/50902-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 225 1600",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tAphzKhAIJzvWLLIqzpzp_43.234173_-86.207557@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809514,
+    "wof:geomhash":"25fef68adb11b49e6fee9ba00939b673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685839
+        }
+    ],
+    "wof:id":706685839,
+    "wof:lastmodified":1461809514,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.207557,
+    43.234173,
+    -86.207557,
+    43.234173
+],
+  "geometry": {"coordinates":[-86.20755699999999,43.234173],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689585159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.955019,42.631275,-82.955019,42.631275",
+    "geom:latitude":42.631275,
+    "geom:longitude":-82.955019,
+    "iso:country":"US",
+    "sg:address":"45505 Garfield Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 228 8387",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20fV1NYjuk13HepeOiQLZq_42.631275_-82.955019@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775777,
+    "wof:geomhash":"dfe76ef1685b9b65d03a6cbf68924649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689585159
+        }
+    ],
+    "wof:id":689585159,
+    "wof:lastmodified":1461775777,
+    "wof:name":"St Francis Animal Hospital",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.955019,
+    42.631275,
+    -82.955019,
+    42.631275
+],
+  "geometry": {"coordinates":[-82.95501899999999,42.631275],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 706324377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.422339,42.352589,-83.422339,42.352589",
+    "geom:latitude":42.352589,
+    "geom:longitude":-83.422339,
+    "iso:country":"US",
+    "sg:address":"38565 Joy Rd",
+    "sg:city":"Westland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 564 5866",
+    "sg:postcode":"48185",
+    "sg:province":"MI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31emLcmGOHJAzBVzB3SniV_42.352589_-83.422339@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800843,
+    "wof:geomhash":"29ff1b3ed1cbd0e2b622e4de7680ddce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706324377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706324377
+        }
+    ],
+    "wof:id":706324377,
+    "wof:lastmodified":1461800843,
+    "wof:name":"Imperial Hardscapes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -83.422339,
+    42.352589,
+    -83.422339,
+    42.352589
+],
+  "geometry": {"coordinates":[-83.42233899999999,42.352589],"type":"Point"}
+}

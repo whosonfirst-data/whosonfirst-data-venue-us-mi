@@ -1,0 +1,69 @@
+{
+  "id": 705838047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.415092,47.187552,-88.415092,47.187552",
+    "geom:latitude":47.187552,
+    "geom:longitude":-88.415092,
+    "iso:country":"US",
+    "sg:address":"5400 Bridge St",
+    "sg:city":"Lake Linden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 296 3221",
+    "sg:postcode":"49945",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852549,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SyXwSKaDkpJ14xuVk9xtJ_47.187552_-88.415092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789909,
+    "wof:geomhash":"ea70bb6014b763f94264f586c943e050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85852549,
+            "region_id":85688599,
+            "venue_id":705838047
+        }
+    ],
+    "wof:id":705838047,
+    "wof:lastmodified":1461789909,
+    "wof:name":"Supervalu",
+    "wof:parent_id":85852549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.415092,
+    47.187552,
+    -88.415092,
+    47.187552
+],
+  "geometry": {"coordinates":[-88.415092,47.187552],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 689935931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.304333,41.957147,-86.304333,41.957147",
+    "geom:latitude":41.957147,
+    "geom:longitude":-86.304333,
+    "iso:country":"US",
+    "sg:address":"6414 Deans Hill Rd",
+    "sg:city":"Berrien Center",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 2831",
+    "sg:postcode":"49102",
+    "sg:province":"MI",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SD8hjIGOEWWrAHNEMU5SK_41.957147_-86.304333@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785512,
+    "wof:geomhash":"9b08653bfe0feb408fdb407f799c6141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689935931
+        }
+    ],
+    "wof:id":689935931,
+    "wof:lastmodified":1461785512,
+    "wof:name":"Berrien County Juvenile Center",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -86.304333,
+    41.957147,
+    -86.304333,
+    41.957147
+],
+  "geometry": {"coordinates":[-86.304333,41.957147],"type":"Point"}
+}

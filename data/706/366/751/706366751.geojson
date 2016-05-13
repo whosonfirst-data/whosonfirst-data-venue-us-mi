@@ -1,0 +1,71 @@
+{
+  "id": 706366751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.318097,42.657878,-83.318097,42.657878",
+    "geom:latitude":42.657878,
+    "geom:longitude":-83.318097,
+    "iso:country":"US",
+    "sg:address":"929 Oakland Ave",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 4921",
+    "sg:postcode":"48340",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kF2GwjC7yo47CWrMjcY3U_42.657878_-83.318097@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801746,
+    "wof:geomhash":"0e0c38094db6ffdb133a624ff19586ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":706366751
+        }
+    ],
+    "wof:id":706366751,
+    "wof:lastmodified":1461801746,
+    "wof:name":"First Student Inc",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -83.318097,
+    42.657878,
+    -83.318097,
+    42.657878
+],
+  "geometry": {"coordinates":[-83.31809699999999,42.657878],"type":"Point"}
+}

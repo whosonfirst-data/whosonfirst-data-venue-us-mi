@@ -1,0 +1,74 @@
+{
+  "id": 706680465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.383742,42.688409,-83.383742,42.688409",
+    "geom:latitude":42.688409,
+    "geom:longitude":-83.383742,
+    "iso:country":"US",
+    "sg:address":"4775 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/182477-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 9008",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6106cPGh3ZRL0d7VFSrZnn_42.688409_-83.383742@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809297,
+    "wof:geomhash":"4bfa24f476ba983f4280e198dca75cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706680465
+        }
+    ],
+    "wof:id":706680465,
+    "wof:lastmodified":1461809297,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.383742,
+    42.688409,
+    -83.383742,
+    42.688409
+],
+  "geometry": {"coordinates":[-83.383742,42.688409],"type":"Point"}
+}

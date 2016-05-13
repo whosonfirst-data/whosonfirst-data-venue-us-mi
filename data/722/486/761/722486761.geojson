@@ -1,0 +1,81 @@
+{
+  "id": 722486761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.075997,42.331377,-83.075997,42.331377",
+    "geom:latitude":42.331377,
+    "geom:longitude":-83.075997,
+    "iso:country":"US",
+    "sg:address":"2134 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 963 9891",
+    "sg:postcode":"48216",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.oconnordetroit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870551,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aJUpjzkjBgYJGskyL3x5y_42.331377_-83.075997@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812553,
+    "wof:geomhash":"c1ceffabec1475dc77681bdb8c4a7fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870551,
+            "region_id":85688599,
+            "venue_id":722486761
+        }
+    ],
+    "wof:id":722486761,
+    "wof:lastmodified":1461812553,
+    "wof:name":"O'Connor Realty",
+    "wof:parent_id":85870551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.075997,
+    42.331377,
+    -83.075997,
+    42.331377
+],
+  "geometry": {"coordinates":[-83.075997,42.331377],"type":"Point"}
+}

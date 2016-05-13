@@ -1,0 +1,70 @@
+{
+  "id": 722510097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.999952,42.627735,-82.999952,42.627735",
+    "geom:latitude":42.627735,
+    "geom:longitude":-82.999952,
+    "iso:country":"US",
+    "sg:address":"45050 Northpointe Blvd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 803 1815",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RsEnJAKbmXqRVb5WL7p8M_42.627735_-82.999952@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813474,
+    "wof:geomhash":"611bf1becec0e1221105cac647c5e1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":722510097
+        }
+    ],
+    "wof:id":722510097,
+    "wof:lastmodified":1461813474,
+    "wof:name":"Banfield Pet Hospital",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.999952,
+    42.627735,
+    -82.999952,
+    42.627735
+],
+  "geometry": {"coordinates":[-82.99995199999999,42.627735],"type":"Point"}
+}

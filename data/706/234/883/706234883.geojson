@@ -1,0 +1,83 @@
+{
+  "id": 706234883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.21132,43.207474,-86.21132,43.207474",
+    "geom:latitude":43.207474,
+    "geom:longitude":-86.21132,
+    "iso:country":"US",
+    "sg:address":"1365 Mercy Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 9095",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "medical",
+        "supply",
+        "impaired"
+    ],
+    "sg:website":"www.westmichent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WQo0jKGprSpFwvJ1uhSSC_43.207474_-86.211320@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798815,
+    "wof:geomhash":"5f4d8dced61e7337b4476b540667c487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706234883
+        }
+    ],
+    "wof:id":706234883,
+    "wof:lastmodified":1461798815,
+    "wof:name":"West Michigan Hearing Center",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "medical",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -86.21132,
+    43.207474,
+    -86.21132,
+    43.207474
+],
+  "geometry": {"coordinates":[-86.21132,43.207474],"type":"Point"}
+}

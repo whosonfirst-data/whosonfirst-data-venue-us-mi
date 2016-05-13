@@ -1,0 +1,73 @@
+{
+  "id": 706526813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.173613,43.078107,-86.173613,43.078107",
+    "geom:latitude":43.078107,
+    "geom:longitude":-86.173613,
+    "iso:country":"US",
+    "sg:address":"17035 Lloyds Bayou Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 6970",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cLVts6EGeT4pTWwkMJirN_43.078107_-86.173613@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805165,
+    "wof:geomhash":"39eea124d6b3195316ae5da2623322f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706526813
+        }
+    ],
+    "wof:id":706526813,
+    "wof:lastmodified":1461805165,
+    "wof:name":"Hometown Car Wash",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.173613,
+    43.078107,
+    -86.173613,
+    43.078107
+],
+  "geometry": {"coordinates":[-86.173613,43.078107],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 705972143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.918735,42.389101,-82.918735,42.389101",
+    "geom:latitude":42.389101,
+    "geom:longitude":-82.918735,
+    "iso:country":"US",
+    "sg:address":"1171 Cadieux Rd",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 885 3256",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qab6tqhsMFBq7fzA4tw8M_42.389101_-82.918735@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793009,
+    "wof:geomhash":"61f86ba3d903780bbb0f4781185900c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":705972143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":705972143
+        }
+    ],
+    "wof:id":705972143,
+    "wof:lastmodified":1461793009,
+    "wof:name":"Lake Shore Striders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.918735,
+    42.389101,
+    -82.918735,
+    42.389101
+],
+  "geometry": {"coordinates":[-82.918735,42.389101],"type":"Point"}
+}

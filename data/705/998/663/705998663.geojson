@@ -1,0 +1,73 @@
+{
+  "id": 705998663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.068356,45.819438,-88.068356,45.819438",
+    "geom:latitude":45.819438,
+    "geom:longitude":-88.068356,
+    "iso:country":"US",
+    "sg:address":"401 Carpenter Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 2364",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Hkk5s2lIC0mfaJDkUOte_45.819438_-88.068356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793551,
+    "wof:geomhash":"74c46cfded1d8a3ef2327a88e3644537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705998663
+        }
+    ],
+    "wof:id":705998663,
+    "wof:lastmodified":1461793551,
+    "wof:name":"Eagle Automotive",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.068356,
+    45.819438,
+    -88.068356,
+    45.819438
+],
+  "geometry": {"coordinates":[-88.06835599999999,45.819438],"type":"Point"}
+}

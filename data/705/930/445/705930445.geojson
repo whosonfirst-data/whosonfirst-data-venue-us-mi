@@ -1,0 +1,77 @@
+{
+  "id": 705930445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.630966,43.11212,-83.630966,43.11212",
+    "geom:latitude":43.11212,
+    "geom:longitude":-83.630966,
+    "iso:country":"US",
+    "sg:address":"4096 Gregor St",
+    "sg:city":"Mt Morris",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 640 1341",
+    "sg:postcode":"48458",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36JO0lihIIK1iII0WcF7ml_43.112120_-83.630966@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792069,
+    "wof:geomhash":"15d264b106aef70251dc74c7ff028fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":705930445
+        }
+    ],
+    "wof:id":705930445,
+    "wof:lastmodified":1461792069,
+    "wof:name":"Quality Plumbing",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.630966,
+    43.11212,
+    -83.630966,
+    43.11212
+],
+  "geometry": {"coordinates":[-83.630966,43.11212],"type":"Point"}
+}

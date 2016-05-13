@@ -1,0 +1,72 @@
+{
+  "id": 706676659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.770323,42.240229,-83.770323,42.240229",
+    "geom:latitude":42.240229,
+    "geom:longitude":-83.770323,
+    "iso:country":"US",
+    "sg:address":"3127 Oak Valley Dr",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pittsfield/24056-jets-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 222 7544",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85891629,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FzVUsKH7ZTrvh7W4W3uKC_42.240229_-83.770323@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809150,
+    "wof:geomhash":"4e521c6fb7827b0b6aadfbdc281255ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85891629,
+            "region_id":85688599,
+            "venue_id":706676659
+        }
+    ],
+    "wof:id":706676659,
+    "wof:lastmodified":1461809150,
+    "wof:name":"Jet's Pizza",
+    "wof:parent_id":85891629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.770323,
+    42.240229,
+    -83.770323,
+    42.240229
+],
+  "geometry": {"coordinates":[-83.770323,42.240229],"type":"Point"}
+}

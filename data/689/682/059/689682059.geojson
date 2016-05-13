@@ -1,0 +1,71 @@
+{
+  "id": 689682059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907517,45.787095,-87.907517,45.787095",
+    "geom:latitude":45.787095,
+    "geom:longitude":-87.907517,
+    "iso:country":"US",
+    "sg:address":"621 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 8484",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fLVA9erqbIYKRXWNKExGy_45.787095_-87.907517@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778670,
+    "wof:geomhash":"bbfb84a9debee725df13e9f310684c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689682059
+        }
+    ],
+    "wof:id":689682059,
+    "wof:lastmodified":1461778670,
+    "wof:name":"American Legion",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -87.907517,
+    45.787095,
+    -87.907517,
+    45.787095
+],
+  "geometry": {"coordinates":[-87.907517,45.787095],"type":"Point"}
+}

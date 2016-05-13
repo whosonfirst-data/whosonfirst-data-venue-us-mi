@@ -1,0 +1,71 @@
+{
+  "id": 689848339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.269565,42.830796,-83.269565,42.830796",
+    "geom:latitude":42.830796,
+    "geom:longitude":-83.269565,
+    "iso:country":"US",
+    "sg:address":"385 N Lapeer Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 969 7350",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eVqmstr0d6cdFsuONZuF7_42.830796_-83.269565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783278,
+    "wof:geomhash":"84b8305c9cd51d43c7351af3d24dc7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":689848339
+        }
+    ],
+    "wof:id":689848339,
+    "wof:lastmodified":1461783278,
+    "wof:name":"Pontiac Osteopathic Hospital",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.269565,
+    42.830796,
+    -83.269565,
+    42.830796
+],
+  "geometry": {"coordinates":[-83.269565,42.830796],"type":"Point"}
+}

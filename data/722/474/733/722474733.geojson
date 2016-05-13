@@ -1,0 +1,80 @@
+{
+  "id": 722474733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.487539,42.27193,-83.487539,42.27193",
+    "geom:latitude":42.27193,
+    "geom:longitude":-83.487539,
+    "iso:country":"US",
+    "sg:address":"45540 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 2368",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.kroger.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SFaeUfXZyMIe6A0gXR3cx_42.271930_-83.487539@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812069,
+    "wof:geomhash":"3be858fb69a983bdbb4276f6e4124966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474733
+        }
+    ],
+    "wof:id":722474733,
+    "wof:lastmodified":1461812069,
+    "wof:name":"Kroger",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -83.487539,
+    42.27193,
+    -83.487539,
+    42.27193
+],
+  "geometry": {"coordinates":[-83.487539,42.27193],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705829523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.973881,43.06615,-85.973881,43.06615",
+    "geom:latitude":43.06615,
+    "geom:longitude":-85.973881,
+    "iso:country":"US",
+    "sg:address":"7491 State Rte 403",
+    "sg:city":"Dilltown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 814 000 1111",
+    "sg:postcode":"99999",
+    "sg:province":"MI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fsm9pA9cRU1ifFCeae3q9_43.066150_-85.973881@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789717,
+    "wof:geomhash":"c7de1dca69a89e77db69ddd090571696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705829523
+        }
+    ],
+    "wof:id":705829523,
+    "wof:lastmodified":1461789717,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -85.973881,
+    43.06615,
+    -85.973881,
+    43.06615
+],
+  "geometry": {"coordinates":[-85.97388100000001,43.06615],"type":"Point"}
+}

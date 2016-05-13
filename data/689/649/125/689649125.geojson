@@ -1,0 +1,71 @@
+{
+  "id": 689649125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.083394,45.782421,-87.083394,45.782421",
+    "geom:latitude":45.782421,
+    "geom:longitude":-87.083394,
+    "iso:country":"US",
+    "sg:address":"2713 N Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 9990",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "snowmobile",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sMsqIlDh8joIjzmk6nuXG_45.782421_-87.083394@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777844,
+    "wof:geomhash":"5bfc943d9c1bd792f28396e37517361d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689649125
+        }
+    ],
+    "wof:id":689649125,
+    "wof:lastmodified":1461777844,
+    "wof:name":"E C Sports",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowmobile",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -87.083394,
+    45.782421,
+    -87.083394,
+    45.782421
+],
+  "geometry": {"coordinates":[-87.083394,45.782421],"type":"Point"}
+}

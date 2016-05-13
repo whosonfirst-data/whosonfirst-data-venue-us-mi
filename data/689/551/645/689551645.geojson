@@ -1,0 +1,81 @@
+{
+  "id": 689551645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674626,42.959653,-85.674626,42.959653",
+    "geom:latitude":42.959653,
+    "geom:longitude":-85.674626,
+    "iso:country":"US",
+    "sg:address":"250 Cherry St SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 752 5150",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877887,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QGQYBmPgMroHtbpKkWIjl_42.959653_-85.674626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774762,
+    "wof:geomhash":"0b677fbde715e729f2db8de36d559774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877887,
+            "region_id":85688599,
+            "venue_id":689551645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877921,
+            "region_id":85688599,
+            "venue_id":689551645
+        }
+    ],
+    "wof:id":689551645,
+    "wof:lastmodified":1461774762,
+    "wof:name":"Warren Reynolds Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.674626,
+    42.959653,
+    -85.674626,
+    42.959653
+],
+  "geometry": {"coordinates":[-85.674626,42.959653],"type":"Point"}
+}

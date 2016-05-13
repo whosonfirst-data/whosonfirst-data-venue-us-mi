@@ -1,0 +1,70 @@
+{
+  "id": 722502227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.277199,42.403801,-83.277199,42.403801",
+    "geom:latitude":42.403801,
+    "geom:longitude":-83.277199,
+    "iso:country":"US",
+    "sg:address":"15745 Telegraph Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 9818",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896771,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_586sx9wUAauLXv4vH5pCit_42.403801_-83.277199@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813155,
+    "wof:geomhash":"055a9e7d3fb4d4126248b9bdfbc8f479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896771,
+            "region_id":85688599,
+            "venue_id":722502227
+        }
+    ],
+    "wof:id":722502227,
+    "wof:lastmodified":1461813155,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.277199,
+    42.403801,
+    -83.277199,
+    42.403801
+],
+  "geometry": {"coordinates":[-83.277199,42.403801],"type":"Point"}
+}

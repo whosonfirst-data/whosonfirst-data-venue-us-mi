@@ -1,0 +1,69 @@
+{
+  "id": 705972851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.581739,42.302419,-85.581739,42.302419",
+    "geom:latitude":42.302419,
+    "geom:longitude":-85.581739,
+    "iso:country":"US",
+    "sg:address":"114 E Bush St",
+    "sg:city":"Paw Paw",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 657 5501",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878463,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ngCFPqC3NB1eTXz6n0tj2_42.302419_-85.581739@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793022,
+    "wof:geomhash":"26c68ab140061aefe23175ad5bc06f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878463,
+            "region_id":85688599,
+            "venue_id":705972851
+        }
+    ],
+    "wof:id":705972851,
+    "wof:lastmodified":1461793022,
+    "wof:name":"Paw Paw Police Dept",
+    "wof:parent_id":85878463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.581739,
+    42.302419,
+    -85.581739,
+    42.302419
+],
+  "geometry": {"coordinates":[-85.581739,42.302419],"type":"Point"}
+}

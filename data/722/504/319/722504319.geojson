@@ -1,0 +1,74 @@
+{
+  "id": 722504319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.283172,42.543892,-83.283172,42.543892",
+    "geom:latitude":42.543892,
+    "geom:longitude":-83.283172,
+    "iso:country":"US",
+    "sg:address":"4065 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 6565",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4whgwkpSYbKfNp6kSRlrrW_42.543892_-83.283172@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813239,
+    "wof:geomhash":"b927c31707a82d46d9413fdf2599d651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":722504319
+        }
+    ],
+    "wof:id":722504319,
+    "wof:lastmodified":1461813239,
+    "wof:name":"Erhard BMW",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.283172,
+    42.543892,
+    -83.283172,
+    42.543892
+],
+  "geometry": {"coordinates":[-83.28317199999999,42.543892],"type":"Point"}
+}

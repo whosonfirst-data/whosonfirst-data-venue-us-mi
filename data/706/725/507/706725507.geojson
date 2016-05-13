@@ -1,0 +1,80 @@
+{
+  "id": 706725507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.249199,42.293301,-83.249199,42.293301",
+    "geom:latitude":42.293301,
+    "geom:longitude":-83.249199,
+    "iso:country":"US",
+    "sg:address":"2645 Monroe St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 278 3719",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896615,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQOka7R4Y6F2AxqXKGBvX_42.293301_-83.249199@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811240,
+    "wof:geomhash":"67b1a3f53ef094a47d47c35654b6c60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896615,
+            "region_id":85688599,
+            "venue_id":706725507
+        }
+    ],
+    "wof:id":706725507,
+    "wof:lastmodified":1461811240,
+    "wof:name":"Dearborn Farm Market",
+    "wof:parent_id":85896615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -83.249199,
+    42.293301,
+    -83.249199,
+    42.293301
+],
+  "geometry": {"coordinates":[-83.249199,42.293301],"type":"Point"}
+}

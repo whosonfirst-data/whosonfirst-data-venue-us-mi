@@ -1,0 +1,73 @@
+{
+  "id": 689824547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.399843,41.997121,-86.399843,41.997121",
+    "geom:latitude":41.997121,
+    "geom:longitude":-86.399843,
+    "iso:country":"US",
+    "sg:address":"6681 US Hwy 31",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 6444",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F49lVyaWAnCwZsX5w6oJJ_41.997121_-86.399843@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782641,
+    "wof:geomhash":"613bb4468fe0304fc01abd7c4519d545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689824547
+        }
+    ],
+    "wof:id":689824547,
+    "wof:lastmodified":1461782641,
+    "wof:name":"Local Moving",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.399843,
+    41.997121,
+    -86.399843,
+    41.997121
+],
+  "geometry": {"coordinates":[-86.399843,41.997121],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689932173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.239577,43.22311,-86.239577,43.22311",
+    "geom:latitude":43.22311,
+    "geom:longitude":-86.239577,
+    "iso:country":"US",
+    "sg:address":"172 E Forest Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 2092",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e7NsEZ7QeE4roYS6axRQs_43.223110_-86.239577@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785429,
+    "wof:geomhash":"51f0d8ed4300fead49d70c87fd74542e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689932173
+        }
+    ],
+    "wof:id":689932173,
+    "wof:lastmodified":1461785429,
+    "wof:name":"Osteoprosis Ctr-West Michigan",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.239577,
+    43.22311,
+    -86.239577,
+    43.22311
+],
+  "geometry": {"coordinates":[-86.239577,43.22311],"type":"Point"}
+}

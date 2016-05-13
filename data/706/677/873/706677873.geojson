@@ -1,0 +1,84 @@
+{
+  "id": 706677873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398516,41.915362,-83.398516,41.915362",
+    "geom:latitude":41.915362,
+    "geom:longitude":-83.398516,
+    "iso:country":"US",
+    "sg:address":"138 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/monroe/26752-big-boy-restaurants/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 3010",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iQgUxXsxgSmxa7zkgxlTr_41.915362_-83.398516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809203,
+    "wof:geomhash":"a7ba0c69da343f882ab36cab987aae57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706677873
+        }
+    ],
+    "wof:id":706677873,
+    "wof:lastmodified":1461809203,
+    "wof:name":"Big Boy Restaurants",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "dog",
+        "soup",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.398516,
+    41.915362,
+    -83.398516,
+    41.915362
+],
+  "geometry": {"coordinates":[-83.398516,41.915362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706100867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.071682,45.753214,-87.071682,45.753214",
+    "geom:latitude":45.753214,
+    "geom:longitude":-87.071682,
+    "iso:country":"US",
+    "sg:address":"628 Stephenson Ave",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 8318",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LjcgzRUdKqeXMmCvvBO0o_45.753214_-87.071682@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795803,
+    "wof:geomhash":"c2a586b1964e86558b9ebdddee01564d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706100867
+        }
+    ],
+    "wof:id":706100867,
+    "wof:lastmodified":1461795803,
+    "wof:name":"Scotty's Muffler & Brake Shop",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.071682,
+    45.753214,
+    -87.071682,
+    45.753214
+],
+  "geometry": {"coordinates":[-87.071682,45.753214],"type":"Point"}
+}

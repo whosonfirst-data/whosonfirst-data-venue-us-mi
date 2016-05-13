@@ -1,0 +1,98 @@
+{
+  "id": 706720663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.084999,42.492001,-83.084999,42.492001",
+    "geom:latitude":42.492001,
+    "geom:longitude":-83.084999,
+    "iso:country":"US",
+    "sg:address":"27130 Dequindre Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 393 2000",
+    "sg:postcode":"48092",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "store",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524423,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524615,
+        404508209,
+        85952031,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54yjSbusHOhBLxp7G5cY4D_42.492001_-83.084999@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461811010,
+    "wof:geomhash":"c994bcbd8645ec59612f1e32dfdbf9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524423,
+            "region_id":85688599,
+            "venue_id":706720663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706720663
+        }
+    ],
+    "wof:id":706720663,
+    "wof:lastmodified":1461811010,
+    "wof:name":"Meribar Pet Supplies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "store",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.084999,
+    42.492001,
+    -83.084999,
+    42.492001
+],
+  "geometry": {"coordinates":[-83.084999,42.492001],"type":"Point"}
+}

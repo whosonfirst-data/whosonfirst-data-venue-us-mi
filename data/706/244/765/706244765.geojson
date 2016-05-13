@@ -1,0 +1,86 @@
+{
+  "id": 706244765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622808,42.954625,-85.622808,42.954625",
+    "geom:latitude":42.954625,
+    "geom:longitude":-85.622808,
+    "iso:country":"US",
+    "sg:address":"1900 Wealthy St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 458 1200",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sCnbsoYhdoHMDZnXK2UTe_42.954625_-85.622808@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799066,
+    "wof:geomhash":"9ae918fa3e0fce78aa25f91947eb6ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706244765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":706244765
+        }
+    ],
+    "wof:id":706244765,
+    "wof:lastmodified":1461799066,
+    "wof:name":"Carlos H Rodriguez MD Hlth Que",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.622808,
+    42.954625,
+    -85.622808,
+    42.954625
+],
+  "geometry": {"coordinates":[-85.62280800000001,42.954625],"type":"Point"}
+}

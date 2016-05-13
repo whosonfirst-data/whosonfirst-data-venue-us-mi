@@ -1,0 +1,69 @@
+{
+  "id": 689700557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4137,42.280047,-84.4137,42.280047",
+    "geom:latitude":42.280047,
+    "geom:longitude":-84.4137,
+    "iso:country":"US",
+    "sg:address":"2410 Lansing Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5288",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0We8o8qrdjLjOtGT3z5Pnx_42.280047_-84.413700@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779116,
+    "wof:geomhash":"2ab1c7e8d83b5018257a235c043726fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689700557
+        }
+    ],
+    "wof:id":689700557,
+    "wof:lastmodified":1461779116,
+    "wof:name":"Do Run of Mid Michigan",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.4137,
+    42.280047,
+    -84.4137,
+    42.280047
+],
+  "geometry": {"coordinates":[-84.41370000000001,42.280047],"type":"Point"}
+}

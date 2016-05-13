@@ -1,0 +1,74 @@
+{
+  "id": 706684409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.514012,42.327085,-85.514012,42.327085",
+    "geom:latitude":42.327085,
+    "geom:longitude":-85.514012,
+    "iso:country":"US",
+    "sg:address":"6050 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/comstock/45194-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 0105",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VPOb5lUdwFKJDbkZJUFu3_42.327085_-85.514012@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809463,
+    "wof:geomhash":"3d05b316dac72e1187a3360880b80dc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684409
+        }
+    ],
+    "wof:id":706684409,
+    "wof:lastmodified":1461809463,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.514012,
+    42.327085,
+    -85.514012,
+    42.327085
+],
+  "geometry": {"coordinates":[-85.51401199999999,42.327085],"type":"Point"}
+}

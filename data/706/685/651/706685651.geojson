@@ -1,0 +1,74 @@
+{
+  "id": 706685651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.11435,42.804469,-86.11435,42.804469",
+    "geom:latitude":42.804469,
+    "geom:longitude":-86.11435,
+    "iso:country":"US",
+    "sg:address":"235 N River Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/146224-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 394 0671",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RVSbz0yxI8QQxu5cs4NA7_42.804469_-86.114350@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809508,
+    "wof:geomhash":"ad0ec1f28d5774e3216bb104bdf674b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706685651
+        }
+    ],
+    "wof:id":706685651,
+    "wof:lastmodified":1461809508,
+    "wof:name":"Subway",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.11435,
+    42.804469,
+    -86.11435,
+    42.804469
+],
+  "geometry": {"coordinates":[-86.11435,42.804469],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689874243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.931803,42.611331,-82.931803,42.611331",
+    "geom:latitude":42.611331,
+    "geom:longitude":-82.931803,
+    "iso:country":"US",
+    "sg:address":"18815 Cass Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 226 1885",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rzp49iW870hZpx1XYx5fi_42.611331_-82.931803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783891,
+    "wof:geomhash":"6e8c0f96a0735d064ed8771c86b33196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689874243
+        }
+    ],
+    "wof:id":689874243,
+    "wof:lastmodified":1461783891,
+    "wof:name":"Sundown Trucking",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.931803,
+    42.611331,
+    -82.931803,
+    42.611331
+],
+  "geometry": {"coordinates":[-82.931803,42.611331],"type":"Point"}
+}

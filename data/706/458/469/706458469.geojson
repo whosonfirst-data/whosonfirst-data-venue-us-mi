@@ -1,0 +1,71 @@
+{
+  "id": 706458469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.360032,42.740805,-83.360032,42.740805",
+    "geom:latitude":42.740805,
+    "geom:longitude":-83.360032,
+    "iso:country":"US",
+    "sg:address":"7192 Pine Knob Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 391 2960",
+    "sg:postcode":"48348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68NitcVTjeSrtK5RZRezd7_42.740805_-83.360032@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803614,
+    "wof:geomhash":"1b34b76d7ada3095be616e3755bd9cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706458469
+        }
+    ],
+    "wof:id":706458469,
+    "wof:lastmodified":1461803614,
+    "wof:name":"CMC Electric",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.360032,
+    42.740805,
+    -83.360032,
+    42.740805
+],
+  "geometry": {"coordinates":[-83.360032,42.740805],"type":"Point"}
+}

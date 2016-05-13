@@ -1,0 +1,69 @@
+{
+  "id": 706059485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.491875,42.209181,-83.491875,42.209181",
+    "geom:latitude":42.209181,
+    "geom:longitude":-83.491875,
+    "iso:country":"US",
+    "sg:address":"536 Main St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 0414",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HKrD3sU9pI9G8zVReGUPq_42.209181_-83.491875@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794802,
+    "wof:geomhash":"989285b7566fc8bcf5cef49a5cd43556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706059485
+        }
+    ],
+    "wof:id":706059485,
+    "wof:lastmodified":1461794802,
+    "wof:name":"Belleville Coin Laundry",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -83.491875,
+    42.209181,
+    -83.491875,
+    42.209181
+],
+  "geometry": {"coordinates":[-83.49187499999999,42.209181],"type":"Point"}
+}

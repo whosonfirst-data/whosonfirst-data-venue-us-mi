@@ -1,0 +1,73 @@
+{
+  "id": 706113525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.208167,43.062916,-86.208167,43.062916",
+    "geom:latitude":43.062916,
+    "geom:longitude":-86.208167,
+    "iso:country":"US",
+    "sg:address":"1410 Fulton St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 6930",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IeGbCnQrT1fDX034r2UeT_43.062916_-86.208167@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796083,
+    "wof:geomhash":"19d693fb7b299d85c162f51fc8d231eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706113525
+        }
+    ],
+    "wof:id":706113525,
+    "wof:lastmodified":1461796083,
+    "wof:name":"Frank's Plumbing & Heating",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.208167,
+    43.062916,
+    -86.208167,
+    43.062916
+],
+  "geometry": {"coordinates":[-86.208167,43.062916],"type":"Point"}
+}

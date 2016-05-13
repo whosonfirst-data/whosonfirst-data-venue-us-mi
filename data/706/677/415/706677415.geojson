@@ -1,0 +1,77 @@
+{
+  "id": 706677415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.188073,42.281353,-83.188073,42.281353",
+    "geom:latitude":42.281353,
+    "geom:longitude":-83.188073,
+    "iso:country":"US",
+    "sg:address":"4001 Oakwood Blvd",
+    "sg:city":"Melvindale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/melvindale/185972-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48122",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896721,
+        102191575,
+        404508531,
+        85633793,
+        85951057,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55mD7KGEM20iSoQZ4FJtPr_42.281353_-83.188073@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809183,
+    "wof:geomhash":"dc6507f44c37ce1cb6b1e34a46eb7f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508531,
+            "locality_id":85951057,
+            "neighbourhood_id":85896721,
+            "region_id":85688599,
+            "venue_id":706677415
+        }
+    ],
+    "wof:id":706677415,
+    "wof:lastmodified":1461809183,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.188073,
+    42.281353,
+    -83.188073,
+    42.281353
+],
+  "geometry": {"coordinates":[-83.188073,42.281353],"type":"Point"}
+}

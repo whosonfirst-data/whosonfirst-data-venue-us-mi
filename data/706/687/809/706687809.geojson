@@ -1,0 +1,91 @@
+{
+  "id": 706687809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.006321,42.485366,-83.006321,42.485366",
+    "geom:latitude":42.485366,
+    "geom:longitude":-83.006321,
+    "iso:country":"US",
+    "sg:address":"26019 Hoover Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/warren/26204-dollys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 757 3933",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896847,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_417dZIzwGbdsJceOIMonJH_42.484857_-83.006390@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809590,
+    "wof:geomhash":"f2fc56b5fc13b77d9a6e2d6f1331959a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":85896847,
+            "region_id":85688599,
+            "venue_id":706687809
+        }
+    ],
+    "wof:id":706687809,
+    "wof:lastmodified":1461809590,
+    "wof:name":"Dolly's Pizza",
+    "wof:parent_id":85896847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.006321,
+    42.485366,
+    -83.006321,
+    42.485366
+],
+  "geometry": {"coordinates":[-83.006321,42.485366],"type":"Point"}
+}

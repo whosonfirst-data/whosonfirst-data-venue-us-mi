@@ -1,0 +1,69 @@
+{
+  "id": 705931013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.870798,42.243603,-83.870798,42.243603",
+    "geom:latitude":42.243603,
+    "geom:longitude":-83.870798,
+    "iso:country":"US",
+    "sg:address":"2831 Lone Oak Dr",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 663 2855",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875951,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NHENbYSEHihFB696v7ULB_42.243603_-83.870798@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792081,
+    "wof:geomhash":"14969bcf2d458120ceb8741f9002d265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875951,
+            "region_id":85688599,
+            "venue_id":705931013
+        }
+    ],
+    "wof:id":705931013,
+    "wof:lastmodified":1461792081,
+    "wof:name":"Lane Ted Appliance Service",
+    "wof:parent_id":85875951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.870798,
+    42.243603,
+    -83.870798,
+    42.243603
+],
+  "geometry": {"coordinates":[-83.87079799999999,42.243603],"type":"Point"}
+}

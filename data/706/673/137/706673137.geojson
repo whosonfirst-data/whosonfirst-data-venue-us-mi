@@ -1,0 +1,69 @@
+{
+  "id": 706673137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469498,42.3619,-83.469498,42.3619",
+    "geom:latitude":42.3619,
+    "geom:longitude":-83.469498,
+    "iso:country":"US",
+    "sg:address":"1191 S Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 9685",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTONWsECoqrkXEjEmiQLv_42.362411_-83.469627@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809007,
+    "wof:geomhash":"714ddc4d4006d929aabacdb160ab717b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706673137
+        }
+    ],
+    "wof:id":706673137,
+    "wof:lastmodified":1461809007,
+    "wof:name":"Main Street Auto Wash",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.469498,
+    42.3619,
+    -83.469498,
+    42.3619
+],
+  "geometry": {"coordinates":[-83.469498,42.3619],"type":"Point"}
+}

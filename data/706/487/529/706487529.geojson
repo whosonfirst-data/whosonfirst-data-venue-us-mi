@@ -1,0 +1,75 @@
+{
+  "id": 706487529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.053777,42.404113,-83.053777,42.404113",
+    "geom:latitude":42.404113,
+    "geom:longitude":-83.053777,
+    "iso:country":"US",
+    "sg:address":"11544 Conant St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 366 4030",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43fzmz2bRSoUOk1LJ6omGD_42.404113_-83.053777@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804274,
+    "wof:geomhash":"24d32e42ea5163c9d8b8b58e39629ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":706487529
+        }
+    ],
+    "wof:id":706487529,
+    "wof:lastmodified":1461804274,
+    "wof:name":"M & D Auto Wash",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.053777,
+    42.404113,
+    -83.053777,
+    42.404113
+],
+  "geometry": {"coordinates":[-83.053777,42.404113],"type":"Point"}
+}

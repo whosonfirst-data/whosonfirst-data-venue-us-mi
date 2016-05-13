@@ -1,0 +1,73 @@
+{
+  "id": 706150115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.24714,43.205065,-86.24714,43.205065",
+    "geom:latitude":43.205065,
+    "geom:longitude":-86.24714,
+    "iso:country":"US",
+    "sg:address":"2500 Jefferson St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 4745",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nudYvgwXuiKzlRfkrDPs9_43.205065_-86.247140@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796987,
+    "wof:geomhash":"baebbbb0b968142b853eeedd60759f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706150115
+        }
+    ],
+    "wof:id":706150115,
+    "wof:lastmodified":1461796987,
+    "wof:name":"Michigan Housing Coalition",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -86.24714,
+    43.205065,
+    -86.24714,
+    43.205065
+],
+  "geometry": {"coordinates":[-86.24714,43.205065],"type":"Point"}
+}

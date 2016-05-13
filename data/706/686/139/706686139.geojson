@@ -1,0 +1,87 @@
+{
+  "id": 706686139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683624,42.963426,-85.683624,42.963426",
+    "geom:latitude":42.963426,
+    "geom:longitude":-85.683624,
+    "iso:country":"US",
+    "sg:address":"617 Fulton St W",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/59195-adobe-in--out/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 0279",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877921,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35ZREQcwqVZZ2mpuOP50Ch_42.963426_-85.683624@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809525,
+    "wof:geomhash":"c72b98bb44a93470c60161a44850c5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877921,
+            "region_id":85688599,
+            "venue_id":706686139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877871,
+            "region_id":85688599,
+            "venue_id":706686139
+        }
+    ],
+    "wof:id":706686139,
+    "wof:lastmodified":1461809525,
+    "wof:name":"Adobe In & Out",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.683624,
+    42.963426,
+    -85.683624,
+    42.963426
+],
+  "geometry": {"coordinates":[-85.68362399999999,42.963426],"type":"Point"}
+}

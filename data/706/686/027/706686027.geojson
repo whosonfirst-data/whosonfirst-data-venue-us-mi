@@ -1,0 +1,78 @@
+{
+  "id": 706686027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639837,42.978828,-85.639837,42.978828",
+    "geom:latitude":42.978828,
+    "geom:longitude":-85.639837,
+    "iso:country":"US",
+    "sg:address":"890 Fuller Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50857-arenas-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 0090",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877895,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvysehboWRcHwm6hQrIN5_42.978828_-85.639837@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809522,
+    "wof:geomhash":"017faf81fe1bec871411a8850927dfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877895,
+            "region_id":85688599,
+            "venue_id":706686027
+        }
+    ],
+    "wof:id":706686027,
+    "wof:lastmodified":1461809522,
+    "wof:name":"Arena's Pizza",
+    "wof:parent_id":85877895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.639837,
+    42.978828,
+    -85.639837,
+    42.978828
+],
+  "geometry": {"coordinates":[-85.639837,42.978828],"type":"Point"}
+}

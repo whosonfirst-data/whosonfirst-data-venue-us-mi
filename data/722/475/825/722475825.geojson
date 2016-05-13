@@ -1,0 +1,82 @@
+{
+  "id": 722475825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.150398,42.222198,-83.150398,42.222198",
+    "geom:latitude":42.222198,
+    "geom:longitude":-83.150398,
+    "iso:country":"US",
+    "sg:address":"1100 Biddle St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 282 2222",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896867,
+        102191575,
+        404508709,
+        85633793,
+        85951075,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09suJpuOHwcsxJ7Fs93f4Y_42.222198_-83.150398@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812112,
+    "wof:geomhash":"dbf6a16aa27b3c49ed67e5185cec9a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508709,
+            "locality_id":85951075,
+            "neighbourhood_id":85896867,
+            "region_id":85688599,
+            "venue_id":722475825
+        }
+    ],
+    "wof:id":722475825,
+    "wof:lastmodified":1461812112,
+    "wof:name":"Wyandotte Cab",
+    "wof:parent_id":85896867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -83.150398,
+    42.222198,
+    -83.150398,
+    42.222198
+],
+  "geometry": {"coordinates":[-83.150398,42.222198],"type":"Point"}
+}

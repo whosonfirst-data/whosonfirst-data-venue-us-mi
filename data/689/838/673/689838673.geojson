@@ -1,0 +1,74 @@
+{
+  "id": 689838673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523593,42.680337,-84.523593,42.680337",
+    "geom:latitude":42.680337,
+    "geom:longitude":-84.523593,
+    "iso:country":"US",
+    "sg:address":"5212 Aurelius Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 4311",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.jeteng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJragA6N1xeciiLGCZgHz_42.680337_-84.523593@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783072,
+    "wof:geomhash":"f3bdfdfd1aceb03390a3c26870f60291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689838673
+        }
+    ],
+    "wof:id":689838673,
+    "wof:lastmodified":1461783072,
+    "wof:name":"Jet Engineering Inc",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.523593,
+    42.680337,
+    -84.523593,
+    42.680337
+],
+  "geometry": {"coordinates":[-84.52359300000001,42.680337],"type":"Point"}
+}

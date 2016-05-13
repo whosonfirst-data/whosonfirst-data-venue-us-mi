@@ -1,0 +1,77 @@
+{
+  "id": 689914319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.654173,43.00985,-83.654173,43.00985",
+    "geom:latitude":43.00985,
+    "geom:longitude":-83.654173,
+    "iso:country":"US",
+    "sg:address":"1717 S Dort Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 743 8056",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877387,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q9UCKGoQeU6nk8j3CyXRa_43.009850_-83.654173@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784970,
+    "wof:geomhash":"e900060bc48898e92747a164b7516343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877387,
+            "region_id":85688599,
+            "venue_id":689914319
+        }
+    ],
+    "wof:id":689914319,
+    "wof:lastmodified":1461784970,
+    "wof:name":"Rent A Car",
+    "wof:parent_id":85877387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.654173,
+    43.00985,
+    -83.654173,
+    43.00985
+],
+  "geometry": {"coordinates":[-83.654173,43.00985],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 706678269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.376766,42.281488,-83.376766,42.281488",
+    "geom:latitude":42.281488,
+    "geom:longitude":-83.376766,
+    "iso:country":"US",
+    "sg:address":"34346 Michigan Ave",
+    "sg:city":"Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/wayne/40604-papa-romanos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 721 7272",
+    "sg:postcode":"48184",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896859,
+        102191575,
+        404508703,
+        85633793,
+        85951039,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z5OG8r0sIhDgRmcRe0MiQ_42.281488_-83.376766@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809218,
+    "wof:geomhash":"4d18752e82bd02c595e407a8bc8844f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508703,
+            "locality_id":85951039,
+            "neighbourhood_id":85896859,
+            "region_id":85688599,
+            "venue_id":706678269
+        }
+    ],
+    "wof:id":706678269,
+    "wof:lastmodified":1461809218,
+    "wof:name":"Papa Romano's",
+    "wof:parent_id":85896859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.376766,
+    42.281488,
+    -83.376766,
+    42.281488
+],
+  "geometry": {"coordinates":[-83.376766,42.281488],"type":"Point"}
+}

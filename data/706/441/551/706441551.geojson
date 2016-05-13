@@ -1,0 +1,69 @@
+{
+  "id": 706441551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.81423,43.181463,-83.81423,43.181463",
+    "geom:latitude":43.181463,
+    "geom:longitude":-83.81423,
+    "iso:country":"US",
+    "sg:address":"12307 N Elms Rd",
+    "sg:city":"Clio",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 639 7657",
+    "sg:postcode":"48420",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KDzrZ4ZMnlPCg16H18FY7_43.181463_-83.814230@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803256,
+    "wof:geomhash":"04dfe5fcff51d3b6f1b389b726f40608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":706441551
+        }
+    ],
+    "wof:id":706441551,
+    "wof:lastmodified":1461803256,
+    "wof:name":"Bruce's Garage",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.81423,
+    43.181463,
+    -83.81423,
+    43.181463
+],
+  "geometry": {"coordinates":[-83.81422999999999,43.181463],"type":"Point"}
+}

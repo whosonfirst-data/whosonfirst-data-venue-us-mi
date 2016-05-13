@@ -1,0 +1,74 @@
+{
+  "id": 706685763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.283816,43.205621,-86.283816,43.205621",
+    "geom:latitude":43.205621,
+    "geom:longitude":-86.283816,
+    "iso:country":"US",
+    "sg:address":"1631 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/45022-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 4200",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jK93c2ZHbTfSsC2usxkHq_43.205621_-86.283816@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809512,
+    "wof:geomhash":"1684e0401d4dde23277fdb87173040a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685763
+        }
+    ],
+    "wof:id":706685763,
+    "wof:lastmodified":1461809512,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.283816,
+    43.205621,
+    -86.283816,
+    43.205621
+],
+  "geometry": {"coordinates":[-86.283816,43.205621],"type":"Point"}
+}

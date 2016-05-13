@@ -1,0 +1,77 @@
+{
+  "id": 722506175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.223281,42.559118,-83.223281,42.559118",
+    "geom:latitude":42.559118,
+    "geom:longitude":-83.223281,
+    "iso:country":"US",
+    "sg:address":"36880 Woodward Ave Ste 101",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 203 1920",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "sg:website":"www.demamedspa.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07VhJr8t3JKFSRgzWtEYzb_42.559118_-83.223281@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813313,
+    "wof:geomhash":"cd6ffe1d78e9230f6f1d1d1835199586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":722506175
+        }
+    ],
+    "wof:id":722506175,
+    "wof:lastmodified":1461813313,
+    "wof:name":"Derma Medspa",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -83.223281,
+    42.559118,
+    -83.223281,
+    42.559118
+],
+  "geometry": {"coordinates":[-83.223281,42.559118],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706398641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225191,43.061307,-86.225191,43.061307",
+    "geom:latitude":43.061307,
+    "geom:longitude":-86.225191,
+    "iso:country":"US",
+    "sg:address":"509 Franklin St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 5154",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_585SjWIImrms0MxtyjUZ1C_43.061307_-86.225191@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802373,
+    "wof:geomhash":"ddc6739642896f03607512f9e7b96057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706398641
+        }
+    ],
+    "wof:id":706398641,
+    "wof:lastmodified":1461802373,
+    "wof:name":"Thaddeus P Srutwa MD",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.225191,
+    43.061307,
+    -86.225191,
+    43.061307
+],
+  "geometry": {"coordinates":[-86.225191,43.061307],"type":"Point"}
+}

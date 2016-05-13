@@ -1,0 +1,75 @@
+{
+  "id": 706121201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443833,42.105041,-86.443833,42.105041",
+    "geom:latitude":42.105041,
+    "geom:longitude":-86.443833,
+    "iso:country":"US",
+    "sg:address":"740 Pipestone St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 8648",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_720kqJBmN4p7ifw3Bd5OUP_42.105041_-86.443833@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796290,
+    "wof:geomhash":"b20e8d7d16f33f961aed87d67c3b3523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706121201
+        }
+    ],
+    "wof:id":706121201,
+    "wof:lastmodified":1461796290,
+    "wof:name":"Mel's Reconditioning Auto Rpr",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.443833,
+    42.105041,
+    -86.443833,
+    42.105041
+],
+  "geometry": {"coordinates":[-86.443833,42.105041],"type":"Point"}
+}

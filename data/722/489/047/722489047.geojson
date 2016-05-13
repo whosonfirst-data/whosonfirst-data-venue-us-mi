@@ -1,0 +1,86 @@
+{
+  "id": 722489047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.163256,42.410263,-83.163256,42.410263",
+    "geom:latitude":42.410263,
+    "geom:longitude":-83.163256,
+    "iso:country":"US",
+    "sg:address":"16151 Griggs St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 230 9294",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaner",
+        "carpet",
+        "rug",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870615,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yAFNZebKUeW5q8qPWIh4Y_42.410263_-83.163256@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812638,
+    "wof:geomhash":"ce2028807715aac5bc34d6b19dc15ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870615,
+            "region_id":85688599,
+            "venue_id":722489047
+        }
+    ],
+    "wof:id":722489047,
+    "wof:lastmodified":1461812638,
+    "wof:name":"A P T Carpet Cleaners",
+    "wof:parent_id":85870615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "carpet",
+        "rug",
+        "house"
+    ]
+},
+  "bbox": [
+    -83.163256,
+    42.410263,
+    -83.163256,
+    42.410263
+],
+  "geometry": {"coordinates":[-83.163256,42.410263],"type":"Point"}
+}

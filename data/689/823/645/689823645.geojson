@@ -1,0 +1,71 @@
+{
+  "id": 689823645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.113152,43.234906,-86.113152,43.234906",
+    "geom:latitude":43.234906,
+    "geom:longitude":-86.113152,
+    "iso:country":"US",
+    "sg:address":"5380 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 2254",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wzXZ6kji3GF75I1rkNYcw_43.234906_-86.113152@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782615,
+    "wof:geomhash":"45c286a76ea02cf59870cf020f7b982c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689823645
+        }
+    ],
+    "wof:id":689823645,
+    "wof:lastmodified":1461782615,
+    "wof:name":"Egelston Township Fire Dept",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.113152,
+    43.234906,
+    -86.113152,
+    43.234906
+],
+  "geometry": {"coordinates":[-86.113152,43.234906],"type":"Point"}
+}

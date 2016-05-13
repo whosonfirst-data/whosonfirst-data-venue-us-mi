@@ -1,0 +1,73 @@
+{
+  "id": 689845161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.392189,46.461029,-87.392189,46.461029",
+    "geom:latitude":46.461029,
+    "geom:longitude":-87.392189,
+    "iso:country":"US",
+    "sg:address":"887 Co Rd 480",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 249 9075",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "parts",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wiDWRhQHEoDfdAdooL7RS_46.461029_-87.392189@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783213,
+    "wof:geomhash":"e55759f7f5a7da6350a9ae4ae933d90c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689845161
+        }
+    ],
+    "wof:id":689845161,
+    "wof:lastmodified":1461783213,
+    "wof:name":"Crossroads Truck Repair Inc",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.392189,
+    46.461029,
+    -87.392189,
+    46.461029
+],
+  "geometry": {"coordinates":[-87.392189,46.461029],"type":"Point"}
+}

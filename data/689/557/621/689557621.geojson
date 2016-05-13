@@ -1,0 +1,72 @@
+{
+  "id": 689557621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.439273,42.247403,-84.439273,42.247403",
+    "geom:latitude":42.247403,
+    "geom:longitude":-84.439273,
+    "iso:country":"US",
+    "sg:address":"1800 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 8222",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oq40EO2RnL1yRUR4LiULE_42.247403_-84.439273@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774960,
+    "wof:geomhash":"4d05b10c7737a00fa55b9b080cdb61c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689557621
+        }
+    ],
+    "wof:id":689557621,
+    "wof:lastmodified":1461774960,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -84.439273,
+    42.247403,
+    -84.439273,
+    42.247403
+],
+  "geometry": {"coordinates":[-84.439273,42.247403],"type":"Point"}
+}

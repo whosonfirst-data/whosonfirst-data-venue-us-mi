@@ -1,0 +1,75 @@
+{
+  "id": 689915593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435299,42.094604,-86.435299,42.094604",
+    "geom:latitude":42.094604,
+    "geom:longitude":-86.435299,
+    "iso:country":"US",
+    "sg:address":"1529 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 927 4494",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bAtWMFW2NK0xK3YYmzLJN_42.094604_-86.435299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785006,
+    "wof:geomhash":"ccf9b41ae2ccd0cd6caee9f99d0a835f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689915593
+        }
+    ],
+    "wof:id":689915593,
+    "wof:lastmodified":1461785006,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.435299,
+    42.094604,
+    -86.435299,
+    42.094604
+],
+  "geometry": {"coordinates":[-86.435299,42.094604],"type":"Point"}
+}

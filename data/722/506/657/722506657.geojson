@@ -1,0 +1,70 @@
+{
+  "id": 722506657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.263199,42.603001,-83.263199,42.603001",
+    "geom:latitude":42.603001,
+    "geom:longitude":-83.263199,
+    "iso:country":"US",
+    "sg:address":"42934 Woodward Ave",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 334 8847",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jJg90lCGM2VY7rIJShkDe_42.603001_-83.263199@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813330,
+    "wof:geomhash":"4224f12452b7ce6adbc926e721b6eebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":722506657
+        }
+    ],
+    "wof:id":722506657,
+    "wof:lastmodified":1461813330,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.263199,
+    42.603001,
+    -83.263199,
+    42.603001
+],
+  "geometry": {"coordinates":[-83.263199,42.603001],"type":"Point"}
+}

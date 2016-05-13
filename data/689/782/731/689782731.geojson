@@ -1,0 +1,71 @@
+{
+  "id": 689782731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.65943,41.961835,-83.65943,41.961835",
+    "geom:latitude":41.961835,
+    "geom:longitude":-83.65943,
+    "iso:country":"US",
+    "sg:address":"500 Ypsilanti St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 2455",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rg7j6tEEOISPAFwUdV550_41.961835_-83.659430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781337,
+    "wof:geomhash":"ede2b66732e526ca99b63f2b69c52f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689782731
+        }
+    ],
+    "wof:id":689782731,
+    "wof:lastmodified":1461781337,
+    "wof:name":"Dundee Castings Co",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -83.65943,
+    41.961835,
+    -83.65943,
+    41.961835
+],
+  "geometry": {"coordinates":[-83.65943,41.961835],"type":"Point"}
+}

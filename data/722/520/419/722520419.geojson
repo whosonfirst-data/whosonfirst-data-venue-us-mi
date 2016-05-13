@@ -1,0 +1,87 @@
+{
+  "id": 722520419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.521599,43.036301,-83.521599,43.036301",
+    "geom:latitude":43.036301,
+    "geom:longitude":-83.521599,
+    "iso:country":"US",
+    "sg:address":"326 Bay St",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 653 1131",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mongfeAl8sHjq0n2JkFnY_43.036301_-83.521599@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813946,
+    "wof:geomhash":"abb24463f345088f314b90cab79c1af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":722520419
+        }
+    ],
+    "wof:id":722520419,
+    "wof:lastmodified":1461813946,
+    "wof:name":"Schools",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.521599,
+    43.036301,
+    -83.521599,
+    43.036301
+],
+  "geometry": {"coordinates":[-83.52159899999999,43.036301],"type":"Point"}
+}

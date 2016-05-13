@@ -1,0 +1,76 @@
+{
+  "id": 706677001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.749854,42.280524,-83.749854,42.280524",
+    "geom:latitude":42.280524,
+    "geom:longitude":-83.749854,
+    "iso:country":"US",
+    "sg:address":"203 W Washington St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/16431-the-arena/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 222 9999",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875899,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D9NnJ3Tk3KcfZbz7FgKwN_42.280524_-83.749854@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809162,
+    "wof:geomhash":"49db9a85ab446b6dc4e63526f302a862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875899,
+            "region_id":85688599,
+            "venue_id":706677001
+        }
+    ],
+    "wof:id":706677001,
+    "wof:lastmodified":1461809162,
+    "wof:name":"The Arena",
+    "wof:parent_id":85875899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.749854,
+    42.280524,
+    -83.749854,
+    42.280524
+],
+  "geometry": {"coordinates":[-83.749854,42.280524],"type":"Point"}
+}

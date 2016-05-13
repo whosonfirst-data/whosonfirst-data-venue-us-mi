@@ -1,0 +1,92 @@
+{
+  "id": 705988239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.076747,42.36881,-83.076747,42.36881",
+    "geom:latitude":42.36881,
+    "geom:longitude":-83.076747,
+    "iso:country":"US",
+    "sg:address":"3034 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 5110",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "judicial",
+        "tenure",
+        "commission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870609,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ybj16bWvxUmQfYp388Uq5_42.368810_-83.076747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793336,
+    "wof:geomhash":"db039caee9be9d422f77ce9eb7568f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":705988239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":705988239
+        }
+    ],
+    "wof:id":705988239,
+    "wof:lastmodified":1461793336,
+    "wof:name":"State Mich Jdicial Tenure Comm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "judicial",
+        "tenure",
+        "commission"
+    ]
+},
+  "bbox": [
+    -83.076747,
+    42.36881,
+    -83.076747,
+    42.36881
+],
+  "geometry": {"coordinates":[-83.076747,42.36881],"type":"Point"}
+}

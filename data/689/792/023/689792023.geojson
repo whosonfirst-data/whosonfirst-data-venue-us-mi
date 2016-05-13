@@ -1,0 +1,71 @@
+{
+  "id": 689792023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.947381,43.466135,-85.947381,43.466135",
+    "geom:latitude":43.466135,
+    "geom:longitude":-85.947381,
+    "iso:country":"US",
+    "sg:address":"16 W Sheridan St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 0040",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BEnk7sKlC4JCDkvqQouLN_43.466135_-85.947381@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781598,
+    "wof:geomhash":"f75f1759ccd0cfbeb70ac8d92807a544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689792023
+        }
+    ],
+    "wof:id":689792023,
+    "wof:lastmodified":1461781598,
+    "wof:name":"Charles M Erickson DDS",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.947381,
+    43.466135,
+    -85.947381,
+    43.466135
+],
+  "geometry": {"coordinates":[-85.94738099999999,43.466135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689833709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.905139,42.590013,-82.905139,42.590013",
+    "geom:latitude":42.590013,
+    "geom:longitude":-82.905139,
+    "iso:country":"US",
+    "sg:address":"39140 Gary St",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 521 5555",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PZLcxWr94OkfUzWjguzJI_42.590013_-82.905139@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782950,
+    "wof:geomhash":"7ca8f8634842e45cdf83ecd1b8ae10d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":689833709
+        }
+    ],
+    "wof:id":689833709,
+    "wof:lastmodified":1461782950,
+    "wof:name":"Kelly Auto Service Inc",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -82.905139,
+    42.590013,
+    -82.905139,
+    42.590013
+],
+  "geometry": {"coordinates":[-82.90513900000001,42.590013],"type":"Point"}
+}

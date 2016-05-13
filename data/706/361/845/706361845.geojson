@@ -1,0 +1,73 @@
+{
+  "id": 706361845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.713349,44.406762,-85.713349,44.406762",
+    "geom:latitude":44.406762,
+    "geom:longitude":-85.713349,
+    "iso:country":"US",
+    "sg:address":"111 E Edward St",
+    "sg:city":"Mesick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 885 1750",
+    "sg:postcode":"49668",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NhnsHaXXc4BGnZlABqe3q_44.406762_-85.713349@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801648,
+    "wof:geomhash":"8ccc036e0d6f3caed0763769baf000e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706361845
+        }
+    ],
+    "wof:id":706361845,
+    "wof:lastmodified":1461801648,
+    "wof:name":"Great Lakes Family Care",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.713349,
+    44.406762,
+    -85.713349,
+    44.406762
+],
+  "geometry": {"coordinates":[-85.71334899999999,44.406762],"type":"Point"}
+}

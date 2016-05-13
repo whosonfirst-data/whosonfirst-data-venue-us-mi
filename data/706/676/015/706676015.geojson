@@ -1,0 +1,78 @@
+{
+  "id": 706676015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.135792,42.533669,-83.135792,42.533669",
+    "geom:latitude":42.533669,
+    "geom:longitude":-83.135792,
+    "iso:country":"US",
+    "sg:address":"718 E 14 Mile Rd",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/royal-oak/142372-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 589 1052",
+    "sg:postcode":"48073",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896587,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43G6t48Kxlos2Z06l06vvG_42.533669_-83.135792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809121,
+    "wof:geomhash":"e298e9e9e7f5b48d5bf11a542453ea8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896587,
+            "region_id":85688599,
+            "venue_id":706676015
+        }
+    ],
+    "wof:id":706676015,
+    "wof:lastmodified":1461809121,
+    "wof:name":"Subway",
+    "wof:parent_id":85896587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.135792,
+    42.533669,
+    -83.135792,
+    42.533669
+],
+  "geometry": {"coordinates":[-83.135792,42.533669],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 722470877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.366501,42.282501,-83.366501,42.282501",
+    "geom:latitude":42.282501,
+    "geom:longitude":-83.366501,
+    "iso:country":"US",
+    "sg:address":"33173 Michigan Ave",
+    "sg:city":"Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 641 8587",
+    "sg:postcode":"48184",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896857,
+        102191575,
+        404508703,
+        85633793,
+        85951039,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wVu2cDnjJ5geTBT5YuIJi_42.282501_-83.366501@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811901,
+    "wof:geomhash":"27ff157c0683d26a75f7ff113d28a37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508703,
+            "locality_id":85951039,
+            "neighbourhood_id":85896857,
+            "region_id":85688599,
+            "venue_id":722470877
+        }
+    ],
+    "wof:id":722470877,
+    "wof:lastmodified":1461811901,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.366501,
+    42.282501,
+    -83.366501,
+    42.282501
+],
+  "geometry": {"coordinates":[-83.366501,42.282501],"type":"Point"}
+}

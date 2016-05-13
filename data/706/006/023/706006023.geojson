@@ -1,0 +1,69 @@
+{
+  "id": 706006023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.60284,42.952309,-82.60284,42.952309",
+    "geom:latitude":42.952309,
+    "geom:longitude":-82.60284,
+    "iso:country":"US",
+    "sg:address":"1801 Richman Rd",
+    "sg:city":"Kimball",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 367 6867",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p3SPFNN6lQ8Sh0y4Z76Ii_42.952309_-82.602840@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793700,
+    "wof:geomhash":"3a0d8ccad3ae86197e126d29ce391e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706006023
+        }
+    ],
+    "wof:id":706006023,
+    "wof:lastmodified":1461793700,
+    "wof:name":"Ray's Market",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.60284,
+    42.952309,
+    -82.60284,
+    42.952309
+],
+  "geometry": {"coordinates":[-82.60284,42.952309],"type":"Point"}
+}

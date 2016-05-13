@@ -1,0 +1,73 @@
+{
+  "id": 706374187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.541112,42.922987,-82.541112,42.922987",
+    "geom:latitude":42.922987,
+    "geom:longitude":-82.541112,
+    "iso:country":"US",
+    "sg:address":"635 Wadhams Rd",
+    "sg:city":"Kimball",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 367 6115",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2irKOSTZlz9CeGDWIwAHrG_42.922987_-82.541112@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801890,
+    "wof:geomhash":"ee37b609b0852f6e37af4c1a7d7f9813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706374187
+        }
+    ],
+    "wof:id":706374187,
+    "wof:lastmodified":1461801890,
+    "wof:name":"Wadhams Road Animal Clinic",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -82.541112,
+    42.922987,
+    -82.541112,
+    42.922987
+],
+  "geometry": {"coordinates":[-82.541112,42.922987],"type":"Point"}
+}

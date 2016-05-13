@@ -1,0 +1,71 @@
+{
+  "id": 706068181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.339917,41.990191,-83.339917,41.990191",
+    "geom:latitude":41.990191,
+    "geom:longitude":-83.339917,
+    "iso:country":"US",
+    "sg:address":"7720 Mentel Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 586 5646",
+    "sg:postcode":"48166",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85858699,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ekwXgAAkttEzGb34mFl5N_41.990191_-83.339917@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794990,
+    "wof:geomhash":"228c03a0e968649455e12ecd5327f7ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85858699,
+            "region_id":85688599,
+            "venue_id":706068181
+        }
+    ],
+    "wof:id":706068181,
+    "wof:lastmodified":1461794990,
+    "wof:name":"Sonoras Electric",
+    "wof:parent_id":85858699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.339917,
+    41.990191,
+    -83.339917,
+    41.990191
+],
+  "geometry": {"coordinates":[-83.339917,41.990191],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689822333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224763,43.204917,-86.224763,43.204917",
+    "geom:latitude":43.204917,
+    "geom:longitude":-86.224763,
+    "iso:country":"US",
+    "sg:address":"2505 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 6555",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IkLPsHyag0IPA9LLu3Tbk_43.204917_-86.224763@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782579,
+    "wof:geomhash":"8e6a1f0a30c74326d62bf7c1586adc74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689822333
+        }
+    ],
+    "wof:id":689822333,
+    "wof:lastmodified":1461782579,
+    "wof:name":"Atlas Tool Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -86.224763,
+    43.204917,
+    -86.224763,
+    43.204917
+],
+  "geometry": {"coordinates":[-86.224763,43.204917],"type":"Point"}
+}

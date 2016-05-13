@@ -1,0 +1,69 @@
+{
+  "id": 706246279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378988,42.72208,-83.378988,42.72208",
+    "geom:latitude":42.72208,
+    "geom:longitude":-83.378988,
+    "iso:country":"US",
+    "sg:address":"5590 Sashabaw Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 922 3164",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lLUJpwTbI9ICagVjyrh4t_42.722080_-83.378988@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799106,
+    "wof:geomhash":"22fcc3bc3393a18788b65aa97b0f9bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706246279
+        }
+    ],
+    "wof:id":706246279,
+    "wof:lastmodified":1461799106,
+    "wof:name":"Kroger",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.378988,
+    42.72208,
+    -83.378988,
+    42.72208
+],
+  "geometry": {"coordinates":[-83.37898800000001,42.72208],"type":"Point"}
+}

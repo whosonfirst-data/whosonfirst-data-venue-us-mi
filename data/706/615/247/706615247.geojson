@@ -1,0 +1,73 @@
+{
+  "id": 706615247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.210835,43.056815,-86.210835,43.056815",
+    "geom:latitude":43.056815,
+    "geom:longitude":-86.210835,
+    "iso:country":"US",
+    "sg:address":"429 S Griffin St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 9890",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MlI5OhJaCFgqSoEbOBz0D_43.056815_-86.210835@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807050,
+    "wof:geomhash":"bd93b908e53426b91280753e9448d09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706615247
+        }
+    ],
+    "wof:id":706615247,
+    "wof:lastmodified":1461807050,
+    "wof:name":"Action Automotive LLC",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.210835,
+    43.056815,
+    -86.210835,
+    43.056815
+],
+  "geometry": {"coordinates":[-86.210835,43.056815],"type":"Point"}
+}

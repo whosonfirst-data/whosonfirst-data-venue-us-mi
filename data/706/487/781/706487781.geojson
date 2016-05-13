@@ -1,0 +1,71 @@
+{
+  "id": 706487781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.414855,42.244727,-84.414855,42.244727",
+    "geom:latitude":42.244727,
+    "geom:longitude":-84.414855,
+    "iso:country":"US",
+    "sg:address":"306 1st St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 796 1329",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xi9IGhppdUT4qulmr7Gyl_42.244727_-84.414855@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804280,
+    "wof:geomhash":"5d90210a2fe1b3cfe7c15557fa97610c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706487781
+        }
+    ],
+    "wof:id":706487781,
+    "wof:lastmodified":1461804280,
+    "wof:name":"F C Properties",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.414855,
+    42.244727,
+    -84.414855,
+    42.244727
+],
+  "geometry": {"coordinates":[-84.414855,42.244727],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689667589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.810108,41.761869,-86.810108,41.761869",
+    "geom:latitude":41.761869,
+    "geom:longitude":-86.810108,
+    "iso:country":"US",
+    "sg:address":"4095 Cherokee Dr",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1798",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LRgHI3RWRgA1kb4qZU3F0_41.761869_-86.810108@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778314,
+    "wof:geomhash":"036f3ef69c52ccae6447431a6371bc51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689667589
+        }
+    ],
+    "wof:id":689667589,
+    "wof:lastmodified":1461778314,
+    "wof:name":"Robert H Whalen Co",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.810108,
+    41.761869,
+    -86.810108,
+    41.761869
+],
+  "geometry": {"coordinates":[-86.810108,41.761869],"type":"Point"}
+}

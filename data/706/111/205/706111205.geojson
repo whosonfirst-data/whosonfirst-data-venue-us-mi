@@ -1,0 +1,76 @@
+{
+  "id": 706111205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.744558,42.751933,-84.744558,42.751933",
+    "geom:latitude":42.751933,
+    "geom:longitude":-84.744558,
+    "iso:country":"US",
+    "sg:address":"207 E Jefferson St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 622 5888",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J2ojk0s18X8fnwUjHuAM6_42.751933_-84.744558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796013,
+    "wof:geomhash":"7cdce8d6494743f8ae2f87be16d619ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706111205
+        }
+    ],
+    "wof:id":706111205,
+    "wof:lastmodified":1461796013,
+    "wof:name":"Up Close & Personal",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -84.744558,
+    42.751933,
+    -84.744558,
+    42.751933
+],
+  "geometry": {"coordinates":[-84.744558,42.751933],"type":"Point"}
+}

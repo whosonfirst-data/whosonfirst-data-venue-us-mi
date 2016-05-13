@@ -1,0 +1,78 @@
+{
+  "id": 722474943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469758,42.264237,-83.469758,42.264237",
+    "geom:latitude":42.264237,
+    "geom:longitude":-83.469758,
+    "iso:country":"US",
+    "sg:address":"42800 Yost Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 394 1500",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJV9VrjTM2qvbo3l8KkWj_42.264237_-83.469758@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812076,
+    "wof:geomhash":"1e78aa0f99e77afbd44d841f8d3cca7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474943
+        }
+    ],
+    "wof:id":722474943,
+    "wof:lastmodified":1461812076,
+    "wof:name":"Canton Collision Inc",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [
+    -83.469758,
+    42.264237,
+    -83.469758,
+    42.264237
+],
+  "geometry": {"coordinates":[-83.469758,42.264237],"type":"Point"}
+}

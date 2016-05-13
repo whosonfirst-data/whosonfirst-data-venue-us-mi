@@ -1,0 +1,73 @@
+{
+  "id": 689538003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.212002,43.19542,-86.212002,43.19542",
+    "geom:latitude":43.19542,
+    "geom:longitude":-86.212002,
+    "iso:country":"US",
+    "sg:address":"3056 Valk St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 0455",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qcZR9gqc1TEp67H6Fiqjn_43.195420_-86.212002@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774298,
+    "wof:geomhash":"a7e5e6dd82cd836f8fc6156641b7cc30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689538003
+        }
+    ],
+    "wof:id":689538003,
+    "wof:lastmodified":1461774298,
+    "wof:name":"Village Automotive & Machine",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "parts"
+    ]
+},
+  "bbox": [
+    -86.212002,
+    43.19542,
+    -86.212002,
+    43.19542
+],
+  "geometry": {"coordinates":[-86.212002,43.19542],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706320491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245332,41.826246,-86.245332,41.826246",
+    "geom:latitude":41.826246,
+    "geom:longitude":-86.245332,
+    "iso:country":"US",
+    "sg:address":"1229 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 687 4918",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LhqzrE5vJBTzaIrStym0f_41.826246_-86.245332@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800737,
+    "wof:geomhash":"13e8ed511f02b41f292838582199460e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706320491
+        }
+    ],
+    "wof:id":706320491,
+    "wof:lastmodified":1461800737,
+    "wof:name":"Select Automotive",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.245332,
+    41.826246,
+    -86.245332,
+    41.826246
+],
+  "geometry": {"coordinates":[-86.245332,41.826246],"type":"Point"}
+}

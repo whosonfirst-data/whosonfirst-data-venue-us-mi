@@ -1,0 +1,77 @@
+{
+  "id": 705888849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6473,42.960541,-85.6473,42.960541",
+    "geom:latitude":42.960541,
+    "geom:longitude":-85.6473,
+    "iso:country":"US",
+    "sg:address":"833 Lake Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 774 0042",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877877,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74lqH3eDBfRxajJ33AgDnL_42.960541_-85.647300@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791152,
+    "wof:geomhash":"1c1f1e4f9bf9313c6459165f0133d080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877877,
+            "region_id":85688599,
+            "venue_id":705888849
+        }
+    ],
+    "wof:id":705888849,
+    "wof:lastmodified":1461791152,
+    "wof:name":"County of Kent",
+    "wof:parent_id":85877877,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.6473,
+    42.960541,
+    -85.6473,
+    42.960541
+],
+  "geometry": {"coordinates":[-85.6473,42.960541],"type":"Point"}
+}

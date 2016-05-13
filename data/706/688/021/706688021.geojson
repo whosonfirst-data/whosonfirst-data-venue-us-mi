@@ -1,0 +1,76 @@
+{
+  "id": 706688021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.134801,42.680685,-83.134801,42.680685",
+    "geom:latitude":42.680685,
+    "geom:longitude":-83.134801,
+    "iso:country":"US",
+    "sg:address":"124 W 4th St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester/58024-4th-street-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 608 8723",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fXlMujWX8GKgOQa2A185E_42.680766_-83.134617@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809598,
+    "wof:geomhash":"552a0baeb152f3cb182ff5f10085afa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":706688021
+        }
+    ],
+    "wof:id":706688021,
+    "wof:lastmodified":1461809598,
+    "wof:name":"4th Street Grille",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.134801,
+    42.680685,
+    -83.134801,
+    42.680685
+],
+  "geometry": {"coordinates":[-83.134801,42.680685],"type":"Point"}
+}

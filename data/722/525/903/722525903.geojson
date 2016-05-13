@@ -1,0 +1,88 @@
+{
+  "id": 722525903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560247,42.250872,-85.560247,42.250872",
+    "geom:latitude":42.250872,
+    "geom:longitude":-85.560247,
+    "iso:country":"US",
+    "sg:address":"4025 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 226 3300",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.cottageinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E5fP4ZTsa1z1qcIgFfMWi_42.250872_-85.560247@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814248,
+    "wof:geomhash":"baf5b8c7469649f72af5102eec8408f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722525903
+        }
+    ],
+    "wof:id":722525903,
+    "wof:lastmodified":1461814248,
+    "wof:name":"Cottage Inn Pizza",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.560247,
+    42.250872,
+    -85.560247,
+    42.250872
+],
+  "geometry": {"coordinates":[-85.560247,42.250872],"type":"Point"}
+}

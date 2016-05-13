@@ -1,0 +1,78 @@
+{
+  "id": 706685359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.905377,42.972226,-85.905377,42.972226",
+    "geom:latitude":42.972226,
+    "geom:longitude":-85.905377,
+    "iso:country":"US",
+    "sg:address":"4842 Lake Michigan Dr",
+    "sg:city":"Allendale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/allendale/196919-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 895 4944",
+    "sg:postcode":"49401",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841015,
+        102191575,
+        404508423,
+        85633793,
+        85952117,
+        102083097,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CgB1HZkiNTK8P4NcO4xKO_42.972226_-85.905377@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"d045555dd9e966df0142a25d86fc2b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083097,
+            "localadmin_id":404508423,
+            "locality_id":85952117,
+            "neighbourhood_id":85841015,
+            "region_id":85688599,
+            "venue_id":706685359
+        }
+    ],
+    "wof:id":706685359,
+    "wof:lastmodified":1461809497,
+    "wof:name":"Burger King",
+    "wof:parent_id":85841015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.905377,
+    42.972226,
+    -85.905377,
+    42.972226
+],
+  "geometry": {"coordinates":[-85.905377,42.972226],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 722501335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.186436,42.452273,-83.186436,42.452273",
+    "geom:latitude":42.452273,
+    "geom:longitude":-83.186436,
+    "iso:country":"US",
+    "sg:address":"14001 Northend Ave",
+    "sg:city":"Oak Park",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 336 7640",
+    "sg:postcode":"48237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524619,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599,
+        420524987,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MgIVYqgZvMFSFvCWXIQyT_42.452273_-83.186436@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813125,
+    "wof:geomhash":"8b999a56663a0a8281c4b4f00839fd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":420524619,
+            "region_id":85688599,
+            "venue_id":722501335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524987,
+            "region_id":85688599,
+            "venue_id":722501335
+        }
+    ],
+    "wof:id":722501335,
+    "wof:lastmodified":1461813125,
+    "wof:name":"Oak Park School District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.186436,
+    42.452273,
+    -83.186436,
+    42.452273
+],
+  "geometry": {"coordinates":[-83.186436,42.452273],"type":"Point"}
+}

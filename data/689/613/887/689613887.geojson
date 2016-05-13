@@ -1,0 +1,71 @@
+{
+  "id": 689613887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732232,43.002399,-83.732232,43.002399",
+    "geom:latitude":43.002399,
+    "geom:longitude":-83.732232,
+    "iso:country":"US",
+    "sg:address":"3401 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 766 7354",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nBu1UyUPmmUqtWZOmnf6N_43.002399_-83.732232@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776736,
+    "wof:geomhash":"521eff994183d43484025761e0a7de15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689613887
+        }
+    ],
+    "wof:id":689613887,
+    "wof:lastmodified":1461776736,
+    "wof:name":"Police Mini Station",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.732232,
+    43.002399,
+    -83.732232,
+    43.002399
+],
+  "geometry": {"coordinates":[-83.732232,43.002399],"type":"Point"}
+}

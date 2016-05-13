@@ -1,0 +1,73 @@
+{
+  "id": 706496233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.31863,41.937524,-83.31863,41.937524",
+    "geom:latitude":41.937524,
+    "geom:longitude":-83.31863,
+    "iso:country":"US",
+    "sg:address":"3286 Elmwood St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 289 2064",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85858699,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bdb2gmSFf07SS3YqEm92G_41.937524_-83.318630@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804576,
+    "wof:geomhash":"783e620ebc663c7c8828ed0a239f665b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85858699,
+            "region_id":85688599,
+            "venue_id":706496233
+        }
+    ],
+    "wof:id":706496233,
+    "wof:lastmodified":1461804576,
+    "wof:name":"Lambrix Trucking",
+    "wof:parent_id":85858699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.31863,
+    41.937524,
+    -83.31863,
+    41.937524
+],
+  "geometry": {"coordinates":[-83.31863,41.937524],"type":"Point"}
+}

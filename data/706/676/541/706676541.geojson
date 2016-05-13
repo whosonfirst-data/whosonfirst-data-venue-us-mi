@@ -1,0 +1,80 @@
+{
+  "id": 706676541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197515,42.256574,-83.197515,42.256574",
+    "geom:latitude":42.256574,
+    "geom:longitude":-83.197515,
+    "iso:country":"US",
+    "sg:address":"14570 Southfield Rd",
+    "sg:city":"Allen Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/allen-park/182166-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 388 7317",
+    "sg:postcode":"48101",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896723,
+        102191575,
+        404508531,
+        85633793,
+        85951057,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BzGjf3xO2TAIDnty33Npr_42.256574_-83.197515@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809146,
+    "wof:geomhash":"29e75a32611a1836c4123b67b97ccff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508531,
+            "locality_id":85951057,
+            "neighbourhood_id":85896723,
+            "region_id":85688599,
+            "venue_id":706676541
+        }
+    ],
+    "wof:id":706676541,
+    "wof:lastmodified":1461809146,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.197515,
+    42.256574,
+    -83.197515,
+    42.256574
+],
+  "geometry": {"coordinates":[-83.197515,42.256574],"type":"Point"}
+}

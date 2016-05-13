@@ -1,0 +1,71 @@
+{
+  "id": 689465551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.327175,42.067203,-83.327175,42.067203",
+    "geom:latitude":42.067203,
+    "geom:longitude":-83.327175,
+    "iso:country":"US",
+    "sg:address":"13174 Rosedale Blvd",
+    "sg:city":"Carleton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 654 8798",
+    "sg:postcode":"48117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816729,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cPoq4FZKTXHRhHe4KHLML_42.067203_-83.327175@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772069,
+    "wof:geomhash":"30ad4e91e24eaf69bde4312eb0cb6bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85816729,
+            "region_id":85688599,
+            "venue_id":689465551
+        }
+    ],
+    "wof:id":689465551,
+    "wof:lastmodified":1461772069,
+    "wof:name":"Happy Days Child Care",
+    "wof:parent_id":85816729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.327175,
+    42.067203,
+    -83.327175,
+    42.067203
+],
+  "geometry": {"coordinates":[-83.327175,42.067203],"type":"Point"}
+}

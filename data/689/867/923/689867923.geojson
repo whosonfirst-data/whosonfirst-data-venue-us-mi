@@ -1,0 +1,71 @@
+{
+  "id": 689867923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.760353,43.045945,-83.760353,43.045945",
+    "geom:latitude":43.045945,
+    "geom:longitude":-83.760353,
+    "iso:country":"US",
+    "sg:address":"4351 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 1660",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rVEvwODFVGEipq4M7ErPb_43.045945_-83.760353@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783737,
+    "wof:geomhash":"c78ae2acb2778b58e64c6ee121d7f0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689867923
+        }
+    ],
+    "wof:id":689867923,
+    "wof:lastmodified":1461783737,
+    "wof:name":"Genessee County Animal Control",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.760353,
+    43.045945,
+    -83.760353,
+    43.045945
+],
+  "geometry": {"coordinates":[-83.76035299999999,43.045945],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706234667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662048,42.738268,-84.662048,42.738268",
+    "geom:latitude":42.738268,
+    "geom:longitude":-84.662048,
+    "iso:country":"US",
+    "sg:address":"811 N Canal Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 321 6622",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VEs9FB5uM3cgPyBQv1xKK_42.738268_-84.662048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798809,
+    "wof:geomhash":"924be92e0f47ebfe3fca88ec710e7249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706234667
+        }
+    ],
+    "wof:id":706234667,
+    "wof:lastmodified":1461798809,
+    "wof:name":"Delta Township Fire Department",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -84.662048,
+    42.738268,
+    -84.662048,
+    42.738268
+],
+  "geometry": {"coordinates":[-84.662048,42.738268],"type":"Point"}
+}

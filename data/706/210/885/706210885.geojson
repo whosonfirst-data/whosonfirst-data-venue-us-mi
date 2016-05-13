@@ -1,0 +1,71 @@
+{
+  "id": 706210885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.262979,43.206489,-86.262979,43.206489",
+    "geom:latitude":43.206489,
+    "geom:longitude":-86.262979,
+    "iso:country":"US",
+    "sg:address":"2520 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 4162",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jDbDazehaxDDsIi46MwBs_43.206489_-86.262979@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798299,
+    "wof:geomhash":"aa466f27bd9e0bab2f85cbc13b87229e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706210885
+        }
+    ],
+    "wof:id":706210885,
+    "wof:lastmodified":1461798299,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.262979,
+    43.206489,
+    -86.262979,
+    43.206489
+],
+  "geometry": {"coordinates":[-86.262979,43.206489],"type":"Point"}
+}

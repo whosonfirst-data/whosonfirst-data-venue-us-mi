@@ -1,0 +1,71 @@
+{
+  "id": 689785487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44617,42.117111,-86.44617,42.117111",
+    "geom:latitude":42.117111,
+    "geom:longitude":-86.44617,
+    "iso:country":"US",
+    "sg:address":"475 Cass St",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 927 6070",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dnpuKgvvQdE0xQup3Om0J_42.117111_-86.446170@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781409,
+    "wof:geomhash":"9ca09e333adc5cbe69c17672d47b2342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689785487
+        }
+    ],
+    "wof:id":689785487,
+    "wof:lastmodified":1461781409,
+    "wof:name":"Benton Harbor City Office",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -86.44617,
+    42.117111,
+    -86.44617,
+    42.117111
+],
+  "geometry": {"coordinates":[-86.44617,42.117111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705697275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.449015,42.247799,-84.449015,42.247799",
+    "geom:latitude":42.247799,
+    "geom:longitude":-84.449015,
+    "iso:country":"US",
+    "sg:address":"1806 W Tanbark Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 3396",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02EdMMBYUONLDsK93wE4yc_42.247799_-84.449015@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786392,
+    "wof:geomhash":"13c686ed694dec11216ba51d973dd1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705697275
+        }
+    ],
+    "wof:id":705697275,
+    "wof:lastmodified":1461786392,
+    "wof:name":"Athena Home Care Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -84.449015,
+    42.247799,
+    -84.449015,
+    42.247799
+],
+  "geometry": {"coordinates":[-84.449015,42.247799],"type":"Point"}
+}

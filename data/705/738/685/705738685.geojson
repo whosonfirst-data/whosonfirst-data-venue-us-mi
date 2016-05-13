@@ -1,0 +1,71 @@
+{
+  "id": 705738685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.984516,42.635105,-82.984516,42.635105",
+    "geom:latitude":42.635105,
+    "geom:longitude":-82.984516,
+    "iso:country":"US",
+    "sg:address":"46384 Coachwood Dr",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 566 7562",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CRarS3xpWhjjZG2WIBWm0_42.635105_-82.984516@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787612,
+    "wof:geomhash":"48e66ca4f24fb648dcf093b499c81dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":705738685
+        }
+    ],
+    "wof:id":705738685,
+    "wof:lastmodified":1461787612,
+    "wof:name":"Pointe Manor Apartments",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.984516,
+    42.635105,
+    -82.984516,
+    42.635105
+],
+  "geometry": {"coordinates":[-82.984516,42.635105],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 722477343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.61308,42.249218,-83.61308,42.249218",
+    "geom:latitude":42.249218,
+    "geom:longitude":-83.61308,
+    "iso:country":"US",
+    "sg:address":"5 W Forest Ave",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 547 6200",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "antique",
+        "car",
+        "restoration-antique",
+        "new",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cdXsDCeoB8g8oS0PahbYt_42.249218_-83.613080@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812168,
+    "wof:geomhash":"1aca614baccbfa90be47df98d9bce67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":722477343
+        }
+    ],
+    "wof:id":722477343,
+    "wof:lastmodified":1461812168,
+    "wof:name":"R M Classic Cars",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "car",
+        "restoration-antique",
+        "new",
+        "classic"
+    ]
+},
+  "bbox": [
+    -83.61308,
+    42.249218,
+    -83.61308,
+    42.249218
+],
+  "geometry": {"coordinates":[-83.61308,42.249218],"type":"Point"}
+}

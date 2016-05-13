@@ -1,0 +1,73 @@
+{
+  "id": 705937595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434946,42.09599,-86.434946,42.09599",
+    "geom:latitude":42.09599,
+    "geom:longitude":-86.434946,
+    "iso:country":"US",
+    "sg:address":"1233 State Hwy 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 1281",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eoi1WzS2mo14kH764CyYI_42.095990_-86.434946@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792233,
+    "wof:geomhash":"2b524b3a059f9662a5a92e9f92b0db3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705937595
+        }
+    ],
+    "wof:id":705937595,
+    "wof:lastmodified":1461792233,
+    "wof:name":"Berrien County Locksmiths",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.434946,
+    42.09599,
+    -86.434946,
+    42.09599
+],
+  "geometry": {"coordinates":[-86.434946,42.09599],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 689570081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.355461,42.578015,-83.355461,42.578015",
+    "geom:latitude":42.578015,
+    "geom:longitude":-83.355461,
+    "iso:country":"US",
+    "sg:address":"3715 Hutchins Hill",
+    "sg:city":"Orchard Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 626 0066",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38tDnqVxoX6uttTqCvx4hG_42.578015_-83.355461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775289,
+    "wof:geomhash":"57a7fbccc15c07431fe56f51702d84b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689570081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689570081
+        }
+    ],
+    "wof:id":689570081,
+    "wof:lastmodified":1461775289,
+    "wof:name":"R H Crimmins Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -83.355461,
+    42.578015,
+    -83.355461,
+    42.578015
+],
+  "geometry": {"coordinates":[-83.35546100000001,42.578015],"type":"Point"}
+}

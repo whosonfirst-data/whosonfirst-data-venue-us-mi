@@ -1,0 +1,71 @@
+{
+  "id": 705983363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.387606,41.810625,-86.387606,41.810625",
+    "geom:latitude":41.810625,
+    "geom:longitude":-86.387606,
+    "iso:country":"US",
+    "sg:address":"1580 Bakertown Rd",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 6141",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u4XvpuHssX18ol9vO5A3z_41.810625_-86.387606@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793234,
+    "wof:geomhash":"b568b14abe0987b2ddc2605f8bfccc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":705983363
+        }
+    ],
+    "wof:id":705983363,
+    "wof:lastmodified":1461793234,
+    "wof:name":"Bakertown Custom Garage",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -86.387606,
+    41.810625,
+    -86.387606,
+    41.810625
+],
+  "geometry": {"coordinates":[-86.38760600000001,41.810625],"type":"Point"}
+}

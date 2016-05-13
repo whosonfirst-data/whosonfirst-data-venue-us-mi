@@ -1,0 +1,73 @@
+{
+  "id": 689789377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.140114,42.80831,-86.140114,42.80831",
+    "geom:latitude":42.80831,
+    "geom:longitude":-86.140114,
+    "iso:country":"US",
+    "sg:address":"14529 Sylvan St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 4220",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RTZeIvdRBmzfxrUzObVmj_42.808310_-86.140114@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781511,
+    "wof:geomhash":"9f0da90e2f3e793d1895ecaf25c5d06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689789377
+        }
+    ],
+    "wof:id":689789377,
+    "wof:lastmodified":1461781511,
+    "wof:name":"De Vries Electric",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.140114,
+    42.80831,
+    -86.140114,
+    42.80831
+],
+  "geometry": {"coordinates":[-86.140114,42.80831],"type":"Point"}
+}

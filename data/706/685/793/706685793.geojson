@@ -1,0 +1,74 @@
+{
+  "id": 706685793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263261,43.198636,-86.263261,43.198636",
+    "geom:latitude":43.198636,
+    "geom:longitude":-86.263261,
+    "iso:country":"US",
+    "sg:address":"2958 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/roosevelt-park/86872-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 6421",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iQmdPtzDZQNqDcHAE0GD7_43.198636_-86.263261@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809513,
+    "wof:geomhash":"1312d67e653c2c55a4b1b6c4a0ec564e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685793
+        }
+    ],
+    "wof:id":706685793,
+    "wof:lastmodified":1461809513,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.263261,
+    43.198636,
+    -86.263261,
+    43.198636
+],
+  "geometry": {"coordinates":[-86.263261,43.198636],"type":"Point"}
+}

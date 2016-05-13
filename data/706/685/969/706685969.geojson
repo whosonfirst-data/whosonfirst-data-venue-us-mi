@@ -1,0 +1,74 @@
+{
+  "id": 706685969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.175041,43.076738,-86.175041,43.076738",
+    "geom:latitude":43.076738,
+    "geom:longitude":-86.175041,
+    "iso:country":"US",
+    "sg:address":"15549 Cleveland St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/spring-lake/196938-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 0791",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_299NeNCk7CXwgPEI2t590u_43.076738_-86.175041@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809519,
+    "wof:geomhash":"468d09bd4ebbaf8b62539d06e4a17c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706685969
+        }
+    ],
+    "wof:id":706685969,
+    "wof:lastmodified":1461809519,
+    "wof:name":"Burger King",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.175041,
+    43.076738,
+    -86.175041,
+    43.076738
+],
+  "geometry": {"coordinates":[-86.17504099999999,43.076738],"type":"Point"}
+}

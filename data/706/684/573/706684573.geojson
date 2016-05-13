@@ -1,0 +1,72 @@
+{
+  "id": 706684573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485521,42.080847,-86.485521,42.080847",
+    "geom:latitude":42.080847,
+    "geom:longitude":-86.485521,
+    "iso:country":"US",
+    "sg:address":"2051 Washington Ave",
+    "sg:city":"Saint Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/st-joseph/196888-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 7489",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnNAzIlOsUCiFW6YoYEFs_42.080847_-86.485521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809469,
+    "wof:geomhash":"e9cd787b601ea0877a2dfb2e30c74dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":706684573
+        }
+    ],
+    "wof:id":706684573,
+    "wof:lastmodified":1461809469,
+    "wof:name":"Burger King",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.485521,
+    42.080847,
+    -86.485521,
+    42.080847
+],
+  "geometry": {"coordinates":[-86.48552100000001,42.080847],"type":"Point"}
+}

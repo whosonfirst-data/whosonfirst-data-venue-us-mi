@@ -1,0 +1,73 @@
+{
+  "id": 706428681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224436,43.212612,-86.224436,43.212612",
+    "geom:latitude":43.212612,
+    "geom:longitude":-86.224436,
+    "iso:country":"US",
+    "sg:address":"2122 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 2525",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hr9epVvZH7HO8Eu5vqFKD_43.212612_-86.224436@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802955,
+    "wof:geomhash":"b7c6017fbe4801301e4bbce5a8f85603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706428681
+        }
+    ],
+    "wof:id":706428681,
+    "wof:lastmodified":1461802955,
+    "wof:name":"Car Doctors",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.224436,
+    43.212612,
+    -86.224436,
+    43.212612
+],
+  "geometry": {"coordinates":[-86.224436,43.212612],"type":"Point"}
+}

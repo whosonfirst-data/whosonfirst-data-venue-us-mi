@@ -1,0 +1,72 @@
+{
+  "id": 689714473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.153236,42.619039,-86.153236,42.619039",
+    "geom:latitude":42.619039,
+    "geom:longitude":-86.153236,
+    "iso:country":"US",
+    "sg:address":"2710 62nd St",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 561 7304",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.macslanding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951975,
+        102083043,
+        85848591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GfQVGU7BYXyyT5sKMA9fC_42.619039_-86.153236@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779511,
+    "wof:geomhash":"8184f6c6d48fa42a7c1bf5d6199ed74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "locality_id":85951975,
+            "neighbourhood_id":85848591,
+            "region_id":85688599,
+            "venue_id":689714473
+        }
+    ],
+    "wof:id":689714473,
+    "wof:lastmodified":1461779511,
+    "wof:name":"Mac's Landing Veterinarian Svc",
+    "wof:parent_id":85848591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.153236,
+    42.619039,
+    -86.153236,
+    42.619039
+],
+  "geometry": {"coordinates":[-86.15323600000001,42.619039],"type":"Point"}
+}

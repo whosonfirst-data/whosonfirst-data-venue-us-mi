@@ -1,0 +1,73 @@
+{
+  "id": 705936647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.684039,44.50433,-85.684039,44.50433",
+    "geom:latitude":44.50433,
+    "geom:longitude":-85.684039,
+    "iso:country":"US",
+    "sg:address":"351 W Wexford Ave",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 269 4290",
+    "sg:postcode":"49620",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V7j2ZzmObrqpKEF4qgIZn_44.504330_-85.684039@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792216,
+    "wof:geomhash":"734ef34745c6153393367623ddfa0a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705936647
+        }
+    ],
+    "wof:id":705936647,
+    "wof:lastmodified":1461792216,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -85.684039,
+    44.50433,
+    -85.684039,
+    44.50433
+],
+  "geometry": {"coordinates":[-85.684039,44.50433],"type":"Point"}
+}

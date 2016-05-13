@@ -1,0 +1,106 @@
+{
+  "id": 706688169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.359429,42.52595,-83.359429,42.52595",
+    "geom:latitude":42.52595,
+    "geom:longitude":-83.359429,
+    "iso:country":"US",
+    "sg:address":"31080 Orchard Lake Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/farmington-hills/133228-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 865 8192",
+    "sg:postcode":"48334",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896641,
+        102191575,
+        404508187,
+        85633793,
+        85951999,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71dD9tqZJtLLhIyWPFAhAA_42.525402_-83.359920@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809604,
+    "wof:geomhash":"292e1a40d630109a4ec49b053fe7f58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508187,
+            "locality_id":85951999,
+            "neighbourhood_id":85896641,
+            "region_id":85688599,
+            "venue_id":706688169
+        }
+    ],
+    "wof:id":706688169,
+    "wof:lastmodified":1461809604,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85896641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.359429,
+    42.52595,
+    -83.359429,
+    42.52595
+],
+  "geometry": {"coordinates":[-83.35942900000001,42.52595],"type":"Point"}
+}

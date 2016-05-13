@@ -1,0 +1,71 @@
+{
+  "id": 689738347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.94485,43.466168,-85.94485,43.466168",
+    "geom:latitude":43.466168,
+    "geom:longitude":-85.94485,
+    "iso:country":"US",
+    "sg:address":"104 S Division Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 0490",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DJ43ZmODSiHNWemkgvx68_43.466168_-85.944850@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780148,
+    "wof:geomhash":"51520e900d0d46f4aceebf4ceb3f8d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689738347
+        }
+    ],
+    "wof:id":689738347,
+    "wof:lastmodified":1461780148,
+    "wof:name":"Fremont Muffler & Brake",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.94485,
+    43.466168,
+    -85.94485,
+    43.466168
+],
+  "geometry": {"coordinates":[-85.94485,43.466168],"type":"Point"}
+}

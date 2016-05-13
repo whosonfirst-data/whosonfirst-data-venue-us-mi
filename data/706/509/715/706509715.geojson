@@ -1,0 +1,71 @@
+{
+  "id": 706509715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354563,43.416473,-86.354563,43.416473",
+    "geom:latitude":43.416473,
+    "geom:longitude":-86.354563,
+    "iso:country":"US",
+    "sg:address":"8660 Water St",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 3311",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdKS2Q5TIDHUHfNGbzWIC_43.416473_-86.354563@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804845,
+    "wof:geomhash":"8cbe16289da29cc047b32fa124a3706c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":706509715
+        }
+    ],
+    "wof:id":706509715,
+    "wof:lastmodified":1461804845,
+    "wof:name":"Montague Fire Dept",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.354563,
+    43.416473,
+    -86.354563,
+    43.416473
+],
+  "geometry": {"coordinates":[-86.354563,43.416473],"type":"Point"}
+}

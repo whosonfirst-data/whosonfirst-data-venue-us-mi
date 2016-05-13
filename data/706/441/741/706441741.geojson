@@ -1,0 +1,73 @@
+{
+  "id": 706441741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.398496,44.248278,-85.398496,44.248278",
+    "geom:latitude":44.248278,
+    "geom:longitude":-85.398496,
+    "iso:country":"US",
+    "sg:address":"120 W Chapin St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 3252",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "state",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LC5o87rBPVxSXbuVpudpq_44.248278_-85.398496@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803261,
+    "wof:geomhash":"b33436a287ea78f24f438804417c1ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706441741
+        }
+    ],
+    "wof:id":706441741,
+    "wof:lastmodified":1461803261,
+    "wof:name":"Fire Safety Office",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.398496,
+    44.248278,
+    -85.398496,
+    44.248278
+],
+  "geometry": {"coordinates":[-85.39849599999999,44.248278],"type":"Point"}
+}

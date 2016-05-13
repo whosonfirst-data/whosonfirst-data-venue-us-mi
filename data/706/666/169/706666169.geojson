@@ -1,0 +1,69 @@
+{
+  "id": 706666169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.447701,42.577999,-83.447701,42.577999",
+    "geom:latitude":42.577999,
+    "geom:longitude":-83.447701,
+    "iso:country":"US",
+    "sg:address":"8366 Richardson Rd",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 366 9898",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vWo0a3UbX48rPll4uBZRl_42.577978_-83.448095@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808715,
+    "wof:geomhash":"5ee0a034290347e4118cd368fdcd95b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":706666169
+        }
+    ],
+    "wof:id":706666169,
+    "wof:lastmodified":1461808715,
+    "wof:name":"Einstein Bros Bagels",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -83.447701,
+    42.577999,
+    -83.447701,
+    42.577999
+],
+  "geometry": {"coordinates":[-83.447701,42.577999],"type":"Point"}
+}

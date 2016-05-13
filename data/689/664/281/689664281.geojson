@@ -1,0 +1,77 @@
+{
+  "id": 689664281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.086957,42.794414,-86.086957,42.794414",
+    "geom:latitude":42.794414,
+    "geom:longitude":-86.086957,
+    "iso:country":"US",
+    "sg:address":"491 Chicago Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 394 5400",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "passenger",
+        "leasing",
+        "car",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z3Es27r3rsF7OpvDl1m6M_42.794414_-86.086957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778238,
+    "wof:geomhash":"2fdbc82ec732dc24d0622c9b38f6d3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":689664281
+        }
+    ],
+    "wof:id":689664281,
+    "wof:lastmodified":1461778238,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "passenger",
+        "leasing",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.086957,
+    42.794414,
+    -86.086957,
+    42.794414
+],
+  "geometry": {"coordinates":[-86.086957,42.794414],"type":"Point"}
+}

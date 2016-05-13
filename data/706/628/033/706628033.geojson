@@ -1,0 +1,73 @@
+{
+  "id": 706628033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.077401,45.807712,-88.077401,45.807712",
+    "geom:latitude":45.807712,
+    "geom:longitude":-88.077401,
+    "iso:country":"US",
+    "sg:address":"713 Woodward Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 1670",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AjGqQhU65Z6e8zrLFxpOA_45.807712_-88.077401@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807312,
+    "wof:geomhash":"0c83a22af500824b939a9f603098bf83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706628033
+        }
+    ],
+    "wof:id":706628033,
+    "wof:lastmodified":1461807312,
+    "wof:name":"Great Lakes Anesthesia",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.077401,
+    45.807712,
+    -88.077401,
+    45.807712
+],
+  "geometry": {"coordinates":[-88.07740099999999,45.807712],"type":"Point"}
+}

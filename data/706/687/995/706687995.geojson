@@ -1,0 +1,78 @@
+{
+  "id": 706687995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.159656,42.402217,-83.159656,42.402217",
+    "geom:latitude":42.402217,
+    "geom:longitude":-83.159656,
+    "iso:country":"US",
+    "sg:address":"15228 Wyoming St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/247297-china-garden/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 933 3686",
+    "sg:postcode":"48238",
+    "sg:province":"MI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870615,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rWNG0jSgbe3gOdeDCKUhJ_42.402307_-83.159595@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809597,
+    "wof:geomhash":"5f125dcf3d456bd63a676605ad7c99ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870615,
+            "region_id":85688599,
+            "venue_id":706687995
+        }
+    ],
+    "wof:id":706687995,
+    "wof:lastmodified":1461809597,
+    "wof:name":"China Garden",
+    "wof:parent_id":85870615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -83.159656,
+    42.402217,
+    -83.159656,
+    42.402217
+],
+  "geometry": {"coordinates":[-83.159656,42.402217],"type":"Point"}
+}

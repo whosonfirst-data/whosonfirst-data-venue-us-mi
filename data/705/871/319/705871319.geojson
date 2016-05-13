@@ -1,0 +1,71 @@
+{
+  "id": 705871319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416159,42.715685,-83.416159,42.715685",
+    "geom:latitude":42.715685,
+    "geom:longitude":-83.416159,
+    "iso:country":"US",
+    "sg:address":"5147 Lancaster Hills Dr",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 625 6007",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fTDuJsbeum32IVAl4H0Cs_42.715685_-83.416159@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790725,
+    "wof:geomhash":"dbd28a2f08e7cfd15e02e734bf81f552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705871319
+        }
+    ],
+    "wof:id":705871319,
+    "wof:lastmodified":1461790725,
+    "wof:name":"Lancaster Lakes Apartments",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.416159,
+    42.715685,
+    -83.416159,
+    42.715685
+],
+  "geometry": {"coordinates":[-83.41615899999999,42.715685],"type":"Point"}
+}

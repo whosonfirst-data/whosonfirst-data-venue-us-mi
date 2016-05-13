@@ -1,0 +1,75 @@
+{
+  "id": 689557865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625998,42.88276,-85.625998,42.88276",
+    "geom:latitude":42.88276,
+    "geom:longitude":-85.625998,
+    "iso:country":"US",
+    "sg:address":"4417 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 8879",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XFz8e3qEaYkATvHn3Dw0i_42.882760_-85.625998@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774971,
+    "wof:geomhash":"92bd4ab0b4bf216f58a2fe53fdc636f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689557865
+        }
+    ],
+    "wof:id":689557865,
+    "wof:lastmodified":1461774971,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.625998,
+    42.88276,
+    -85.625998,
+    42.88276
+],
+  "geometry": {"coordinates":[-85.625998,42.88276],"type":"Point"}
+}

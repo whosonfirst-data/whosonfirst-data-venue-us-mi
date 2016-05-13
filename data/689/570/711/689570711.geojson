@@ -1,0 +1,78 @@
+{
+  "id": 689570711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.538023,42.700481,-84.538023,42.700481",
+    "geom:latitude":42.700481,
+    "geom:longitude":-84.538023,
+    "iso:country":"US",
+    "sg:address":"2815 S Pennsylvania Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 8700",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.michiganortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878625,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R8XzkV8RHiDDSAKL0jS0Q_42.700481_-84.538023@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775310,
+    "wof:geomhash":"308e979a5147b24835e24a3bd0868e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878625,
+            "region_id":85688599,
+            "venue_id":689570711
+        }
+    ],
+    "wof:id":689570711,
+    "wof:lastmodified":1461775310,
+    "wof:name":"Michigan Orthopedic Ctr",
+    "wof:parent_id":85878625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.538023,
+    42.700481,
+    -84.538023,
+    42.700481
+],
+  "geometry": {"coordinates":[-84.538023,42.700481],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 706324463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.341937,42.931783,-85.341937,42.931783",
+    "geom:latitude":42.931783,
+    "geom:longitude":-85.341937,
+    "iso:country":"US",
+    "sg:address":"217 S Hudson St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 5929",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "marking",
+        "executive",
+        "parking",
+        "maintenance",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IJGsIfS5pvr1XIHbIeuxz_42.931783_-85.341937@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800845,
+    "wof:geomhash":"859c7961891e11089ce2ddceaa07f7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706324463
+        }
+    ],
+    "wof:id":706324463,
+    "wof:lastmodified":1461800845,
+    "wof:name":"City Public Works Garage",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "executive",
+        "parking",
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.341937,
+    42.931783,
+    -85.341937,
+    42.931783
+],
+  "geometry": {"coordinates":[-85.341937,42.931783],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706699813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.927803,42.610199,-82.927803,42.610199",
+    "geom:latitude":42.610199,
+    "geom:longitude":-82.927803,
+    "iso:country":"US",
+    "sg:address":"19120 Cass Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 723 2000",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "college",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AZub99X80UeiT5NLyIAK4_42.610199_-82.927803@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810070,
+    "wof:geomhash":"34380f56091e8c5b7c4ba77de1a375d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706699813
+        }
+    ],
+    "wof:id":706699813,
+    "wof:lastmodified":1461810070,
+    "wof:name":"Macomb and Clinton Townships Public Schools",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "college",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -82.927803,
+    42.610199,
+    -82.927803,
+    42.610199
+],
+  "geometry": {"coordinates":[-82.927803,42.610199],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 722522981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687698,43.051498,-83.687698,43.051498",
+    "geom:latitude":43.051498,
+    "geom:longitude":-83.687698,
+    "iso:country":"US",
+    "sg:address":"930 E Myrtle Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 789 8584",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877391,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EkBLd1zfko3HGILNJSxkt_43.051498_-83.687698@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814073,
+    "wof:geomhash":"a7ad39b01856bf1704477d7e579a3fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877391,
+            "region_id":85688599,
+            "venue_id":722522981
+        }
+    ],
+    "wof:id":722522981,
+    "wof:lastmodified":1461814073,
+    "wof:name":"Lazy Leopard Day Care Center",
+    "wof:parent_id":85877391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.687698,
+    43.051498,
+    -83.687698,
+    43.051498
+],
+  "geometry": {"coordinates":[-83.687698,43.051498],"type":"Point"}
+}

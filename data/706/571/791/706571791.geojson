@@ -1,0 +1,73 @@
+{
+  "id": 706571791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.62467,42.843294,-85.62467,42.843294",
+    "geom:latitude":42.843294,
+    "geom:longitude":-85.62467,
+    "iso:country":"US",
+    "sg:address":"6670 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 682 0300",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shipping",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JVkzbjbBrukLw4XBJOfZW_42.843294_-85.624670@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806095,
+    "wof:geomhash":"3a773f5eb0497275d5405fd6e854556d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706571791
+        }
+    ],
+    "wof:id":706571791,
+    "wof:lastmodified":1461806095,
+    "wof:name":"Postal Connections",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [
+    -85.62467,
+    42.843294,
+    -85.62467,
+    42.843294
+],
+  "geometry": {"coordinates":[-85.62466999999999,42.843294],"type":"Point"}
+}

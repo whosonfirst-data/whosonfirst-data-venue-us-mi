@@ -1,0 +1,77 @@
+{
+  "id": 689698213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275125,42.305215,-83.275125,42.305215",
+    "geom:latitude":42.305215,
+    "geom:longitude":-83.275125,
+    "iso:country":"US",
+    "sg:address":"907 Mohawk St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 565 8366",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73BqFYVN1BNUZ2JAiL7XHk_42.305215_-83.275125@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779065,
+    "wof:geomhash":"750296a5aac254faab333127efb339cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":689698213
+        }
+    ],
+    "wof:id":689698213,
+    "wof:lastmodified":1461779065,
+    "wof:name":"Price Electric",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.275125,
+    42.305215,
+    -83.275125,
+    42.305215
+],
+  "geometry": {"coordinates":[-83.275125,42.305215],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705733999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.007876,43.415147,-84.007876,43.415147",
+    "geom:latitude":43.415147,
+    "geom:longitude":-84.007876,
+    "iso:country":"US",
+    "sg:address":"4675 Gratiot Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 0786",
+    "sg:postcode":"48638",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3amNvDuuyyqp89ycK24bsK_43.415147_-84.007876@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787504,
+    "wof:geomhash":"dd4cb016c33f6b6c45f253a7a3e96cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705733999
+        }
+    ],
+    "wof:id":705733999,
+    "wof:lastmodified":1461787504,
+    "wof:name":"Muffler Man",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.007876,
+    43.415147,
+    -84.007876,
+    43.415147
+],
+  "geometry": {"coordinates":[-84.007876,43.415147],"type":"Point"}
+}

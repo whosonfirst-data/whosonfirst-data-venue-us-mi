@@ -1,0 +1,73 @@
+{
+  "id": 689708981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411609,42.033079,-86.411609,42.033079",
+    "geom:latitude":42.033079,
+    "geom:longitude":-86.411609,
+    "iso:country":"US",
+    "sg:address":"1895 High Bank Dr",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 556 1225",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65DR6XrBUSnhqWfkDMzJDf_42.033079_-86.411609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779378,
+    "wof:geomhash":"269355439755325a90c4eff5a0ecff32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689708981
+        }
+    ],
+    "wof:id":689708981,
+    "wof:lastmodified":1461779378,
+    "wof:name":"Midwest Sewer Svc",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -86.411609,
+    42.033079,
+    -86.411609,
+    42.033079
+],
+  "geometry": {"coordinates":[-86.411609,42.033079],"type":"Point"}
+}

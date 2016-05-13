@@ -1,0 +1,71 @@
+{
+  "id": 705915829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.188109,43.190492,-86.188109,43.190492",
+    "geom:latitude":43.190492,
+    "geom:longitude":-86.188109,
+    "iso:country":"US",
+    "sg:address":"2332 Heights Ravenna Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 1572",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_324ffemeYgzMKbmeLrph0Q_43.190492_-86.188109@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791765,
+    "wof:geomhash":"526b97676eeef7d24f7adcab370ede5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705915829
+        }
+    ],
+    "wof:id":705915829,
+    "wof:lastmodified":1461791765,
+    "wof:name":"Trash-A-Haul",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.188109,
+    43.190492,
+    -86.188109,
+    43.190492
+],
+  "geometry": {"coordinates":[-86.188109,43.190492],"type":"Point"}
+}

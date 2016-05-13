@@ -1,0 +1,83 @@
+{
+  "id": 689496163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.504057,42.704609,-84.504057,42.704609",
+    "geom:latitude":42.704609,
+    "geom:longitude":-84.504057,
+    "iso:country":"US",
+    "sg:address":"3535 Forest Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 353 4350",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "conference",
+        "building",
+        "center",
+        "nonresidential"
+    ],
+    "sg:website":"www.msuhenrycenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UncNkfjM4q3PCTNPB3GkI_42.704609_-84.504057@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772988,
+    "wof:geomhash":"9291a7c5f095a0495cbc91b05514968f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689496163
+        }
+    ],
+    "wof:id":689496163,
+    "wof:lastmodified":1461772988,
+    "wof:name":"Henry Center For Executive Dev",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conference",
+        "building",
+        "center",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.504057,
+    42.704609,
+    -84.504057,
+    42.704609
+],
+  "geometry": {"coordinates":[-84.504057,42.704609],"type":"Point"}
+}

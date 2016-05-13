@@ -1,0 +1,78 @@
+{
+  "id": 706679479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.227562,42.565065,-83.227562,42.565065",
+    "geom:latitude":42.565065,
+    "geom:longitude":-83.227562,
+    "iso:country":"US",
+    "sg:address":"39560 Woodward Ave",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bloomfield-hills/140989-fox-and-hound/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 644 4800",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "steakhouse",
+        "pub",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MXdvm6GDfop5ChBdgtFAu_42.565065_-83.227562@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809262,
+    "wof:geomhash":"12d3d5822a254dc8f06d4b7dd5fb63b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":706679479
+        }
+    ],
+    "wof:id":706679479,
+    "wof:lastmodified":1461809262,
+    "wof:name":"Fox and Hound",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse",
+        "pub",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.227562,
+    42.565065,
+    -83.227562,
+    42.565065
+],
+  "geometry": {"coordinates":[-83.22756200000001,42.565065],"type":"Point"}
+}

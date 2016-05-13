@@ -1,0 +1,69 @@
+{
+  "id": 706574303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633992,44.735046,-85.633992,44.735046",
+    "geom:latitude":44.735046,
+    "geom:longitude":-85.633992,
+    "iso:country":"US",
+    "sg:address":"3000 Albany St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 000 1111",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cMcqov8lsmahOtOZ6Zz0R_44.735046_-85.633992@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806163,
+    "wof:geomhash":"d87dc6d2a099825de9f1f6e21608ce81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706574303
+        }
+    ],
+    "wof:id":706574303,
+    "wof:lastmodified":1461806163,
+    "wof:name":"Garfield Twp Fire Dept",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.633992,
+    44.735046,
+    -85.633992,
+    44.735046
+],
+  "geometry": {"coordinates":[-85.63399200000001,44.735046],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689710195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761847,43.55541,-85.761847,43.55541",
+    "geom:latitude":43.55541,
+    "geom:longitude":-85.761847,
+    "iso:country":"US",
+    "sg:address":"201 N Webster St",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 0555",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fMAKuPf1EELtJmfVk0pqv_43.555410_-85.761847@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779407,
+    "wof:geomhash":"2c2263d7ddff6b0f0d36966848173bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689710195
+        }
+    ],
+    "wof:id":689710195,
+    "wof:lastmodified":1461779407,
+    "wof:name":"Termo Lube",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.761847,
+    43.55541,
+    -85.761847,
+    43.55541
+],
+  "geometry": {"coordinates":[-85.761847,43.55541],"type":"Point"}
+}

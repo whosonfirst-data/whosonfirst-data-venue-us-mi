@@ -1,0 +1,70 @@
+{
+  "id": 722483287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.132202,42.308899,-83.132202,42.308899",
+    "geom:latitude":42.308899,
+    "geom:longitude":-83.132202,
+    "iso:country":"US",
+    "sg:address":"2216 Lawndale St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 841 7440",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870619,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04dY6uzqIOOve5wM3GDONE_42.308899_-83.132202@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812425,
+    "wof:geomhash":"d3d664216229a3776947ad585814423f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":722483287
+        }
+    ],
+    "wof:id":722483287,
+    "wof:lastmodified":1461812425,
+    "wof:name":"Quality Motors",
+    "wof:parent_id":85870619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.132202,
+    42.308899,
+    -83.132202,
+    42.308899
+],
+  "geometry": {"coordinates":[-83.13220200000001,42.308899],"type":"Point"}
+}

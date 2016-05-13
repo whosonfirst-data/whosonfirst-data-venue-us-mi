@@ -1,0 +1,71 @@
+{
+  "id": 706595415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680617,43.2944,-85.680617,43.2944",
+    "geom:latitude":43.2944,
+    "geom:longitude":-85.680617,
+    "iso:country":"US",
+    "sg:address":"14363 Juniper Ave",
+    "sg:city":"Kent City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 262 8676",
+    "sg:postcode":"49330",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OvX4lkMPG8QfMUENrpErd_43.294400_-85.680617@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806626,
+    "wof:geomhash":"dc673b57ada461e93921ca33565b427f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706595415
+        }
+    ],
+    "wof:id":706595415,
+    "wof:lastmodified":1461806626,
+    "wof:name":"Above All Construction",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -85.680617,
+    43.2944,
+    -85.680617,
+    43.2944
+],
+  "geometry": {"coordinates":[-85.680617,43.2944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706384733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.25103,43.201186,-86.25103,43.201186",
+    "geom:latitude":43.201186,
+    "geom:longitude":-86.25103,
+    "iso:country":"US",
+    "sg:address":"2705 7th St",
+    "sg:city":"Muskegon Heights",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 1619",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "valve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aywqQX9PrnRz4POZ60tUp_43.201186_-86.251030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802104,
+    "wof:geomhash":"f5d5f287b24472c705af4ab1a97446d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706384733
+        }
+    ],
+    "wof:id":706384733,
+    "wof:lastmodified":1461802104,
+    "wof:name":"Muskegon Valve Co",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valve"
+    ]
+},
+  "bbox": [
+    -86.25103,
+    43.201186,
+    -86.25103,
+    43.201186
+],
+  "geometry": {"coordinates":[-86.25103,43.201186],"type":"Point"}
+}

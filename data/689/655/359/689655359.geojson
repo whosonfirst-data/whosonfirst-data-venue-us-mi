@@ -1,0 +1,75 @@
+{
+  "id": 689655359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.424051,42.974855,-82.424051,42.974855",
+    "geom:latitude":42.974855,
+    "geom:longitude":-82.424051,
+    "iso:country":"US",
+    "sg:address":"405 Water St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 2200",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896759,
+        102191575,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20i8r6DtJmvZuNVteuhF7j_42.974855_-82.424051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778003,
+    "wof:geomhash":"f0dbb70dd7d55cc94533b1708835c5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":85896759,
+            "region_id":85688599,
+            "venue_id":689655359
+        }
+    ],
+    "wof:id":689655359,
+    "wof:lastmodified":1461778003,
+    "wof:name":"Semco Pipeline Company",
+    "wof:parent_id":85896759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -82.424051,
+    42.974855,
+    -82.424051,
+    42.974855
+],
+  "geometry": {"coordinates":[-82.42405100000001,42.974855],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706596215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261716,43.262271,-86.261716,43.262271",
+    "geom:latitude":43.262271,
+    "geom:longitude":-86.261716,
+    "iso:country":"US",
+    "sg:address":"409 Center St",
+    "sg:city":"North Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 5203",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RPGPd8TrKFtSq6DuqPNhl_43.262271_-86.261716@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806641,
+    "wof:geomhash":"c656dd2ee4f13ffc18b895ce54751f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706596215
+        }
+    ],
+    "wof:id":706596215,
+    "wof:lastmodified":1461806641,
+    "wof:name":"Speedy Lube Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.261716,
+    43.262271,
+    -86.261716,
+    43.262271
+],
+  "geometry": {"coordinates":[-86.26171600000001,43.262271],"type":"Point"}
+}

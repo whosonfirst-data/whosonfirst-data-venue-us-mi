@@ -1,0 +1,73 @@
+{
+  "id": 706089407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.52885,42.840527,-85.52885,42.840527",
+    "geom:latitude":42.840527,
+    "geom:longitude":-85.52885,
+    "iso:country":"US",
+    "sg:address":"5520 68th St SE",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 7375",
+    "sg:postcode":"49316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IFWFgSKNKxiQTHGUlJhxo_42.840527_-85.528850@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795561,
+    "wof:geomhash":"d273129e6b951dbc6b3d81e78b2ba5af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706089407
+        }
+    ],
+    "wof:id":706089407,
+    "wof:lastmodified":1461795561,
+    "wof:name":"Wiltse Automotive",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.52885,
+    42.840527,
+    -85.52885,
+    42.840527
+],
+  "geometry": {"coordinates":[-85.52885000000001,42.840527],"type":"Point"}
+}

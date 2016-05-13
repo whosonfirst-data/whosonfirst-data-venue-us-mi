@@ -1,0 +1,71 @@
+{
+  "id": 689822621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.643957,42.182273,-84.643957,42.182273",
+    "geom:latitude":42.182273,
+    "geom:longitude":-84.643957,
+    "iso:country":"US",
+    "sg:address":"103 Spring Arbor Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 7109",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_204j57UI6ueUF4cg6T5eNq_42.182273_-84.643957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782585,
+    "wof:geomhash":"156b3e1a91886239aae6b0a8fb824766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689822621
+        }
+    ],
+    "wof:id":689822621,
+    "wof:lastmodified":1461782585,
+    "wof:name":"Mc Kenzie's Auto Svc Ctr",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.643957,
+    42.182273,
+    -84.643957,
+    42.182273
+],
+  "geometry": {"coordinates":[-84.643957,42.182273],"type":"Point"}
+}

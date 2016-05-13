@@ -1,0 +1,73 @@
+{
+  "id": 705788243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.77153,43.541296,-85.77153,43.541296",
+    "geom:latitude":43.541296,
+    "geom:longitude":-85.77153,
+    "iso:country":"US",
+    "sg:address":"705 S Evergreen Dr",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 6333",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ET0dgy8iDSKxHJyjohd2G_43.541296_-85.771530@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788757,
+    "wof:geomhash":"ba7c02c2c0d4e7eb831619b766b4b161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705788243
+        }
+    ],
+    "wof:id":705788243,
+    "wof:lastmodified":1461788757,
+    "wof:name":"White Cloud Auto Sales",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.77153,
+    43.541296,
+    -85.77153,
+    43.541296
+],
+  "geometry": {"coordinates":[-85.77153,43.541296],"type":"Point"}
+}

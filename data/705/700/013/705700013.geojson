@@ -1,0 +1,71 @@
+{
+  "id": 705700013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.518741,42.63113,-83.518741,42.63113",
+    "geom:latitude":42.63113,
+    "geom:longitude":-83.518741,
+    "iso:country":"US",
+    "sg:address":"1317 Scottwood",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 887 7584",
+    "sg:postcode":"48383",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DDDhtPEQmxJxxKPiDeW0e_42.631130_-83.518741@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786521,
+    "wof:geomhash":"8cc3cce53fc1debbc4d5ab7f70b52703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":705700013
+        }
+    ],
+    "wof:id":705700013,
+    "wof:lastmodified":1461786521,
+    "wof:name":"Peregrine",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.518741,
+    42.63113,
+    -83.518741,
+    42.63113
+],
+  "geometry": {"coordinates":[-83.51874100000001,42.63113],"type":"Point"}
+}

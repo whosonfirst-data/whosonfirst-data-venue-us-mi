@@ -1,0 +1,69 @@
+{
+  "id": 722479393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.061104,42.361588,-83.061104,42.361588",
+    "geom:latitude":42.361588,
+    "geom:longitude":-83.061104,
+    "iso:country":"US",
+    "sg:address":"Brush St. & Frederick St.",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870589,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JWmQ1aRmPLFN6TeUZLR0u_42.361588_-83.061104@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812260,
+    "wof:geomhash":"54deee85a50bdb70b9a8e232bf36ef67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870589,
+            "region_id":85688599,
+            "venue_id":722479393
+        }
+    ],
+    "wof:id":722479393,
+    "wof:lastmodified":1461812260,
+    "wof:name":"Peck Park",
+    "wof:parent_id":85870589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.061104,
+    42.361588,
+    -83.061104,
+    42.361588
+],
+  "geometry": {"coordinates":[-83.061104,42.361588],"type":"Point"}
+}

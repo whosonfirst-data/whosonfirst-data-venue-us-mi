@@ -1,0 +1,81 @@
+{
+  "id": 706728631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.278085,42.326576,-83.278085,42.326576",
+    "geom:latitude":42.326576,
+    "geom:longitude":-83.278085,
+    "iso:country":"US",
+    "sg:address":"24545 Ford Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 2350",
+    "sg:postcode":"48128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dearbornitalianbakery.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896605,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rO52m2a1U60md8g6L53Yt_42.326576_-83.278085@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811373,
+    "wof:geomhash":"036f45ba91de6c46e8879a59d575eb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896605,
+            "region_id":85688599,
+            "venue_id":706728631
+        }
+    ],
+    "wof:id":706728631,
+    "wof:lastmodified":1461811373,
+    "wof:name":"Dearborn Italian Bakers",
+    "wof:parent_id":85896605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.278085,
+    42.326576,
+    -83.278085,
+    42.326576
+],
+  "geometry": {"coordinates":[-83.278085,42.326576],"type":"Point"}
+}

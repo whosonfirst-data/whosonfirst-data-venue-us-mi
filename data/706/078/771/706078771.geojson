@@ -1,0 +1,73 @@
+{
+  "id": 706078771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.574706,42.259533,-85.574706,42.259533",
+    "geom:latitude":42.259533,
+    "geom:longitude":-85.574706,
+    "iso:country":"US",
+    "sg:address":"620 E Cork St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 3530",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mP1UoKNDfnfUwuGHj6OHR_42.259533_-85.574706@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795230,
+    "wof:geomhash":"341b4288af4374f60e30755cea5ffce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706078771
+        }
+    ],
+    "wof:id":706078771,
+    "wof:lastmodified":1461795230,
+    "wof:name":"Chuck's Service Ctr",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.574706,
+    42.259533,
+    -85.574706,
+    42.259533
+],
+  "geometry": {"coordinates":[-85.57470600000001,42.259533],"type":"Point"}
+}

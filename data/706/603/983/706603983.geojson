@@ -1,0 +1,71 @@
+{
+  "id": 706603983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.956761,43.061887,-85.956761,43.061887",
+    "geom:latitude":43.061887,
+    "geom:longitude":-85.956761,
+    "iso:country":"US",
+    "sg:address":"100 68th Ave N",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 8151",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fowF2xeOPIkPXlhL77xbm_43.061887_-85.956761@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806804,
+    "wof:geomhash":"33482815d49b488821772a07a48eb067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706603983
+        }
+    ],
+    "wof:id":706603983,
+    "wof:lastmodified":1461806804,
+    "wof:name":"West Michigan Veterinary Svc",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.956761,
+    43.061887,
+    -85.956761,
+    43.061887
+],
+  "geometry": {"coordinates":[-85.956761,43.061887],"type":"Point"}
+}

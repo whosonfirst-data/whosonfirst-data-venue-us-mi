@@ -1,0 +1,76 @@
+{
+  "id": 706121093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.089146,43.213023,-86.089146,43.213023",
+    "geom:latitude":43.213023,
+    "geom:longitude":-86.089146,
+    "iso:country":"US",
+    "sg:address":"6685 Evanston Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 5536",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58LoYRtt0O298gHKTOqbkF_43.213023_-86.089146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796286,
+    "wof:geomhash":"96ba1ca95e3b67f8717430a6d29c9c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706121093
+        }
+    ],
+    "wof:id":706121093,
+    "wof:lastmodified":1461796286,
+    "wof:name":"Taylor Maid Cleaning Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.089146,
+    43.213023,
+    -86.089146,
+    43.213023
+],
+  "geometry": {"coordinates":[-86.089146,43.213023],"type":"Point"}
+}

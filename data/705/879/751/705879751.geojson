@@ -1,0 +1,73 @@
+{
+  "id": 705879751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.583708,47.11306,-88.583708,47.11306",
+    "geom:latitude":47.11306,
+    "geom:longitude":-88.583708,
+    "iso:country":"US",
+    "sg:address":"806 W Sharon Ave",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 6621",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtFAndzHCN5q8IZs1QyC3_47.113060_-88.583708@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790927,
+    "wof:geomhash":"53e57ae79db02d43002fd25b5a9b93d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":705879751
+        }
+    ],
+    "wof:id":705879751,
+    "wof:lastmodified":1461790927,
+    "wof:name":"Superior Lube",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.583708,
+    47.11306,
+    -88.583708,
+    47.11306
+],
+  "geometry": {"coordinates":[-88.583708,47.11306],"type":"Point"}
+}

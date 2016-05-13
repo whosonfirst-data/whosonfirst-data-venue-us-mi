@@ -1,0 +1,72 @@
+{
+  "id": 706688939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.248006,41.814406,-86.248006,41.814406",
+    "geom:latitude":41.814406,
+    "geom:longitude":-86.248006,
+    "iso:country":"US",
+    "sg:address":"1275 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/42365-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 1300",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75eN6JMlIOEAoHyzbpnVmi_41.814459_-86.248129@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809631,
+    "wof:geomhash":"e39c65a87f3080f2fcd1c746a2aaf9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706688939
+        }
+    ],
+    "wof:id":706688939,
+    "wof:lastmodified":1461809631,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.248006,
+    41.814406,
+    -86.248006,
+    41.814406
+],
+  "geometry": {"coordinates":[-86.248006,41.814406],"type":"Point"}
+}

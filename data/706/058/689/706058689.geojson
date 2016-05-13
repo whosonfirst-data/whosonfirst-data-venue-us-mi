@@ -1,0 +1,71 @@
+{
+  "id": 706058689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.910438,43.060202,-85.910438,43.060202",
+    "geom:latitude":43.060202,
+    "geom:longitude":-85.910438,
+    "iso:country":"US",
+    "sg:address":"675 Randall St E",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 9777",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yBUcoMz2bRwCgIm5IL30P_43.060202_-85.910438@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794788,
+    "wof:geomhash":"aafabe737a4174eaea99c4bc3257d6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706058689
+        }
+    ],
+    "wof:id":706058689,
+    "wof:lastmodified":1461794788,
+    "wof:name":"Randall Street Medical",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.910438,
+    43.060202,
+    -85.910438,
+    43.060202
+],
+  "geometry": {"coordinates":[-85.910438,43.060202],"type":"Point"}
+}

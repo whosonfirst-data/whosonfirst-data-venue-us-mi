@@ -1,0 +1,71 @@
+{
+  "id": 706283005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.536633,42.303144,-85.536633,42.303144",
+    "geom:latitude":42.303144,
+    "geom:longitude":-85.536633,
+    "iso:country":"US",
+    "sg:address":"3504 E Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 226 0073",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tc5a1tkqPVHQz6gOVsJCO_42.303144_-85.536633@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799916,
+    "wof:geomhash":"f793aa3e405a52e39b0ba171eaab10b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706283005
+        }
+    ],
+    "wof:id":706283005,
+    "wof:lastmodified":1461799916,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.536633,
+    42.303144,
+    -85.536633,
+    42.303144
+],
+  "geometry": {"coordinates":[-85.53663299999999,42.303144],"type":"Point"}
+}

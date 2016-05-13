@@ -1,0 +1,95 @@
+{
+  "id": 706678633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.085042,42.36731,-83.085042,42.36731",
+    "geom:latitude":42.36731,
+    "geom:longitude":-83.085042,
+    "iso:country":"US",
+    "sg:address":"2799 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/24230-mr-pita/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 871 7123",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870527,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sKb6gi7dmIHVeTs2pbD9D_42.367310_-83.085042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809232,
+    "wof:geomhash":"d39b283d41bca28463be891ff7aa4e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706678633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870527,
+            "region_id":85688599,
+            "venue_id":706678633
+        }
+    ],
+    "wof:id":706678633,
+    "wof:lastmodified":1461809232,
+    "wof:name":"Mr. Pita",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.085042,
+    42.36731,
+    -83.085042,
+    42.36731
+],
+  "geometry": {"coordinates":[-83.085042,42.36731],"type":"Point"}
+}

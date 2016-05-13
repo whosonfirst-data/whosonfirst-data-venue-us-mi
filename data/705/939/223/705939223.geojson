@@ -1,0 +1,71 @@
+{
+  "id": 705939223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.696565,44.500339,-85.696565,44.500339",
+    "geom:latitude":44.500339,
+    "geom:longitude":-85.696565,
+    "iso:country":"US",
+    "sg:address":"11168 N M 37",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 269 4400",
+    "sg:postcode":"49620",
+    "sg:province":"MI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gYoSvg3qQBKkYP8VT5nGm_44.500339_-85.696565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792289,
+    "wof:geomhash":"96fe92c0f8806ec347f8b5b83c082755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705939223
+        }
+    ],
+    "wof:id":705939223,
+    "wof:lastmodified":1461792289,
+    "wof:name":"M & M Farm Market",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -85.696565,
+    44.500339,
+    -85.696565,
+    44.500339
+],
+  "geometry": {"coordinates":[-85.69656500000001,44.500339],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 722526335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589536,42.240342,-85.589536,42.240342",
+    "geom:latitude":42.240342,
+    "geom:longitude":-85.589536,
+    "iso:country":"US",
+    "sg:address":"5230 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 341 9252",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petsuppliesplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878469,
+        102191575,
+        404507697,
+        85633793,
+        85950989,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69At6Bnm0O7wTu4E6X8Pno_42.240342_-85.589536@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814263,
+    "wof:geomhash":"dbf506dc6994b5441475be0b334c18a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507697,
+            "locality_id":85950989,
+            "neighbourhood_id":85878469,
+            "region_id":85688599,
+            "venue_id":722526335
+        }
+    ],
+    "wof:id":722526335,
+    "wof:lastmodified":1461814263,
+    "wof:name":"Pet Supplies Plus",
+    "wof:parent_id":85878469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.589536,
+    42.240342,
+    -85.589536,
+    42.240342
+],
+  "geometry": {"coordinates":[-85.589536,42.240342],"type":"Point"}
+}

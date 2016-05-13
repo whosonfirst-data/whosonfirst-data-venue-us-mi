@@ -1,0 +1,71 @@
+{
+  "id": 705787689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43765,42.540423,-83.43765,42.540423",
+    "geom:latitude":42.540423,
+    "geom:longitude":-83.43765,
+    "iso:country":"US",
+    "sg:address":"7416 Haggerty Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 661 9100",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896633,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r7jzTzzhgR42HKQJaL1Ku_42.540423_-83.437650@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788745,
+    "wof:geomhash":"1f37c9355cdf6008442f59535a40d886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896633,
+            "region_id":85688599,
+            "venue_id":705787689
+        }
+    ],
+    "wof:id":705787689,
+    "wof:lastmodified":1461788745,
+    "wof:name":"Southfield Pediatric West",
+    "wof:parent_id":85896633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.43765,
+    42.540423,
+    -83.43765,
+    42.540423
+],
+  "geometry": {"coordinates":[-83.43765,42.540423],"type":"Point"}
+}

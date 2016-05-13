@@ -1,0 +1,75 @@
+{
+  "id": 705891745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.416028,46.567232,-87.416028,46.567232",
+    "geom:latitude":46.567232,
+    "geom:longitude":-87.416028,
+    "iso:country":"US",
+    "sg:address":"1375 Union St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 2722",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PF6VknNqSdpDArlqQnDMf_46.567232_-87.416028@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791221,
+    "wof:geomhash":"8bcfdbd50175936e4bfb53e7c15dd82f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705891745
+        }
+    ],
+    "wof:id":705891745,
+    "wof:lastmodified":1461791221,
+    "wof:name":"Hoover's Auto Body",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.416028,
+    46.567232,
+    -87.416028,
+    46.567232
+],
+  "geometry": {"coordinates":[-87.416028,46.567232],"type":"Point"}
+}

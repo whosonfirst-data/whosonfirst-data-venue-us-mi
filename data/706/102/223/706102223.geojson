@@ -1,0 +1,71 @@
+{
+  "id": 706102223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.571776,41.870825,-83.571776,41.870825",
+    "geom:latitude":41.870825,
+    "geom:longitude":-83.571776,
+    "iso:country":"US",
+    "sg:address":"5792 Lewis Ave",
+    "sg:city":"Ida",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 269 6789",
+    "sg:postcode":"48140",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WqWld2ystos9NOkLqE5IR_41.870825_-83.571776@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795830,
+    "wof:geomhash":"2aa1d420ee7948ba0292a1cfedceb10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":706102223
+        }
+    ],
+    "wof:id":706102223,
+    "wof:lastmodified":1461795830,
+    "wof:name":"Lewis Pizza & Mawsallys Liquor",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.571776,
+    41.870825,
+    -83.571776,
+    41.870825
+],
+  "geometry": {"coordinates":[-83.571776,41.870825],"type":"Point"}
+}

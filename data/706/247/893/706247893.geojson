@@ -1,0 +1,71 @@
+{
+  "id": 706247893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.458108,42.415523,-83.458108,42.415523",
+    "geom:latitude":42.415523,
+    "geom:longitude":-83.458108,
+    "iso:country":"US",
+    "sg:address":"17903 Winchester Dr",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 348 3856",
+    "sg:postcode":"48168",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin",
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45P8MnAieyGUcmn3jJGFGk_42.415523_-83.458108@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799146,
+    "wof:geomhash":"9111f1c43a42cb6181412982544117bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":706247893
+        }
+    ],
+    "wof:id":706247893,
+    "wof:lastmodified":1461799146,
+    "wof:name":"Coin-O-Matic Laundries Inc",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -83.458108,
+    42.415523,
+    -83.458108,
+    42.415523
+],
+  "geometry": {"coordinates":[-83.458108,42.415523],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689830165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.455083,47.24628,-88.455083,47.24628",
+    "geom:latitude":47.24628,
+    "geom:longitude":-88.455083,
+    "iso:country":"US",
+    "sg:address":"200 7th St",
+    "sg:city":"Calumet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 337 2277",
+    "sg:postcode":"49913",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851683,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4cGY0x354EiuhhiUs9nq_47.246280_-88.455083@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782816,
+    "wof:geomhash":"7c470043986cddf199b6a807c6dfa771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85851683,
+            "region_id":85688599,
+            "venue_id":689830165
+        }
+    ],
+    "wof:id":689830165,
+    "wof:lastmodified":1461782816,
+    "wof:name":"Seventh Street Garage",
+    "wof:parent_id":85851683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.455083,
+    47.24628,
+    -88.455083,
+    47.24628
+],
+  "geometry": {"coordinates":[-88.455083,47.24628],"type":"Point"}
+}

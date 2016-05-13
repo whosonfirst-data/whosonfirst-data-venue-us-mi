@@ -1,0 +1,71 @@
+{
+  "id": 689621015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455197,42.382786,-85.455197,42.382786",
+    "geom:latitude":42.382786,
+    "geom:longitude":-85.455197,
+    "iso:country":"US",
+    "sg:address":"8450 N 32nd St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 629 9711",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5czVqwgAljB6OxU2AKZJL3_42.382786_-85.455197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776917,
+    "wof:geomhash":"75f54c4ee677684ce17ca0755120532c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689621015
+        }
+    ],
+    "wof:id":689621015,
+    "wof:lastmodified":1461776917,
+    "wof:name":"Pediatric Centers Southwest MI",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.455197,
+    42.382786,
+    -85.455197,
+    42.382786
+],
+  "geometry": {"coordinates":[-85.455197,42.382786],"type":"Point"}
+}

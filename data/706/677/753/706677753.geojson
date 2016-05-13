@@ -1,0 +1,78 @@
+{
+  "id": 706677753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.342405,42.368965,-83.342405,42.368965",
+    "geom:latitude":42.368965,
+    "geom:longitude":-83.342405,
+    "iso:country":"US",
+    "sg:address":"29980 Plymouth Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/livonia/44227-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 427 0537",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896699,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V4YE6QgpZBIiTNF1JjJlQ_42.368965_-83.342405@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809200,
+    "wof:geomhash":"682489051e002c488ea871f8463c2fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896699,
+            "region_id":85688599,
+            "venue_id":706677753
+        }
+    ],
+    "wof:id":706677753,
+    "wof:lastmodified":1461809200,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85896699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.342405,
+    42.368965,
+    -83.342405,
+    42.368965
+],
+  "geometry": {"coordinates":[-83.342405,42.368965],"type":"Point"}
+}

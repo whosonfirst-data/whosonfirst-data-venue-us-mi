@@ -1,0 +1,72 @@
+{
+  "id": 706681739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.014315,43.436833,-84.014315,43.436833",
+    "geom:latitude":43.436833,
+    "geom:longitude":-84.014315,
+    "iso:country":"US",
+    "sg:address":"4980 State St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/saginaw/176372-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 0333",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rhelXQy6o14FF9tje3EeE_43.436833_-84.014315@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809353,
+    "wof:geomhash":"c99eb6d7a9329018862e54029c1a2d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706681739
+        }
+    ],
+    "wof:id":706681739,
+    "wof:lastmodified":1461809353,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.014315,
+    43.436833,
+    -84.014315,
+    43.436833
+],
+  "geometry": {"coordinates":[-84.014315,43.436833],"type":"Point"}
+}

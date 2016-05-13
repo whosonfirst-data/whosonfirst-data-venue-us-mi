@@ -1,0 +1,73 @@
+{
+  "id": 689712207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.420652,42.00027,-86.420652,42.00027",
+    "geom:latitude":42.00027,
+    "geom:longitude":-86.420652,
+    "iso:country":"US",
+    "sg:address":"1777 Rocky Weed Rd",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 9748",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qW03vRMLfbCWQoIPnCQsZ_42.000270_-86.420652@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779453,
+    "wof:geomhash":"353898902213734c491139481bd65d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689712207
+        }
+    ],
+    "wof:id":689712207,
+    "wof:lastmodified":1461779453,
+    "wof:name":"Ruppel Transport",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.420652,
+    42.00027,
+    -86.420652,
+    42.00027
+],
+  "geometry": {"coordinates":[-86.420652,42.00027],"type":"Point"}
+}

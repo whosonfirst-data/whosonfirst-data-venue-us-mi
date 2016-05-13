@@ -1,0 +1,73 @@
+{
+  "id": 706202455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.577078,46.53384,-87.577078,46.53384",
+    "geom:latitude":46.53384,
+    "geom:longitude":-87.577078,
+    "iso:country":"US",
+    "sg:address":"225 Airport Dr",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 6378",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cL8w4vIXOnMnvbdphzFrP_46.533840_-87.577078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798126,
+    "wof:geomhash":"59760ce2f2d9f2c56a2b827a21cf8006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706202455
+        }
+    ],
+    "wof:id":706202455,
+    "wof:lastmodified":1461798126,
+    "wof:name":"Alamo Rent-A-Car",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.577078,
+    46.53384,
+    -87.577078,
+    46.53384
+],
+  "geometry": {"coordinates":[-87.577078,46.53384],"type":"Point"}
+}

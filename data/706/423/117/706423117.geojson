@@ -1,0 +1,73 @@
+{
+  "id": 706423117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.392308,46.549975,-87.392308,46.549975",
+    "geom:latitude":46.549975,
+    "geom:longitude":-87.392308,
+    "iso:country":"US",
+    "sg:address":"723 N Front St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 0529",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UrFKclMLBCJlxDyJp7tNi_46.549975_-87.392308@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802850,
+    "wof:geomhash":"b183047916afe390be651c9592f5d17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706423117
+        }
+    ],
+    "wof:id":706423117,
+    "wof:lastmodified":1461802850,
+    "wof:name":"Semco Energy Gas Co",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -87.392308,
+    46.549975,
+    -87.392308,
+    46.549975
+],
+  "geometry": {"coordinates":[-87.392308,46.549975],"type":"Point"}
+}

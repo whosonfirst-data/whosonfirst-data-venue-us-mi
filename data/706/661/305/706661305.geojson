@@ -1,0 +1,76 @@
+{
+  "id": 706661305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551001,42.309664,-85.551001,42.309664",
+    "geom:latitude":42.309664,
+    "geom:longitude":-85.551001,
+    "iso:country":"US",
+    "sg:address":"2323 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 2104",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "sg:website":"http://www.vascularhealthctr.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RFvFpUkrsNizGDRPO2AAY_42.309946_-85.550450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808486,
+    "wof:geomhash":"facc63b096d5bc39517ba4a7f58f275d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706661305
+        }
+    ],
+    "wof:id":706661305,
+    "wof:lastmodified":1461808486,
+    "wof:name":"Vascular Health Center",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.551001,
+    42.309664,
+    -85.551001,
+    42.309664
+],
+  "geometry": {"coordinates":[-85.551001,42.309664],"type":"Point"}
+}

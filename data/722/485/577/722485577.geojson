@@ -1,0 +1,91 @@
+{
+  "id": 722485577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.987576,42.393017,-82.987576,42.393017",
+    "geom:latitude":42.393017,
+    "geom:longitude":-82.987576,
+    "iso:country":"US",
+    "sg:address":"5640 St Jean Street, Suite 260",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 462 4660",
+    "sg:postcode":"48213",
+    "sg:province":"MI",
+    "sg:tags":[
+        "record",
+        "document",
+        "trucking-motor",
+        "destruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870567,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GncVlC8lvDMtUsUnMMWMy_42.393017_-82.987576@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812511,
+    "wof:geomhash":"7a39c3057f676539068fd6aafc76a6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870567,
+            "region_id":85688599,
+            "venue_id":722485577
+        }
+    ],
+    "wof:id":722485577,
+    "wof:lastmodified":1461812511,
+    "wof:name":"RDJ Global Supply and Labor Relations, LLC",
+    "wof:parent_id":85870567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "document",
+        "trucking-motor",
+        "destruction"
+    ]
+},
+  "bbox": [
+    -82.987576,
+    42.393017,
+    -82.987576,
+    42.393017
+],
+  "geometry": {"coordinates":[-82.987576,42.393017],"type":"Point"}
+}

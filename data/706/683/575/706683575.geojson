@@ -1,0 +1,72 @@
+{
+  "id": 706683575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.566511,42.280824,-85.566511,42.280824",
+    "geom:latitude":42.280824,
+    "geom:longitude":-85.566511,
+    "iso:country":"US",
+    "sg:address":"1106 Mills St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/45161-la-mixtega/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 276 0843",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rr4ynVryP2TIzjOVNl7Hh_42.280824_-85.566511@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809424,
+    "wof:geomhash":"e8c07f35f8db3dcf8fba810b262722ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":706683575
+        }
+    ],
+    "wof:id":706683575,
+    "wof:lastmodified":1461809424,
+    "wof:name":"La Mixtega",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.566511,
+    42.280824,
+    -85.566511,
+    42.280824
+],
+  "geometry": {"coordinates":[-85.56651100000001,42.280824],"type":"Point"}
+}

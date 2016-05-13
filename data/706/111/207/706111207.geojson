@@ -1,0 +1,71 @@
+{
+  "id": 706111207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.039256,43.571757,-86.039256,43.571757",
+    "geom:latitude":43.571757,
+    "geom:longitude":-86.039256,
+    "iso:country":"US",
+    "sg:address":"33 E Michigan Ave",
+    "sg:city":"Hesperia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 854 1212",
+    "sg:postcode":"49421",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25bK17UE7MB5Q4rk4OGoMK_43.571757_-86.039256@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796013,
+    "wof:geomhash":"11b99326e9426e99aea86a7a68d59bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706111207
+        }
+    ],
+    "wof:id":706111207,
+    "wof:lastmodified":1461796013,
+    "wof:name":"Village Of Hesperia Police",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.039256,
+    43.571757,
+    -86.039256,
+    43.571757
+],
+  "geometry": {"coordinates":[-86.03925599999999,43.571757],"type":"Point"}
+}

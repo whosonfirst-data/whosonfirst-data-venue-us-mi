@@ -1,0 +1,69 @@
+{
+  "id": 706736707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.468165,42.371956,-83.468165,42.371956",
+    "geom:latitude":42.371956,
+    "geom:longitude":-83.468165,
+    "iso:country":"US",
+    "sg:address":"198 S Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 3359",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mos7evgvhxzfKCNK7QOTy_42.371956_-83.468165@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811684,
+    "wof:geomhash":"b18f22268df62eef1112d60d9096fbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736707
+        }
+    ],
+    "wof:id":706736707,
+    "wof:lastmodified":1461811684,
+    "wof:name":"Eco Wheelz",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -83.468165,
+    42.371956,
+    -83.468165,
+    42.371956
+],
+  "geometry": {"coordinates":[-83.468165,42.371956],"type":"Point"}
+}

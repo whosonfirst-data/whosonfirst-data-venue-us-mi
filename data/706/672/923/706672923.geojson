@@ -1,0 +1,71 @@
+{
+  "id": 706672923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.839873,42.568873,-82.839873,42.568873",
+    "geom:latitude":42.568873,
+    "geom:longitude":-82.839873,
+    "iso:country":"US",
+    "sg:address":"36655 Jefferson Ave",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 469 9544",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6STCtkcTHMq6UFRg5VmrwG_42.568438_-82.840133@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808998,
+    "wof:geomhash":"f978d4ec4c7130cc208916c99d967b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706672923
+        }
+    ],
+    "wof:id":706672923,
+    "wof:lastmodified":1461808998,
+    "wof:name":"Select Motor Care",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.839873,
+    42.568873,
+    -82.839873,
+    42.568873
+],
+  "geometry": {"coordinates":[-82.839873,42.568873],"type":"Point"}
+}

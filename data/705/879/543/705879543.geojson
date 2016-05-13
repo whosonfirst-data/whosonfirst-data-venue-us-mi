@@ -1,0 +1,73 @@
+{
+  "id": 705879543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.728987,43.034516,-83.728987,43.034516",
+    "geom:latitude":43.034516,
+    "geom:longitude":-83.728987,
+    "iso:country":"US",
+    "sg:address":"2112 Winona St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 3137",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ii54PlY9cSLcRPMK9Mipu_43.034516_-83.728987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790922,
+    "wof:geomhash":"faddfb34ddf52923de189327883cb7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705879543
+        }
+    ],
+    "wof:id":705879543,
+    "wof:lastmodified":1461790922,
+    "wof:name":"Carolyn Horne",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.728987,
+    43.034516,
+    -83.728987,
+    43.034516
+],
+  "geometry": {"coordinates":[-83.728987,43.034516],"type":"Point"}
+}

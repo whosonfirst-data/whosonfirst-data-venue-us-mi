@@ -1,0 +1,73 @@
+{
+  "id": 706281947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.224185,42.559639,-83.224185,42.559639",
+    "geom:latitude":42.559639,
+    "geom:longitude":-83.224185,
+    "iso:country":"US",
+    "sg:address":"36801 Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 203 2900",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N7vSstOvY3gPMyXw0GLXk_42.559639_-83.224185@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799888,
+    "wof:geomhash":"7ddc318c3525ec935a90663aee63b94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":706281947
+        }
+    ],
+    "wof:id":706281947,
+    "wof:lastmodified":1461799888,
+    "wof:name":"Disposal Management",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -83.224185,
+    42.559639,
+    -83.224185,
+    42.559639
+],
+  "geometry": {"coordinates":[-83.22418500000001,42.559639],"type":"Point"}
+}

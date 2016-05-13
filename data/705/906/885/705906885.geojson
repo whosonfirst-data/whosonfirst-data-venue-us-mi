@@ -1,0 +1,71 @@
+{
+  "id": 705906885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.956676,43.051678,-85.956676,43.051678",
+    "geom:latitude":43.051678,
+    "geom:longitude":-85.956676,
+    "iso:country":"US",
+    "sg:address":"15550 68th Ave",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 8195",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BjlyKfxn8v5iP9LUyjA5V_43.051678_-85.956676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791562,
+    "wof:geomhash":"b2b985b3026fc064a97dd651e6a67280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705906885
+        }
+    ],
+    "wof:id":705906885,
+    "wof:lastmodified":1461791562,
+    "wof:name":"Ottawa County Farms Landfill",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -85.956676,
+    43.051678,
+    -85.956676,
+    43.051678
+],
+  "geometry": {"coordinates":[-85.956676,43.051678],"type":"Point"}
+}

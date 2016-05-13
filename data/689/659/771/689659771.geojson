@@ -1,0 +1,69 @@
+{
+  "id": 689659771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.180096,43.190747,-86.180096,43.190747",
+    "geom:latitude":43.190747,
+    "geom:longitude":-86.180096,
+    "iso:country":"US",
+    "sg:address":"3368 Black Creek Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9312",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5abUQj0vgB3e10llyXHPOc_43.190747_-86.180096@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778123,
+    "wof:geomhash":"839e83b750935a7864adf07ef6d64c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689659771
+        }
+    ],
+    "wof:id":689659771,
+    "wof:lastmodified":1461778123,
+    "wof:name":"Fruitport Township Fire Dept",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.180096,
+    43.190747,
+    -86.180096,
+    43.190747
+],
+  "geometry": {"coordinates":[-86.18009600000001,43.190747],"type":"Point"}
+}

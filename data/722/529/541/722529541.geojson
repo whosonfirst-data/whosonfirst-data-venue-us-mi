@@ -1,0 +1,92 @@
+{
+  "id": 722529541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220342,43.175378,-86.220342,43.175378",
+    "geom:latitude":43.175378,
+    "geom:longitude":-86.220342,
+    "iso:country":"US",
+    "sg:address":"4265 Grand Haven Rd # 102",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 0300",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525225,
+        85688599,
+        85633793,
+        102083707,
+        85811515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gt7dxnUjRh9bAy7stkMo9_43.175378_-86.220342@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814390,
+    "wof:geomhash":"5766fef5d273c4314d5dced9425755f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525225,
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":722529541
+        }
+    ],
+    "wof:id":722529541,
+    "wof:lastmodified":1461814390,
+    "wof:name":"Pierce Dr Ragini F Dc",
+    "wof:parent_id":102525225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -86.220342,
+    43.175378,
+    -86.220342,
+    43.175378
+],
+  "geometry": {"coordinates":[-86.220342,43.175378],"type":"Point"}
+}

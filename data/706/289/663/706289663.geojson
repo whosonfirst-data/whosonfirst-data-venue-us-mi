@@ -1,0 +1,71 @@
+{
+  "id": 706289663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.404074,46.56593,-87.404074,46.56593",
+    "geom:latitude":46.56593,
+    "geom:longitude":-87.404074,
+    "iso:country":"US",
+    "sg:address":"804 Clark St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 9799",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AH8PZe5tHCyKlZIfwPrfo_46.565930_-87.404074@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800081,
+    "wof:geomhash":"3510645cd8058cb4c31f60f0eb0681e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706289663
+        }
+    ],
+    "wof:id":706289663,
+    "wof:lastmodified":1461800081,
+    "wof:name":"Peterson Carpentry",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -87.404074,
+    46.56593,
+    -87.404074,
+    46.56593
+],
+  "geometry": {"coordinates":[-87.40407399999999,46.56593],"type":"Point"}
+}

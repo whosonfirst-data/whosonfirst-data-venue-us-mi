@@ -1,0 +1,69 @@
+{
+  "id": 706122787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.932707,42.608638,-82.932707,42.608638",
+    "geom:latitude":42.608638,
+    "geom:longitude":-82.932707,
+    "iso:country":"US",
+    "sg:address":"42601 Romeo Plank Rd",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 8437",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nMeE6yULg171WlvX5jlWP_42.608638_-82.932707@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796324,
+    "wof:geomhash":"31bbacf03b6d8ce9dda7d0498974dbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706122787
+        }
+    ],
+    "wof:id":706122787,
+    "wof:lastmodified":1461796324,
+    "wof:name":"Clinton Twp Fire Dept",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.932707,
+    42.608638,
+    -82.932707,
+    42.608638
+],
+  "geometry": {"coordinates":[-82.93270699999999,42.608638],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 705995395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.233957,43.234098,-86.233957,43.234098",
+    "geom:latitude":43.234098,
+    "geom:longitude":-86.233957,
+    "iso:country":"US",
+    "sg:address":"1040 Wood St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 727 8830",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vf3lwOwLn4t94Pm1iFlx4_43.234098_-86.233957@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793470,
+    "wof:geomhash":"9b91d7acbdf1f584f59fe912ef3bfb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705995395
+        }
+    ],
+    "wof:id":705995395,
+    "wof:lastmodified":1461793470,
+    "wof:name":"Ken's Anointed Hands",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.233957,
+    43.234098,
+    -86.233957,
+    43.234098
+],
+  "geometry": {"coordinates":[-86.233957,43.234098],"type":"Point"}
+}

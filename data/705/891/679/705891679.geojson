@@ -1,0 +1,71 @@
+{
+  "id": 705891679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.119888,42.770376,-86.119888,42.770376",
+    "geom:latitude":42.770376,
+    "geom:longitude":-86.119888,
+    "iso:country":"US",
+    "sg:address":"225 W 30th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 2587",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hdA9wc9QBciJF0qPngB5o_42.770376_-86.119888@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791220,
+    "wof:geomhash":"6428fbed0f7bc3ad7b13e6cdbac7cb56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705891679
+        }
+    ],
+    "wof:id":705891679,
+    "wof:lastmodified":1461791220,
+    "wof:name":"Lakeshore Dental Care",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.119888,
+    42.770376,
+    -86.119888,
+    42.770376
+],
+  "geometry": {"coordinates":[-86.119888,42.770376],"type":"Point"}
+}

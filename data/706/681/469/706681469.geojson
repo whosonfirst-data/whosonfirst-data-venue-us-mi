@@ -1,0 +1,74 @@
+{
+  "id": 706681469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.757516,43.060651,-83.757516,43.060651",
+    "geom:latitude":43.060651,
+    "geom:longitude":-83.757516,
+    "iso:country":"US",
+    "sg:address":"4117 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-morris/142215-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 787 3935",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FvQdtU9lwVeQ1JB6AnV8B_43.060651_-83.757516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809343,
+    "wof:geomhash":"43bc0a1feabe81c2673a4b7f99508ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706681469
+        }
+    ],
+    "wof:id":706681469,
+    "wof:lastmodified":1461809343,
+    "wof:name":"Subway",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.757516,
+    43.060651,
+    -83.757516,
+    43.060651
+],
+  "geometry": {"coordinates":[-83.757516,43.060651],"type":"Point"}
+}

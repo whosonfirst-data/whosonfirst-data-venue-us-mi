@@ -1,0 +1,81 @@
+{
+  "id": 706347995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.133624,42.681975,-83.133624,42.681975",
+    "geom:latitude":42.681975,
+    "geom:longitude":-83.133624,
+    "iso:country":"US",
+    "sg:address":"150 E University Dr",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 650 2233",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.modernartjewelry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lb6jmzeTvp6SVkFlBBDyh_42.681975_-83.133624@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801370,
+    "wof:geomhash":"f757d12d0488ccfb3c311d168d4d5022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":706347995
+        }
+    ],
+    "wof:id":706347995,
+    "wof:lastmodified":1461801370,
+    "wof:name":"Modern Art Jewelers Inc",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -83.133624,
+    42.681975,
+    -83.133624,
+    42.681975
+],
+  "geometry": {"coordinates":[-83.133624,42.681975],"type":"Point"}
+}

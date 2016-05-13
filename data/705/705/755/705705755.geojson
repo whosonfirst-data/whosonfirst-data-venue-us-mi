@@ -1,0 +1,71 @@
+{
+  "id": 705705755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.519619,44.404712,-85.519619,44.404712",
+    "geom:latitude":44.404712,
+    "geom:longitude":-85.519619,
+    "iso:country":"US",
+    "sg:address":"4950 N 31 Rd",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 6071",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64QMddaxvgI6zjk4uGtEuN_44.404712_-85.519619@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786752,
+    "wof:geomhash":"c8cc3945d574097f07e577e63179e727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705705755
+        }
+    ],
+    "wof:id":705705755,
+    "wof:lastmodified":1461786752,
+    "wof:name":"Colfax-Greenwood Twp Fire Dept",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.519619,
+    44.404712,
+    -85.519619,
+    44.404712
+],
+  "geometry": {"coordinates":[-85.51961900000001,44.404712],"type":"Point"}
+}

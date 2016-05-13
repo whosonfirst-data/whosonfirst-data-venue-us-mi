@@ -1,0 +1,81 @@
+{
+  "id": 706716779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.186345,42.546251,-83.186345,42.546251",
+    "geom:latitude":42.546251,
+    "geom:longitude":-83.186345,
+    "iso:country":"US",
+    "sg:address":"1337 Coolidge Hwy Midtown Center",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 643 0043",
+    "sg:postcode":"48084",
+    "sg:province":"MI",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.beautyfirst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896569,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hLcbnxL8UEr1bow5OKNiA_42.546251_-83.186345@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810813,
+    "wof:geomhash":"4da4cd2f7a1756a2e8ef53801c53bfb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896569,
+            "region_id":85688599,
+            "venue_id":706716779
+        }
+    ],
+    "wof:id":706716779,
+    "wof:lastmodified":1461810813,
+    "wof:name":"BeautyFirst",
+    "wof:parent_id":85896569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.186345,
+    42.546251,
+    -83.186345,
+    42.546251
+],
+  "geometry": {"coordinates":[-83.186345,42.546251],"type":"Point"}
+}

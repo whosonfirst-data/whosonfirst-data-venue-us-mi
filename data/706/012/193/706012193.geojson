@@ -1,0 +1,71 @@
+{
+  "id": 706012193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.060862,42.895556,-86.060862,42.895556",
+    "geom:latitude":42.895556,
+    "geom:longitude":-86.060862,
+    "iso:country":"US",
+    "sg:address":"7026 112th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 875 8435",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NchDMJtgNOL65YixmHDp8_42.895556_-86.060862@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793838,
+    "wof:geomhash":"bdae0becc6b0cdc5e735f14ec9a8adc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706012193
+        }
+    ],
+    "wof:id":706012193,
+    "wof:lastmodified":1461793838,
+    "wof:name":"Juan Auto Svc",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.060862,
+    42.895556,
+    -86.060862,
+    42.895556
+],
+  "geometry": {"coordinates":[-86.060862,42.895556],"type":"Point"}
+}

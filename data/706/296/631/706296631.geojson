@@ -1,0 +1,71 @@
+{
+  "id": 706296631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439326,43.944379,-86.439326,43.944379",
+    "geom:latitude":43.944379,
+    "geom:longitude":-86.439326,
+    "iso:country":"US",
+    "sg:address":"1110 S Washington Ave",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 845 1266",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pg4LnUwvajYtiLJycCQdh_43.944379_-86.439326@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800234,
+    "wof:geomhash":"462fd1fa69388c9c32b6c25abc356a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706296631
+        }
+    ],
+    "wof:id":706296631,
+    "wof:lastmodified":1461800234,
+    "wof:name":"Probation & Parole Dept",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -86.439326,
+    43.944379,
+    -86.439326,
+    43.944379
+],
+  "geometry": {"coordinates":[-86.43932599999999,43.944379],"type":"Point"}
+}

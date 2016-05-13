@@ -1,0 +1,88 @@
+{
+  "id": 705927071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.957051,42.370568,-82.957051,42.370568",
+    "geom:latitude":42.370568,
+    "geom:longitude":-82.957051,
+    "iso:country":"US",
+    "sg:address":"1600 Algonquin St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 821 8171",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85891667,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KenvkDRPknfozPtZDjzao_42.370568_-82.957051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791994,
+    "wof:geomhash":"13c0289780fd9555d2315ce377e25e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":705927071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":705927071
+        }
+    ],
+    "wof:id":705927071,
+    "wof:lastmodified":1461791994,
+    "wof:name":"Gratiot District Probation Off",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -82.957051,
+    42.370568,
+    -82.957051,
+    42.370568
+],
+  "geometry": {"coordinates":[-82.95705100000001,42.370568],"type":"Point"}
+}

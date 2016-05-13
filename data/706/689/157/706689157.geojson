@@ -1,0 +1,74 @@
+{
+  "id": 706689157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.203272,43.076699,-86.203272,43.076699",
+    "geom:latitude":43.076699,
+    "geom:longitude":-86.203272,
+    "iso:country":"US",
+    "sg:address":"507 W Savidge St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/spring-lake/210819-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 9784",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01w40pGg0kuRjNGprsG39g_43.076777_-86.203187@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809639,
+    "wof:geomhash":"e467d9c440690690a5f5e4bd55831149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706689157
+        }
+    ],
+    "wof:id":706689157,
+    "wof:lastmodified":1461809639,
+    "wof:name":"Arby's",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.203272,
+    43.076699,
+    -86.203272,
+    43.076699
+],
+  "geometry": {"coordinates":[-86.203272,43.076699],"type":"Point"}
+}

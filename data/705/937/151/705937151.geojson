@@ -1,0 +1,78 @@
+{
+  "id": 705937151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167498,43.1757,-86.167498,43.1757",
+    "geom:latitude":43.1757,
+    "geom:longitude":-86.167498,
+    "iso:country":"US",
+    "sg:address":"2813 Cline Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 767 1181",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_262Kf28cNPkF2Uv2eksZHc_43.175700_-86.167498@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792225,
+    "wof:geomhash":"59e05f368f9d5067d0f25a0e039a9352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705937151
+        }
+    ],
+    "wof:id":705937151,
+    "wof:lastmodified":1461792225,
+    "wof:name":"First Class Towing",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.167498,
+    43.1757,
+    -86.167498,
+    43.1757
+],
+  "geometry": {"coordinates":[-86.16749799999999,43.1757],"type":"Point"}
+}

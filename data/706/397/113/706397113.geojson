@@ -1,0 +1,73 @@
+{
+  "id": 706397113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244275,41.83161,-86.244275,41.83161",
+    "geom:latitude":41.83161,
+    "geom:longitude":-86.244275,
+    "iso:country":"US",
+    "sg:address":"301 N 13th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 6077",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12qOzr1V948tzUEAn02skW_41.831610_-86.244275@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802344,
+    "wof:geomhash":"33f31f71cbc6019ced0909c95aa81748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706397113
+        }
+    ],
+    "wof:id":706397113,
+    "wof:lastmodified":1461802344,
+    "wof:name":"Four Flags Svc Ctr",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -86.244275,
+    41.83161,
+    -86.244275,
+    41.83161
+],
+  "geometry": {"coordinates":[-86.244275,41.83161],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706585349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.606341,42.870488,-85.606341,42.870488",
+    "geom:latitude":42.870488,
+    "geom:longitude":-85.606341,
+    "iso:country":"US",
+    "sg:address":"5180 Stauffer Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 827 8473",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "window",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xy0soZW60H0Rd74ZMf3OZ_42.870488_-85.606341@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806427,
+    "wof:geomhash":"cdf16e3d2e676365eaec018fbb65d73e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706585349
+        }
+    ],
+    "wof:id":706585349,
+    "wof:lastmodified":1461806427,
+    "wof:name":"Best Way Cleaning Svc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.606341,
+    42.870488,
+    -85.606341,
+    42.870488
+],
+  "geometry": {"coordinates":[-85.606341,42.870488],"type":"Point"}
+}

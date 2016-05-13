@@ -1,0 +1,77 @@
+{
+  "id": 689639495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.648089,42.295179,-85.648089,42.295179",
+    "geom:latitude":42.295179,
+    "geom:longitude":-85.648089,
+    "iso:country":"US",
+    "sg:address":"240 N Drake Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 4022",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JmLKcslORiudSFXSTTzHc_42.295179_-85.648089@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777434,
+    "wof:geomhash":"5866efa270ee362d3cc9bff1a1e168d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":689639495
+        }
+    ],
+    "wof:id":689639495,
+    "wof:lastmodified":1461777434,
+    "wof:name":"Uncle Ed's Oil Shoppe",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.648089,
+    42.295179,
+    -85.648089,
+    42.295179
+],
+  "geometry": {"coordinates":[-85.648089,42.295179],"type":"Point"}
+}

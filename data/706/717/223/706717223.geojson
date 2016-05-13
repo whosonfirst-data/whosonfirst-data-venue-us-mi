@@ -1,0 +1,81 @@
+{
+  "id": 706717223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.184715,42.547479,-83.184715,42.547479",
+    "geom:latitude":42.547479,
+    "geom:longitude":-83.184715,
+    "iso:country":"US",
+    "sg:address":"2881 W Maple Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 435 7040",
+    "sg:postcode":"48084",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.jimmyjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896575,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ONmO9h2lYv0LSVKiD6pco_42.547479_-83.184715@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810830,
+    "wof:geomhash":"48cf4bd97a15095d16e74f5bb2414a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896575,
+            "region_id":85688599,
+            "venue_id":706717223
+        }
+    ],
+    "wof:id":706717223,
+    "wof:lastmodified":1461810830,
+    "wof:name":"Jimmy John's",
+    "wof:parent_id":85896575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.184715,
+    42.547479,
+    -83.184715,
+    42.547479
+],
+  "geometry": {"coordinates":[-83.184715,42.547479],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689809265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672286,42.23675,-85.672286,42.23675",
+    "geom:latitude":42.23675,
+    "geom:longitude":-85.672286,
+    "iso:country":"US",
+    "sg:address":"5560 Al Sabo Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 4500",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O9614et97ZDP4UOklkP0O_42.236750_-85.672286@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782158,
+    "wof:geomhash":"4fe70847c2ef2121be52517dd910a689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":689809265
+        }
+    ],
+    "wof:id":689809265,
+    "wof:lastmodified":1461782158,
+    "wof:name":"West Michigan Homes",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.672286,
+    42.23675,
+    -85.672286,
+    42.23675
+],
+  "geometry": {"coordinates":[-85.672286,42.23675],"type":"Point"}
+}

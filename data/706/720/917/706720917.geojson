@@ -1,0 +1,98 @@
+{
+  "id": 706720917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.082603,42.492901,-83.082603,42.492901",
+    "geom:latitude":42.492901,
+    "geom:longitude":-83.082603,
+    "iso:country":"US",
+    "sg:address":"27200 Parkview Blvd Apt 613",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 574 0800",
+    "sg:postcode":"48092",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524423,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524615,
+        404508209,
+        85952031,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nnp8T8NA8mrN17AHz22ve_42.492901_-83.082603@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461811019,
+    "wof:geomhash":"597357301702d1fbaddd0c839d5a4334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524423,
+            "region_id":85688599,
+            "venue_id":706720917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706720917
+        }
+    ],
+    "wof:id":706720917,
+    "wof:lastmodified":1461811019,
+    "wof:name":"Ready Limousine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -83.082603,
+    42.492901,
+    -83.082603,
+    42.492901
+],
+  "geometry": {"coordinates":[-83.08260300000001,42.492901],"type":"Point"}
+}

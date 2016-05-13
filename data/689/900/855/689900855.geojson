@@ -1,0 +1,75 @@
+{
+  "id": 689900855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.164141,42.426593,-83.164141,42.426593",
+    "geom:latitude":42.426593,
+    "geom:longitude":-83.164141,
+    "iso:country":"US",
+    "sg:address":"18525 Griggs St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 864 0027",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870549,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4xIxFG2Rcq4366Bl97Qu_42.426593_-83.164141@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784597,
+    "wof:geomhash":"f16fc71576ffad9e54f008097561b4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870549,
+            "region_id":85688599,
+            "venue_id":689900855
+        }
+    ],
+    "wof:id":689900855,
+    "wof:lastmodified":1461784597,
+    "wof:name":"L&A Maint",
+    "wof:parent_id":85870549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.164141,
+    42.426593,
+    -83.164141,
+    42.426593
+],
+  "geometry": {"coordinates":[-83.164141,42.426593],"type":"Point"}
+}

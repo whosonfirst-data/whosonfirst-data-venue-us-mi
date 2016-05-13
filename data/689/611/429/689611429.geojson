@@ -1,0 +1,71 @@
+{
+  "id": 689611429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.654064,42.258565,-83.654064,42.258565",
+    "geom:latitude":42.258565,
+    "geom:longitude":-83.654064,
+    "iso:country":"US",
+    "sg:address":"1450 Chestnut Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 434 1720",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5huKpDgaYTYHkAZ9g1hSfb_42.258565_-83.654064@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776654,
+    "wof:geomhash":"fa41c359850a90850e4dae5dbbab1c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":689611429
+        }
+    ],
+    "wof:id":689611429,
+    "wof:lastmodified":1461776654,
+    "wof:name":"Maplewood Apartments",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.654064,
+    42.258565,
+    -83.654064,
+    42.258565
+],
+  "geometry": {"coordinates":[-83.65406400000001,42.258565],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706652205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.173989,42.365797,-83.173989,42.365797",
+    "geom:latitude":42.365797,
+    "geom:longitude":-83.173989,
+    "iso:country":"US",
+    "sg:address":"13107 W Chicago St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 933 4390",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870497,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QuAehC9QwJF5gO61d6sxH_42.365797_-83.173989@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808048,
+    "wof:geomhash":"3bd5177057df5be02050fb294f0447a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870497,
+            "region_id":85688599,
+            "venue_id":706652205
+        }
+    ],
+    "wof:id":706652205,
+    "wof:lastmodified":1461808048,
+    "wof:name":"West Chicago Cleaners",
+    "wof:parent_id":85870497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -83.173989,
+    42.365797,
+    -83.173989,
+    42.365797
+],
+  "geometry": {"coordinates":[-83.17398900000001,42.365797],"type":"Point"}
+}

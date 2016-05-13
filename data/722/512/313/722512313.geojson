@@ -1,0 +1,85 @@
+{
+  "id": 722512313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362297,42.577,-83.362297,42.577",
+    "geom:latitude":42.577,
+    "geom:longitude":-83.362297,
+    "iso:country":"US",
+    "sg:address":"4230 Orchard Lake Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 683 2500",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "management",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NFwb0aPUuogDnRCD4Ctcl_42.577000_-83.362297@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813579,
+    "wof:geomhash":"26e28415cf7106b347324ad1a866322b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722512313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722512313
+        }
+    ],
+    "wof:id":722512313,
+    "wof:lastmodified":1461813579,
+    "wof:name":"Princeton Enterprises Llc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "property"
+    ]
+},
+  "bbox": [
+    -83.362297,
+    42.577,
+    -83.362297,
+    42.577
+],
+  "geometry": {"coordinates":[-83.362297,42.577],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706359885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.178696,42.779599,-83.178696,42.779599",
+    "geom:latitude":42.779599,
+    "geom:longitude":-83.178696,
+    "iso:country":"US",
+    "sg:address":"1234 Lake George Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 1212",
+    "sg:postcode":"48363",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ms5VSXguBnvP8wHcfX4en_42.779599_-83.178696@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801607,
+    "wof:geomhash":"fa76d2fff9d8618c13d8b2987d0a9122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":706359885
+        }
+    ],
+    "wof:id":706359885,
+    "wof:lastmodified":1461801607,
+    "wof:name":"Studio 1234",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -83.178696,
+    42.779599,
+    -83.178696,
+    42.779599
+],
+  "geometry": {"coordinates":[-83.178696,42.779599],"type":"Point"}
+}

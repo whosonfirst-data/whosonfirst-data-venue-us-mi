@@ -1,0 +1,69 @@
+{
+  "id": 706736549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.441514,42.395836,-83.441514,42.395836",
+    "geom:latitude":42.395836,
+    "geom:longitude":-83.441514,
+    "iso:country":"US",
+    "sg:address":"40320 Five Mile Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 420 0700",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SjpmT9RLRuNdiUQKLggVq_42.395836_-83.441514@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811679,
+    "wof:geomhash":"7c2e3b695752663d56e85a1a395f4bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736549
+        }
+    ],
+    "wof:id":706736549,
+    "wof:lastmodified":1461811679,
+    "wof:name":"Lakepoint Pharmacy",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.441514,
+    42.395836,
+    -83.441514,
+    42.395836
+],
+  "geometry": {"coordinates":[-83.441514,42.395836],"type":"Point"}
+}

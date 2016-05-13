@@ -1,0 +1,83 @@
+{
+  "id": 705735305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.071598,42.364664,-83.071598,42.364664",
+    "geom:latitude":42.364664,
+    "geom:longitude":-83.071598,
+    "iso:country":"US",
+    "sg:address":"6050 Cass Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 577 2424",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870589,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mWJuztnzfs8uHQVKpAnr8_42.364664_-83.071598@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787538,
+    "wof:geomhash":"31782d0725972bf796e73c18e8f71dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":705735305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870589,
+            "region_id":85688599,
+            "venue_id":705735305
+        }
+    ],
+    "wof:id":705735305,
+    "wof:lastmodified":1461787538,
+    "wof:name":"Property Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.071598,
+    42.364664,
+    -83.071598,
+    42.364664
+],
+  "geometry": {"coordinates":[-83.07159799999999,42.364664],"type":"Point"}
+}

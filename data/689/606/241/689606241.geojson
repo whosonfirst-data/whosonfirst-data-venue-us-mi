@@ -1,0 +1,71 @@
+{
+  "id": 689606241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.514236,42.045009,-86.514236,42.045009",
+    "geom:latitude":42.045009,
+    "geom:longitude":-86.514236,
+    "iso:country":"US",
+    "sg:address":"4082 Red Arrow Hwy",
+    "sg:city":"Saint Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 2151",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14GFAVOaB9mOSgsUAJbHM4_42.045009_-86.514236@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776448,
+    "wof:geomhash":"830cb7813720acc05a5a6ec2634d4ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":689606241
+        }
+    ],
+    "wof:id":689606241,
+    "wof:lastmodified":1461776448,
+    "wof:name":"Car Rentals Inc",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.514236,
+    42.045009,
+    -86.514236,
+    42.045009
+],
+  "geometry": {"coordinates":[-86.514236,42.045009],"type":"Point"}
+}

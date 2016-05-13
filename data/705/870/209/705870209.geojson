@@ -1,0 +1,75 @@
+{
+  "id": 705870209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866527,42.5233,-85.866527,42.5233",
+    "geom:latitude":42.5233,
+    "geom:longitude":-85.866527,
+    "iso:country":"US",
+    "sg:address":"570 Sherman St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 6089",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "supply",
+        "refrigeration",
+        "dairy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73q3fzYcxFUIFsILP33J11_42.523300_-85.866527@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790700,
+    "wof:geomhash":"bc38c21c782239cc042f8e1d4d06e432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":705870209
+        }
+    ],
+    "wof:id":705870209,
+    "wof:lastmodified":1461790700,
+    "wof:name":"Keith's Refrigeration",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply",
+        "refrigeration",
+        "dairy"
+    ]
+},
+  "bbox": [
+    -85.866527,
+    42.5233,
+    -85.866527,
+    42.5233
+],
+  "geometry": {"coordinates":[-85.866527,42.5233],"type":"Point"}
+}

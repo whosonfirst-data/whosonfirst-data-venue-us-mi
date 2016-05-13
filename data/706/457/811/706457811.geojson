@@ -1,0 +1,71 @@
+{
+  "id": 706457811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.19735,42.749872,-83.19735,42.749872",
+    "geom:latitude":42.749872,
+    "geom:longitude":-83.19735,
+    "iso:country":"US",
+    "sg:address":"3280 Adams Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 853 5599",
+    "sg:postcode":"48363",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5afgGrQKM3Vk0aaDwQpjWC_42.749872_-83.197350@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803602,
+    "wof:geomhash":"8efa4ed7ad5faa941abb9d104ef09b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":706457811
+        }
+    ],
+    "wof:id":706457811,
+    "wof:lastmodified":1461803602,
+    "wof:name":"Adams Creek Apts",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.19735,
+    42.749872,
+    -83.19735,
+    42.749872
+],
+  "geometry": {"coordinates":[-83.19735,42.749872],"type":"Point"}
+}

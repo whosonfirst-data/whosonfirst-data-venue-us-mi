@@ -1,0 +1,73 @@
+{
+  "id": 706265291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.182522,43.072323,-86.182522,43.072323",
+    "geom:latitude":43.072323,
+    "geom:longitude":-86.182522,
+    "iso:country":"US",
+    "sg:address":"729 Winter St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 7240",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4smtivgnqbND0ltaxEbSFd_43.072323_-86.182522@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799508,
+    "wof:geomhash":"8c83ba2ab7777d3d360425de31fc5286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706265291
+        }
+    ],
+    "wof:id":706265291,
+    "wof:lastmodified":1461799508,
+    "wof:name":"Tri City Auto Repair",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.182522,
+    43.072323,
+    -86.182522,
+    43.072323
+],
+  "geometry": {"coordinates":[-86.18252200000001,43.072323],"type":"Point"}
+}

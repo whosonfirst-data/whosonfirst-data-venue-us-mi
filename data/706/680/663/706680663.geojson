@@ -1,0 +1,74 @@
+{
+  "id": 706680663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.379,42.719827,-83.379,42.719827",
+    "geom:latitude":42.719827,
+    "geom:longitude":-83.379,
+    "iso:country":"US",
+    "sg:address":"5546 Sashabaw Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/independence/182512-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 620 0313",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LBf69esoqz3J3eEnTHiUK_42.719827_-83.379000@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809311,
+    "wof:geomhash":"e8cafac9d8e6e8ac709ab47e07645408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706680663
+        }
+    ],
+    "wof:id":706680663,
+    "wof:lastmodified":1461809311,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.379,
+    42.719827,
+    -83.379,
+    42.719827
+],
+  "geometry": {"coordinates":[-83.379,42.719827],"type":"Point"}
+}

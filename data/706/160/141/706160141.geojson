@@ -1,0 +1,71 @@
+{
+  "id": 706160141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.391764,42.227651,-84.391764,42.227651",
+    "geom:latitude":42.227651,
+    "geom:longitude":-84.391764,
+    "iso:country":"US",
+    "sg:address":"450 E Prospect St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 3816",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YyV0PqkdJOrPnBd83U3pT_42.227651_-84.391764@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797211,
+    "wof:geomhash":"55f1041eeaed754252cfb1a3c86bb960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706160141
+        }
+    ],
+    "wof:id":706160141,
+    "wof:lastmodified":1461797211,
+    "wof:name":"Family Transmission & Auto",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.391764,
+    42.227651,
+    -84.391764,
+    42.227651
+],
+  "geometry": {"coordinates":[-84.39176399999999,42.227651],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706680299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306604,42.70293,-83.306604,42.70293",
+    "geom:latitude":42.70293,
+    "geom:longitude":-83.306604,
+    "iso:country":"US",
+    "sg:address":"4420 Baldwin Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/auburn-hills/240297-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 332 5014",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821589,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ChMzDEobt9thlHuWy1V04_42.702930_-83.306604@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809291,
+    "wof:geomhash":"a93710d0a9a99f96ff43c6b96be4d368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85821589,
+            "region_id":85688599,
+            "venue_id":706680299
+        }
+    ],
+    "wof:id":706680299,
+    "wof:lastmodified":1461809291,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85821589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -83.306604,
+    42.70293,
+    -83.306604,
+    42.70293
+],
+  "geometry": {"coordinates":[-83.30660399999999,42.70293],"type":"Point"}
+}

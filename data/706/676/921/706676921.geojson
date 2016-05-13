@@ -1,0 +1,82 @@
+{
+  "id": 706676921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.748676,42.280479,-83.748676,42.280479",
+    "geom:latitude":42.280479,
+    "geom:longitude":-83.748676,
+    "iso:country":"US",
+    "sg:address":"112 W Washington St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/248042-cafe-zola/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 769 2020",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "mediterranean",
+        "french",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875899,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17XAEy7G8Kr4r1pqWwXrKR_42.280479_-83.748676@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809159,
+    "wof:geomhash":"45bc9eca537bfc14249a9fc175b3f8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875899,
+            "region_id":85688599,
+            "venue_id":706676921
+        }
+    ],
+    "wof:id":706676921,
+    "wof:lastmodified":1461809159,
+    "wof:name":"Cafe Zola",
+    "wof:parent_id":85875899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mediterranean",
+        "french",
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.748676,
+    42.280479,
+    -83.748676,
+    42.280479
+],
+  "geometry": {"coordinates":[-83.748676,42.280479],"type":"Point"}
+}

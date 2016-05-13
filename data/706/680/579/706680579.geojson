@@ -1,0 +1,78 @@
+{
+  "id": 706680579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.256742,42.669925,-83.256742,42.669925",
+    "geom:latitude":42.669925,
+    "geom:longitude":-83.256742,
+    "iso:country":"US",
+    "sg:address":"1616 N Perry St",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pontiac/146027-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 340 8860",
+    "sg:postcode":"48340",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896741,
+        102191575,
+        404508295,
+        85633793,
+        85952003,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0gnQaj4hXt6maY1EklCn_42.669925_-83.256742@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809308,
+    "wof:geomhash":"cd08c1686116ad26f1004ac48635a122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508295,
+            "locality_id":85952003,
+            "neighbourhood_id":85896741,
+            "region_id":85688599,
+            "venue_id":706680579
+        }
+    ],
+    "wof:id":706680579,
+    "wof:lastmodified":1461809308,
+    "wof:name":"Subway",
+    "wof:parent_id":85896741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.256742,
+    42.669925,
+    -83.256742,
+    42.669925
+],
+  "geometry": {"coordinates":[-83.256742,42.669925],"type":"Point"}
+}

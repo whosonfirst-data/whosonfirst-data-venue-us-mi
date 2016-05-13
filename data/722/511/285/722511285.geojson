@@ -1,0 +1,93 @@
+{
+  "id": 722511285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.400603,42.553763,-83.400603,42.553763",
+    "geom:latitude":42.553763,
+    "geom:longitude":-83.400603,
+    "iso:country":"US",
+    "sg:address":"5580 Drake Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 953 2200",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "party",
+        "planning",
+        "venue",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LFYRe7z8I7qqP5Bw9akRf_42.553763_-83.400603@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813534,
+    "wof:geomhash":"ceebc9d3a7a3fdeb9cc39150ba3a6110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":722511285
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":722511285
+        }
+    ],
+    "wof:id":722511285,
+    "wof:lastmodified":1461813534,
+    "wof:name":"Cameo Event Planners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "venue",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.400603,
+    42.553763,
+    -83.400603,
+    42.553763
+],
+  "geometry": {"coordinates":[-83.400603,42.553763],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706044523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.792462,43.122691,-82.792462,43.122691",
+    "geom:latitude":43.122691,
+    "geom:longitude":-82.792462,
+    "iso:country":"US",
+    "sg:address":"7727 S Brockway Rd",
+    "sg:city":"Brockway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 387 4545",
+    "sg:postcode":"48097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vOLcJEnDtcT7WfUcNs7Mr_43.122691_-82.792462@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794490,
+    "wof:geomhash":"f79f0ee52e1618bece08cf05e2114824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706044523
+        }
+    ],
+    "wof:id":706044523,
+    "wof:lastmodified":1461794490,
+    "wof:name":"Yale Dental Care",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.792462,
+    43.122691,
+    -82.792462,
+    43.122691
+],
+  "geometry": {"coordinates":[-82.792462,43.122691],"type":"Point"}
+}

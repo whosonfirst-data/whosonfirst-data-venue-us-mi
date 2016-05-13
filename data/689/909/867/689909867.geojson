@@ -1,0 +1,71 @@
+{
+  "id": 689909867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.469145,42.840007,-85.469145,42.840007",
+    "geom:latitude":42.840007,
+    "geom:longitude":-85.469145,
+    "iso:country":"US",
+    "sg:address":"7922 Pine Edge Ct SE",
+    "sg:city":"Alto",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 2992",
+    "sg:postcode":"49302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85802581,
+        102083023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nrVxN5ka8ZNQaDkysKliv_42.840007_-85.469145@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784850,
+    "wof:geomhash":"e2e0983b74461cfb061ec469b846ae12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "neighbourhood_id":85802581,
+            "region_id":85688599,
+            "venue_id":689909867
+        }
+    ],
+    "wof:id":689909867,
+    "wof:lastmodified":1461784850,
+    "wof:name":"Delmar Rehabilitation",
+    "wof:parent_id":85802581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.469145,
+    42.840007,
+    -85.469145,
+    42.840007
+],
+  "geometry": {"coordinates":[-85.469145,42.840007],"type":"Point"}
+}

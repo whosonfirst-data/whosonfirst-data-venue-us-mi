@@ -1,0 +1,71 @@
+{
+  "id": 689713003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.879177,42.514297,-82.879177,42.514297",
+    "geom:latitude":42.514297,
+    "geom:longitude":-82.879177,
+    "iso:country":"US",
+    "sg:address":"29918 Jefferson Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 293 2540",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YP2SWWgJNCgXEZYsr0ULI_42.514297_-82.879177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779473,
+    "wof:geomhash":"b9d0f4d7a1718982755cb6d15828cd69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":689713003
+        }
+    ],
+    "wof:id":689713003,
+    "wof:lastmodified":1461779473,
+    "wof:name":"Neurological Consultation",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.879177,
+    42.514297,
+    -82.879177,
+    42.514297
+],
+  "geometry": {"coordinates":[-82.879177,42.514297],"type":"Point"}
+}

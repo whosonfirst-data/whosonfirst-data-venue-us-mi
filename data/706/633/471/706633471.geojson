@@ -1,0 +1,71 @@
+{
+  "id": 706633471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417299,42.241323,-84.417299,42.241323",
+    "geom:latitude":42.241323,
+    "geom:longitude":-84.417299,
+    "iso:country":"US",
+    "sg:address":"508 3rd St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 0007",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02X1pWltptUhc00SrzzmCE_42.241323_-84.417299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807441,
+    "wof:geomhash":"9580562d499721acf635f045e9d14cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706633471
+        }
+    ],
+    "wof:id":706633471,
+    "wof:lastmodified":1461807441,
+    "wof:name":"Third St Adult Foster Care",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "foster"
+    ]
+},
+  "bbox": [
+    -84.417299,
+    42.241323,
+    -84.417299,
+    42.241323
+],
+  "geometry": {"coordinates":[-84.417299,42.241323],"type":"Point"}
+}

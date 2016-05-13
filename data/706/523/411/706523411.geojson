@@ -1,0 +1,75 @@
+{
+  "id": 706523411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471328,41.798339,-86.471328,41.798339",
+    "geom:latitude":41.798339,
+    "geom:longitude":-86.471328,
+    "iso:country":"US",
+    "sg:address":"17670 Batten Rd",
+    "sg:city":"Galien",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 545 0416",
+    "sg:postcode":"49113",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dgDlIlr8NvWPgcQvoIzkA_41.798339_-86.471328@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805103,
+    "wof:geomhash":"e29a02f9655b0eeec51a6de17a8223d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706523411
+        }
+    ],
+    "wof:id":706523411,
+    "wof:lastmodified":1461805103,
+    "wof:name":"S&R Trucking",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.471328,
+    41.798339,
+    -86.471328,
+    41.798339
+],
+  "geometry": {"coordinates":[-86.471328,41.798339],"type":"Point"}
+}

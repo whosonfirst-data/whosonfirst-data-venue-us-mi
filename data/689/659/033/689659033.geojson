@@ -1,0 +1,71 @@
+{
+  "id": 689659033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.968184,42.070263,-83.968184,42.070263",
+    "geom:latitude":42.070263,
+    "geom:longitude":-83.968184,
+    "iso:country":"US",
+    "sg:address":"200 E Franklin St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 456 6504",
+    "sg:postcode":"49236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951675,
+        102083099,
+        85836787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V4eFz7cdQWukCxQsBoptO_42.070263_-83.968184@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778106,
+    "wof:geomhash":"36d189cbee712b2364275c693922c938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083099,
+            "locality_id":85951675,
+            "neighbourhood_id":85836787,
+            "region_id":85688599,
+            "venue_id":689659033
+        }
+    ],
+    "wof:id":689659033,
+    "wof:lastmodified":1461778106,
+    "wof:name":"Clinton Elementary School",
+    "wof:parent_id":85836787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.968184,
+    42.070263,
+    -83.968184,
+    42.070263
+],
+  "geometry": {"coordinates":[-83.96818399999999,42.070263],"type":"Point"}
+}

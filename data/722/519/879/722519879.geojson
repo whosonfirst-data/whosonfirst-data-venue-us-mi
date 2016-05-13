@@ -1,0 +1,88 @@
+{
+  "id": 722519879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.449501,42.5704,-83.449501,42.5704",
+    "geom:latitude":42.5704,
+    "geom:longitude":-83.449501,
+    "iso:country":"US",
+    "sg:address":"2720 E Oakley Park Rd",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 669 7448",
+    "sg:postcode":"48390",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.childtime.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858475,
+        102191575,
+        404508183,
+        85633793,
+        85952053,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CEC8PPSEs6bc1vk6iywqq_42.570400_-83.449501@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813923,
+    "wof:geomhash":"363830fab204cb601791c89edca24655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508183,
+            "locality_id":85952053,
+            "neighbourhood_id":85858475,
+            "region_id":85688599,
+            "venue_id":722519879
+        }
+    ],
+    "wof:id":722519879,
+    "wof:lastmodified":1461813923,
+    "wof:name":"Childtime Learning Centers",
+    "wof:parent_id":85858475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.449501,
+    42.5704,
+    -83.449501,
+    42.5704
+],
+  "geometry": {"coordinates":[-83.449501,42.5704],"type":"Point"}
+}

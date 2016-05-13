@@ -1,0 +1,71 @@
+{
+  "id": 706343887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.400153,44.247499,-85.400153,44.247499",
+    "geom:latitude":44.247499,
+    "geom:longitude":-85.400153,
+    "iso:country":"US",
+    "sg:address":"300 S Lake St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 6597",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H2rnqRI4XgcfklRqleqPw_44.247499_-85.400153@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801281,
+    "wof:geomhash":"addf0d428c27cd1c00a6facdb7237305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706343887
+        }
+    ],
+    "wof:id":706343887,
+    "wof:lastmodified":1461801281,
+    "wof:name":"Jason A Swelstad DDS",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.400153,
+    44.247499,
+    -85.400153,
+    44.247499
+],
+  "geometry": {"coordinates":[-85.400153,44.247499],"type":"Point"}
+}

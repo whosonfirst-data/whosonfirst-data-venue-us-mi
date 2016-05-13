@@ -1,0 +1,81 @@
+{
+  "id": 722487247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.238701,42.415298,-83.238701,42.415298",
+    "geom:latitude":42.415298,
+    "geom:longitude":-83.238701,
+    "iso:country":"US",
+    "sg:address":"20040 W McNichols Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 531 3031",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524867,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51X31SVxewJwSIqrjAAmqW_42.415298_-83.238701@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812570,
+    "wof:geomhash":"112b796da922a9946b37d73df941d728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524867,
+            "region_id":85688599,
+            "venue_id":722487247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487247
+        }
+    ],
+    "wof:id":722487247,
+    "wof:lastmodified":1461812570,
+    "wof:name":"Consumer's Party Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.238701,
+    42.415298,
+    -83.238701,
+    42.415298
+],
+  "geometry": {"coordinates":[-83.23870100000001,42.415298],"type":"Point"}
+}

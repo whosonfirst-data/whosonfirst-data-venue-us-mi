@@ -1,0 +1,73 @@
+{
+  "id": 689666491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.355192,43.416442,-86.355192,43.416442",
+    "geom:latitude":43.416442,
+    "geom:longitude":-86.355192,
+    "iso:country":"US",
+    "sg:address":"4578 Dowling St",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 4832",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tea",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SxrAuNq9d26iKS2VyObe0_43.416442_-86.355192@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778289,
+    "wof:geomhash":"bf4c32905c59aeaef2b6b138db636321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":689666491
+        }
+    ],
+    "wof:id":689666491,
+    "wof:lastmodified":1461778289,
+    "wof:name":"Paisley Place",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -86.355192,
+    43.416442,
+    -86.355192,
+    43.416442
+],
+  "geometry": {"coordinates":[-86.355192,43.416442],"type":"Point"}
+}

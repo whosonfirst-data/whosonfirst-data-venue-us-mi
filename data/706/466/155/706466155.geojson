@@ -1,0 +1,71 @@
+{
+  "id": 706466155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.555984,42.28061,-85.555984,42.28061",
+    "geom:latitude":42.28061,
+    "geom:longitude":-85.555984,
+    "iso:country":"US",
+    "sg:address":"1811 Lake St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 8336",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NXJHSq6p0f1WDCyvOplfx_42.280610_-85.555984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803770,
+    "wof:geomhash":"bde3ad5472e1bf39dacc173d9de556ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":706466155
+        }
+    ],
+    "wof:id":706466155,
+    "wof:lastmodified":1461803770,
+    "wof:name":"American Transport",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.555984,
+    42.28061,
+    -85.555984,
+    42.28061
+],
+  "geometry": {"coordinates":[-85.555984,42.28061],"type":"Point"}
+}

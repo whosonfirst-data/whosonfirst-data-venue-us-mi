@@ -1,0 +1,71 @@
+{
+  "id": 706701011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.879799,42.609402,-82.879799,42.609402",
+    "geom:latitude":42.609402,
+    "geom:longitude":-82.879799,
+    "iso:country":"US",
+    "sg:address":"300 North Ave",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 2229",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XPpSnThCC5fjmzDuv9C6m_42.609402_-82.879799@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810121,
+    "wof:geomhash":"ed9aa0bec82c5e70f1f9e98e1ef00a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706701011
+        }
+    ],
+    "wof:id":706701011,
+    "wof:lastmodified":1461810121,
+    "wof:name":"Pine Service",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -82.879799,
+    42.609402,
+    -82.879799,
+    42.609402
+],
+  "geometry": {"coordinates":[-82.87979900000001,42.609402],"type":"Point"}
+}

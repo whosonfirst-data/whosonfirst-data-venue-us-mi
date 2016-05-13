@@ -1,0 +1,73 @@
+{
+  "id": 705855815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.21557,43.221151,-86.21557,43.221151",
+    "geom:latitude":43.221151,
+    "geom:longitude":-86.21557,
+    "iso:country":"US",
+    "sg:address":"1750 Vulcan St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 2511",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XhOARNF1FhMLP77PyZmk9_43.221151_-86.215570@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790324,
+    "wof:geomhash":"7399e8101f94b35f312e7a500a663688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705855815
+        }
+    ],
+    "wof:id":705855815,
+    "wof:lastmodified":1461790324,
+    "wof:name":"De Boer Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.21557,
+    43.221151,
+    -86.21557,
+    43.221151
+],
+  "geometry": {"coordinates":[-86.21557,43.221151],"type":"Point"}
+}

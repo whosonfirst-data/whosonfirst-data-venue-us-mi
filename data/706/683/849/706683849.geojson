@@ -1,0 +1,80 @@
+{
+  "id": 706683849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63172,42.271609,-85.63172,42.271609",
+    "geom:latitude":42.271609,
+    "geom:longitude":-85.63172,
+    "iso:country":"US",
+    "sg:address":"3307 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/41569-bilbos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 5544",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pasta",
+        "american",
+        "sandwich",
+        "salad",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IazhKRIy1UO1qpr9jP076_42.271609_-85.631720@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809441,
+    "wof:geomhash":"1c696322c0bd107981f18810a5330eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706683849
+        }
+    ],
+    "wof:id":706683849,
+    "wof:lastmodified":1461809441,
+    "wof:name":"Bilbo's",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pasta",
+        "american",
+        "sandwich",
+        "salad",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.63172,
+    42.271609,
+    -85.63172,
+    42.271609
+],
+  "geometry": {"coordinates":[-85.63172,42.271609],"type":"Point"}
+}

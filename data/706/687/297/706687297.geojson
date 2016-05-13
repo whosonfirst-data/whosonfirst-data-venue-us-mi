@@ -1,0 +1,74 @@
+{
+  "id": 706687297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.050259,45.808683,-88.050259,45.808683",
+    "geom:latitude":45.808683,
+    "geom:longitude":-88.050259,
+    "iso:country":"US",
+    "sg:address":"1836 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/iron-mountain/77353-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9105",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46dHettjRPbgR1qD03TC2J_45.808683_-88.050259@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809567,
+    "wof:geomhash":"edd825526248a2e01bae76f9f6d31525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706687297
+        }
+    ],
+    "wof:id":706687297,
+    "wof:lastmodified":1461809567,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.050259,
+    45.808683,
+    -88.050259,
+    45.808683
+],
+  "geometry": {"coordinates":[-88.050259,45.808683],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706682275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.822179,42.573614,-84.822179,42.573614",
+    "geom:latitude":42.573614,
+    "geom:longitude":-84.822179,
+    "iso:country":"US",
+    "sg:address":"660 Lansing St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/charlotte/208720-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 543 5995",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V0oNT8zd2JkpKnJ7RIJbg_42.573614_-84.822179@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809373,
+    "wof:geomhash":"37160bb242ab42cbcd77605f43c313c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706682275
+        }
+    ],
+    "wof:id":706682275,
+    "wof:lastmodified":1461809373,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.822179,
+    42.573614,
+    -84.822179,
+    42.573614
+],
+  "geometry": {"coordinates":[-84.82217900000001,42.573614],"type":"Point"}
+}

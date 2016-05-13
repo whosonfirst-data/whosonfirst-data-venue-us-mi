@@ -1,0 +1,74 @@
+{
+  "id": 706737679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4692,42.369598,-83.4692,42.369598",
+    "geom:latitude":42.369598,
+    "geom:longitude":-83.4692,
+    "iso:country":"US",
+    "sg:address":"777 W Ann Arbor Trl",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 7390",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MMT3nRwdft08Ys2cdWMZY_42.369598_-83.469200@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811723,
+    "wof:geomhash":"29ae835063ad31d7a2a7533631738c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737679
+        }
+    ],
+    "wof:id":706737679,
+    "wof:lastmodified":1461811723,
+    "wof:name":"Box Bar",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -83.4692,
+    42.369598,
+    -83.4692,
+    42.369598
+],
+  "geometry": {"coordinates":[-83.4692,42.369598],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689510599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.583143,42.25297,-83.583143,42.25297",
+    "geom:latitude":42.25297,
+    "geom:longitude":-83.583143,
+    "iso:country":"US",
+    "sg:address":"740 N Harris Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 485 4491",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G7wbEaaZOj7ik2PMaHHfE_42.252970_-83.583143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773430,
+    "wof:geomhash":"4dbcaecfbf122955938288c954a1fb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":689510599
+        }
+    ],
+    "wof:id":689510599,
+    "wof:lastmodified":1461773430,
+    "wof:name":"Robert Rohde",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.583143,
+    42.25297,
+    -83.583143,
+    42.25297
+],
+  "geometry": {"coordinates":[-83.58314300000001,42.25297],"type":"Point"}
+}

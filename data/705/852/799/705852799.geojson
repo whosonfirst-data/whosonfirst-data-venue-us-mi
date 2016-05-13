@@ -1,0 +1,71 @@
+{
+  "id": 705852799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661899,42.84063,-85.661899,42.84063",
+    "geom:latitude":42.84063,
+    "geom:longitude":-85.661899,
+    "iso:country":"US",
+    "sg:address":"80 68th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 391 8285",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79q1qdGtDy9eKCFIqNZ2gZ_42.840630_-85.661899@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790249,
+    "wof:geomhash":"25d0d984d5039ae7b15f0d5442e7ced3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705852799
+        }
+    ],
+    "wof:id":705852799,
+    "wof:lastmodified":1461790249,
+    "wof:name":"Michigan Medical",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.661899,
+    42.84063,
+    -85.661899,
+    42.84063
+],
+  "geometry": {"coordinates":[-85.66189900000001,42.84063],"type":"Point"}
+}

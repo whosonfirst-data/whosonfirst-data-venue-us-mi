@@ -1,0 +1,72 @@
+{
+  "id": 706677847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416304,41.894494,-83.416304,41.894494",
+    "geom:latitude":41.894494,
+    "geom:longitude":-83.416304,
+    "iso:country":"US",
+    "sg:address":"15258 S Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/monroe/68869-marcos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 7000",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DxAE69Z6ZromJ0CQJ4fnW_41.894494_-83.416304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809203,
+    "wof:geomhash":"0b33429291276fe25d7d3b3548971420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706677847
+        }
+    ],
+    "wof:id":706677847,
+    "wof:lastmodified":1461809203,
+    "wof:name":"Marco's Pizza",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.416304,
+    41.894494,
+    -83.416304,
+    41.894494
+],
+  "geometry": {"coordinates":[-83.416304,41.894494],"type":"Point"}
+}

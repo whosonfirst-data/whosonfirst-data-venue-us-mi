@@ -1,0 +1,71 @@
+{
+  "id": 689472907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517535,42.69834,-84.517535,42.69834",
+    "geom:latitude":42.69834,
+    "geom:longitude":-84.517535,
+    "iso:country":"US",
+    "sg:address":"2101 Wabash Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 394 0224",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L4CLP0hWtCwB7U121TtU2_42.698340_-84.517535@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772319,
+    "wof:geomhash":"2e134d293b14130b7780116b3d35aae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689472907
+        }
+    ],
+    "wof:id":689472907,
+    "wof:lastmodified":1461772319,
+    "wof:name":"Clean Sweep Pioneer Svc",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.517535,
+    42.69834,
+    -84.517535,
+    42.69834
+],
+  "geometry": {"coordinates":[-84.517535,42.69834],"type":"Point"}
+}

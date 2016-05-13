@@ -1,0 +1,75 @@
+{
+  "id": 689694339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.733232,43.057947,-83.733232,43.057947",
+    "geom:latitude":43.057947,
+    "geom:longitude":-83.733232,
+    "iso:country":"US",
+    "sg:address":"4825 Clio Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 3496",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "station",
+        "recruiting",
+        "army"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jZFbrCqNmqrjsm1XEwa7U_43.057947_-83.733232@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778966,
+    "wof:geomhash":"4b3f7cd2e03f75185218c93520c7e6dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689694339
+        }
+    ],
+    "wof:id":689694339,
+    "wof:lastmodified":1461778966,
+    "wof:name":"Army Recruiting Station",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "recruiting",
+        "army"
+    ]
+},
+  "bbox": [
+    -83.733232,
+    43.057947,
+    -83.733232,
+    43.057947
+],
+  "geometry": {"coordinates":[-83.733232,43.057947],"type":"Point"}
+}

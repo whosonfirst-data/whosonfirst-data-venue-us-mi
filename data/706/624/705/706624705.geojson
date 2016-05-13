@@ -1,0 +1,73 @@
+{
+  "id": 706624705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.636937,43.134565,-82.636937,43.134565",
+    "geom:latitude":43.134565,
+    "geom:longitude":-82.636937,
+    "iso:country":"US",
+    "sg:address":"7293 Comstock Rd",
+    "sg:city":"Jeddo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 327 2277",
+    "sg:postcode":"48032",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dJayh6DEsW7S8PD7ub2Jr_43.134565_-82.636937@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807246,
+    "wof:geomhash":"884ff32e00c4b39112a9c44721a5e59a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706624705
+        }
+    ],
+    "wof:id":706624705,
+    "wof:lastmodified":1461807246,
+    "wof:name":"Comstock Trucking",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.636937,
+    43.134565,
+    -82.636937,
+    43.134565
+],
+  "geometry": {"coordinates":[-82.636937,43.134565],"type":"Point"}
+}

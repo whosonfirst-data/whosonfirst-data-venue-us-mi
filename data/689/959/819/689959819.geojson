@@ -1,0 +1,71 @@
+{
+  "id": 689959819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.393884,44.240924,-85.393884,44.240924",
+    "geom:latitude":44.240924,
+    "geom:longitude":-85.393884,
+    "iso:country":"US",
+    "sg:address":"203 Paluster St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 8917",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bYDwRECvvXICGYUNOCMn0_44.240924_-85.393884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786132,
+    "wof:geomhash":"e830877b31bcacefce7165751f2d6e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689959819
+        }
+    ],
+    "wof:id":689959819,
+    "wof:lastmodified":1461786132,
+    "wof:name":"Renal Dialysis Ctr Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.393884,
+    44.240924,
+    -85.393884,
+    44.240924
+],
+  "geometry": {"coordinates":[-85.393884,44.240924],"type":"Point"}
+}

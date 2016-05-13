@@ -1,0 +1,71 @@
+{
+  "id": 706163831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.262898,43.211156,-86.262898,43.211156",
+    "geom:latitude":43.211156,
+    "geom:longitude":-86.262898,
+    "iso:country":"US",
+    "sg:address":"2208 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 8852",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lube"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E3T0Odkm27yuH4rAn3mv6_43.211156_-86.262898@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797297,
+    "wof:geomhash":"209f641e47c50feb70e115aa4847f1b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706163831
+        }
+    ],
+    "wof:id":706163831,
+    "wof:lastmodified":1461797297,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube"
+    ]
+},
+  "bbox": [
+    -86.262898,
+    43.211156,
+    -86.262898,
+    43.211156
+],
+  "geometry": {"coordinates":[-86.26289800000001,43.211156],"type":"Point"}
+}

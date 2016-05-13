@@ -1,0 +1,71 @@
+{
+  "id": 689519883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601321,42.520306,-84.601321,42.520306",
+    "geom:latitude":42.520306,
+    "geom:longitude":-84.601321,
+    "iso:country":"US",
+    "sg:address":"2374 S Waverly Rd",
+    "sg:city":"Eaton Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 663 6211",
+    "sg:postcode":"48827",
+    "sg:province":"MI",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28xZHkn8oQyHFYP09sQmPK_42.520306_-84.601321@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773684,
+    "wof:geomhash":"90af8e2f83fa5072f8abca29c1db637b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689519883
+        }
+    ],
+    "wof:id":689519883,
+    "wof:lastmodified":1461773684,
+    "wof:name":"Smith's Upholstery",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -84.601321,
+    42.520306,
+    -84.601321,
+    42.520306
+],
+  "geometry": {"coordinates":[-84.601321,42.520306],"type":"Point"}
+}

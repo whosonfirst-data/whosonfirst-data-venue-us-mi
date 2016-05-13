@@ -1,0 +1,72 @@
+{
+  "id": 706683705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589976,42.344031,-85.589976,42.344031",
+    "geom:latitude":42.344031,
+    "geom:longitude":-85.589976,
+    "iso:country":"US",
+    "sg:address":"5333 N Westnedge Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cooper/210783-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 7726",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_067YGD7FBvHBIJ0j4INtZ2_42.344031_-85.589976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809436,
+    "wof:geomhash":"66bc909404967e3b3bd9a275f0fe15e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":706683705
+        }
+    ],
+    "wof:id":706683705,
+    "wof:lastmodified":1461809436,
+    "wof:name":"Arby's",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.589976,
+    42.344031,
+    -85.589976,
+    42.344031
+],
+  "geometry": {"coordinates":[-85.58997599999999,42.344031],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 689897881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.22973,43.280326,-86.22973,43.280326",
+    "geom:latitude":43.280326,
+    "geom:longitude":-86.22973,
+    "iso:country":"US",
+    "sg:address":"1575 Holton Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 1234",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O9FJMuTuMdVdmSLesQAAT_43.280326_-86.229730@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784503,
+    "wof:geomhash":"bbd948dfb1851b103e67f74420660c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689897881
+        }
+    ],
+    "wof:id":689897881,
+    "wof:lastmodified":1461784503,
+    "wof:name":"Archer Laundromat Tan Dry Clrs",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -86.22973,
+    43.280326,
+    -86.22973,
+    43.280326
+],
+  "geometry": {"coordinates":[-86.22973,43.280326],"type":"Point"}
+}

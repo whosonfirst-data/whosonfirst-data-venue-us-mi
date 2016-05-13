@@ -1,0 +1,73 @@
+{
+  "id": 689939231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.744402,41.796544,-86.744402,41.796544",
+    "geom:latitude":41.796544,
+    "geom:longitude":-86.744402,
+    "iso:country":"US",
+    "sg:address":"15 E Mechanic St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1960",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F2wojAzkOCP2I9qgpKdkl_41.796544_-86.744402@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785592,
+    "wof:geomhash":"9a0da0e1ffcdbf983c466497caa00ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689939231
+        }
+    ],
+    "wof:id":689939231,
+    "wof:lastmodified":1461785592,
+    "wof:name":"Webb's Automotive",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.744402,
+    41.796544,
+    -86.744402,
+    41.796544
+],
+  "geometry": {"coordinates":[-86.74440199999999,41.796544],"type":"Point"}
+}

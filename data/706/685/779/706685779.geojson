@@ -1,0 +1,74 @@
+{
+  "id": 706685779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257531,43.219786,-86.257531,43.219786",
+    "geom:latitude":43.219786,
+    "geom:longitude":-86.257531,
+    "iso:country":"US",
+    "sg:address":"555 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/47817-mr-scribs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 6164",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AHkkS8ErSz9U8MFtLibSM_43.219786_-86.257531@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809512,
+    "wof:geomhash":"575562e68be8278ef5fa74e23c74ac94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685779
+        }
+    ],
+    "wof:id":706685779,
+    "wof:lastmodified":1461809512,
+    "wof:name":"Mr Scrib's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.257531,
+    43.219786,
+    -86.257531,
+    43.219786
+],
+  "geometry": {"coordinates":[-86.257531,43.219786],"type":"Point"}
+}

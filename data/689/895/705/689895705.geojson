@@ -1,0 +1,73 @@
+{
+  "id": 689895705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.53826,42.682209,-84.53826,42.682209",
+    "geom:latitude":42.682209,
+    "geom:longitude":-84.53826,
+    "iso:country":"US",
+    "sg:address":"5134 S Pennsylvania Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 4343",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o6yJcppMBeNMueV9t1ccb_42.682209_-84.538260@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784452,
+    "wof:geomhash":"71644d6acff4d3e27f077cda1f7cbcfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689895705
+        }
+    ],
+    "wof:id":689895705,
+    "wof:lastmodified":1461784452,
+    "wof:name":"Wash Zone Inc",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.53826,
+    42.682209,
+    -84.53826,
+    42.682209
+],
+  "geometry": {"coordinates":[-84.53825999999999,42.682209],"type":"Point"}
+}

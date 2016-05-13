@@ -1,0 +1,73 @@
+{
+  "id": 689954585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.668715,41.848494,-83.668715,41.848494",
+    "geom:latitude":41.848494,
+    "geom:longitude":-83.668715,
+    "iso:country":"US",
+    "sg:address":"7000 Summerfield Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 2900",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MZHN8x9tHtsdxFgcAx6GQ_41.848494_-83.668715@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785985,
+    "wof:geomhash":"b339b07b019be07c6e0ab0e683fd3367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689954585
+        }
+    ],
+    "wof:id":689954585,
+    "wof:lastmodified":1461785985,
+    "wof:name":"Self Storage",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.668715,
+    41.848494,
+    -83.668715,
+    41.848494
+],
+  "geometry": {"coordinates":[-83.66871500000001,41.848494],"type":"Point"}
+}

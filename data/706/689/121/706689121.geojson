@@ -1,0 +1,72 @@
+{
+  "id": 706689121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263235,43.199717,-86.263235,43.199717",
+    "geom:latitude":43.199717,
+    "geom:longitude":-86.263235,
+    "iso:country":"US",
+    "sg:address":"2860 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/roosevelt-park/207824-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 9436",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qEjB9Fm0xloDylp2aPVlJ_43.200345_-86.263196@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809637,
+    "wof:geomhash":"eb8c9cb8756aefbdea91a3f3e71993f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706689121
+        }
+    ],
+    "wof:id":706689121,
+    "wof:lastmodified":1461809637,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.263235,
+    43.199717,
+    -86.263235,
+    43.199717
+],
+  "geometry": {"coordinates":[-86.26323499999999,43.199717],"type":"Point"}
+}

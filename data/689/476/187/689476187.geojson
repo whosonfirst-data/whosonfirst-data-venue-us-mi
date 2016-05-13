@@ -1,0 +1,82 @@
+{
+  "id": 689476187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.634607,43.012815,-83.634607,43.012815",
+    "geom:latitude":43.012815,
+    "geom:longitude":-83.634607,
+    "iso:country":"US",
+    "sg:address":"1235 S Center Rd",
+    "sg:city":"Burton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 743 4490",
+    "sg:postcode":"48509",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877387,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yePE4KSMi6hVOwlAKO50m_43.012815_-83.634607@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772415,
+    "wof:geomhash":"a7f815ad95bd3e799abafbf94966a7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877387,
+            "region_id":85688599,
+            "venue_id":689476187
+        }
+    ],
+    "wof:id":689476187,
+    "wof:lastmodified":1461772415,
+    "wof:name":"Planned Parenthood of E Cntrl",
+    "wof:parent_id":85877387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.634607,
+    43.012815,
+    -83.634607,
+    43.012815
+],
+  "geometry": {"coordinates":[-83.634607,43.012815],"type":"Point"}
+}

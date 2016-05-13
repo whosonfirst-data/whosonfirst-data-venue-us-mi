@@ -1,0 +1,78 @@
+{
+  "id": 706683941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.669782,42.295782,-85.669782,42.295782",
+    "geom:latitude":42.295782,
+    "geom:longitude":-85.669782,
+    "iso:country":"US",
+    "sg:address":"5431 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oshtemo/196873-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 343 7510",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B32d8CaQfPTMuIF7fOljP_42.295782_-85.669782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809444,
+    "wof:geomhash":"3812c32ca1f4bd8faba19f10d01f3672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":706683941
+        }
+    ],
+    "wof:id":706683941,
+    "wof:lastmodified":1461809444,
+    "wof:name":"Burger King",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.669782,
+    42.295782,
+    -85.669782,
+    42.295782
+],
+  "geometry": {"coordinates":[-85.669782,42.295782],"type":"Point"}
+}

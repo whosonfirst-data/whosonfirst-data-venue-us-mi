@@ -1,0 +1,71 @@
+{
+  "id": 722529629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245955,43.20091,-86.245955,43.20091",
+    "geom:latitude":43.20091,
+    "geom:longitude":-86.245955,
+    "iso:country":"US",
+    "sg:address":"2811 Sanford St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 4466",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40kzntHBPmN29thgPgdCkZ_43.200910_-86.245955@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814394,
+    "wof:geomhash":"9b003181f2ef15c8c1704678ee7b680f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529629
+        }
+    ],
+    "wof:id":722529629,
+    "wof:lastmodified":1461814394,
+    "wof:name":"Rosita's Tacos",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.245955,
+    43.20091,
+    -86.245955,
+    43.20091
+],
+  "geometry": {"coordinates":[-86.245955,43.20091],"type":"Point"}
+}

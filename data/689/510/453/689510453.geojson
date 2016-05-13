@@ -1,0 +1,71 @@
+{
+  "id": 689510453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.39466,46.552097,-87.39466,46.552097",
+    "geom:latitude":46.552097,
+    "geom:longitude":-87.39466,
+    "iso:country":"US",
+    "sg:address":"910 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 8284",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RqtVHWb8SVAOVnFybsAGk_46.552097_-87.394660@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773427,
+    "wof:geomhash":"a949f6279c531ef516eb1995d8ae0bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689510453
+        }
+    ],
+    "wof:id":689510453,
+    "wof:lastmodified":1461773427,
+    "wof:name":"Cakeworks",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -87.39466,
+    46.552097,
+    -87.39466,
+    46.552097
+],
+  "geometry": {"coordinates":[-87.39466,46.552097],"type":"Point"}
+}

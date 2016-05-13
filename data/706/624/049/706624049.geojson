@@ -1,0 +1,73 @@
+{
+  "id": 706624049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.752674,43.046023,-83.752674,43.046023",
+    "geom:latitude":43.046023,
+    "geom:longitude":-83.752674,
+    "iso:country":"US",
+    "sg:address":"3497 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 0837",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aA5UAhVwwDJr28PLkyVAl_43.046023_-83.752674@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807233,
+    "wof:geomhash":"66f21724159564e13da0903020d55871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706624049
+        }
+    ],
+    "wof:id":706624049,
+    "wof:lastmodified":1461807233,
+    "wof:name":"Pasadena Hall",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.752674,
+    43.046023,
+    -83.752674,
+    43.046023
+],
+  "geometry": {"coordinates":[-83.752674,43.046023],"type":"Point"}
+}

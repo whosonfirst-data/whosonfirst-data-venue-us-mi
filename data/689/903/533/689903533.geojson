@@ -1,0 +1,71 @@
+{
+  "id": 689903533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.568757,41.775122,-83.568757,41.775122",
+    "geom:latitude":41.775122,
+    "geom:longitude":-83.568757,
+    "iso:country":"US",
+    "sg:address":"8765 Lewis Ave",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 3802",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zd6EYspFe2ceqYampPWb2_41.775122_-83.568757@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784679,
+    "wof:geomhash":"7596ba1a73999655c8da18075123bbe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":689903533
+        }
+    ],
+    "wof:id":689903533,
+    "wof:lastmodified":1461784679,
+    "wof:name":"Family Medical Center",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -83.568757,
+    41.775122,
+    -83.568757,
+    41.775122
+],
+  "geometry": {"coordinates":[-83.56875700000001,41.775122],"type":"Point"}
+}

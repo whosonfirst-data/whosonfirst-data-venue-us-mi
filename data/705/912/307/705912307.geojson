@@ -1,0 +1,73 @@
+{
+  "id": 705912307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.195245,43.245053,-86.195245,43.245053",
+    "geom:latitude":43.245053,
+    "geom:longitude":-86.195245,
+    "iso:country":"US",
+    "sg:address":"1903 Marquette Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 5356",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DrtuTknVjj1yaA2LUDoVH_43.245053_-86.195245@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791683,
+    "wof:geomhash":"9801216ada0994d26b9689d7b2c4ce1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705912307
+        }
+    ],
+    "wof:id":705912307,
+    "wof:lastmodified":1461791683,
+    "wof:name":"Baker College Of Muskegon",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -86.195245,
+    43.245053,
+    -86.195245,
+    43.245053
+],
+  "geometry": {"coordinates":[-86.195245,43.245053],"type":"Point"}
+}

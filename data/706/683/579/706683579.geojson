@@ -1,0 +1,86 @@
+{
+  "id": 706683579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.568658,42.263538,-85.568658,42.263538",
+    "geom:latitude":42.263538,
+    "geom:longitude":-85.568658,
+    "iso:country":"US",
+    "sg:address":"2712 Portage St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/42319-the-doghouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 383 1118",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "dog",
+        "burger",
+        "hot",
+        "american",
+        "chicken",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39tPHej194mikrC0ZtfZES_42.263538_-85.568658@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809424,
+    "wof:geomhash":"20398b639bd01b7ed1157aa1e96aeca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706683579
+        }
+    ],
+    "wof:id":706683579,
+    "wof:lastmodified":1461809424,
+    "wof:name":"The Doghouse",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "dog",
+        "burger",
+        "hot",
+        "american",
+        "chicken",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.568658,
+    42.263538,
+    -85.568658,
+    42.263538
+],
+  "geometry": {"coordinates":[-85.568658,42.263538],"type":"Point"}
+}

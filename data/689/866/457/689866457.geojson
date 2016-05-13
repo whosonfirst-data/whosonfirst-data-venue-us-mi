@@ -1,0 +1,71 @@
+{
+  "id": 689866457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.403743,41.909001,-83.403743,41.909001",
+    "geom:latitude":41.909001,
+    "geom:longitude":-83.403743,
+    "iso:country":"US",
+    "sg:address":"745 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 1112",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gh2c0ppvzCoOBnVpMYXTx_41.909001_-83.403743@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783691,
+    "wof:geomhash":"8c634089df44970aaf3c4a613cdb2bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689866457
+        }
+    ],
+    "wof:id":689866457,
+    "wof:lastmodified":1461783691,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.403743,
+    41.909001,
+    -83.403743,
+    41.909001
+],
+  "geometry": {"coordinates":[-83.40374300000001,41.909001],"type":"Point"}
+}

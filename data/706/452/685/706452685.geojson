@@ -1,0 +1,71 @@
+{
+  "id": 706452685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694803,43.151498,-83.694803,43.151498",
+    "geom:latitude":43.151498,
+    "geom:longitude":-83.694803,
+    "iso:country":"US",
+    "sg:address":"10208 N Saginaw Rd",
+    "sg:city":"Clio",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 686 6430",
+    "sg:postcode":"48420",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85841859,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JZrsBkWUlBPEIqhQsSUVm_43.151498_-83.694803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803501,
+    "wof:geomhash":"5dd5ad841b606b272eda89581c2b2509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85841859,
+            "region_id":85688599,
+            "venue_id":706452685
+        }
+    ],
+    "wof:id":706452685,
+    "wof:lastmodified":1461803501,
+    "wof:name":"Rolison Service",
+    "wof:parent_id":85841859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.694803,
+    43.151498,
+    -83.694803,
+    43.151498
+],
+  "geometry": {"coordinates":[-83.69480299999999,43.151498],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706063911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.36931,42.931017,-85.36931,42.931017",
+    "geom:latitude":42.931017,
+    "geom:longitude":-85.36931,
+    "iso:country":"US",
+    "sg:address":"2531 W Main St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 8284",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SHgxLzbMgrT3jtHas4c4J_42.931017_-85.369310@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794893,
+    "wof:geomhash":"1cfed05c3f24929780a103397a8b7832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706063911
+        }
+    ],
+    "wof:id":706063911,
+    "wof:lastmodified":1461794893,
+    "wof:name":"Wellman-Harrison Chiropractic",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -85.36931,
+    42.931017,
+    -85.36931,
+    42.931017
+],
+  "geometry": {"coordinates":[-85.36931,42.931017],"type":"Point"}
+}

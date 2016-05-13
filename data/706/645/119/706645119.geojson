@@ -1,0 +1,71 @@
+{
+  "id": 706645119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.901674,42.550243,-82.901674,42.550243",
+    "geom:latitude":42.550243,
+    "geom:longitude":-82.901674,
+    "iso:country":"US",
+    "sg:address":"34486 S Gratiot Ave",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 954 0000",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BtDnLzAdJL48cYd6S4F5H_42.550243_-82.901674@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807713,
+    "wof:geomhash":"1e0a5f64c35f2926b51127cdbf937dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":706645119
+        }
+    ],
+    "wof:id":706645119,
+    "wof:lastmodified":1461807713,
+    "wof:name":"City Limits Auto Sales",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.901674,
+    42.550243,
+    -82.901674,
+    42.550243
+],
+  "geometry": {"coordinates":[-82.901674,42.550243],"type":"Point"}
+}

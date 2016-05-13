@@ -1,0 +1,71 @@
+{
+  "id": 689921645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.597826,42.899945,-85.597826,42.899945",
+    "geom:latitude":42.899945,
+    "geom:longitude":-85.597826,
+    "iso:country":"US",
+    "sg:address":"2865 Bransford Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 1020",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z1BlyDZe1ltakEGTwbDXY_42.899945_-85.597826@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785157,
+    "wof:geomhash":"16f3448e5cb56698fc5d4fc35ca67b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689921645
+        }
+    ],
+    "wof:id":689921645,
+    "wof:lastmodified":1461785157,
+    "wof:name":"Max Trucking",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.597826,
+    42.899945,
+    -85.597826,
+    42.899945
+],
+  "geometry": {"coordinates":[-85.597826,42.899945],"type":"Point"}
+}

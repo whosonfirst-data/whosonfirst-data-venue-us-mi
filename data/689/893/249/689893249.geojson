@@ -1,0 +1,79 @@
+{
+  "id": 689893249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.811033,42.580408,-84.811033,42.580408",
+    "geom:latitude":42.580408,
+    "geom:longitude":-84.811033,
+    "iso:country":"US",
+    "sg:address":"1 E Lansing Rd",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 355 9671",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physical",
+        "commercial",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wYgEbc31v9okjRI1XV1t5_42.580408_-84.811033@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784393,
+    "wof:geomhash":"7a9e0c32946eaf575f91b33cd33e89cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":689893249
+        }
+    ],
+    "wof:id":689893249,
+    "wof:lastmodified":1461784393,
+    "wof:name":"Cyclotron Lab",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physical",
+        "commercial",
+        "research"
+    ]
+},
+  "bbox": [
+    -84.811033,
+    42.580408,
+    -84.811033,
+    42.580408
+],
+  "geometry": {"coordinates":[-84.81103299999999,42.580408],"type":"Point"}
+}

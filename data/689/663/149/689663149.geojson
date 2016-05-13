@@ -1,0 +1,71 @@
+{
+  "id": 689663149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.758457,43.073235,-82.758457,43.073235",
+    "geom:latitude":43.073235,
+    "geom:longitude":-82.758457,
+    "iso:country":"US",
+    "sg:address":"10580 Metcalf Rd",
+    "sg:city":"Brockway",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 387 9269",
+    "sg:postcode":"48097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KzUQrKRdTVCbto7YRZHVb_43.073235_-82.758457@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778207,
+    "wof:geomhash":"07c575675f928b70e20b9535ba83a5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689663149
+        }
+    ],
+    "wof:id":689663149,
+    "wof:lastmodified":1461778207,
+    "wof:name":"Jeff's Rubbish Disposal",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -82.758457,
+    43.073235,
+    -82.758457,
+    43.073235
+],
+  "geometry": {"coordinates":[-82.75845700000001,43.073235],"type":"Point"}
+}

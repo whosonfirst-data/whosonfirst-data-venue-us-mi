@@ -1,0 +1,93 @@
+{
+  "id": 722522103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.677729,43.023198,-83.677729,43.023198",
+    "geom:latitude":43.023198,
+    "geom:longitude":-83.677729,
+    "iso:country":"US",
+    "sg:address":"1231 E Kearsley St Fl 1",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 760 1351",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "venue",
+        "elementary",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877387,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68gVdba9njjH2eo154AeBZ_43.023198_-83.677729@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814023,
+    "wof:geomhash":"a5697e3b60299de89a1848b6e84c2e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877387,
+            "region_id":85688599,
+            "venue_id":722522103
+        }
+    ],
+    "wof:id":722522103,
+    "wof:lastmodified":1461814023,
+    "wof:name":"Sarvis Conference Center",
+    "wof:parent_id":85877387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "venue",
+        "elementary",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.677729,
+    43.023198,
+    -83.677729,
+    43.023198
+],
+  "geometry": {"coordinates":[-83.677729,43.023198],"type":"Point"}
+}

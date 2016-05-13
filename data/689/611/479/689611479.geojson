@@ -1,0 +1,71 @@
+{
+  "id": 689611479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.069735,45.811367,-88.069735,45.811367",
+    "geom:latitude":45.811367,
+    "geom:longitude":-88.069735,
+    "iso:country":"US",
+    "sg:address":"225 W H St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9980",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vX500IN19Vb6iR4ZOoIXK_45.811367_-88.069735@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776656,
+    "wof:geomhash":"e4aed4221e2c521b408e4fab9c9f42e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689611479
+        }
+    ],
+    "wof:id":689611479,
+    "wof:lastmodified":1461776656,
+    "wof:name":"G Hotchandani MD",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.069735,
+    45.811367,
+    -88.069735,
+    45.811367
+],
+  "geometry": {"coordinates":[-88.06973499999999,45.811367],"type":"Point"}
+}

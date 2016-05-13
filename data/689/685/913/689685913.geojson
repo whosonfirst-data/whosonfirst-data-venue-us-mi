@@ -1,0 +1,77 @@
+{
+  "id": 689685913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.733103,42.266789,-83.733103,42.266789",
+    "geom:latitude":42.266789,
+    "geom:longitude":-83.733103,
+    "iso:country":"US",
+    "sg:address":"1204 Wells St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 213 2917",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oncology",
+        "radiation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875901,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B0VtNBVYoT0Xh6r9sCTjv_42.266789_-83.733103@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778776,
+    "wof:geomhash":"b1dd6f3a583640ffd5982e3d4e6e17d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875901,
+            "region_id":85688599,
+            "venue_id":689685913
+        }
+    ],
+    "wof:id":689685913,
+    "wof:lastmodified":1461778776,
+    "wof:name":"James A Hayman MD",
+    "wof:parent_id":85875901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oncology",
+        "radiation"
+    ]
+},
+  "bbox": [
+    -83.733103,
+    42.266789,
+    -83.733103,
+    42.266789
+],
+  "geometry": {"coordinates":[-83.733103,42.266789],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 722481247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.990601,42.415199,-82.990601,42.415199",
+    "geom:latitude":42.415199,
+    "geom:longitude":-82.990601,
+    "iso:country":"US",
+    "sg:address":"12200 Gratiot Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 521 2640",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.tacobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870561,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_233WTRnDKgp1GoDZRi8Kh1_42.415199_-82.990601@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812339,
+    "wof:geomhash":"a021259f6c14fb8939993656b947a797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870561,
+            "region_id":85688599,
+            "venue_id":722481247
+        }
+    ],
+    "wof:id":722481247,
+    "wof:lastmodified":1461812339,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85870561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.990601,
+    42.415199,
+    -82.990601,
+    42.415199
+],
+  "geometry": {"coordinates":[-82.990601,42.415199],"type":"Point"}
+}

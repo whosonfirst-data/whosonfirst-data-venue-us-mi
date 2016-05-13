@@ -1,0 +1,71 @@
+{
+  "id": 689557035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.808156,41.762483,-86.808156,41.762483",
+    "geom:latitude":41.762483,
+    "geom:longitude":-86.808156,
+    "iso:country":"US",
+    "sg:address":"4000 Cherokee Dr",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1884",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uei3D17dZKncOp4VXkD33_41.762483_-86.808156@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774943,
+    "wof:geomhash":"b62c25fdac5ac77daf1caf0b41dae7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689557035
+        }
+    ],
+    "wof:id":689557035,
+    "wof:lastmodified":1461774943,
+    "wof:name":"Michiana Village Police Dept",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.808156,
+    41.762483,
+    -86.808156,
+    41.762483
+],
+  "geometry": {"coordinates":[-86.808156,41.762483],"type":"Point"}
+}

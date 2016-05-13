@@ -1,0 +1,77 @@
+{
+  "id": 705793551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.111997,42.775785,-86.111997,42.775785",
+    "geom:latitude":42.775785,
+    "geom:longitude":-86.111997,
+    "iso:country":"US",
+    "sg:address":"577 Michigan Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 396 0641",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822391,
+        102191575,
+        404506669,
+        85633793,
+        85950993,
+        102083043,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4reQVPkB3NwKoidJymii1c_42.775785_-86.111997@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788867,
+    "wof:geomhash":"601dcf6fe640feff63f91bf800e56031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083043,
+            "localadmin_id":404506669,
+            "locality_id":85950993,
+            "neighbourhood_id":85822391,
+            "region_id":85688599,
+            "venue_id":705793551
+        }
+    ],
+    "wof:id":705793551,
+    "wof:lastmodified":1461788867,
+    "wof:name":"Michigan Medical PC",
+    "wof:parent_id":85822391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.111997,
+    42.775785,
+    -86.111997,
+    42.775785
+],
+  "geometry": {"coordinates":[-86.111997,42.775785],"type":"Point"}
+}

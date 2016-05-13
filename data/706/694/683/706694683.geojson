@@ -1,0 +1,100 @@
+{
+  "id": 706694683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.963707,42.553115,-82.963707,42.553115",
+    "geom:latitude":42.553115,
+    "geom:longitude":-82.963707,
+    "iso:country":"US",
+    "sg:address":"15728 15 Mile Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 0442",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"http://www.timhortons.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V9mXQqy9Gxe90TIFWdy0Q_42.553115_-82.963707@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809857,
+    "wof:geomhash":"c1756422f398cbd1d59da0f1b753af1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706694683
+        }
+    ],
+    "wof:id":706694683,
+    "wof:lastmodified":1461809857,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -82.963707,
+    42.553115,
+    -82.963707,
+    42.553115
+],
+  "geometry": {"coordinates":[-82.963707,42.553115],"type":"Point"}
+}

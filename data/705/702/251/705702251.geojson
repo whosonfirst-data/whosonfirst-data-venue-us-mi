@@ -1,0 +1,83 @@
+{
+  "id": 705702251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.062953,42.428849,-83.062953,42.428849",
+    "geom:latitude":42.428849,
+    "geom:longitude":-83.062953,
+    "iso:country":"US",
+    "sg:address":"18549 Ryan Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 893 4625",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420559559,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zpJnxz82XsupJS3m96Bxl_42.428849_-83.062953@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786634,
+    "wof:geomhash":"ef87b614f0a99574722b000a15d0417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420559559,
+            "region_id":85688599,
+            "venue_id":705702251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":705702251
+        }
+    ],
+    "wof:id":705702251,
+    "wof:lastmodified":1461786634,
+    "wof:name":"Modern Way Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.062953,
+    42.428849,
+    -83.062953,
+    42.428849
+],
+  "geometry": {"coordinates":[-83.06295299999999,42.428849],"type":"Point"}
+}

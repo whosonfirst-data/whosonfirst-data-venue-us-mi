@@ -1,0 +1,71 @@
+{
+  "id": 689635599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.240684,41.81242,-86.240684,41.81242",
+    "geom:latitude":41.81242,
+    "geom:longitude":-86.240684,
+    "iso:country":"US",
+    "sg:address":"1451 Fort St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 4986",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_335XeT5cqOTknozwnVXnpc_41.812420_-86.240684@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777304,
+    "wof:geomhash":"a5ef521e3b8ac71667eee42a63b460fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689635599
+        }
+    ],
+    "wof:id":689635599,
+    "wof:lastmodified":1461777304,
+    "wof:name":"American Construction",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.240684,
+    41.81242,
+    -86.240684,
+    41.81242
+],
+  "geometry": {"coordinates":[-86.240684,41.81242],"type":"Point"}
+}

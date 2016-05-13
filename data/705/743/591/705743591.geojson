@@ -1,0 +1,73 @@
+{
+  "id": 705743591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.392675,46.543748,-87.392675,46.543748",
+    "geom:latitude":46.543748,
+    "geom:longitude":-87.392675,
+    "iso:country":"US",
+    "sg:address":"100 N Front St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 3050",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "federal",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18vvZkick4KBuoDr8UBPuQ_46.543748_-87.392675@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787721,
+    "wof:geomhash":"51e979d1a3d6d67fa37e37f2ebaebfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705743591
+        }
+    ],
+    "wof:id":705743591,
+    "wof:lastmodified":1461787721,
+    "wof:name":"Federal Public Defender",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -87.392675,
+    46.543748,
+    -87.392675,
+    46.543748
+],
+  "geometry": {"coordinates":[-87.392675,46.543748],"type":"Point"}
+}

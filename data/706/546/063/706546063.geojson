@@ -1,0 +1,75 @@
+{
+  "id": 706546063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740747,43.015259,-83.740747,43.015259",
+    "geom:latitude":43.015259,
+    "geom:longitude":-83.740747,
+    "iso:country":"US",
+    "sg:address":"3277 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 8400",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uCU9XmYWUWE3f8UJgS6RN_43.015259_-83.740747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805583,
+    "wof:geomhash":"83597222b83e85344d7fb6a52feb8424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706546063
+        }
+    ],
+    "wof:id":706546063,
+    "wof:lastmodified":1461805583,
+    "wof:name":"Beecher Surgical Associates",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -83.740747,
+    43.015259,
+    -83.740747,
+    43.015259
+],
+  "geometry": {"coordinates":[-83.740747,43.015259],"type":"Point"}
+}

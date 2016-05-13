@@ -1,0 +1,75 @@
+{
+  "id": 706130533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.988092,42.449223,-82.988092,42.449223",
+    "geom:latitude":42.449223,
+    "geom:longitude":-82.988092,
+    "iso:country":"US",
+    "sg:address":"13300 E 8 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 521 4020",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524895,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oV2cX7IchyXVCbEQLWdFM_42.449223_-82.988092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796529,
+    "wof:geomhash":"a70d131277bf36eeffa7f79b4eb2ad2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":706130533
+        }
+    ],
+    "wof:id":706130533,
+    "wof:lastmodified":1461796529,
+    "wof:name":"Prime Time Auto",
+    "wof:parent_id":420524895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -82.988092,
+    42.449223,
+    -82.988092,
+    42.449223
+],
+  "geometry": {"coordinates":[-82.98809199999999,42.449223],"type":"Point"}
+}

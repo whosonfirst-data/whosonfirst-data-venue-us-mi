@@ -1,0 +1,77 @@
+{
+  "id": 706679693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.193413,42.679596,-83.193413,42.679596",
+    "geom:latitude":42.679596,
+    "geom:longitude":-83.193413,
+    "iso:country":"US",
+    "sg:address":"2985 Walton Blvd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester-hills/185910-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896797,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t62FeW893daXkiiAKEUm1_42.679596_-83.193413@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809269,
+    "wof:geomhash":"3595b87048707af1a094b019b0e4648a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896797,
+            "region_id":85688599,
+            "venue_id":706679693
+        }
+    ],
+    "wof:id":706679693,
+    "wof:lastmodified":1461809269,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.193413,
+    42.679596,
+    -83.193413,
+    42.679596
+],
+  "geometry": {"coordinates":[-83.19341300000001,42.679596],"type":"Point"}
+}

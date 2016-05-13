@@ -1,0 +1,70 @@
+{
+  "id": 706101071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634938,44.75182,-85.634938,44.75182",
+    "geom:latitude":44.75182,
+    "geom:longitude":-85.634938,
+    "iso:country":"US",
+    "sg:address":"1311 S Division St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 4115",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.toms-foodmarkets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wjt9m6RlTstUXPwUYURU9_44.751820_-85.634938@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795807,
+    "wof:geomhash":"cd810f139f00b905c37cfba93d0c9fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706101071
+        }
+    ],
+    "wof:id":706101071,
+    "wof:lastmodified":1461795807,
+    "wof:name":"Tom's Food Market",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.634938,
+    44.75182,
+    -85.634938,
+    44.75182
+],
+  "geometry": {"coordinates":[-85.63493800000001,44.75182],"type":"Point"}
+}

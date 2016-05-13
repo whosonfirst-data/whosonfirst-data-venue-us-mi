@@ -1,0 +1,69 @@
+{
+  "id": 706521905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.16844,42.338529,-85.16844,42.338529",
+    "geom:latitude":42.338529,
+    "geom:longitude":-85.16844,
+    "iso:country":"US",
+    "sg:address":"421 Garrison Ave",
+    "sg:city":"Battle Creek",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 948 3375",
+    "sg:postcode":"49017",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85835213,
+        102082993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r7k3LRMcxHXlwdaazuaPh_42.338529_-85.168440@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805077,
+    "wof:geomhash":"a963f2098be2d3c2e465283ae3fbb4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082993,
+            "neighbourhood_id":85835213,
+            "region_id":85688599,
+            "venue_id":706521905
+        }
+    ],
+    "wof:id":706521905,
+    "wof:lastmodified":1461805077,
+    "wof:name":"Old Time Bakery",
+    "wof:parent_id":85835213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.16844,
+    42.338529,
+    -85.16844,
+    42.338529
+],
+  "geometry": {"coordinates":[-85.16844,42.338529],"type":"Point"}
+}

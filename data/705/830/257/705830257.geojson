@@ -1,0 +1,73 @@
+{
+  "id": 705830257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.738947,43.041891,-83.738947,43.041891",
+    "geom:latitude":43.041891,
+    "geom:longitude":-83.738947,
+    "iso:country":"US",
+    "sg:address":"3157 W Dartmouth St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 1890",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cdci2E3i130Snnsq2eJnx_43.041891_-83.738947@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789743,
+    "wof:geomhash":"f852ca189e2842067ac2245d64633f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705830257
+        }
+    ],
+    "wof:id":705830257,
+    "wof:lastmodified":1461789743,
+    "wof:name":"L & R Electric",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.738947,
+    43.041891,
+    -83.738947,
+    43.041891
+],
+  "geometry": {"coordinates":[-83.738947,43.041891],"type":"Point"}
+}

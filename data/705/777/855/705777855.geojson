@@ -1,0 +1,79 @@
+{
+  "id": 705777855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.559648,42.961583,-83.559648,42.961583",
+    "geom:latitude":42.961583,
+    "geom:longitude":-83.559648,
+    "iso:country":"US",
+    "sg:address":"7346 E Maple Ave",
+    "sg:city":"Grand Blanc",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 743 5020",
+    "sg:postcode":"48439",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kt4Vmd5yQcbZ1az5XXdmr_42.961583_-83.559648@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788495,
+    "wof:geomhash":"a320fcc33682ab888d50edb5a9f1eea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":705777855
+        }
+    ],
+    "wof:id":705777855,
+    "wof:lastmodified":1461788495,
+    "wof:name":"Muffler Man",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -83.559648,
+    42.961583,
+    -83.559648,
+    42.961583
+],
+  "geometry": {"coordinates":[-83.559648,42.961583],"type":"Point"}
+}

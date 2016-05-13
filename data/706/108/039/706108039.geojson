@@ -1,0 +1,71 @@
+{
+  "id": 706108039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589483,42.204907,-85.589483,42.204907",
+    "geom:latitude":42.204907,
+    "geom:longitude":-85.589483,
+    "iso:country":"US",
+    "sg:address":"7810 Shaver Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 329 4560",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Zla8fPK3nQ7W0jjbLbQr_42.204907_-85.589483@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795947,
+    "wof:geomhash":"bfbcb817a9a18dec38a27a1ee32ba48f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706108039
+        }
+    ],
+    "wof:id":706108039,
+    "wof:lastmodified":1461795947,
+    "wof:name":"Portage Police Chief",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.589483,
+    42.204907,
+    -85.589483,
+    42.204907
+],
+  "geometry": {"coordinates":[-85.589483,42.204907],"type":"Point"}
+}

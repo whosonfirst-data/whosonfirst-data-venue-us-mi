@@ -1,0 +1,69 @@
+{
+  "id": 706528367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.033123,42.648206,-83.033123,42.648206",
+    "geom:latitude":42.648206,
+    "geom:longitude":-83.033123,
+    "iso:country":"US",
+    "sg:address":"48024 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 731 2600",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sAGBMJ97eicIcJgenETKX_42.648206_-83.033123@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805202,
+    "wof:geomhash":"1ec29d727b6c6b4235c0365e759d2ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706528367
+        }
+    ],
+    "wof:id":706528367,
+    "wof:lastmodified":1461805202,
+    "wof:name":"Macomb Veterinary Assoc",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.033123,
+    42.648206,
+    -83.033123,
+    42.648206
+],
+  "geometry": {"coordinates":[-83.033123,42.648206],"type":"Point"}
+}

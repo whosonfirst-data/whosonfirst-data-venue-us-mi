@@ -1,0 +1,69 @@
+{
+  "id": 706358005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.722597,42.725169,-85.722597,42.725169",
+    "geom:latitude":42.725169,
+    "geom:longitude":-85.722597,
+    "iso:country":"US",
+    "sg:address":"1807 142nd Ave",
+    "sg:city":"Dorr",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 681 0562",
+    "sg:postcode":"49323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WZFdFTgOYXDWIhOpmgwEq_42.725169_-85.722597@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801570,
+    "wof:geomhash":"42ca36a3ff13189f4349d343d99a9001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706358005
+        }
+    ],
+    "wof:id":706358005,
+    "wof:lastmodified":1461801570,
+    "wof:name":"Allegan County Sheriff",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -85.722597,
+    42.725169,
+    -85.722597,
+    42.725169
+],
+  "geometry": {"coordinates":[-85.72259699999999,42.725169],"type":"Point"}
+}

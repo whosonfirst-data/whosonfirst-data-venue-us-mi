@@ -1,0 +1,72 @@
+{
+  "id": 706687311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.079751,45.740649,-87.079751,45.740649",
+    "geom:latitude":45.740649,
+    "geom:longitude":-87.079751,
+    "iso:country":"US",
+    "sg:address":"536 S Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/escanaba/142302-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 0474",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IWuwwFWT1vjHm4z1a5bOe_45.740649_-87.079751@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809568,
+    "wof:geomhash":"a7c3924853a590d1163f1ef1bd3f5552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706687311
+        }
+    ],
+    "wof:id":706687311,
+    "wof:lastmodified":1461809568,
+    "wof:name":"Subway",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.079751,
+    45.740649,
+    -87.079751,
+    45.740649
+],
+  "geometry": {"coordinates":[-87.079751,45.740649],"type":"Point"}
+}

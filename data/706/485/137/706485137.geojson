@@ -1,0 +1,79 @@
+{
+  "id": 706485137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.494059,42.218571,-83.494059,42.218571",
+    "geom:latitude":42.218571,
+    "geom:longitude":-83.494059,
+    "iso:country":"US",
+    "sg:address":"11551 Quirk Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 8700",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VMeHE1eQWdOG3OHlmB8ml_42.218571_-83.494059@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804204,
+    "wof:geomhash":"ee04030848852bdf330baa6b17fd4ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706485137
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706485137
+        }
+    ],
+    "wof:id":706485137,
+    "wof:lastmodified":1461804204,
+    "wof:name":"Green Meadows Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.494059,
+    42.218571,
+    -83.494059,
+    42.218571
+],
+  "geometry": {"coordinates":[-83.49405899999999,42.218571],"type":"Point"}
+}

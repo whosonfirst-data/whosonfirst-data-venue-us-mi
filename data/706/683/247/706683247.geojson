@@ -1,0 +1,80 @@
+{
+  "id": 706683247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603796,42.683624,-84.603796,42.683624",
+    "geom:latitude":42.683624,
+    "geom:longitude":-84.603796,
+    "iso:country":"US",
+    "sg:address":"5050 S Waverly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/delta/273630-wing-heaven/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 4177",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85840163,
+        102083005,
+        85834385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SgqV6r8gSfj3hEI8briV6_42.683624_-84.603796@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809411,
+    "wof:geomhash":"33a9f2f97e8f383a467c6202fc1e3777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":706683247
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":706683247
+        }
+    ],
+    "wof:id":706683247,
+    "wof:lastmodified":1461809411,
+    "wof:name":"Wing Heaven",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -84.603796,
+    42.683624,
+    -84.603796,
+    42.683624
+],
+  "geometry": {"coordinates":[-84.603796,42.683624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689682589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.452731,47.247906,-88.452731,47.247906",
+    "geom:latitude":47.247906,
+    "geom:longitude":-88.452731,
+    "iso:country":"US",
+    "sg:address":"311 5th St",
+    "sg:city":"Calumet",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 337 3502",
+    "sg:postcode":"49913",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851683,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14S9GtCVeao9Z3IbhdqXtF_47.247906_-88.452731@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778683,
+    "wof:geomhash":"a05c2088c05f89856bbff303100aa079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85851683,
+            "region_id":85688599,
+            "venue_id":689682589
+        }
+    ],
+    "wof:id":689682589,
+    "wof:lastmodified":1461778683,
+    "wof:name":"Michigan-American Water Co",
+    "wof:parent_id":85851683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -88.452731,
+    47.247906,
+    -88.452731,
+    47.247906
+],
+  "geometry": {"coordinates":[-88.452731,47.247906],"type":"Point"}
+}

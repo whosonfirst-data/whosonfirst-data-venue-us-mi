@@ -1,0 +1,71 @@
+{
+  "id": 689570321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.178777,42.972153,-86.178777,42.972153",
+    "geom:latitude":42.972153,
+    "geom:longitude":-86.178777,
+    "iso:country":"US",
+    "sg:address":"15971 Lake Michigan Dr",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 9099",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85802487,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UCa3KhcM8JMecDzoekhyJ_42.972153_-86.178777@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775294,
+    "wof:geomhash":"ccb3a98d6e964bef715faaf41ebf78d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85802487,
+            "region_id":85688599,
+            "venue_id":689570321
+        }
+    ],
+    "wof:id":689570321,
+    "wof:lastmodified":1461775294,
+    "wof:name":"Green Acres Farm Market",
+    "wof:parent_id":85802487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -86.178777,
+    42.972153,
+    -86.178777,
+    42.972153
+],
+  "geometry": {"coordinates":[-86.178777,42.972153],"type":"Point"}
+}

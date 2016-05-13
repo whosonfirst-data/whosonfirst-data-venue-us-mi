@@ -1,0 +1,72 @@
+{
+  "id": 706680065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.031873,42.669585,-83.031873,42.669585",
+    "geom:latitude":42.669585,
+    "geom:longitude":-83.031873,
+    "iso:country":"US",
+    "sg:address":"8178 23 Mile Rd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/shelby/142407-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 739 4100",
+    "sg:postcode":"48316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q0w9uxoIubGzwtEF6micO_42.669585_-83.031873@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809282,
+    "wof:geomhash":"cf1a681c5d05e69aa9125fd530a27556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706680065
+        }
+    ],
+    "wof:id":706680065,
+    "wof:lastmodified":1461809282,
+    "wof:name":"Subway",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.031873,
+    42.669585,
+    -83.031873,
+    42.669585
+],
+  "geometry": {"coordinates":[-83.031873,42.669585],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705984823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.266115,43.219835,-86.266115,43.219835",
+    "geom:latitude":43.219835,
+    "geom:longitude":-86.266115,
+    "iso:country":"US",
+    "sg:address":"911 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 1541",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBOXjpXuWZeWfKRavxRWZ_43.219835_-86.266115@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793265,
+    "wof:geomhash":"e2272bd3f16b02e115b4a6e9f61a724b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705984823
+        }
+    ],
+    "wof:id":705984823,
+    "wof:lastmodified":1461793265,
+    "wof:name":"Dentest",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.266115,
+    43.219835,
+    -86.266115,
+    43.219835
+],
+  "geometry": {"coordinates":[-86.266115,43.219835],"type":"Point"}
+}

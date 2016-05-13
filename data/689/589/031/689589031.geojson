@@ -1,0 +1,71 @@
+{
+  "id": 689589031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.939272,43.4636,-85.939272,43.4636",
+    "geom:latitude":43.4636,
+    "geom:longitude":-85.939272,
+    "iso:country":"US",
+    "sg:address":"341 E Pine St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2839",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ERKsUD5vcrLTsQImwYt0q_43.463600_-85.939272@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775896,
+    "wof:geomhash":"3de90de246218a90348a7fab14fc7271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689589031
+        }
+    ],
+    "wof:id":689589031,
+    "wof:lastmodified":1461775896,
+    "wof:name":"My Salon",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.939272,
+    43.4636,
+    -85.939272,
+    43.4636
+],
+  "geometry": {"coordinates":[-85.939272,43.4636],"type":"Point"}
+}

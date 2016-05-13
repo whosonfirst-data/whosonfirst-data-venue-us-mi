@@ -1,0 +1,78 @@
+{
+  "id": 706173901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.182302,42.855541,-86.182302,42.855541",
+    "geom:latitude":42.855541,
+    "geom:longitude":-86.182302,
+    "iso:country":"US",
+    "sg:address":"16016 New Holland St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 1146",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shipper",
+        "blueberry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ep7K23yFHNIOBohr5fJ9A_42.855541_-86.182302@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797511,
+    "wof:geomhash":"51053f0d0ffb273aa06861e2dfd5e85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706173901
+        }
+    ],
+    "wof:id":706173901,
+    "wof:lastmodified":1461797511,
+    "wof:name":"Kamphuis Blueberry Farms",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper",
+        "blueberry"
+    ]
+},
+  "bbox": [
+    -86.182302,
+    42.855541,
+    -86.182302,
+    42.855541
+],
+  "geometry": {"coordinates":[-86.18230200000001,42.855541],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706111017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.476995,42.121017,-86.476995,42.121017",
+    "geom:latitude":42.121017,
+    "geom:longitude":-86.476995,
+    "iso:country":"US",
+    "sg:address":"455 Upton Dr",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 7881",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P71hhJAKLSpkfXXk2TkCS_42.121017_-86.476995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796008,
+    "wof:geomhash":"69a828f5d20777cd0e927d93b71015f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706111017
+        }
+    ],
+    "wof:id":706111017,
+    "wof:lastmodified":1461796008,
+    "wof:name":"Family Circle Dentistry",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.476995,
+    42.121017,
+    -86.476995,
+    42.121017
+],
+  "geometry": {"coordinates":[-86.476995,42.121017],"type":"Point"}
+}

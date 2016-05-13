@@ -1,0 +1,75 @@
+{
+  "id": 706226765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.935186,43.0643,-85.935186,43.0643",
+    "geom:latitude":43.0643,
+    "geom:longitude":-85.935186,
+    "iso:country":"US",
+    "sg:address":"260 Ottawa",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 7060",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zdo3GUdzbZFUOdgwjmHTy_43.064300_-85.935186@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798638,
+    "wof:geomhash":"bb87b2348b8671a38e9f890fc9c32c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706226765
+        }
+    ],
+    "wof:id":706226765,
+    "wof:lastmodified":1461798638,
+    "wof:name":"B & K Auto Glass Inc",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -85.935186,
+    43.0643,
+    -85.935186,
+    43.0643
+],
+  "geometry": {"coordinates":[-85.935186,43.0643],"type":"Point"}
+}

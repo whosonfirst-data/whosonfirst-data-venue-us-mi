@@ -1,0 +1,84 @@
+{
+  "id": 722520753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.854309,43.063019,-83.854309,43.063019",
+    "geom:latitude":43.063019,
+    "geom:longitude":-83.854309,
+    "iso:country":"US",
+    "sg:address":"201 E Main St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 7520",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HvuvJZL3nHVW1D8mEPHhp_43.063019_-83.854309@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813958,
+    "wof:geomhash":"4d3149264cac6ab50486e4b5d4cf9fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":722520753
+        }
+    ],
+    "wof:id":722520753,
+    "wof:lastmodified":1461813958,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.854309,
+    43.063019,
+    -83.854309,
+    43.063019
+],
+  "geometry": {"coordinates":[-83.854309,43.063019],"type":"Point"}
+}

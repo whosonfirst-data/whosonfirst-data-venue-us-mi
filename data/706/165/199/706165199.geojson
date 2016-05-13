@@ -1,0 +1,84 @@
+{
+  "id": 706165199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.834696,42.563901,-84.834696,42.563901",
+    "geom:latitude":42.563901,
+    "geom:longitude":-84.834696,
+    "iso:country":"US",
+    "sg:address":"104 S Washington St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 541 2320",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gu1xqfjVqyo8frcQX9EQB_42.563901_-84.834696@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797329,
+    "wof:geomhash":"7279d1f5e82736ffa0362b16ed9d4919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706165199
+        }
+    ],
+    "wof:id":706165199,
+    "wof:lastmodified":1461797329,
+    "wof:name":"Natural Health Center",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -84.834696,
+    42.563901,
+    -84.834696,
+    42.563901
+],
+  "geometry": {"coordinates":[-84.83469599999999,42.563901],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 722483243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.096784,42.309596,-83.096784,42.309596",
+    "geom:latitude":42.309596,
+    "geom:longitude":-83.096784,
+    "iso:country":"US",
+    "sg:address":"5634 W Fort St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 849 4604",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820253,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pmnCeb6XGd3bBrLkg7cTV_42.309596_-83.096784@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812423,
+    "wof:geomhash":"b5f134d5124b0c886577e1fe33779e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85820253,
+            "region_id":85688599,
+            "venue_id":722483243
+        }
+    ],
+    "wof:id":722483243,
+    "wof:lastmodified":1461812423,
+    "wof:name":"Mauel's Auto Repair",
+    "wof:parent_id":85820253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.096784,
+    42.309596,
+    -83.096784,
+    42.309596
+],
+  "geometry": {"coordinates":[-83.096784,42.309596],"type":"Point"}
+}

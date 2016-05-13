@@ -1,0 +1,73 @@
+{
+  "id": 705954685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.254438,43.20964,-86.254438,43.20964",
+    "geom:latitude":43.20964,
+    "geom:longitude":-86.254438,
+    "iso:country":"US",
+    "sg:address":"2344 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 206 7383",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bgIjKWtP1c8h51aiQqYoW_43.209640_-86.254438@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792636,
+    "wof:geomhash":"34be797c885788db9638a9f18c67b45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705954685
+        }
+    ],
+    "wof:id":705954685,
+    "wof:lastmodified":1461792636,
+    "wof:name":"Uganski Roll-Off Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.254438,
+    43.20964,
+    -86.254438,
+    43.20964
+],
+  "geometry": {"coordinates":[-86.25443799999999,43.20964],"type":"Point"}
+}

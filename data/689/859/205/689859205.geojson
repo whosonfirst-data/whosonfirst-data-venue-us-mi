@@ -1,0 +1,71 @@
+{
+  "id": 689859205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250582,41.783429,-86.250582,41.783429",
+    "geom:latitude":41.783429,
+    "geom:longitude":-86.250582,
+    "iso:country":"US",
+    "sg:address":"2326 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7790",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TE4uHjZ2dnICFIhuW1nGQ_41.783429_-86.250582@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783518,
+    "wof:geomhash":"507400374a58fad247665b2d458860ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689859205
+        }
+    ],
+    "wof:id":689859205,
+    "wof:lastmodified":1461783518,
+    "wof:name":"Tank Town Inc",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.250582,
+    41.783429,
+    -86.250582,
+    41.783429
+],
+  "geometry": {"coordinates":[-86.25058199999999,41.783429],"type":"Point"}
+}

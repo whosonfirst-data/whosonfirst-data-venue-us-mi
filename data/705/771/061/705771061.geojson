@@ -1,0 +1,73 @@
+{
+  "id": 705771061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.553606,42.259552,-85.553606,42.259552",
+    "geom:latitude":42.259552,
+    "geom:longitude":-85.553606,
+    "iso:country":"US",
+    "sg:address":"2210 E Cork St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 343 1226",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28SItncSYeIZJHjkTAX8fu_42.259552_-85.553606@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788321,
+    "wof:geomhash":"87f66cefea47142b5abd4fc469c678f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":705771061
+        }
+    ],
+    "wof:id":705771061,
+    "wof:lastmodified":1461788321,
+    "wof:name":"Emerald Park Apartments",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.553606,
+    42.259552,
+    -85.553606,
+    42.259552
+],
+  "geometry": {"coordinates":[-85.553606,42.259552],"type":"Point"}
+}

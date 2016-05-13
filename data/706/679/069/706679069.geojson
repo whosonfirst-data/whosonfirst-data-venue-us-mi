@@ -1,0 +1,78 @@
+{
+  "id": 706679069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.048338,42.329106,-83.048338,42.329106",
+    "geom:latitude":42.329106,
+    "geom:longitude":-83.048338,
+    "iso:country":"US",
+    "sg:address":"220 W Congress St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/56843-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 963 9116",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891665,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bIg2akssnaruiK7nPow7g_42.329106_-83.048338@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809247,
+    "wof:geomhash":"730aa3a863cd0d08fa0242ce78320774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891665,
+            "region_id":85688599,
+            "venue_id":706679069
+        }
+    ],
+    "wof:id":706679069,
+    "wof:lastmodified":1461809247,
+    "wof:name":"Subway",
+    "wof:parent_id":85891665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.048338,
+    42.329106,
+    -83.048338,
+    42.329106
+],
+  "geometry": {"coordinates":[-83.048338,42.329106],"type":"Point"}
+}

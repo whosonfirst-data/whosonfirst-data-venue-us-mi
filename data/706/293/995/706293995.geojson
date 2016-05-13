@@ -1,0 +1,73 @@
+{
+  "id": 706293995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.468807,46.547073,-87.468807,46.547073",
+    "geom:latitude":46.547073,
+    "geom:longitude":-87.468807,
+    "iso:country":"US",
+    "sg:address":"150 Brickyard Rd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 2320",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nw20IsGtAWT6cZ8LomZYe_46.547073_-87.468807@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800173,
+    "wof:geomhash":"e06b7aef5dc5587a422272f39d779f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706293995
+        }
+    ],
+    "wof:id":706293995,
+    "wof:lastmodified":1461800173,
+    "wof:name":"Harbor Towne Storage",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.468807,
+    46.547073,
+    -87.468807,
+    46.547073
+],
+  "geometry": {"coordinates":[-87.468807,46.547073],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706484761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.395908,44.40375,-85.395908,44.40375",
+    "geom:latitude":44.40375,
+    "geom:longitude":-85.395908,
+    "iso:country":"US",
+    "sg:address":"113 E 7th St",
+    "sg:city":"Manton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 824 3711",
+    "sg:postcode":"49663",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TKuW1kiR4dKpqkStZ2t2W_44.403750_-85.395908@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804187,
+    "wof:geomhash":"c6754cb4b2fbb536c6343cbb962b5cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706484761
+        }
+    ],
+    "wof:id":706484761,
+    "wof:lastmodified":1461804187,
+    "wof:name":"Chris E Ritter DDS",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.395908,
+    44.40375,
+    -85.395908,
+    44.40375
+],
+  "geometry": {"coordinates":[-85.39590800000001,44.40375],"type":"Point"}
+}

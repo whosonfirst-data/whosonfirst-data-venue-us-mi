@@ -1,0 +1,71 @@
+{
+  "id": 706521637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.727583,43.00742,-83.727583,43.00742",
+    "geom:latitude":43.00742,
+    "geom:longitude":-83.727583,
+    "iso:country":"US",
+    "sg:address":"3227 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 5243",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7XBF4aHuseMJ0yZFQRvX_43.007420_-83.727583@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805066,
+    "wof:geomhash":"dbb10891f3e406391c8478bd3bec6211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706521637
+        }
+    ],
+    "wof:id":706521637,
+    "wof:lastmodified":1461805066,
+    "wof:name":"O'Malley & Dover's Trucking Co",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.727583,
+    43.00742,
+    -83.727583,
+    43.00742
+],
+  "geometry": {"coordinates":[-83.727583,43.00742],"type":"Point"}
+}

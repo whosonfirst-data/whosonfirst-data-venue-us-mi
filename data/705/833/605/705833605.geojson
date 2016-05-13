@@ -1,0 +1,69 @@
+{
+  "id": 705833605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.247418,42.783703,-83.247418,42.783703",
+    "geom:latitude":42.783703,
+    "geom:longitude":-83.247418,
+    "iso:country":"US",
+    "sg:address":"135 Grove St",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 0003",
+    "sg:postcode":"48362",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PoL1bCYX1LEHCLKuDJaj8_42.783703_-83.247418@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789814,
+    "wof:geomhash":"017b800ce71caee3516b5ccd7218a3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705833605
+        }
+    ],
+    "wof:id":705833605,
+    "wof:lastmodified":1461789814,
+    "wof:name":"Michigan Radiology PC",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.247418,
+    42.783703,
+    -83.247418,
+    42.783703
+],
+  "geometry": {"coordinates":[-83.247418,42.783703],"type":"Point"}
+}

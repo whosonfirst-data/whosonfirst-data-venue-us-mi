@@ -1,0 +1,88 @@
+{
+  "id": 689851517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.101575,42.550541,-83.101575,42.550541",
+    "geom:latitude":42.550541,
+    "geom:longitude":-83.101575,
+    "iso:country":"US",
+    "sg:address":"2106 Virginia Dr",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 680 8606",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852695,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599,
+        85806041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14uCO79SrNaxQHTh841KhB_42.550541_-83.101575@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783344,
+    "wof:geomhash":"d1070ec85d61b9082d7a12bfaff75b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85852695,
+            "region_id":85688599,
+            "venue_id":689851517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":689851517
+        }
+    ],
+    "wof:id":689851517,
+    "wof:lastmodified":1461783344,
+    "wof:name":"M & K Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.101575,
+    42.550541,
+    -83.101575,
+    42.550541
+],
+  "geometry": {"coordinates":[-83.101575,42.550541],"type":"Point"}
+}

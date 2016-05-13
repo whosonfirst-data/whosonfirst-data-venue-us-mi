@@ -1,0 +1,74 @@
+{
+  "id": 706685425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220346,43.050823,-86.220346,43.050823",
+    "geom:latitude":43.050823,
+    "geom:longitude":-86.220346,
+    "iso:country":"US",
+    "sg:address":"1099 S Beacon Blvd",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-haven/47737-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 850 9700",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xYZJE0BVhXC8nS4jqHG7P_43.050823_-86.220346@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809499,
+    "wof:geomhash":"965430f650d7954fbd1895f8292c47dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":706685425
+        }
+    ],
+    "wof:id":706685425,
+    "wof:lastmodified":1461809499,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -86.220346,
+    43.050823,
+    -86.220346,
+    43.050823
+],
+  "geometry": {"coordinates":[-86.22034600000001,43.050823],"type":"Point"}
+}

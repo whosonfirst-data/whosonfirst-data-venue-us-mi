@@ -1,0 +1,71 @@
+{
+  "id": 689693209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.255463,43.18699,-86.255463,43.18699",
+    "geom:latitude":43.18699,
+    "geom:longitude":-86.255463,
+    "iso:country":"US",
+    "sg:address":"3500 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 4409",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TI5cP9E5yFw0PrMBgocqA_43.186990_-86.255463@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778946,
+    "wof:geomhash":"9ab0f9f5f717fbe8c28a731eab037426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689693209
+        }
+    ],
+    "wof:id":689693209,
+    "wof:lastmodified":1461778946,
+    "wof:name":"Smile Center",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.255463,
+    43.18699,
+    -86.255463,
+    43.18699
+],
+  "geometry": {"coordinates":[-86.25546300000001,43.18699],"type":"Point"}
+}

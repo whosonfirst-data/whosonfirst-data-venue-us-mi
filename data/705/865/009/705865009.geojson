@@ -1,0 +1,79 @@
+{
+  "id": 705865009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.736331,42.304327,-83.736331,42.304327",
+    "geom:latitude":42.304327,
+    "geom:longitude":-83.736331,
+    "iso:country":"US",
+    "sg:address":"2140 Delafield Dr",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 930 6504",
+    "sg:postcode":"48105",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866997,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HTx0Rqvk6QByc4o4fXozx_42.304327_-83.736331@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790555,
+    "wof:geomhash":"895e7a400f5c43721de798b7ae597225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85866997,
+            "region_id":85688599,
+            "venue_id":705865009
+        }
+    ],
+    "wof:id":705865009,
+    "wof:lastmodified":1461790555,
+    "wof:name":"Corner Stone Trucking Co",
+    "wof:parent_id":85866997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.736331,
+    42.304327,
+    -83.736331,
+    42.304327
+],
+  "geometry": {"coordinates":[-83.73633100000001,42.304327],"type":"Point"}
+}

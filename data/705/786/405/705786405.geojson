@@ -1,0 +1,77 @@
+{
+  "id": 705786405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.007778,42.34468,-83.007778,42.34468",
+    "geom:latitude":42.34468,
+    "geom:longitude":-83.007778,
+    "iso:country":"US",
+    "sg:address":"6465 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 259 3995",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870599,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16PM6C8uXPq2uieDbVGl2V_42.344680_-83.007778@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788720,
+    "wof:geomhash":"02ab80f915b3a50455fa33453961d78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870599,
+            "region_id":85688599,
+            "venue_id":705786405
+        }
+    ],
+    "wof:id":705786405,
+    "wof:lastmodified":1461788720,
+    "wof:name":"Henderson Glass Inc",
+    "wof:parent_id":85870599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -83.007778,
+    42.34468,
+    -83.007778,
+    42.34468
+],
+  "geometry": {"coordinates":[-83.007778,42.34468],"type":"Point"}
+}

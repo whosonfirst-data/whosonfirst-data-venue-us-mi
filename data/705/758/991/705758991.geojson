@@ -1,0 +1,75 @@
+{
+  "id": 705758991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.558236,43.118918,-85.558236,43.118918",
+    "geom:latitude":43.118918,
+    "geom:longitude":-85.558236,
+    "iso:country":"US",
+    "sg:address":"7 S Monroe St NE",
+    "sg:city":"Rockford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 866 1553",
+    "sg:postcode":"49341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ivyvKfIOZsW3Cm0RuVNiP_43.118918_-85.558236@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788071,
+    "wof:geomhash":"144f56ce5a8aeb795dc1e5ce9ca73a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":705758991
+        }
+    ],
+    "wof:id":705758991,
+    "wof:lastmodified":1461788071,
+    "wof:name":"Rockford Fire Dept",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.558236,
+    43.118918,
+    -85.558236,
+    43.118918
+],
+  "geometry": {"coordinates":[-85.55823599999999,43.118918],"type":"Point"}
+}

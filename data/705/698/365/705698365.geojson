@@ -1,0 +1,71 @@
+{
+  "id": 705698365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.609264,41.735273,-83.609264,41.735273",
+    "geom:latitude":41.735273,
+    "geom:longitude":-83.609264,
+    "iso:country":"US",
+    "sg:address":"2600 Smith Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 2255",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vZi1PGswlL5XiYFuSkJmG_41.735273_-83.609264@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786431,
+    "wof:geomhash":"bbc516ccd675470b426319eec7647fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":705698365
+        }
+    ],
+    "wof:id":705698365,
+    "wof:lastmodified":1461786431,
+    "wof:name":"Janowicz Sheet Metal",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.609264,
+    41.735273,
+    -83.609264,
+    41.735273
+],
+  "geometry": {"coordinates":[-83.609264,41.735273],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 689812849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.11034,42.425275,-83.11034,42.425275",
+    "geom:latitude":42.425275,
+    "geom:longitude":-83.11034,
+    "iso:country":"US",
+    "sg:address":"18100 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 869 5000",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870525,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Bii8UaJACXFFzSFy0YeC_42.425275_-83.110340@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782279,
+    "wof:geomhash":"0b73a96710701c1fa25df495ad46cbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870525,
+            "region_id":85688599,
+            "venue_id":689812849
+        }
+    ],
+    "wof:id":689812849,
+    "wof:lastmodified":1461782279,
+    "wof:name":"Park Leasing Company",
+    "wof:parent_id":85870525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.11034,
+    42.425275,
+    -83.11034,
+    42.425275
+],
+  "geometry": {"coordinates":[-83.11033999999999,42.425275],"type":"Point"}
+}

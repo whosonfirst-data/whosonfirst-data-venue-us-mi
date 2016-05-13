@@ -1,0 +1,72 @@
+{
+  "id": 706701155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.899399,42.6012,-82.899399,42.6012",
+    "geom:latitude":42.6012,
+    "geom:longitude":-82.899399,
+    "iso:country":"US",
+    "sg:address":"54 N Groesbeck Hwy",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 465 5551",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q6frc41ZptgzwKYbO2pzH_42.601200_-82.899399@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810126,
+    "wof:geomhash":"948cd422fcf775b630caa2583d45cc72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706701155
+        }
+    ],
+    "wof:id":706701155,
+    "wof:lastmodified":1461810126,
+    "wof:name":"Burger King",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -82.899399,
+    42.6012,
+    -82.899399,
+    42.6012
+],
+  "geometry": {"coordinates":[-82.899399,42.6012],"type":"Point"}
+}

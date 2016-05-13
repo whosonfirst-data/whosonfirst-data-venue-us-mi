@@ -1,0 +1,79 @@
+{
+  "id": 706291521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.464074,42.220597,-83.464074,42.220597",
+    "geom:latitude":42.220597,
+    "geom:longitude":-83.464074,
+    "iso:country":"US",
+    "sg:address":"11275 Oak Ln",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 8742",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85820681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01tEVj8TDPX6ZBeQPfFkcM_42.220597_-83.464074@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800123,
+    "wof:geomhash":"540089a2085139bf830b9511fe919531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706291521
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706291521
+        }
+    ],
+    "wof:id":706291521,
+    "wof:lastmodified":1461800123,
+    "wof:name":"Southport Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.464074,
+    42.220597,
+    -83.464074,
+    42.220597
+],
+  "geometry": {"coordinates":[-83.464074,42.220597],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706402967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261192,43.285937,-86.261192,43.285937",
+    "geom:latitude":43.285937,
+    "geom:longitude":-86.261192,
+    "iso:country":"US",
+    "sg:address":"1920 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 2471",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LtJMjK1fOQBnnQtYm3Ra7_43.285937_-86.261192@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802459,
+    "wof:geomhash":"36fbad60d8037cfe7c78e7100990882d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706402967
+        }
+    ],
+    "wof:id":706402967,
+    "wof:lastmodified":1461802459,
+    "wof:name":"Aarrow Auto Sales",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.261192,
+    43.285937,
+    -86.261192,
+    43.285937
+],
+  "geometry": {"coordinates":[-86.26119199999999,43.285937],"type":"Point"}
+}

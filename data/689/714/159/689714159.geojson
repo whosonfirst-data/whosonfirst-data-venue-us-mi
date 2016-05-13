@@ -1,0 +1,73 @@
+{
+  "id": 689714159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.456112,42.620089,-83.456112,42.620089",
+    "geom:latitude":42.620089,
+    "geom:longitude":-83.456112,
+    "iso:country":"US",
+    "sg:address":"8687 Cooley Beach Dr",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 360 9325",
+    "sg:postcode":"48386",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49CHPZvTX37eLeeCVXP5c6_42.620089_-83.456112@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779505,
+    "wof:geomhash":"1d672b8420b54dc33c4439a5fdc36734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":689714159
+        }
+    ],
+    "wof:id":689714159,
+    "wof:lastmodified":1461779505,
+    "wof:name":"Rite Way Delivery",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.456112,
+    42.620089,
+    -83.456112,
+    42.620089
+],
+  "geometry": {"coordinates":[-83.456112,42.620089],"type":"Point"}
+}

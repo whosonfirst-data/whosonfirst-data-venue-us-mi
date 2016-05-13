@@ -1,0 +1,71 @@
+{
+  "id": 706511683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.114691,43.234746,-86.114691,43.234746",
+    "geom:latitude":43.234746,
+    "geom:longitude":-86.114691,
+    "iso:country":"US",
+    "sg:address":"5311 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 3570",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZUxsGaEYp9fzs4gaZYTHE_43.234746_-86.114691@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804880,
+    "wof:geomhash":"87ff5e5db4965db83ee8a63a0c341a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706511683
+        }
+    ],
+    "wof:id":706511683,
+    "wof:lastmodified":1461804880,
+    "wof:name":"Town & Country Grocery",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.114691,
+    43.234746,
+    -86.114691,
+    43.234746
+],
+  "geometry": {"coordinates":[-86.11469099999999,43.234746],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 705866221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.705444,43.020395,-83.705444,43.020395",
+    "geom:latitude":43.020395,
+    "geom:longitude":-83.705444,
+    "iso:country":"US",
+    "sg:address":"1011 Patrick St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 234 0226",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877383,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bHd4Hk2wQrGCn1AzdUmI5_43.020395_-83.705444@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790586,
+    "wof:geomhash":"ea8b3776ad01144e604b95d69d1e3268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877383,
+            "region_id":85688599,
+            "venue_id":705866221
+        }
+    ],
+    "wof:id":705866221,
+    "wof:lastmodified":1461790586,
+    "wof:name":"Genesee Medical Anesthesia",
+    "wof:parent_id":85877383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.705444,
+    43.020395,
+    -83.705444,
+    43.020395
+],
+  "geometry": {"coordinates":[-83.705444,43.020395],"type":"Point"}
+}

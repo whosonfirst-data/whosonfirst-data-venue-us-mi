@@ -1,0 +1,71 @@
+{
+  "id": 706115141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.535632,42.242379,-85.535632,42.242379",
+    "geom:latitude":42.242379,
+    "geom:longitude":-85.535632,
+    "iso:country":"US",
+    "sg:address":"5185 Meredith St",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 388 8167",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ly8DSm7IXI7UQzu9muaI7_42.242379_-85.535632@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796141,
+    "wof:geomhash":"6060e27407255576402c3836aadf8ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706115141
+        }
+    ],
+    "wof:id":706115141,
+    "wof:lastmodified":1461796141,
+    "wof:name":"Sprinkle Car Wash",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.535632,
+    42.242379,
+    -85.535632,
+    42.242379
+],
+  "geometry": {"coordinates":[-85.53563200000001,42.242379],"type":"Point"}
+}

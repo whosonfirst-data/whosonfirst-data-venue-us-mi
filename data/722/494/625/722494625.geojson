@@ -1,0 +1,71 @@
+{
+  "id": 722494625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.061784,42.327397,-83.061784,42.327397",
+    "geom:latitude":42.327397,
+    "geom:longitude":-83.061784,
+    "iso:country":"US",
+    "sg:address":"1400 Howard Street",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 965 6350",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:website":"www.michigan.gov/mdot/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870535,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_095x0gz9qjGLFXhoVMumR9_42.327397_-83.061784@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812874,
+    "wof:geomhash":"df2690606a9d56312d573f52ce5598f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870535,
+            "region_id":85688599,
+            "venue_id":722494625
+        }
+    ],
+    "wof:id":722494625,
+    "wof:lastmodified":1461812874,
+    "wof:name":"Michigan Department of Transportation",
+    "wof:parent_id":85870535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.061784,
+    42.327397,
+    -83.061784,
+    42.327397
+],
+  "geometry": {"coordinates":[-83.061784,42.327397],"type":"Point"}
+}

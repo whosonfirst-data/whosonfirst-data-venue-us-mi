@@ -1,0 +1,71 @@
+{
+  "id": 706507673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.964722,43.059972,-85.964722,43.059972",
+    "geom:latitude":43.059972,
+    "geom:longitude":-85.964722,
+    "iso:country":"US",
+    "sg:address":"7191 Arthur St W",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 6691",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76DG7nzHb5hlAyQrvi2Ekx_43.059972_-85.964722@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804799,
+    "wof:geomhash":"2e50d52ae3838bfb26048ca0831c205b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706507673
+        }
+    ],
+    "wof:id":706507673,
+    "wof:lastmodified":1461804799,
+    "wof:name":"Johns Towing Service Inc",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.964722,
+    43.059972,
+    -85.964722,
+    43.059972
+],
+  "geometry": {"coordinates":[-85.96472199999999,43.059972],"type":"Point"}
+}

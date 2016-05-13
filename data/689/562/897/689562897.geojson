@@ -1,0 +1,78 @@
+{
+  "id": 689562897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.788649,42.587994,-82.788649,42.587994",
+    "geom:latitude":42.587994,
+    "geom:longitude":-82.788649,
+    "iso:country":"US",
+    "sg:address":"38895 Lakeshore Dr",
+    "sg:city":"Harrison Twp",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 0433",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "airport",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M3E7hmFufwzsdzZmho0E7_42.587994_-82.788649@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775102,
+    "wof:geomhash":"0368adb3d465fc5abc08adb9a474f108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":689562897
+        }
+    ],
+    "wof:id":689562897,
+    "wof:lastmodified":1461775102,
+    "wof:name":"Blazer Delivery & Shuttle Svc",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "airport",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.788649,
+    42.587994,
+    -82.788649,
+    42.587994
+],
+  "geometry": {"coordinates":[-82.78864900000001,42.587994],"type":"Point"}
+}

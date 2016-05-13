@@ -1,0 +1,79 @@
+{
+  "id": 689926985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603141,42.678641,-84.603141,42.678641",
+    "geom:latitude":42.678641,
+    "geom:longitude":-84.603141,
+    "iso:country":"US",
+    "sg:address":"5410 S Waverly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 6003",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "auto",
+        "salvage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005,
+        85840163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IvzAfbgblcPfeupmyHopi_42.678641_-84.603141@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785287,
+    "wof:geomhash":"cb4a9d549b7766fa565d63b1489b97f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":689926985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":689926985
+        }
+    ],
+    "wof:id":689926985,
+    "wof:lastmodified":1461785287,
+    "wof:name":"Huckaba Auto Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "salvage"
+    ]
+},
+  "bbox": [
+    -84.603141,
+    42.678641,
+    -84.603141,
+    42.678641
+],
+  "geometry": {"coordinates":[-84.60314099999999,42.678641],"type":"Point"}
+}

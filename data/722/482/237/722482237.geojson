@@ -1,0 +1,89 @@
+{
+  "id": 722482237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.016701,42.3409,-83.016701,42.3409",
+    "geom:latitude":42.3409,
+    "geom:longitude":-83.016701,
+    "iso:country":"US",
+    "sg:address":"3171 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 259 7272",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "style",
+        "pizza",
+        "take",
+        "family",
+        "italian"
+    ],
+    "sg:website":"www.pizzapapalis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870599,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ydD9Mz5gk5qtXBbFJHFYk_42.340900_-83.016701@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812379,
+    "wof:geomhash":"3164cb22bcb2bee4549bed606fec57bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870599,
+            "region_id":85688599,
+            "venue_id":722482237
+        }
+    ],
+    "wof:id":722482237,
+    "wof:lastmodified":1461812379,
+    "wof:name":"PizzaPapalis",
+    "wof:parent_id":85870599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "pizza",
+        "take",
+        "family",
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.016701,
+    42.3409,
+    -83.016701,
+    42.3409
+],
+  "geometry": {"coordinates":[-83.016701,42.3409],"type":"Point"}
+}

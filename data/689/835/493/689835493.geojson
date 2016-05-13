@@ -1,0 +1,73 @@
+{
+  "id": 689835493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.951048,42.572978,-82.951048,42.572978",
+    "geom:latitude":42.572978,
+    "geom:longitude":-82.951048,
+    "iso:country":"US",
+    "sg:address":"37500 Garfield Rd",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 226 2163",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cn11oYm4kWLFgsmvbNcGY_42.572978_-82.951048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783011,
+    "wof:geomhash":"71cf6302221dcb794f0e965de0887209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":689835493
+        }
+    ],
+    "wof:id":689835493,
+    "wof:lastmodified":1461783011,
+    "wof:name":"Associates In Psychiatry",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.951048,
+    42.572978,
+    -82.951048,
+    42.572978
+],
+  "geometry": {"coordinates":[-82.951048,42.572978],"type":"Point"}
+}

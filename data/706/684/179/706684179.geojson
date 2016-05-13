@@ -1,0 +1,76 @@
+{
+  "id": 706684179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436621,42.081406,-86.436621,42.081406",
+    "geom:latitude":42.081406,
+    "geom:longitude":-86.436621,
+    "iso:country":"US",
+    "sg:address":"1986 M 139",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/benton/182251-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 2510",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77iHEmoNAkUL9wf88X7AwZ_42.081406_-86.436621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809455,
+    "wof:geomhash":"9ab56e6ab3e82fe7600bf96b240107b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706684179
+        }
+    ],
+    "wof:id":706684179,
+    "wof:lastmodified":1461809455,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.436621,
+    42.081406,
+    -86.436621,
+    42.081406
+],
+  "geometry": {"coordinates":[-86.436621,42.081406],"type":"Point"}
+}

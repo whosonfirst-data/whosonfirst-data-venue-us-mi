@@ -1,0 +1,71 @@
+{
+  "id": 706574783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641219,44.768819,-85.641219,44.768819",
+    "geom:latitude":44.768819,
+    "geom:longitude":-85.641219,
+    "iso:country":"US",
+    "sg:address":"413 N Monroe St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 1605",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "center",
+        "daycare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jQTiLmNgI4tIOaSR1bEAC_44.768819_-85.641219@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806175,
+    "wof:geomhash":"055ecda924598218416ebc30b84311e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706574783
+        }
+    ],
+    "wof:id":706574783,
+    "wof:lastmodified":1461806175,
+    "wof:name":"Monroe Daycare",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "daycare"
+    ]
+},
+  "bbox": [
+    -85.641219,
+    44.768819,
+    -85.641219,
+    44.768819
+],
+  "geometry": {"coordinates":[-85.64121900000001,44.768819],"type":"Point"}
+}

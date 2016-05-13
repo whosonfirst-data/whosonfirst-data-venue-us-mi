@@ -1,0 +1,77 @@
+{
+  "id": 706065445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.556205,43.092052,-83.556205,43.092052",
+    "geom:latitude":43.092052,
+    "geom:longitude":-83.556205,
+    "iso:country":"US",
+    "sg:address":"8115 E Coldwater Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 653 5614",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "generation",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_145xamROstGVq83IeEPxYw_43.092052_-83.556205@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794927,
+    "wof:geomhash":"8ddd911e105ecaa58af82556cccd8253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706065445
+        }
+    ],
+    "wof:id":706065445,
+    "wof:lastmodified":1461794927,
+    "wof:name":"Wind Power Management",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generation",
+        "power"
+    ]
+},
+  "bbox": [
+    -83.556205,
+    43.092052,
+    -83.556205,
+    43.092052
+],
+  "geometry": {"coordinates":[-83.55620500000001,43.092052],"type":"Point"}
+}

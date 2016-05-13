@@ -1,0 +1,71 @@
+{
+  "id": 706012753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.751754,43.018464,-83.751754,43.018464",
+    "geom:latitude":43.018464,
+    "geom:longitude":-83.751754,
+    "iso:country":"US",
+    "sg:address":"3535 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 0930",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CGJWUQ7RaIpmzWgOIMgej_43.018464_-83.751754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793850,
+    "wof:geomhash":"6d2d80ad10bbec3cac45057abccd3499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706012753
+        }
+    ],
+    "wof:id":706012753,
+    "wof:lastmodified":1461793850,
+    "wof:name":"A Bruce Dresbach DDS",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.751754,
+    43.018464,
+    -83.751754,
+    43.018464
+],
+  "geometry": {"coordinates":[-83.75175400000001,43.018464],"type":"Point"}
+}

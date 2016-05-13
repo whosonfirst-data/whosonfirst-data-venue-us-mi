@@ -1,0 +1,84 @@
+{
+  "id": 705763245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.06622,42.804857,-86.06622,42.804857",
+    "geom:latitude":42.804857,
+    "geom:longitude":-86.06622,
+    "iso:country":"US",
+    "sg:address":"11598 E Lakewood Blvd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 1115",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "rewinding",
+        "equipment",
+        "electrical",
+        "armature"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20rMFsagtpijKD3cmV7Y08_42.804857_-86.066220@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788160,
+    "wof:geomhash":"cbfd70630ef2a1faf5c5e93e8f61912c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":705763245
+        }
+    ],
+    "wof:id":705763245,
+    "wof:lastmodified":1461788160,
+    "wof:name":"Holland Electric Motor Co",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "rewinding",
+        "equipment",
+        "electrical",
+        "armature"
+    ]
+},
+  "bbox": [
+    -86.06622,
+    42.804857,
+    -86.06622,
+    42.804857
+],
+  "geometry": {"coordinates":[-86.06622,42.804857],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689569503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899298,42.527823,-85.899298,42.527823",
+    "geom:latitude":42.527823,
+    "geom:longitude":-85.899298,
+    "iso:country":"US",
+    "sg:address":"3632 115th Ave",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 4541",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hgllY8G8UjQDAHYLgjOOF_42.527823_-85.899298@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775274,
+    "wof:geomhash":"22723eb8bcc776fc796434605a8a41f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689569503
+        }
+    ],
+    "wof:id":689569503,
+    "wof:lastmodified":1461775274,
+    "wof:name":"Eric Whitaker",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.899298,
+    42.527823,
+    -85.899298,
+    42.527823
+],
+  "geometry": {"coordinates":[-85.899298,42.527823],"type":"Point"}
+}

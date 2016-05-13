@@ -1,0 +1,71 @@
+{
+  "id": 689903053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755177,42.238728,-85.755177,42.238728",
+    "geom:latitude":42.238728,
+    "geom:longitude":-85.755177,
+    "iso:country":"US",
+    "sg:address":"5415 S 1st St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 6962",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EGxzx98TOj9n0wnLrOnBc_42.238728_-85.755177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784659,
+    "wof:geomhash":"c52ff595491ac7ab71e4fde0e66c949e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":689903053
+        }
+    ],
+    "wof:id":689903053,
+    "wof:lastmodified":1461784659,
+    "wof:name":"Pride Plumbing & Mechanical",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.755177,
+    42.238728,
+    -85.755177,
+    42.238728
+],
+  "geometry": {"coordinates":[-85.755177,42.238728],"type":"Point"}
+}

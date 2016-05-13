@@ -1,0 +1,73 @@
+{
+  "id": 706285469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418133,42.679215,-83.418133,42.679215",
+    "geom:latitude":42.679215,
+    "geom:longitude":-83.418133,
+    "iso:country":"US",
+    "sg:address":"6406 Crest Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 886 1188",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wc75bAYuNkr0LKO390Csb_42.679215_-83.418133@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799985,
+    "wof:geomhash":"e0fe0c51da24d43d153a2e4b71ebdddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706285469
+        }
+    ],
+    "wof:id":706285469,
+    "wof:lastmodified":1461799985,
+    "wof:name":"Ss Trucking",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.418133,
+    42.679215,
+    -83.418133,
+    42.679215
+],
+  "geometry": {"coordinates":[-83.418133,42.679215],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705855499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.77302,43.059765,-83.77302,43.059765",
+    "geom:latitude":43.059765,
+    "geom:longitude":-83.77302,
+    "iso:country":"US",
+    "sg:address":"3511 N Linden Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 4551",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cs1RpUJP5j8mVLdCa3iQt_43.059765_-83.773020@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790316,
+    "wof:geomhash":"37a844f577233ddc498679988e4ae92f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705855499
+        }
+    ],
+    "wof:id":705855499,
+    "wof:lastmodified":1461790316,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -83.77302,
+    43.059765,
+    -83.77302,
+    43.059765
+],
+  "geometry": {"coordinates":[-83.77302,43.059765],"type":"Point"}
+}

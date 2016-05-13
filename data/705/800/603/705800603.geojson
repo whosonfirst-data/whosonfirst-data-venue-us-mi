@@ -1,0 +1,75 @@
+{
+  "id": 705800603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.935567,43.198602,-85.935567,43.198602",
+    "geom:latitude":43.198602,
+    "geom:longitude":-85.935567,
+    "iso:country":"US",
+    "sg:address":"3160 S Slocum Rd",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 6105",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FqBGVvUGGP0nhctyLq9nh_43.198602_-85.935567@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789030,
+    "wof:geomhash":"0ae73a3aa88f9b7179262fb7ea1506e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705800603
+        }
+    ],
+    "wof:id":705800603,
+    "wof:lastmodified":1461789030,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.935567,
+    43.198602,
+    -85.935567,
+    43.198602
+],
+  "geometry": {"coordinates":[-85.93556700000001,43.198602],"type":"Point"}
+}

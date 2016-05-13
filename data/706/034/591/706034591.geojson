@@ -1,0 +1,73 @@
+{
+  "id": 706034591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263422,43.195202,-86.263422,43.195202",
+    "geom:latitude":43.195202,
+    "geom:longitude":-86.263422,
+    "iso:country":"US",
+    "sg:address":"3385 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 4159",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QpyzHySKCTjmEDe5c3yHz_43.195202_-86.263422@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794300,
+    "wof:geomhash":"1d867b4390fae50fac7416ec2e8ab4f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706034591
+        }
+    ],
+    "wof:id":706034591,
+    "wof:lastmodified":1461794300,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -86.263422,
+    43.195202,
+    -86.263422,
+    43.195202
+],
+  "geometry": {"coordinates":[-86.26342200000001,43.195202],"type":"Point"}
+}

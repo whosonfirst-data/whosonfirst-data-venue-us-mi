@@ -1,0 +1,73 @@
+{
+  "id": 705775803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.083813,46.479839,-90.083813,46.479839",
+    "geom:latitude":46.479839,
+    "geom:longitude":-90.083813,
+    "iso:country":"US",
+    "sg:address":"10531 Puritan Rd",
+    "sg:city":"Bessemer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 663 0349",
+    "sg:postcode":"49911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951285,
+        102083009,
+        85859297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kD5Vzp66IlayejsH2Imcb_46.479839_-90.083813@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788443,
+    "wof:geomhash":"410784f5fc7ef316dfa2aa29fea130c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951285,
+            "neighbourhood_id":85859297,
+            "region_id":85688599,
+            "venue_id":705775803
+        }
+    ],
+    "wof:id":705775803,
+    "wof:lastmodified":1461788443,
+    "wof:name":"Mark's Car Care",
+    "wof:parent_id":85859297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.083813,
+    46.479839,
+    -90.083813,
+    46.479839
+],
+  "geometry": {"coordinates":[-90.08381300000001,46.479839],"type":"Point"}
+}

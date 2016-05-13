@@ -1,0 +1,73 @@
+{
+  "id": 705802115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.593951,43.007887,-85.593951,43.007887",
+    "geom:latitude":43.007887,
+    "geom:longitude":-85.593951,
+    "iso:country":"US",
+    "sg:address":"2472 Appleton Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 364 4567",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mNgIyMgANsQC2OxUvfqXf_43.007887_-85.593951@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789063,
+    "wof:geomhash":"a22c6577a8db1e59ffa956e970807e4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":705802115
+        }
+    ],
+    "wof:id":705802115,
+    "wof:lastmodified":1461789063,
+    "wof:name":"David Chitwood Painting",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.593951,
+    43.007887,
+    -85.593951,
+    43.007887
+],
+  "geometry": {"coordinates":[-85.593951,43.007887],"type":"Point"}
+}

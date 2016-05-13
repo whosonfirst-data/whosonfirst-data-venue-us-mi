@@ -1,0 +1,73 @@
+{
+  "id": 705989661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.455943,42.588826,-84.455943,42.588826",
+    "geom:latitude":42.588826,
+    "geom:longitude":-84.455943,
+    "iso:country":"US",
+    "sg:address":"715 Curtis St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 7665",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hGXyYcdW57y2PCDe6bQy0_42.588826_-84.455943@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793363,
+    "wof:geomhash":"a846177de82ed79105135e46a3871746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705989661
+        }
+    ],
+    "wof:id":705989661,
+    "wof:lastmodified":1461793363,
+    "wof:name":"Living Arts Dance Studio",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.455943,
+    42.588826,
+    -84.455943,
+    42.588826
+],
+  "geometry": {"coordinates":[-84.455943,42.588826],"type":"Point"}
+}

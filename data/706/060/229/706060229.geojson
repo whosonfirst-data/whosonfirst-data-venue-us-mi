@@ -1,0 +1,69 @@
+{
+  "id": 706060229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.136035,42.741466,-83.136035,42.741466",
+    "geom:latitude":42.741466,
+    "geom:longitude":-83.136035,
+    "iso:country":"US",
+    "sg:address":"3175 N Rochester Rd",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 844 5006",
+    "sg:postcode":"48306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896789,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAvli0agiQbkwOwaq3rZR_42.741466_-83.136035@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794817,
+    "wof:geomhash":"08869a62eb900a433b1eee55fd79d52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896789,
+            "region_id":85688599,
+            "venue_id":706060229
+        }
+    ],
+    "wof:id":706060229,
+    "wof:lastmodified":1461794817,
+    "wof:name":"Meijer",
+    "wof:parent_id":85896789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.136035,
+    42.741466,
+    -83.136035,
+    42.741466
+],
+  "geometry": {"coordinates":[-83.13603500000001,42.741466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706103025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.291563,43.216105,-86.291563,43.216105",
+    "geom:latitude":43.216105,
+    "geom:longitude":-86.291563,
+    "iso:country":"US",
+    "sg:address":"1950 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 2254",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78U256wVCivlNSVBur9n4p_43.216105_-86.291563@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795846,
+    "wof:geomhash":"d682ecaf7938a77d9822a514aa4b0916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706103025
+        }
+    ],
+    "wof:id":706103025,
+    "wof:lastmodified":1461795846,
+    "wof:name":"Sugar Shack Lakeside",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -86.291563,
+    43.216105,
+    -86.291563,
+    43.216105
+],
+  "geometry": {"coordinates":[-86.291563,43.216105],"type":"Point"}
+}

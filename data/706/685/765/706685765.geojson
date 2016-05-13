@@ -1,0 +1,82 @@
+{
+  "id": 706685765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.267071,43.205351,-86.267071,43.205351",
+    "geom:latitude":43.205351,
+    "geom:longitude":-86.267071,
+    "iso:country":"US",
+    "sg:address":"954 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/roosevelt-park/163057-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 6462",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eARvB1KkBZ7mawq8jeMBJ_43.205351_-86.267071@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809512,
+    "wof:geomhash":"bf19f76ce816098509df961bbc3945b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685765
+        }
+    ],
+    "wof:id":706685765,
+    "wof:lastmodified":1461809512,
+    "wof:name":"Rally's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.267071,
+    43.205351,
+    -86.267071,
+    43.205351
+],
+  "geometry": {"coordinates":[-86.267071,43.205351],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 689669465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685036,42.897085,-85.685036,42.897085",
+    "geom:latitude":42.897085,
+    "geom:longitude":-85.685036,
+    "iso:country":"US",
+    "sg:address":"3625 Clyde Park Ave SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 532 9034",
+    "sg:postcode":"49509",
+    "sg:province":"MI",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "testing",
+        "drug",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NqvAk4yp8JHIaEhSQPs79_42.897085_-85.685036@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778367,
+    "wof:geomhash":"3bb8d35f2b63bbf11db386d305d0b3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":689669465
+        }
+    ],
+    "wof:id":689669465,
+    "wof:lastmodified":1461778367,
+    "wof:name":"Drug Screens Plus",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "testing",
+        "drug",
+        "facility"
+    ]
+},
+  "bbox": [
+    -85.685036,
+    42.897085,
+    -85.685036,
+    42.897085
+],
+  "geometry": {"coordinates":[-85.685036,42.897085],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 705979663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.02126,42.80356,-86.02126,42.80356",
+    "geom:latitude":42.80356,
+    "geom:longitude":-86.02126,
+    "iso:country":"US",
+    "sg:address":"2 Royal Park Dr",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 748 0522",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nd1IV8d2aO9fWk2nE2W3G_42.803560_-86.021260@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793163,
+    "wof:geomhash":"bee6fc2c261866394219a0529997b77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":705979663
+        }
+    ],
+    "wof:id":705979663,
+    "wof:lastmodified":1461793163,
+    "wof:name":"Gambro Healthcare Inc",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -86.02126,
+    42.80356,
+    -86.02126,
+    42.80356
+],
+  "geometry": {"coordinates":[-86.02126,42.80356],"type":"Point"}
+}

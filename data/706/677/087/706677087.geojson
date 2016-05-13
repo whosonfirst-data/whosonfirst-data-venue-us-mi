@@ -1,0 +1,72 @@
+{
+  "id": 706677087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.68096,42.255304,-83.68096,42.255304",
+    "geom:latitude":42.255304,
+    "geom:longitude":-83.68096,
+    "iso:country":"US",
+    "sg:address":"2222 Hogback Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/pittsfield/273157-yotsuba-japanese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 971 5168",
+    "sg:postcode":"48105",
+    "sg:province":"MI",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875953,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j1xfbZ19tyVwMnAl8G74c_42.255304_-83.680960@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809166,
+    "wof:geomhash":"1d9156f709e2c41cf080ffa8d202e961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875953,
+            "region_id":85688599,
+            "venue_id":706677087
+        }
+    ],
+    "wof:id":706677087,
+    "wof:lastmodified":1461809166,
+    "wof:name":"Yotsuba Japanese Restaurant",
+    "wof:parent_id":85875953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -83.68096,
+    42.255304,
+    -83.68096,
+    42.255304
+],
+  "geometry": {"coordinates":[-83.68096,42.255304],"type":"Point"}
+}

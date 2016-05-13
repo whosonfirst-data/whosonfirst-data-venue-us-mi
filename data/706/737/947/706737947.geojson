@@ -1,0 +1,84 @@
+{
+  "id": 706737947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.205299,42.091,-83.205299,42.091",
+    "geom:latitude":42.091,
+    "geom:longitude":-83.205299,
+    "iso:country":"US",
+    "sg:address":"29503 W Jefferson Ave",
+    "sg:city":"Rockwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 675 5020",
+    "sg:postcode":"48173",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810667,
+        102191575,
+        404506399,
+        85633793,
+        85951117,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L7WfRJzT8iu0JkTT4mWZY_42.091000_-83.205299@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811733,
+    "wof:geomhash":"a0fede06c331b9d6498b7706baa90329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506399,
+            "locality_id":85951117,
+            "neighbourhood_id":85810667,
+            "region_id":85688599,
+            "venue_id":706737947
+        }
+    ],
+    "wof:id":706737947,
+    "wof:lastmodified":1461811733,
+    "wof:name":"Gibraltar Veterinary Hospital",
+    "wof:parent_id":85810667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.205299,
+    42.091,
+    -83.205299,
+    42.091
+],
+  "geometry": {"coordinates":[-83.205299,42.091],"type":"Point"}
+}

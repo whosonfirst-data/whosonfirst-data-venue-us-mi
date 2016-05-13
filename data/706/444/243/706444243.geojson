@@ -1,0 +1,73 @@
+{
+  "id": 706444243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.743486,42.095432,-85.743486,42.095432",
+    "geom:latitude":42.095432,
+    "geom:longitude":-85.743486,
+    "iso:country":"US",
+    "sg:address":"15220 S 2nd St",
+    "sg:city":"Schoolcraft",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 679 5416",
+    "sg:postcode":"49087",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VB1EKhr8VUxNgyNiIEWLe_42.095432_-85.743486@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803308,
+    "wof:geomhash":"bd6d3116d9f334f6d24daecdc7232195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706444243
+        }
+    ],
+    "wof:id":706444243,
+    "wof:lastmodified":1461803308,
+    "wof:name":"Northern Auto Body",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.743486,
+    42.095432,
+    -85.743486,
+    42.095432
+],
+  "geometry": {"coordinates":[-85.743486,42.095432],"type":"Point"}
+}

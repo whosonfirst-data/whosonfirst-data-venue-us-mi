@@ -1,0 +1,69 @@
+{
+  "id": 705885301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671676,42.435545,-85.671676,42.435545",
+    "geom:latitude":42.435545,
+    "geom:longitude":-85.671676,
+    "iso:country":"US",
+    "sg:address":"1265 102nd Ave",
+    "sg:city":"Plainwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 685 8555",
+    "sg:postcode":"49080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y6NbsB6GOeczJiN6G4tIU_42.435545_-85.671676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791060,
+    "wof:geomhash":"854b8450f7b1fac46a2cdb78b8a28695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":705885301
+        }
+    ],
+    "wof:id":705885301,
+    "wof:lastmodified":1461791060,
+    "wof:name":"Hambrights Towing",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.671676,
+    42.435545,
+    -85.671676,
+    42.435545
+],
+  "geometry": {"coordinates":[-85.67167600000001,42.435545],"type":"Point"}
+}

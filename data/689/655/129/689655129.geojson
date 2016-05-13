@@ -1,0 +1,74 @@
+{
+  "id": 689655129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.441104,43.025512,-82.441104,43.025512",
+    "geom:latitude":43.025512,
+    "geom:longitude":-82.441104,
+    "iso:country":"US",
+    "sg:address":"1501 Kraft Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 985 5125",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.bluewaterclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NRr64Kd9lo13zGHgJJ1y2_43.025512_-82.441104@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777997,
+    "wof:geomhash":"ac6ef016d8f79a8fb8df98b5dc59b01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689655129
+        }
+    ],
+    "wof:id":689655129,
+    "wof:lastmodified":1461777997,
+    "wof:name":"Blue Water Clinic",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -82.441104,
+    43.025512,
+    -82.441104,
+    43.025512
+],
+  "geometry": {"coordinates":[-82.441104,43.025512],"type":"Point"}
+}

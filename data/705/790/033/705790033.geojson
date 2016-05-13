@@ -1,0 +1,71 @@
+{
+  "id": 705790033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.571548,42.276809,-84.571548,42.276809",
+    "geom:latitude":42.276809,
+    "geom:longitude":-84.571548,
+    "iso:country":"US",
+    "sg:address":"8906 County Farm Rd",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 531 4276",
+    "sg:postcode":"49269",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AhThutmKpNfi5t4q0MPML_42.276809_-84.571548@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788800,
+    "wof:geomhash":"39c2f556a0db1d93b268a23c684d863b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705790033
+        }
+    ],
+    "wof:id":705790033,
+    "wof:lastmodified":1461788800,
+    "wof:name":"L M Electric",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.571548,
+    42.276809,
+    -84.571548,
+    42.276809
+],
+  "geometry": {"coordinates":[-84.57154800000001,42.276809],"type":"Point"}
+}

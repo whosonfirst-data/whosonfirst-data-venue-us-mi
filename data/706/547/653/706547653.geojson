@@ -1,0 +1,71 @@
+{
+  "id": 706547653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261471,41.827027,-86.261471,41.827027",
+    "geom:latitude":41.827027,
+    "geom:longitude":-86.261471,
+    "iso:country":"US",
+    "sg:address":"310 Grant St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2200",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UqCEu1ISoVS1QamUF44up_41.827027_-86.261471@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805612,
+    "wof:geomhash":"5640077e6aa36ff8634bd7e5428fc824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706547653
+        }
+    ],
+    "wof:id":706547653,
+    "wof:lastmodified":1461805612,
+    "wof:name":"Randys Auto Service",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.261471,
+    41.827027,
+    -86.261471,
+    41.827027
+],
+  "geometry": {"coordinates":[-86.261471,41.827027],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706006563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.742426,43.039757,-85.742426,43.039757",
+    "geom:latitude":43.039757,
+    "geom:longitude":-85.742426,
+    "iso:country":"US",
+    "sg:address":"2871 Jeremy St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 1882",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PnxTtCkmIep6UDd0QScXw_43.039757_-85.742426@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793713,
+    "wof:geomhash":"692dae41251dc8478c476d2fc93688a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706006563
+        }
+    ],
+    "wof:id":706006563,
+    "wof:lastmodified":1461793713,
+    "wof:name":"Paul's Appliance Svc",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -85.742426,
+    43.039757,
+    -85.742426,
+    43.039757
+],
+  "geometry": {"coordinates":[-85.74242599999999,43.039757],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 706720297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.059427,42.462278,-83.059427,42.462278",
+    "geom:latitude":42.462278,
+    "geom:longitude":-83.059427,
+    "iso:country":"US",
+    "sg:address":"4513 E 9 Mile Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 395 9757",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524429,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L4iEQ8N7aZYkXDZEO2wPx_42.462278_-83.059427@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461810988,
+    "wof:geomhash":"560ee6c0fbb47a1a19be63d5cfa4a648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524429,
+            "region_id":85688599,
+            "venue_id":706720297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524839,
+            "region_id":85688599,
+            "venue_id":706720297
+        }
+    ],
+    "wof:id":706720297,
+    "wof:lastmodified":1461810988,
+    "wof:name":"Metropolitan Visiting Physician",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.059427,
+    42.462278,
+    -83.059427,
+    42.462278
+],
+  "geometry": {"coordinates":[-83.059427,42.462278],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705761153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.484302,42.194582,-83.484302,42.194582",
+    "geom:latitude":42.194582,
+    "geom:longitude":-83.484302,
+    "iso:country":"US",
+    "sg:address":"775 Sumpter Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 7600",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L232Uk9NzHbnGfPoNv3Rd_42.194582_-83.484302@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788109,
+    "wof:geomhash":"d0cbcfb9c43c3fc0167c2c60d6945b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":705761153
+        }
+    ],
+    "wof:id":705761153,
+    "wof:lastmodified":1461788109,
+    "wof:name":"Belleville Foodland",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.484302,
+    42.194582,
+    -83.484302,
+    42.194582
+],
+  "geometry": {"coordinates":[-83.484302,42.194582],"type":"Point"}
+}

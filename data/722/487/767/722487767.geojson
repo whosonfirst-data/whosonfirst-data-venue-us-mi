@@ -1,0 +1,81 @@
+{
+  "id": 722487767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.253004,42.421447,-83.253004,42.421447",
+    "geom:latitude":42.421447,
+    "geom:longitude":-83.253004,
+    "iso:country":"US",
+    "sg:address":"18100 Bentler St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 494 7498",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        420558493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dgq7Lo5aC49DwbeVHaHL1_42.421447_-83.253004@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812587,
+    "wof:geomhash":"571c27c8e2c992610874910073aeffcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487767
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558493,
+            "region_id":85688599,
+            "venue_id":722487767
+        }
+    ],
+    "wof:id":722487767,
+    "wof:lastmodified":1461812587,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.253004,
+    42.421447,
+    -83.253004,
+    42.421447
+],
+  "geometry": {"coordinates":[-83.253004,42.421447],"type":"Point"}
+}

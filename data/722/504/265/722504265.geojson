@@ -1,0 +1,72 @@
+{
+  "id": 722504265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.2612,42.5452,-83.2612,42.5452",
+    "geom:latitude":42.5452,
+    "geom:longitude":-83.2612,
+    "iso:country":"US",
+    "sg:address":"3611 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 646 9610",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19Fn1afWrzhZJBmjdPEtjJ_42.545200_-83.261200@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813237,
+    "wof:geomhash":"10115521b4b6aadb8fe6da3a7bc0545e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":722504265
+        }
+    ],
+    "wof:id":722504265,
+    "wof:lastmodified":1461813237,
+    "wof:name":"Blockbuster Videos",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -83.2612,
+    42.5452,
+    -83.2612,
+    42.5452
+],
+  "geometry": {"coordinates":[-83.2612,42.5452],"type":"Point"}
+}

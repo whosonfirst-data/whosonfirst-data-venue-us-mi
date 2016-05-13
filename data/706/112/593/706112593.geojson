@@ -1,0 +1,69 @@
+{
+  "id": 706112593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.652298,42.267956,-83.652298,42.267956",
+    "geom:latitude":42.267956,
+    "geom:longitude":-83.652298,
+    "iso:country":"US",
+    "sg:address":"5333 McAuley Dr",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 572 1400",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CBIRn5wMy6YFa5T3eOet6_42.267956_-83.652298@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796063,
+    "wof:geomhash":"36aaed1ee2bb32ea19e23197e7ae103e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":706112593
+        }
+    ],
+    "wof:id":706112593,
+    "wof:lastmodified":1461796063,
+    "wof:name":"Anastasios Alexiou MD",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.652298,
+    42.267956,
+    -83.652298,
+    42.267956
+],
+  "geometry": {"coordinates":[-83.652298,42.267956],"type":"Point"}
+}

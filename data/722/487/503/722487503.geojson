@@ -1,0 +1,86 @@
+{
+  "id": 722487503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.24762,42.411492,-83.24762,42.411492",
+    "geom:latitude":42.411492,
+    "geom:longitude":-83.24762,
+    "iso:country":"US",
+    "sg:address":"16711 Burt Rd Apt 212",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 354 8729",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iddMgjbZWkLbwqCcqH0FN_42.411492_-83.247620@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812578,
+    "wof:geomhash":"3344b5c21005ec57318271f79d1066eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":722487503
+        }
+    ],
+    "wof:id":722487503,
+    "wof:lastmodified":1461812578,
+    "wof:name":"Blue Star Shuttle Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public"
+    ]
+},
+  "bbox": [
+    -83.24762,
+    42.411492,
+    -83.24762,
+    42.411492
+],
+  "geometry": {"coordinates":[-83.24762,42.411492],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705952711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.290991,43.296596,-86.290991,43.296596",
+    "geom:latitude":43.296596,
+    "geom:longitude":-86.290991,
+    "iso:country":"US",
+    "sg:address":"1647 W River Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 4555",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zhqe7mRRCqkEsYrvZRpVP_43.296596_-86.290991@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792591,
+    "wof:geomhash":"9c3101373f8f33fda2f6242a1133e531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705952711
+        }
+    ],
+    "wof:id":705952711,
+    "wof:lastmodified":1461792591,
+    "wof:name":"Total Image Auto Detail",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.290991,
+    43.296596,
+    -86.290991,
+    43.296596
+],
+  "geometry": {"coordinates":[-86.29099100000001,43.296596],"type":"Point"}
+}

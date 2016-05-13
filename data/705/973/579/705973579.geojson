@@ -1,0 +1,77 @@
+{
+  "id": 705973579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.670714,42.987475,-85.670714,42.987475",
+    "geom:latitude":42.987475,
+    "geom:longitude":-85.670714,
+    "iso:country":"US",
+    "sg:address":"1345 Monroe Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 2260",
+    "sg:postcode":"49505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877903,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SrDyUcBeBnDwFcC2rrLHt_42.987475_-85.670714@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793039,
+    "wof:geomhash":"c2be639dc90b2cc1f4cce8116314b896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877903,
+            "region_id":85688599,
+            "venue_id":705973579
+        }
+    ],
+    "wof:id":705973579,
+    "wof:lastmodified":1461793039,
+    "wof:name":"Spectrum Health",
+    "wof:parent_id":85877903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.670714,
+    42.987475,
+    -85.670714,
+    42.987475
+],
+  "geometry": {"coordinates":[-85.670714,42.987475],"type":"Point"}
+}

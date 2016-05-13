@@ -1,0 +1,74 @@
+{
+  "id": 706685903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.195891,43.205871,-86.195891,43.205871",
+    "geom:latitude":43.205871,
+    "geom:longitude":-86.195891,
+    "iso:country":"US",
+    "sg:address":"1865 E Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/182233-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 830 9995",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tyVdM5BSz6dqssL7xCFba_43.205871_-86.195891@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809517,
+    "wof:geomhash":"d67ff9590ede1a41a2746e78376d9a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706685903
+        }
+    ],
+    "wof:id":706685903,
+    "wof:lastmodified":1461809517,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.195891,
+    43.205871,
+    -86.195891,
+    43.205871
+],
+  "geometry": {"coordinates":[-86.195891,43.205871],"type":"Point"}
+}

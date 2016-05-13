@@ -1,0 +1,73 @@
+{
+  "id": 705925883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065987,45.812306,-88.065987,45.812306",
+    "geom:latitude":45.812306,
+    "geom:longitude":-88.065987,
+    "iso:country":"US",
+    "sg:address":"1106 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2703",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yUB6lPCifz7cFehDgFKl0_45.812306_-88.065987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791969,
+    "wof:geomhash":"59f3c50777302dabb2a34298c7d60537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705925883
+        }
+    ],
+    "wof:id":705925883,
+    "wof:lastmodified":1461791969,
+    "wof:name":"Twin City Towing",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "material"
+    ]
+},
+  "bbox": [
+    -88.065987,
+    45.812306,
+    -88.065987,
+    45.812306
+],
+  "geometry": {"coordinates":[-88.06598700000001,45.812306],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706271479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280647,42.57537,-83.280647,42.57537",
+    "geom:latitude":42.57537,
+    "geom:longitude":-83.280647,
+    "iso:country":"US",
+    "sg:address":"4200 Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 433 7775",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a0pzfYwClbL8RsFj20TEN_42.575370_-83.280647@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799650,
+    "wof:geomhash":"34e94bd1e7ff7e93cee71d03a1a3ad22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706271479
+        }
+    ],
+    "wof:id":706271479,
+    "wof:lastmodified":1461799650,
+    "wof:name":"Bloomfield Police-Alarm Info",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.280647,
+    42.57537,
+    -83.280647,
+    42.57537
+],
+  "geometry": {"coordinates":[-83.280647,42.57537],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706693675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285673,42.519236,-83.285673,42.519236",
+    "geom:latitude":42.519236,
+    "geom:longitude":-83.285673,
+    "iso:country":"US",
+    "sg:address":"31500 Telegraph Rd Ste 130",
+    "sg:city":"Bingham Farms",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 433 3803",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nQ8LLHD25I6KIdlsgQnSh_42.519236_-83.285673@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809820,
+    "wof:geomhash":"2b0fb8388ff609bae83e2d1ae199bab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706693675
+        }
+    ],
+    "wof:id":706693675,
+    "wof:lastmodified":1461809820,
+    "wof:name":"Bingham Farms Dermatology",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -83.285673,
+    42.519236,
+    -83.285673,
+    42.519236
+],
+  "geometry": {"coordinates":[-83.285673,42.519236],"type":"Point"}
+}

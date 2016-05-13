@@ -1,0 +1,73 @@
+{
+  "id": 706456495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.354692,42.931327,-85.354692,42.931327",
+    "geom:latitude":42.931327,
+    "geom:longitude":-85.354692,
+    "iso:country":"US",
+    "sg:address":"1410 W Main St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 9701",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VLOkEEJW1jzuolNKC5aZW_42.931327_-85.354692@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803578,
+    "wof:geomhash":"1b5a1b5ec1855651e8bc765332013b70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706456495
+        }
+    ],
+    "wof:id":706456495,
+    "wof:lastmodified":1461803578,
+    "wof:name":"Pack & Ship Postal Ctr",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -85.354692,
+    42.931327,
+    -85.354692,
+    42.931327
+],
+  "geometry": {"coordinates":[-85.354692,42.931327],"type":"Point"}
+}

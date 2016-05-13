@@ -1,0 +1,86 @@
+{
+  "id": 705834745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685575,42.985228,-85.685575,42.985228",
+    "geom:latitude":42.985228,
+    "geom:longitude":-85.685575,
+    "iso:country":"US",
+    "sg:address":"655 Leonard St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 451 2791",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877927,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LfpJJYRZwlQo8gkQXZU1L_42.985228_-85.685575@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789838,
+    "wof:geomhash":"3e34cc7aab799fbb6fc38b9a1c3a800e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877927,
+            "region_id":85688599,
+            "venue_id":705834745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877929,
+            "region_id":85688599,
+            "venue_id":705834745
+        }
+    ],
+    "wof:id":705834745,
+    "wof:lastmodified":1461789838,
+    "wof:name":"Ralph's Food Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.685575,
+    42.985228,
+    -85.685575,
+    42.985228
+],
+  "geometry": {"coordinates":[-85.685575,42.985228],"type":"Point"}
+}

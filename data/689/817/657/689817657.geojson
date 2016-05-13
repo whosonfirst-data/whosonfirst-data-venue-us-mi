@@ -1,0 +1,71 @@
+{
+  "id": 689817657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.443096,42.584637,-84.443096,42.584637",
+    "geom:latitude":42.584637,
+    "geom:longitude":-84.443096,
+    "iso:country":"US",
+    "sg:address":"345 N Jefferson St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 1166",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ruAY7q6ce2rktulkMlMH_42.584637_-84.443096@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782399,
+    "wof:geomhash":"135bc07f54305405b42f111ba144431d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689817657
+        }
+    ],
+    "wof:id":689817657,
+    "wof:lastmodified":1461782399,
+    "wof:name":"Mason Waste Water Plant",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.443096,
+    42.584637,
+    -84.443096,
+    42.584637
+],
+  "geometry": {"coordinates":[-84.443096,42.584637],"type":"Point"}
+}

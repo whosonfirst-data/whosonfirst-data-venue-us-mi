@@ -1,0 +1,76 @@
+{
+  "id": 689702223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.254263,43.227477,-86.254263,43.227477",
+    "geom:latitude":43.227477,
+    "geom:longitude":-86.254263,
+    "iso:country":"US",
+    "sg:address":"1383 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 3972",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bfYKfVtzHCUpNzdRlKQ5g_43.227477_-86.254263@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779167,
+    "wof:geomhash":"46171148c0ae6a16125f09094b36231f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689702223
+        }
+    ],
+    "wof:id":689702223,
+    "wof:lastmodified":1461779167,
+    "wof:name":"Park Place Personal Care Home",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.254263,
+    43.227477,
+    -86.254263,
+    43.227477
+],
+  "geometry": {"coordinates":[-86.25426299999999,43.227477],"type":"Point"}
+}

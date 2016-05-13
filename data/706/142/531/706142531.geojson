@@ -1,0 +1,71 @@
+{
+  "id": 706142531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.512339,42.317482,-85.512339,42.317482",
+    "geom:latitude":42.317482,
+    "geom:longitude":-85.512339,
+    "iso:country":"US",
+    "sg:address":"5947 E H Ave",
+    "sg:city":"Comstock",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 5282",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jB1CQXHz1w23pqTFQCcWQ_42.317482_-85.512339@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796814,
+    "wof:geomhash":"1be32f2ff5ceba5e8c85f039be079314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706142531
+        }
+    ],
+    "wof:id":706142531,
+    "wof:lastmodified":1461796814,
+    "wof:name":"Comstock Township Fire Dept",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.512339,
+    42.317482,
+    -85.512339,
+    42.317482
+],
+  "geometry": {"coordinates":[-85.512339,42.317482],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 706386845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.05918,42.469445,-83.05918,42.469445",
+    "geom:latitude":42.469445,
+    "geom:longitude":-83.05918,
+    "iso:country":"US",
+    "sg:address":"23007 Cunningham Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 214 4755",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524429,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lG2wu1Kp5Yig4emdf85XD_42.469445_-83.059180@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802144,
+    "wof:geomhash":"cb00e6837ad6b2f66f2240c0df9c23ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524429,
+            "region_id":85688599,
+            "venue_id":706386845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524839,
+            "region_id":85688599,
+            "venue_id":706386845
+        }
+    ],
+    "wof:id":706386845,
+    "wof:lastmodified":1461802144,
+    "wof:name":"R & D Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.05918,
+    42.469445,
+    -83.05918,
+    42.469445
+],
+  "geometry": {"coordinates":[-83.05918,42.469445],"type":"Point"}
+}

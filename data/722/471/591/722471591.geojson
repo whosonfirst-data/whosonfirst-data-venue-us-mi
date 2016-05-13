@@ -1,0 +1,83 @@
+{
+  "id": 722471591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.409401,42.352798,-83.409401,42.352798",
+    "geom:latitude":42.352798,
+    "geom:longitude":-83.409401,
+    "iso:country":"US",
+    "sg:address":"37301 Joy Rd",
+    "sg:city":"Westland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 421 9055",
+    "sg:postcode":"48185",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896861,
+        404508705,
+        85951041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CZBA1zy2GrJ0ZWZJeQ0Vl_42.352798_-83.409401@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461811933,
+    "wof:geomhash":"b5d79d7d8f21349b4721ed51c6ab8286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":722471591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508705,
+            "locality_id":85951041,
+            "neighbourhood_id":85896861,
+            "region_id":85688599,
+            "venue_id":722471591
+        }
+    ],
+    "wof:id":722471591,
+    "wof:lastmodified":1461811933,
+    "wof:name":"T L C Auto Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.409401,
+    42.352798,
+    -83.409401,
+    42.352798
+],
+  "geometry": {"coordinates":[-83.409401,42.352798],"type":"Point"}
+}

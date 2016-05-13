@@ -1,0 +1,76 @@
+{
+  "id": 706443205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.389456,44.246613,-85.389456,44.246613",
+    "geom:latitude":44.246613,
+    "geom:longitude":-85.389456,
+    "iso:country":"US",
+    "sg:address":"400 Hobart St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 876 7200",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "general"
+    ],
+    "sg:website":"www.mercycadillac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52lQkcpk4wmE8eMVugrOBo_44.246613_-85.389456@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803289,
+    "wof:geomhash":"3cc530fb25e6a2a11f8b5550a91eb92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706443205
+        }
+    ],
+    "wof:id":706443205,
+    "wof:lastmodified":1461803289,
+    "wof:name":"Mercy Hospital - Cadillac",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.389456,
+    44.246613,
+    -85.389456,
+    44.246613
+],
+  "geometry": {"coordinates":[-85.389456,44.246613],"type":"Point"}
+}

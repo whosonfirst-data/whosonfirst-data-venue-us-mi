@@ -1,0 +1,73 @@
+{
+  "id": 705777141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.595404,44.750929,-85.595404,44.750929",
+    "geom:latitude":44.750929,
+    "geom:longitude":-85.595404,
+    "iso:country":"US",
+    "sg:address":"928 S Garfield Ave",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 4872",
+    "sg:postcode":"49686",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531289,
+        85688599,
+        102191575,
+        404506553,
+        85633793,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d7Rx7XQXKmmGenVnvunEP_44.750929_-85.595404@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788478,
+    "wof:geomhash":"17351de41640d8b81c2a48b5a2775efe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531289,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083133,
+            "localadmin_id":404506553,
+            "region_id":85688599,
+            "venue_id":705777141
+        }
+    ],
+    "wof:id":705777141,
+    "wof:lastmodified":1461788478,
+    "wof:name":"Grand Traverse Smile Ctr",
+    "wof:parent_id":102531289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.595404,
+    44.750929,
+    -85.595404,
+    44.750929
+],
+  "geometry": {"coordinates":[-85.595404,44.750929],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706532551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.943054,43.189762,-85.943054,43.189762",
+    "geom:latitude":43.189762,
+    "geom:longitude":-85.943054,
+    "iso:country":"US",
+    "sg:address":"3493 John St",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 6195",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XOmJRKHDtqNmg1HqyJTD5_43.189762_-85.943054@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805285,
+    "wof:geomhash":"e648b62a16669c2c6aa395b7b5de4c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706532551
+        }
+    ],
+    "wof:id":706532551,
+    "wof:lastmodified":1461805285,
+    "wof:name":"Robinson Farm Trucking Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.943054,
+    43.189762,
+    -85.943054,
+    43.189762
+],
+  "geometry": {"coordinates":[-85.943054,43.189762],"type":"Point"}
+}

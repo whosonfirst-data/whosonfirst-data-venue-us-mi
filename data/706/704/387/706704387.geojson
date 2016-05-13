@@ -1,0 +1,81 @@
+{
+  "id": 706704387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.144216,42.488089,-83.144216,42.488089",
+    "geom:latitude":42.488089,
+    "geom:longitude":-83.144216,
+    "iso:country":"US",
+    "sg:address":"304 S Main St",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 658 4000",
+    "sg:postcode":"48067",
+    "sg:province":"MI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.daleandthomaspopcorn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896807,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qCORDvNHTZW4tQr8UbSEu_42.488089_-83.144216@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810258,
+    "wof:geomhash":"f1b815c8ab6a1b0440270bbaa7a9c70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896807,
+            "region_id":85688599,
+            "venue_id":706704387
+        }
+    ],
+    "wof:id":706704387,
+    "wof:lastmodified":1461810258,
+    "wof:name":"Dale and Thomas Popcorn",
+    "wof:parent_id":85896807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -83.144216,
+    42.488089,
+    -83.144216,
+    42.488089
+],
+  "geometry": {"coordinates":[-83.144216,42.488089],"type":"Point"}
+}

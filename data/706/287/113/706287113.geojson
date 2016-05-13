@@ -1,0 +1,71 @@
+{
+  "id": 706287113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447707,43.952393,-86.447707,43.952393",
+    "geom:latitude":43.952393,
+    "geom:longitude":-86.447707,
+    "iso:country":"US",
+    "sg:address":"411 S James St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 9566",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0feIdLrBetWGIDgc0AJ75k_43.952393_-86.447707@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800022,
+    "wof:geomhash":"ab48a45bfa248607c18b969bb9fbbb49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706287113
+        }
+    ],
+    "wof:id":706287113,
+    "wof:lastmodified":1461800022,
+    "wof:name":"Blue Ribbon Dry Cleaners",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.447707,
+    43.952393,
+    -86.447707,
+    43.952393
+],
+  "geometry": {"coordinates":[-86.44770699999999,43.952393],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 722529849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.386036,44.252524,-85.386036,44.252524",
+    "geom:latitude":44.252524,
+    "geom:longitude":-85.386036,
+    "iso:country":"US",
+    "sg:address":"827 E Division St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 9741",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RxinMlIbvbYHuXltqJUJi_44.252524_-85.386036@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814402,
+    "wof:geomhash":"4ea8399a40a966281e8e9655acdea22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":722529849
+        }
+    ],
+    "wof:id":722529849,
+    "wof:lastmodified":1461814402,
+    "wof:name":"Elmore, Alicia T",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -85.386036,
+    44.252524,
+    -85.386036,
+    44.252524
+],
+  "geometry": {"coordinates":[-85.386036,44.252524],"type":"Point"}
+}

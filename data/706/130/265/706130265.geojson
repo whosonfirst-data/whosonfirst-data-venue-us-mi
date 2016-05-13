@@ -1,0 +1,73 @@
+{
+  "id": 706130265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.809125,43.338215,-85.809125,43.338215",
+    "geom:latitude":43.338215,
+    "geom:longitude":-85.809125,
+    "iso:country":"US",
+    "sg:address":"10 N Lake St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 5352",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aApH0bfd6yeoCiD7pwZko_43.338215_-85.809125@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796521,
+    "wof:geomhash":"984754b7e31f062e53f571f8d0646a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706130265
+        }
+    ],
+    "wof:id":706130265,
+    "wof:lastmodified":1461796521,
+    "wof:name":"Grant Senior Citizen Housing",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.809125,
+    43.338215,
+    -85.809125,
+    43.338215
+],
+  "geometry": {"coordinates":[-85.80912499999999,43.338215],"type":"Point"}
+}

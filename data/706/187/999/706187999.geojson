@@ -1,0 +1,77 @@
+{
+  "id": 706187999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.379295,42.560491,-83.379295,42.560491",
+    "geom:latitude":42.560491,
+    "geom:longitude":-83.379295,
+    "iso:country":"US",
+    "sg:address":"4941 Watergate Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 1559",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G21tMtWFVg696iquWK1O9_42.560491_-83.379295@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797812,
+    "wof:geomhash":"7ca1084943696517f448c7f01564b5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706187999
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706187999
+        }
+    ],
+    "wof:id":706187999,
+    "wof:lastmodified":1461797812,
+    "wof:name":"Dr Jerry Aronoff",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.379295,
+    42.560491,
+    -83.379295,
+    42.560491
+],
+  "geometry": {"coordinates":[-83.379295,42.560491],"type":"Point"}
+}

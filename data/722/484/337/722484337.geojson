@@ -1,0 +1,86 @@
+{
+  "id": 722484337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.040779,42.3657,-83.040779,42.3657",
+    "geom:latitude":42.3657,
+    "geom:longitude":-83.040779,
+    "iso:country":"US",
+    "sg:address":"5001 Chene St 9",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 921 8103",
+    "sg:postcode":"48211",
+    "sg:province":"MI",
+    "sg:tags":[
+        "television",
+        "radio",
+        "store",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524909,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JWFBOmZmhUjXVXDjb8ZgB_42.365700_-83.040779@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812462,
+    "wof:geomhash":"7a3473d61415edea24071b346137949a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524909,
+            "region_id":85688599,
+            "venue_id":722484337
+        }
+    ],
+    "wof:id":722484337,
+    "wof:lastmodified":1461812462,
+    "wof:name":"Lip-Pan Tv Rapair East",
+    "wof:parent_id":420524909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio",
+        "store",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -83.040779,
+    42.3657,
+    -83.040779,
+    42.3657
+],
+  "geometry": {"coordinates":[-83.040779,42.3657],"type":"Point"}
+}

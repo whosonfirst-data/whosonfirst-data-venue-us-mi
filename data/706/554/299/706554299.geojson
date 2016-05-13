@@ -1,0 +1,73 @@
+{
+  "id": 706554299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.056836,45.83533,-88.056836,45.83533",
+    "geom:latitude":45.83533,
+    "geom:longitude":-88.056836,
+    "iso:country":"US",
+    "sg:address":"1890 N Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2205",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KM2lOfiTYDZQb87e94s79_45.835330_-88.056836@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805741,
+    "wof:geomhash":"98fdb17cd702520ce83378dc592d6b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706554299
+        }
+    ],
+    "wof:id":706554299,
+    "wof:lastmodified":1461805741,
+    "wof:name":"Northside Carwash",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.056836,
+    45.83533,
+    -88.056836,
+    45.83533
+],
+  "geometry": {"coordinates":[-88.056836,45.83533],"type":"Point"}
+}

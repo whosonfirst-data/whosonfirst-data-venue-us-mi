@@ -1,0 +1,79 @@
+{
+  "id": 706699135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.9049,42.579102,-82.9049,42.579102",
+    "geom:latitude":42.579102,
+    "geom:longitude":-82.9049,
+    "iso:country":"US",
+    "sg:address":"37839 S Groesbeck Hwy",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 8900",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "sg:website":"www.shoreviewelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nigAxwfuXgoIcv58QVC42_42.579102_-82.904900@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810033,
+    "wof:geomhash":"552a73c0a91c8b857b0eac7d61701a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706699135
+        }
+    ],
+    "wof:id":706699135,
+    "wof:lastmodified":1461810033,
+    "wof:name":"Shoreview Electric",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.9049,
+    42.579102,
+    -82.9049,
+    42.579102
+],
+  "geometry": {"coordinates":[-82.9049,42.579102],"type":"Point"}
+}

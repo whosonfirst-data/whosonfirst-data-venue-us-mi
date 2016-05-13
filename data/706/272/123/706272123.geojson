@@ -1,0 +1,71 @@
+{
+  "id": 706272123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.647627,42.165282,-83.647627,42.165282",
+    "geom:latitude":42.165282,
+    "geom:longitude":-83.647627,
+    "iso:country":"US",
+    "sg:address":"5627 Country Ln",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 485 3700",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851175,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ErfqQHmQS5RJ3DDltNuvJ_42.165282_-83.647627@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799662,
+    "wof:geomhash":"f63d6d08f5da91beb82b091c506562ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85851175,
+            "region_id":85688599,
+            "venue_id":706272123
+        }
+    ],
+    "wof:id":706272123,
+    "wof:lastmodified":1461799662,
+    "wof:name":"Harvey Bg Inc",
+    "wof:parent_id":85851175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.647627,
+    42.165282,
+    -83.647627,
+    42.165282
+],
+  "geometry": {"coordinates":[-83.647627,42.165282],"type":"Point"}
+}

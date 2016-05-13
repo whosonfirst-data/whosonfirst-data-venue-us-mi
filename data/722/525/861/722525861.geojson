@@ -1,0 +1,74 @@
+{
+  "id": 722525861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.563603,42.245463,-85.563603,42.245463",
+    "geom:latitude":42.245463,
+    "geom:longitude":-85.563603,
+    "iso:country":"US",
+    "sg:address":"1550 E Kilgore Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 344 7774",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.kalamazoo.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qzata9GOIa982fEFxvy3k_42.245463_-85.563603@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814246,
+    "wof:geomhash":"6839095301477faa6d07242cb89ffb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722525861
+        }
+    ],
+    "wof:id":722525861,
+    "wof:lastmodified":1461814246,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.563603,
+    42.245463,
+    -85.563603,
+    42.245463
+],
+  "geometry": {"coordinates":[-85.563603,42.245463],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705732153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.892167,42.4062,-82.892167,42.4062",
+    "geom:latitude":42.4062,
+    "geom:longitude":-82.892167,
+    "iso:country":"US",
+    "sg:address":"90 Kerby Rd",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 885 2100",
+    "sg:postcode":"48236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TcDIhwO1I6El4oVkFWXBo_42.406200_-82.892167@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787465,
+    "wof:geomhash":"8a82f7db69d3845ad594426f62c74525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":705732153
+        }
+    ],
+    "wof:id":705732153,
+    "wof:lastmodified":1461787465,
+    "wof:name":"Police Department",
+    "wof:parent_id":420524945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.892167,
+    42.4062,
+    -82.892167,
+    42.4062
+],
+  "geometry": {"coordinates":[-82.892167,42.4062],"type":"Point"}
+}

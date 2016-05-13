@@ -1,0 +1,87 @@
+{
+  "id": 706708925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.206642,42.460072,-83.206642,42.460072",
+    "geom:latitude":42.460072,
+    "geom:longitude":-83.206642,
+    "iso:country":"US",
+    "sg:address":"23100 Providence Dr # 105",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 443 4051",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896731,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MiZpT1JLO8MPpcDEgS5Ir_42.460072_-83.206642@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810445,
+    "wof:geomhash":"f1b9d615f7151c37076b36f518547dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896731,
+            "region_id":85688599,
+            "venue_id":706708925
+        }
+    ],
+    "wof:id":706708925,
+    "wof:lastmodified":1461810445,
+    "wof:name":"Primary Medical Equipment Incorporated",
+    "wof:parent_id":85896731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -83.206642,
+    42.460072,
+    -83.206642,
+    42.460072
+],
+  "geometry": {"coordinates":[-83.206642,42.460072],"type":"Point"}
+}

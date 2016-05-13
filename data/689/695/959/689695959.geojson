@@ -1,0 +1,71 @@
+{
+  "id": 689695959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.521881,42.295174,-85.521881,42.295174",
+    "geom:latitude":42.295174,
+    "geom:longitude":-85.521881,
+    "iso:country":"US",
+    "sg:address":"499 Kincaid St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 5486",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzbTWZFisSJPjHo1O2CAy_42.295174_-85.521881@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779007,
+    "wof:geomhash":"d486f30ea9e2179af69961c362283b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689695959
+        }
+    ],
+    "wof:id":689695959,
+    "wof:lastmodified":1461779007,
+    "wof:name":"Tanda Maintenance Service",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.521881,
+    42.295174,
+    -85.521881,
+    42.295174
+],
+  "geometry": {"coordinates":[-85.52188099999999,42.295174],"type":"Point"}
+}

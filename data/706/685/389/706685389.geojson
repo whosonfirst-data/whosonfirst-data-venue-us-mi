@@ -1,0 +1,76 @@
+{
+  "id": 706685389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.973573,43.467209,-85.973573,43.467209",
+    "geom:latitude":43.467209,
+    "geom:longitude":-85.973573,
+    "iso:country":"US",
+    "sg:address":"6902 W 48th St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fremont/121996-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 5200",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dRJhUqgEpW6b3vGJeETUq_43.467209_-85.973573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809498,
+    "wof:geomhash":"eece702d1bdeb74468f448fe4169a344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706685389
+        }
+    ],
+    "wof:id":706685389,
+    "wof:lastmodified":1461809498,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.973573,
+    43.467209,
+    -85.973573,
+    43.467209
+],
+  "geometry": {"coordinates":[-85.973573,43.467209],"type":"Point"}
+}

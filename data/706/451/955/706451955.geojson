@@ -1,0 +1,81 @@
+{
+  "id": 706451955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.41817,42.552627,-83.41817,42.552627",
+    "geom:latitude":42.552627,
+    "geom:longitude":-83.41817,
+    "iso:country":"US",
+    "sg:address":"6860 Long St",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 788 0865",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85856655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kDuD9flOUVg5j3CBiPHhm_42.552627_-83.418170@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803486,
+    "wof:geomhash":"960b06d7f1b7e154d1aaddd88b9a96cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706451955
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":706451955
+        }
+    ],
+    "wof:id":706451955,
+    "wof:lastmodified":1461803486,
+    "wof:name":"Port A Groom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.41817,
+    42.552627,
+    -83.41817,
+    42.552627
+],
+  "geometry": {"coordinates":[-83.41817,42.552627],"type":"Point"}
+}

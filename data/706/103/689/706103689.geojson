@@ -1,0 +1,71 @@
+{
+  "id": 706103689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.936651,43.026637,-82.936651,43.026637",
+    "geom:latitude":43.026637,
+    "geom:longitude":-82.936651,
+    "iso:country":"US",
+    "sg:address":"14900 Downey Rd",
+    "sg:city":"Mussey",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 395 4346",
+    "sg:postcode":"48014",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h7dXBsCSXrEl7IdqHVWg4_43.026637_-82.936651@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795860,
+    "wof:geomhash":"4b5b831e19eb0de0edc8a4aefe7587aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706103689
+        }
+    ],
+    "wof:id":706103689,
+    "wof:lastmodified":1461795860,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -82.936651,
+    43.026637,
+    -82.936651,
+    43.026637
+],
+  "geometry": {"coordinates":[-82.936651,43.026637],"type":"Point"}
+}

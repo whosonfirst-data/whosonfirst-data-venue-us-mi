@@ -1,0 +1,71 @@
+{
+  "id": 689876043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.012362,42.626289,-83.012362,42.626289",
+    "geom:latitude":42.626289,
+    "geom:longitude":-83.012362,
+    "iso:country":"US",
+    "sg:address":"11011 Hall Rd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 254 1489",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IZMqnafBHr1p9CD7La3Ro_42.626289_-83.012362@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783944,
+    "wof:geomhash":"a5887d97cac862f3c3192ee2020897dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689876043
+        }
+    ],
+    "wof:id":689876043,
+    "wof:lastmodified":1461783944,
+    "wof:name":"Eric's Utica Car Wash",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.012362,
+    42.626289,
+    -83.012362,
+    42.626289
+],
+  "geometry": {"coordinates":[-83.012362,42.626289],"type":"Point"}
+}

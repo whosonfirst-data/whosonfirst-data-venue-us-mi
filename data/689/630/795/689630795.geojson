@@ -1,0 +1,71 @@
+{
+  "id": 689630795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.033733,42.807584,-86.033733,42.807584",
+    "geom:latitude":42.807584,
+    "geom:longitude":-86.033733,
+    "iso:country":"US",
+    "sg:address":"531 Alice St",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 772 1175",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40DRgNg98eutKHM2wDuZtg_42.807584_-86.033733@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777172,
+    "wof:geomhash":"912fde3abd08cfe716963d2153043a24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":689630795
+        }
+    ],
+    "wof:id":689630795,
+    "wof:lastmodified":1461777172,
+    "wof:name":"Tekton Installations",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.033733,
+    42.807584,
+    -86.033733,
+    42.807584
+],
+  "geometry": {"coordinates":[-86.033733,42.807584],"type":"Point"}
+}

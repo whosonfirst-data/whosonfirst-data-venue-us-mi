@@ -1,0 +1,73 @@
+{
+  "id": 705892303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.185033,43.219602,-86.185033,43.219602",
+    "geom:latitude":43.219602,
+    "geom:longitude":-86.185033,
+    "iso:country":"US",
+    "sg:address":"2247 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 1756",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JKIgZfytwNBc3NhlnH5Kp_43.219602_-86.185033@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791233,
+    "wof:geomhash":"59890822ea3b24510da00075e0f95943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705892303
+        }
+    ],
+    "wof:id":705892303,
+    "wof:lastmodified":1461791233,
+    "wof:name":"Superior Auto Body",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.185033,
+    43.219602,
+    -86.185033,
+    43.219602
+],
+  "geometry": {"coordinates":[-86.185033,43.219602],"type":"Point"}
+}

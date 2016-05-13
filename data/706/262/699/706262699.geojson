@@ -1,0 +1,71 @@
+{
+  "id": 706262699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.762737,42.623944,-85.762737,42.623944",
+    "geom:latitude":42.623944,
+    "geom:longitude":-85.762737,
+    "iso:country":"US",
+    "sg:address":"117 E Main St",
+    "sg:city":"Hopkins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 793 4044",
+    "sg:postcode":"49328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_786bPUsYgLOXudRTMyCXuu_42.623944_-85.762737@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799459,
+    "wof:geomhash":"7e7ae96fde345e3c71cd959fdd6ee505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706262699
+        }
+    ],
+    "wof:id":706262699,
+    "wof:lastmodified":1461799459,
+    "wof:name":"Bill's Village Auto Care",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.762737,
+    42.623944,
+    -85.762737,
+    42.623944
+],
+  "geometry": {"coordinates":[-85.762737,42.623944],"type":"Point"}
+}

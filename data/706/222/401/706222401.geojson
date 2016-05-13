@@ -1,0 +1,73 @@
+{
+  "id": 706222401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.749048,41.763979,-83.749048,41.763979",
+    "geom:latitude":41.763979,
+    "geom:longitude":-83.749048,
+    "iso:country":"US",
+    "sg:address":"8461 Brown St",
+    "sg:city":"Ottawa Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 2888",
+    "sg:postcode":"49267",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jg2c2N7wYdK8Zg77pUkEd_41.763979_-83.749048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798551,
+    "wof:geomhash":"e34e4bf444293e038c80d5fd278e974c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706222401
+        }
+    ],
+    "wof:id":706222401,
+    "wof:lastmodified":1461798551,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -83.749048,
+    41.763979,
+    -83.749048,
+    41.763979
+],
+  "geometry": {"coordinates":[-83.749048,41.763979],"type":"Point"}
+}

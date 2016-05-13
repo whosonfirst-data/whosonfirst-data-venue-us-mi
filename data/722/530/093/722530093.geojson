@@ -1,0 +1,88 @@
+{
+  "id": 722530093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554459,47.120171,-88.554459,47.120171",
+    "geom:latitude":47.120171,
+    "geom:longitude":-88.554459,
+    "iso:country":"US",
+    "sg:address":"200 Pearl St",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 4638",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hVq2U5vK0ORo80xm6cKfg_47.120171_-88.554459@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814410,
+    "wof:geomhash":"c04984b8687d814d16bf85d1e0ffaea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":722530093
+        }
+    ],
+    "wof:id":722530093,
+    "wof:lastmodified":1461814410,
+    "wof:name":"Subway",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -88.554459,
+    47.120171,
+    -88.554459,
+    47.120171
+],
+  "geometry": {"coordinates":[-88.55445899999999,47.120171],"type":"Point"}
+}

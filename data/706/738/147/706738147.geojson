@@ -1,0 +1,76 @@
+{
+  "id": 706738147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.327194,42.226812,-83.327194,42.226812",
+    "geom:latitude":42.226812,
+    "geom:longitude":-83.327194,
+    "iso:country":"US",
+    "sg:address":"10704 Middlebelt Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 941 4747",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851475,
+        102191575,
+        404508657,
+        85633793,
+        85951131,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ixnPLwCal9gJq14WUg5JE_42.226812_-83.327194@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811740,
+    "wof:geomhash":"ff561858816be9f514cc10c4a0394a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508657,
+            "locality_id":85951131,
+            "neighbourhood_id":85851475,
+            "region_id":85688599,
+            "venue_id":706738147
+        }
+    ],
+    "wof:id":706738147,
+    "wof:lastmodified":1461811740,
+    "wof:name":"Hertz",
+    "wof:parent_id":85851475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.327194,
+    42.226812,
+    -83.327194,
+    42.226812
+],
+  "geometry": {"coordinates":[-83.32719400000001,42.226812],"type":"Point"}
+}

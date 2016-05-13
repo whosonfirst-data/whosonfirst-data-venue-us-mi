@@ -1,0 +1,71 @@
+{
+  "id": 705823805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.006124,42.656647,-83.006124,42.656647",
+    "geom:latitude":42.656647,
+    "geom:longitude":-83.006124,
+    "iso:country":"US",
+    "sg:address":"12347 Quail Ct",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 997 6120",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uXI8jk9xD9E36tjjZQvb8_42.656647_-83.006124@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789576,
+    "wof:geomhash":"076aaf99c45831fe6cddb7a3a185a3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":705823805
+        }
+    ],
+    "wof:id":705823805,
+    "wof:lastmodified":1461789576,
+    "wof:name":"On Site Windshield Repair",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -83.006124,
+    42.656647,
+    -83.006124,
+    42.656647
+],
+  "geometry": {"coordinates":[-83.006124,42.656647],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705813031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.231276,42.623513,-83.231276,42.623513",
+    "geom:latitude":42.623513,
+    "geom:longitude":-83.231276,
+    "iso:country":"US",
+    "sg:address":"820 Polo Pl",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 844 9037",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZ6T6AjAwytRQ1fguGryj_42.623513_-83.231276@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789302,
+    "wof:geomhash":"28136ceeba631ae1528e0e43337f7610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":705813031
+        }
+    ],
+    "wof:id":705813031,
+    "wof:lastmodified":1461789302,
+    "wof:name":"Commercial Cleaning Svc",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.231276,
+    42.623513,
+    -83.231276,
+    42.623513
+],
+  "geometry": {"coordinates":[-83.23127599999999,42.623513],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706638651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528917,42.651132,-84.528917,42.651132",
+    "geom:latitude":42.651132,
+    "geom:longitude":-84.528917,
+    "iso:country":"US",
+    "sg:address":"2423 Cedar St",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 694 2197",
+    "sg:postcode":"48842",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wRxZS25TjhweBjSVlrGhF_42.651132_-84.528917@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807546,
+    "wof:geomhash":"e66ee3116de5a01ef0301baf13451833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706638651
+        }
+    ],
+    "wof:id":706638651,
+    "wof:lastmodified":1461807546,
+    "wof:name":"Holt Auto Svc Ctr",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.528917,
+    42.651132,
+    -84.528917,
+    42.651132
+],
+  "geometry": {"coordinates":[-84.52891700000001,42.651132],"type":"Point"}
+}

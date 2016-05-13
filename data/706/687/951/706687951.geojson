@@ -1,0 +1,98 @@
+{
+  "id": 706687951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.126604,42.331146,-83.126604,42.331146",
+    "geom:latitude":42.331146,
+    "geom:longitude":-83.126604,
+    "iso:country":"US",
+    "sg:address":"6677 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/168534-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 898 6433",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oh7gNKtouwU9FVUqdBOWJ_42.331075_-83.126950@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809596,
+    "wof:geomhash":"79a180f20abc8e1d7d20e2bab9edea88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":706687951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":706687951
+        }
+    ],
+    "wof:id":706687951,
+    "wof:lastmodified":1461809596,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.126604,
+    42.331146,
+    -83.126604,
+    42.331146
+],
+  "geometry": {"coordinates":[-83.126604,42.331146],"type":"Point"}
+}

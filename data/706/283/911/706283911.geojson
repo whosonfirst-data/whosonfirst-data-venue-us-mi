@@ -1,0 +1,71 @@
+{
+  "id": 706283911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.770681,42.896521,-82.770681,42.896521",
+    "geom:latitude":42.896521,
+    "geom:longitude":-82.770681,
+    "iso:country":"US",
+    "sg:address":"34833 Bordman Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 392 7222",
+    "sg:postcode":"48041",
+    "sg:province":"MI",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03KpgK6vnXshy6eTfQ4K5I_42.896521_-82.770681@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799937,
+    "wof:geomhash":"d8364c2dad52e38708ff1a4ad5b770f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706283911
+        }
+    ],
+    "wof:id":706283911,
+    "wof:lastmodified":1461799937,
+    "wof:name":"Shelby Generator",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -82.770681,
+    42.896521,
+    -82.770681,
+    42.896521
+],
+  "geometry": {"coordinates":[-82.770681,42.896521],"type":"Point"}
+}

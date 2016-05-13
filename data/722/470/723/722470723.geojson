@@ -1,0 +1,76 @@
+{
+  "id": 722470723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.385205,42.279965,-83.385205,42.279965",
+    "geom:latitude":42.279965,
+    "geom:longitude":-83.385205,
+    "iso:country":"US",
+    "sg:address":"35173 E Michigan Ave",
+    "sg:city":"Wayne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 722 3030",
+    "sg:postcode":"48184",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896859,
+        102191575,
+        404508703,
+        85633793,
+        85951039,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vtHOAgwFz5HXgpNZERlyG_42.279965_-83.385205@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811895,
+    "wof:geomhash":"30da84c5295d3f23a2ae8f9fcc982bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508703,
+            "locality_id":85951039,
+            "neighbourhood_id":85896859,
+            "region_id":85688599,
+            "venue_id":722470723
+        }
+    ],
+    "wof:id":722470723,
+    "wof:lastmodified":1461811895,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85896859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.385205,
+    42.279965,
+    -83.385205,
+    42.279965
+],
+  "geometry": {"coordinates":[-83.385205,42.279965],"type":"Point"}
+}

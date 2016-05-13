@@ -1,0 +1,73 @@
+{
+  "id": 689879519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.452516,42.591251,-84.452516,42.591251",
+    "geom:latitude":42.591251,
+    "geom:longitude":-84.452516,
+    "iso:country":"US",
+    "sg:address":"519 Mason St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 0350",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CisZ3otXBirmESvNIs135_42.591251_-84.452516@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784036,
+    "wof:geomhash":"75b8de8d819484afd1cb654470b437c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689879519
+        }
+    ],
+    "wof:id":689879519,
+    "wof:lastmodified":1461784036,
+    "wof:name":"Mason Header Die",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -84.452516,
+    42.591251,
+    -84.452516,
+    42.591251
+],
+  "geometry": {"coordinates":[-84.452516,42.591251],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 706678985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.141521,42.432258,-83.141521,42.432258",
+    "geom:latitude":42.432258,
+    "geom:longitude":-83.141521,
+    "iso:country":"US",
+    "sg:address":"19163 Livernois Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/10786-papa-romanos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 341 7272",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524881,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A9HMwoPXPTzaH8Rgtfrdv_42.432258_-83.141521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809244,
+    "wof:geomhash":"e340c30c4a7dcc1c83b5e6d9ac5528bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524881,
+            "region_id":85688599,
+            "venue_id":706678985
+        }
+    ],
+    "wof:id":706678985,
+    "wof:lastmodified":1461809244,
+    "wof:name":"Papa Romano's",
+    "wof:parent_id":420524881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.141521,
+    42.432258,
+    -83.141521,
+    42.432258
+],
+  "geometry": {"coordinates":[-83.141521,42.432258],"type":"Point"}
+}

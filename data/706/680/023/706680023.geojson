@@ -1,0 +1,72 @@
+{
+  "id": 706680023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.974397,42.655856,-82.974397,42.655856",
+    "geom:latitude":42.655856,
+    "geom:longitude":-82.974397,
+    "iso:country":"US",
+    "sg:address":"48929 Hayes Rd",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/58067-hamlin-pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 247 4100",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wrfmCH0qA8HMlM6OyxzIj_42.655856_-82.974397@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809281,
+    "wof:geomhash":"7e401bc1207b5f8d3497f4a57157e283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706680023
+        }
+    ],
+    "wof:id":706680023,
+    "wof:lastmodified":1461809281,
+    "wof:name":"Hamlin Pub",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.974397,
+    42.655856,
+    -82.974397,
+    42.655856
+],
+  "geometry": {"coordinates":[-82.974397,42.655856],"type":"Point"}
+}

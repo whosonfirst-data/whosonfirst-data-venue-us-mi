@@ -1,0 +1,69 @@
+{
+  "id": 722518251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275937,42.615607,-83.275937,42.615607",
+    "geom:latitude":42.615607,
+    "geom:longitude":-83.275937,
+    "iso:country":"US",
+    "sg:address":"44555 Woodward Ave Ste 202",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 332 9432",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O40BE4IjsSNbGhcM44eTN_42.615607_-83.275937@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813834,
+    "wof:geomhash":"0c67f8f48077295b110f3aaed9e988af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":722518251
+        }
+    ],
+    "wof:id":722518251,
+    "wof:lastmodified":1461813834,
+    "wof:name":"Cardiology & Vascular Associates PC",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -83.275937,
+    42.615607,
+    -83.275937,
+    42.615607
+],
+  "geometry": {"coordinates":[-83.275937,42.615607],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689834219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.914497,42.551387,-82.914497,42.551387",
+    "geom:latitude":42.551387,
+    "geom:longitude":-82.914497,
+    "iso:country":"US",
+    "sg:address":"20158 Woodward St",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 792 5086",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56J1dve8NnArTk4tDW83d7_42.551387_-82.914497@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782961,
+    "wof:geomhash":"e4e6407a38af78744fe7af79a26862e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":689834219
+        }
+    ],
+    "wof:id":689834219,
+    "wof:lastmodified":1461782961,
+    "wof:name":"Liberty Locksmith",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.914497,
+    42.551387,
+    -82.914497,
+    42.551387
+],
+  "geometry": {"coordinates":[-82.914497,42.551387],"type":"Point"}
+}

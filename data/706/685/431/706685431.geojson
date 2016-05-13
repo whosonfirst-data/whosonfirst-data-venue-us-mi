@@ -1,0 +1,74 @@
+{
+  "id": 706685431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2205,43.052374,-86.2205,43.052374",
+    "geom:latitude":43.052374,
+    "geom:longitude":-86.2205,
+    "iso:country":"US",
+    "sg:address":"923 S Beacon Blvd",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-haven/176380-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 0946",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kSTWSCx7ro7tI84G63uAT_43.052374_-86.220500@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809499,
+    "wof:geomhash":"287eab08edeae4522b97b023e0611ca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706685431
+        }
+    ],
+    "wof:id":706685431,
+    "wof:lastmodified":1461809499,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.2205,
+    43.052374,
+    -86.2205,
+    43.052374
+],
+  "geometry": {"coordinates":[-86.2205,43.052374],"type":"Point"}
+}

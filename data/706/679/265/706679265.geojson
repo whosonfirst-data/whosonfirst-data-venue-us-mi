@@ -1,0 +1,76 @@
+{
+  "id": 706679265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.201089,42.415942,-83.201089,42.415942",
+    "geom:latitude":42.415942,
+    "geom:longitude":-83.201089,
+    "iso:country":"US",
+    "sg:address":"15624 W Mcnichols Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/207762-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 836 8226",
+    "sg:postcode":"48235",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524869,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EVW0OZL9YowsbzgDbkjCU_42.415942_-83.201089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809255,
+    "wof:geomhash":"5bc4f54bda48807cd4a2ce721a7783fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524869,
+            "region_id":85688599,
+            "venue_id":706679265
+        }
+    ],
+    "wof:id":706679265,
+    "wof:lastmodified":1461809255,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420524869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.201089,
+    42.415942,
+    -83.201089,
+    42.415942
+],
+  "geometry": {"coordinates":[-83.201089,42.415942],"type":"Point"}
+}

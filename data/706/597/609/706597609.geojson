@@ -1,0 +1,71 @@
+{
+  "id": 706597609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.236252,43.088711,-86.236252,43.088711",
+    "geom:latitude":43.088711,
+    "geom:longitude":-86.236252,
+    "iso:country":"US",
+    "sg:address":"18210 Mohawk Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 5317",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pa5bc66jUWTbSqtYCO70W_43.088711_-86.236252@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806668,
+    "wof:geomhash":"283ba3dc0df59ef31efebcefca96f9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706597609
+        }
+    ],
+    "wof:id":706597609,
+    "wof:lastmodified":1461806668,
+    "wof:name":"Correct Cleaning",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.236252,
+    43.088711,
+    -86.236252,
+    43.088711
+],
+  "geometry": {"coordinates":[-86.23625199999999,43.088711],"type":"Point"}
+}

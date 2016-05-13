@@ -1,0 +1,70 @@
+{
+  "id": 706680083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.034418,42.683343,-83.034418,42.683343",
+    "geom:latitude":42.683343,
+    "geom:longitude":-83.034418,
+    "iso:country":"US",
+    "sg:address":"52899 Van Dyke Ave",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/shelby/51051-taco-loco/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 323 9494",
+    "sg:postcode":"48316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59WQcXvOhIAUqTDiTnS76U_42.683343_-83.034418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809282,
+    "wof:geomhash":"8e20b79d17915fb0eca2512be1cacd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706680083
+        }
+    ],
+    "wof:id":706680083,
+    "wof:lastmodified":1461809282,
+    "wof:name":"Taco Loco",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.034418,
+    42.683343,
+    -83.034418,
+    42.683343
+],
+  "geometry": {"coordinates":[-83.034418,42.683343],"type":"Point"}
+}

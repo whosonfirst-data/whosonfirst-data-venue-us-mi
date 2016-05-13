@@ -1,0 +1,77 @@
+{
+  "id": 722474341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.475708,42.322073,-83.475708,42.322073",
+    "geom:latitude":42.322073,
+    "geom:longitude":-83.475708,
+    "iso:country":"US",
+    "sg:address":"44101 Ford Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 981 1685",
+    "sg:postcode":"48187",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xrgprc2oKMgc9sDVFS9jI_42.322073_-83.475708@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812050,
+    "wof:geomhash":"d352287865abf59b6cd47f3a9b43faef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474341
+        }
+    ],
+    "wof:id":722474341,
+    "wof:lastmodified":1461812050,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.475708,
+    42.322073,
+    -83.475708,
+    42.322073
+],
+  "geometry": {"coordinates":[-83.475708,42.322073],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 706671409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.245796,42.411598,-83.245796,42.411598",
+    "geom:latitude":42.411598,
+    "geom:longitude":-83.245796,
+    "iso:country":"US",
+    "sg:address":"20735 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 535 8122",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.karkraftcollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65xi5CzTZ3Q2z3MTPQiYg7_42.411944_-83.246146@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808922,
+    "wof:geomhash":"5a0727288a8ab5ae7de898adeedc23f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":706671409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":706671409
+        }
+    ],
+    "wof:id":706671409,
+    "wof:lastmodified":1461808922,
+    "wof:name":"Kar Kraft Collision Center Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.245796,
+    42.411598,
+    -83.245796,
+    42.411598
+],
+  "geometry": {"coordinates":[-83.245796,42.411598],"type":"Point"}
+}

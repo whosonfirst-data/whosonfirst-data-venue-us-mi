@@ -1,0 +1,72 @@
+{
+  "id": 706698803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.871044,42.612052,-82.871044,42.612052",
+    "geom:latitude":42.612052,
+    "geom:longitude":-82.871044,
+    "iso:country":"US",
+    "sg:address":"1447 S Gratiot Ave",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 954 3700",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l6uULzPG6zyx6dzp8Vclh_42.612052_-82.871044@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810016,
+    "wof:geomhash":"3aa00ec4fd2975ae45296cc3dbb09f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706698803
+        }
+    ],
+    "wof:id":706698803,
+    "wof:lastmodified":1461810016,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -82.871044,
+    42.612052,
+    -82.871044,
+    42.612052
+],
+  "geometry": {"coordinates":[-82.871044,42.612052],"type":"Point"}
+}

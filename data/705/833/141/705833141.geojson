@@ -1,0 +1,71 @@
+{
+  "id": 705833141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625003,42.278157,-85.625003,42.278157",
+    "geom:latitude":42.278157,
+    "geom:longitude":-85.625003,
+    "iso:country":"US",
+    "sg:address":"1400 Greenwood Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 343 1457",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uxMYSAX0PHY872DSAADbR_42.278157_-85.625003@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789806,
+    "wof:geomhash":"d2852194f322b6fd49a07b5e1f2fb963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":705833141
+        }
+    ],
+    "wof:id":705833141,
+    "wof:lastmodified":1461789806,
+    "wof:name":"Oak Forest Apartments",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.625003,
+    42.278157,
+    -85.625003,
+    42.278157
+],
+  "geometry": {"coordinates":[-85.62500300000001,42.278157],"type":"Point"}
+}

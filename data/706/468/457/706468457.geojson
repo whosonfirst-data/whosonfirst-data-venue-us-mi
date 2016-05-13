@@ -1,0 +1,73 @@
+{
+  "id": 706468457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.839623,45.775993,-87.839623,45.775993",
+    "geom:latitude":45.775993,
+    "geom:longitude":-87.839623,
+    "iso:country":"US",
+    "sg:address":"1583 Sturgeon Mill Rd",
+    "sg:city":"Vulcan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9999",
+    "sg:postcode":"49892",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BAlwMi89qhd3yQsDh3vCj_45.775993_-87.839623@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803812,
+    "wof:geomhash":"b5a833df0632e62dcea4632a5cf70abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706468457
+        }
+    ],
+    "wof:id":706468457,
+    "wof:lastmodified":1461803812,
+    "wof:name":"Vulcan Mini Storage",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.839623,
+    45.775993,
+    -87.839623,
+    45.775993
+],
+  "geometry": {"coordinates":[-87.839623,45.775993],"type":"Point"}
+}

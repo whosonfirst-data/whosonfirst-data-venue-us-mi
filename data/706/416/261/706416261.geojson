@@ -1,0 +1,73 @@
+{
+  "id": 706416261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.721085,43.018479,-83.721085,43.018479",
+    "geom:latitude":43.018479,
+    "geom:longitude":-83.721085,
+    "iso:country":"US",
+    "sg:address":"901 Blair St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 8657",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ArG9Zi99OjtGO8ddVxWV_43.018479_-83.721085@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802721,
+    "wof:geomhash":"b704394dbf265a044e4ed3a236986455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706416261
+        }
+    ],
+    "wof:id":706416261,
+    "wof:lastmodified":1461802721,
+    "wof:name":"A & M Electric",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.721085,
+    43.018479,
+    -83.721085,
+    43.018479
+],
+  "geometry": {"coordinates":[-83.721085,43.018479],"type":"Point"}
+}

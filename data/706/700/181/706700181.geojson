@@ -1,0 +1,73 @@
+{
+  "id": 706700181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.902802,42.628399,-82.902802,42.628399",
+    "geom:latitude":42.628399,
+    "geom:longitude":-82.902802,
+    "iso:country":"US",
+    "sg:address":"21324 Hall Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 466 9993",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zCQLWo2y1cIdHVG5AcBB8_42.628399_-82.902802@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810090,
+    "wof:geomhash":"52feaf1f115e0fa544a846a24e26692a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706700181
+        }
+    ],
+    "wof:id":706700181,
+    "wof:lastmodified":1461810090,
+    "wof:name":"Gentle Paws",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -82.902802,
+    42.628399,
+    -82.902802,
+    42.628399
+],
+  "geometry": {"coordinates":[-82.90280199999999,42.628399],"type":"Point"}
+}

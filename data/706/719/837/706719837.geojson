@@ -1,0 +1,91 @@
+{
+  "id": 706719837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.059303,42.474624,-83.059303,42.474624",
+    "geom:latitude":42.474624,
+    "geom:longitude":-83.059303,
+    "iso:country":"US",
+    "sg:address":"24580 Cunningham Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 510 2800",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.clps.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524429,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23SIsrj40FJP9bZe5BGvno_42.474624_-83.059303@1303262781"
+    },
+    "wof:country":"US",
+    "wof:created":1461810970,
+    "wof:geomhash":"316545e48db85d29fc8010e10d91073b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524429,
+            "region_id":85688599,
+            "venue_id":706719837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524839,
+            "region_id":85688599,
+            "venue_id":706719837
+        }
+    ],
+    "wof:id":706719837,
+    "wof:lastmodified":1461810970,
+    "wof:name":"Center Line Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.059303,
+    42.474624,
+    -83.059303,
+    42.474624
+],
+  "geometry": {"coordinates":[-83.059303,42.474624],"type":"Point"}
+}

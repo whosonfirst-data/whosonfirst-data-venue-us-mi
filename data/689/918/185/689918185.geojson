@@ -1,0 +1,73 @@
+{
+  "id": 689918185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560543,42.268338,-85.560543,42.268338",
+    "geom:latitude":42.268338,
+    "geom:longitude":-85.560543,
+    "iso:country":"US",
+    "sg:address":"2262 Cameron St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 1312",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_480oIUSfDcfzp3f7tG9XuB_42.268338_-85.560543@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785073,
+    "wof:geomhash":"5aea30003edb2bc1948f2d21c97c96cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":689918185
+        }
+    ],
+    "wof:id":689918185,
+    "wof:lastmodified":1461785073,
+    "wof:name":"Bruce Plumbing & Heating",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.560543,
+    42.268338,
+    -85.560543,
+    42.268338
+],
+  "geometry": {"coordinates":[-85.560543,42.268338],"type":"Point"}
+}

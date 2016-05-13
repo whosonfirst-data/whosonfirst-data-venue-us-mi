@@ -1,0 +1,73 @@
+{
+  "id": 706649183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244215,43.227714,-86.244215,43.227714",
+    "geom:latitude":43.227714,
+    "geom:longitude":-86.244215,
+    "iso:country":"US",
+    "sg:address":"1391 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 3997",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lVoZiat6UYrv6NgfWGxsZ_43.227714_-86.244215@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807894,
+    "wof:geomhash":"929d76a5ce6deabe32141004fc87a14d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706649183
+        }
+    ],
+    "wof:id":706649183,
+    "wof:lastmodified":1461807894,
+    "wof:name":"Belasco Electric Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.244215,
+    43.227714,
+    -86.244215,
+    43.227714
+],
+  "geometry": {"coordinates":[-86.244215,43.227714],"type":"Point"}
+}

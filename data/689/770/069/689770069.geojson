@@ -1,0 +1,71 @@
+{
+  "id": 689770069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.201413,43.237914,-86.201413,43.237914",
+    "geom:latitude":43.237914,
+    "geom:longitude":-86.201413,
+    "iso:country":"US",
+    "sg:address":"1700 Oak Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 6430",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DzLSoRYSh7hIaUgNZk1Dg_43.237914_-86.201413@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781016,
+    "wof:geomhash":"b738ac2f059f08b1d2822b2733356b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689770069
+        }
+    ],
+    "wof:id":689770069,
+    "wof:lastmodified":1461781016,
+    "wof:name":"Oak Medi-Center",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.201413,
+    43.237914,
+    -86.201413,
+    43.237914
+],
+  "geometry": {"coordinates":[-86.201413,43.237914],"type":"Point"}
+}

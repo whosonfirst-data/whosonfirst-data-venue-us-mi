@@ -1,0 +1,71 @@
+{
+  "id": 705805395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.729862,43.009543,-83.729862,43.009543",
+    "geom:latitude":43.009543,
+    "geom:longitude":-83.729862,
+    "iso:country":"US",
+    "sg:address":"3528 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 8617",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24MDZArgiDuvudaRW8jZtp_43.009543_-83.729862@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789138,
+    "wof:geomhash":"0260205b929ff1593eba2669e19c2627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705805395
+        }
+    ],
+    "wof:id":705805395,
+    "wof:lastmodified":1461789138,
+    "wof:name":"Beechwood Center Counciling",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -83.729862,
+    43.009543,
+    -83.729862,
+    43.009543
+],
+  "geometry": {"coordinates":[-83.729862,43.009543],"type":"Point"}
+}

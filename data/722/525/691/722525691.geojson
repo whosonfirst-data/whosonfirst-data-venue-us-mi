@@ -1,0 +1,90 @@
+{
+  "id": 722525691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.543556,42.668471,-84.543556,42.668471",
+    "geom:latitude":42.668471,
+    "geom:longitude":-84.543556,
+    "iso:country":"US",
+    "sg:address":"6200 S Cedar St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 1565",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "style",
+        "take",
+        "family",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04B3WpZYEL77FcdoLoYQL3_42.668471_-84.543556@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814240,
+    "wof:geomhash":"225ed4d296456ab0593a492ad72c0651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":722525691
+        }
+    ],
+    "wof:id":722525691,
+    "wof:lastmodified":1461814240,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "style",
+        "take",
+        "family",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.543556,
+    42.668471,
+    -84.543556,
+    42.668471
+],
+  "geometry": {"coordinates":[-84.543556,42.668471],"type":"Point"}
+}

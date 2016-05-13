@@ -1,0 +1,73 @@
+{
+  "id": 706155731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663526,42.741978,-85.663526,42.741978",
+    "geom:latitude":42.741978,
+    "geom:longitude":-85.663526,
+    "iso:country":"US",
+    "sg:address":"1203 Peony Ave",
+    "sg:city":"Moline",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 293 1307",
+    "sg:postcode":"49335",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CrmJH9y988On2Tn7KslIX_42.741978_-85.663526@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797106,
+    "wof:geomhash":"12d6c3f22b4e807993ee988bb5f3a7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706155731
+        }
+    ],
+    "wof:id":706155731,
+    "wof:lastmodified":1461797106,
+    "wof:name":"Paycheck Transport",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.663526,
+    42.741978,
+    -85.663526,
+    42.741978
+],
+  "geometry": {"coordinates":[-85.663526,42.741978],"type":"Point"}
+}

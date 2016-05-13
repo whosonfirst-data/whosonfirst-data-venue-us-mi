@@ -1,0 +1,69 @@
+{
+  "id": 722529199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.653847,42.731325,-85.653847,42.731325",
+    "geom:latitude":42.731325,
+    "geom:longitude":-85.653847,
+    "iso:country":"US",
+    "sg:address":"4668 Division St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 877 4503",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SKGU7zdp5mIMKzjINJWr3_42.731325_-85.653847@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814378,
+    "wof:geomhash":"6db26d26714928a0c0003e507bc026f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":722529199
+        }
+    ],
+    "wof:id":722529199,
+    "wof:lastmodified":1461814378,
+    "wof:name":"Brian McBride Electric",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.653847,
+    42.731325,
+    -85.653847,
+    42.731325
+],
+  "geometry": {"coordinates":[-85.653847,42.731325],"type":"Point"}
+}

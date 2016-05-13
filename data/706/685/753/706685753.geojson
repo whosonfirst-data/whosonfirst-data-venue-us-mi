@@ -1,0 +1,74 @@
+{
+  "id": 706685753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245562,43.235589,-86.245562,43.235589",
+    "geom:latitude":43.235589,
+    "geom:longitude":-86.245562,
+    "iso:country":"US",
+    "sg:address":"928 Terrace St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/196932-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 7157",
+    "sg:postcode":"49440",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ljpoHl6Fkn0thUfEPxin0_43.235589_-86.245562@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809511,
+    "wof:geomhash":"34dbb1ce5e4feaa6e1384b755985058e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685753
+        }
+    ],
+    "wof:id":706685753,
+    "wof:lastmodified":1461809511,
+    "wof:name":"Burger King",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.245562,
+    43.235589,
+    -86.245562,
+    43.235589
+],
+  "geometry": {"coordinates":[-86.24556200000001,43.235589],"type":"Point"}
+}

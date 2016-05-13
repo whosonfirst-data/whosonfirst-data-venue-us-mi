@@ -1,0 +1,71 @@
+{
+  "id": 706212019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.078086,45.753655,-87.078086,45.753655",
+    "geom:latitude":45.753655,
+    "geom:longitude":-87.078086,
+    "iso:country":"US",
+    "sg:address":"2226 6th Ave N",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 6591",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FpNXn2klMJ9U3AooRAxWs_45.753655_-87.078086@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798325,
+    "wof:geomhash":"6073c436cd4bd4d83a32622f8d73a9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706212019
+        }
+    ],
+    "wof:id":706212019,
+    "wof:lastmodified":1461798325,
+    "wof:name":"Advanced Tech Svc Ctr",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.078086,
+    45.753655,
+    -87.078086,
+    45.753655
+],
+  "geometry": {"coordinates":[-87.078086,45.753655],"type":"Point"}
+}

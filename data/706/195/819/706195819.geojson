@@ -1,0 +1,71 @@
+{
+  "id": 706195819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.502328,42.27459,-83.502328,42.27459",
+    "geom:latitude":42.27459,
+    "geom:longitude":-83.502328,
+    "iso:country":"US",
+    "sg:address":"4730 Sherwood Cir",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 564 9409",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jgh7oxVawT55KNYVmrLRh_42.274590_-83.502328@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797983,
+    "wof:geomhash":"25f58feb2a55396edba808762900ba17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":706195819
+        }
+    ],
+    "wof:id":706195819,
+    "wof:lastmodified":1461797983,
+    "wof:name":"Marks Mobile Mechanics Inc",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.502328,
+    42.27459,
+    -83.502328,
+    42.27459
+],
+  "geometry": {"coordinates":[-83.50232800000001,42.27459],"type":"Point"}
+}

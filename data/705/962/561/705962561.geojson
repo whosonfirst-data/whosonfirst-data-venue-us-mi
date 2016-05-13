@@ -1,0 +1,71 @@
+{
+  "id": 705962561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.711934,43.939014,-82.711934,43.939014",
+    "geom:latitude":43.939014,
+    "geom:longitude":-82.711934,
+    "iso:country":"US",
+    "sg:address":"4251 Main St",
+    "sg:city":"Port Hope",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 428 4683",
+    "sg:postcode":"48468",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950919,
+        102083017,
+        85844143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uvo1Kt3de3GgKToQWwWRv_43.939014_-82.711934@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792808,
+    "wof:geomhash":"9e440fd5741e01cf01281bc16b3b48d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083017,
+            "locality_id":85950919,
+            "neighbourhood_id":85844143,
+            "region_id":85688599,
+            "venue_id":705962561
+        }
+    ],
+    "wof:id":705962561,
+    "wof:lastmodified":1461792808,
+    "wof:name":"Browns Power Wash",
+    "wof:parent_id":85844143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -82.711934,
+    43.939014,
+    -82.711934,
+    43.939014
+],
+  "geometry": {"coordinates":[-82.711934,43.939014],"type":"Point"}
+}

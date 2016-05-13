@@ -1,0 +1,74 @@
+{
+  "id": 706679467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.297303,42.607717,-83.297303,42.607717",
+    "geom:latitude":42.607717,
+    "geom:longitude":-83.297303,
+    "iso:country":"US",
+    "sg:address":"2125 S Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bloomfield/103112-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 253 9877",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wuZ7FAYuf3q92ymVpHuXr_42.607717_-83.297303@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809261,
+    "wof:geomhash":"8f3294e15682b5732eb774fe6db3d2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706679467
+        }
+    ],
+    "wof:id":706679467,
+    "wof:lastmodified":1461809261,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.297303,
+    42.607717,
+    -83.297303,
+    42.607717
+],
+  "geometry": {"coordinates":[-83.297303,42.607717],"type":"Point"}
+}

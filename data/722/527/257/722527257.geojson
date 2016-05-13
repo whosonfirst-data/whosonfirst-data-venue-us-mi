@@ -1,0 +1,83 @@
+{
+  "id": 722527257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.596359,42.19488,-85.596359,42.19488",
+    "geom:latitude":42.19488,
+    "geom:longitude":-85.596359,
+    "iso:country":"US",
+    "sg:address":"8324 Shaver Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 7028",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "system",
+        "contractor",
+        "furnaces-heating",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.belaire.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dqIS5sVHrTtTttl5DIO9Z_42.194880_-85.596359@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814298,
+    "wof:geomhash":"d23faab82b97346b0e965a79e84aaaf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":722527257
+        }
+    ],
+    "wof:id":722527257,
+    "wof:lastmodified":1461814298,
+    "wof:name":"BEL-AIRE",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "contractor",
+        "furnaces-heating",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -85.596359,
+    42.19488,
+    -85.596359,
+    42.19488
+],
+  "geometry": {"coordinates":[-85.59635900000001,42.19488],"type":"Point"}
+}

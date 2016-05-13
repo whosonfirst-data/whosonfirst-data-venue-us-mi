@@ -1,0 +1,71 @@
+{
+  "id": 689890649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.059766,45.747045,-87.059766,45.747045",
+    "geom:latitude":45.747045,
+    "geom:longitude":-87.059766,
+    "iso:country":"US",
+    "sg:address":"227 N 9th St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 233 9762",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6itQsy9qfWN2GYH3Qj4cYe_45.747045_-87.059766@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784311,
+    "wof:geomhash":"8e8db4146a36f0d164e5c6f9522647d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689890649
+        }
+    ],
+    "wof:id":689890649,
+    "wof:lastmodified":1461784311,
+    "wof:name":"American Mobile X Ray",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -87.059766,
+    45.747045,
+    -87.059766,
+    45.747045
+],
+  "geometry": {"coordinates":[-87.059766,45.747045],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 705865683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.999804,42.348229,-82.999804,42.348229",
+    "geom:latitude":42.348229,
+    "geom:longitude":-82.999804,
+    "iso:country":"US",
+    "sg:address":"7349 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 331 5110",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operated",
+        "physician",
+        "clinic",
+        "by"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870555,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQyyeXJSOpaRJzLP19n0T_42.348229_-82.999804@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790569,
+    "wof:geomhash":"05061f94b1c0ddbcf81090e7dc444319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870555,
+            "region_id":85688599,
+            "venue_id":705865683
+        }
+    ],
+    "wof:id":705865683,
+    "wof:lastmodified":1461790569,
+    "wof:name":"Affiliated Clinics PC",
+    "wof:parent_id":85870555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "physician",
+        "clinic",
+        "by"
+    ]
+},
+  "bbox": [
+    -82.999804,
+    42.348229,
+    -82.999804,
+    42.348229
+],
+  "geometry": {"coordinates":[-82.999804,42.348229],"type":"Point"}
+}

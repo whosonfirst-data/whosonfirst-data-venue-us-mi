@@ -1,0 +1,71 @@
+{
+  "id": 706232681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599846,42.269924,-84.599846,42.269924",
+    "geom:latitude":42.269924,
+    "geom:longitude":-84.599846,
+    "iso:country":"US",
+    "sg:address":"2511 N Parma Rd",
+    "sg:city":"Parma",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 531 4646",
+    "sg:postcode":"49269",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5le4XqcddUtjuZ8aNTVm74_42.269924_-84.599846@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798758,
+    "wof:geomhash":"2a07a576720807a0d789fc2de7af963f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706232681
+        }
+    ],
+    "wof:id":706232681,
+    "wof:lastmodified":1461798758,
+    "wof:name":"Oil Zone",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.599846,
+    42.269924,
+    -84.599846,
+    42.269924
+],
+  "geometry": {"coordinates":[-84.599846,42.269924],"type":"Point"}
+}

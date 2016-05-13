@@ -1,0 +1,71 @@
+{
+  "id": 706345399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.110605,43.249475,-86.110605,43.249475",
+    "geom:latitude":43.249475,
+    "geom:longitude":-86.110605,
+    "iso:country":"US",
+    "sg:address":"5493 Hall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 7300",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tuOFywTnVmioIOJjO993w_43.249475_-86.110605@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801314,
+    "wof:geomhash":"0153518ef12c70888f75d7181250eece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706345399
+        }
+    ],
+    "wof:id":706345399,
+    "wof:lastmodified":1461801314,
+    "wof:name":"Oakridge High School",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -86.110605,
+    43.249475,
+    -86.110605,
+    43.249475
+],
+  "geometry": {"coordinates":[-86.11060500000001,43.249475],"type":"Point"}
+}

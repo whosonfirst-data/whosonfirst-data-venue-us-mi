@@ -1,0 +1,71 @@
+{
+  "id": 705959423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.565927,41.779306,-83.565927,41.779306",
+    "geom:latitude":41.779306,
+    "geom:longitude":-83.565927,
+    "iso:country":"US",
+    "sg:address":"714 W Temperance Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0240",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tQ6EVq04Em3VEYn8kOMSh_41.779306_-83.565927@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792732,
+    "wof:geomhash":"535845846786d0416f215c715f034239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":705959423
+        }
+    ],
+    "wof:id":705959423,
+    "wof:lastmodified":1461792732,
+    "wof:name":"Village Pizzeria",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.565927,
+    41.779306,
+    -83.565927,
+    41.779306
+],
+  "geometry": {"coordinates":[-83.565927,41.779306],"type":"Point"}
+}

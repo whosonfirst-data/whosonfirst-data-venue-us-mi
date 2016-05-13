@@ -1,0 +1,72 @@
+{
+  "id": 706681699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.026949,43.436934,-84.026949,43.436934",
+    "geom:latitude":43.436934,
+    "geom:longitude":-84.026949,
+    "iso:country":"US",
+    "sg:address":"5655 State St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/saginaw/142313-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 6688",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ut3ryTLqnNGiCcLK0ins4_43.436934_-84.026949@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809352,
+    "wof:geomhash":"73e72f0f6f762099dcfe1890ead88cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706681699
+        }
+    ],
+    "wof:id":706681699,
+    "wof:lastmodified":1461809352,
+    "wof:name":"Subway",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.026949,
+    43.436934,
+    -84.026949,
+    43.436934
+],
+  "geometry": {"coordinates":[-84.026949,43.436934],"type":"Point"}
+}

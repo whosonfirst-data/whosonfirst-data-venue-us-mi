@@ -1,0 +1,73 @@
+{
+  "id": 706170323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.380818,42.254716,-84.380818,42.254716",
+    "geom:latitude":42.254716,
+    "geom:longitude":-84.380818,
+    "iso:country":"US",
+    "sg:address":"1811 E Ganson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 1822",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wcMTdJm6SBMWu45ASvmoq_42.254716_-84.380818@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797437,
+    "wof:geomhash":"c2617230770f4d6cf6ff308f0fb328ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706170323
+        }
+    ],
+    "wof:id":706170323,
+    "wof:lastmodified":1461797437,
+    "wof:name":"Pets Domain",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.380818,
+    42.254716,
+    -84.380818,
+    42.254716
+],
+  "geometry": {"coordinates":[-84.380818,42.254716],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706682173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.836914,43.594248,-83.836914,43.594248",
+    "geom:latitude":43.594248,
+    "geom:longitude":-83.836914,
+    "iso:country":"US",
+    "sg:address":"1495 W Center Rd",
+    "sg:city":"Essexville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/hampton/185782-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48732",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524233,
+        102191575,
+        404506795,
+        85633793,
+        85951273,
+        102083135,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65nnip4Z7e3yONWEIgadRX_43.594248_-83.836914@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809369,
+    "wof:geomhash":"42594483bf8c98b9dfa32d72bd5894e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":706682173
+        }
+    ],
+    "wof:id":706682173,
+    "wof:lastmodified":1461809369,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420524233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.836914,
+    43.594248,
+    -83.836914,
+    43.594248
+],
+  "geometry": {"coordinates":[-83.83691399999999,43.594248],"type":"Point"}
+}

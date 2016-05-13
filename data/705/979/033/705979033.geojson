@@ -1,0 +1,69 @@
+{
+  "id": 705979033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.511265,42.649368,-83.511265,42.649368",
+    "geom:latitude":42.649368,
+    "geom:longitude":-83.511265,
+    "iso:country":"US",
+    "sg:address":"7525 Highland Rd",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 698 4400",
+    "sg:postcode":"48383",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d6bZ3EnLgq2j98yFXpKY5_42.649368_-83.511265@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793146,
+    "wof:geomhash":"537bb3e87be0c2fbd56e54617a847e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":705979033
+        }
+    ],
+    "wof:id":705979033,
+    "wof:lastmodified":1461793146,
+    "wof:name":"White Lake Township Police",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.511265,
+    42.649368,
+    -83.511265,
+    42.649368
+],
+  "geometry": {"coordinates":[-83.51126499999999,42.649368],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706676947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.748726,42.280481,-83.748726,42.280481",
+    "geom:latitude":42.280481,
+    "geom:longitude":-83.748726,
+    "iso:country":"US",
+    "sg:address":"117 W Washington St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/248071-cafe-du-jour/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 332 1030",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "soup",
+        "american",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875899,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gpN6WgScC1HVEmRN6kP3W_42.280481_-83.748726@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809160,
+    "wof:geomhash":"35b52157bd0910ea569d70b0a3d0d29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875899,
+            "region_id":85688599,
+            "venue_id":706676947
+        }
+    ],
+    "wof:id":706676947,
+    "wof:lastmodified":1461809160,
+    "wof:name":"Cafe Du Jour",
+    "wof:parent_id":85875899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "salad"
+    ]
+},
+  "bbox": [
+    -83.748726,
+    42.280481,
+    -83.748726,
+    42.280481
+],
+  "geometry": {"coordinates":[-83.748726,42.280481],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 689601765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.12915,42.642953,-83.12915,42.642953",
+    "geom:latitude":42.642953,
+    "geom:longitude":-83.12915,
+    "iso:country":"US",
+    "sg:address":"750 Barclay Cir",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 537 3530",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896787,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmq3kFBV1DdIU0PZuj3kR_42.642953_-83.129150@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776303,
+    "wof:geomhash":"b20fc762eb84455ceffacb31fda39c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896787,
+            "region_id":85688599,
+            "venue_id":689601765
+        }
+    ],
+    "wof:id":689601765,
+    "wof:lastmodified":1461776303,
+    "wof:name":"Oakland City Dept",
+    "wof:parent_id":85896787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.12915,
+    42.642953,
+    -83.12915,
+    42.642953
+],
+  "geometry": {"coordinates":[-83.12915,42.642953],"type":"Point"}
+}

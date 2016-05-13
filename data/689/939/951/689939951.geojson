@@ -1,0 +1,71 @@
+{
+  "id": 689939951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.696609,42.342494,-85.696609,42.342494",
+    "geom:latitude":42.342494,
+    "geom:longitude":-85.696609,
+    "iso:country":"US",
+    "sg:address":"5265 N 7th St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 5564",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XyB0DCNeuzQMAHnRgyhYJ_42.342494_-85.696609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785608,
+    "wof:geomhash":"e3e2ac23fe3d209585fa621a44f89e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":689939951
+        }
+    ],
+    "wof:id":689939951,
+    "wof:lastmodified":1461785608,
+    "wof:name":"Engbers Electric Inc",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.696609,
+    42.342494,
+    -85.696609,
+    42.342494
+],
+  "geometry": {"coordinates":[-85.696609,42.342494],"type":"Point"}
+}

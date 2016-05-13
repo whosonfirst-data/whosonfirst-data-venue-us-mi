@@ -1,0 +1,71 @@
+{
+  "id": 689526973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.984786,43.441875,-83.984786,43.441875",
+    "geom:latitude":43.441875,
+    "geom:longitude":-83.984786,
+    "iso:country":"US",
+    "sg:address":"2425 Whitemore Pl",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 5898",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Q0s7wV02aa4F4NItLNPA_43.441875_-83.984786@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773988,
+    "wof:geomhash":"699bd30cdc132870036aeeeb9002c601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689526973
+        }
+    ],
+    "wof:id":689526973,
+    "wof:lastmodified":1461773988,
+    "wof:name":"Tri Cities Dog Training Club",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -83.984786,
+    43.441875,
+    -83.984786,
+    43.441875
+],
+  "geometry": {"coordinates":[-83.984786,43.441875],"type":"Point"}
+}

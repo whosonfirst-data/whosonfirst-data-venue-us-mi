@@ -1,0 +1,71 @@
+{
+  "id": 689509461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.522228,46.501091,-87.522228,46.501091",
+    "geom:latitude":46.501091,
+    "geom:longitude":-87.522228,
+    "iso:country":"US",
+    "sg:address":"40 Grimes Rd",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 5611",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0roKnKDYNu8elojHkvgorD_46.501091_-87.522228@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773391,
+    "wof:geomhash":"eb1f6dc54e3e440b2c2049f0bdeef19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689509461
+        }
+    ],
+    "wof:id":689509461,
+    "wof:lastmodified":1461773391,
+    "wof:name":"Spiffy Clean",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -87.522228,
+    46.501091,
+    -87.522228,
+    46.501091
+],
+  "geometry": {"coordinates":[-87.522228,46.501091],"type":"Point"}
+}

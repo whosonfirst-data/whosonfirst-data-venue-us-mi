@@ -1,0 +1,71 @@
+{
+  "id": 689721149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2214,43.064463,-86.2214,43.064463",
+    "geom:latitude":43.064463,
+    "geom:longitude":-86.2214,
+    "iso:country":"US",
+    "sg:address":"300 N 7th St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 2800",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hMxib3ES1EeXeR8a19hts_43.064463_-86.221400@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779699,
+    "wof:geomhash":"ae500cdf5a942dec69ff18a0ccbc9146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689721149
+        }
+    ],
+    "wof:id":689721149,
+    "wof:lastmodified":1461779699,
+    "wof:name":"Rock n Road Cycle",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -86.2214,
+    43.064463,
+    -86.2214,
+    43.064463
+],
+  "geometry": {"coordinates":[-86.2214,43.064463],"type":"Point"}
+}

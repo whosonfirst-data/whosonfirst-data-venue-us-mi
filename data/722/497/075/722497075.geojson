@@ -1,0 +1,70 @@
+{
+  "id": 722497075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.174034,42.366007,-83.174034,42.366007",
+    "geom:latitude":42.366007,
+    "geom:longitude":-83.174034,
+    "iso:country":"US",
+    "sg:address":"13200 W Chicago St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 491 5441",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524873,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qEaiv9M4HYwo60i3d79gi_42.366007_-83.174034@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812960,
+    "wof:geomhash":"7ba118c4676653ac270a0c2c73154a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524873,
+            "region_id":85688599,
+            "venue_id":722497075
+        }
+    ],
+    "wof:id":722497075,
+    "wof:lastmodified":1461812960,
+    "wof:name":"Chicago Auto Repair",
+    "wof:parent_id":420524873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.174034,
+    42.366007,
+    -83.174034,
+    42.366007
+],
+  "geometry": {"coordinates":[-83.17403400000001,42.366007],"type":"Point"}
+}

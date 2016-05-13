@@ -1,0 +1,71 @@
+{
+  "id": 705763339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.781634,43.060518,-83.781634,43.060518",
+    "geom:latitude":43.060518,
+    "geom:longitude":-83.781634,
+    "iso:country":"US",
+    "sg:address":"5102 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 7315",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q4oU91Yn71posM66b6D2Z_43.060518_-83.781634@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788162,
+    "wof:geomhash":"76e360f8b0160cb74f495616906df7b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705763339
+        }
+    ],
+    "wof:id":705763339,
+    "wof:lastmodified":1461788162,
+    "wof:name":"Andrews & Johnson Inc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -83.781634,
+    43.060518,
+    -83.781634,
+    43.060518
+],
+  "geometry": {"coordinates":[-83.781634,43.060518],"type":"Point"}
+}

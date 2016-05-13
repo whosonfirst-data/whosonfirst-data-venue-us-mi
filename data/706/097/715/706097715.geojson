@@ -1,0 +1,74 @@
+{
+  "id": 706097715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.642422,42.692178,-84.642422,42.692178",
+    "geom:latitude":42.692178,
+    "geom:longitude":-84.642422,
+    "iso:country":"US",
+    "sg:address":"3520 S Creyts Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 322 0338",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.penske.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DqeCrHXZaQbkZv5jBIh9Y_42.692178_-84.642422@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795732,
+    "wof:geomhash":"76506dda6e64ac9d03148874ff603ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":706097715
+        }
+    ],
+    "wof:id":706097715,
+    "wof:lastmodified":1461795732,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85834385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.642422,
+    42.692178,
+    -84.642422,
+    42.692178
+],
+  "geometry": {"coordinates":[-84.642422,42.692178],"type":"Point"}
+}

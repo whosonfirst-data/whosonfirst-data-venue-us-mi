@@ -1,0 +1,80 @@
+{
+  "id": 722517361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.366521,42.47921,-83.366521,42.47921",
+    "geom:latitude":42.47921,
+    "geom:longitude":-83.366521,
+    "iso:country":"US",
+    "sg:address":"32400 Alameda St",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 489 3808",
+    "sg:postcode":"48336",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896649,
+        102191575,
+        404508187,
+        85633793,
+        85951999,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OkCwiteFIkltx4VJW3xZJ_42.479210_-83.366521@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813801,
+    "wof:geomhash":"a24fd642ed2614b84ad299d4ea3a91b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508187,
+            "locality_id":85951999,
+            "neighbourhood_id":85896649,
+            "region_id":85688599,
+            "venue_id":722517361
+        }
+    ],
+    "wof:id":722517361,
+    "wof:lastmodified":1461813801,
+    "wof:name":"Farmington Public Schools",
+    "wof:parent_id":85896649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.366521,
+    42.47921,
+    -83.366521,
+    42.47921
+],
+  "geometry": {"coordinates":[-83.36652100000001,42.47921],"type":"Point"}
+}

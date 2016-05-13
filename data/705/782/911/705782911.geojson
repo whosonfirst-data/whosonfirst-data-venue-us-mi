@@ -1,0 +1,70 @@
+{
+  "id": 705782911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.410176,42.251625,-84.410176,42.251625",
+    "geom:latitude":42.251625,
+    "geom:longitude":-84.410176,
+    "iso:country":"US",
+    "sg:address":"429 Ingham St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 5700",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.hva.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FtESBVT36ASEODmJpKifJ_42.251625_-84.410176@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788630,
+    "wof:geomhash":"7332b701f69aa9bdcb005d292797958f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705782911
+        }
+    ],
+    "wof:id":705782911,
+    "wof:lastmodified":1461788630,
+    "wof:name":"Jackson Community Ambulance",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.410176,
+    42.251625,
+    -84.410176,
+    42.251625
+],
+  "geometry": {"coordinates":[-84.41017600000001,42.251625],"type":"Point"}
+}

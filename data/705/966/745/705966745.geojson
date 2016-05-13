@@ -1,0 +1,71 @@
+{
+  "id": 705966745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398041,42.698384,-83.398041,42.698384",
+    "geom:latitude":42.698384,
+    "geom:longitude":-83.398041,
+    "iso:country":"US",
+    "sg:address":"5516 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 6461",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64T2ht9sHq2pXu2uuFSOmT_42.698384_-83.398041@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792898,
+    "wof:geomhash":"af96cf84321de10cf9a24054f74384c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705966745
+        }
+    ],
+    "wof:id":705966745,
+    "wof:lastmodified":1461792898,
+    "wof:name":"German Motor Werks",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.398041,
+    42.698384,
+    -83.398041,
+    42.698384
+],
+  "geometry": {"coordinates":[-83.39804100000001,42.698384],"type":"Point"}
+}

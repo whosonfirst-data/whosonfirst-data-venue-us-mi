@@ -1,0 +1,88 @@
+{
+  "id": 689674679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.950803,42.362563,-82.950803,42.362563",
+    "geom:latitude":42.362563,
+    "geom:longitude":-82.950803,
+    "iso:country":"US",
+    "sg:address":"440 Kitchener St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 822 8364",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85870577,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33cQq0VRAcFCnIt86NUPyG_42.362563_-82.950803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778498,
+    "wof:geomhash":"e0d98e4209cd7c2795c729badf906c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":689674679
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870577,
+            "region_id":85688599,
+            "venue_id":689674679
+        }
+    ],
+    "wof:id":689674679,
+    "wof:lastmodified":1461778498,
+    "wof:name":"Huby House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -82.950803,
+    42.362563,
+    -82.950803,
+    42.362563
+],
+  "geometry": {"coordinates":[-82.95080299999999,42.362563],"type":"Point"}
+}

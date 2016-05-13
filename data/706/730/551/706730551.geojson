@@ -1,0 +1,91 @@
+{
+  "id": 706730551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303413,42.2901,-83.303413,42.2901",
+    "geom:latitude":42.2901,
+    "geom:longitude":-83.303413,
+    "iso:country":"US",
+    "sg:address":"26900 Princeton St",
+    "sg:city":"Inkster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 562 5020",
+    "sg:postcode":"48141",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524947,
+        102191575,
+        404508603,
+        85633793,
+        85951067,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jI2FDLQM8yofhnUYj6c1S_42.290100_-83.303413@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811442,
+    "wof:geomhash":"4715740c50e79484c98988d3738394b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508603,
+            "locality_id":85951067,
+            "neighbourhood_id":420524947,
+            "region_id":85688599,
+            "venue_id":706730551
+        }
+    ],
+    "wof:id":706730551,
+    "wof:lastmodified":1461811442,
+    "wof:name":"Inkster Dog Pound",
+    "wof:parent_id":420524947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -83.303413,
+    42.2901,
+    -83.303413,
+    42.2901
+],
+  "geometry": {"coordinates":[-83.30341300000001,42.2901],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706588913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551146,42.67361,-84.551146,42.67361",
+    "geom:latitude":42.67361,
+    "geom:longitude":-84.551146,
+    "iso:country":"US",
+    "sg:address":"5827 Laparte Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 242 0216",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CxgxSdkDsCUAfQLFM254h_42.673610_-84.551146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806501,
+    "wof:geomhash":"c745f8e757ea071b2d54602152ee597e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706588913
+        }
+    ],
+    "wof:id":706588913,
+    "wof:lastmodified":1461806501,
+    "wof:name":"Superior Home Inspections",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.551146,
+    42.67361,
+    -84.551146,
+    42.67361
+],
+  "geometry": {"coordinates":[-84.551146,42.67361],"type":"Point"}
+}

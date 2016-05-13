@@ -1,0 +1,81 @@
+{
+  "id": 706689149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251874,43.267485,-86.251874,43.267485",
+    "geom:latitude":43.267485,
+    "geom:longitude":-86.251874,
+    "iso:country":"US",
+    "sg:address":"475 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/north-muskegon/47779-brooklyn-bagels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 719 1623",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ljdizuvknTGEL0bJJBJUS_43.267598_-86.252137@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809638,
+    "wof:geomhash":"34fbd3074a46cb45acd56175cb8a380e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706689149
+        }
+    ],
+    "wof:id":706689149,
+    "wof:lastmodified":1461809638,
+    "wof:name":"Brooklyn Bagels",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.251874,
+    43.267485,
+    -86.251874,
+    43.267485
+],
+  "geometry": {"coordinates":[-86.251874,43.267485],"type":"Point"}
+}

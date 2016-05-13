@@ -1,0 +1,71 @@
+{
+  "id": 689506109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.535839,42.271967,-85.535839,42.271967",
+    "geom:latitude":42.271967,
+    "geom:longitude":-85.535839,
+    "iso:country":"US",
+    "sg:address":"1949 Olmstead Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 5600",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BLl3QiGjnVA1piAF0uWdf_42.271967_-85.535839@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773290,
+    "wof:geomhash":"4c3c8563a3da5b85ccbb2965dd985e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":689506109
+        }
+    ],
+    "wof:id":689506109,
+    "wof:lastmodified":1461773290,
+    "wof:name":"Kalamazoo Truck Sales",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.535839,
+    42.271967,
+    -85.535839,
+    42.271967
+],
+  "geometry": {"coordinates":[-85.535839,42.271967],"type":"Point"}
+}

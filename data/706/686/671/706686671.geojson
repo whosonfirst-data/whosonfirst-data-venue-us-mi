@@ -1,0 +1,72 @@
+{
+  "id": 706686671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68904,43.02112,-85.68904,43.02112",
+    "geom:latitude":43.02112,
+    "geom:longitude":-85.68904,
+    "iso:country":"US",
+    "sg:address":"3160 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/walker/207837-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 6284",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yhoh0DPgMggCjh4NZGIdG_43.021120_-85.689040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809544,
+    "wof:geomhash":"94c8ee38d3a39d6bb19a793b39deccb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706686671
+        }
+    ],
+    "wof:id":706686671,
+    "wof:lastmodified":1461809544,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.68904,
+    43.02112,
+    -85.68904,
+    43.02112
+],
+  "geometry": {"coordinates":[-85.68904000000001,43.02112],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689950537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.38079,42.252013,-84.38079,42.252013",
+    "geom:latitude":42.252013,
+    "geom:longitude":-84.38079,
+    "iso:country":"US",
+    "sg:address":"1809 E Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 6571",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k7hWlMGVlVaCUuhyGG17x_42.252013_-84.380790@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785870,
+    "wof:geomhash":"72ffe6798fd93ff8fc80edfdfed0813e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689950537
+        }
+    ],
+    "wof:id":689950537,
+    "wof:lastmodified":1461785870,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -84.38079,
+    42.252013,
+    -84.38079,
+    42.252013
+],
+  "geometry": {"coordinates":[-84.38079,42.252013],"type":"Point"}
+}

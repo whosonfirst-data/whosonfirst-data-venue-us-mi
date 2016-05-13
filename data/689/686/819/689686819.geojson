@@ -1,0 +1,71 @@
+{
+  "id": 689686819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.051505,43.401258,-84.051505,43.401258",
+    "geom:latitude":43.401258,
+    "geom:longitude":-84.051505,
+    "iso:country":"US",
+    "sg:address":"6727 Dutch Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 9155",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fardmpAh2e4r2vFBoxgXJ_43.401258_-84.051505@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778792,
+    "wof:geomhash":"221ddf0086a4ac5c6f565ad30282ab13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689686819
+        }
+    ],
+    "wof:id":689686819,
+    "wof:lastmodified":1461778792,
+    "wof:name":"Tri City Crown & Bridge Labs",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.051505,
+    43.401258,
+    -84.051505,
+    43.401258
+],
+  "geometry": {"coordinates":[-84.05150500000001,43.401258],"type":"Point"}
+}

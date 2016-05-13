@@ -1,0 +1,78 @@
+{
+  "id": 689499913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.371879,41.917083,-83.371879,41.917083",
+    "geom:latitude":41.917083,
+    "geom:longitude":-83.371879,
+    "iso:country":"US",
+    "sg:address":"1630 Telb St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 2900",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "steel",
+        "truck",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JOU26vC5ZnQAATGzPdCb1_41.917083_-83.371879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773091,
+    "wof:geomhash":"e5a98e099ce85364ee029e8b25e0091e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689499913
+        }
+    ],
+    "wof:id":689499913,
+    "wof:lastmodified":1461773091,
+    "wof:name":"Great Lakes Western Star Frtlr",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "truck",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -83.371879,
+    41.917083,
+    -83.371879,
+    41.917083
+],
+  "geometry": {"coordinates":[-83.37187900000001,41.917083],"type":"Point"}
+}

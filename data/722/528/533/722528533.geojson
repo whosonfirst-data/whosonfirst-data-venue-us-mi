@@ -1,0 +1,75 @@
+{
+  "id": 722528533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.371925,43.019563,-85.371925,43.019563",
+    "geom:latitude":43.019563,
+    "geom:longitude":-85.371925,
+    "iso:country":"US",
+    "sg:address":"3275 Alden Nash Ave NE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 987 2750",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ol5tuTS0f6smF6uMNkXHq_43.019563_-85.371925@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814355,
+    "wof:geomhash":"eeec578429cc29491bd7679388fb80b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":722528533
+        }
+    ],
+    "wof:id":722528533,
+    "wof:lastmodified":1461814355,
+    "wof:name":"Lowell Area Schools",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -85.371925,
+    43.019563,
+    -85.371925,
+    43.019563
+],
+  "geometry": {"coordinates":[-85.371925,43.019563],"type":"Point"}
+}

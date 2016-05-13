@@ -1,0 +1,71 @@
+{
+  "id": 706332607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.557404,42.280745,-85.557404,42.280745",
+    "geom:latitude":42.280745,
+    "geom:longitude":-85.557404,
+    "iso:country":"US",
+    "sg:address":"1737 Lake St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 4072",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12jyUp5g6950hbbYmStXZ2_42.280745_-85.557404@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801037,
+    "wof:geomhash":"8a62ab6aa31f4d36efefec4e507584bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":706332607
+        }
+    ],
+    "wof:id":706332607,
+    "wof:lastmodified":1461801037,
+    "wof:name":"Cindys Towing & Recovery",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.557404,
+    42.280745,
+    -85.557404,
+    42.280745
+],
+  "geometry": {"coordinates":[-85.55740400000001,42.280745],"type":"Point"}
+}

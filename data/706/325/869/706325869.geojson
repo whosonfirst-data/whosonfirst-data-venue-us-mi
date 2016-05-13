@@ -1,0 +1,71 @@
+{
+  "id": 706325869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261417,42.778258,-83.261417,42.778258",
+    "geom:latitude":42.778258,
+    "geom:longitude":-83.261417,
+    "iso:country":"US",
+    "sg:address":"395 Shady Oaks St",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 2347",
+    "sg:postcode":"48362",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVlVvk2RTVtqEnls8rIup_42.778258_-83.261417@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800878,
+    "wof:geomhash":"6e399d0d7567a946df42a00c8a34ca57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":706325869
+        }
+    ],
+    "wof:id":706325869,
+    "wof:lastmodified":1461800878,
+    "wof:name":"Bergmans Dental Lab",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.261417,
+    42.778258,
+    -83.261417,
+    42.778258
+],
+  "geometry": {"coordinates":[-83.26141699999999,42.778258],"type":"Point"}
+}

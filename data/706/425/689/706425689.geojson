@@ -1,0 +1,71 @@
+{
+  "id": 706425689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.408495,42.245534,-84.408495,42.245534",
+    "geom:latitude":42.245534,
+    "geom:longitude":-84.408495,
+    "iso:country":"US",
+    "sg:address":"115 W Washington Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 7131",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jmi0nIZuVFV1UIxzxQe27_42.245534_-84.408495@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802899,
+    "wof:geomhash":"cca65b51a2bba2e9aa5a52e90202cea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706425689
+        }
+    ],
+    "wof:id":706425689,
+    "wof:lastmodified":1461802899,
+    "wof:name":"Schafer Dry Cleaning Co",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -84.408495,
+    42.245534,
+    -84.408495,
+    42.245534
+],
+  "geometry": {"coordinates":[-84.408495,42.245534],"type":"Point"}
+}

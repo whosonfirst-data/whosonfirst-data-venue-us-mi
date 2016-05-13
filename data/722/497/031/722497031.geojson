@@ -1,0 +1,82 @@
+{
+  "id": 722497031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.231214,42.343434,-83.231214,42.343434",
+    "geom:latitude":42.343434,
+    "geom:longitude":-83.231214,
+    "iso:country":"US",
+    "sg:address":"19450 W Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 441 1000",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870491,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62D2urdf7XSFJeHV6GEmHc_42.343434_-83.231214@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812959,
+    "wof:geomhash":"e1ac2d27b7011a4a744f4740428a3526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870491,
+            "region_id":85688599,
+            "venue_id":722497031
+        }
+    ],
+    "wof:id":722497031,
+    "wof:lastmodified":1461812959,
+    "wof:name":"99 Cents Store",
+    "wof:parent_id":85870491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore",
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.231214,
+    42.343434,
+    -83.231214,
+    42.343434
+],
+  "geometry": {"coordinates":[-83.23121399999999,42.343434],"type":"Point"}
+}

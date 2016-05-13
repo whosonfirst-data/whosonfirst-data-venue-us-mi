@@ -1,0 +1,90 @@
+{
+  "id": 706735437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.402985,42.402388,-83.402985,42.402388",
+    "geom:latitude":42.402388,
+    "geom:longitude":-83.402985,
+    "iso:country":"US",
+    "sg:address":"15900 Levan Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 744 2730",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        420559295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RPnRsgOUN9nOHZNiS2x9r_42.402388_-83.402985@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811637,
+    "wof:geomhash":"a22488016d6896f8932839240657925d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706735437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420559295,
+            "region_id":85688599,
+            "venue_id":706735437
+        }
+    ],
+    "wof:id":706735437,
+    "wof:lastmodified":1461811637,
+    "wof:name":"Livonia Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.402985,
+    42.402388,
+    -83.402985,
+    42.402388
+],
+  "geometry": {"coordinates":[-83.402985,42.402388],"type":"Point"}
+}

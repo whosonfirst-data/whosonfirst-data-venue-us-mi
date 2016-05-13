@@ -1,0 +1,71 @@
+{
+  "id": 705827765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.337844,42.671749,-83.337844,42.671749",
+    "geom:latitude":42.671749,
+    "geom:longitude":-83.337844,
+    "iso:country":"US",
+    "sg:address":"2475 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 334 1445",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_644XiAETU4Y3Yjk9L0soRT_42.671749_-83.337844@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789679,
+    "wof:geomhash":"17638f25ccd97429fd4efd18b7b23119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":705827765
+        }
+    ],
+    "wof:id":705827765,
+    "wof:lastmodified":1461789679,
+    "wof:name":"USA Lube",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -83.337844,
+    42.671749,
+    -83.337844,
+    42.671749
+],
+  "geometry": {"coordinates":[-83.337844,42.671749],"type":"Point"}
+}

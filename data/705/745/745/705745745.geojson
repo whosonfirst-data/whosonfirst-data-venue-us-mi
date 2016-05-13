@@ -1,0 +1,75 @@
+{
+  "id": 705745745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65282,42.883806,-85.65282,42.883806",
+    "geom:latitude":42.883806,
+    "geom:longitude":-85.65282,
+    "iso:country":"US",
+    "sg:address":"486 44th St SE",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 534 1616",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BjQtSFAVjKCxG9feykC9m_42.883806_-85.652820@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787767,
+    "wof:geomhash":"2d292616b1cf72b5033f1aa287c76ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705745745
+        }
+    ],
+    "wof:id":705745745,
+    "wof:lastmodified":1461787767,
+    "wof:name":"Vaneck Collision & Paint",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.65282,
+    42.883806,
+    -85.65282,
+    42.883806
+],
+  "geometry": {"coordinates":[-85.65282000000001,42.883806],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689816523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.374316,43.405115,-86.374316,43.405115",
+    "geom:latitude":43.405115,
+    "geom:longitude":-86.374316,
+    "iso:country":"US",
+    "sg:address":"5145 Industrial Park Dr",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 3624",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GWyldTjS5R0cHqzWzE0dZ_43.405115_-86.374316@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782375,
+    "wof:geomhash":"40c5519686206f33869fde6ec46cb126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":689816523
+        }
+    ],
+    "wof:id":689816523,
+    "wof:lastmodified":1461782375,
+    "wof:name":"Quality Concepts",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [
+    -86.374316,
+    43.405115,
+    -86.374316,
+    43.405115
+],
+  "geometry": {"coordinates":[-86.37431599999999,43.405115],"type":"Point"}
+}

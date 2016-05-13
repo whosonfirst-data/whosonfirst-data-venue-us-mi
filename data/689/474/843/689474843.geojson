@@ -1,0 +1,76 @@
+{
+  "id": 689474843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.169632,42.593645,-86.169632,42.593645",
+    "geom:latitude":42.593645,
+    "geom:longitude":-86.169632,
+    "iso:country":"US",
+    "sg:address":"6390 124th Ave",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 561 6485",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805003,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KXYJmeHww4oEKMOjOq2r4_42.593645_-86.169632@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772372,
+    "wof:geomhash":"f51354dd7ac0b14a64238f9987b77aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85805003,
+            "region_id":85688599,
+            "venue_id":689474843
+        }
+    ],
+    "wof:id":689474843,
+    "wof:lastmodified":1461772372,
+    "wof:name":"Big J's Gunsmithing",
+    "wof:parent_id":85805003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -86.169632,
+    42.593645,
+    -86.169632,
+    42.593645
+],
+  "geometry": {"coordinates":[-86.16963199999999,42.593645],"type":"Point"}
+}

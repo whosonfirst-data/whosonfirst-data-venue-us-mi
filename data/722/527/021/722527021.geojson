@@ -1,0 +1,87 @@
+{
+  "id": 722527021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632009,42.213648,-85.632009,42.213648",
+    "geom:latitude":42.213648,
+    "geom:longitude":-85.632009,
+    "iso:country":"US",
+    "sg:address":"3550 Austrian Pine Way",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 9672",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "sg:website":"http://www.marylandparkapts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878457,
+        102191575,
+        404507697,
+        85633793,
+        85950989,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Iptj9YKi3IUSJrFaEISY_42.213648_-85.632009@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814290,
+    "wof:geomhash":"29a7aff53fee996282f5bf5528ca6e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507697,
+            "locality_id":85950989,
+            "neighbourhood_id":85878457,
+            "region_id":85688599,
+            "venue_id":722527021
+        }
+    ],
+    "wof:id":722527021,
+    "wof:lastmodified":1461814290,
+    "wof:name":"Pines West Apts",
+    "wof:parent_id":85878457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -85.632009,
+    42.213648,
+    -85.632009,
+    42.213648
+],
+  "geometry": {"coordinates":[-85.632009,42.213648],"type":"Point"}
+}

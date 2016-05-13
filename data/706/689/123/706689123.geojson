@@ -1,0 +1,76 @@
+{
+  "id": 706689123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.285284,43.20561,-86.285284,43.20561",
+    "geom:latitude":43.20561,
+    "geom:longitude":-86.285284,
+    "iso:country":"US",
+    "sg:address":"1701 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/45011-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 0925",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tWGw7Vt3NL4ctXBm5H3CB_43.205576_-86.285813@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809637,
+    "wof:geomhash":"f63d8606b1026caf08e0e05a1eac00d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706689123
+        }
+    ],
+    "wof:id":706689123,
+    "wof:lastmodified":1461809637,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.285284,
+    43.20561,
+    -86.285284,
+    43.20561
+],
+  "geometry": {"coordinates":[-86.285284,43.20561],"type":"Point"}
+}

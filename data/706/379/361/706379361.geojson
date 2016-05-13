@@ -1,0 +1,87 @@
+{
+  "id": 706379361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.912355,43.662772,-83.912355,43.662772",
+    "geom:latitude":43.662772,
+    "geom:longitude":-83.912355,
+    "iso:country":"US",
+    "sg:address":"2585 N Euclid Ave",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 684 5637",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85830951,
+        102083135,
+        420524233,
+        102191575,
+        404506795,
+        85951273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MYe8WP8ve52zacjwKGMPX_43.662772_-83.912355@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801996,
+    "wof:geomhash":"222b969fb05559f89739ef9b520aded5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083135,
+            "neighbourhood_id":85830951,
+            "region_id":85688599,
+            "venue_id":706379361
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":706379361
+        }
+    ],
+    "wof:id":706379361,
+    "wof:lastmodified":1461801996,
+    "wof:name":"INS Insulation Installation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.912355,
+    43.662772,
+    -83.912355,
+    43.662772
+],
+  "geometry": {"coordinates":[-83.91235500000001,43.662772],"type":"Point"}
+}

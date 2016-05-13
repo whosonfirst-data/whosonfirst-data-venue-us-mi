@@ -1,0 +1,76 @@
+{
+  "id": 706701889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.925607,42.643641,-82.925607,42.643641",
+    "geom:latitude":42.643641,
+    "geom:longitude":-82.925607,
+    "iso:country":"US",
+    "sg:address":"19811 Fairbrook Dr",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 226 9961",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RDqT9AzlBiamNsGYbxAqP_42.643641_-82.925607@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810153,
+    "wof:geomhash":"57ceb795856a5c59fb0a88cb1a7ee0f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701889
+        }
+    ],
+    "wof:id":706701889,
+    "wof:lastmodified":1461810153,
+    "wof:name":"Coffee Mood",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -82.925607,
+    42.643641,
+    -82.925607,
+    42.643641
+],
+  "geometry": {"coordinates":[-82.925607,42.643641],"type":"Point"}
+}

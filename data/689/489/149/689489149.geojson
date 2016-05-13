@@ -1,0 +1,75 @@
+{
+  "id": 689489149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.146285,42.41833,-83.146285,42.41833",
+    "geom:latitude":42.41833,
+    "geom:longitude":-83.146285,
+    "iso:country":"US",
+    "sg:address":"17166 San Juan Dr",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 341 9025",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870615,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MUNHB8GbrZnJt9udPDz3s_42.418330_-83.146285@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772799,
+    "wof:geomhash":"469cdd1a99790ddb49112e9e6f92493b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870615,
+            "region_id":85688599,
+            "venue_id":689489149
+        }
+    ],
+    "wof:id":689489149,
+    "wof:lastmodified":1461772799,
+    "wof:name":"Telephone Surveillance",
+    "wof:parent_id":85870615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -83.146285,
+    42.41833,
+    -83.146285,
+    42.41833
+],
+  "geometry": {"coordinates":[-83.14628500000001,42.41833],"type":"Point"}
+}

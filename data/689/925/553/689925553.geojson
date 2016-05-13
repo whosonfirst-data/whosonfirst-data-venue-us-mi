@@ -1,0 +1,71 @@
+{
+  "id": 689925553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.749566,42.74579,-84.749566,42.74579",
+    "geom:latitude":42.74579,
+    "geom:longitude":-84.749566,
+    "iso:country":"US",
+    "sg:address":"950 Jenne St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 3024",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DiBKYXCN3GfoQWDdhaYgh_42.745790_-84.749566@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785253,
+    "wof:geomhash":"ced07cc850c30df4770b463ffe2ca821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689925553
+        }
+    ],
+    "wof:id":689925553,
+    "wof:lastmodified":1461785253,
+    "wof:name":"Adventure Club",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -84.749566,
+    42.74579,
+    -84.749566,
+    42.74579
+],
+  "geometry": {"coordinates":[-84.749566,42.74579],"type":"Point"}
+}

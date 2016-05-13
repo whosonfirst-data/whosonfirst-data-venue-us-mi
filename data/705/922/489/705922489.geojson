@@ -1,0 +1,91 @@
+{
+  "id": 705922489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.045043,42.32951,-83.045043,42.32951",
+    "geom:latitude":42.32951,
+    "geom:longitude":-83.045043,
+    "iso:country":"US",
+    "sg:address":"2 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 224 5439",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865279,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85891665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mnLQYV6pAG24KfE6DQWxp_42.329510_-83.045043@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791902,
+    "wof:geomhash":"80a1bed1efacdfd6bb5e5dbb018bda13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":705922489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891665,
+            "region_id":85688599,
+            "venue_id":705922489
+        }
+    ],
+    "wof:id":705922489,
+    "wof:lastmodified":1461791902,
+    "wof:name":"3rd Judicial Circuit Court Lib",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.045043,
+    42.32951,
+    -83.045043,
+    42.32951
+],
+  "geometry": {"coordinates":[-83.04504300000001,42.32951],"type":"Point"}
+}

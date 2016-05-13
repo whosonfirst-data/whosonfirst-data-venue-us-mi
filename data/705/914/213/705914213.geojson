@@ -1,0 +1,69 @@
+{
+  "id": 705914213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.1908,42.664049,-86.1908,42.664049",
+    "geom:latitude":42.664049,
+    "geom:longitude":-86.1908,
+    "iso:country":"US",
+    "sg:address":"3342 Blue Star Hwy",
+    "sg:city":"Saugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 857 3000",
+    "sg:postcode":"49453",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ottHZPa9vs44z49JRW0aq_42.664049_-86.190800@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791728,
+    "wof:geomhash":"96a1568c6ded5b16fec2530bdb4d23ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":705914213
+        }
+    ],
+    "wof:id":705914213,
+    "wof:lastmodified":1461791728,
+    "wof:name":"Saugatuck Twp Fire Dept",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.1908,
+    42.664049,
+    -86.1908,
+    42.664049
+],
+  "geometry": {"coordinates":[-86.1908,42.664049],"type":"Point"}
+}

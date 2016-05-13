@@ -1,0 +1,71 @@
+{
+  "id": 705832249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.443797,42.580125,-84.443797,42.580125",
+    "geom:latitude":42.580125,
+    "geom:longitude":-84.443797,
+    "iso:country":"US",
+    "sg:address":"173 W Maple St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 2446",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kq0911LtIoQI94crzvgMA_42.580125_-84.443797@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789789,
+    "wof:geomhash":"612547b690185b0378460498e4089d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705832249
+        }
+    ],
+    "wof:id":705832249,
+    "wof:lastmodified":1461789789,
+    "wof:name":"Quality Dairy Co",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.443797,
+    42.580125,
+    -84.443797,
+    42.580125
+],
+  "geometry": {"coordinates":[-84.443797,42.580125],"type":"Point"}
+}

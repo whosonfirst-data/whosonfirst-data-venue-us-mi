@@ -1,0 +1,69 @@
+{
+  "id": 689508509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.169984,43.219789,-86.169984,43.219789",
+    "geom:latitude":43.219789,
+    "geom:longitude":-86.169984,
+    "iso:country":"US",
+    "sg:address":"3124 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 1713",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WUFj8crW71vKyyqfT11V2_43.219789_-86.169984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773364,
+    "wof:geomhash":"f744ec53b97f9e1b3098b7a9c39ede71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689508509
+        }
+    ],
+    "wof:id":689508509,
+    "wof:lastmodified":1461773364,
+    "wof:name":"Dowdy Automotive",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.169984,
+    43.219789,
+    -86.169984,
+    43.219789
+],
+  "geometry": {"coordinates":[-86.169984,43.219789],"type":"Point"}
+}

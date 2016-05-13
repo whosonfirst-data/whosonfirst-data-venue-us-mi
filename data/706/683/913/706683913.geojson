@@ -1,0 +1,80 @@
+{
+  "id": 706683913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.670356,42.295779,-85.670356,42.295779",
+    "geom:latitude":42.295779,
+    "geom:longitude":-85.670356,
+    "iso:country":"US",
+    "sg:address":"5455 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oshtemo/182508-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 1280",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68pAnbxpiIRMgmjRZ335Nj_42.295779_-85.670356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809443,
+    "wof:geomhash":"e3016f9ffc14b47fac51a9c3e41aac03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":706683913
+        }
+    ],
+    "wof:id":706683913,
+    "wof:lastmodified":1461809443,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.670356,
+    42.295779,
+    -85.670356,
+    42.295779
+],
+  "geometry": {"coordinates":[-85.670356,42.295779],"type":"Point"}
+}

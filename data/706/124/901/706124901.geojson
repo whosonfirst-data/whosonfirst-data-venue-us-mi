@@ -1,0 +1,75 @@
+{
+  "id": 706124901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.788392,42.688645,-82.788392,42.688645",
+    "geom:latitude":42.688645,
+    "geom:longitude":-82.788392,
+    "iso:country":"US",
+    "sg:address":"52926 Cross Creek Dr",
+    "sg:city":"New Baltimore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 0236",
+    "sg:postcode":"48047",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810745,
+        102191575,
+        404507405,
+        85633793,
+        85951655,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06XQVKPpo5NfDcskmfyEff_42.688645_-82.788392@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796384,
+    "wof:geomhash":"e283012fa25743ba81d36d8da5322a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507405,
+            "locality_id":85951655,
+            "neighbourhood_id":85810745,
+            "region_id":85688599,
+            "venue_id":706124901
+        }
+    ],
+    "wof:id":706124901,
+    "wof:lastmodified":1461796384,
+    "wof:name":"Auto One",
+    "wof:parent_id":85810745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -82.788392,
+    42.688645,
+    -82.788392,
+    42.688645
+],
+  "geometry": {"coordinates":[-82.788392,42.688645],"type":"Point"}
+}

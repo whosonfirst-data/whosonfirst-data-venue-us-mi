@@ -1,0 +1,71 @@
+{
+  "id": 706268981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445679,43.949542,-86.445679,43.949542",
+    "geom:latitude":43.949542,
+    "geom:longitude":-86.445679,
+    "iso:country":"US",
+    "sg:address":"103 E Dowland St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 843 9495",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jkDcHu6qMrXsW9afKME4M_43.949542_-86.445679@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799592,
+    "wof:geomhash":"29a78aba938c47684d64564fe4774afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":706268981
+        }
+    ],
+    "wof:id":706268981,
+    "wof:lastmodified":1461799592,
+    "wof:name":"Ludington Baking Co",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.445679,
+    43.949542,
+    -86.445679,
+    43.949542
+],
+  "geometry": {"coordinates":[-86.445679,43.949542],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706091903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.555248,42.906817,-82.555248,42.906817",
+    "geom:latitude":42.906817,
+    "geom:longitude":-82.555248,
+    "iso:country":"US",
+    "sg:address":"253 Scott Rd",
+    "sg:city":"Smiths Creek",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 367 6459",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kAzwvawajtmmb3E8nEVIi_42.906817_-82.555248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795610,
+    "wof:geomhash":"9b5782667ef32e98b1d060b79adb5331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706091903
+        }
+    ],
+    "wof:id":706091903,
+    "wof:lastmodified":1461795610,
+    "wof:name":"Scott Road Home",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -82.555248,
+    42.906817,
+    -82.555248,
+    42.906817
+],
+  "geometry": {"coordinates":[-82.55524800000001,42.906817],"type":"Point"}
+}

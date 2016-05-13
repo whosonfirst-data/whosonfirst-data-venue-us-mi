@@ -1,0 +1,71 @@
+{
+  "id": 705855187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.034171,43.478606,-84.034171,43.478606",
+    "geom:latitude":43.478606,
+    "geom:longitude":-84.034171,
+    "iso:country":"US",
+    "sg:address":"4865 Lawndale Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 1401",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQQY4TnJJsRZmpN9Fu5JE_43.478606_-84.034171@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790306,
+    "wof:geomhash":"fedd3e62888935a6b0c069284fab661a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705855187
+        }
+    ],
+    "wof:id":705855187,
+    "wof:lastmodified":1461790306,
+    "wof:name":"Beyer's Service Ctr",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.034171,
+    43.478606,
+    -84.034171,
+    43.478606
+],
+  "geometry": {"coordinates":[-84.034171,43.478606],"type":"Point"}
+}

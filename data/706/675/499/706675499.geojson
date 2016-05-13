@@ -1,0 +1,70 @@
+{
+  "id": 706675499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.858432,42.63475,-82.858432,42.63475",
+    "geom:latitude":42.63475,
+    "geom:longitude":-82.858432,
+    "iso:country":"US",
+    "sg:address":"45590 N Gratiot Ave",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/208694-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 9940",
+    "sg:postcode":"48042",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Boq8Xwp679KKAW8pT8ZHV_42.634750_-82.858432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809097,
+    "wof:geomhash":"c8235e8af73614899ba5786058c0fba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":706675499
+        }
+    ],
+    "wof:id":706675499,
+    "wof:lastmodified":1461809097,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.858432,
+    42.63475,
+    -82.858432,
+    42.63475
+],
+  "geometry": {"coordinates":[-82.85843199999999,42.63475],"type":"Point"}
+}

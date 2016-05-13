@@ -1,0 +1,75 @@
+{
+  "id": 689531111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.34103,43.409484,-86.34103,43.409484",
+    "geom:latitude":43.409484,
+    "geom:longitude":-86.34103,
+    "iso:country":"US",
+    "sg:address":"511 E Colby St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 2202",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KLvWy9r9ofKip3080niyo_43.409484_-86.341030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774120,
+    "wof:geomhash":"fb79db21a418b2a98b21895d7619a4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689531111
+        }
+    ],
+    "wof:id":689531111,
+    "wof:lastmodified":1461774120,
+    "wof:name":"Community Mental Health Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -86.34103,
+    43.409484,
+    -86.34103,
+    43.409484
+],
+  "geometry": {"coordinates":[-86.34103,43.409484],"type":"Point"}
+}

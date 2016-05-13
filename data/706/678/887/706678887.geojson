@@ -1,0 +1,78 @@
+{
+  "id": 706678887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.061448,42.325842,-83.061448,42.325842",
+    "geom:latitude":42.325842,
+    "geom:longitude":-83.061448,
+    "iso:country":"US",
+    "sg:address":"1425 W Lafayette Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/197283-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 965 5464",
+    "sg:postcode":"48216",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870535,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XFP5YrlRiD2yOZ399TRUm_42.325842_-83.061448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809241,
+    "wof:geomhash":"4257e31d1dff79c2673e90ab008eef34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870535,
+            "region_id":85688599,
+            "venue_id":706678887
+        }
+    ],
+    "wof:id":706678887,
+    "wof:lastmodified":1461809241,
+    "wof:name":"Burger King",
+    "wof:parent_id":85870535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.061448,
+    42.325842,
+    -83.061448,
+    42.325842
+],
+  "geometry": {"coordinates":[-83.061448,42.325842],"type":"Point"}
+}

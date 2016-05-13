@@ -1,0 +1,96 @@
+{
+  "id": 722518701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197813,42.762357,-83.197813,42.762357",
+    "geom:latitude":42.762357,
+    "geom:longitude":-83.197813,
+    "iso:country":"US",
+    "sg:address":"2508 Adams Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 853 9931",
+    "sg:postcode":"48363",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "take"
+    ],
+    "sg:website":"http://www.panerabread.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57PTE4aBEUuJKVw7vHG2Kl_42.762357_-83.197813@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813858,
+    "wof:geomhash":"8c7eb49a9cb6b9f03173e0fa8d981f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":722518701
+        }
+    ],
+    "wof:id":722518701,
+    "wof:lastmodified":1461813858,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.197813,
+    42.762357,
+    -83.197813,
+    42.762357
+],
+  "geometry": {"coordinates":[-83.197813,42.762357],"type":"Point"}
+}

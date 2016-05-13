@@ -1,0 +1,86 @@
+{
+  "id": 706678417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.180484,42.210372,-83.180484,42.210372",
+    "geom:latitude":42.210372,
+    "geom:longitude":-83.180484,
+    "iso:country":"US",
+    "sg:address":"2291 Fort St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/wyandotte/163071-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 282 3341",
+    "sg:postcode":"48192",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896825,
+        102191575,
+        404508659,
+        85633793,
+        85950971,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bNeaD1UL7C10gN9W86iOz_42.210372_-83.180484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809223,
+    "wof:geomhash":"f45abc6f75b501c789afbb2524850992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508659,
+            "locality_id":85950971,
+            "neighbourhood_id":85896825,
+            "region_id":85688599,
+            "venue_id":706678417
+        }
+    ],
+    "wof:id":706678417,
+    "wof:lastmodified":1461809223,
+    "wof:name":"Rally's",
+    "wof:parent_id":85896825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.180484,
+    42.210372,
+    -83.180484,
+    42.210372
+],
+  "geometry": {"coordinates":[-83.18048400000001,42.210372],"type":"Point"}
+}

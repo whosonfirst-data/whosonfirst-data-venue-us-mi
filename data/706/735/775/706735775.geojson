@@ -1,0 +1,92 @@
+{
+  "id": 706735775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.418256,41.91564,-83.418256,41.91564",
+    "geom:latitude":41.91564,
+    "geom:longitude":-83.418256,
+    "iso:country":"US",
+    "sg:address":"1402 W 7th St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 6898",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "die",
+        "mold",
+        "maker"
+    ],
+    "sg:website":"http://www.monroemold.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865277,
+        102191575,
+        404508973,
+        85633793,
+        85952215,
+        102083117,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Km7prUiKMnt0bBOLoqvKP_41.915640_-83.418256@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811651,
+    "wof:geomhash":"5efd2d1a6b28dda175335ac82a0296bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083117,
+            "localadmin_id":404508973,
+            "locality_id":85952215,
+            "neighbourhood_id":85865277,
+            "region_id":85688599,
+            "venue_id":706735775
+        }
+    ],
+    "wof:id":706735775,
+    "wof:lastmodified":1461811651,
+    "wof:name":"Monroe Mold",
+    "wof:parent_id":85865277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "die",
+        "mold",
+        "maker"
+    ]
+},
+  "bbox": [
+    -83.418256,
+    41.91564,
+    -83.418256,
+    41.91564
+],
+  "geometry": {"coordinates":[-83.418256,41.91564],"type":"Point"}
+}

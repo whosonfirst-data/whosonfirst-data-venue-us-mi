@@ -1,0 +1,73 @@
+{
+  "id": 706495035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.283378,43.259844,-86.283378,43.259844",
+    "geom:latitude":43.259844,
+    "geom:longitude":-86.283378,
+    "iso:country":"US",
+    "sg:address":"366 E Chadwick Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 0504",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06QtBShuEHrdZQb7oAmf1s_43.259844_-86.283378@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804535,
+    "wof:geomhash":"5634a3b00a6d79a05248ef52f869370f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706495035
+        }
+    ],
+    "wof:id":706495035,
+    "wof:lastmodified":1461804535,
+    "wof:name":"Dons Excavating",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.283378,
+    43.259844,
+    -86.283378,
+    43.259844
+],
+  "geometry": {"coordinates":[-86.283378,43.259844],"type":"Point"}
+}

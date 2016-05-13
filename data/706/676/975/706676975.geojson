@@ -1,0 +1,76 @@
+{
+  "id": 706676975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.737827,42.278698,-83.737827,42.278698",
+    "geom:latitude":42.278698,
+    "geom:longitude":-83.737827,
+    "iso:country":"US",
+    "sg:address":"911 N University",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/284350-taco-bell-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 512 323 0206",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866995,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ydvn8ul16RmvBhElVGQ2g_42.278698_-83.737827@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809161,
+    "wof:geomhash":"7b0ae9bc6fabde5d28612b7c2517fd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85866995,
+            "region_id":85688599,
+            "venue_id":706676975
+        }
+    ],
+    "wof:id":706676975,
+    "wof:lastmodified":1461809161,
+    "wof:name":"Taco Bell Express",
+    "wof:parent_id":85866995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.737827,
+    42.278698,
+    -83.737827,
+    42.278698
+],
+  "geometry": {"coordinates":[-83.737827,42.278698],"type":"Point"}
+}

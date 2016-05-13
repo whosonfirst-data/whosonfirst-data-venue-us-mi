@@ -1,0 +1,71 @@
+{
+  "id": 705767807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.190032,42.783512,-86.190032,42.783512",
+    "geom:latitude":42.783512,
+    "geom:longitude":-86.190032,
+    "iso:country":"US",
+    "sg:address":"1964 Lake St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 9182",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q85tVP2dJLTUg1jykXA2R_42.783512_-86.190032@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788252,
+    "wof:geomhash":"7056aa55678e05272679166f213b3ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705767807
+        }
+    ],
+    "wof:id":705767807,
+    "wof:lastmodified":1461788252,
+    "wof:name":"Ride Equipment Inc",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.190032,
+    42.783512,
+    -86.190032,
+    42.783512
+],
+  "geometry": {"coordinates":[-86.190032,42.783512],"type":"Point"}
+}

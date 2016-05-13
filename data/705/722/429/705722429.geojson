@@ -1,0 +1,73 @@
+{
+  "id": 705722429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.06828,45.819345,-88.06828,45.819345",
+    "geom:latitude":45.819345,
+    "geom:longitude":-88.06828,
+    "iso:country":"US",
+    "sg:address":"411 Carpenter Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9180",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GZUHnfhw9gHQbw2ftbGKY_45.819345_-88.068280@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787219,
+    "wof:geomhash":"95523b3e47ed376dadc94adf4b4b7db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705722429
+        }
+    ],
+    "wof:id":705722429,
+    "wof:lastmodified":1461787219,
+    "wof:name":"Spigarelli Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.06828,
+    45.819345,
+    -88.06828,
+    45.819345
+],
+  "geometry": {"coordinates":[-88.06828,45.819345],"type":"Point"}
+}

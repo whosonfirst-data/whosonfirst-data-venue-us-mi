@@ -1,0 +1,73 @@
+{
+  "id": 689727029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.561277,42.264918,-85.561277,42.264918",
+    "geom:latitude":42.264918,
+    "geom:longitude":-85.561277,
+    "iso:country":"US",
+    "sg:address":"1504 Homecrest Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 226 8640",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FAXBqW1jiQm1qJEhhZ3Yt_42.264918_-85.561277@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779848,
+    "wof:geomhash":"bc595365dd119e929b765dd0a260b568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689727029
+        }
+    ],
+    "wof:id":689727029,
+    "wof:lastmodified":1461779848,
+    "wof:name":"Advanced Radiotherapy",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.561277,
+    42.264918,
+    -85.561277,
+    42.264918
+],
+  "geometry": {"coordinates":[-85.561277,42.264918],"type":"Point"}
+}

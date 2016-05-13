@@ -1,0 +1,74 @@
+{
+  "id": 706683601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.567125,42.25941,-85.567125,42.25941",
+    "geom:latitude":42.25941,
+    "geom:longitude":-85.567125,
+    "iso:country":"US",
+    "sg:address":"3130 Lovers Ln",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/168576-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 3002",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50hoT3VVmtEhZX8524lieW_42.259410_-85.567125@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809425,
+    "wof:geomhash":"4d6ecacd660406ff75970ebe5e7133da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706683601
+        }
+    ],
+    "wof:id":706683601,
+    "wof:lastmodified":1461809425,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.567125,
+    42.25941,
+    -85.567125,
+    42.25941
+],
+  "geometry": {"coordinates":[-85.567125,42.25941],"type":"Point"}
+}

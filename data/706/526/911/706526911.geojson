@@ -1,0 +1,73 @@
+{
+  "id": 706526911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.374209,41.832582,-86.374209,41.832582",
+    "geom:latitude":41.832582,
+    "geom:longitude":-86.374209,
+    "iso:country":"US",
+    "sg:address":"601 W 4th St",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 7047",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qs6ovPOMya4zIixKEtWxZ_41.832582_-86.374209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805167,
+    "wof:geomhash":"996ef76ba8343c50122b928effedfcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706526911
+        }
+    ],
+    "wof:id":706526911,
+    "wof:lastmodified":1461805167,
+    "wof:name":"Buchanan Place APT",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.374209,
+    41.832582,
+    -86.374209,
+    41.832582
+],
+  "geometry": {"coordinates":[-86.37420899999999,41.832582],"type":"Point"}
+}

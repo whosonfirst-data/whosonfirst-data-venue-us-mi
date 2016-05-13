@@ -1,0 +1,83 @@
+{
+  "id": 706104759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080653,42.369933,-83.080653,42.369933",
+    "geom:latitude":42.369933,
+    "geom:longitude":-83.080653,
+    "iso:country":"US",
+    "sg:address":"7451 3rd St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 3500",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870585,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32iKWginNDzeTDgHYoX9pb_42.369933_-83.080653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795881,
+    "wof:geomhash":"bde5f9f155d01f4ad688d2ef99f4ab7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":706104759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706104759
+        }
+    ],
+    "wof:id":706104759,
+    "wof:lastmodified":1461795881,
+    "wof:name":"Detroit Federations Teachers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.080653,
+    42.369933,
+    -83.080653,
+    42.369933
+],
+  "geometry": {"coordinates":[-83.080653,42.369933],"type":"Point"}
+}

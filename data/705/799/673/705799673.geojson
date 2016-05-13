@@ -1,0 +1,69 @@
+{
+  "id": 705799673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632858,44.763952,-85.632858,44.763952",
+    "geom:latitude":44.763952,
+    "geom:longitude":-85.632858,
+    "iso:country":"US",
+    "sg:address":"515 W Front St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 1065",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32cpKDFG0WwhBMoZFPPAoh_44.763952_-85.632858@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788997,
+    "wof:geomhash":"c44bf354972c181ea0c621c0e4f15402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705799673
+        }
+    ],
+    "wof:id":705799673,
+    "wof:lastmodified":1461788997,
+    "wof:name":"Potter's Fine Pastries",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.632858,
+    44.763952,
+    -85.632858,
+    44.763952
+],
+  "geometry": {"coordinates":[-85.632858,44.763952],"type":"Point"}
+}

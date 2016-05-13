@@ -1,0 +1,93 @@
+{
+  "id": 722479073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.084602,42.365799,-83.084602,42.365799",
+    "geom:latitude":42.365799,
+    "geom:longitude":-83.084602,
+    "iso:country":"US",
+    "sg:address":"2764 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 873 5672",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870527,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63g5dYQhkuaC33WY6KL5Xf_42.365799_-83.084602@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812249,
+    "wof:geomhash":"57df0aec7646267854ae782262e5878d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870527,
+            "region_id":85688599,
+            "venue_id":722479073
+        }
+    ],
+    "wof:id":722479073,
+    "wof:lastmodified":1461812249,
+    "wof:name":"Sweet Home Day Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.084602,
+    42.365799,
+    -83.084602,
+    42.365799
+],
+  "geometry": {"coordinates":[-83.084602,42.365799],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706676813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.69724,42.257031,-83.69724,42.257031",
+    "geom:latitude":42.257031,
+    "geom:longitude":-83.69724,
+    "iso:country":"US",
+    "sg:address":"3205 Washtenaw Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/103109-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 677 0400",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875955,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4laDFuIq9iXU3QSRBjiMZu_42.257031_-83.697240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809156,
+    "wof:geomhash":"4938b336577d81da76afccc4178c40cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875955,
+            "region_id":85688599,
+            "venue_id":706676813
+        }
+    ],
+    "wof:id":706676813,
+    "wof:lastmodified":1461809156,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85875955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.69724,
+    42.257031,
+    -83.69724,
+    42.257031
+],
+  "geometry": {"coordinates":[-83.69723999999999,42.257031],"type":"Point"}
+}

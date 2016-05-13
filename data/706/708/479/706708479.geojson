@@ -1,0 +1,84 @@
+{
+  "id": 706708479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.221326,42.477083,-83.221326,42.477083",
+    "geom:latitude":42.477083,
+    "geom:longitude":-83.221326,
+    "iso:country":"US",
+    "sg:address":"25511 Southfield Rd Ste 129",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 569 1122",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "buses-charter",
+        "line",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524603,
+        102191575,
+        404508205,
+        85633793,
+        85952035,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1c6XFlhUgMhkLBOqAt07_42.477083_-83.221326@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810428,
+    "wof:geomhash":"5dee8600927ad1f2c45c40c4dd9e1914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508205,
+            "locality_id":85952035,
+            "neighbourhood_id":420524603,
+            "region_id":85688599,
+            "venue_id":706708479
+        }
+    ],
+    "wof:id":706708479,
+    "wof:lastmodified":1461810428,
+    "wof:name":"Infinity Transit Systems",
+    "wof:parent_id":420524603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "line",
+        "rental"
+    ]
+},
+  "bbox": [
+    -83.221326,
+    42.477083,
+    -83.221326,
+    42.477083
+],
+  "geometry": {"coordinates":[-83.221326,42.477083],"type":"Point"}
+}

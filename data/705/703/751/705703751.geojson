@@ -1,0 +1,71 @@
+{
+  "id": 705703751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.44145,47.228332,-88.44145,47.228332",
+    "geom:latitude":47.228332,
+    "geom:longitude":-88.44145,
+    "iso:country":"US",
+    "sg:address":"730 Lake Linden Ave",
+    "sg:city":"Calumet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 337 5020",
+    "sg:postcode":"49913",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851683,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sEN5wWrnrRXvDuhSzwTdW_47.228332_-88.441450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786671,
+    "wof:geomhash":"b31f7d03ef88073b445884f314e484a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85851683,
+            "region_id":85688599,
+            "venue_id":705703751
+        }
+    ],
+    "wof:id":705703751,
+    "wof:lastmodified":1461786671,
+    "wof:name":"Daves Auto Service",
+    "wof:parent_id":85851683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.44145,
+    47.228332,
+    -88.44145,
+    47.228332
+],
+  "geometry": {"coordinates":[-88.44145,47.228332],"type":"Point"}
+}

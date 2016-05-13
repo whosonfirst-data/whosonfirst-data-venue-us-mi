@@ -1,0 +1,91 @@
+{
+  "id": 705820879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.998012,42.450159,-82.998012,42.450159",
+    "geom:latitude":42.450159,
+    "geom:longitude":-82.998012,
+    "iso:country":"US",
+    "sg:address":"20803 Marie Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 775 4324",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524395,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524895,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O5O6HdNQsnLSJ2hSlAsG2_42.450159_-82.998012@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789501,
+    "wof:geomhash":"141c6fdd57f76862b584169e04059744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524395,
+            "region_id":85688599,
+            "venue_id":705820879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":705820879
+        }
+    ],
+    "wof:id":705820879,
+    "wof:lastmodified":1461789501,
+    "wof:name":"Gary The Plumber",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.998012,
+    42.450159,
+    -82.998012,
+    42.450159
+],
+  "geometry": {"coordinates":[-82.998012,42.450159],"type":"Point"}
+}

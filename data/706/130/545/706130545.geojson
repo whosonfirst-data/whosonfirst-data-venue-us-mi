@@ -1,0 +1,73 @@
+{
+  "id": 706130545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.39155,44.24571,-85.39155,44.24571",
+    "geom:latitude":44.24571,
+    "geom:longitude":-85.39155,
+    "iso:country":"US",
+    "sg:address":"803 Lynn St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 876 7770",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OJ4JIQ3qzWwjHJQkgPMfb_44.245710_-85.391550@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796530,
+    "wof:geomhash":"2f2e17a5f900c9b7147cf49c8a39dc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706130545
+        }
+    ],
+    "wof:id":706130545,
+    "wof:lastmodified":1461796530,
+    "wof:name":"Cadillac OBGYN Svc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.39155,
+    44.24571,
+    -85.39155,
+    44.24571
+],
+  "geometry": {"coordinates":[-85.39155,44.24571],"type":"Point"}
+}

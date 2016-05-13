@@ -1,0 +1,80 @@
+{
+  "id": 706679305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.908575,42.43367,-82.908575,42.43367",
+    "geom:latitude":42.43367,
+    "geom:longitude":-82.908575,
+    "iso:country":"US",
+    "sg:address":"20083 Mack Ave",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grosse-pointe-woods/122008-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 884 2444",
+    "sg:postcode":"48236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850873,
+        102191575,
+        404508597,
+        85633793,
+        85951037,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KiQa4fDS2KkgSOQpHN4Jv_42.433670_-82.908575@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809256,
+    "wof:geomhash":"920373d8a2af7a258b0b8b158aafb0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508597,
+            "locality_id":85951037,
+            "neighbourhood_id":85850873,
+            "region_id":85688599,
+            "venue_id":706679305
+        }
+    ],
+    "wof:id":706679305,
+    "wof:lastmodified":1461809256,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85850873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.908575,
+    42.43367,
+    -82.908575,
+    42.43367
+],
+  "geometry": {"coordinates":[-82.908575,42.43367],"type":"Point"}
+}

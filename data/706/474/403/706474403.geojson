@@ -1,0 +1,71 @@
+{
+  "id": 706474403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.460645,42.928384,-82.460645,42.928384",
+    "geom:latitude":42.928384,
+    "geom:longitude":-82.460645,
+    "iso:country":"US",
+    "sg:address":"40 Gratiot Blvd",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 7611",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TBI0AL5NflnO7Q73ivwL0_42.928384_-82.460645@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803932,
+    "wof:geomhash":"b0eda338b4caf7c70421630090e47fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706474403
+        }
+    ],
+    "wof:id":706474403,
+    "wof:lastmodified":1461803932,
+    "wof:name":"Vans Truck & Industrial Inc",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -82.460645,
+    42.928384,
+    -82.460645,
+    42.928384
+],
+  "geometry": {"coordinates":[-82.460645,42.928384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705741853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.37502,41.920911,-83.37502,41.920911",
+    "geom:latitude":41.920911,
+    "geom:longitude":-83.37502,
+    "iso:country":"US",
+    "sg:address":"512 N Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 0810",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wyIMztTmd5uGEbQ0groBV_41.920911_-83.375020@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787687,
+    "wof:geomhash":"1952c8fd7d2d7eb564c63f8e0bec437f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705741853
+        }
+    ],
+    "wof:id":705741853,
+    "wof:lastmodified":1461787687,
+    "wof:name":"Import Auto Svc",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.37502,
+    41.920911,
+    -83.37502,
+    41.920911
+],
+  "geometry": {"coordinates":[-83.37502000000001,41.920911],"type":"Point"}
+}

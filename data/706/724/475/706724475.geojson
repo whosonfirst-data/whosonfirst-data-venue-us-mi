@@ -1,0 +1,80 @@
+{
+  "id": 706724475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.251332,42.28299,-83.251332,42.28299",
+    "geom:latitude":42.28299,
+    "geom:longitude":-83.251332,
+    "iso:country":"US",
+    "sg:address":"3806 Monroe St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 2828",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896615,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fTmONxZkW2f0zsjTmoDyk_42.282990_-83.251332@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811184,
+    "wof:geomhash":"c2230f7ffe599a9cb259e4c355967ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896615,
+            "region_id":85688599,
+            "venue_id":706724475
+        }
+    ],
+    "wof:id":706724475,
+    "wof:lastmodified":1461811184,
+    "wof:name":"Adventure Bicycle Llc",
+    "wof:parent_id":85896615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -83.251332,
+    42.28299,
+    -83.251332,
+    42.28299
+],
+  "geometry": {"coordinates":[-83.251332,42.28299],"type":"Point"}
+}

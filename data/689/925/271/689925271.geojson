@@ -1,0 +1,71 @@
+{
+  "id": 689925271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.42181,44.259784,-85.42181,44.259784",
+    "geom:latitude":44.259784,
+    "geom:longitude":-85.42181,
+    "iso:country":"US",
+    "sg:address":"1012 6th St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7641",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S7b1KDkaNU7HsXzaPeIvj_44.259784_-85.421810@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785242,
+    "wof:geomhash":"5ede7b5861779da5b018d50f3a7c2532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689925271
+        }
+    ],
+    "wof:id":689925271,
+    "wof:lastmodified":1461785242,
+    "wof:name":"C & C Floor Maintenance",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.42181,
+    44.259784,
+    -85.42181,
+    44.259784
+],
+  "geometry": {"coordinates":[-85.42180999999999,44.259784],"type":"Point"}
+}

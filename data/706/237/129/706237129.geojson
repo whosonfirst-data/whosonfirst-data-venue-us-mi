@@ -1,0 +1,71 @@
+{
+  "id": 706237129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.395362,41.920502,-83.395362,41.920502",
+    "geom:latitude":41.920502,
+    "geom:longitude":-83.395362,
+    "iso:country":"US",
+    "sg:address":"221 N Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 7474",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14xTRsP6mLjkh9kr5tAVVF_41.920502_-83.395362@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798877,
+    "wof:geomhash":"73e7701271c8f76d415c3b9e9219e1ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706237129
+        }
+    ],
+    "wof:id":706237129,
+    "wof:lastmodified":1461798877,
+    "wof:name":"Monroe Lock & Safe Co",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.395362,
+    41.920502,
+    -83.395362,
+    41.920502
+],
+  "geometry": {"coordinates":[-83.39536200000001,41.920502],"type":"Point"}
+}

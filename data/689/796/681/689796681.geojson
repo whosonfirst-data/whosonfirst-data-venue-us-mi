@@ -1,0 +1,71 @@
+{
+  "id": 689796681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3975,41.916392,-83.3975,41.916392",
+    "geom:latitude":41.916392,
+    "geom:longitude":-83.3975,
+    "iso:country":"US",
+    "sg:address":"3 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 5600",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o68IEFrvL15ZOnzK8FBRw_41.916392_-83.397500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781759,
+    "wof:geomhash":"102609b97504e65491f446bd689f215a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689796681
+        }
+    ],
+    "wof:id":689796681,
+    "wof:lastmodified":1461781759,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -83.3975,
+    41.916392,
+    -83.3975,
+    41.916392
+],
+  "geometry": {"coordinates":[-83.39749999999999,41.916392],"type":"Point"}
+}

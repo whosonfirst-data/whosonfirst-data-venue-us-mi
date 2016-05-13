@@ -1,0 +1,71 @@
+{
+  "id": 689659015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.627261,41.749125,-83.627261,41.749125",
+    "geom:latitude":41.749125,
+    "geom:longitude":-83.627261,
+    "iso:country":"US",
+    "sg:address":"3462 W Sterns Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 4990",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H1uwE3cqKsWsXcw1agZYP_41.749125_-83.627261@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778105,
+    "wof:geomhash":"9ff9e6a1f08a1c969fb427ebb37b5dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":689659015
+        }
+    ],
+    "wof:id":689659015,
+    "wof:lastmodified":1461778105,
+    "wof:name":"Kroger",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.627261,
+    41.749125,
+    -83.627261,
+    41.749125
+],
+  "geometry": {"coordinates":[-83.627261,41.749125],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706370171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.736027,43.046194,-83.736027,43.046194",
+    "geom:latitude":43.046194,
+    "geom:longitude":-83.736027,
+    "iso:country":"US",
+    "sg:address":"3096 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 4300",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KMf2n4wVQbPWT7vhHq8XW_43.046194_-83.736027@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801811,
+    "wof:geomhash":"6e4a9cc423b213d2ce303deb3aa796f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706370171
+        }
+    ],
+    "wof:id":706370171,
+    "wof:lastmodified":1461801811,
+    "wof:name":"Saginaw Valley Appliance Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electric"
+    ]
+},
+  "bbox": [
+    -83.736027,
+    43.046194,
+    -83.736027,
+    43.046194
+],
+  "geometry": {"coordinates":[-83.73602700000001,43.046194],"type":"Point"}
+}

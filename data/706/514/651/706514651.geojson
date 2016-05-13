@@ -1,0 +1,77 @@
+{
+  "id": 706514651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.601378,46.501106,-87.601378,46.501106",
+    "geom:latitude":46.501106,
+    "geom:longitude":-87.601378,
+    "iso:country":"US",
+    "sg:address":"405 E Lincoln St",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 9761",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WnI36q2etjjRAvYp0kOdr_46.501106_-87.601378@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804933,
+    "wof:geomhash":"f1adc8ab4e374cb29e97ba2774b6b65a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706514651
+        }
+    ],
+    "wof:id":706514651,
+    "wof:lastmodified":1461804933,
+    "wof:name":"Jack's Radiator Shop",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.601378,
+    46.501106,
+    -87.601378,
+    46.501106
+],
+  "geometry": {"coordinates":[-87.601378,46.501106],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706365251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.461504,42.254736,-84.461504,42.254736",
+    "geom:latitude":42.254736,
+    "geom:longitude":-84.461504,
+    "iso:country":"US",
+    "sg:address":"3608 Wildwood Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 8191",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dtQ9ZF1Eeo5Fq36KJtZad_42.254736_-84.461504@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801718,
+    "wof:geomhash":"e66e38fb1fcbf21a523feaa9c06e7669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706365251
+        }
+    ],
+    "wof:id":706365251,
+    "wof:lastmodified":1461801718,
+    "wof:name":"US Airway Facilities Sector",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -84.461504,
+    42.254736,
+    -84.461504,
+    42.254736
+],
+  "geometry": {"coordinates":[-84.46150400000001,42.254736],"type":"Point"}
+}

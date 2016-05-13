@@ -1,0 +1,78 @@
+{
+  "id": 706686265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63947,42.935006,-85.63947,42.935006",
+    "geom:latitude":42.935006,
+    "geom:longitude":-85.63947,
+    "iso:country":"US",
+    "sg:address":"1562 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/146014-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 243 5001",
+    "sg:postcode":"49507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524387,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vkXIjnfLsVbShQSCLkYWN_42.935006_-85.639470@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809530,
+    "wof:geomhash":"2fc44a866e84ab2b65363c13b59b25cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":420524387,
+            "region_id":85688599,
+            "venue_id":706686265
+        }
+    ],
+    "wof:id":706686265,
+    "wof:lastmodified":1461809530,
+    "wof:name":"Subway",
+    "wof:parent_id":420524387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.63947,
+    42.935006,
+    -85.63947,
+    42.935006
+],
+  "geometry": {"coordinates":[-85.63947,42.935006],"type":"Point"}
+}

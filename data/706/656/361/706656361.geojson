@@ -1,0 +1,76 @@
+{
+  "id": 706656361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.374555,41.905593,-83.374555,41.905593",
+    "geom:latitude":41.905593,
+    "geom:longitude":-83.374555,
+    "iso:country":"US",
+    "sg:address":"1733 E Front St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 9605",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GSkAYzE6XLEQviz4l3J03_41.905593_-83.374555@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808264,
+    "wof:geomhash":"4c409b69c70cecff6a15d212abde2f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706656361
+        }
+    ],
+    "wof:id":706656361,
+    "wof:lastmodified":1461808264,
+    "wof:name":"Lake Erie Marine Repair",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -83.374555,
+    41.905593,
+    -83.374555,
+    41.905593
+],
+  "geometry": {"coordinates":[-83.374555,41.905593],"type":"Point"}
+}

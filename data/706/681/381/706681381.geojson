@@ -1,0 +1,71 @@
+{
+  "id": 706681381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.887437,43.176212,-83.887437,43.176212",
+    "geom:latitude":43.176212,
+    "geom:longitude":-83.887437,
+    "iso:country":"US",
+    "sg:address":"249 E State St",
+    "sg:city":"Montrose",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/montrose/185875-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GC9qHqZgNRI6wTAHmAXSX_43.176212_-83.887437@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809340,
+    "wof:geomhash":"bf6935457ed01b6de601b9ec1e1bce4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":706681381
+        }
+    ],
+    "wof:id":706681381,
+    "wof:lastmodified":1461809340,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.887437,
+    43.176212,
+    -83.887437,
+    43.176212
+],
+  "geometry": {"coordinates":[-83.88743700000001,43.176212],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722502799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.295097,42.375599,-83.295097,42.375599",
+    "geom:latitude":42.375599,
+    "geom:longitude":-83.295097,
+    "iso:country":"US",
+    "sg:address":"27101 Plymouth Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 937 8266",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896775,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5czWtJ7NZiLHeaLDdOSC8k_42.375599_-83.295097@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813178,
+    "wof:geomhash":"c03f3397e591d63d098a4fbb01cb4baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896775,
+            "region_id":85688599,
+            "venue_id":722502799
+        }
+    ],
+    "wof:id":722502799,
+    "wof:lastmodified":1461813178,
+    "wof:name":"Coggan Lawrence DDS",
+    "wof:parent_id":85896775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -83.295097,
+    42.375599,
+    -83.295097,
+    42.375599
+],
+  "geometry": {"coordinates":[-83.295097,42.375599],"type":"Point"}
+}

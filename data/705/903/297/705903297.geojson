@@ -1,0 +1,73 @@
+{
+  "id": 705903297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.239716,43.193918,-86.239716,43.193918",
+    "geom:latitude":43.193918,
+    "geom:longitude":-86.239716,
+    "iso:country":"US",
+    "sg:address":"3301 Merriam St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 5353",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ojt79WMbStpUkGqPFaD68_43.193918_-86.239716@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791482,
+    "wof:geomhash":"a6d9f310ab3a14e339d1575794445b39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705903297
+        }
+    ],
+    "wof:id":705903297,
+    "wof:lastmodified":1461791482,
+    "wof:name":"Graham Automotive",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.239716,
+    43.193918,
+    -86.239716,
+    43.193918
+],
+  "geometry": {"coordinates":[-86.239716,43.193918],"type":"Point"}
+}

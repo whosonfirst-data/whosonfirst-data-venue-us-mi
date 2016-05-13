@@ -1,0 +1,75 @@
+{
+  "id": 706030679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249565,43.203372,-86.249565,43.203372",
+    "geom:latitude":43.203372,
+    "geom:longitude":-86.249565,
+    "iso:country":"US",
+    "sg:address":"2624 6th St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 724 6420",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "govt",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hDVoAxqYGgKLfdVtR5a0T_43.203372_-86.249565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794220,
+    "wof:geomhash":"0fbb410d91e88adb8f951df8d1148a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706030679
+        }
+    ],
+    "wof:id":706030679,
+    "wof:lastmodified":1461794220,
+    "wof:name":"Muskegon Area Transit System",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "program"
+    ]
+},
+  "bbox": [
+    -86.249565,
+    43.203372,
+    -86.249565,
+    43.203372
+],
+  "geometry": {"coordinates":[-86.249565,43.203372],"type":"Point"}
+}

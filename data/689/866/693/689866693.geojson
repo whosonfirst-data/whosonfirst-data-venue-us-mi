@@ -1,0 +1,82 @@
+{
+  "id": 689866693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.866966,42.554762,-82.866966,42.554762",
+    "geom:latitude":42.554762,
+    "geom:longitude":-82.866966,
+    "iso:country":"US",
+    "sg:address":"24324 Sorrentino Ct",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 791 4120",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "development",
+        "laboratory",
+        "engine",
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03AuNvzRtAjVQIkQLuI6ex_42.554762_-82.866966@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783703,
+    "wof:geomhash":"3c36a94748bba89e8dbffcfd3fc4f056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":689866693
+        }
+    ],
+    "wof:id":689866693,
+    "wof:lastmodified":1461783703,
+    "wof:name":"Katech Inc",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory",
+        "engine",
+        "building"
+    ]
+},
+  "bbox": [
+    -82.866966,
+    42.554762,
+    -82.866966,
+    42.554762
+],
+  "geometry": {"coordinates":[-82.86696600000001,42.554762],"type":"Point"}
+}

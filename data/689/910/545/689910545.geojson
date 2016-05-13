@@ -1,0 +1,71 @@
+{
+  "id": 689910545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.53577,42.241681,-85.53577,42.241681",
+    "geom:latitude":42.241681,
+    "geom:longitude":-85.53577,
+    "iso:country":"US",
+    "sg:address":"5140 Meredith St",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 343 1287",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64mDD3R4mjXrVxqyvUSb32_42.241681_-85.535770@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784871,
+    "wof:geomhash":"3a2341219b1d2c8afa76e8c1ec064b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689910545
+        }
+    ],
+    "wof:id":689910545,
+    "wof:lastmodified":1461784871,
+    "wof:name":"M & K Quality Truck Sales",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.53577,
+    42.241681,
+    -85.53577,
+    42.241681
+],
+  "geometry": {"coordinates":[-85.53577,42.241681],"type":"Point"}
+}

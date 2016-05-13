@@ -1,0 +1,71 @@
+{
+  "id": 705753915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.063662,45.821121,-88.063662,45.821121",
+    "geom:latitude":45.821121,
+    "geom:longitude":-88.063662,
+    "iso:country":"US",
+    "sg:address":"205 Iron Mountain St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 776 0436",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ahjIer3PpbDXQz4jxeVi_45.821121_-88.063662@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787945,
+    "wof:geomhash":"a63a35d4fe68357f1f5c0d8b715b26ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705753915
+        }
+    ],
+    "wof:id":705753915,
+    "wof:lastmodified":1461787945,
+    "wof:name":"Deluxe Cleaning",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.063662,
+    45.821121,
+    -88.063662,
+    45.821121
+],
+  "geometry": {"coordinates":[-88.06366199999999,45.821121],"type":"Point"}
+}

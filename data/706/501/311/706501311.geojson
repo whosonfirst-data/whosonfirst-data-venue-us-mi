@@ -1,0 +1,73 @@
+{
+  "id": 706501311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.701264,43.03604,-83.701264,43.03604",
+    "geom:latitude":43.03604,
+    "geom:longitude":-83.701264,
+    "iso:country":"US",
+    "sg:address":"2113 Bonbright St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 233 0592",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63LvkImwgeNIJPaDi5dewo_43.036040_-83.701264@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804674,
+    "wof:geomhash":"63c95e54d9eb616f4c1edce120d55520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706501311
+        }
+    ],
+    "wof:id":706501311,
+    "wof:lastmodified":1461804674,
+    "wof:name":"Dorothy Walker",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.701264,
+    43.03604,
+    -83.701264,
+    43.03604
+],
+  "geometry": {"coordinates":[-83.70126399999999,43.03604],"type":"Point"}
+}

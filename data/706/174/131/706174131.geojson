@@ -1,0 +1,71 @@
+{
+  "id": 706174131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249298,41.832585,-86.249298,41.832585",
+    "geom:latitude":41.832585,
+    "geom:longitude":-86.249298,
+    "iso:country":"US",
+    "sg:address":"814 Cass St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 4019",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zcXghKgoMeAQqUzLQcYoq_41.832585_-86.249298@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797515,
+    "wof:geomhash":"d329874fe14c62e1ce9ea4fefdaffc97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706174131
+        }
+    ],
+    "wof:id":706174131,
+    "wof:lastmodified":1461797515,
+    "wof:name":"Olmstead Machine",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.249298,
+    41.832585,
+    -86.249298,
+    41.832585
+],
+  "geometry": {"coordinates":[-86.249298,41.832585],"type":"Point"}
+}

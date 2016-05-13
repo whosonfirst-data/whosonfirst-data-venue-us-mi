@@ -1,0 +1,71 @@
+{
+  "id": 706655703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.47657,42.909622,-82.47657,42.909622",
+    "geom:latitude":42.909622,
+    "geom:longitude":-82.47657,
+    "iso:country":"US",
+    "sg:address":"420 E Huron Blvd",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 0000",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AjrIb730gkSiahsJC23kH_42.909622_-82.476570@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808218,
+    "wof:geomhash":"04fa7a5f7449413b919dbfd8753c5d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706655703
+        }
+    ],
+    "wof:id":706655703,
+    "wof:lastmodified":1461808218,
+    "wof:name":"Roadside Truck & Fleet Repairs",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -82.47657,
+    42.909622,
+    -82.47657,
+    42.909622
+],
+  "geometry": {"coordinates":[-82.47657,42.909622],"type":"Point"}
+}

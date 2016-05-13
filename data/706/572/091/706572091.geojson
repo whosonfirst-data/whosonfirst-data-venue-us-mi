@@ -1,0 +1,71 @@
+{
+  "id": 706572091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.728333,43.008415,-83.728333,43.008415",
+    "geom:latitude":43.008415,
+    "geom:longitude":-83.728333,
+    "iso:country":"US",
+    "sg:address":"3102 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 235 8050",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hf8eEnEuXs7VtkC2r4IUn_43.008415_-83.728333@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806102,
+    "wof:geomhash":"d05d2ef71c6118295a2d774ce16deee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706572091
+        }
+    ],
+    "wof:id":706572091,
+    "wof:lastmodified":1461806102,
+    "wof:name":"P R Hamper",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -83.728333,
+    43.008415,
+    -83.728333,
+    43.008415
+],
+  "geometry": {"coordinates":[-83.72833300000001,43.008415],"type":"Point"}
+}

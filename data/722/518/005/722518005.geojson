@@ -1,0 +1,78 @@
+{
+  "id": 722518005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.276703,42.617298,-83.276703,42.617298",
+    "geom:latitude":42.617298,
+    "geom:longitude":-83.276703,
+    "iso:country":"US",
+    "sg:address":"44688 Woodward Ave",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 332 0287",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GCPTdGW7QnFVV8LjlzV0j_42.617298_-83.276703@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813825,
+    "wof:geomhash":"b0bde0cd350ce3b70f734edb7d82c000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":722518005
+        }
+    ],
+    "wof:id":722518005,
+    "wof:lastmodified":1461813825,
+    "wof:name":"Bloomfield Pointe Veterinary Hospital",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.276703,
+    42.617298,
+    -83.276703,
+    42.617298
+],
+  "geometry": {"coordinates":[-83.276703,42.617298],"type":"Point"}
+}

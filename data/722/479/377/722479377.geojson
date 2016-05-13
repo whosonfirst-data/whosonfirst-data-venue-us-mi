@@ -1,0 +1,88 @@
+{
+  "id": 722479377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.084801,42.366199,-83.084801,42.366199",
+    "geom:latitude":42.366199,
+    "geom:longitude":-83.084801,
+    "iso:country":"US",
+    "sg:address":"2799 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 876 2737",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870527,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gNYT4XDtTO8sy8dlLzFQA_42.366199_-83.084801@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812260,
+    "wof:geomhash":"df2f10a332ca339193c83c2749ff97c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870527,
+            "region_id":85688599,
+            "venue_id":722479377
+        }
+    ],
+    "wof:id":722479377,
+    "wof:lastmodified":1461812260,
+    "wof:name":"Henry Ford Medical Centers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -83.084801,
+    42.366199,
+    -83.084801,
+    42.366199
+],
+  "geometry": {"coordinates":[-83.084801,42.366199],"type":"Point"}
+}

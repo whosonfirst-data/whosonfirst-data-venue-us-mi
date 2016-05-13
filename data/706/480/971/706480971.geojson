@@ -1,0 +1,71 @@
+{
+  "id": 706480971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.81927,42.285773,-83.81927,42.285773",
+    "geom:latitude":42.285773,
+    "geom:longitude":-83.81927,
+    "iso:country":"US",
+    "sg:address":"4325 Jackson Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 769 8825",
+    "sg:postcode":"48103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875951,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TSxh7qiQsIKBv55yxGbdu_42.285773_-83.819270@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804075,
+    "wof:geomhash":"54fb0e02cf80616e63112ab78cf07f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875951,
+            "region_id":85688599,
+            "venue_id":706480971
+        }
+    ],
+    "wof:id":706480971,
+    "wof:lastmodified":1461804075,
+    "wof:name":"Third Genration Electric",
+    "wof:parent_id":85875951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.81927,
+    42.285773,
+    -83.81927,
+    42.285773
+],
+  "geometry": {"coordinates":[-83.81927,42.285773],"type":"Point"}
+}

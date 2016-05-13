@@ -1,0 +1,71 @@
+{
+  "id": 689829005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.329752,42.233547,-84.329752,42.233547",
+    "geom:latitude":42.233547,
+    "geom:longitude":-84.329752,
+    "iso:country":"US",
+    "sg:address":"4538 Page Ave",
+    "sg:city":"Michigan Center",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 0800",
+    "sg:postcode":"49254",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EK0QB1LtXPv1rnZT8K51g_42.233547_-84.329752@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782770,
+    "wof:geomhash":"291df9dbbd1d9238fc8d2b715f842fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689829005
+        }
+    ],
+    "wof:id":689829005,
+    "wof:lastmodified":1461782770,
+    "wof:name":"Dennys Video",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.329752,
+    42.233547,
+    -84.329752,
+    42.233547
+],
+  "geometry": {"coordinates":[-84.329752,42.233547],"type":"Point"}
+}

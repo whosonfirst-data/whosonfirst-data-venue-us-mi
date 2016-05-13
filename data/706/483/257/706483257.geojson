@@ -1,0 +1,71 @@
+{
+  "id": 706483257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634269,42.890836,-85.634269,42.890836",
+    "geom:latitude":42.890836,
+    "geom:longitude":-85.634269,
+    "iso:country":"US",
+    "sg:address":"4065 Pointe O Woods St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 5192",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14QwXmelLFOk1IuQ2yYnim_42.890836_-85.634269@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804139,
+    "wof:geomhash":"b6687027f927bf5b361026cf706606e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706483257
+        }
+    ],
+    "wof:id":706483257,
+    "wof:lastmodified":1461804139,
+    "wof:name":"Pointe O'Woods Apartments",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.634269,
+    42.890836,
+    -85.634269,
+    42.890836
+],
+  "geometry": {"coordinates":[-85.634269,42.890836],"type":"Point"}
+}

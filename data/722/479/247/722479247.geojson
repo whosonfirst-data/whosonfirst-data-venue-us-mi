@@ -1,0 +1,88 @@
+{
+  "id": 722479247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.081299,42.364799,-83.081299,42.364799",
+    "geom:latitude":42.364799,
+    "geom:longitude":-83.081299,
+    "iso:country":"US",
+    "sg:address":"1133 W Baltimore St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 871 3775",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870585,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uVeNKHignJxA2QaG5wefX_42.364799_-83.081299@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812255,
+    "wof:geomhash":"a106d8956be2822bbc416746e3e2bb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":722479247
+        }
+    ],
+    "wof:id":722479247,
+    "wof:lastmodified":1461812255,
+    "wof:name":"Electric Motor & Contracting Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -83.081299,
+    42.364799,
+    -83.081299,
+    42.364799
+],
+  "geometry": {"coordinates":[-83.081299,42.364799],"type":"Point"}
+}

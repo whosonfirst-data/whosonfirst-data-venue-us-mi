@@ -1,0 +1,78 @@
+{
+  "id": 706689537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.218902,42.552563,-83.218902,42.552563",
+    "geom:latitude":42.552563,
+    "geom:longitude":-83.218902,
+    "iso:country":"US",
+    "sg:address":"798 N Old Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 433 3550",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mall",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iwlewoqi1klgdRGW00MVX_42.552563_-83.218902@1303262773"
+    },
+    "wof:country":"US",
+    "wof:created":1461809653,
+    "wof:geomhash":"caa5a5dd9b2260d099e1b21f35881d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":706689537
+        }
+    ],
+    "wof:id":706689537,
+    "wof:lastmodified":1461809653,
+    "wof:name":"Principal Shopping District",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "management"
+    ]
+},
+  "bbox": [
+    -83.218902,
+    42.552563,
+    -83.218902,
+    42.552563
+],
+  "geometry": {"coordinates":[-83.218902,42.552563],"type":"Point"}
+}

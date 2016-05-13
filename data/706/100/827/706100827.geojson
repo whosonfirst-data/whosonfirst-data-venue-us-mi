@@ -1,0 +1,71 @@
+{
+  "id": 706100827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.644314,42.671599,-85.644314,42.671599",
+    "geom:latitude":42.671599,
+    "geom:longitude":-85.644314,
+    "iso:country":"US",
+    "sg:address":"118 W Sycamore St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 6650",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wRFpANfjRnEzuICD3Hvul_42.671599_-85.644314@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795802,
+    "wof:geomhash":"7ed80fdf171c68b5338927951b0c464c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706100827
+        }
+    ],
+    "wof:id":706100827,
+    "wof:lastmodified":1461795802,
+    "wof:name":"Townview Carwash",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.644314,
+    42.671599,
+    -85.644314,
+    42.671599
+],
+  "geometry": {"coordinates":[-85.64431399999999,42.671599],"type":"Point"}
+}

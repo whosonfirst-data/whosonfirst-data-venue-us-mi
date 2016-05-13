@@ -1,0 +1,71 @@
+{
+  "id": 689800835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.032916,42.637435,-83.032916,42.637435",
+    "geom:latitude":42.637435,
+    "geom:longitude":-83.032916,
+    "iso:country":"US",
+    "sg:address":"46405 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 254 9950",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bMsNjkd1rCvK7A4cvbwGP_42.637435_-83.032916@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781898,
+    "wof:geomhash":"e2a11796ac2389831c3cd8da17865a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689800835
+        }
+    ],
+    "wof:id":689800835,
+    "wof:lastmodified":1461781898,
+    "wof:name":"Shelby Car Wash",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.032916,
+    42.637435,
+    -83.032916,
+    42.637435
+],
+  "geometry": {"coordinates":[-83.032916,42.637435],"type":"Point"}
+}

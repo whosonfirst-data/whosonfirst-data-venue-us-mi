@@ -1,0 +1,71 @@
+{
+  "id": 689672543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.437812,46.278268,-87.437812,46.278268",
+    "geom:latitude":46.278268,
+    "geom:longitude":-87.437812,
+    "iso:country":"US",
+    "sg:address":"99 N Pine St",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 9224",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b7OxPOwZPCEtk4znrC3Xv_46.278268_-87.437812@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778451,
+    "wof:geomhash":"266f3df8f1b78ba3a4f736b1659a8472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689672543
+        }
+    ],
+    "wof:id":689672543,
+    "wof:lastmodified":1461778451,
+    "wof:name":"Forsyth Township Police Dept",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.437812,
+    46.278268,
+    -87.437812,
+    46.278268
+],
+  "geometry": {"coordinates":[-87.43781199999999,46.278268],"type":"Point"}
+}

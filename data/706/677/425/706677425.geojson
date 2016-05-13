@@ -1,0 +1,76 @@
+{
+  "id": 706677425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282196,42.298193,-83.282196,42.298193",
+    "geom:latitude":42.298193,
+    "geom:longitude":-83.282196,
+    "iso:country":"US",
+    "sg:address":"25120 Michigan Ave",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/dearborn/207811-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 563 9299",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DcKQpq6OM8lwBoBg3Xzof_42.298193_-83.282196@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809183,
+    "wof:geomhash":"c65da8fa6c17b730b3553aee30f5b95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":706677425
+        }
+    ],
+    "wof:id":706677425,
+    "wof:lastmodified":1461809183,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.282196,
+    42.298193,
+    -83.282196,
+    42.298193
+],
+  "geometry": {"coordinates":[-83.282196,42.298193],"type":"Point"}
+}

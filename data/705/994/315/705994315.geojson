@@ -1,0 +1,91 @@
+{
+  "id": 705994315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.010398,42.448624,-83.010398,42.448624",
+    "geom:latitude":42.448624,
+    "geom:longitude":-83.010398,
+    "iso:country":"US",
+    "sg:address":"11461 E 8 Mile Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 757 3533",
+    "sg:postcode":"48089",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524395,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524895,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDFPCH8X8Cwt6ewonOIQP_42.448624_-83.010398@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793451,
+    "wof:geomhash":"28683acd63ce0981bd0850586d2922a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524395,
+            "region_id":85688599,
+            "venue_id":705994315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524895,
+            "region_id":85688599,
+            "venue_id":705994315
+        }
+    ],
+    "wof:id":705994315,
+    "wof:lastmodified":1461793451,
+    "wof:name":"Patrick Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.010398,
+    42.448624,
+    -83.010398,
+    42.448624
+],
+  "geometry": {"coordinates":[-83.010398,42.448624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706698181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.904602,42.545799,-82.904602,42.545799",
+    "geom:latitude":42.545799,
+    "geom:longitude":-82.904602,
+    "iso:country":"US",
+    "sg:address":"33822 S Gratiot Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 792 5151",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NT6tYJg0xdJ8iypJH2I9U_42.545799_-82.904602@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461809988,
+    "wof:geomhash":"384bd2df7f293814118d9167d7c9d55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":706698181
+        }
+    ],
+    "wof:id":706698181,
+    "wof:lastmodified":1461809988,
+    "wof:name":"Game Stop",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -82.904602,
+    42.545799,
+    -82.904602,
+    42.545799
+],
+  "geometry": {"coordinates":[-82.904602,42.545799],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 705708409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.255517,43.187401,-86.255517,43.187401",
+    "geom:latitude":43.187401,
+    "geom:longitude":-86.255517,
+    "iso:country":"US",
+    "sg:address":"3535 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 4348",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "psychotherapist",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n6Thb3zQvGzjYl86grQ3S_43.187401_-86.255517@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786831,
+    "wof:geomhash":"470ac835615a15c03c340926e34ca69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705708409
+        }
+    ],
+    "wof:id":705708409,
+    "wof:lastmodified":1461786831,
+    "wof:name":"Psychological Counseling Assoc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.255517,
+    43.187401,
+    -86.255517,
+    43.187401
+],
+  "geometry": {"coordinates":[-86.255517,43.187401],"type":"Point"}
+}

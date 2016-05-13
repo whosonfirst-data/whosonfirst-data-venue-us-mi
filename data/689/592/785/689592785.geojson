@@ -1,0 +1,71 @@
+{
+  "id": 689592785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.812496,43.332484,-85.812496,43.332484",
+    "geom:latitude":43.332484,
+    "geom:longitude":-85.812496,
+    "iso:country":"US",
+    "sg:address":"241 S Jones St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7462",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bND5Gr76n2PMtLr47Ub4q_43.332484_-85.812496@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775989,
+    "wof:geomhash":"55caa574707415447405b421f47ffe4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689592785
+        }
+    ],
+    "wof:id":689592785,
+    "wof:lastmodified":1461775989,
+    "wof:name":"Grant Sewer Plant",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -85.812496,
+    43.332484,
+    -85.812496,
+    43.332484
+],
+  "geometry": {"coordinates":[-85.812496,43.332484],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689941069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.266868,42.685901,-84.266868,42.685901",
+    "geom:latitude":42.685901,
+    "geom:longitude":-84.266868,
+    "iso:country":"US",
+    "sg:address":"2270 E Grand River Ave",
+    "sg:city":"Williamston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 655 6310",
+    "sg:postcode":"48895",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J68FcWOpxdodascaFxck4_42.685901_-84.266868@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785638,
+    "wof:geomhash":"3d2a418d544e0c39c2eb2fa8f3cc2429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689941069
+        }
+    ],
+    "wof:id":689941069,
+    "wof:lastmodified":1461785638,
+    "wof:name":"Williamston Auto Service",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.266868,
+    42.685901,
+    -84.266868,
+    42.685901
+],
+  "geometry": {"coordinates":[-84.266868,42.685901],"type":"Point"}
+}

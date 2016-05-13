@@ -1,0 +1,72 @@
+{
+  "id": 706683893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677513,42.241583,-85.677513,42.241583",
+    "geom:latitude":42.241583,
+    "geom:longitude":-85.677513,
+    "iso:country":"US",
+    "sg:address":"5143 S 9th St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/texas/182813-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 544 2370",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rc72KJQMPaogicMZEkZNb_42.241583_-85.677513@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809442,
+    "wof:geomhash":"14360afa98d682f89b19c6fb0e17f98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706683893
+        }
+    ],
+    "wof:id":706683893,
+    "wof:lastmodified":1461809442,
+    "wof:name":"Culver's",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.677513,
+    42.241583,
+    -85.677513,
+    42.241583
+],
+  "geometry": {"coordinates":[-85.677513,42.241583],"type":"Point"}
+}

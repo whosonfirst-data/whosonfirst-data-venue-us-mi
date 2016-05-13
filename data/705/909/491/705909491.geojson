@@ -1,0 +1,73 @@
+{
+  "id": 705909491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.323042,42.225691,-84.323042,42.225691",
+    "geom:latitude":42.225691,
+    "geom:longitude":-84.323042,
+    "iso:country":"US",
+    "sg:address":"333 Gilmore Ct",
+    "sg:city":"Michigan Center",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 6926",
+    "sg:postcode":"49254",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Grz6ln3LYyajBwZlP2MY8_42.225691_-84.323042@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791620,
+    "wof:geomhash":"e592248109d6f69a5e33505f5e6e0203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705909491
+        }
+    ],
+    "wof:id":705909491,
+    "wof:lastmodified":1461791620,
+    "wof:name":"William Dixon Trucking",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.323042,
+    42.225691,
+    -84.323042,
+    42.225691
+],
+  "geometry": {"coordinates":[-84.323042,42.225691],"type":"Point"}
+}

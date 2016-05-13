@@ -1,0 +1,78 @@
+{
+  "id": 706472219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.487977,42.056484,-86.487977,42.056484",
+    "geom:latitude":42.056484,
+    "geom:longitude":-86.487977,
+    "iso:country":"US",
+    "sg:address":"1446 Trebor Rd",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 6247",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck",
+        "cleaning",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uIBFxKrXUXowiNlZ5I9s_42.056484_-86.487977@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803892,
+    "wof:geomhash":"cc87317213b60e22aa6972b64b0d3a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":706472219
+        }
+    ],
+    "wof:id":706472219,
+    "wof:lastmodified":1461803892,
+    "wof:name":"C & S Mobile Power Wash",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning",
+        "power"
+    ]
+},
+  "bbox": [
+    -86.487977,
+    42.056484,
+    -86.487977,
+    42.056484
+],
+  "geometry": {"coordinates":[-86.487977,42.056484],"type":"Point"}
+}

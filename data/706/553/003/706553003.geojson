@@ -1,0 +1,71 @@
+{
+  "id": 706553003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269431,43.213931,-86.269431,43.213931",
+    "geom:latitude":43.213931,
+    "geom:longitude":-86.269431,
+    "iso:country":"US",
+    "sg:address":"1085 Royale Glen Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7030",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IKqm4JF8PRrRB5kgiZcWT_43.213931_-86.269431@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805718,
+    "wof:geomhash":"a34add41c58a6410fb7b35209f94886d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706553003
+        }
+    ],
+    "wof:id":706553003,
+    "wof:lastmodified":1461805718,
+    "wof:name":"Royale Glen Townhomes",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.269431,
+    43.213931,
+    -86.269431,
+    43.213931
+],
+  "geometry": {"coordinates":[-86.269431,43.213931],"type":"Point"}
+}

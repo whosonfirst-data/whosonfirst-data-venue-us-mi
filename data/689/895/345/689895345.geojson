@@ -1,0 +1,71 @@
+{
+  "id": 689895345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.646107,42.335291,-83.646107,42.335291",
+    "geom:latitude":42.335291,
+    "geom:longitude":-83.646107,
+    "iso:country":"US",
+    "sg:address":"5400 Meadowcrest Dr",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 995 0391",
+    "sg:postcode":"48105",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875869,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uya8ff8URT84eAfNyxZT3_42.335291_-83.646107@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784445,
+    "wof:geomhash":"daa2cf784427e63efacb13e323a63f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875869,
+            "region_id":85688599,
+            "venue_id":689895345
+        }
+    ],
+    "wof:id":689895345,
+    "wof:lastmodified":1461784445,
+    "wof:name":"Crane Properties",
+    "wof:parent_id":85875869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.646107,
+    42.335291,
+    -83.646107,
+    42.335291
+],
+  "geometry": {"coordinates":[-83.646107,42.335291],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689584449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.870565,43.398249,-85.870565,43.398249",
+    "geom:latitude":43.398249,
+    "geom:longitude":-85.870565,
+    "iso:country":"US",
+    "sg:address":"8618 Wisner Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 7503",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qw6tgwIxu1IWCRuSoLS8N_43.398249_-85.870565@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775751,
+    "wof:geomhash":"b2452138bac38f4fc5e9632ee7b15c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689584449
+        }
+    ],
+    "wof:id":689584449,
+    "wof:lastmodified":1461775751,
+    "wof:name":"Wisner Electric",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.870565,
+    43.398249,
+    -85.870565,
+    43.398249
+],
+  "geometry": {"coordinates":[-85.870565,43.398249],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 705726283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.257635,43.186886,-86.257635,43.186886",
+    "geom:latitude":43.186886,
+    "geom:longitude":-86.257635,
+    "iso:country":"US",
+    "sg:address":"511 Seminole Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 8303",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "sg:website":"www.cinema-city.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bVGGwG5vYFc82wycBmuGI_43.186886_-86.257635@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787310,
+    "wof:geomhash":"864e2240d995376e3d094f8cd888c00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705726283
+        }
+    ],
+    "wof:id":705726283,
+    "wof:lastmodified":1461787310,
+    "wof:name":"Cinema City",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -86.257635,
+    43.186886,
+    -86.257635,
+    43.186886
+],
+  "geometry": {"coordinates":[-86.25763499999999,43.186886],"type":"Point"}
+}

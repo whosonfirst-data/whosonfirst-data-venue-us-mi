@@ -1,0 +1,83 @@
+{
+  "id": 722487011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080091,42.353995,-83.080091,42.353995",
+    "geom:latitude":42.353995,
+    "geom:longitude":-83.080091,
+    "iso:country":"US",
+    "sg:address":"5169 Trumbull St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 833 2701",
+    "sg:postcode":"48218",
+    "sg:province":"MI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.woodbridgepub.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870585,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x8opG7xMCLw09me7dq6y8_42.353995_-83.080091@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812562,
+    "wof:geomhash":"616aa4d14d5d37683836fa82cb2bb7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":722487011
+        }
+    ],
+    "wof:id":722487011,
+    "wof:lastmodified":1461812562,
+    "wof:name":"Woodbridge Pub",
+    "wof:parent_id":85870585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.080091,
+    42.353995,
+    -83.080091,
+    42.353995
+],
+  "geometry": {"coordinates":[-83.080091,42.353995],"type":"Point"}
+}

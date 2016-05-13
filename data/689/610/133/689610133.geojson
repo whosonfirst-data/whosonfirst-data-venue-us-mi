@@ -1,0 +1,71 @@
+{
+  "id": 689610133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.394613,41.910111,-83.394613,41.910111",
+    "geom:latitude":41.910111,
+    "geom:longitude":-83.394613,
+    "iso:country":"US",
+    "sg:address":"502 E 4th St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 6777",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mfCN0J4QOTMD4AlxzoAeA_41.910111_-83.394613@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776611,
+    "wof:geomhash":"08f296ec36900cf90159e41a5b90f623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689610133
+        }
+    ],
+    "wof:id":689610133,
+    "wof:lastmodified":1461776611,
+    "wof:name":"Kurt Steinman",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.394613,
+    41.910111,
+    -83.394613,
+    41.910111
+],
+  "geometry": {"coordinates":[-83.39461300000001,41.910111],"type":"Point"}
+}

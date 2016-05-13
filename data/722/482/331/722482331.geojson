@@ -1,0 +1,69 @@
+{
+  "id": 722482331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0083,42.344367,-83.0083,42.344367",
+    "geom:latitude":42.344367,
+    "geom:longitude":-83.0083,
+    "iso:country":"US",
+    "sg:address":"Corner Meldrum and Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870599,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k0I9vVzC3KmY9cz8y7v8R_42.344367_-83.008300@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812382,
+    "wof:geomhash":"0c20f8f9611c06b2d7baaa9fb6b0e18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870599,
+            "region_id":85688599,
+            "venue_id":722482331
+        }
+    ],
+    "wof:id":722482331,
+    "wof:lastmodified":1461812382,
+    "wof:name":"Car Wash Cafe",
+    "wof:parent_id":85870599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.0083,
+    42.344367,
+    -83.0083,
+    42.344367
+],
+  "geometry": {"coordinates":[-83.00830000000001,42.344367],"type":"Point"}
+}

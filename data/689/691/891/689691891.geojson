@@ -1,0 +1,71 @@
+{
+  "id": 689691891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.61073,42.234801,-83.61073,42.234801",
+    "geom:latitude":42.234801,
+    "geom:longitude":-83.61073,
+    "iso:country":"US",
+    "sg:address":"330 Chidister St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 487 9400",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69yn69Rg5372H4BoSoDKYl_42.234801_-83.610730@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778917,
+    "wof:geomhash":"247b8862a346bee71859df1a1b75bd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":689691891
+        }
+    ],
+    "wof:id":689691891,
+    "wof:lastmodified":1461778917,
+    "wof:name":"Chidester Place",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.61073,
+    42.234801,
+    -83.61073,
+    42.234801
+],
+  "geometry": {"coordinates":[-83.61073,42.234801],"type":"Point"}
+}

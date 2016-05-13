@@ -1,0 +1,76 @@
+{
+  "id": 706737601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.455101,42.359001,-83.455101,42.359001",
+    "geom:latitude":42.359001,
+    "geom:longitude":-83.455101,
+    "iso:country":"US",
+    "sg:address":"42001 Ann Arbor Rd E",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 4880",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hall",
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMXBHqRi1TeIGkD7Cu7bB_42.359001_-83.455101@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811721,
+    "wof:geomhash":"70301202db384f1a0e8a3d9def21611f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737601
+        }
+    ],
+    "wof:id":706737601,
+    "wof:lastmodified":1461811721,
+    "wof:name":"Plymouth Plaza Lanes",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [
+    -83.455101,
+    42.359001,
+    -83.455101,
+    42.359001
+],
+  "geometry": {"coordinates":[-83.455101,42.359001],"type":"Point"}
+}

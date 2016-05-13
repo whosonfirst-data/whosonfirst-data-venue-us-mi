@@ -1,0 +1,75 @@
+{
+  "id": 706317659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.797328,44.019962,-84.797328,44.019962",
+    "geom:latitude":44.019962,
+    "geom:longitude":-84.797328,
+    "iso:country":"US",
+    "sg:address":"255 E Main St",
+    "sg:city":"Harrison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 539 3611",
+    "sg:postcode":"48625",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524263,
+        102191575,
+        404507215,
+        85633793,
+        85950965,
+        102083753,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IyPfYxcUzgq3E5KBi6efC_44.019962_-84.797328@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800672,
+    "wof:geomhash":"5f1b345fb1c70285488bf39253e86eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083753,
+            "localadmin_id":404507215,
+            "locality_id":85950965,
+            "neighbourhood_id":420524263,
+            "region_id":85688599,
+            "venue_id":706317659
+        }
+    ],
+    "wof:id":706317659,
+    "wof:lastmodified":1461800672,
+    "wof:name":"Harrison Fire Dept",
+    "wof:parent_id":420524263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.797328,
+    44.019962,
+    -84.797328,
+    44.019962
+],
+  "geometry": {"coordinates":[-84.79732799999999,44.019962],"type":"Point"}
+}

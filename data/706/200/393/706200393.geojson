@@ -1,0 +1,70 @@
+{
+  "id": 706200393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.19929,43.15422,-86.19929,43.15422",
+    "geom:latitude":43.15422,
+    "geom:longitude":-86.19929,
+    "iso:country":"US",
+    "sg:address":"1878 E Sternberg Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 799 9696",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "sg:website":"www.hansencollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nwwJlx945YnsYRJvAM5Sh_43.154220_-86.199290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798081,
+    "wof:geomhash":"ffa73a4ef12b942b2223d65a6c0c7e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706200393
+        }
+    ],
+    "wof:id":706200393,
+    "wof:lastmodified":1461798081,
+    "wof:name":"Hansen Collision",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.19929,
+    43.15422,
+    -86.19929,
+    43.15422
+],
+  "geometry": {"coordinates":[-86.19929,43.15422],"type":"Point"}
+}

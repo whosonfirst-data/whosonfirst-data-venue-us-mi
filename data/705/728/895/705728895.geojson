@@ -1,0 +1,69 @@
+{
+  "id": 705728895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.223056,43.190751,-86.223056,43.190751",
+    "geom:latitude":43.190751,
+    "geom:longitude":-86.223056,
+    "iso:country":"US",
+    "sg:address":"1039 E Norton Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 854 5775",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U0m5AoMw0tcDOurOeYjjU_43.190751_-86.223056@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787372,
+    "wof:geomhash":"2c273dbe825d2cd9c8fdcc6be043bacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705728895
+        }
+    ],
+    "wof:id":705728895,
+    "wof:lastmodified":1461787372,
+    "wof:name":"West Michigan Septic Sewer",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -86.223056,
+    43.190751,
+    -86.223056,
+    43.190751
+],
+  "geometry": {"coordinates":[-86.223056,43.190751],"type":"Point"}
+}

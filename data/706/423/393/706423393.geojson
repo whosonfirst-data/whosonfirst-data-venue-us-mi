@@ -1,0 +1,73 @@
+{
+  "id": 706423393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252526,43.214633,-86.252526,43.214633",
+    "geom:latitude":43.214633,
+    "geom:longitude":-86.252526,
+    "iso:country":"US",
+    "sg:address":"332 W Delano Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 728 8522",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ea8PqXr3y7ejtvkwk3p5H_43.214633_-86.252526@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802855,
+    "wof:geomhash":"71ed94ffae01385e4cd451d6d02a0988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706423393
+        }
+    ],
+    "wof:id":706423393,
+    "wof:lastmodified":1461802855,
+    "wof:name":"Foster Electric",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.252526,
+    43.214633,
+    -86.252526,
+    43.214633
+],
+  "geometry": {"coordinates":[-86.252526,43.214633],"type":"Point"}
+}

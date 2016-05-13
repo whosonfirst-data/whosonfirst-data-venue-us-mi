@@ -1,0 +1,71 @@
+{
+  "id": 705796031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.421571,42.291182,-84.421571,42.291182",
+    "geom:latitude":42.291182,
+    "geom:longitude":-84.421571,
+    "iso:country":"US",
+    "sg:address":"1260 W Parnall Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 768 9005",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rym6jZOQQ4JDco8gZdb2y_42.291182_-84.421571@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788924,
+    "wof:geomhash":"85be7e4db219b209f7aed59df632fe10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705796031
+        }
+    ],
+    "wof:id":705796031,
+    "wof:lastmodified":1461788924,
+    "wof:name":"Victory Lane Quick Oil Change",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.421571,
+    42.291182,
+    -84.421571,
+    42.291182
+],
+  "geometry": {"coordinates":[-84.421571,42.291182],"type":"Point"}
+}

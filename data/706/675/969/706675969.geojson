@@ -1,0 +1,78 @@
+{
+  "id": 706675969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.106394,42.519294,-83.106394,42.519294",
+    "geom:latitude":42.519294,
+    "geom:longitude":-83.106394,
+    "iso:country":"US",
+    "sg:address":"30775 John R Rd",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/madison-heights/146391-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 585 3499",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524615,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J1RW3pm1YtbjdZJA3QCD3_42.519294_-83.106394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809120,
+    "wof:geomhash":"5567744fa48b28ad53c406fb0c0483b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706675969
+        }
+    ],
+    "wof:id":706675969,
+    "wof:lastmodified":1461809120,
+    "wof:name":"Subway",
+    "wof:parent_id":420524615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.106394,
+    42.519294,
+    -83.106394,
+    42.519294
+],
+  "geometry": {"coordinates":[-83.10639399999999,42.519294],"type":"Point"}
+}

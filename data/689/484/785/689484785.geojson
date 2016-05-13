@@ -1,0 +1,73 @@
+{
+  "id": 689484785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.560879,41.736091,-83.560879,41.736091",
+    "geom:latitude":41.736091,
+    "geom:longitude":-83.560879,
+    "iso:country":"US",
+    "sg:address":"583 Smith Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 847 0957",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85873173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mVD0U0FXEr6hLkVHzhvbr_41.736091_-83.560879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772662,
+    "wof:geomhash":"781f20d7ea40321d5920000244afb82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85873173,
+            "region_id":85688485,
+            "venue_id":689484785
+        }
+    ],
+    "wof:id":689484785,
+    "wof:lastmodified":1461772662,
+    "wof:name":"Video Tek",
+    "wof:parent_id":85873173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -83.560879,
+    41.736091,
+    -83.560879,
+    41.736091
+],
+  "geometry": {"coordinates":[-83.560879,41.736091],"type":"Point"}
+}

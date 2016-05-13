@@ -1,0 +1,73 @@
+{
+  "id": 705901431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.295978,41.9714,-86.295978,41.9714",
+    "geom:latitude":41.9714,
+    "geom:longitude":-86.295978,
+    "iso:country":"US",
+    "sg:address":"8110 Eau Claire Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 6388",
+    "sg:postcode":"49111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73hWG71Ixu5XESwslyNLN5_41.971400_-86.295978@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791445,
+    "wof:geomhash":"e4df67d342c910761f4b87add376f093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705901431
+        }
+    ],
+    "wof:id":705901431,
+    "wof:lastmodified":1461791445,
+    "wof:name":"Eagle Transport Co",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.295978,
+    41.9714,
+    -86.295978,
+    41.9714
+],
+  "geometry": {"coordinates":[-86.29597800000001,41.9714],"type":"Point"}
+}

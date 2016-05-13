@@ -1,0 +1,87 @@
+{
+  "id": 722496983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197215,42.363575,-83.197215,42.363575",
+    "geom:latitude":42.363575,
+    "geom:longitude":-83.197215,
+    "iso:country":"US",
+    "sg:address":"9310 Greenfield Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 272 7771",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system"
+    ],
+    "sg:website":"http://motorcitymuffler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870497,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rRGmfzQRkJHDFtm8XMs6G_42.363575_-83.197215@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812957,
+    "wof:geomhash":"8b2164afa0af630b6041f29d8146a75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870497,
+            "region_id":85688599,
+            "venue_id":722496983
+        }
+    ],
+    "wof:id":722496983,
+    "wof:lastmodified":1461812957,
+    "wof:name":"Motor City Muffler Clinic",
+    "wof:parent_id":85870497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system"
+    ]
+},
+  "bbox": [
+    -83.197215,
+    42.363575,
+    -83.197215,
+    42.363575
+],
+  "geometry": {"coordinates":[-83.197215,42.363575],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706685369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.955666,43.05986,-85.955666,43.05986",
+    "geom:latitude":43.05986,
+    "geom:longitude":-85.955666,
+    "iso:country":"US",
+    "sg:address":"1151 W Randall St",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/coopersville/86738-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 7334",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G7hMQAEg1Dj4dXe4325rt_43.059860_-85.955666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"444b2d783713215531dcef6d43440322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706685369
+        }
+    ],
+    "wof:id":706685369,
+    "wof:lastmodified":1461809497,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.955666,
+    43.05986,
+    -85.955666,
+    43.05986
+],
+  "geometry": {"coordinates":[-85.95566599999999,43.05986],"type":"Point"}
+}

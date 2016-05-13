@@ -1,0 +1,85 @@
+{
+  "id": 706680839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469741,42.485681,-83.469741,42.485681",
+    "geom:latitude":42.485681,
+    "geom:longitude":-83.469741,
+    "iso:country":"US",
+    "sg:address":"43075 Crescent Blvd",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/novi/137075-seattles-best-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 347 0780",
+    "sg:postcode":"48375",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896653,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YqKKsY1v3dkkhyp8ZwdKQ_42.485681_-83.469741@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809316,
+    "wof:geomhash":"2a5dd9be506204ffc8ffeae375afab32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896653,
+            "region_id":85688599,
+            "venue_id":706680839
+        }
+    ],
+    "wof:id":706680839,
+    "wof:lastmodified":1461809316,
+    "wof:name":"Seattle's Best Coffee",
+    "wof:parent_id":85896653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.469741,
+    42.485681,
+    -83.469741,
+    42.485681
+],
+  "geometry": {"coordinates":[-83.469741,42.485681],"type":"Point"}
+}

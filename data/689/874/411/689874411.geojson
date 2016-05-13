@@ -1,0 +1,80 @@
+{
+  "id": 689874411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.226929,41.820376,-86.226929,41.820376",
+    "geom:latitude":41.820376,
+    "geom:longitude":-86.226929,
+    "iso:country":"US",
+    "sg:address":"2109 Spansail Dr",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 687 8727",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75cE32qPM36DtjUuuq1L5H_41.820376_-86.226929@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783894,
+    "wof:geomhash":"d097b80908624b299d55adfbaf86caef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689874411
+        }
+    ],
+    "wof:id":689874411,
+    "wof:lastmodified":1461783894,
+    "wof:name":"Donna's Doggy Salon",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.226929,
+    41.820376,
+    -86.226929,
+    41.820376
+],
+  "geometry": {"coordinates":[-86.226929,41.820376],"type":"Point"}
+}

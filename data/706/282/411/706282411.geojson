@@ -1,0 +1,71 @@
+{
+  "id": 706282411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3843,41.910637,-83.3843,41.910637",
+    "geom:latitude":41.910637,
+    "geom:longitude":-83.3843,
+    "iso:country":"US",
+    "sg:address":"72 Winchester St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 5920",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zT4HfwLTrUDEvCoHprm2Z_41.910637_-83.384300@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799902,
+    "wof:geomhash":"1d18f5b24b5b5734bd527217a9b9cc97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706282411
+        }
+    ],
+    "wof:id":706282411,
+    "wof:lastmodified":1461799902,
+    "wof:name":"Jeff's Garage",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.3843,
+    41.910637,
+    -83.3843,
+    41.910637
+],
+  "geometry": {"coordinates":[-83.3843,41.910637],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706679151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.217111,42.400225,-83.217111,42.400225",
+    "geom:latitude":42.400225,
+    "geom:longitude":-83.217111,
+    "iso:country":"US",
+    "sg:address":"17739 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/240934-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524917,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dXZ3OyjoQCSd59OOCzlL6_42.400225_-83.217111@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809251,
+    "wof:geomhash":"79c98dedd8fdd4cfd5c176e6db12e352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524917,
+            "region_id":85688599,
+            "venue_id":706679151
+        }
+    ],
+    "wof:id":706679151,
+    "wof:lastmodified":1461809251,
+    "wof:name":"White Castle",
+    "wof:parent_id":420524917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.217111,
+    42.400225,
+    -83.217111,
+    42.400225
+],
+  "geometry": {"coordinates":[-83.217111,42.400225],"type":"Point"}
+}

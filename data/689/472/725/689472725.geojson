@@ -1,0 +1,73 @@
+{
+  "id": 689472725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.205883,43.056841,-86.205883,43.056841",
+    "geom:latitude":43.056841,
+    "geom:longitude":-86.205883,
+    "iso:country":"US",
+    "sg:address":"415 S Beechtree St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 3980",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6koYMsc6g0skc1apqAkZgs_43.056841_-86.205883@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772315,
+    "wof:geomhash":"0be98c6be8a7f8387db54f23a77652f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689472725
+        }
+    ],
+    "wof:id":689472725,
+    "wof:lastmodified":1461772315,
+    "wof:name":"Rich's Auto Svc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.205883,
+    43.056841,
+    -86.205883,
+    43.056841
+],
+  "geometry": {"coordinates":[-86.205883,43.056841],"type":"Point"}
+}

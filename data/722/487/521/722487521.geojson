@@ -1,0 +1,86 @@
+{
+  "id": 722487521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.250504,42.413502,-83.250504,42.413502",
+    "geom:latitude":42.413502,
+    "geom:longitude":-83.250504,
+    "iso:country":"US",
+    "sg:address":"21227 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 387 5000",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3749KVg9OfA31p9OXeFckx_42.413502_-83.250504@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812578,
+    "wof:geomhash":"dd1780a575af36fe23bd21a2d833b5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722487521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":722487521
+        }
+    ],
+    "wof:id":722487521,
+    "wof:lastmodified":1461812578,
+    "wof:name":"Prince Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.250504,
+    42.413502,
+    -83.250504,
+    42.413502
+],
+  "geometry": {"coordinates":[-83.25050400000001,42.413502],"type":"Point"}
+}

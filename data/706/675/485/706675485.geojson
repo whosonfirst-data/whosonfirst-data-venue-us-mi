@@ -1,0 +1,76 @@
+{
+  "id": 706675485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.940968,42.672576,-82.940968,42.672576",
+    "geom:latitude":42.672576,
+    "geom:longitude":-82.940968,
+    "iso:country":"US",
+    "sg:address":"51074 Romeo Plank Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/26967-hungry-howies-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 992 1900",
+    "sg:postcode":"48042",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l6Ye5ypuQGf0fE4iR9Bq8_42.672576_-82.940968@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809096,
+    "wof:geomhash":"5315646088d392538e71f40781151e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706675485
+        }
+    ],
+    "wof:id":706675485,
+    "wof:lastmodified":1461809096,
+    "wof:name":"Hungry Howie's Pizza",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.940968,
+    42.672576,
+    -82.940968,
+    42.672576
+],
+  "geometry": {"coordinates":[-82.940968,42.672576],"type":"Point"}
+}

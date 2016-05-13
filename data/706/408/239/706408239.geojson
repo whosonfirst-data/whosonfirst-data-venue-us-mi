@@ -1,0 +1,78 @@
+{
+  "id": 706408239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.023035,42.808825,-86.023035,42.808825",
+    "geom:latitude":42.808825,
+    "geom:longitude":-86.023035,
+    "iso:country":"US",
+    "sg:address":"100 Pine St",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 748 2811",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "surgeon",
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FajAWuBN94OzRzM4nYPBq_42.808825_-86.023035@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802567,
+    "wof:geomhash":"a87d9c97e7d19fa054c0964a871bc3a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":706408239
+        }
+    ],
+    "wof:id":706408239,
+    "wof:lastmodified":1461802567,
+    "wof:name":"Michigan Medical PC",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "surgeon",
+        "physician"
+    ]
+},
+  "bbox": [
+    -86.023035,
+    42.808825,
+    -86.023035,
+    42.808825
+],
+  "geometry": {"coordinates":[-86.02303499999999,42.808825],"type":"Point"}
+}

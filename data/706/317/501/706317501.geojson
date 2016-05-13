@@ -1,0 +1,71 @@
+{
+  "id": 706317501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550215,42.594833,-85.550215,42.594833",
+    "geom:latitude":42.594833,
+    "geom:longitude":-85.550215,
+    "iso:country":"US",
+    "sg:address":"77 124th Ave",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 672 9898",
+    "sg:postcode":"49344",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70lY8GpgyWRUUGtRiX6aFa_42.594833_-85.550215@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800669,
+    "wof:geomhash":"9d63cc3c2c2e3192d8ee7959c6fc5411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706317501
+        }
+    ],
+    "wof:id":706317501,
+    "wof:lastmodified":1461800669,
+    "wof:name":"Gun Lake Family Medicine",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.550215,
+    42.594833,
+    -85.550215,
+    42.594833
+],
+  "geometry": {"coordinates":[-85.55021499999999,42.594833],"type":"Point"}
+}

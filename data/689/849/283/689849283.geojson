@@ -1,0 +1,73 @@
+{
+  "id": 689849283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.401239,41.803516,-86.401239,41.803516",
+    "geom:latitude":41.803516,
+    "geom:longitude":-86.401239,
+    "iso:country":"US",
+    "sg:address":"4770 US Hwy 12",
+    "sg:city":"Buchanan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 695 6191",
+    "sg:postcode":"49107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WcIU1BmrbBkPsUPlBvSQr_41.803516_-86.401239@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783298,
+    "wof:geomhash":"1cea0c8ab4a029b4955ea7aa82b82541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":689849283
+        }
+    ],
+    "wof:id":689849283,
+    "wof:lastmodified":1461783298,
+    "wof:name":"Bertrand Twp Fire Dept",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.401239,
+    41.803516,
+    -86.401239,
+    41.803516
+],
+  "geometry": {"coordinates":[-86.401239,41.803516],"type":"Point"}
+}

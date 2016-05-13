@@ -1,0 +1,73 @@
+{
+  "id": 706395469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260653,43.274901,-86.260653,43.274901",
+    "geom:latitude":43.274901,
+    "geom:longitude":-86.260653,
+    "iso:country":"US",
+    "sg:address":"1206 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 6464",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WL01nQLWhgsmblAAoQdnW_43.274901_-86.260653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802306,
+    "wof:geomhash":"6751c5372d31a2038b3720641b318cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706395469
+        }
+    ],
+    "wof:id":706395469,
+    "wof:lastmodified":1461802306,
+    "wof:name":"Little Learners Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "day"
+    ]
+},
+  "bbox": [
+    -86.260653,
+    43.274901,
+    -86.260653,
+    43.274901
+],
+  "geometry": {"coordinates":[-86.260653,43.274901],"type":"Point"}
+}

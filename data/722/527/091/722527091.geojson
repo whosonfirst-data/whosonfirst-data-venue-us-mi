@@ -1,0 +1,86 @@
+{
+  "id": 722527091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610276,42.222585,-85.610276,42.222585",
+    "geom:latitude":42.222585,
+    "geom:longitude":-85.610276,
+    "iso:country":"US",
+    "sg:address":"6633 Haverhill Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 6200",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kindergarten",
+        "elementary",
+        "educational"
+    ],
+    "sg:website":"http://www.portagecentralhsband.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AcxCpXsip0FWFc1deAXFE_42.222585_-85.610276@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814292,
+    "wof:geomhash":"05bb8639ab89400d99476d2a6e2cceb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":722527091
+        }
+    ],
+    "wof:id":722527091,
+    "wof:lastmodified":1461814292,
+    "wof:name":"Haverhill Elementary School",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "elementary",
+        "educational"
+    ]
+},
+  "bbox": [
+    -85.610276,
+    42.222585,
+    -85.610276,
+    42.222585
+],
+  "geometry": {"coordinates":[-85.610276,42.222585],"type":"Point"}
+}

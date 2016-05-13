@@ -1,0 +1,76 @@
+{
+  "id": 706685649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.095415,42.825333,-86.095415,42.825333",
+    "geom:latitude":42.825333,
+    "geom:longitude":-86.095415,
+    "iso:country":"US",
+    "sg:address":"3134 Beeline Rd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/58143-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 786 4446",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AxbJGTSAuAtdMBNn1ORRj_42.825333_-86.095415@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809508,
+    "wof:geomhash":"23eb9dea168397ac9f75189002d73cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706685649
+        }
+    ],
+    "wof:id":706685649,
+    "wof:lastmodified":1461809508,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.095415,
+    42.825333,
+    -86.095415,
+    42.825333
+],
+  "geometry": {"coordinates":[-86.095415,42.825333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706681799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.067419,43.415936,-84.067419,43.415936",
+    "geom:latitude":43.415936,
+    "geom:longitude":-84.067419,
+    "iso:country":"US",
+    "sg:address":"7778 Gratiot Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/thomas/186100-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHuedSPt4X4JnYT8P5bUV_43.415936_-84.067419@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809356,
+    "wof:geomhash":"8f259742782a835ffe3db3d8dc16159e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706681799
+        }
+    ],
+    "wof:id":706681799,
+    "wof:lastmodified":1461809356,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.067419,
+    43.415936,
+    -84.067419,
+    43.415936
+],
+  "geometry": {"coordinates":[-84.067419,43.415936],"type":"Point"}
+}

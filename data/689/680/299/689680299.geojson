@@ -1,0 +1,71 @@
+{
+  "id": 689680299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.667518,42.703186,-84.667518,42.703186",
+    "geom:latitude":42.703186,
+    "geom:longitude":-84.667518,
+    "iso:country":"US",
+    "sg:address":"2960 Ena Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 322 2147",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63nr9fyoaL1GRLu8UGR3OG_42.703186_-84.667518@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778625,
+    "wof:geomhash":"97d1af5aef033ec7057e2fe94e1c45e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689680299
+        }
+    ],
+    "wof:id":689680299,
+    "wof:lastmodified":1461778625,
+    "wof:name":"Lansing State Journal",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -84.667518,
+    42.703186,
+    -84.667518,
+    42.703186
+],
+  "geometry": {"coordinates":[-84.667518,42.703186],"type":"Point"}
+}

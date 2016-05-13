@@ -1,0 +1,75 @@
+{
+  "id": 722474989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.429042,42.279365,-83.429042,42.279365",
+    "geom:latitude":42.279365,
+    "geom:longitude":-83.429042,
+    "iso:country":"US",
+    "sg:address":"39600 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 729 5200",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.rentawreck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896853,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a5YogULcdzpAxDGGsowLK_42.279365_-83.429042@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812078,
+    "wof:geomhash":"f728114912ff4ae686015d1ae561c38f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896853,
+            "region_id":85688599,
+            "venue_id":722474989
+        }
+    ],
+    "wof:id":722474989,
+    "wof:lastmodified":1461812078,
+    "wof:name":"Rent A Wreck",
+    "wof:parent_id":85896853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.429042,
+    42.279365,
+    -83.429042,
+    42.279365
+],
+  "geometry": {"coordinates":[-83.429042,42.279365],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 689662839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.423155,42.9783,-82.423155,42.9783",
+    "geom:latitude":42.9783,
+    "geom:longitude":-82.423155,
+    "iso:country":"US",
+    "sg:address":"330 Michigan St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 2141",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "underwriter",
+        "company",
+        "title"
+    ],
+    "sg:website":"www.hurontitle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896759,
+        102191575,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599,
+        85784851,
+        85633041,
+        101740719,
+        85682057,
+        101736019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rkToZP9jMYSFuEiOHqk5K_42.978300_-82.423155@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778201,
+    "wof:geomhash":"1d7b335a978e814bd90745a680cdc5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":85896759,
+            "region_id":85688599,
+            "venue_id":689662839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689662839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689662839
+        }
+    ],
+    "wof:id":689662839,
+    "wof:lastmodified":1461778201,
+    "wof:name":"Huron Title Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwriter",
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -82.423155,
+    42.9783,
+    -82.423155,
+    42.9783
+],
+  "geometry": {"coordinates":[-82.42315499999999,42.9783],"type":"Point"}
+}

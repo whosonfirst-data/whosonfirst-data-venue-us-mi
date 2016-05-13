@@ -1,0 +1,70 @@
+{
+  "id": 706662525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.152702,42.3111,-83.152702,42.3111",
+    "geom:latitude":42.3111,
+    "geom:longitude":-83.152702,
+    "iso:country":"US",
+    "sg:address":"3313 Wyoming St",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 843 7806",
+    "sg:postcode":"48120",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896613,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dWzIVRCX0EYniU2C6Acet_42.311672_-83.153104@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808545,
+    "wof:geomhash":"156a61fdee56c032f195169e70cb406f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896613,
+            "region_id":85688599,
+            "venue_id":706662525
+        }
+    ],
+    "wof:id":706662525,
+    "wof:lastmodified":1461808545,
+    "wof:name":"South End Auto Service",
+    "wof:parent_id":85896613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.152702,
+    42.3111,
+    -83.152702,
+    42.3111
+],
+  "geometry": {"coordinates":[-83.15270200000001,42.3111],"type":"Point"}
+}

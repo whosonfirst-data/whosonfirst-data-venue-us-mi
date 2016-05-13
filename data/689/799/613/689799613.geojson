@@ -1,0 +1,69 @@
+{
+  "id": 689799613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.586463,42.317942,-85.586463,42.317942",
+    "geom:latitude":42.317942,
+    "geom:longitude":-85.586463,
+    "iso:country":"US",
+    "sg:address":"413 W Mosel Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 344 5663",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878463,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I5pLKpkVy1Wj7dtE99KVc_42.317942_-85.586463@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781856,
+    "wof:geomhash":"cd50ad1e3a8fdbc553133e48dcce1808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878463,
+            "region_id":85688599,
+            "venue_id":689799613
+        }
+    ],
+    "wof:id":689799613,
+    "wof:lastmodified":1461781856,
+    "wof:name":"Animal Clinic",
+    "wof:parent_id":85878463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.586463,
+    42.317942,
+    -85.586463,
+    42.317942
+],
+  "geometry": {"coordinates":[-85.58646299999999,42.317942],"type":"Point"}
+}

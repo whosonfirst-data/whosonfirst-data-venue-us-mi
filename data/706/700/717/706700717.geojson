@@ -1,0 +1,71 @@
+{
+  "id": 706700717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.960256,42.704145,-82.960256,42.704145",
+    "geom:latitude":42.704145,
+    "geom:longitude":-82.960256,
+    "iso:country":"US",
+    "sg:address":"16380 Ausable Blvd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 781 2585",
+    "sg:postcode":"48042",
+    "sg:province":"MI",
+    "sg:tags":[
+        "house",
+        "steak"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85843103,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ko3qXdQQtQejSAsP4cmez_42.704145_-82.960256@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810111,
+    "wof:geomhash":"0517e54f8988a950843d882486ea103e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85843103,
+            "region_id":85688599,
+            "venue_id":706700717
+        }
+    ],
+    "wof:id":706700717,
+    "wof:lastmodified":1461810111,
+    "wof:name":"Stea",
+    "wof:parent_id":85843103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak"
+    ]
+},
+  "bbox": [
+    -82.960256,
+    42.704145,
+    -82.960256,
+    42.704145
+],
+  "geometry": {"coordinates":[-82.960256,42.704145],"type":"Point"}
+}

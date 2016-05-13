@@ -1,0 +1,71 @@
+{
+  "id": 705833023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662436,42.767113,-85.662436,42.767113",
+    "geom:latitude":42.767113,
+    "geom:longitude":-85.662436,
+    "iso:country":"US",
+    "sg:address":"1143 Electric Ave",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 877 0540",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74fGbjExMKIeEKurymdfvt_42.767113_-85.662436@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789804,
+    "wof:geomhash":"0fd551e8cb78e4700a0e88d32475d569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":705833023
+        }
+    ],
+    "wof:id":705833023,
+    "wof:lastmodified":1461789804,
+    "wof:name":"Direct Tooling Group",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -85.662436,
+    42.767113,
+    -85.662436,
+    42.767113
+],
+  "geometry": {"coordinates":[-85.662436,42.767113],"type":"Point"}
+}

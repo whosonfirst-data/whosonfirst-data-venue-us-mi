@@ -1,0 +1,73 @@
+{
+  "id": 689906517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.412674,42.649123,-83.412674,42.649123",
+    "geom:latitude":42.649123,
+    "geom:longitude":-83.412674,
+    "iso:country":"US",
+    "sg:address":"332 Lake Forest Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 886 8656",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820385,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DdlovsSYeAqDCuKAe9QWZ_42.649123_-83.412674@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784753,
+    "wof:geomhash":"497347aa525ba6f7a4764f876ef0a9ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85820385,
+            "region_id":85688599,
+            "venue_id":689906517
+        }
+    ],
+    "wof:id":689906517,
+    "wof:lastmodified":1461784753,
+    "wof:name":"R & K Trucking",
+    "wof:parent_id":85820385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.412674,
+    42.649123,
+    -83.412674,
+    42.649123
+],
+  "geometry": {"coordinates":[-83.412674,42.649123],"type":"Point"}
+}

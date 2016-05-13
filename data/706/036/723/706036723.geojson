@@ -1,0 +1,73 @@
+{
+  "id": 706036723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.727984,43.007837,-83.727984,43.007837",
+    "geom:latitude":43.007837,
+    "geom:longitude":-83.727984,
+    "iso:country":"US",
+    "sg:address":"3169 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 2900",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bqr2OTvonxUrbS91pcLxQ_43.007837_-83.727984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794341,
+    "wof:geomhash":"d7259fa946a1408a0abe60cfe53447d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706036723
+        }
+    ],
+    "wof:id":706036723,
+    "wof:lastmodified":1461794341,
+    "wof:name":"Premier Plastic Surgery",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.727984,
+    43.007837,
+    -83.727984,
+    43.007837
+],
+  "geometry": {"coordinates":[-83.72798400000001,43.007837],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689535103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.886858,43.088977,-83.886858,43.088977",
+    "geom:latitude":43.088977,
+    "geom:longitude":-83.886858,
+    "iso:country":"US",
+    "sg:address":"10386 Coldwater Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 638 7287",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MFOf0evTLcS77c9DTT1je_43.088977_-83.886858@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774229,
+    "wof:geomhash":"35cadaad1daac15c7f115c4bec7269df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":689535103
+        }
+    ],
+    "wof:id":689535103,
+    "wof:lastmodified":1461774229,
+    "wof:name":"Williams Automotive",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.886858,
+    43.088977,
+    -83.886858,
+    43.088977
+],
+  "geometry": {"coordinates":[-83.886858,43.088977],"type":"Point"}
+}

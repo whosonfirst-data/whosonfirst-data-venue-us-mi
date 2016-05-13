@@ -1,0 +1,75 @@
+{
+  "id": 722529483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.85307,42.887674,-85.85307,42.887674",
+    "geom:latitude":42.887674,
+    "geom:longitude":-85.85307,
+    "iso:country":"US",
+    "sg:address":"2856 Port Sheldon St",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 3612",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SpEIfVY0v2HqUpaC2DP0w_42.887674_-85.853070@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814388,
+    "wof:geomhash":"c30c0a98c39f55631b3ef1c15c3dc173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":722529483
+        }
+    ],
+    "wof:id":722529483,
+    "wof:lastmodified":1461814388,
+    "wof:name":"Georgetown Animal Hospital",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.85307,
+    42.887674,
+    -85.85307,
+    42.887674
+],
+  "geometry": {"coordinates":[-85.85307,42.887674],"type":"Point"}
+}

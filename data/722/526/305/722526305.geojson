@@ -1,0 +1,81 @@
+{
+  "id": 722526305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.530893,42.227439,-85.530893,42.227439",
+    "geom:latitude":42.227439,
+    "geom:longitude":-85.530893,
+    "iso:country":"US",
+    "sg:address":"6180 Corporate Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 463 3339",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "duplicating",
+        "shipping",
+        "copying"
+    ],
+    "sg:website":"http://www.fedex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67F1qRFj7USwwl0cv5YfaE_42.227439_-85.530893@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814262,
+    "wof:geomhash":"2c2fda116b0c1c92defd51928ce65502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722526305
+        }
+    ],
+    "wof:id":722526305,
+    "wof:lastmodified":1461814262,
+    "wof:name":"FedEx Express Ship Center",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "shipping",
+        "copying"
+    ]
+},
+  "bbox": [
+    -85.530893,
+    42.227439,
+    -85.530893,
+    42.227439
+],
+  "geometry": {"coordinates":[-85.53089300000001,42.227439],"type":"Point"}
+}

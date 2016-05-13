@@ -1,0 +1,89 @@
+{
+  "id": 689584297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671255,42.954193,-85.671255,42.954193",
+    "geom:latitude":42.954193,
+    "geom:longitude":-85.671255,
+    "iso:country":"US",
+    "sg:address":"100 Logan St SW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 451 2719",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "insulation",
+        "consulting",
+        "management",
+        "heat",
+        "se"
+    ],
+    "sg:website":"www.acmeinsulations.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877875,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZLxc6Upcbnni0HUhZV9vN_42.954193_-85.671255@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775746,
+    "wof:geomhash":"37c07183b4225a1eb19191cfbe892e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877875,
+            "region_id":85688599,
+            "venue_id":689584297
+        }
+    ],
+    "wof:id":689584297,
+    "wof:lastmodified":1461775746,
+    "wof:name":"Acme Insulations Inc",
+    "wof:parent_id":85877875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "consulting",
+        "management",
+        "heat",
+        "se"
+    ]
+},
+  "bbox": [
+    -85.671255,
+    42.954193,
+    -85.671255,
+    42.954193
+],
+  "geometry": {"coordinates":[-85.671255,42.954193],"type":"Point"}
+}

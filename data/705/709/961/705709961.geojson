@@ -1,0 +1,71 @@
+{
+  "id": 705709961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.352726,43.41386,-86.352726,43.41386",
+    "geom:latitude":43.41386,
+    "geom:longitude":-86.352726,
+    "iso:country":"US",
+    "sg:address":"4500 Dowling St",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 0020",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6avQGSqooA7haRZsbty3E1_43.413860_-86.352726@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786889,
+    "wof:geomhash":"86fac8f8775828ab6784342d6d7b3b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":705709961
+        }
+    ],
+    "wof:id":705709961,
+    "wof:lastmodified":1461786889,
+    "wof:name":"Barber Shop",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.352726,
+    43.41386,
+    -86.352726,
+    43.41386
+],
+  "geometry": {"coordinates":[-86.352726,43.41386],"type":"Point"}
+}

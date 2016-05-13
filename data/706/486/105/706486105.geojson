@@ -1,0 +1,75 @@
+{
+  "id": 706486105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.408301,42.925338,-85.408301,42.925338",
+    "geom:latitude":42.925338,
+    "geom:longitude":-85.408301,
+    "iso:country":"US",
+    "sg:address":"10311 Fulton St E",
+    "sg:city":"Ada",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 7874",
+    "sg:postcode":"49301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00N4SqMhwcQzj2i8bwW3qY_42.925338_-85.408301@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804231,
+    "wof:geomhash":"37eef4f72ce04bf0c7f589db90cad43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706486105
+        }
+    ],
+    "wof:id":706486105,
+    "wof:lastmodified":1461804231,
+    "wof:name":"William Serne & Sons",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.408301,
+    42.925338,
+    -85.408301,
+    42.925338
+],
+  "geometry": {"coordinates":[-85.40830099999999,42.925338],"type":"Point"}
+}

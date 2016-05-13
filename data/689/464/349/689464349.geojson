@@ -1,0 +1,71 @@
+{
+  "id": 689464349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.780448,43.038561,-83.780448,43.038561",
+    "geom:latitude":43.038561,
+    "geom:longitude":-83.780448,
+    "iso:country":"US",
+    "sg:address":"5145 Flushing Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 7310",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40qqGYSRIOLvO3qTz4QoIZ_43.038561_-83.780448@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772028,
+    "wof:geomhash":"d37677924dac5be9da7a6be9eda0281a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689464349
+        }
+    ],
+    "wof:id":689464349,
+    "wof:lastmodified":1461772028,
+    "wof:name":"Larry C Black DDS",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.780448,
+    43.038561,
+    -83.780448,
+    43.038561
+],
+  "geometry": {"coordinates":[-83.78044800000001,43.038561],"type":"Point"}
+}

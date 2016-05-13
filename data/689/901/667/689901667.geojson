@@ -1,0 +1,71 @@
+{
+  "id": 689901667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.893305,42.59814,-82.893305,42.59814",
+    "geom:latitude":42.59814,
+    "geom:longitude":-82.893305,
+    "iso:country":"US",
+    "sg:address":"335 Cass Ave",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 9898",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zeNsF1II14c23PryvfE6z_42.598140_-82.893305@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784614,
+    "wof:geomhash":"c4fb442f232a6e50f0898bbf4a88d8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":689901667
+        }
+    ],
+    "wof:id":689901667,
+    "wof:lastmodified":1461784614,
+    "wof:name":"Clinton Cab",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -82.893305,
+    42.59814,
+    -82.893305,
+    42.59814
+],
+  "geometry": {"coordinates":[-82.893305,42.59814],"type":"Point"}
+}

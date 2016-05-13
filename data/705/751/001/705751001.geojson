@@ -1,0 +1,69 @@
+{
+  "id": 705751001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.421416,42.388847,-83.421416,42.388847",
+    "geom:latitude":42.388847,
+    "geom:longitude":-83.421416,
+    "iso:country":"US",
+    "sg:address":"14290 Houghton St",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 464 7181",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yeyc3oDdy6tHYqofVOZQy_42.388847_-83.421416@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787866,
+    "wof:geomhash":"fb5a3ff0956e51a7c9dc91d518fbe8f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":705751001
+        }
+    ],
+    "wof:id":705751001,
+    "wof:lastmodified":1461787866,
+    "wof:name":"A & R Appliance Service",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.421416,
+    42.388847,
+    -83.421416,
+    42.388847
+],
+  "geometry": {"coordinates":[-83.42141599999999,42.388847],"type":"Point"}
+}

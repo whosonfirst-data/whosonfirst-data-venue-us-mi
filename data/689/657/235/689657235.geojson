@@ -1,0 +1,75 @@
+{
+  "id": 689657235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.49801,42.8688,-82.49801,42.8688",
+    "geom:latitude":42.8688,
+    "geom:longitude":-82.49801,
+    "iso:country":"US",
+    "sg:address":"1139 S Range Rd",
+    "sg:city":"St Clair",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 326 4520",
+    "sg:postcode":"48079",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ozNueqQn4k2i53h1KkUUN_42.868800_-82.498010@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778053,
+    "wof:geomhash":"1dc10ef79eec0ba726a06f647dc83170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":689657235
+        }
+    ],
+    "wof:id":689657235,
+    "wof:lastmodified":1461778053,
+    "wof:name":"St Clair Collision Ctr Inc",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.49801,
+    42.8688,
+    -82.49801,
+    42.8688
+],
+  "geometry": {"coordinates":[-82.49800999999999,42.8688],"type":"Point"}
+}

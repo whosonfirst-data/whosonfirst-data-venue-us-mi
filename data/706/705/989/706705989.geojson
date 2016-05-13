@@ -1,0 +1,80 @@
+{
+  "id": 706705989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.113774,42.492935,-83.113774,42.492935",
+    "geom:latitude":42.492935,
+    "geom:longitude":-83.113774,
+    "iso:country":"US",
+    "sg:address":"27321 Hampden St",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 336 9540",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524615,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MFqUMO1wqNARcgooLEsB0_42.492935_-83.113774@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810328,
+    "wof:geomhash":"3fc5a517b8aabdb59f851cb736f698b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706705989
+        }
+    ],
+    "wof:id":706705989,
+    "wof:lastmodified":1461810328,
+    "wof:name":"Madison Heights Head Start",
+    "wof:parent_id":420524615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.113774,
+    42.492935,
+    -83.113774,
+    42.492935
+],
+  "geometry": {"coordinates":[-83.11377400000001,42.492935],"type":"Point"}
+}

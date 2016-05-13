@@ -1,0 +1,66 @@
+{
+  "id": 722469625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.192001,42.141201,-83.192001,42.141201",
+    "geom:latitude":42.141201,
+    "geom:longitude":-83.192001,
+    "iso:country":"US",
+    "sg:address":"1953 West Rd",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 675 3333",
+    "sg:postcode":"48183",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85896835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_355xJvBKzbQstzrGqUeHe9_42.141201_-83.192001@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811848,
+    "wof:geomhash":"1fe5ce92c650bb57f02f959a3e988872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85896835,
+            "region_id":85688599,
+            "venue_id":722469625
+        }
+    ],
+    "wof:id":722469625,
+    "wof:lastmodified":1461811848,
+    "wof:name":"Jack's Garage",
+    "wof:parent_id":85896835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.192001,
+    42.141201,
+    -83.192001,
+    42.141201
+],
+  "geometry": {"coordinates":[-83.192001,42.141201],"type":"Point"}
+}

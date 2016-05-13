@@ -1,0 +1,75 @@
+{
+  "id": 689907935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.918844,45.792936,-87.918844,45.792936",
+    "geom:latitude":45.792936,
+    "geom:longitude":-87.918844,
+    "iso:country":"US",
+    "sg:address":"206 Belgium Town Rd",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 5621",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gx7xsuOGip5cbJgelnDUm_45.792936_-87.918844@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784785,
+    "wof:geomhash":"94237aac72d2728fc7ae3098e9780905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689907935
+        }
+    ],
+    "wof:id":689907935,
+    "wof:lastmodified":1461784785,
+    "wof:name":"Joe's Towing",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.918844,
+    45.792936,
+    -87.918844,
+    45.792936
+],
+  "geometry": {"coordinates":[-87.91884400000001,45.792936],"type":"Point"}
+}

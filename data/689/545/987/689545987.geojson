@@ -1,0 +1,73 @@
+{
+  "id": 689545987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.919478,43.407063,-85.919478,43.407063",
+    "geom:latitude":43.407063,
+    "geom:longitude":-85.919478,
+    "iso:country":"US",
+    "sg:address":"8112 S Luce Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 6941",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20UtKB6FZQZmg622qB9CZS_43.407063_-85.919478@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774562,
+    "wof:geomhash":"420a610f9abd0ddf6ad7fae68c96e8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689545987
+        }
+    ],
+    "wof:id":689545987,
+    "wof:lastmodified":1461774562,
+    "wof:name":"Larry Brown Auto Repair",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.919478,
+    43.407063,
+    -85.919478,
+    43.407063
+],
+  "geometry": {"coordinates":[-85.919478,43.407063],"type":"Point"}
+}

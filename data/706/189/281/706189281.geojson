@@ -1,0 +1,71 @@
+{
+  "id": 706189281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.858412,43.062911,-83.858412,43.062911",
+    "geom:latitude":43.062911,
+    "geom:longitude":-83.858412,
+    "iso:country":"US",
+    "sg:address":"323 W Main St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 7800",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tqyvddOL0bUhsnmJKUOJB_43.062911_-83.858412@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797845,
+    "wof:geomhash":"b0078f9744b32afc1c12bca80258c50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":706189281
+        }
+    ],
+    "wof:id":706189281,
+    "wof:lastmodified":1461797845,
+    "wof:name":"Flushing Family Dental Care",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.858412,
+    43.062911,
+    -83.858412,
+    43.062911
+],
+  "geometry": {"coordinates":[-83.858412,43.062911],"type":"Point"}
+}

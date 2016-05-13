@@ -1,0 +1,71 @@
+{
+  "id": 706530235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.043827,45.845356,-88.043827,45.845356",
+    "geom:latitude":45.845356,
+    "geom:longitude":-88.043827,
+    "iso:country":"US",
+    "sg:address":"627 N Industrial Dr",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 4662",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hsPl4nf3a3pOKNdx8t0NM_45.845356_-88.043827@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805239,
+    "wof:geomhash":"a003e769ffcdcbc83dca4079f05a3679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706530235
+        }
+    ],
+    "wof:id":706530235,
+    "wof:lastmodified":1461805239,
+    "wof:name":"CWA Transport Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.043827,
+    45.845356,
+    -88.043827,
+    45.845356
+],
+  "geometry": {"coordinates":[-88.04382699999999,45.845356],"type":"Point"}
+}

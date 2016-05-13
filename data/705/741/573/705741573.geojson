@@ -1,0 +1,73 @@
+{
+  "id": 705741573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.119184,42.804943,-86.119184,42.804943",
+    "geom:latitude":42.804943,
+    "geom:longitude":-86.119184,
+    "iso:country":"US",
+    "sg:address":"249 W Lakewood Blvd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 9898",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A3Wzx7wnDZgtRgfcitAuO_42.804943_-86.119184@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787680,
+    "wof:geomhash":"8f8796d5bc86f9edb1b04faee18029d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705741573
+        }
+    ],
+    "wof:id":705741573,
+    "wof:lastmodified":1461787680,
+    "wof:name":"Lakewood Self Storage Ctr",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.119184,
+    42.804943,
+    -86.119184,
+    42.804943
+],
+  "geometry": {"coordinates":[-86.119184,42.804943],"type":"Point"}
+}

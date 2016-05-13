@@ -1,0 +1,73 @@
+{
+  "id": 705891615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.160248,43.074084,-86.160248,43.074084",
+    "geom:latitude":43.074084,
+    "geom:longitude":-86.160248,
+    "iso:country":"US",
+    "sg:address":"15025 Cleveland St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 296 9230",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KkTj8YDpddYwX4RVsf7Vw_43.074084_-86.160248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791219,
+    "wof:geomhash":"e13491d812fde9db5e4cdaddef1de1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705891615
+        }
+    ],
+    "wof:id":705891615,
+    "wof:lastmodified":1461791219,
+    "wof:name":"C S Automotive",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.160248,
+    43.074084,
+    -86.160248,
+    43.074084
+],
+  "geometry": {"coordinates":[-86.160248,43.074084],"type":"Point"}
+}

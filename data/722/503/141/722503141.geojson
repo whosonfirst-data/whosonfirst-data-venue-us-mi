@@ -1,0 +1,71 @@
+{
+  "id": 722503141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302002,42.433998,-83.302002,42.433998",
+    "geom:latitude":42.433998,
+    "geom:longitude":-83.302002,
+    "iso:country":"US",
+    "sg:address":"26213 Grand River Ave",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 592 8008",
+    "sg:postcode":"48240",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AGvKOBw0nQblUOWKDVdNb_42.433998_-83.302002@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813193,
+    "wof:geomhash":"1af655dd550df22d1c59560f0dd7d088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":722503141
+        }
+    ],
+    "wof:id":722503141,
+    "wof:lastmodified":1461813193,
+    "wof:name":"Tina's Silver Shears Dog Grooming",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.302002,
+    42.433998,
+    -83.302002,
+    42.433998
+],
+  "geometry": {"coordinates":[-83.302002,42.433998],"type":"Point"}
+}

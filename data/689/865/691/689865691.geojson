@@ -1,0 +1,79 @@
+{
+  "id": 689865691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029932,42.433927,-83.029932,42.433927",
+    "geom:latitude":42.433927,
+    "geom:longitude":-83.029932,
+    "iso:country":"US",
+    "sg:address":"7140 E 7 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 852 4285",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870543,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E70ux3WPaiIeO6QcTtVDR_42.433927_-83.029932@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783670,
+    "wof:geomhash":"78507e324e60a8fe5ed8637d6b9b4d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870543,
+            "region_id":85688599,
+            "venue_id":689865691
+        }
+    ],
+    "wof:id":689865691,
+    "wof:lastmodified":1461783670,
+    "wof:name":"Public Library",
+    "wof:parent_id":85870543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -83.029932,
+    42.433927,
+    -83.029932,
+    42.433927
+],
+  "geometry": {"coordinates":[-83.029932,42.433927],"type":"Point"}
+}

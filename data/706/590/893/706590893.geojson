@@ -1,0 +1,80 @@
+{
+  "id": 706590893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.887038,43.17632,-83.887038,43.17632",
+    "geom:latitude":43.17632,
+    "geom:longitude":-83.887038,
+    "iso:country":"US",
+    "sg:address":"287 E State St",
+    "sg:city":"Montrose",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 639 3696",
+    "sg:postcode":"48457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TIhSxmN3yuz241VJSZSLq_43.176320_-83.887038@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806536,
+    "wof:geomhash":"cdf1da273836cd9d1216e3c4a88ac833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":706590893
+        }
+    ],
+    "wof:id":706590893,
+    "wof:lastmodified":1461806536,
+    "wof:name":"Hometown Video",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -83.887038,
+    43.17632,
+    -83.887038,
+    43.17632
+],
+  "geometry": {"coordinates":[-83.887038,43.17632],"type":"Point"}
+}

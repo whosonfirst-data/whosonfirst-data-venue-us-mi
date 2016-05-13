@@ -1,0 +1,75 @@
+{
+  "id": 706414591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.192605,42.355855,-83.192605,42.355855",
+    "geom:latitude":42.355855,
+    "geom:longitude":-83.192605,
+    "iso:country":"US",
+    "sg:address":"15000 Mackenzie St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 945 0702",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870497,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74sxIZ43L7gqLx4GOYLN3B_42.355855_-83.192605@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802690,
+    "wof:geomhash":"4cf610543570115bafa8ca05d980ea3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870497,
+            "region_id":85688599,
+            "venue_id":706414591
+        }
+    ],
+    "wof:id":706414591,
+    "wof:lastmodified":1461802690,
+    "wof:name":"Parkman Elementary School",
+    "wof:parent_id":85870497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.192605,
+    42.355855,
+    -83.192605,
+    42.355855
+],
+  "geometry": {"coordinates":[-83.192605,42.355855],"type":"Point"}
+}

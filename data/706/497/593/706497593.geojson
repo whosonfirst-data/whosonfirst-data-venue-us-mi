@@ -1,0 +1,73 @@
+{
+  "id": 706497593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43371,42.602528,-83.43371,42.602528",
+    "geom:latitude":42.602528,
+    "geom:longitude":-83.43371,
+    "iso:country":"US",
+    "sg:address":"2230 Keith Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 4051",
+    "sg:postcode":"48324",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "engine",
+        "build"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fwhAwEr56NoUEi2neSXvo_42.602528_-83.433710@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804606,
+    "wof:geomhash":"27d5c0ab244c5cd3faf7a72685934913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":706497593
+        }
+    ],
+    "wof:id":706497593,
+    "wof:lastmodified":1461804606,
+    "wof:name":"Engines Unlimited",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "engine",
+        "build"
+    ]
+},
+  "bbox": [
+    -83.43371,
+    42.602528,
+    -83.43371,
+    42.602528
+],
+  "geometry": {"coordinates":[-83.43371,42.602528],"type":"Point"}
+}

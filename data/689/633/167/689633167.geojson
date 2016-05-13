@@ -1,0 +1,73 @@
+{
+  "id": 689633167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261046,43.187168,-86.261046,43.187168",
+    "geom:latitude":43.187168,
+    "geom:longitude":-86.261046,
+    "iso:country":"US",
+    "sg:address":"640 Seminole Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 2727",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tank",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RKtX1BoahAwRh3RfWE43x_43.187168_-86.261046@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777235,
+    "wof:geomhash":"dcc1e1ecc010095ecb39b1daccbd95f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689633167
+        }
+    ],
+    "wof:id":689633167,
+    "wof:lastmodified":1461777235,
+    "wof:name":"General Dynamics Land Systems",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -86.261046,
+    43.187168,
+    -86.261046,
+    43.187168
+],
+  "geometry": {"coordinates":[-86.26104599999999,43.187168],"type":"Point"}
+}

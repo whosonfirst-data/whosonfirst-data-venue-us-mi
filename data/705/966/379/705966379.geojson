@@ -1,0 +1,75 @@
+{
+  "id": 705966379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.169635,43.234309,-86.169635,43.234309",
+    "geom:latitude":43.234309,
+    "geom:longitude":-86.169635,
+    "iso:country":"US",
+    "sg:address":"2930 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 1156",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RQgAUr9Lnm4onn6gjGb7j_43.234309_-86.169635@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792892,
+    "wof:geomhash":"773263fee02d78dc9a351216aded600a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705966379
+        }
+    ],
+    "wof:id":705966379,
+    "wof:lastmodified":1461792892,
+    "wof:name":"Precision Collision Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.169635,
+    43.234309,
+    -86.169635,
+    43.234309
+],
+  "geometry": {"coordinates":[-86.169635,43.234309],"type":"Point"}
+}

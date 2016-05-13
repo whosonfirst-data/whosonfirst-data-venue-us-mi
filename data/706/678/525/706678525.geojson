@@ -1,0 +1,72 @@
+{
+  "id": 706678525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.61463,42.248551,-83.61463,42.248551",
+    "geom:latitude":42.248551,
+    "geom:longitude":-83.61463,
+    "iso:country":"US",
+    "sg:address":"530 N Huron St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/276176-college-inn-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 390 5222",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QKeNa3lgIWJIKLZNt92Hm_42.248551_-83.614630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809228,
+    "wof:geomhash":"316106e4ba0d84bd8ccfab0cca604441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678525
+        }
+    ],
+    "wof:id":706678525,
+    "wof:lastmodified":1461809228,
+    "wof:name":"College Inn Pizzeria",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.61463,
+    42.248551,
+    -83.61463,
+    42.248551
+],
+  "geometry": {"coordinates":[-83.61463000000001,42.248551],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706671597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.968903,42.6054,-82.968903,42.6054",
+    "geom:latitude":42.6054,
+    "geom:longitude":-82.968903,
+    "iso:country":"US",
+    "sg:address":"42480 Green Valley Dr",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 286 4460",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A7l8suOmQvuy2CTyHouuB_42.605888_-82.968920@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808932,
+    "wof:geomhash":"fa1ef19c7a61240906645c2bc940fcb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706671597
+        }
+    ],
+    "wof:id":706671597,
+    "wof:lastmodified":1461808932,
+    "wof:name":"Green Valley Apartments",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.968903,
+    42.6054,
+    -82.968903,
+    42.6054
+],
+  "geometry": {"coordinates":[-82.968903,42.6054],"type":"Point"}
+}

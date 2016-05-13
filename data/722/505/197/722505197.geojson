@@ -1,0 +1,86 @@
+{
+  "id": 722505197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3088,42.613899,-83.3088,42.613899",
+    "geom:latitude":42.613899,
+    "geom:longitude":-83.3088,
+    "iso:country":"US",
+    "sg:address":"1819 S Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 333 3200",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"hondabloomfield.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896751,
+        102191575,
+        404508295,
+        85633793,
+        85952003,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fgd31LsddPmDyXMfoMrD6_42.613899_-83.308800@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813271,
+    "wof:geomhash":"9a7812cb66aa4db80ecb778f1f53189b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508295,
+            "locality_id":85952003,
+            "neighbourhood_id":85896751,
+            "region_id":85688599,
+            "venue_id":722505197
+        }
+    ],
+    "wof:id":722505197,
+    "wof:lastmodified":1461813271,
+    "wof:name":"Honda Bloomfield",
+    "wof:parent_id":85896751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.3088,
+    42.613899,
+    -83.3088,
+    42.613899
+],
+  "geometry": {"coordinates":[-83.30880000000001,42.613899],"type":"Point"}
+}

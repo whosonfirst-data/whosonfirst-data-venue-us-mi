@@ -1,0 +1,70 @@
+{
+  "id": 722486447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.964699,42.3932,-82.964699,42.3932",
+    "geom:latitude":42.3932,
+    "geom:longitude":-82.964699,
+    "iso:country":"US",
+    "sg:address":"13200 E Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 823 6000",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85891667,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ne97FWU1drqu2Ua6Zft5o_42.393200_-82.964699@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812542,
+    "wof:geomhash":"1d703a2c5213e34dda1229818a33b03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":722486447
+        }
+    ],
+    "wof:id":722486447,
+    "wof:lastmodified":1461812542,
+    "wof:name":"Sal's Auto Service",
+    "wof:parent_id":85891667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.964699,
+    42.3932,
+    -82.964699,
+    42.3932
+],
+  "geometry": {"coordinates":[-82.964699,42.3932],"type":"Point"}
+}

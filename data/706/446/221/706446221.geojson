@@ -1,0 +1,71 @@
+{
+  "id": 706446221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.729199,43.009319,-83.729199,43.009319",
+    "geom:latitude":43.009319,
+    "geom:longitude":-83.729199,
+    "iso:country":"US",
+    "sg:address":"2910 Crestwood Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 9849",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41GUDdLWHqukNw0Ox7ccWa_43.009319_-83.729199@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803358,
+    "wof:geomhash":"a0b84d69d4e678437241acacabaf7f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706446221
+        }
+    ],
+    "wof:id":706446221,
+    "wof:lastmodified":1461803358,
+    "wof:name":"Saginaw Family Medicine",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.729199,
+    43.009319,
+    -83.729199,
+    43.009319
+],
+  "geometry": {"coordinates":[-83.72919899999999,43.009319],"type":"Point"}
+}

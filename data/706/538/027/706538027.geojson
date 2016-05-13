@@ -1,0 +1,73 @@
+{
+  "id": 706538027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252037,43.20792,-86.252037,43.20792",
+    "geom:latitude":43.20792,
+    "geom:longitude":-86.252037,
+    "iso:country":"US",
+    "sg:address":"2401 8th St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 7174",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k0rBU0ouzaEy1QgXFFhdG_43.207920_-86.252037@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805421,
+    "wof:geomhash":"3c6902ad461d1dae93a0436b43ea901b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706538027
+        }
+    ],
+    "wof:id":706538027,
+    "wof:lastmodified":1461805421,
+    "wof:name":"Connection Hall",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.252037,
+    43.20792,
+    -86.252037,
+    43.20792
+],
+  "geometry": {"coordinates":[-86.252037,43.20792],"type":"Point"}
+}

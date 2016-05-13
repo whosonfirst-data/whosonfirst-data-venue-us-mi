@@ -1,0 +1,75 @@
+{
+  "id": 689655697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.840297,43.352501,-85.840297,43.352501",
+    "geom:latitude":43.352501,
+    "geom:longitude":-85.840297,
+    "iso:country":"US",
+    "sg:address":"11121 Ferris Ave",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7282",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GtLQdsTYMxl3bgP2FXudu_43.352501_-85.840297@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778012,
+    "wof:geomhash":"1beca318cdbe678409862fd920e8f116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689655697
+        }
+    ],
+    "wof:id":689655697,
+    "wof:lastmodified":1461778012,
+    "wof:name":"Fettig Farm",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -85.840297,
+    43.352501,
+    -85.840297,
+    43.352501
+],
+  "geometry": {"coordinates":[-85.84029700000001,43.352501],"type":"Point"}
+}

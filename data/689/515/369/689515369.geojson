@@ -1,0 +1,74 @@
+{
+  "id": 689515369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.644604,42.665665,-84.644604,42.665665",
+    "geom:latitude":42.665665,
+    "geom:longitude":-84.644604,
+    "iso:country":"US",
+    "sg:address":"6765 Lansdown Dr",
+    "sg:city":"Dimondale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 646 6660",
+    "sg:postcode":"48821",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VBIj7WEWHjPNbQzVExrj3_42.665665_-84.644604@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773565,
+    "wof:geomhash":"9f571e4d16a4bd6be6630f729b86c0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":689515369
+        }
+    ],
+    "wof:id":689515369,
+    "wof:lastmodified":1461773565,
+    "wof:name":"Clinical Laboratory Supply",
+    "wof:parent_id":85834385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.644604,
+    42.665665,
+    -84.644604,
+    42.665665
+],
+  "geometry": {"coordinates":[-84.644604,42.665665],"type":"Point"}
+}

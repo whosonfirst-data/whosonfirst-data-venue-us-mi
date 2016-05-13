@@ -1,0 +1,72 @@
+{
+  "id": 706675751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.456151,43.031859,-82.456151,43.031859",
+    "geom:latitude":43.031859,
+    "geom:longitude":-82.456151,
+    "iso:country":"US",
+    "sg:address":"4280 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fort-gratiot/43930-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 8966",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lalaws8QcpQ5MQTE4zqnv_43.031859_-82.456151@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809106,
+    "wof:geomhash":"7b5ccd5342d60d9fcbca8287af833d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706675751
+        }
+    ],
+    "wof:id":706675751,
+    "wof:lastmodified":1461809106,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.456151,
+    43.031859,
+    -82.456151,
+    43.031859
+],
+  "geometry": {"coordinates":[-82.45615100000001,43.031859],"type":"Point"}
+}

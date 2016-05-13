@@ -1,0 +1,71 @@
+{
+  "id": 705727397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.440675,42.276463,-84.440675,42.276463",
+    "geom:latitude":42.276463,
+    "geom:longitude":-84.440675,
+    "iso:country":"US",
+    "sg:address":"2990 Meadowood Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 1891",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t4M6wjIHge9GbnxQXOHxf_42.276463_-84.440675@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787342,
+    "wof:geomhash":"34faebb19fa8e54471e777981724337e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705727397
+        }
+    ],
+    "wof:id":705727397,
+    "wof:lastmodified":1461787342,
+    "wof:name":"Meadowood Apartments",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.440675,
+    42.276463,
+    -84.440675,
+    42.276463
+],
+  "geometry": {"coordinates":[-84.440675,42.276463],"type":"Point"}
+}

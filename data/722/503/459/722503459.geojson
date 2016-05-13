@@ -1,0 +1,81 @@
+{
+  "id": 722503459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.038981,42.328823,-83.038981,42.328823",
+    "geom:latitude":42.328823,
+    "geom:longitude":-83.038981,
+    "iso:country":"US",
+    "sg:address":"400 Renaissance Ctr Ste 908",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 259 2186",
+    "sg:postcode":"48243",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85865279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qeMyLaqA9Fd1dJau1a2IY_42.328823_-83.038981@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813204,
+    "wof:geomhash":"70dc876e6489eb29c60fd4a7d43c72f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":722503459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85865279,
+            "region_id":85688599,
+            "venue_id":722503459
+        }
+    ],
+    "wof:id":722503459,
+    "wof:lastmodified":1461813204,
+    "wof:name":"Miller Parking Company LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.038981,
+    42.328823,
+    -83.038981,
+    42.328823
+],
+  "geometry": {"coordinates":[-83.03898100000001,42.328823],"type":"Point"}
+}

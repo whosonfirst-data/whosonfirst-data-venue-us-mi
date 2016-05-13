@@ -1,0 +1,73 @@
+{
+  "id": 706413827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.607774,43.489371,-85.607774,43.489371",
+    "geom:latitude":43.489371,
+    "geom:longitude":-85.607774,
+    "iso:country":"US",
+    "sg:address":"110 Murray Ave",
+    "sg:city":"Battle Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 968 5460",
+    "sg:postcode":"49037",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cltt5G3j8sjB2I7socMIc_43.489371_-85.607774@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802670,
+    "wof:geomhash":"16160145c125b6f57c2fd437f13207f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706413827
+        }
+    ],
+    "wof:id":706413827,
+    "wof:lastmodified":1461802670,
+    "wof:name":"B & L Exhaust & Repair",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.607774,
+    43.489371,
+    -85.607774,
+    43.489371
+],
+  "geometry": {"coordinates":[-85.60777400000001,43.489371],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689821937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434446,42.097474,-86.434446,42.097474",
+    "geom:latitude":42.097474,
+    "geom:longitude":-86.434446,
+    "iso:country":"US",
+    "sg:address":"1203 Pipestone Rd",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 9221",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1os3TAYx6pM9UWpeGyr8jl_42.097474_-86.434446@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782570,
+    "wof:geomhash":"7826a4d6e5328a1bb62f567eec2f2377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689821937
+        }
+    ],
+    "wof:id":689821937,
+    "wof:lastmodified":1461782570,
+    "wof:name":"Mike's Transmissions",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.434446,
+    42.097474,
+    -86.434446,
+    42.097474
+],
+  "geometry": {"coordinates":[-86.43444599999999,42.097474],"type":"Point"}
+}

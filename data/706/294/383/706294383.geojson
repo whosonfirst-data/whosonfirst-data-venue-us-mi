@@ -1,0 +1,71 @@
+{
+  "id": 706294383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436796,42.087004,-86.436796,42.087004",
+    "geom:latitude":42.087004,
+    "geom:longitude":-86.436796,
+    "iso:country":"US",
+    "sg:address":"872 E Napier Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 7800",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Acztih6tdVVLr7H50jvrx_42.087004_-86.436796@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800185,
+    "wof:geomhash":"ea99eb0836082df41ec92c2a5c3196e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706294383
+        }
+    ],
+    "wof:id":706294383,
+    "wof:lastmodified":1461800185,
+    "wof:name":"Napier Clinicare",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.436796,
+    42.087004,
+    -86.436796,
+    42.087004
+],
+  "geometry": {"coordinates":[-86.436796,42.087004],"type":"Point"}
+}

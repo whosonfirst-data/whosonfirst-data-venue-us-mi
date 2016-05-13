@@ -1,0 +1,71 @@
+{
+  "id": 689605529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.988309,45.804691,-87.988309,45.804691",
+    "geom:latitude":45.804691,
+    "geom:longitude":-87.988309,
+    "iso:country":"US",
+    "sg:address":"1022 Quinnesec St",
+    "sg:city":"Quinnesec",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7537",
+    "sg:postcode":"49876",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17E2zPvkBglew1p9HYDvbP_45.804691_-87.988309@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776428,
+    "wof:geomhash":"abc2e205b4e4ccab04c99e00a62bdba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689605529
+        }
+    ],
+    "wof:id":689605529,
+    "wof:lastmodified":1461776428,
+    "wof:name":"Forstroms Heating Service",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.988309,
+    45.804691,
+    -87.988309,
+    45.804691
+],
+  "geometry": {"coordinates":[-87.988309,45.804691],"type":"Point"}
+}

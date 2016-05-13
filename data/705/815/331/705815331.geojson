@@ -1,0 +1,71 @@
+{
+  "id": 705815331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.866749,43.066566,-83.866749,43.066566",
+    "geom:latitude":43.066566,
+    "geom:longitude":-83.866749,
+    "iso:country":"US",
+    "sg:address":"349 N Seymour Rd",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 8821",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kYznK1qInylRlUTFhLnmD_43.066566_-83.866749@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789370,
+    "wof:geomhash":"a1be56f98749a905073f13df6c533881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705815331
+        }
+    ],
+    "wof:id":705815331,
+    "wof:lastmodified":1461789370,
+    "wof:name":"Masonic Temple Flushing Lodge",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.866749,
+    43.066566,
+    -83.866749,
+    43.066566
+],
+  "geometry": {"coordinates":[-83.866749,43.066566],"type":"Point"}
+}

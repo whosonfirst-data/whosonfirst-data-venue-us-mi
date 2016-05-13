@@ -1,0 +1,86 @@
+{
+  "id": 706360179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.09754,42.637818,-83.09754,42.637818",
+    "geom:latitude":42.637818,
+    "geom:longitude":-83.09754,
+    "iso:country":"US",
+    "sg:address":"1727 E Auburn Rd",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 852 2055",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "alternator",
+        "rebuilds",
+        "starter",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896785,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_201rJQXXeOfwVmrmC3SFGR_42.637818_-83.097540@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801614,
+    "wof:geomhash":"e9f930289e9519bdb849716c3c13c6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896785,
+            "region_id":85688599,
+            "venue_id":706360179
+        }
+    ],
+    "wof:id":706360179,
+    "wof:lastmodified":1461801614,
+    "wof:name":"Madison Alternator Starter Svc",
+    "wof:parent_id":85896785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "rebuilds",
+        "starter",
+        "generator"
+    ]
+},
+  "bbox": [
+    -83.09754,
+    42.637818,
+    -83.09754,
+    42.637818
+],
+  "geometry": {"coordinates":[-83.09754,42.637818],"type":"Point"}
+}

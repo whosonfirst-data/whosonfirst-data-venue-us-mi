@@ -1,0 +1,71 @@
+{
+  "id": 705926573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.091675,42.824215,-86.091675,42.824215",
+    "geom:latitude":42.824215,
+    "geom:longitude":-86.091675,
+    "iso:country":"US",
+    "sg:address":"2863 W Shore Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 786 3000",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carrier",
+        "surety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MNJ54uW5XaKkynmxtqF2D_42.824215_-86.091675@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791984,
+    "wof:geomhash":"998bfa3cb0bd6814173ad6f87cd512b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":705926573
+        }
+    ],
+    "wof:id":705926573,
+    "wof:lastmodified":1461791984,
+    "wof:name":"Liberty Mutual",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "surety"
+    ]
+},
+  "bbox": [
+    -86.091675,
+    42.824215,
+    -86.091675,
+    42.824215
+],
+  "geometry": {"coordinates":[-86.091675,42.824215],"type":"Point"}
+}

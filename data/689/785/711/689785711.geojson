@@ -1,0 +1,73 @@
+{
+  "id": 689785711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.208113,42.803769,-83.208113,42.803769",
+    "geom:latitude":42.803769,
+    "geom:longitude":-83.208113,
+    "iso:country":"US",
+    "sg:address":"375 Markwood Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 3937",
+    "sg:postcode":"48370",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xGpGv8T0KvxgW2038d57f_42.803769_-83.208113@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781413,
+    "wof:geomhash":"3551e0a3a84e3651e992dbdd64f2db36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":689785711
+        }
+    ],
+    "wof:id":689785711,
+    "wof:lastmodified":1461781413,
+    "wof:name":"Cordell's Piano Shop",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -83.208113,
+    42.803769,
+    -83.208113,
+    42.803769
+],
+  "geometry": {"coordinates":[-83.208113,42.803769],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706333279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.142846,42.453826,-83.142846,42.453826",
+    "geom:latitude":42.453826,
+    "geom:longitude":-83.142846,
+    "iso:country":"US",
+    "sg:address":"811 Livernois St",
+    "sg:city":"Ferndale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 543 1110",
+    "sg:postcode":"48220",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896665,
+        102191575,
+        404508189,
+        85633793,
+        85951997,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ToBBpcNrInKBnWPo2qU8_42.453826_-83.142846@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801050,
+    "wof:geomhash":"7342b3f44a5c3df49cd5d3edbadb20aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508189,
+            "locality_id":85951997,
+            "neighbourhood_id":85896665,
+            "region_id":85688599,
+            "venue_id":706333279
+        }
+    ],
+    "wof:id":706333279,
+    "wof:lastmodified":1461801050,
+    "wof:name":"Acme Cleaning and Painting Co",
+    "wof:parent_id":85896665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.142846,
+    42.453826,
+    -83.142846,
+    42.453826
+],
+  "geometry": {"coordinates":[-83.14284600000001,42.453826],"type":"Point"}
+}

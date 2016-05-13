@@ -1,0 +1,71 @@
+{
+  "id": 706474573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.554268,42.300214,-85.554268,42.300214",
+    "geom:latitude":42.300214,
+    "geom:longitude":-85.554268,
+    "iso:country":"US",
+    "sg:address":"917 Fenimore Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 3223",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YrgTd1sxQYsgPDLV1Cbx0_42.300214_-85.554268@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803935,
+    "wof:geomhash":"ea2bcdbbce3d3dfcf61c404ca6178c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706474573
+        }
+    ],
+    "wof:id":706474573,
+    "wof:lastmodified":1461803935,
+    "wof:name":"East Side Laundromat",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -85.554268,
+    42.300214,
+    -85.554268,
+    42.300214
+],
+  "geometry": {"coordinates":[-85.55426799999999,42.300214],"type":"Point"}
+}

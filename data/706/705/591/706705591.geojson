@@ -1,0 +1,76 @@
+{
+  "id": 706705591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.106499,42.5177,-83.106499,42.5177",
+    "geom:latitude":42.5177,
+    "geom:longitude":-83.106499,
+    "iso:country":"US",
+    "sg:address":"30715 John R Rd",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 588 4081",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896811,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sMkSNPzc1laFeEIpCihQ3_42.517700_-83.106499@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810307,
+    "wof:geomhash":"080d17770c45f67cea98414a645db711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896811,
+            "region_id":85688599,
+            "venue_id":706705591
+        }
+    ],
+    "wof:id":706705591,
+    "wof:lastmodified":1461810307,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.106499,
+    42.5177,
+    -83.106499,
+    42.5177
+],
+  "geometry": {"coordinates":[-83.106499,42.5177],"type":"Point"}
+}

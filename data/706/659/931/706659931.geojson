@@ -1,0 +1,75 @@
+{
+  "id": 706659931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.468597,42.371399,-83.468597,42.371399",
+    "geom:latitude":42.371399,
+    "geom:longitude":-83.468597,
+    "iso:country":"US",
+    "sg:address":"212 S Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 4343",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_170uQw8feo8UwIIxggG0Wo_42.371896_-83.468212@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808424,
+    "wof:geomhash":"863a0718a44c36403edd47f419fb74d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706659931
+        }
+    ],
+    "wof:id":706659931,
+    "wof:lastmodified":1461808424,
+    "wof:name":"Gould's Cleaners",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -83.468597,
+    42.371399,
+    -83.468597,
+    42.371399
+],
+  "geometry": {"coordinates":[-83.468597,42.371399],"type":"Point"}
+}

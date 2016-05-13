@@ -1,0 +1,73 @@
+{
+  "id": 689593301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.564629,42.361886,-85.564629,42.361886",
+    "geom:latitude":42.361886,
+    "geom:longitude":-85.564629,
+    "iso:country":"US",
+    "sg:address":"2275 E E Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 382 0109",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4579D3iDSNLtFZ9Ilgv6zG_42.361886_-85.564629@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776004,
+    "wof:geomhash":"dcb23bb568fbaf703acdc078d07cd873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":689593301
+        }
+    ],
+    "wof:id":689593301,
+    "wof:lastmodified":1461776004,
+    "wof:name":"Kearns Trucking Co",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.564629,
+    42.361886,
+    -85.564629,
+    42.361886
+],
+  "geometry": {"coordinates":[-85.564629,42.361886],"type":"Point"}
+}

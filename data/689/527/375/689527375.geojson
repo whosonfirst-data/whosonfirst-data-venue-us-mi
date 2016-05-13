@@ -1,0 +1,75 @@
+{
+  "id": 689527375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.757725,43.060615,-83.757725,43.060615",
+    "geom:latitude":43.060615,
+    "geom:longitude":-83.757725,
+    "iso:country":"US",
+    "sg:address":"4101 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 1753",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ewiw9ej2Bz5Tj4SopN7lx_43.060615_-83.757725@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774004,
+    "wof:geomhash":"bdf5cf7a6216e84e9015cea70933d90f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689527375
+        }
+    ],
+    "wof:id":689527375,
+    "wof:lastmodified":1461774004,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.757725,
+    43.060615,
+    -83.757725,
+    43.060615
+],
+  "geometry": {"coordinates":[-83.75772499999999,43.060615],"type":"Point"}
+}

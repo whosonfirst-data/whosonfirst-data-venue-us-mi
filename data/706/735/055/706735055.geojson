@@ -1,0 +1,85 @@
+{
+  "id": 706735055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3815,42.410623,-83.3815,42.410623",
+    "geom:latitude":42.410623,
+    "geom:longitude":-83.3815,
+    "iso:country":"US",
+    "sg:address":"34146 Wood St",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 462 2810",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896701,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20DoFaIrMOcPZu6O84p5yR_42.410623_-83.381500@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811616,
+    "wof:geomhash":"0d183184187cd27957ab5984dd7fde04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896701,
+            "region_id":85688599,
+            "venue_id":706735055
+        }
+    ],
+    "wof:id":706735055,
+    "wof:lastmodified":1461811616,
+    "wof:name":"Alternative Canine Training",
+    "wof:parent_id":85896701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training"
+    ]
+},
+  "bbox": [
+    -83.3815,
+    42.410623,
+    -83.3815,
+    42.410623
+],
+  "geometry": {"coordinates":[-83.3815,42.410623],"type":"Point"}
+}

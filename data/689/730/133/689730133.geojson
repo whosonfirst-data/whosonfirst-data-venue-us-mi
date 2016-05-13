@@ -1,0 +1,75 @@
+{
+  "id": 689730133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244705,43.205236,-86.244705,43.205236",
+    "geom:latitude":43.205236,
+    "geom:longitude":-86.244705,
+    "iso:country":"US",
+    "sg:address":"2511 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 4239",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JGapEY2NFVcMQ1myrhWdL_43.205236_-86.244705@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779936,
+    "wof:geomhash":"2bee3214291b55032d505ff4cd9c9986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689730133
+        }
+    ],
+    "wof:id":689730133,
+    "wof:lastmodified":1461779936,
+    "wof:name":"JFB Body Shop",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.244705,
+    43.205236,
+    -86.244705,
+    43.205236
+],
+  "geometry": {"coordinates":[-86.244705,43.205236],"type":"Point"}
+}

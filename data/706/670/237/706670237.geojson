@@ -1,0 +1,79 @@
+{
+  "id": 706670237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.004493,42.348758,-83.004493,42.348758",
+    "geom:latitude":42.348758,
+    "geom:longitude":-83.004493,
+    "iso:country":"US",
+    "sg:address":"711 Helen St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 567 4655",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "household",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870555,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NVLDD98kr9puQ0G0mud9X_42.349369_-83.005066@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808870,
+    "wof:geomhash":"2f9a1a9333b2dcf7612a973ae38bd30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870555,
+            "region_id":85688599,
+            "venue_id":706670237
+        }
+    ],
+    "wof:id":706670237,
+    "wof:lastmodified":1461808870,
+    "wof:name":"Your Garage",
+    "wof:parent_id":85870555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "household",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.004493,
+    42.348758,
+    -83.004493,
+    42.348758
+],
+  "geometry": {"coordinates":[-83.004493,42.348758],"type":"Point"}
+}

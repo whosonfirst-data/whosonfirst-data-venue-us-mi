@@ -1,0 +1,71 @@
+{
+  "id": 705900611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.028759,45.860175,-88.028759,45.860175",
+    "geom:latitude":45.860175,
+    "geom:longitude":-88.028759,
+    "iso:country":"US",
+    "sg:address":"8005 Schettler Dr",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 6863",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DEI6Omq15z0BIdATPmvoS_45.860175_-88.028759@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791427,
+    "wof:geomhash":"3b237988e4a59260af211b227f7c5d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705900611
+        }
+    ],
+    "wof:id":705900611,
+    "wof:lastmodified":1461791427,
+    "wof:name":"Johns Body Shop",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -88.028759,
+    45.860175,
+    -88.028759,
+    45.860175
+],
+  "geometry": {"coordinates":[-88.02875899999999,45.860175],"type":"Point"}
+}

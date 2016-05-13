@@ -1,0 +1,71 @@
+{
+  "id": 689477093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269004,43.296361,-86.269004,43.296361",
+    "geom:latitude":43.296361,
+    "geom:longitude":-86.269004,
+    "iso:country":"US",
+    "sg:address":"1100 W River Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 0341",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BDtGjgdydMrAdcKvEuhAS_43.296361_-86.269004@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772439,
+    "wof:geomhash":"8349c5290e19db066d2591a111ee6063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689477093
+        }
+    ],
+    "wof:id":689477093,
+    "wof:lastmodified":1461772439,
+    "wof:name":"Pauls Auto Repair",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.269004,
+    43.296361,
+    -86.269004,
+    43.296361
+],
+  "geometry": {"coordinates":[-86.269004,43.296361],"type":"Point"}
+}

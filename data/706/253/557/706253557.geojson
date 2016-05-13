@@ -1,0 +1,69 @@
+{
+  "id": 706253557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.02256,42.812421,-86.02256,42.812421",
+    "geom:latitude":42.812421,
+    "geom:longitude":-86.02256,
+    "iso:country":"US",
+    "sg:address":"29 W Main Ave",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 772 9125",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PdVeexjKn15QsuzJb9VW3_42.812421_-86.022560@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799281,
+    "wof:geomhash":"0d266a19ce4e338ebd53c7727c518032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":706253557
+        }
+    ],
+    "wof:id":706253557,
+    "wof:lastmodified":1461799281,
+    "wof:name":"Zeeland Fire Dept",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.02256,
+    42.812421,
+    -86.02256,
+    42.812421
+],
+  "geometry": {"coordinates":[-86.02256,42.812421],"type":"Point"}
+}

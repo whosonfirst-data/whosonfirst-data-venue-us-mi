@@ -1,0 +1,69 @@
+{
+  "id": 706008233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.400241,42.226585,-84.400241,42.226585",
+    "geom:latitude":42.226585,
+    "geom:longitude":-84.400241,
+    "iso:country":"US",
+    "sg:address":"1906 S Milwaukee St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 3404",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0icp1euPsL4EMjcNruN5q2_42.226585_-84.400241@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793756,
+    "wof:geomhash":"d42b68441a55b66b57b7fe2f64e13a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706008233
+        }
+    ],
+    "wof:id":706008233,
+    "wof:lastmodified":1461793756,
+    "wof:name":"Engine House",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.400241,
+    42.226585,
+    -84.400241,
+    42.226585
+],
+  "geometry": {"coordinates":[-84.40024099999999,42.226585],"type":"Point"}
+}

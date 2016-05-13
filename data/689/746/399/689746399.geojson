@@ -1,0 +1,73 @@
+{
+  "id": 689746399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.061457,45.839963,-88.061457,45.839963",
+    "geom:latitude":45.839963,
+    "geom:longitude":-88.061457,
+    "iso:country":"US",
+    "sg:address":"627 Circle Dr",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 9790",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vJKWFnIsNaXJSYClpVD7E_45.839963_-88.061457@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780348,
+    "wof:geomhash":"cdac13894aa0a8bb04de5f7ebefed564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689746399
+        }
+    ],
+    "wof:id":689746399,
+    "wof:lastmodified":1461780348,
+    "wof:name":"B & B Electric Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.061457,
+    45.839963,
+    -88.061457,
+    45.839963
+],
+  "geometry": {"coordinates":[-88.061457,45.839963],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689515357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259629,43.183096,-86.259629,43.183096",
+    "geom:latitude":43.183096,
+    "geom:longitude":-86.259629,
+    "iso:country":"US",
+    "sg:address":"581 Lake Forest Ln",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 780 2166",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rx4M95NFihx4wU2jOWnn2_43.183096_-86.259629@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773565,
+    "wof:geomhash":"eada7e5d30f9b2fe49142e926c65cae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689515357
+        }
+    ],
+    "wof:id":689515357,
+    "wof:lastmodified":1461773565,
+    "wof:name":"Lake Forest Apartments",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.259629,
+    43.183096,
+    -86.259629,
+    43.183096
+],
+  "geometry": {"coordinates":[-86.259629,43.183096],"type":"Point"}
+}

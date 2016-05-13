@@ -1,0 +1,76 @@
+{
+  "id": 689931543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.446715,42.613585,-83.446715,42.613585",
+    "geom:latitude":42.613585,
+    "geom:longitude":-83.446715,
+    "iso:country":"US",
+    "sg:address":"1545 Union Lake Rd",
+    "sg:city":"Commerce Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 360 3737",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p4VWl4xqVcxI9qkcTk9LK_42.613585_-83.446715@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785406,
+    "wof:geomhash":"56b65bfd8732914dad74ea3198970239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":689931543
+        }
+    ],
+    "wof:id":689931543,
+    "wof:lastmodified":1461785406,
+    "wof:name":"American Home Physicians Pllc",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.446715,
+    42.613585,
+    -83.446715,
+    42.613585
+],
+  "geometry": {"coordinates":[-83.446715,42.613585],"type":"Point"}
+}

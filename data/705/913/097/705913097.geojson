@@ -1,0 +1,71 @@
+{
+  "id": 705913097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.066942,43.076534,-86.066942,43.076534",
+    "geom:latitude":43.076534,
+    "geom:longitude":-86.066942,
+    "iso:country":"US",
+    "sg:address":"16875 Main St",
+    "sg:city":"Nunica",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 6700",
+    "sg:postcode":"49448",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xzGd2f3AeQBOFxwzUFn24_43.076534_-86.066942@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791701,
+    "wof:geomhash":"90359d232b7cf72474d08518f83dd068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705913097
+        }
+    ],
+    "wof:id":705913097,
+    "wof:lastmodified":1461791701,
+    "wof:name":"Crockery Twp Fire Dept",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.066942,
+    43.076534,
+    -86.066942,
+    43.076534
+],
+  "geometry": {"coordinates":[-86.066942,43.076534],"type":"Point"}
+}

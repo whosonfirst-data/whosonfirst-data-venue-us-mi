@@ -1,0 +1,71 @@
+{
+  "id": 689716969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.001483,42.639538,-83.001483,42.639538",
+    "geom:latitude":42.639538,
+    "geom:longitude":-83.001483,
+    "iso:country":"US",
+    "sg:address":"46573 Gulliver Dr",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 997 3286",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47hwqf057K5I6ESS8dvNTT_42.639538_-83.001483@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779578,
+    "wof:geomhash":"95e386ccd41973637ce40c932f064e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":689716969
+        }
+    ],
+    "wof:id":689716969,
+    "wof:lastmodified":1461779578,
+    "wof:name":"Electrical Pirates",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.001483,
+    42.639538,
+    -83.001483,
+    42.639538
+],
+  "geometry": {"coordinates":[-83.00148299999999,42.639538],"type":"Point"}
+}

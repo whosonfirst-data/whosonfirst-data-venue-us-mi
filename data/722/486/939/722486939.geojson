@@ -1,0 +1,87 @@
+{
+  "id": 722486939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.045925,42.335562,-83.045925,42.335562",
+    "geom:latitude":42.335562,
+    "geom:longitude":-83.045925,
+    "iso:country":"US",
+    "sg:address":"1407 Randolph",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 963 6244",
+    "sg:postcode":"48218",
+    "sg:province":"MI",
+    "sg:tags":[
+        "traditional",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866985,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44FfbhKMoDfcrZNNqcz82i_42.335562_-83.045925@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812560,
+    "wof:geomhash":"ca77c63f0281e82cbf12dadcf0e128b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85866985,
+            "region_id":85688599,
+            "venue_id":722486939
+        }
+    ],
+    "wof:id":722486939,
+    "wof:lastmodified":1461812560,
+    "wof:name":"The Rhino",
+    "wof:parent_id":85866985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.045925,
+    42.335562,
+    -83.045925,
+    42.335562
+],
+  "geometry": {"coordinates":[-83.045925,42.335562],"type":"Point"}
+}

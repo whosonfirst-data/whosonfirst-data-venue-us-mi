@@ -1,0 +1,72 @@
+{
+  "id": 706684145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.18054,42.338501,-85.18054,42.338501",
+    "geom:latitude":42.338501,
+    "geom:longitude":-85.18054,
+    "iso:country":"US",
+    "sg:address":"575 North Ave",
+    "sg:city":"Battle Creek",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/battle-creek/196880-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 963 7828",
+    "sg:postcode":"49017",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85835213,
+        102082993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iqxk6J7TXwQPRnBvciNLM_42.338501_-85.180540@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809453,
+    "wof:geomhash":"659271478b073c8910de02bd6a2ffd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082993,
+            "neighbourhood_id":85835213,
+            "region_id":85688599,
+            "venue_id":706684145
+        }
+    ],
+    "wof:id":706684145,
+    "wof:lastmodified":1461809453,
+    "wof:name":"Burger King",
+    "wof:parent_id":85835213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.18054,
+    42.338501,
+    -85.18054,
+    42.338501
+],
+  "geometry": {"coordinates":[-85.18053999999999,42.338501],"type":"Point"}
+}

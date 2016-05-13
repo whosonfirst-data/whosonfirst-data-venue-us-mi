@@ -1,0 +1,73 @@
+{
+  "id": 706136349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.375243,42.147264,-86.375243,42.147264",
+    "geom:latitude":42.147264,
+    "geom:longitude":-86.375243,
+    "iso:country":"US",
+    "sg:address":"3542 Red Arrow Hwy",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 4010",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "engine",
+        "truck",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85852857,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p8xUaOSt2hITWT1OtVYoY_42.147264_-86.375243@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796676,
+    "wof:geomhash":"5f6114c98364c4e4c9f6fb763257e587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85852857,
+            "region_id":85688599,
+            "venue_id":706136349
+        }
+    ],
+    "wof:id":706136349,
+    "wof:lastmodified":1461796676,
+    "wof:name":"ABC Truck Repair Inc",
+    "wof:parent_id":85852857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "truck",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -86.375243,
+    42.147264,
+    -86.375243,
+    42.147264
+],
+  "geometry": {"coordinates":[-86.375243,42.147264],"type":"Point"}
+}

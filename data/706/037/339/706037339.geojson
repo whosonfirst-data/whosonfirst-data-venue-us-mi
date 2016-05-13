@@ -1,0 +1,73 @@
+{
+  "id": 706037339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58432,47.141372,-88.58432,47.141372",
+    "geom:latitude":47.141372,
+    "geom:longitude":-88.58432,
+    "iso:country":"US",
+    "sg:address":"504 Campus Dr",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 9551",
+    "sg:postcode":"49930",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MWLSWdi3eng7JFRcjD3zw_47.141372_-88.584320@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794352,
+    "wof:geomhash":"5e805c9f4bb31b78d05097f84c3895a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":706037339
+        }
+    ],
+    "wof:id":706037339,
+    "wof:lastmodified":1461794352,
+    "wof:name":"Marquette Medical Clinic",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.58432,
+    47.141372,
+    -88.58432,
+    47.141372
+],
+  "geometry": {"coordinates":[-88.58432000000001,47.141372],"type":"Point"}
+}

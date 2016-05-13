@@ -1,0 +1,71 @@
+{
+  "id": 706135735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.055319,45.816319,-88.055319,45.816319",
+    "geom:latitude":45.816319,
+    "geom:longitude":-88.055319,
+    "iso:country":"US",
+    "sg:address":"816 Van Buren St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 7371",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BCRwvT4HdaqcLqxqOdAJU_45.816319_-88.055319@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796657,
+    "wof:geomhash":"b3713993c701363ab2c28f1b990beed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706135735
+        }
+    ],
+    "wof:id":706135735,
+    "wof:lastmodified":1461796657,
+    "wof:name":"Michaud Trucking",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.055319,
+    45.816319,
+    -88.055319,
+    45.816319
+],
+  "geometry": {"coordinates":[-88.055319,45.816319],"type":"Point"}
+}

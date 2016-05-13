@@ -1,0 +1,75 @@
+{
+  "id": 705927515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.283337,42.455531,-83.283337,42.455531",
+    "geom:latitude":42.455531,
+    "geom:longitude":-83.283337,
+    "iso:country":"US",
+    "sg:address":"22349 Prosper Dr",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 350 8200",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870509,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nWddqFeNR4N162LzSnGmY_42.455531_-83.283337@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792006,
+    "wof:geomhash":"f8d288a2f3dc54739139880d694d4cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870509,
+            "region_id":85688599,
+            "venue_id":705927515
+        }
+    ],
+    "wof:id":705927515,
+    "wof:lastmodified":1461792006,
+    "wof:name":"American Cab Co",
+    "wof:parent_id":85870509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.283337,
+    42.455531,
+    -83.283337,
+    42.455531
+],
+  "geometry": {"coordinates":[-83.283337,42.455531],"type":"Point"}
+}

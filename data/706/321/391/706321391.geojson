@@ -1,0 +1,69 @@
+{
+  "id": 706321391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852626,42.52875,-85.852626,42.52875",
+    "geom:latitude":42.52875,
+    "geom:longitude":-85.852626,
+    "iso:country":"US",
+    "sg:address":"112 N Walnut St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 0530",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zoos7xrKPy4EoZQtJZMtI_42.528750_-85.852626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800764,
+    "wof:geomhash":"6a14ac687b225f2bce304936a978b6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706321391
+        }
+    ],
+    "wof:id":706321391,
+    "wof:lastmodified":1461800764,
+    "wof:name":"Sheriff Dept-Jail Adm",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -85.852626,
+    42.52875,
+    -85.852626,
+    42.52875
+],
+  "geometry": {"coordinates":[-85.852626,42.52875],"type":"Point"}
+}

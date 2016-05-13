@@ -1,0 +1,79 @@
+{
+  "id": 706154181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.004643,42.395844,-83.004643,42.395844",
+    "geom:latitude":42.395844,
+    "geom:longitude":-83.004643,
+    "iso:country":"US",
+    "sg:address":"9920 Georgia St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 922 8052",
+    "sg:postcode":"48213",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870567,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gx6ioQ8hQbbKt5aQIYnnc_42.395844_-83.004643@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797072,
+    "wof:geomhash":"93bd83b8abefb7889c62dc2ce97a3fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870567,
+            "region_id":85688599,
+            "venue_id":706154181
+        }
+    ],
+    "wof:id":706154181,
+    "wof:lastmodified":1461797072,
+    "wof:name":"Williams & Son Trucking Co",
+    "wof:parent_id":85870567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.004643,
+    42.395844,
+    -83.004643,
+    42.395844
+],
+  "geometry": {"coordinates":[-83.004643,42.395844],"type":"Point"}
+}

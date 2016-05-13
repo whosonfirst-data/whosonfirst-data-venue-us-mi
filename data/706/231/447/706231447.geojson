@@ -1,0 +1,71 @@
+{
+  "id": 706231447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.533714,42.268736,-85.533714,42.268736",
+    "geom:latitude":42.268736,
+    "geom:longitude":-85.533714,
+    "iso:country":"US",
+    "sg:address":"3635 Franklin St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 3311",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52N3VsTywVjlhLR8VnvYMi_42.268736_-85.533714@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798730,
+    "wof:geomhash":"8dda045dd448caba633a2f02e1511582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706231447
+        }
+    ],
+    "wof:id":706231447,
+    "wof:lastmodified":1461798730,
+    "wof:name":"Ramos Auto Service LLC",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.533714,
+    42.268736,
+    -85.533714,
+    42.268736
+],
+  "geometry": {"coordinates":[-85.533714,42.268736],"type":"Point"}
+}

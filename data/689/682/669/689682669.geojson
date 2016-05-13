@@ -1,0 +1,71 @@
+{
+  "id": 689682669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.401933,41.909075,-83.401933,41.909075",
+    "geom:latitude":41.909075,
+    "geom:longitude":-83.401933,
+    "iso:country":"US",
+    "sg:address":"725 Washington St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 9497",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DqS6LiHyJLsLCJor91yXq_41.909075_-83.401933@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778685,
+    "wof:geomhash":"3dea3b85cb5a1d0bf092b585c54e297e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689682669
+        }
+    ],
+    "wof:id":689682669,
+    "wof:lastmodified":1461778685,
+    "wof:name":"Washington Arms Apartments",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.401933,
+    41.909075,
+    -83.401933,
+    41.909075
+],
+  "geometry": {"coordinates":[-83.401933,41.909075],"type":"Point"}
+}

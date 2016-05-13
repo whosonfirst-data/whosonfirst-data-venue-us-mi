@@ -1,0 +1,73 @@
+{
+  "id": 689784271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.48037,42.917736,-82.48037,42.917736",
+    "geom:latitude":42.917736,
+    "geom:longitude":-82.48037,
+    "iso:country":"US",
+    "sg:address":"845 Michigan Ave",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 5050",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o0pzMUBqeNuMAatMoc6j7_42.917736_-82.480370@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781379,
+    "wof:geomhash":"ce27079f7224436518f465cc5263c310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":689784271
+        }
+    ],
+    "wof:id":689784271,
+    "wof:lastmodified":1461781379,
+    "wof:name":"Visiting Physicians",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -82.48037,
+    42.917736,
+    -82.48037,
+    42.917736
+],
+  "geometry": {"coordinates":[-82.48036999999999,42.917736],"type":"Point"}
+}

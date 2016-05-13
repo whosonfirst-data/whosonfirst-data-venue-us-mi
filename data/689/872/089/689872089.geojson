@@ -1,0 +1,69 @@
+{
+  "id": 689872089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.310167,41.985572,-86.310167,41.985572",
+    "geom:latitude":41.985572,
+    "geom:longitude":-86.310167,
+    "iso:country":"US",
+    "sg:address":"6100 W Main St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 4121",
+    "sg:postcode":"49102",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bF88Uh6cNLATmFFd6ESYi_41.985572_-86.310167@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783842,
+    "wof:geomhash":"463586ff0e2dca6d37d69522b962a25c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689872089
+        }
+    ],
+    "wof:id":689872089,
+    "wof:lastmodified":1461783842,
+    "wof:name":"Harding's Friendly Market",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.310167,
+    41.985572,
+    -86.310167,
+    41.985572
+],
+  "geometry": {"coordinates":[-86.31016700000001,41.985572],"type":"Point"}
+}

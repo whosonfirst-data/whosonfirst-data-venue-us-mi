@@ -1,0 +1,75 @@
+{
+  "id": 689564089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.619461,42.211356,-85.619461,42.211356",
+    "geom:latitude":42.211356,
+    "geom:longitude":-85.619461,
+    "iso:country":"US",
+    "sg:address":"7246 Wrenbury St",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 8127",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s5RLQKi5ui7d6sD7UN7ST_42.211356_-85.619461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775134,
+    "wof:geomhash":"31654fe390ba9beafb971282d54998d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":689564089
+        }
+    ],
+    "wof:id":689564089,
+    "wof:lastmodified":1461775134,
+    "wof:name":"Joseph Grimes Trucking",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.619461,
+    42.211356,
+    -85.619461,
+    42.211356
+],
+  "geometry": {"coordinates":[-85.619461,42.211356],"type":"Point"}
+}

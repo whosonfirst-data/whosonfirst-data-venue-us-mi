@@ -1,0 +1,71 @@
+{
+  "id": 706015893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401094,42.197645,-84.401094,42.197645",
+    "geom:latitude":42.197645,
+    "geom:longitude":-84.401094,
+    "iso:country":"US",
+    "sg:address":"4540 Francis St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5889",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FXRYlKBHeCMU9LqznFpUo_42.197645_-84.401094@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793919,
+    "wof:geomhash":"918aa767255e4c900cbb2c8ff9f403fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706015893
+        }
+    ],
+    "wof:id":706015893,
+    "wof:lastmodified":1461793919,
+    "wof:name":"Craig's Auto Repair",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.401094,
+    42.197645,
+    -84.401094,
+    42.197645
+],
+  "geometry": {"coordinates":[-84.401094,42.197645],"type":"Point"}
+}

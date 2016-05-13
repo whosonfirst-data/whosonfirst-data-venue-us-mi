@@ -1,0 +1,73 @@
+{
+  "id": 706499317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540012,42.147889,-85.540012,42.147889",
+    "geom:latitude":42.147889,
+    "geom:longitude":-85.540012,
+    "iso:country":"US",
+    "sg:address":"11959 S 23rd St",
+    "sg:city":"Vicksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 649 2327",
+    "sg:postcode":"49097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85840935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aVCYu4ZT8LlLtTShJIYUI_42.147889_-85.540012@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804639,
+    "wof:geomhash":"ddbeb76f8f3fe1d1c9b7cabf3f1e552d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85840935,
+            "region_id":85688599,
+            "venue_id":706499317
+        }
+    ],
+    "wof:id":706499317,
+    "wof:lastmodified":1461804639,
+    "wof:name":"Ron Avis",
+    "wof:parent_id":85840935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.540012,
+    42.147889,
+    -85.540012,
+    42.147889
+],
+  "geometry": {"coordinates":[-85.540012,42.147889],"type":"Point"}
+}

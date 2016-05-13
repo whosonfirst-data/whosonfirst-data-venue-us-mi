@@ -1,0 +1,71 @@
+{
+  "id": 689655103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220073,43.051692,-86.220073,43.051692",
+    "geom:latitude":43.051692,
+    "geom:longitude":-86.220073,
+    "iso:country":"US",
+    "sg:address":"1014 S Beacon Blvd",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 1620",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24wlffEyDGsLRjK7uWxUde_43.051692_-86.220073@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777997,
+    "wof:geomhash":"c68ea361c6dd376bb69a84e199254aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689655103
+        }
+    ],
+    "wof:id":689655103,
+    "wof:lastmodified":1461777997,
+    "wof:name":"Assessment Consultation Svc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -86.220073,
+    43.051692,
+    -86.220073,
+    43.051692
+],
+  "geometry": {"coordinates":[-86.220073,43.051692],"type":"Point"}
+}

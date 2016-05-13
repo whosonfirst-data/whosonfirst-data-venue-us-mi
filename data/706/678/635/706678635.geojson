@@ -1,0 +1,91 @@
+{
+  "id": 706678635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.077079,42.368952,-83.077079,42.368952",
+    "geom:latitude":42.368952,
+    "geom:longitude":-83.077079,
+    "iso:country":"US",
+    "sg:address":"3011 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/248727-motown-soul-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 556 9993",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870609,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_136cjYvq5JsiSPYuke2xj3_42.368952_-83.077079@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809232,
+    "wof:geomhash":"5b85889e6bd476881b4bff850d83b528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706678635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":706678635
+        }
+    ],
+    "wof:id":706678635,
+    "wof:lastmodified":1461809232,
+    "wof:name":"Motown Soul Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -83.077079,
+    42.368952,
+    -83.077079,
+    42.368952
+],
+  "geometry": {"coordinates":[-83.077079,42.368952],"type":"Point"}
+}

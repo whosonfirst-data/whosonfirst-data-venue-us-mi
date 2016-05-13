@@ -1,0 +1,74 @@
+{
+  "id": 706689241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624743,42.843078,-85.624743,42.843078",
+    "geom:latitude":42.843078,
+    "geom:longitude":-85.624743,
+    "iso:country":"US",
+    "sg:address":"6670 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/gaines/55969-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 9966",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57CmhyvwTufB3XllyZav6I_42.843294_-85.624670@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809642,
+    "wof:geomhash":"d2dc29c143d89ce3a21e2f73187176b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706689241
+        }
+    ],
+    "wof:id":706689241,
+    "wof:lastmodified":1461809642,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.624743,
+    42.843078,
+    -85.624743,
+    42.843078
+],
+  "geometry": {"coordinates":[-85.624743,42.843078],"type":"Point"}
+}

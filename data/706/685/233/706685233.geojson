@@ -1,0 +1,78 @@
+{
+  "id": 706685233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.568198,43.219894,-85.568198,43.219894",
+    "geom:latitude":43.219894,
+    "geom:longitude":-85.568198,
+    "iso:country":"US",
+    "sg:address":"4116 17 Mile Rd NE",
+    "sg:city":"Cedar Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cedar-springs/142214-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 696 4820",
+    "sg:postcode":"49319",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4smyX8ClOKgEOe42kNwRwT_43.219894_-85.568198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809493,
+    "wof:geomhash":"0e4282e32a0e001ba4ee92f21a8587e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706685233
+        }
+    ],
+    "wof:id":706685233,
+    "wof:lastmodified":1461809493,
+    "wof:name":"Subway",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.568198,
+    43.219894,
+    -85.568198,
+    43.219894
+],
+  "geometry": {"coordinates":[-85.568198,43.219894],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706064321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.459093,42.296538,-83.459093,42.296538",
+    "geom:latitude":42.296538,
+    "geom:longitude":-83.459093,
+    "iso:country":"US",
+    "sg:address":"42308 Old Bridge Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 2974",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V8x2tKSQMTbi6AkkT9Qad_42.296538_-83.459093@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794903,
+    "wof:geomhash":"730cb744632764cf16b1514a494817bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":706064321
+        }
+    ],
+    "wof:id":706064321,
+    "wof:lastmodified":1461794903,
+    "wof:name":"A&R Trucking",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.459093,
+    42.296538,
+    -83.459093,
+    42.296538
+],
+  "geometry": {"coordinates":[-83.459093,42.296538],"type":"Point"}
+}

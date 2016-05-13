@@ -1,0 +1,71 @@
+{
+  "id": 706491877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645991,42.270202,-85.645991,42.270202",
+    "geom:latitude":42.270202,
+    "geom:longitude":-85.645991,
+    "iso:country":"US",
+    "sg:address":"4404 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 3343",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02yqBgrCCHJlpM6uHnsWlW_42.270202_-85.645991@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804430,
+    "wof:geomhash":"cbe8595fe288d70d8272619ddbaacd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706491877
+        }
+    ],
+    "wof:id":706491877,
+    "wof:lastmodified":1461804430,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.645991,
+    42.270202,
+    -85.645991,
+    42.270202
+],
+  "geometry": {"coordinates":[-85.645991,42.270202],"type":"Point"}
+}

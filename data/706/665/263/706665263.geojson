@@ -1,0 +1,79 @@
+{
+  "id": 706665263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.9506,42.557098,-82.9506,42.557098",
+    "geom:latitude":42.557098,
+    "geom:longitude":-82.9506,
+    "iso:country":"US",
+    "sg:address":"35455 Garfield Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 792 5335",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "counseling",
+        "medical",
+        "mental"
+    ],
+    "sg:website":"www.stjohn.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JeL6En0Jja7hg9Dm2UlUF_42.557673_-82.950619@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808673,
+    "wof:geomhash":"1098780a01852306c0f47f1da0403580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706665263
+        }
+    ],
+    "wof:id":706665263,
+    "wof:lastmodified":1461808673,
+    "wof:name":"Eastwood Clinics",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "medical",
+        "mental"
+    ]
+},
+  "bbox": [
+    -82.9506,
+    42.557098,
+    -82.9506,
+    42.557098
+],
+  "geometry": {"coordinates":[-82.95059999999999,42.557098],"type":"Point"}
+}

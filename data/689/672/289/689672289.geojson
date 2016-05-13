@@ -1,0 +1,73 @@
+{
+  "id": 689672289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.520356,42.259439,-85.520356,42.259439",
+    "geom:latitude":42.259439,
+    "geom:longitude":-85.520356,
+    "iso:country":"US",
+    "sg:address":"5775 E Cork St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 6767",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xJtGAdp1liC2cPJxmMsaz_42.259439_-85.520356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778447,
+    "wof:geomhash":"165e9c1d5c1c6687a01bfe37dd856363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689672289
+        }
+    ],
+    "wof:id":689672289,
+    "wof:lastmodified":1461778447,
+    "wof:name":"Hobart Sales & Service",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.520356,
+    42.259439,
+    -85.520356,
+    42.259439
+],
+  "geometry": {"coordinates":[-85.52035600000001,42.259439],"type":"Point"}
+}

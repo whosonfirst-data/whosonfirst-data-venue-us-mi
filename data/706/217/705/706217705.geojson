@@ -1,0 +1,71 @@
+{
+  "id": 706217705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.697515,42.449745,-85.697515,42.449745",
+    "geom:latitude":42.449745,
+    "geom:longitude":-85.697515,
+    "iso:country":"US",
+    "sg:address":"100 Parker Dr",
+    "sg:city":"Otsego",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 692 6254",
+    "sg:postcode":"49078",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fdYV7VCLVmhtsECzP1SFQ_42.449745_-85.697515@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798453,
+    "wof:geomhash":"97d54d648940f7b58aa92984f8428493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706217705
+        }
+    ],
+    "wof:id":706217705,
+    "wof:lastmodified":1461798453,
+    "wof:name":"Parker Hannifin",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "customs"
+    ]
+},
+  "bbox": [
+    -85.697515,
+    42.449745,
+    -85.697515,
+    42.449745
+],
+  "geometry": {"coordinates":[-85.697515,42.449745],"type":"Point"}
+}

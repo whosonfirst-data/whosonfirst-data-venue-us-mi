@@ -1,0 +1,71 @@
+{
+  "id": 706378133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.423306,42.255732,-84.423306,42.255732",
+    "geom:latitude":42.255732,
+    "geom:longitude":-84.423306,
+    "iso:country":"US",
+    "sg:address":"605 N West Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 4200",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4okRl0AZV8eqIgfBR9SLzd_42.255732_-84.423306@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801974,
+    "wof:geomhash":"bcddd0c7e3cbab37ff926ccb00052cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706378133
+        }
+    ],
+    "wof:id":706378133,
+    "wof:lastmodified":1461801974,
+    "wof:name":"CVS",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.423306,
+    42.255732,
+    -84.423306,
+    42.255732
+],
+  "geometry": {"coordinates":[-84.423306,42.255732],"type":"Point"}
+}

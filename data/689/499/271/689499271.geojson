@@ -1,0 +1,98 @@
+{
+  "id": 689499271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.430805,42.990717,-82.430805,42.990717",
+    "geom:latitude":42.990717,
+    "geom:longitude":-82.430805,
+    "iso:country":"US",
+    "sg:address":"1530 Pine Grove Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 2476",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524655,
+        102191575,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599,
+        85784851,
+        85633041,
+        101740719,
+        85682057,
+        101736019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M25MHOwZXjK5wcd1DmhUf_42.990717_-82.430805@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773073,
+    "wof:geomhash":"4a264233abbba30b7686209d2b29957c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":420524655,
+            "region_id":85688599,
+            "venue_id":689499271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689499271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":689499271
+        }
+    ],
+    "wof:id":689499271,
+    "wof:lastmodified":1461773073,
+    "wof:name":"Hearing Instruments Of Pt Hrn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -82.430805,
+    42.990717,
+    -82.430805,
+    42.990717
+],
+  "geometry": {"coordinates":[-82.43080500000001,42.990717],"type":"Point"}
+}

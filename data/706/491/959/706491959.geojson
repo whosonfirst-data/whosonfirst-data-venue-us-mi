@@ -1,0 +1,73 @@
+{
+  "id": 706491959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.347847,43.409604,-86.347847,43.409604",
+    "geom:latitude":43.409604,
+    "geom:longitude":-86.347847,
+    "iso:country":"US",
+    "sg:address":"110 S Mears Ave",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 7344",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G83o94aNFrDMkGsNg3FXm_43.409604_-86.347847@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804435,
+    "wof:geomhash":"5ec226dcd232a26b15e618b1a5563ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706491959
+        }
+    ],
+    "wof:id":706491959,
+    "wof:lastmodified":1461804435,
+    "wof:name":"Harbour Pointe",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.347847,
+    43.409604,
+    -86.347847,
+    43.409604
+],
+  "geometry": {"coordinates":[-86.347847,43.409604],"type":"Point"}
+}

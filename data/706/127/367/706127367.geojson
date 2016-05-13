@@ -1,0 +1,88 @@
+{
+  "id": 706127367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.250693,42.408949,-83.250693,42.408949",
+    "geom:latitude":42.408949,
+    "geom:longitude":-83.250693,
+    "iso:country":"US",
+    "sg:address":"16216 Westbrook St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 537 7712",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ww5u6WozvVZ1D3fvt1Zt5_42.408949_-83.250693@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796446,
+    "wof:geomhash":"5c7b67047da94ae004cfe598ab1f0ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":706127367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":706127367
+        }
+    ],
+    "wof:id":706127367,
+    "wof:lastmodified":1461796446,
+    "wof:name":"Davis Holding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -83.250693,
+    42.408949,
+    -83.250693,
+    42.408949
+],
+  "geometry": {"coordinates":[-83.250693,42.408949],"type":"Point"}
+}

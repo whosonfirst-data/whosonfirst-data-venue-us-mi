@@ -1,0 +1,71 @@
+{
+  "id": 705905075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.377352,42.089108,-86.377352,42.089108",
+    "geom:latitude":42.089108,
+    "geom:longitude":-86.377352,
+    "iso:country":"US",
+    "sg:address":"3661 E Napier Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 944 1650",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oPxE55BCUTbFwdgJtzS3y_42.089108_-86.377352@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791522,
+    "wof:geomhash":"073d2e0bf8c7d3ea711708a06d66e19c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705905075
+        }
+    ],
+    "wof:id":705905075,
+    "wof:lastmodified":1461791522,
+    "wof:name":"Benton Harbor Masonic Assn",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -86.377352,
+    42.089108,
+    -86.377352,
+    42.089108
+],
+  "geometry": {"coordinates":[-86.377352,42.089108],"type":"Point"}
+}

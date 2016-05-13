@@ -1,0 +1,75 @@
+{
+  "id": 706239703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.088678,42.348513,-83.088678,42.348513",
+    "geom:latitude":42.348513,
+    "geom:longitude":-83.088678,
+    "iso:country":"US",
+    "sg:address":"4848 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 898 7888",
+    "sg:postcode":"48208",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870553,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2moNifdO2FVM4ZCUgbuRfU_42.348513_-83.088678@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798939,
+    "wof:geomhash":"0407768cca8392a7b53e463853630921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870553,
+            "region_id":85688599,
+            "venue_id":706239703
+        }
+    ],
+    "wof:id":706239703,
+    "wof:lastmodified":1461798939,
+    "wof:name":"Magnet Radiator Works Inc",
+    "wof:parent_id":85870553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.088678,
+    42.348513,
+    -83.088678,
+    42.348513
+],
+  "geometry": {"coordinates":[-83.088678,42.348513],"type":"Point"}
+}

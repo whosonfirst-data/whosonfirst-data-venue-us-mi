@@ -1,0 +1,71 @@
+{
+  "id": 689946751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.657701,41.955841,-83.657701,41.955841",
+    "geom:latitude":41.955841,
+    "geom:longitude":-83.657701,
+    "iso:country":"US",
+    "sg:address":"424 W Monroe St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 3031",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49lIPGmsj5tqZKH7yPpX2M_41.955841_-83.657701@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785771,
+    "wof:geomhash":"998eb679e11469848a7b1639ed72a2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689946751
+        }
+    ],
+    "wof:id":689946751,
+    "wof:lastmodified":1461785771,
+    "wof:name":"Dundee Dental Office",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.657701,
+    41.955841,
+    -83.657701,
+    41.955841
+],
+  "geometry": {"coordinates":[-83.657701,41.955841],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705909905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.246787,43.18956,-86.246787,43.18956",
+    "geom:latitude":43.18956,
+    "geom:longitude":-86.246787,
+    "iso:country":"US",
+    "sg:address":"100 S Seaway Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 6266",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7edggLMtgHvryKPMrIKi8y_43.189560_-86.246787@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791630,
+    "wof:geomhash":"ea54ef76baf8ef7fadc73986bd69ad77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705909905
+        }
+    ],
+    "wof:id":705909905,
+    "wof:lastmodified":1461791630,
+    "wof:name":"Aquatherapy Center",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.246787,
+    43.18956,
+    -86.246787,
+    43.18956
+],
+  "geometry": {"coordinates":[-86.246787,43.18956],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706029713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.077612,42.79241,-86.077612,42.79241",
+    "geom:latitude":42.79241,
+    "geom:longitude":-86.077612,
+    "iso:country":"US",
+    "sg:address":"175 S Waverly Rd",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 396 3848",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "clinical",
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67tC4CGGKLjg0w1Jw64KJB_42.792410_-86.077612@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794202,
+    "wof:geomhash":"b93125e625345890bdcd4765941ea909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706029713
+        }
+    ],
+    "wof:id":706029713,
+    "wof:lastmodified":1461794202,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "clinical",
+        "testing"
+    ]
+},
+  "bbox": [
+    -86.077612,
+    42.79241,
+    -86.077612,
+    42.79241
+],
+  "geometry": {"coordinates":[-86.077612,42.79241],"type":"Point"}
+}

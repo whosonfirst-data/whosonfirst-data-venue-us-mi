@@ -1,0 +1,79 @@
+{
+  "id": 722529557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263416,43.191499,-86.263416,43.191499",
+    "geom:latitude":43.191499,
+    "geom:longitude":-86.263416,
+    "iso:country":"US",
+    "sg:address":"3355 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 5900",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican",
+        "take"
+    ],
+    "sg:website":"http://www.qdoba.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h94mLWeqgPs2Gf7FpC0QQ_43.191499_-86.263416@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814391,
+    "wof:geomhash":"fd3a70c0a57c4e2d14bc3fccb8ce7475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529557
+        }
+    ],
+    "wof:id":722529557,
+    "wof:lastmodified":1461814391,
+    "wof:name":"Qdoba Mexican Grill",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "take"
+    ]
+},
+  "bbox": [
+    -86.263416,
+    43.191499,
+    -86.263416,
+    43.191499
+],
+  "geometry": {"coordinates":[-86.26341600000001,43.191499],"type":"Point"}
+}

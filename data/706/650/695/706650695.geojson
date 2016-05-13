@@ -1,0 +1,86 @@
+{
+  "id": 706650695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.615726,42.951029,-85.615726,42.951029",
+    "geom:latitude":42.951029,
+    "geom:longitude":-85.615726,
+    "iso:country":"US",
+    "sg:address":"2140 Wealthy St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 458 8901",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V2ASX4Posjmx7yeX5zNks_42.951029_-85.615726@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807982,
+    "wof:geomhash":"b6c533cd99b1389a65737afffd6f9c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706650695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":706650695
+        }
+    ],
+    "wof:id":706650695,
+    "wof:lastmodified":1461807982,
+    "wof:name":"East Grand Rapids Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.615726,
+    42.951029,
+    -85.615726,
+    42.951029
+],
+  "geometry": {"coordinates":[-85.615726,42.951029],"type":"Point"}
+}

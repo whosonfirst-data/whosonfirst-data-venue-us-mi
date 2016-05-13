@@ -1,0 +1,71 @@
+{
+  "id": 706670543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.877098,42.521801,-82.877098,42.521801",
+    "geom:latitude":42.521801,
+    "geom:longitude":-82.877098,
+    "iso:country":"US",
+    "sg:address":"31201 Jefferson Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 293 3490",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rJRDuJP7AHAqlsZ0Qiiu8_42.522017_-82.876935@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808886,
+    "wof:geomhash":"98e048e9bc7b1ce48f817b92e6fc6f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706670543
+        }
+    ],
+    "wof:id":706670543,
+    "wof:lastmodified":1461808886,
+    "wof:name":"Shores Cleaners",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -82.877098,
+    42.521801,
+    -82.877098,
+    42.521801
+],
+  "geometry": {"coordinates":[-82.877098,42.521801],"type":"Point"}
+}

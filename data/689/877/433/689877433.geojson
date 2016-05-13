@@ -1,0 +1,71 @@
+{
+  "id": 689877433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.430606,42.283597,-84.430606,42.283597",
+    "geom:latitude":42.283597,
+    "geom:longitude":-84.430606,
+    "iso:country":"US",
+    "sg:address":"2840 Shirley Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 5722",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ivp36PaRn8AmZAWmjQyJ3_42.283597_-84.430606@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783977,
+    "wof:geomhash":"be64530e7d75fc344681f00e95379d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689877433
+        }
+    ],
+    "wof:id":689877433,
+    "wof:lastmodified":1461783977,
+    "wof:name":"Mills Excavating",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.430606,
+    42.283597,
+    -84.430606,
+    42.283597
+],
+  "geometry": {"coordinates":[-84.430606,42.283597],"type":"Point"}
+}

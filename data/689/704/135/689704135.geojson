@@ -1,0 +1,73 @@
+{
+  "id": 689704135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.400513,46.553668,-87.400513,46.553668",
+    "geom:latitude":46.553668,
+    "geom:longitude":-87.400513,
+    "iso:country":"US",
+    "sg:address":"420 W Magnetic St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 3050",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BUReV7m19SDKrMg41oJxV_46.553668_-87.400513@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779234,
+    "wof:geomhash":"d47881990e83f7f682f8ea071815ab2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689704135
+        }
+    ],
+    "wof:id":689704135,
+    "wof:lastmodified":1461779234,
+    "wof:name":"Medical Labs Marquette",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.400513,
+    46.553668,
+    -87.400513,
+    46.553668
+],
+  "geometry": {"coordinates":[-87.400513,46.553668],"type":"Point"}
+}

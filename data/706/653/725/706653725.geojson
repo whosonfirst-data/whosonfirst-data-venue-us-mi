@@ -1,0 +1,85 @@
+{
+  "id": 706653725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.338823,42.576322,-83.338823,42.576322",
+    "geom:latitude":42.576322,
+    "geom:longitude":-83.338823,
+    "iso:country":"US",
+    "sg:address":"2915 Peterboro Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 626 0768",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zpzlD6oZD3UmXNZNUVhFA_42.576322_-83.338823@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808120,
+    "wof:geomhash":"26007d51e823e64c98439430de5c9036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706653725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":706653725
+        }
+    ],
+    "wof:id":706653725,
+    "wof:lastmodified":1461808120,
+    "wof:name":"Aldikacti Hulki",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -83.338823,
+    42.576322,
+    -83.338823,
+    42.576322
+],
+  "geometry": {"coordinates":[-83.338823,42.576322],"type":"Point"}
+}

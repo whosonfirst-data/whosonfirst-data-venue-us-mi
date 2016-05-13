@@ -1,0 +1,77 @@
+{
+  "id": 705782009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.064076,42.351235,-83.064076,42.351235",
+    "geom:latitude":42.351235,
+    "geom:longitude":-83.064076,
+    "iso:country":"US",
+    "sg:address":"4229 Cass Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 831 3130",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870587,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34u4jTMG8Z4wtbbY4KcPuy_42.351235_-83.064076@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788601,
+    "wof:geomhash":"9e3d775ede7ce81e26cb10067f0289f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870587,
+            "region_id":85688599,
+            "venue_id":705782009
+        }
+    ],
+    "wof:id":705782009,
+    "wof:lastmodified":1461788601,
+    "wof:name":"Concentra Inc",
+    "wof:parent_id":85870587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.064076,
+    42.351235,
+    -83.064076,
+    42.351235
+],
+  "geometry": {"coordinates":[-83.064076,42.351235],"type":"Point"}
+}

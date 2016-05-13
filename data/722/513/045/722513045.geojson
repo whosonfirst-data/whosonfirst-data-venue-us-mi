@@ -1,0 +1,69 @@
+{
+  "id": 722513045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.413803,42.617001,-83.413803,42.617001",
+    "geom:latitude":42.617001,
+    "geom:longitude":-83.413803,
+    "iso:country":"US",
+    "sg:address":"1490 Lochaven Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 5061",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820385,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nIBcLsSVRbMpXDZenj1d4_42.617001_-83.413803@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813612,
+    "wof:geomhash":"8d868c42017c84b688e93d61ab681305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85820385,
+            "region_id":85688599,
+            "venue_id":722513045
+        }
+    ],
+    "wof:id":722513045,
+    "wof:lastmodified":1461813612,
+    "wof:name":"Animal Rehabilitation Center of Michigan Inc",
+    "wof:parent_id":85820385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.413803,
+    42.617001,
+    -83.413803,
+    42.617001
+],
+  "geometry": {"coordinates":[-83.413803,42.617001],"type":"Point"}
+}

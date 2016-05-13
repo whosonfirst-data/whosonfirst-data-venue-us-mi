@@ -1,0 +1,69 @@
+{
+  "id": 706004565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.651235,42.184753,-84.651235,42.184753",
+    "geom:latitude":42.184753,
+    "geom:longitude":-84.651235,
+    "iso:country":"US",
+    "sg:address":"412 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 8180",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76v9nfZr7lCpQDxG553O4n_42.184753_-84.651235@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793673,
+    "wof:geomhash":"9473fc22c512704a1cd67661235b3dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706004565
+        }
+    ],
+    "wof:id":706004565,
+    "wof:lastmodified":1461793673,
+    "wof:name":"Trupiano & Trupiano",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.651235,
+    42.184753,
+    -84.651235,
+    42.184753
+],
+  "geometry": {"coordinates":[-84.651235,42.184753],"type":"Point"}
+}

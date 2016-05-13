@@ -1,0 +1,71 @@
+{
+  "id": 689477599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.950886,42.578665,-82.950886,42.578665",
+    "geom:latitude":42.578665,
+    "geom:longitude":-82.950886,
+    "iso:country":"US",
+    "sg:address":"38245 Fernhill Ct",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 228 5380",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MmglTUKClN3KgFlKGnjbo_42.578665_-82.950886@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772458,
+    "wof:geomhash":"099f5b2027bac78f38277bfea84af211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":689477599
+        }
+    ],
+    "wof:id":689477599,
+    "wof:lastmodified":1461772458,
+    "wof:name":"Aiello Electric Inc",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.950886,
+    42.578665,
+    -82.950886,
+    42.578665
+],
+  "geometry": {"coordinates":[-82.950886,42.578665],"type":"Point"}
+}

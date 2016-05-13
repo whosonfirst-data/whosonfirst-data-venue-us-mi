@@ -1,0 +1,90 @@
+{
+  "id": 706696773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.318413,42.506006,-83.318413,42.506006",
+    "geom:latitude":42.506006,
+    "geom:longitude":-83.318413,
+    "iso:country":"US",
+    "sg:address":"29705 Northwestern Hwy",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 352 6590",
+    "sg:postcode":"48034",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524551,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Id79x3Cszla74Lytmu95x_42.506006_-83.318413@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809936,
+    "wof:geomhash":"8aad37e0b0be53cd41957d4061aa18d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":420524551,
+            "region_id":85688599,
+            "venue_id":706696773
+        }
+    ],
+    "wof:id":706696773,
+    "wof:lastmodified":1461809936,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420524551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.318413,
+    42.506006,
+    -83.318413,
+    42.506006
+],
+  "geometry": {"coordinates":[-83.31841300000001,42.506006],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706311215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683651,42.257918,-85.683651,42.257918",
+    "geom:latitude":42.257918,
+    "geom:longitude":-85.683651,
+    "iso:country":"US",
+    "sg:address":"6740 Andover Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 9900",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878451,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0prVshr2vUQah5fheMcnyf_42.257918_-85.683651@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800540,
+    "wof:geomhash":"06ea1abe764a91c690f49872c8dcdf78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878451,
+            "region_id":85688599,
+            "venue_id":706311215
+        }
+    ],
+    "wof:id":706311215,
+    "wof:lastmodified":1461800540,
+    "wof:name":"Pinehurst Townhomes",
+    "wof:parent_id":85878451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.683651,
+    42.257918,
+    -85.683651,
+    42.257918
+],
+  "geometry": {"coordinates":[-85.683651,42.257918],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689603627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.73447,43.011875,-83.73447,43.011875",
+    "geom:latitude":43.011875,
+    "geom:longitude":-83.73447,
+    "iso:country":"US",
+    "sg:address":"810 S Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 701 6926",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LqlEVM6iPYK3wYLEKmECA_43.011875_-83.734470@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776365,
+    "wof:geomhash":"8fca3ba4c204ea76388a7594771cd3f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689603627
+        }
+    ],
+    "wof:id":689603627,
+    "wof:lastmodified":1461776365,
+    "wof:name":"Ballenger Courts",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.73447,
+    43.011875,
+    -83.73447,
+    43.011875
+],
+  "geometry": {"coordinates":[-83.73447,43.011875],"type":"Point"}
+}

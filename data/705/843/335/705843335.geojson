@@ -1,0 +1,73 @@
+{
+  "id": 705843335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.753136,43.010155,-83.753136,43.010155",
+    "geom:latitude":43.010155,
+    "geom:longitude":-83.753136,
+    "iso:country":"US",
+    "sg:address":"1425 S Graham Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 5440",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hIfoEUe6k7famrSRu6WXX_43.010155_-83.753136@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790033,
+    "wof:geomhash":"ae0ccae2f24d0c15e1afe1fd8616af3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705843335
+        }
+    ],
+    "wof:id":705843335,
+    "wof:lastmodified":1461790033,
+    "wof:name":"Linden Road Medical Group",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.753136,
+    43.010155,
+    -83.753136,
+    43.010155
+],
+  "geometry": {"coordinates":[-83.753136,43.010155],"type":"Point"}
+}

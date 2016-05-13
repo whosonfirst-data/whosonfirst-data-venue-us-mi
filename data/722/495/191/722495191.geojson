@@ -1,0 +1,77 @@
+{
+  "id": 722495191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.19729,42.375601,-83.19729,42.375601",
+    "geom:latitude":42.375601,
+    "geom:longitude":-83.19729,
+    "iso:country":"US",
+    "sg:address":"12070 Greenfield Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 272 8230",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870495,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hl0Wf9xbQwmctJVCAx7U4_42.375601_-83.197290@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812894,
+    "wof:geomhash":"596deed0688f5289c5c9e2d240e3abce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870495,
+            "region_id":85688599,
+            "venue_id":722495191
+        }
+    ],
+    "wof:id":722495191,
+    "wof:lastmodified":1461812894,
+    "wof:name":"Precision Frame & Body Alignment",
+    "wof:parent_id":85870495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.19729,
+    42.375601,
+    -83.19729,
+    42.375601
+],
+  "geometry": {"coordinates":[-83.19729,42.375601],"type":"Point"}
+}

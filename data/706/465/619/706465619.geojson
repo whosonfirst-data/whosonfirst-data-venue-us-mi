@@ -1,0 +1,71 @@
+{
+  "id": 706465619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.068618,45.749331,-87.068618,45.749331",
+    "geom:latitude":45.749331,
+    "geom:longitude":-87.068618,
+    "iso:country":"US",
+    "sg:address":"1500 3rd Ave N",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 2276",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bx7k0MQLoH7lVwdVvGGSk_45.749331_-87.068618@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803761,
+    "wof:geomhash":"b1e32c0a21b99bde7d8156b86823c28b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706465619
+        }
+    ],
+    "wof:id":706465619,
+    "wof:lastmodified":1461803761,
+    "wof:name":"Delta Desposal",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.068618,
+    45.749331,
+    -87.068618,
+    45.749331
+],
+  "geometry": {"coordinates":[-87.068618,45.749331],"type":"Point"}
+}

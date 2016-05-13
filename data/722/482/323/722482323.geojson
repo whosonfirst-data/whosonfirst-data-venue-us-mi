@@ -1,0 +1,77 @@
+{
+  "id": 722482323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.040398,42.341099,-83.040398,42.341099",
+    "geom:latitude":42.341099,
+    "geom:longitude":-83.040398,
+    "iso:country":"US",
+    "sg:address":"1000 Maple St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 568 5100",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870545,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13OqZza6kl2YfXrKyz4v4K_42.341099_-83.040398@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812382,
+    "wof:geomhash":"c143cd2c7bd32108cc27c4ec32e44231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870545,
+            "region_id":85688599,
+            "venue_id":722482323
+        }
+    ],
+    "wof:id":722482323,
+    "wof:lastmodified":1461812382,
+    "wof:name":"Stroh's Ice Cream Co",
+    "wof:parent_id":85870545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -83.040398,
+    42.341099,
+    -83.040398,
+    42.341099
+],
+  "geometry": {"coordinates":[-83.040398,42.341099],"type":"Point"}
+}

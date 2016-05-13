@@ -1,0 +1,71 @@
+{
+  "id": 689894551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.232719,43.194542,-86.232719,43.194542",
+    "geom:latitude":43.194542,
+    "geom:longitude":-86.232719,
+    "iso:country":"US",
+    "sg:address":"3335 Mona View Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 0124",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Veji00PDKgjw5mwVpaytd_43.194542_-86.232719@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784429,
+    "wof:geomhash":"f87b50a7a7bf54c7f9c34286888b7f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689894551
+        }
+    ],
+    "wof:id":689894551,
+    "wof:lastmodified":1461784429,
+    "wof:name":"Mona View Cemetery",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -86.232719,
+    43.194542,
+    -86.232719,
+    43.194542
+],
+  "geometry": {"coordinates":[-86.232719,43.194542],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689793407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.177187,42.796509,-86.177187,42.796509",
+    "geom:latitude":42.796509,
+    "geom:longitude":-86.177187,
+    "iso:country":"US",
+    "sg:address":"12 S 160th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 7388",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eJepu5FRQoSmFGzbnshwc_42.796509_-86.177187@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781650,
+    "wof:geomhash":"884653ea0b66a6c22d5d2fccf5a229f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689793407
+        }
+    ],
+    "wof:id":689793407,
+    "wof:lastmodified":1461781650,
+    "wof:name":"Park Twp Fire Dept",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.177187,
+    42.796509,
+    -86.177187,
+    42.796509
+],
+  "geometry": {"coordinates":[-86.177187,42.796509],"type":"Point"}
+}

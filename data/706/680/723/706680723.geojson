@@ -1,0 +1,72 @@
+{
+  "id": 706680723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.627105,42.64122,-83.627105,42.64122",
+    "geom:latitude":42.64122,
+    "geom:longitude":-83.627105,
+    "iso:country":"US",
+    "sg:address":"734 W Highland Rd",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/highland/248562-benitos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 889 8811",
+    "sg:postcode":"48357",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85855621,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pYRvi2gplB05s2Q3jbBG_42.641220_-83.627105@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809313,
+    "wof:geomhash":"be6a2f2b78afad33d2fa46a01936d215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85855621,
+            "region_id":85688599,
+            "venue_id":706680723
+        }
+    ],
+    "wof:id":706680723,
+    "wof:lastmodified":1461809313,
+    "wof:name":"Benito's Pizza",
+    "wof:parent_id":85855621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.627105,
+    42.64122,
+    -83.627105,
+    42.64122
+],
+  "geometry": {"coordinates":[-83.627105,42.64122],"type":"Point"}
+}

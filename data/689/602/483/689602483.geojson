@@ -1,0 +1,73 @@
+{
+  "id": 689602483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800733,43.401038,-85.800733,43.401038",
+    "geom:latitude":43.401038,
+    "geom:longitude":-85.800733,
+    "iso:country":"US",
+    "sg:address":"8426 Mason Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 9552",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T0OTFHo3DqhrESRtsm3Xk_43.401038_-85.800733@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776331,
+    "wof:geomhash":"58a916d26c8df4da5cfe01c0dfcfb3a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689602483
+        }
+    ],
+    "wof:id":689602483,
+    "wof:lastmodified":1461776331,
+    "wof:name":"Jeff's Automotive Repair Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.800733,
+    43.401038,
+    -85.800733,
+    43.401038
+],
+  "geometry": {"coordinates":[-85.80073299999999,43.401038],"type":"Point"}
+}

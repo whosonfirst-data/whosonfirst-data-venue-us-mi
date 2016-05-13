@@ -1,0 +1,71 @@
+{
+  "id": 706045387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.562612,42.214867,-83.562612,42.214867",
+    "geom:latitude":42.214867,
+    "geom:longitude":-83.562612,
+    "iso:country":"US",
+    "sg:address":"2277 S Grove St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 483 2332",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xwfMIYZ0znU3m8BTutBRt_42.214867_-83.562612@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794506,
+    "wof:geomhash":"392a74a23981e6b511b1a1c802da7e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706045387
+        }
+    ],
+    "wof:id":706045387,
+    "wof:lastmodified":1461794506,
+    "wof:name":"Bryn Mawr Apartments",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.562612,
+    42.214867,
+    -83.562612,
+    42.214867
+],
+  "geometry": {"coordinates":[-83.562612,42.214867],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706351289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.340745,42.933828,-85.340745,42.933828",
+    "geom:latitude":42.933828,
+    "geom:longitude":-85.340745,
+    "iso:country":"US",
+    "sg:address":"105 N Broadway St SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 9261",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DXX5081dQKSEK5QXhz6zL_42.933828_-85.340745@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801433,
+    "wof:geomhash":"3366d8cd73ba620d6622563d21ea383e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706351289
+        }
+    ],
+    "wof:id":706351289,
+    "wof:lastmodified":1461801433,
+    "wof:name":"Lowell Ledger",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -85.340745,
+    42.933828,
+    -85.340745,
+    42.933828
+],
+  "geometry": {"coordinates":[-85.340745,42.933828],"type":"Point"}
+}

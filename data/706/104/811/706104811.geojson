@@ -1,0 +1,73 @@
+{
+  "id": 706104811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.655672,42.249806,-83.655672,42.249806",
+    "geom:latitude":42.249806,
+    "geom:longitude":-83.655672,
+    "iso:country":"US",
+    "sg:address":"2766 Washtenaw Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 528 9280",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73EHDfMghlLe8tmtQW2fuF_42.249806_-83.655672@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795882,
+    "wof:geomhash":"a1d4ea20a8be74cad3b64621641004a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":706104811
+        }
+    ],
+    "wof:id":706104811,
+    "wof:lastmodified":1461795882,
+    "wof:name":"Ypsilanti Dialysis",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.655672,
+    42.249806,
+    -83.655672,
+    42.249806
+],
+  "geometry": {"coordinates":[-83.655672,42.249806],"type":"Point"}
+}

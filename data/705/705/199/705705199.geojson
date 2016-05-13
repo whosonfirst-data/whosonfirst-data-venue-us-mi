@@ -1,0 +1,71 @@
+{
+  "id": 705705199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.55283,41.954526,-86.55283,41.954526",
+    "geom:latitude":41.954526,
+    "geom:longitude":-86.55283,
+    "iso:country":"US",
+    "sg:address":"8961 Red Arrow Hwy",
+    "sg:city":"Bridgman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 465 3838",
+    "sg:postcode":"49106",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pWhAkTany793idxZXVVTU_41.954526_-86.552830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786737,
+    "wof:geomhash":"b7a792d5311066b7e4740db62d287cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":705705199
+        }
+    ],
+    "wof:id":705705199,
+    "wof:lastmodified":1461786737,
+    "wof:name":"Clyde Bear Towing",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.55283,
+    41.954526,
+    -86.55283,
+    41.954526
+],
+  "geometry": {"coordinates":[-86.55283,41.954526],"type":"Point"}
+}

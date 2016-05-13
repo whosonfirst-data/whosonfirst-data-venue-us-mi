@@ -1,0 +1,74 @@
+{
+  "id": 706685785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.262921,43.212043,-86.262921,43.212043",
+    "geom:latitude":43.212043,
+    "geom:longitude":-86.262921,
+    "iso:country":"US",
+    "sg:address":"2185 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/121155-pop-a-top-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 0046",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qV9poYRNiz52qxgNK7DbD_43.212043_-86.262921@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809512,
+    "wof:geomhash":"4d7483083b7ef06362ca59d74981f693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685785
+        }
+    ],
+    "wof:id":706685785,
+    "wof:lastmodified":1461809512,
+    "wof:name":"Pop A Top Tavern",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -86.262921,
+    43.212043,
+    -86.262921,
+    43.212043
+],
+  "geometry": {"coordinates":[-86.26292100000001,43.212043],"type":"Point"}
+}

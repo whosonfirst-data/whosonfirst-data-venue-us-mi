@@ -1,0 +1,71 @@
+{
+  "id": 705998083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.226853,43.186903,-86.226853,43.186903",
+    "geom:latitude":43.186903,
+    "geom:longitude":-86.226853,
+    "iso:country":"US",
+    "sg:address":"3658 Airline Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 0251",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nZp3KnpIgmwdouFOy7wmp_43.186903_-86.226853@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793541,
+    "wof:geomhash":"01d14ff3949389f6ad70d7ed679b99d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705998083
+        }
+    ],
+    "wof:id":705998083,
+    "wof:lastmodified":1461793541,
+    "wof:name":"Coachman Body Shop Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.226853,
+    43.186903,
+    -86.226853,
+    43.186903
+],
+  "geometry": {"coordinates":[-86.22685300000001,43.186903],"type":"Point"}
+}

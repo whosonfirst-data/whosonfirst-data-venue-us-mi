@@ -1,0 +1,80 @@
+{
+  "id": 722526587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.575252,42.296971,-85.575252,42.296971",
+    "geom:latitude":42.296971,
+    "geom:longitude":-85.575252,
+    "iso:country":"US",
+    "sg:address":"535 E Ransom St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 552 5555",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817145,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Evhkwa2XkJRfvEglNftaf_42.296971_-85.575252@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814272,
+    "wof:geomhash":"138f673dbc20201a5c309669ba0615f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85817145,
+            "region_id":85688599,
+            "venue_id":722526587
+        }
+    ],
+    "wof:id":722526587,
+    "wof:lastmodified":1461814272,
+    "wof:name":"Bigg Baby Taxi Service",
+    "wof:parent_id":85817145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -85.575252,
+    42.296971,
+    -85.575252,
+    42.296971
+],
+  "geometry": {"coordinates":[-85.57525200000001,42.296971],"type":"Point"}
+}

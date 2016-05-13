@@ -1,0 +1,74 @@
+{
+  "id": 706684361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.516262,42.326028,-85.516262,42.326028",
+    "geom:latitude":42.326028,
+    "geom:longitude":-85.516262,
+    "iso:country":"US",
+    "sg:address":"5798 Gull Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/comstock/196866-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 345 4296",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ER8lujQvRDF3Jx28yFaTQ_42.326028_-85.516262@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809462,
+    "wof:geomhash":"a91fd77bd930039543d1ae1e7bd3237f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684361
+        }
+    ],
+    "wof:id":706684361,
+    "wof:lastmodified":1461809462,
+    "wof:name":"Burger King",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.516262,
+    42.326028,
+    -85.516262,
+    42.326028
+],
+  "geometry": {"coordinates":[-85.516262,42.326028],"type":"Point"}
+}

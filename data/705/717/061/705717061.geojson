@@ -1,0 +1,73 @@
+{
+  "id": 705717061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.599746,47.133018,-88.599746,47.133018",
+    "geom:latitude":47.133018,
+    "geom:longitude":-88.599746,
+    "iso:country":"US",
+    "sg:address":"1001 Ethel Ave",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 6411",
+    "sg:postcode":"49930",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RWzPX4hnAYuwVRkQjVDdu_47.133018_-88.599746@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787087,
+    "wof:geomhash":"8013502fb2e192f0aeae1a52ac7be87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":705717061
+        }
+    ],
+    "wof:id":705717061,
+    "wof:lastmodified":1461787087,
+    "wof:name":"Bob's Sheet Metal Heating & AC",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.599746,
+    47.133018,
+    -88.599746,
+    47.133018
+],
+  "geometry": {"coordinates":[-88.599746,47.133018],"type":"Point"}
+}

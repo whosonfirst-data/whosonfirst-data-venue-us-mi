@@ -1,0 +1,73 @@
+{
+  "id": 706006175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.608299,42.883799,-85.608299,42.883799",
+    "geom:latitude":42.883799,
+    "geom:longitude":-85.608299,
+    "iso:country":"US",
+    "sg:address":"2281 44th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 827 0830",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wru1sMJVM1yBRniF0PDOT_42.883799_-85.608299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793703,
+    "wof:geomhash":"865fa1cb7999cecdf6b9bf177db38df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706006175
+        }
+    ],
+    "wof:id":706006175,
+    "wof:lastmodified":1461793703,
+    "wof:name":"Paris Coffee & Pastry Shop",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.608299,
+    42.883799,
+    -85.608299,
+    42.883799
+],
+  "geometry": {"coordinates":[-85.608299,42.883799],"type":"Point"}
+}

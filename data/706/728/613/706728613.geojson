@@ -1,0 +1,83 @@
+{
+  "id": 706728613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.264109,42.326744,-83.264109,42.326744",
+    "geom:latitude":42.326744,
+    "geom:longitude":-83.264109,
+    "iso:country":"US",
+    "sg:address":"23309 Ford Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 791 8494",
+    "sg:postcode":"48128",
+    "sg:province":"MI",
+    "sg:tags":[
+        "notary",
+        "shipping"
+    ],
+    "sg:website":"postnet.com/mi107",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524929,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xE3nOa6h0kxjjtLaBJcYN_42.326744_-83.264109@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811372,
+    "wof:geomhash":"0a7ef5e4edc707f7ba9282f9f2d42463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":420524929,
+            "region_id":85688599,
+            "venue_id":706728613
+        }
+    ],
+    "wof:id":706728613,
+    "wof:lastmodified":1461811372,
+    "wof:name":"PostNet",
+    "wof:parent_id":420524929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -83.264109,
+    42.326744,
+    -83.264109,
+    42.326744
+],
+  "geometry": {"coordinates":[-83.264109,42.326744],"type":"Point"}
+}

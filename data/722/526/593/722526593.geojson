@@ -1,0 +1,89 @@
+{
+  "id": 722526593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583229,42.291679,-85.583229,42.291679",
+    "geom:latitude":42.291679,
+    "geom:longitude":-85.583229,
+    "iso:country":"US",
+    "sg:address":"100 W Michigan Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 567 7677",
+    "sg:postcode":"49007",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878449,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NjE8036i8lEhd19rpBOLt_42.291679_-85.583229@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814272,
+    "wof:geomhash":"17950fd258660be39dcf2923a5251565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85878449,
+            "region_id":85688599,
+            "venue_id":722526593
+        }
+    ],
+    "wof:id":722526593,
+    "wof:lastmodified":1461814272,
+    "wof:name":"Rio",
+    "wof:parent_id":85878449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -85.583229,
+    42.291679,
+    -85.583229,
+    42.291679
+],
+  "geometry": {"coordinates":[-85.583229,42.291679],"type":"Point"}
+}

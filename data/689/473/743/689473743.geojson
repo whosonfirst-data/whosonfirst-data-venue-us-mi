@@ -1,0 +1,71 @@
+{
+  "id": 689473743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.921164,42.557452,-82.921164,42.557452",
+    "geom:latitude":42.557452,
+    "geom:longitude":-82.921164,
+    "iso:country":"US",
+    "sg:address":"35507 Groesbeck Hwy",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 791 2003",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BcBocXbZuDWUSfouodYko_42.557452_-82.921164@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772347,
+    "wof:geomhash":"3bc3b46af49e722c70707285129bdce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":689473743
+        }
+    ],
+    "wof:id":689473743,
+    "wof:lastmodified":1461772347,
+    "wof:name":"Quick Automotive Svc",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.921164,
+    42.557452,
+    -82.921164,
+    42.557452
+],
+  "geometry": {"coordinates":[-82.921164,42.557452],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 706108721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.321938,42.585617,-83.321938,42.585617",
+    "geom:latitude":42.585617,
+    "geom:longitude":-83.321938,
+    "iso:country":"US",
+    "sg:address":"1997 Meadow Ct",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 865 7402",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TS658SllnX84EVgQrnslG_42.585617_-83.321938@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795959,
+    "wof:geomhash":"a9162d53372b71c00665dd89db9a73d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706108721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":706108721
+        }
+    ],
+    "wof:id":706108721,
+    "wof:lastmodified":1461795959,
+    "wof:name":"Assoc In Radiation Oncolo Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.321938,
+    42.585617,
+    -83.321938,
+    42.585617
+],
+  "geometry": {"coordinates":[-83.321938,42.585617],"type":"Point"}
+}

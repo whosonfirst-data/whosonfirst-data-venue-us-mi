@@ -1,0 +1,75 @@
+{
+  "id": 689915237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.061205,42.40156,-83.061205,42.40156",
+    "geom:latitude":42.40156,
+    "geom:longitude":-83.061205,
+    "iso:country":"US",
+    "sg:address":"11411 Joseph Campau St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 365 2000",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArRNSm5j4exKmDgmn0ot3_42.401560_-83.061205@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784990,
+    "wof:geomhash":"fabaf352d8be1dc57f52815d7490599d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":689915237
+        }
+    ],
+    "wof:id":689915237,
+    "wof:lastmodified":1461784990,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.061205,
+    42.40156,
+    -83.061205,
+    42.40156
+],
+  "geometry": {"coordinates":[-83.061205,42.40156],"type":"Point"}
+}

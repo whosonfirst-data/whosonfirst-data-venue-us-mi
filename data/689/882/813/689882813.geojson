@@ -1,0 +1,71 @@
+{
+  "id": 689882813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.063162,45.825532,-88.063162,45.825532",
+    "geom:latitude":45.825532,
+    "geom:longitude":-88.063162,
+    "iso:country":"US",
+    "sg:address":"205 N Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 2022",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43YBnPWuu13kjLr1ihaGTW_45.825532_-88.063162@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784105,
+    "wof:geomhash":"663558bbb01d414857f5e97612c57d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689882813
+        }
+    ],
+    "wof:id":689882813,
+    "wof:lastmodified":1461784105,
+    "wof:name":"Citgo",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.063162,
+    45.825532,
+    -88.063162,
+    45.825532
+],
+  "geometry": {"coordinates":[-88.06316200000001,45.825532],"type":"Point"}
+}

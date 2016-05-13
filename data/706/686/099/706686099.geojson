@@ -1,0 +1,88 @@
+{
+  "id": 706686099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673109,42.963739,-85.673109,42.963739",
+    "geom:latitude":42.963739,
+    "geom:longitude":-85.673109,
+    "iso:country":"US",
+    "sg:address":"20 Monroe Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/58296-bobarinos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 356 2000",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "seafood",
+        "burger",
+        "american",
+        "steakhouse",
+        "wrap",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877887,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lPRvVe3ve5DQIv4clHrZd_42.963739_-85.673109@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809524,
+    "wof:geomhash":"ec0b47ab41feb39493d707b99d9fa17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877887,
+            "region_id":85688599,
+            "venue_id":706686099
+        }
+    ],
+    "wof:id":706686099,
+    "wof:lastmodified":1461809524,
+    "wof:name":"Bobarino's",
+    "wof:parent_id":85877887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "seafood",
+        "burger",
+        "american",
+        "steakhouse",
+        "wrap",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.673109,
+    42.963739,
+    -85.673109,
+    42.963739
+],
+  "geometry": {"coordinates":[-85.673109,42.963739],"type":"Point"}
+}

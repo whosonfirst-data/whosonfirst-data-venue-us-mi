@@ -1,0 +1,69 @@
+{
+  "id": 689643015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.851397,42.649746,-82.851397,42.649746",
+    "geom:latitude":42.649746,
+    "geom:longitude":-82.851397,
+    "iso:country":"US",
+    "sg:address":"25110 Terra Industrial Dr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 598 9898",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HoMg2Z0cd4l7fNGZarhYU_42.649746_-82.851397@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777603,
+    "wof:geomhash":"f5708b2a7718534552a37c47199138f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":689643015
+        }
+    ],
+    "wof:id":689643015,
+    "wof:lastmodified":1461777603,
+    "wof:name":"Shelby Cab",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -82.851397,
+    42.649746,
+    -82.851397,
+    42.649746
+],
+  "geometry": {"coordinates":[-82.85139700000001,42.649746],"type":"Point"}
+}

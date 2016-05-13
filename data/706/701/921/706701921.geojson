@@ -1,0 +1,70 @@
+{
+  "id": 706701921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.907997,42.628799,-82.907997,42.628799",
+    "geom:latitude":42.628799,
+    "geom:longitude":-82.907997,
+    "iso:country":"US",
+    "sg:address":"20967 Hall Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 6220",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E8Mkd7OLLWZprv1OD1jyn_42.628799_-82.907997@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810154,
+    "wof:geomhash":"9441a0afebbd31aa6d36394ec4468897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706701921
+        }
+    ],
+    "wof:id":706701921,
+    "wof:lastmodified":1461810154,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -82.907997,
+    42.628799,
+    -82.907997,
+    42.628799
+],
+  "geometry": {"coordinates":[-82.90799699999999,42.628799],"type":"Point"}
+}

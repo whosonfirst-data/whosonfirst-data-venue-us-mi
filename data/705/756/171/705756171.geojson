@@ -1,0 +1,75 @@
+{
+  "id": 705756171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.297145,41.985248,-86.297145,41.985248",
+    "geom:latitude":41.985248,
+    "geom:longitude":-86.297145,
+    "iso:country":"US",
+    "sg:address":"6626 E Main St",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 6302",
+    "sg:postcode":"49111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hdi6GwTXliZ41l3ng5ZGP_41.985248_-86.297145@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788012,
+    "wof:geomhash":"55d6ef2de5a9a0c956d6362f006dc199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705756171
+        }
+    ],
+    "wof:id":705756171,
+    "wof:lastmodified":1461788012,
+    "wof:name":"Video Den",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.297145,
+    41.985248,
+    -86.297145,
+    41.985248
+],
+  "geometry": {"coordinates":[-86.297145,41.985248],"type":"Point"}
+}

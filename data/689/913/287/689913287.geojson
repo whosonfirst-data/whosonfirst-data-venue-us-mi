@@ -1,0 +1,76 @@
+{
+  "id": 689913287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.371322,42.672562,-83.371322,42.672562",
+    "geom:latitude":42.672562,
+    "geom:longitude":-83.371322,
+    "iso:country":"US",
+    "sg:address":"2150 Highfield Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 5174",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56COtfViranVnFe2FS3fyy_42.672562_-83.371322@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784939,
+    "wof:geomhash":"ff6b0e16c19e036c59690aef8c4b001b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689913287
+        }
+    ],
+    "wof:id":689913287,
+    "wof:lastmodified":1461784939,
+    "wof:name":"Community Sewer Cleaners",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.371322,
+    42.672562,
+    -83.371322,
+    42.672562
+],
+  "geometry": {"coordinates":[-83.37132200000001,42.672562],"type":"Point"}
+}

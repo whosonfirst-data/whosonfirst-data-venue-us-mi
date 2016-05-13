@@ -1,0 +1,69 @@
+{
+  "id": 706065097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627068,42.671288,-85.627068,42.671288",
+    "geom:latitude":42.671288,
+    "geom:longitude":-85.627068,
+    "iso:country":"US",
+    "sg:address":"602 Discovery Dr",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 3455",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pZZP3UYXlAec8X7Ch7JWN_42.671288_-85.627068@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794921,
+    "wof:geomhash":"d949c99f9679c8ad18782de3fdc478b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706065097
+        }
+    ],
+    "wof:id":706065097,
+    "wof:lastmodified":1461794921,
+    "wof:name":"S&S Cleaning",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.627068,
+    42.671288,
+    -85.627068,
+    42.671288
+],
+  "geometry": {"coordinates":[-85.62706799999999,42.671288],"type":"Point"}
+}

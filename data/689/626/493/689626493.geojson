@@ -1,0 +1,73 @@
+{
+  "id": 689626493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.570584,47.121209,-88.570584,47.121209",
+    "geom:latitude":47.121209,
+    "geom:longitude":-88.570584,
+    "iso:country":"US",
+    "sg:address":"304 E Montezuma Ave",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 487 5550",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgQ6SbJQ0ul19u21kA1yl_47.121209_-88.570584@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777071,
+    "wof:geomhash":"db3d7a6a3560cf8cd56783f00d65379c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689626493
+        }
+    ],
+    "wof:id":689626493,
+    "wof:lastmodified":1461777071,
+    "wof:name":"Gateway Car Wash & Coin Lnry",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.570584,
+    47.121209,
+    -88.570584,
+    47.121209
+],
+  "geometry": {"coordinates":[-88.570584,47.121209],"type":"Point"}
+}

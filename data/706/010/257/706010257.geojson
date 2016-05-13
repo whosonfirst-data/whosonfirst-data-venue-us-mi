@@ -1,0 +1,71 @@
+{
+  "id": 706010257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.440697,42.199102,-84.440697,42.199102",
+    "geom:latitude":42.199102,
+    "geom:longitude":-84.440697,
+    "iso:country":"US",
+    "sg:address":"2103 Horton Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 6500",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46NUKJPE1jnPu7lA6kuBHL_42.199102_-84.440697@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793797,
+    "wof:geomhash":"c601f26c6ed88bb666923b66f79635db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706010257
+        }
+    ],
+    "wof:id":706010257,
+    "wof:lastmodified":1461793797,
+    "wof:name":"Bob's Country Store",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -84.440697,
+    42.199102,
+    -84.440697,
+    42.199102
+],
+  "geometry": {"coordinates":[-84.440697,42.199102],"type":"Point"}
+}

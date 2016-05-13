@@ -1,0 +1,69 @@
+{
+  "id": 689807365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252076,41.79804,-86.252076,41.79804",
+    "geom:latitude":41.79804,
+    "geom:longitude":-86.252076,
+    "iso:country":"US",
+    "sg:address":"315 Bell Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 4269",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qU76KpAMojEe2nt5pVk9n_41.798040_-86.252076@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782105,
+    "wof:geomhash":"29b6c4f7dbafe3f4921498ada08798d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689807365
+        }
+    ],
+    "wof:id":689807365,
+    "wof:lastmodified":1461782105,
+    "wof:name":"River Valley Veterinary Clinic",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.252076,
+    41.79804,
+    -86.252076,
+    41.79804
+],
+  "geometry": {"coordinates":[-86.252076,41.79804],"type":"Point"}
+}

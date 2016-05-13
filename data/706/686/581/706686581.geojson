@@ -1,0 +1,78 @@
+{
+  "id": 706686581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579798,43.056967,-85.579798,43.056967",
+    "geom:latitude":43.056967,
+    "geom:longitude":-85.579798,
+    "iso:country":"US",
+    "sg:address":"5150 Northland Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plainfield/24112-jets-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 447 2555",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p4SYGImK9ywuGMT7jStHR_43.056967_-85.579798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809541,
+    "wof:geomhash":"da31933cc5b7875cfac090deb2ee8bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706686581
+        }
+    ],
+    "wof:id":706686581,
+    "wof:lastmodified":1461809541,
+    "wof:name":"Jet's Pizza",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.579798,
+    43.056967,
+    -85.579798,
+    43.056967
+],
+  "geometry": {"coordinates":[-85.579798,43.056967],"type":"Point"}
+}

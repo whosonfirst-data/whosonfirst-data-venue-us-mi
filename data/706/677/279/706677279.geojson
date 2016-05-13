@@ -1,0 +1,80 @@
+{
+  "id": 706677279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.486733,42.222095,-83.486733,42.222095",
+    "geom:latitude":42.222095,
+    "geom:longitude":-83.486733,
+    "iso:country":"US",
+    "sg:address":"45525 N Interstate 94 Service Dr",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/van-buren/40578-cracker-barrel-old-country-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 5299",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lrQ595PaIyPSBGok5fwoN_42.222095_-83.486733@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809174,
+    "wof:geomhash":"fdc51785de2092e258c7ecd6bdf875d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706677279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677279
+        }
+    ],
+    "wof:id":706677279,
+    "wof:lastmodified":1461809174,
+    "wof:name":"Cracker Barrel Old Country Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -83.486733,
+    42.222095,
+    -83.486733,
+    42.222095
+],
+  "geometry": {"coordinates":[-83.486733,42.222095],"type":"Point"}
+}

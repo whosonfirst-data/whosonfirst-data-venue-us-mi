@@ -1,0 +1,71 @@
+{
+  "id": 689915771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.129212,42.820941,-86.129212,42.820941",
+    "geom:latitude":42.820941,
+    "geom:longitude":-86.129212,
+    "iso:country":"US",
+    "sg:address":"753 Butternut Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 7110",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Rw0X7vuz5PGvShrecBit_42.820941_-86.129212@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785010,
+    "wof:geomhash":"032db0edaf4e3197b55720d5881983aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":689915771
+        }
+    ],
+    "wof:id":689915771,
+    "wof:lastmodified":1461785010,
+    "wof:name":"Timothy J Glupker DDS",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.129212,
+    42.820941,
+    -86.129212,
+    42.820941
+],
+  "geometry": {"coordinates":[-86.129212,42.820941],"type":"Point"}
+}

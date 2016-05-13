@@ -1,0 +1,69 @@
+{
+  "id": 689544769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.499658,42.415087,-83.499658,42.415087",
+    "geom:latitude":42.415087,
+    "geom:longitude":-83.499658,
+    "iso:country":"US",
+    "sg:address":"17890 Cranbrook Dr",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 349 3098",
+    "sg:postcode":"48168",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BtGNc2gFiH4wpOM22mScH_42.415087_-83.499658@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774524,
+    "wof:geomhash":"9cc6fa417032a3e8d77739d1e6385879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":689544769
+        }
+    ],
+    "wof:id":689544769,
+    "wof:lastmodified":1461774524,
+    "wof:name":"US Coin",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -83.499658,
+    42.415087,
+    -83.499658,
+    42.415087
+],
+  "geometry": {"coordinates":[-83.499658,42.415087],"type":"Point"}
+}

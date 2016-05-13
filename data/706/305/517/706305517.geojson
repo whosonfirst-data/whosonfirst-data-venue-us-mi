@@ -1,0 +1,73 @@
+{
+  "id": 706305517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.872639,42.605339,-82.872639,42.605339",
+    "geom:latitude":42.605339,
+    "geom:longitude":-82.872639,
+    "iso:country":"US",
+    "sg:address":"194 Clemens St",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 495 0225",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NXDaqDiLsfoJz3upYRve9_42.605339_-82.872639@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800420,
+    "wof:geomhash":"ab088d139d54c8e2f1d0049958a36834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706305517
+        }
+    ],
+    "wof:id":706305517,
+    "wof:lastmodified":1461800420,
+    "wof:name":"Edward's Locksmith Shop",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.872639,
+    42.605339,
+    -82.872639,
+    42.605339
+],
+  "geometry": {"coordinates":[-82.87263900000001,42.605339],"type":"Point"}
+}

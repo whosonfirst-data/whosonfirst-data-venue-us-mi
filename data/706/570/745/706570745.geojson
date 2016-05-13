@@ -1,0 +1,71 @@
+{
+  "id": 706570745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.295396,42.605824,-83.295396,42.605824",
+    "geom:latitude":42.605824,
+    "geom:longitude":-83.295396,
+    "iso:country":"US",
+    "sg:address":"2385 S Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 0650",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZrflLnAHqikkdbMwfmESd_42.605824_-83.295396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806075,
+    "wof:geomhash":"ac9056e6ea3fa6629fb3cd58dce62d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706570745
+        }
+    ],
+    "wof:id":706570745,
+    "wof:lastmodified":1461806075,
+    "wof:name":"Oil Well Towne II",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -83.295396,
+    42.605824,
+    -83.295396,
+    42.605824
+],
+  "geometry": {"coordinates":[-83.295396,42.605824],"type":"Point"}
+}

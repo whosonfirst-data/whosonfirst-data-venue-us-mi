@@ -1,0 +1,72 @@
+{
+  "id": 706678411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.542503,42.158602,-83.542503,42.158602",
+    "geom:latitude":42.158602,
+    "geom:longitude":-83.542503,
+    "iso:country":"US",
+    "sg:address":"10955 Willis Rd",
+    "sg:city":"Willis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/augusta/145877-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 461 2836",
+    "sg:postcode":"48191",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZZvVMh9y6gmBoDg8b6hUi_42.158602_-83.542503@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809223,
+    "wof:geomhash":"a1f88831d90b2258cd80c0e4b567eeb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678411
+        }
+    ],
+    "wof:id":706678411,
+    "wof:lastmodified":1461809223,
+    "wof:name":"Subway",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.542503,
+    42.158602,
+    -83.542503,
+    42.158602
+],
+  "geometry": {"coordinates":[-83.542503,42.158602],"type":"Point"}
+}

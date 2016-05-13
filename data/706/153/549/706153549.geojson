@@ -1,0 +1,71 @@
+{
+  "id": 706153549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.265592,43.296115,-86.265592,43.296115",
+    "geom:latitude":43.296115,
+    "geom:longitude":-86.265592,
+    "iso:country":"US",
+    "sg:address":"925 W River Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 2710",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wSHtrkozG5tmEf8ZoC5kM_43.296115_-86.265592@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797060,
+    "wof:geomhash":"adc458f38ff092107d74d2656757852f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706153549
+        }
+    ],
+    "wof:id":706153549,
+    "wof:lastmodified":1461797060,
+    "wof:name":"Richard A Shampo Services",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.265592,
+    43.296115,
+    -86.265592,
+    43.296115
+],
+  "geometry": {"coordinates":[-86.265592,43.296115],"type":"Point"}
+}

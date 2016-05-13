@@ -1,0 +1,71 @@
+{
+  "id": 689666113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.229254,41.818619,-86.229254,41.818619",
+    "geom:latitude":41.818619,
+    "geom:longitude":-86.229254,
+    "iso:country":"US",
+    "sg:address":"911 Margaret St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7766",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HN8T1QbHnuF8ba0onDyEI_41.818619_-86.229254@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778283,
+    "wof:geomhash":"d613cc271de9f897e74553d944f67438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689666113
+        }
+    ],
+    "wof:id":689666113,
+    "wof:lastmodified":1461778283,
+    "wof:name":"Pj's Puppy Day Care",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -86.229254,
+    41.818619,
+    -86.229254,
+    41.818619
+],
+  "geometry": {"coordinates":[-86.229254,41.818619],"type":"Point"}
+}

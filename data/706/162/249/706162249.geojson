@@ -1,0 +1,71 @@
+{
+  "id": 706162249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.383377,46.552456,-87.383377,46.552456",
+    "geom:latitude":46.552456,
+    "geom:longitude":-87.383377,
+    "iso:country":"US",
+    "sg:address":"1001 N Lakeshore Blvd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7361",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u9YpkQUkdcSciHLRGOtLB_46.552456_-87.383377@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797257,
+    "wof:geomhash":"fbd4c1030c26cc8ff546a0b7f0d3234c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706162249
+        }
+    ],
+    "wof:id":706162249,
+    "wof:lastmodified":1461797257,
+    "wof:name":"Marquette City Office",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -87.383377,
+    46.552456,
+    -87.383377,
+    46.552456
+],
+  "geometry": {"coordinates":[-87.383377,46.552456],"type":"Point"}
+}

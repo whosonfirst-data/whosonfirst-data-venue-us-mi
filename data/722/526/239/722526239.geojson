@@ -1,0 +1,73 @@
+{
+  "id": 722526239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589496,42.229546,-85.589496,42.229546",
+    "geom:latitude":42.229546,
+    "geom:longitude":-85.589496,
+    "iso:country":"US",
+    "sg:address":"6039 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 3636",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P6sdwsAYruMharPWg4nlC_42.229546_-85.589496@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814260,
+    "wof:geomhash":"ced5f3321b3774989da6f15871b61aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":722526239
+        }
+    ],
+    "wof:id":722526239,
+    "wof:lastmodified":1461814260,
+    "wof:name":"Kalamazoo Animal Hospital",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -85.589496,
+    42.229546,
+    -85.589496,
+    42.229546
+],
+  "geometry": {"coordinates":[-85.589496,42.229546],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 722482935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.086998,42.33758,-83.086998,42.33758",
+    "geom:latitude":42.33758,
+    "geom:longitude":-83.086998,
+    "iso:country":"US",
+    "sg:address":"2700 Martin Luther King Jr Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 494 6729",
+    "sg:postcode":"48208",
+    "sg:province":"MI",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870553,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qNz2uys4gDKhSHAHngztG_42.337580_-83.086998@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812403,
+    "wof:geomhash":"1db5903b15e6cb43e76d63f605be14e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870553,
+            "region_id":85688599,
+            "venue_id":722482935
+        }
+    ],
+    "wof:id":722482935,
+    "wof:lastmodified":1461812403,
+    "wof:name":"University of Detroit Mercy",
+    "wof:parent_id":85870553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -83.086998,
+    42.33758,
+    -83.086998,
+    42.33758
+],
+  "geometry": {"coordinates":[-83.08699799999999,42.33758],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689825125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220467,43.04654,-86.220467,43.04654",
+    "geom:latitude":43.04654,
+    "geom:longitude":-86.220467,
+    "iso:country":"US",
+    "sg:address":"1125 S Beacon Blvd",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 3080",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wP5o9pCWj8gk0seVBF7jd_43.046540_-86.220467@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782654,
+    "wof:geomhash":"2a809f2125cc635308bf26f0acc63b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":689825125
+        }
+    ],
+    "wof:id":689825125,
+    "wof:lastmodified":1461782654,
+    "wof:name":"Hungry Howies Pizza",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.220467,
+    43.04654,
+    -86.220467,
+    43.04654
+],
+  "geometry": {"coordinates":[-86.220467,43.04654],"type":"Point"}
+}

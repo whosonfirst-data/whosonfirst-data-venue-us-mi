@@ -1,0 +1,75 @@
+{
+  "id": 722474941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.487359,42.271541,-83.487359,42.271541",
+    "geom:latitude":42.271541,
+    "geom:longitude":-83.487359,
+    "iso:country":"US",
+    "sg:address":"45515 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 0261",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.timhortons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XApzG4wURaggq6Mqj0TuJ_42.271541_-83.487359@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812076,
+    "wof:geomhash":"040a58c22e50a2a6ab0662f685604bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474941
+        }
+    ],
+    "wof:id":722474941,
+    "wof:lastmodified":1461812076,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.487359,
+    42.271541,
+    -83.487359,
+    42.271541
+],
+  "geometry": {"coordinates":[-83.487359,42.271541],"type":"Point"}
+}

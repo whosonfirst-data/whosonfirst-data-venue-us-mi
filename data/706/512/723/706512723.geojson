@@ -1,0 +1,69 @@
+{
+  "id": 706512723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.39456,42.19316,-84.39456,42.19316",
+    "geom:latitude":42.19316,
+    "geom:longitude":-84.39456,
+    "iso:country":"US",
+    "sg:address":"105 5th St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 0822",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hYxLRlI8IUeZdHAHTfMWc_42.193160_-84.394560@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804898,
+    "wof:geomhash":"5054c7db1684cd29f9d0f360a1ba5a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706512723
+        }
+    ],
+    "wof:id":706512723,
+    "wof:lastmodified":1461804898,
+    "wof:name":"J & J Appliance Repair Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.39456,
+    42.19316,
+    -84.39456,
+    42.19316
+],
+  "geometry": {"coordinates":[-84.39456,42.19316],"type":"Point"}
+}

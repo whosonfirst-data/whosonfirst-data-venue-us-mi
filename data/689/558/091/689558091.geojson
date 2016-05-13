@@ -1,0 +1,73 @@
+{
+  "id": 689558091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.937148,43.059866,-85.937148,43.059866",
+    "geom:latitude":43.059866,
+    "geom:longitude":-85.937148,
+    "iso:country":"US",
+    "sg:address":"122 Eastmanville St",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 997 9005",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RBgShkhzU8lhUiI1fxM4g_43.059866_-85.937148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774975,
+    "wof:geomhash":"08cd6c312ad49a32c31fe7ca8a76073d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":689558091
+        }
+    ],
+    "wof:id":689558091,
+    "wof:lastmodified":1461774975,
+    "wof:name":"Independent Automotive Svc",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.937148,
+    43.059866,
+    -85.937148,
+    43.059866
+],
+  "geometry": {"coordinates":[-85.93714799999999,43.059866],"type":"Point"}
+}

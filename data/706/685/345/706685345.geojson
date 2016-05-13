@@ -1,0 +1,74 @@
+{
+  "id": 706685345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.771622,43.549234,-85.771622,43.549234",
+    "geom:latitude":43.549234,
+    "geom:longitude":-85.771622,
+    "iso:country":"US",
+    "sg:address":"267 S Charles St",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/white-cloud/146278-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 1864",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33iBXVQ7GBQphxqJVeLMuV_43.549234_-85.771622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"296a2a10ad0542c857cd884466dbdd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706685345
+        }
+    ],
+    "wof:id":706685345,
+    "wof:lastmodified":1461809497,
+    "wof:name":"Subway",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.771622,
+    43.549234,
+    -85.771622,
+    43.549234
+],
+  "geometry": {"coordinates":[-85.77162199999999,43.549234],"type":"Point"}
+}

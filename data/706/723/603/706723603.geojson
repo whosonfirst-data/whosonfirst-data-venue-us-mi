@@ -1,0 +1,69 @@
+{
+  "id": 706723603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.449585,42.249051,-83.449585,42.249051",
+    "geom:latitude":42.249051,
+    "geom:longitude":-83.449585,
+    "iso:country":"US",
+    "sg:address":"41873 Ecorse Rd Ste 260",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 957 9834",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aLkRZsCKztHYlHNtH0cYP_42.249051_-83.449585@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811135,
+    "wof:geomhash":"ff906e0185f4f1d2bc6a22453e83b152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":706723603
+        }
+    ],
+    "wof:id":706723603,
+    "wof:lastmodified":1461811135,
+    "wof:name":"Scholastic Book Fair",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -83.449585,
+    42.249051,
+    -83.449585,
+    42.249051
+],
+  "geometry": {"coordinates":[-83.449585,42.249051],"type":"Point"}
+}

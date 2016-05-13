@@ -1,0 +1,73 @@
+{
+  "id": 706268415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.968948,43.336549,-83.968948,43.336549",
+    "geom:latitude":43.336549,
+    "geom:longitude":-83.968948,
+    "iso:country":"US",
+    "sg:address":"5980 Mower Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 777 0205",
+    "sg:postcode":"48601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OnzefLjvE2uMrZznff4yD_43.336549_-83.968948@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799571,
+    "wof:geomhash":"e6023a2f2545cd9509cdc213d36e8045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706268415
+        }
+    ],
+    "wof:id":706268415,
+    "wof:lastmodified":1461799571,
+    "wof:name":"Gosen Trucking",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.968948,
+    43.336549,
+    -83.968948,
+    43.336549
+],
+  "geometry": {"coordinates":[-83.968948,43.336549],"type":"Point"}
+}

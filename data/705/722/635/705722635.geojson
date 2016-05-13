@@ -1,0 +1,73 @@
+{
+  "id": 705722635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.417404,42.123329,-86.417404,42.123329",
+    "geom:latitude":42.123329,
+    "geom:longitude":-86.417404,
+    "iso:country":"US",
+    "sg:address":"555 N Crystal Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 3958",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F8FNHP3AycvFM9rjx2ATR_42.123329_-86.417404@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787225,
+    "wof:geomhash":"cf7c6bb2640483858bd6f2719916b5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705722635
+        }
+    ],
+    "wof:id":705722635,
+    "wof:lastmodified":1461787225,
+    "wof:name":"Benton Township Fire Dept",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.417404,
+    42.123329,
+    -86.417404,
+    42.123329
+],
+  "geometry": {"coordinates":[-86.417404,42.123329],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 722495111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.051326,42.336944,-83.051326,42.336944",
+    "geom:latitude":42.336944,
+    "geom:longitude":-83.051326,
+    "iso:country":"US",
+    "sg:address":"28 W Adams Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 961 3209",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "saving",
+        "mortgage",
+        "loan",
+        "commercial",
+        "broker",
+        "banking",
+        "internet"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866989,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ou4uSMPowRvDFwCNIkoZY_42.336944_-83.051326@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812891,
+    "wof:geomhash":"188e9af30b1afd768398356794b2b59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85866989,
+            "region_id":85688599,
+            "venue_id":722495111
+        }
+    ],
+    "wof:id":722495111,
+    "wof:lastmodified":1461812891,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85866989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "mortgage",
+        "loan",
+        "commercial",
+        "broker",
+        "banking",
+        "internet"
+    ]
+},
+  "bbox": [
+    -83.051326,
+    42.336944,
+    -83.051326,
+    42.336944
+],
+  "geometry": {"coordinates":[-83.051326,42.336944],"type":"Point"}
+}

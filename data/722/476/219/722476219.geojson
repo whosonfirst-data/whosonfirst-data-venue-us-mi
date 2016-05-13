@@ -1,0 +1,78 @@
+{
+  "id": 722476219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.185923,42.170622,-83.185923,42.170622",
+    "geom:latitude":42.170622,
+    "geom:longitude":-83.185923,
+    "iso:country":"US",
+    "sg:address":"18799 Koester",
+    "sg:city":"Riverview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 658 5689",
+    "sg:postcode":"48193",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85867977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PkSZ8cVBx9rE0Jf9Km6WG_42.170622_-83.185923@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812126,
+    "wof:geomhash":"ec2dc9c34bc049fc326d7c12d9e822d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85867977,
+            "region_id":85688599,
+            "venue_id":722476219
+        }
+    ],
+    "wof:id":722476219,
+    "wof:lastmodified":1461812126,
+    "wof:name":"Red Dog Electric LLC",
+    "wof:parent_id":85867977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.185923,
+    42.170622,
+    -83.185923,
+    42.170622
+],
+  "geometry": {"coordinates":[-83.185923,42.170622],"type":"Point"}
+}

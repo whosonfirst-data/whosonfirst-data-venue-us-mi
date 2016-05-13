@@ -1,0 +1,86 @@
+{
+  "id": 722497501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.910103,42.382999,-82.910103,42.382999",
+    "geom:latitude":42.382999,
+    "geom:longitude":-82.910103,
+    "iso:country":"US",
+    "sg:address":"17111 E Jefferson Ave",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 882 2500",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QR600JfmkeNWsSnb2WoT5_42.382999_-82.910103@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812977,
+    "wof:geomhash":"7bada45a89ad457f02b3e38e672a36be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":722497501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722497501
+        }
+    ],
+    "wof:id":722497501,
+    "wof:lastmodified":1461812977,
+    "wof:name":"Jefferson Apartments Condominium Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.910103,
+    42.382999,
+    -82.910103,
+    42.382999
+],
+  "geometry": {"coordinates":[-82.91010300000001,42.382999],"type":"Point"}
+}

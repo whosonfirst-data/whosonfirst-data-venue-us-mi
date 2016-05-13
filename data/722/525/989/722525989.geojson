@@ -1,0 +1,77 @@
+{
+  "id": 722525989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.543304,42.246701,-85.543304,42.246701",
+    "geom:latitude":42.246701,
+    "geom:longitude":-85.543304,
+    "iso:country":"US",
+    "sg:address":"4301 Manchester Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 1336",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "sg:website":"http://www.interstatebakeriescorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DXB8qbuJ5jN7rmTOrBNN3_42.246701_-85.543304@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814251,
+    "wof:geomhash":"4fd851645c770899be5beceeaa3920c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":722525989
+        }
+    ],
+    "wof:id":722525989,
+    "wof:lastmodified":1461814251,
+    "wof:name":"Wonder",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -85.543304,
+    42.246701,
+    -85.543304,
+    42.246701
+],
+  "geometry": {"coordinates":[-85.54330400000001,42.246701],"type":"Point"}
+}

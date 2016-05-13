@@ -1,0 +1,71 @@
+{
+  "id": 689552465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244104,43.231584,-86.244104,43.231584",
+    "geom:latitude":43.231584,
+    "geom:longitude":-86.244104,
+    "iso:country":"US",
+    "sg:address":"1173 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 722 2279",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V2sTgdmlVE8sbMR6BqH7T_43.231584_-86.244104@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774790,
+    "wof:geomhash":"20d346ff27f0c4665118a65428a14878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689552465
+        }
+    ],
+    "wof:id":689552465,
+    "wof:lastmodified":1461774790,
+    "wof:name":"Phillip M Mulder DDS",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.244104,
+    43.231584,
+    -86.244104,
+    43.231584
+],
+  "geometry": {"coordinates":[-86.24410399999999,43.231584],"type":"Point"}
+}

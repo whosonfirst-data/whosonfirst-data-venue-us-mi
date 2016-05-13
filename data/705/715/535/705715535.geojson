@@ -1,0 +1,71 @@
+{
+  "id": 705715535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224281,43.062825,-86.224281,43.062825",
+    "geom:latitude":43.062825,
+    "geom:longitude":-86.224281,
+    "iso:country":"US",
+    "sg:address":"15 N 6th St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 2299",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ecdaTGFq9FPq4YE5ku4C7_43.062825_-86.224281@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787055,
+    "wof:geomhash":"f7355108b6d2334b882d3e8c8cff3745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705715535
+        }
+    ],
+    "wof:id":705715535,
+    "wof:lastmodified":1461787055,
+    "wof:name":"Central Dispatch",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency"
+    ]
+},
+  "bbox": [
+    -86.224281,
+    43.062825,
+    -86.224281,
+    43.062825
+],
+  "geometry": {"coordinates":[-86.224281,43.062825],"type":"Point"}
+}

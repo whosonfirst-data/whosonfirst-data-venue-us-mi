@@ -1,0 +1,80 @@
+{
+  "id": 689836267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.343535,42.56901,-83.343535,42.56901",
+    "geom:latitude":42.56901,
+    "geom:longitude":-83.343535,
+    "iso:country":"US",
+    "sg:address":"4812 Park Hill Ct",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 538 7604",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "sg:website":"www.wwmsmi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5trRu3gsbhsjgOtXoAPTVr_42.569010_-83.343535@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783025,
+    "wof:geomhash":"0e25f9fdbe92d1c21f7bfef0339a71f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689836267
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":689836267
+        }
+    ],
+    "wof:id":689836267,
+    "wof:lastmodified":1461783025,
+    "wof:name":"World Wide Medical Staffing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -83.343535,
+    42.56901,
+    -83.343535,
+    42.56901
+],
+  "geometry": {"coordinates":[-83.343535,42.56901],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705979577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.382051,44.236899,-85.382051,44.236899",
+    "geom:latitude":44.236899,
+    "geom:longitude":-85.382051,
+    "iso:country":"US",
+    "sg:address":"7020 Whaley Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 0655",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40mU0nWHb4prnla3fC4OqG_44.236899_-85.382051@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793161,
+    "wof:geomhash":"1fe789a140e1615d0e8958bf8be45ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705979577
+        }
+    ],
+    "wof:id":705979577,
+    "wof:lastmodified":1461793161,
+    "wof:name":"Whaley Road Veterinary Hosp",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.382051,
+    44.236899,
+    -85.382051,
+    44.236899
+],
+  "geometry": {"coordinates":[-85.382051,44.236899],"type":"Point"}
+}

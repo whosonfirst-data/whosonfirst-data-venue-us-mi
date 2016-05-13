@@ -1,0 +1,93 @@
+{
+  "id": 706678709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.968908,42.449773,-82.968908,42.449773",
+    "geom:latitude":42.449773,
+    "geom:longitude":-82.968908,
+    "iso:country":"US",
+    "sg:address":"14900 E 8 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/133215-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 521 8196",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870569,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ws0cuK6E33AhIndkzXyVA_42.449773_-82.968908@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809234,
+    "wof:geomhash":"065e108144a6cb824c464cfb28bcede2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870569,
+            "region_id":85688599,
+            "venue_id":706678709
+        }
+    ],
+    "wof:id":706678709,
+    "wof:lastmodified":1461809234,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85870569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -82.968908,
+    42.449773,
+    -82.968908,
+    42.449773
+],
+  "geometry": {"coordinates":[-82.968908,42.449773],"type":"Point"}
+}

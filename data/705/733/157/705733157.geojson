@@ -1,0 +1,73 @@
+{
+  "id": 705733157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.939924,43.465935,-85.939924,43.465935",
+    "geom:latitude":43.465935,
+    "geom:longitude":-85.939924,
+    "iso:country":"US",
+    "sg:address":"130 S Stewart Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 5321",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HKpp4t67RgNQCSa1CAVyy_43.465935_-85.939924@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787488,
+    "wof:geomhash":"3233884facf102c38d0d774b7874a548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705733157
+        }
+    ],
+    "wof:id":705733157,
+    "wof:lastmodified":1461787488,
+    "wof:name":"Schmidt Dental Lab Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -85.939924,
+    43.465935,
+    -85.939924,
+    43.465935
+],
+  "geometry": {"coordinates":[-85.939924,43.465935],"type":"Point"}
+}

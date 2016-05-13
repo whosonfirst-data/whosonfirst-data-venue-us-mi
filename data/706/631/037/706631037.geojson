@@ -1,0 +1,86 @@
+{
+  "id": 706631037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645928,42.2962,-85.645928,42.2962",
+    "geom:latitude":42.2962,
+    "geom:longitude":-85.645928,
+    "iso:country":"US",
+    "sg:address":"4425 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 9287",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857213,
+        102191575,
+        404507689,
+        85633793,
+        85952107,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45mPxNsjIiiyfBwwjiIWA8_42.296200_-85.645928@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807390,
+    "wof:geomhash":"d637cd79205cc1d03c7399a76835d227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507689,
+            "locality_id":85952107,
+            "neighbourhood_id":85857213,
+            "region_id":85688599,
+            "venue_id":706631037
+        }
+    ],
+    "wof:id":706631037,
+    "wof:lastmodified":1461807390,
+    "wof:name":"Hearing Zone Inc",
+    "wof:parent_id":85857213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -85.645928,
+    42.2962,
+    -85.645928,
+    42.2962
+],
+  "geometry": {"coordinates":[-85.645928,42.2962],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706174581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.870106,42.556909,-82.870106,42.556909",
+    "geom:latitude":42.556909,
+    "geom:longitude":-82.870106,
+    "iso:country":"US",
+    "sg:address":"35090 Harper Ave",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 5000",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43mQFCRLXifjQGEiTcXkXI_42.556909_-82.870106@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797523,
+    "wof:geomhash":"20754e9d45e24beb818ccdeedaf6196a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706174581
+        }
+    ],
+    "wof:id":706174581,
+    "wof:lastmodified":1461797523,
+    "wof:name":"King's Towing Svc",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.870106,
+    42.556909,
+    -82.870106,
+    42.556909
+],
+  "geometry": {"coordinates":[-82.87010600000001,42.556909],"type":"Point"}
+}

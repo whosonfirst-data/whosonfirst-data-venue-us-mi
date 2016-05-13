@@ -1,0 +1,87 @@
+{
+  "id": 706710091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.208199,42.4683,-83.208199,42.4683",
+    "geom:latitude":42.4683,
+    "geom:longitude":-83.208199,
+    "iso:country":"US",
+    "sg:address":"16201 Harden Cir",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 557 7985",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896735,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fa1FHLRwYw0GI8LQtr9lU_42.468300_-83.208199@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810507,
+    "wof:geomhash":"8d040bdc643e9908cf8eef91f75d1d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":85896735,
+            "region_id":85688599,
+            "venue_id":706710091
+        }
+    ],
+    "wof:id":706710091,
+    "wof:lastmodified":1461810507,
+    "wof:name":"Mason Day Care",
+    "wof:parent_id":85896735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.208199,
+    42.4683,
+    -83.208199,
+    42.4683
+],
+  "geometry": {"coordinates":[-83.20819899999999,42.4683],"type":"Point"}
+}

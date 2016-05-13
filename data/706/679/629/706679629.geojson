@@ -1,0 +1,80 @@
+{
+  "id": 706679629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.131639,42.637795,-83.131639,42.637795",
+    "geom:latitude":42.637795,
+    "geom:longitude":-83.131639,
+    "iso:country":"US",
+    "sg:address":"2921 S Rochester Rd",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester-hills/103138-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 853 5722",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896787,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m5hjiVe6YsGRLdsIVJSjz_42.637795_-83.131639@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809267,
+    "wof:geomhash":"2c402598d0356e7068968a28e1a2b5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896787,
+            "region_id":85688599,
+            "venue_id":706679629
+        }
+    ],
+    "wof:id":706679629,
+    "wof:lastmodified":1461809267,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85896787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.131639,
+    42.637795,
+    -83.131639,
+    42.637795
+],
+  "geometry": {"coordinates":[-83.13163900000001,42.637795],"type":"Point"}
+}

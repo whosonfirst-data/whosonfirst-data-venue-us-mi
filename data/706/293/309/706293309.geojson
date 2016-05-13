@@ -1,0 +1,73 @@
+{
+  "id": 706293309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.1135,43.234752,-86.1135,43.234752",
+    "geom:latitude":43.234752,
+    "geom:longitude":-86.1135,
+    "iso:country":"US",
+    "sg:address":"5363 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 2176",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wtgf40pz6cBiYvqjR2BK_43.234752_-86.113500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800159,
+    "wof:geomhash":"9c079712a49a1901ceb22e0c0bfe3fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706293309
+        }
+    ],
+    "wof:id":706293309,
+    "wof:lastmodified":1461800159,
+    "wof:name":"Den & Don's Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.1135,
+    43.234752,
+    -86.1135,
+    43.234752
+],
+  "geometry": {"coordinates":[-86.1135,43.234752],"type":"Point"}
+}

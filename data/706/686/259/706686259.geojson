@@ -1,0 +1,95 @@
+{
+  "id": 706686259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632948,42.955268,-85.632948,42.955268",
+    "geom:latitude":42.955268,
+    "geom:longitude":-85.632948,
+    "iso:country":"US",
+    "sg:address":"410 Ethel Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50823-eastown-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 233 0797",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HggnNmJzpS5XFHyNCOwLX_42.955268_-85.632948@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809529,
+    "wof:geomhash":"6754284a74580a71657bc8eb3dd1623a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706686259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":706686259
+        }
+    ],
+    "wof:id":706686259,
+    "wof:lastmodified":1461809529,
+    "wof:name":"Eastown Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -85.632948,
+    42.955268,
+    -85.632948,
+    42.955268
+],
+  "geometry": {"coordinates":[-85.632948,42.955268],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 706383625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.950747,42.972155,-85.950747,42.972155",
+    "geom:latitude":42.972155,
+    "geom:longitude":-85.950747,
+    "iso:country":"US",
+    "sg:address":"6660 Lake Michigan Dr",
+    "sg:city":"Allendale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 895 7500",
+    "sg:postcode":"49401",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837375,
+        102191575,
+        404508423,
+        85633793,
+        85952117,
+        102083097,
+        85688599,
+        85841015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66JFow6L7wv6JugIL89nqM_42.972155_-85.950747@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802083,
+    "wof:geomhash":"7d33aefa1b183543b1ef64f913a9f86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083097,
+            "localadmin_id":404508423,
+            "locality_id":85952117,
+            "neighbourhood_id":85837375,
+            "region_id":85688599,
+            "venue_id":706383625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083097,
+            "localadmin_id":404508423,
+            "locality_id":85952117,
+            "neighbourhood_id":85841015,
+            "region_id":85688599,
+            "venue_id":706383625
+        }
+    ],
+    "wof:id":706383625,
+    "wof:lastmodified":1461802083,
+    "wof:name":"Tolman Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.950747,
+    42.972155,
+    -85.950747,
+    42.972155
+],
+  "geometry": {"coordinates":[-85.95074700000001,42.972155],"type":"Point"}
+}

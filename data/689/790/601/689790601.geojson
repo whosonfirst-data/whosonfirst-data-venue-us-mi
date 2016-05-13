@@ -1,0 +1,73 @@
+{
+  "id": 689790601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.403967,42.24227,-84.403967,42.24227",
+    "geom:latitude":42.24227,
+    "geom:longitude":-84.403967,
+    "iso:country":"US",
+    "sg:address":"612 Francis St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 5912",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCIWNep9PenTdYfSV53gs_42.242270_-84.403967@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781552,
+    "wof:geomhash":"392af8886edc07f8d872fc7be4fab0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689790601
+        }
+    ],
+    "wof:id":689790601,
+    "wof:lastmodified":1461781552,
+    "wof:name":"Auto Hobby Shop",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.403967,
+    42.24227,
+    -84.403967,
+    42.24227
+],
+  "geometry": {"coordinates":[-84.40396699999999,42.24227],"type":"Point"}
+}

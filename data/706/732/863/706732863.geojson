@@ -1,0 +1,71 @@
+{
+  "id": 706732863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4021,42.377102,-83.4021,42.377102",
+    "geom:latitude":42.377102,
+    "geom:longitude":-83.4021,
+    "iso:country":"US",
+    "sg:address":"12855 Levan Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 591 0505",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TPCPbnhB9y5npnGmQqbE5_42.377102_-83.402100@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811526,
+    "wof:geomhash":"40c53fe7cea8e085b540a85c600ebde9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706732863
+        }
+    ],
+    "wof:id":706732863,
+    "wof:lastmodified":1461811526,
+    "wof:name":"Gales Body Shop",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.4021,
+    42.377102,
+    -83.4021,
+    42.377102
+],
+  "geometry": {"coordinates":[-83.4021,42.377102],"type":"Point"}
+}

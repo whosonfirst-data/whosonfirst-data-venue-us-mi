@@ -1,0 +1,71 @@
+{
+  "id": 689843101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.443463,43.007189,-82.443463,43.007189",
+    "geom:latitude":43.007189,
+    "geom:longitude":-82.443463,
+    "iso:country":"US",
+    "sg:address":"2932 Pine Grove Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 982 2000",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bM0I0mcE96RzEIWFAknpJ_43.007189_-82.443463@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783172,
+    "wof:geomhash":"8cf761949037eb8743bb1069db180be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":689843101
+        }
+    ],
+    "wof:id":689843101,
+    "wof:lastmodified":1461783172,
+    "wof:name":"Richard Odgers DDS PC",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.443463,
+    43.007189,
+    -82.443463,
+    43.007189
+],
+  "geometry": {"coordinates":[-82.44346299999999,43.007189],"type":"Point"}
+}

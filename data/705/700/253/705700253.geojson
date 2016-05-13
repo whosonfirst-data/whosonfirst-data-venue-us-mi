@@ -1,0 +1,71 @@
+{
+  "id": 705700253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.068552,45.811437,-88.068552,45.811437",
+    "geom:latitude":45.811437,
+    "geom:longitude":-88.068552,
+    "iso:country":"US",
+    "sg:address":"1200 Carpenter Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 1145",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tBDFaL1UPQt8LkpKfGLiU_45.811437_-88.068552@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786535,
+    "wof:geomhash":"cf090ad47417a5fd61da6a269a902006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705700253
+        }
+    ],
+    "wof:id":705700253,
+    "wof:lastmodified":1461786535,
+    "wof:name":"Step Ahead",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.068552,
+    45.811437,
+    -88.068552,
+    45.811437
+],
+  "geometry": {"coordinates":[-88.068552,45.811437],"type":"Point"}
+}

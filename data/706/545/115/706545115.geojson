@@ -1,0 +1,74 @@
+{
+  "id": 706545115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.422305,41.909004,-83.422305,41.909004",
+    "geom:latitude":41.909004,
+    "geom:longitude":-83.422305,
+    "iso:country":"US",
+    "sg:address":"1130 S Telegraph Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 2919",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "locomotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cUBs3h5iiVgRpCsYYnhIa_41.909004_-83.422305@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805561,
+    "wof:geomhash":"4aa449218c9714bff9045206070c38cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706545115
+        }
+    ],
+    "wof:id":706545115,
+    "wof:lastmodified":1461805561,
+    "wof:name":"Womack Inc",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locomotive"
+    ]
+},
+  "bbox": [
+    -83.422305,
+    41.909004,
+    -83.422305,
+    41.909004
+],
+  "geometry": {"coordinates":[-83.42230499999999,41.909004],"type":"Point"}
+}

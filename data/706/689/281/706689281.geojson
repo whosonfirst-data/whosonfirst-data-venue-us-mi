@@ -1,0 +1,83 @@
+{
+  "id": 706689281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689035,43.020846,-85.689035,43.020846",
+    "geom:latitude":43.020846,
+    "geom:longitude":-85.689035,
+    "iso:country":"US",
+    "sg:address":"3150 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/walker/59144-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 647 3500",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hee14ZNadXpjiINwG0RFy_43.020241_-85.688943@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809643,
+    "wof:geomhash":"ccf467b104028d2b637cf3394143b310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706689281
+        }
+    ],
+    "wof:id":706689281,
+    "wof:lastmodified":1461809643,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -85.689035,
+    43.020846,
+    -85.689035,
+    43.020846
+],
+  "geometry": {"coordinates":[-85.689035,43.020846],"type":"Point"}
+}

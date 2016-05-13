@@ -1,0 +1,75 @@
+{
+  "id": 706303639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.587902,42.680926,-82.587902,42.680926",
+    "geom:latitude":42.680926,
+    "geom:longitude":-82.587902,
+    "iso:country":"US",
+    "sg:address":"7504 Starville Rd",
+    "sg:city":"Cottrellville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 765 6889",
+    "sg:postcode":"48039",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951529,
+        102083053,
+        85842569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JHvyjNzBQZeYHvOknCSG2_42.680926_-82.587902@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800384,
+    "wof:geomhash":"09575c12d87d9d98156ce77a6df0a960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951529,
+            "neighbourhood_id":85842569,
+            "region_id":85688599,
+            "venue_id":706303639
+        }
+    ],
+    "wof:id":706303639,
+    "wof:lastmodified":1461800384,
+    "wof:name":"Orchard Atm",
+    "wof:parent_id":85842569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -82.587902,
+    42.680926,
+    -82.587902,
+    42.680926
+],
+  "geometry": {"coordinates":[-82.587902,42.680926],"type":"Point"}
+}

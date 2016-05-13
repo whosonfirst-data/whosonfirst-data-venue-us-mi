@@ -1,0 +1,71 @@
+{
+  "id": 689773799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.975463,43.410069,-83.975463,43.410069",
+    "geom:latitude":43.410069,
+    "geom:longitude":-83.975463,
+    "iso:country":"US",
+    "sg:address":"1321 S Fayette St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 8000",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "agency",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xzZ3GPuMWJ5m73R87JL5Z_43.410069_-83.975463@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781097,
+    "wof:geomhash":"a3779afc3af3489edce1fc3095117108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689773799
+        }
+    ],
+    "wof:id":689773799,
+    "wof:lastmodified":1461781097,
+    "wof:name":"Kairos Healthcare",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -83.975463,
+    43.410069,
+    -83.975463,
+    43.410069
+],
+  "geometry": {"coordinates":[-83.975463,43.410069],"type":"Point"}
+}

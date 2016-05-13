@@ -1,0 +1,71 @@
+{
+  "id": 689475007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.349149,42.734458,-83.349149,42.734458",
+    "geom:latitude":42.734458,
+    "geom:longitude":-83.349149,
+    "iso:country":"US",
+    "sg:address":"4919 Waldon Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 391 3081",
+    "sg:postcode":"48348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FyV9OxPOSLxjFIkcs45pk_42.734458_-83.349149@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772376,
+    "wof:geomhash":"15ed75611e47f3d1f1c081bf6ecc2bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689475007
+        }
+    ],
+    "wof:id":689475007,
+    "wof:lastmodified":1461772376,
+    "wof:name":"Turner Dental Lab",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.349149,
+    42.734458,
+    -83.349149,
+    42.734458
+],
+  "geometry": {"coordinates":[-83.349149,42.734458],"type":"Point"}
+}

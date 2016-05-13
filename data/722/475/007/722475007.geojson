@@ -1,0 +1,71 @@
+{
+  "id": 722475007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4711,42.275799,-83.4711,42.275799",
+    "geom:latitude":42.275799,
+    "geom:longitude":-83.4711,
+    "iso:country":"US",
+    "sg:address":"44116 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 1270",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69mdHHZwZwKXcPQoL3mBmU_42.275799_-83.471100@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812079,
+    "wof:geomhash":"aea2ae3b994b61d877ee5a2e442bce64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722475007
+        }
+    ],
+    "wof:id":722475007,
+    "wof:lastmodified":1461812079,
+    "wof:name":"Auto Craft Collision",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.4711,
+    42.275799,
+    -83.4711,
+    42.275799
+],
+  "geometry": {"coordinates":[-83.47110000000001,42.275799],"type":"Point"}
+}

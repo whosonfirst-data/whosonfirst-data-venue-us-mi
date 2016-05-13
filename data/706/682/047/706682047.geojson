@@ -1,0 +1,77 @@
+{
+  "id": 706682047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.915487,43.592235,-83.915487,43.592235",
+    "geom:latitude":43.592235,
+    "geom:longitude":-83.915487,
+    "iso:country":"US",
+    "sg:address":"901 S Euclid Ave",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bay-city/186122-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524233,
+        102191575,
+        404506795,
+        85633793,
+        85951273,
+        102083135,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51FyyP4PXz7AYIHJbympQI_43.592235_-83.915487@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809365,
+    "wof:geomhash":"b3f51c28c39c9cfb09bc7c84b0944e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":706682047
+        }
+    ],
+    "wof:id":706682047,
+    "wof:lastmodified":1461809365,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420524233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.915487,
+    43.592235,
+    -83.915487,
+    43.592235
+],
+  "geometry": {"coordinates":[-83.915487,43.592235],"type":"Point"}
+}

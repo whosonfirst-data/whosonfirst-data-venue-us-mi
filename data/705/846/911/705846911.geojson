@@ -1,0 +1,71 @@
+{
+  "id": 705846911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.555903,42.303305,-85.555903,42.303305",
+    "geom:latitude":42.303305,
+    "geom:longitude":-85.555903,
+    "iso:country":"US",
+    "sg:address":"1913 Humphrey St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 8828",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CKg2bai2GesSgxkWIcBks_42.303305_-85.555903@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790105,
+    "wof:geomhash":"8904388699ab9e41b3bd7bb147e555f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":705846911
+        }
+    ],
+    "wof:id":705846911,
+    "wof:lastmodified":1461790105,
+    "wof:name":"Island Catering",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.555903,
+    42.303305,
+    -85.555903,
+    42.303305
+],
+  "geometry": {"coordinates":[-85.555903,42.303305],"type":"Point"}
+}

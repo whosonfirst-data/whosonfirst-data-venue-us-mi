@@ -1,0 +1,71 @@
+{
+  "id": 706274391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.659314,42.245045,-83.659314,42.245045",
+    "geom:latitude":42.245045,
+    "geom:longitude":-83.659314,
+    "iso:country":"US",
+    "sg:address":"3150 Packard Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 434 5011",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ggQ3tTorrWI8Liv6eoTTI_42.245045_-83.659314@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799714,
+    "wof:geomhash":"298801ae7ea9a53ab98327da49330b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":706274391
+        }
+    ],
+    "wof:id":706274391,
+    "wof:lastmodified":1461799714,
+    "wof:name":"Michigan Oral Surgeons Office",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -83.659314,
+    42.245045,
+    -83.659314,
+    42.245045
+],
+  "geometry": {"coordinates":[-83.65931399999999,42.245045],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689608325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51786,42.700177,-84.51786,42.700177",
+    "geom:latitude":42.700177,
+    "geom:longitude":-84.51786,
+    "iso:country":"US",
+    "sg:address":"3009 Scarborough Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 394 5942",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1waM8hUOecAQdzo529JxDK_42.700177_-84.517860@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776549,
+    "wof:geomhash":"c51dc693317aea31ee9e8234e1200256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689608325
+        }
+    ],
+    "wof:id":689608325,
+    "wof:lastmodified":1461776549,
+    "wof:name":"Tony Grant Painting Co",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.51786,
+    42.700177,
+    -84.51786,
+    42.700177
+],
+  "geometry": {"coordinates":[-84.51786,42.700177],"type":"Point"}
+}

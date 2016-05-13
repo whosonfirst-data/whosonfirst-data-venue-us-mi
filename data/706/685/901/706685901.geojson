@@ -1,0 +1,71 @@
+{
+  "id": 706685901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.202755,43.154156,-86.202755,43.154156",
+    "geom:latitude":43.154156,
+    "geom:longitude":-86.202755,
+    "iso:country":"US",
+    "sg:address":"1696 E Sternberg Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fruitport/185809-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SVlS8DWUDPBUHHlt3FaTR_43.154156_-86.202755@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809517,
+    "wof:geomhash":"eb56b2aae4b23f7300ca7ac21d01321e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706685901
+        }
+    ],
+    "wof:id":706685901,
+    "wof:lastmodified":1461809517,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.202755,
+    43.154156,
+    -86.202755,
+    43.154156
+],
+  "geometry": {"coordinates":[-86.202755,43.154156],"type":"Point"}
+}

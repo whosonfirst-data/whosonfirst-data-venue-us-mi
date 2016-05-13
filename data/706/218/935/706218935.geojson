@@ -1,0 +1,73 @@
+{
+  "id": 706218935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.34182,43.412085,-86.34182,43.412085",
+    "geom:latitude":43.412085,
+    "geom:longitude":-86.34182,
+    "iso:country":"US",
+    "sg:address":"620 E River St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 4150",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M7hOCdtn2gRNnnHHX6XOo_43.412085_-86.341820@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798483,
+    "wof:geomhash":"99958633694851ce1d5bd9216f822af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706218935
+        }
+    ],
+    "wof:id":706218935,
+    "wof:lastmodified":1461798483,
+    "wof:name":"River Street Home",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.34182,
+    43.412085,
+    -86.34182,
+    43.412085
+],
+  "geometry": {"coordinates":[-86.34182,43.412085],"type":"Point"}
+}

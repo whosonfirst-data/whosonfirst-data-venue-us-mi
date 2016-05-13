@@ -1,0 +1,73 @@
+{
+  "id": 689876405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.262872,43.213532,-86.262872,43.213532",
+    "geom:latitude":43.213532,
+    "geom:longitude":-86.262872,
+    "iso:country":"US",
+    "sg:address":"2190 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 7368",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S8bMoyO4Hi1sk3X94KBb7_43.213532_-86.262872@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783953,
+    "wof:geomhash":"4e356907731797de643ed4f5ac5aab78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689876405
+        }
+    ],
+    "wof:id":689876405,
+    "wof:lastmodified":1461783953,
+    "wof:name":"Cooper Rent A Car",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.262872,
+    43.213532,
+    -86.262872,
+    43.213532
+],
+  "geometry": {"coordinates":[-86.262872,43.213532],"type":"Point"}
+}

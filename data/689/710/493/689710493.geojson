@@ -1,0 +1,69 @@
+{
+  "id": 689710493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599269,42.741163,-84.599269,42.741163",
+    "geom:latitude":42.741163,
+    "geom:longitude":-84.599269,
+    "iso:country":"US",
+    "sg:address":"3526 W Saginaw St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 321 2539",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807273,
+        102083649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aaBE1zRb1jut5tMu1brNE_42.741163_-84.599269@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779416,
+    "wof:geomhash":"c9c39845dcdbd128f712ce5bd5d78c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "neighbourhood_id":85807273,
+            "region_id":85688599,
+            "venue_id":689710493
+        }
+    ],
+    "wof:id":689710493,
+    "wof:lastmodified":1461779416,
+    "wof:name":"Gentle Dental Care",
+    "wof:parent_id":85807273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.599269,
+    42.741163,
+    -84.599269,
+    42.741163
+],
+  "geometry": {"coordinates":[-84.59926900000001,42.741163],"type":"Point"}
+}

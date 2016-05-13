@@ -1,0 +1,69 @@
+{
+  "id": 689845091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417356,42.261582,-84.417356,42.261582",
+    "geom:latitude":42.261582,
+    "geom:longitude":-84.417356,
+    "iso:country":"US",
+    "sg:address":"1000 Lansing Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 5580",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VDdrcpIzhYtvsHVzzdMHU_42.261582_-84.417356@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783212,
+    "wof:geomhash":"bb22f5ff1a7d25d941f2bdcacea0262b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689845091
+        }
+    ],
+    "wof:id":689845091,
+    "wof:lastmodified":1461783212,
+    "wof:name":"Hawley Catering",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.417356,
+    42.261582,
+    -84.417356,
+    42.261582
+],
+  "geometry": {"coordinates":[-84.417356,42.261582],"type":"Point"}
+}

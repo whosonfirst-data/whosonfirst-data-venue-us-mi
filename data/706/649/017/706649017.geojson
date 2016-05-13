@@ -1,0 +1,69 @@
+{
+  "id": 706649017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.283654,42.57819,-83.283654,42.57819",
+    "geom:latitude":42.57819,
+    "geom:longitude":-83.283654,
+    "iso:country":"US",
+    "sg:address":"1155 Exeter St",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 443 7745",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NFuy10T6wI7ECpWqdhkIF_42.578190_-83.283654@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807888,
+    "wof:geomhash":"cd6e6c44a2d9c3509633335ca6707cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706649017
+        }
+    ],
+    "wof:id":706649017,
+    "wof:lastmodified":1461807888,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -83.283654,
+    42.57819,
+    -83.283654,
+    42.57819
+],
+  "geometry": {"coordinates":[-83.283654,42.57819],"type":"Point"}
+}

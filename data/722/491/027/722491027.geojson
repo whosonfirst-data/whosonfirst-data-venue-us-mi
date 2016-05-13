@@ -1,0 +1,70 @@
+{
+  "id": 722491027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.955101,42.417702,-82.955101,42.417702",
+    "geom:latitude":42.417702,
+    "geom:longitude":-82.955101,
+    "iso:country":"US",
+    "sg:address":"10845 Whittier St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 839 7111",
+    "sg:postcode":"48224",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870573,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ujzEs7xVZ1T37SKexBGPQ_42.417702_-82.955101@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812737,
+    "wof:geomhash":"500d9fc34550c7ac2f79558b0115e59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870573,
+            "region_id":85688599,
+            "venue_id":722491027
+        }
+    ],
+    "wof:id":722491027,
+    "wof:lastmodified":1461812737,
+    "wof:name":"A & M Automotive",
+    "wof:parent_id":85870573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.955101,
+    42.417702,
+    -82.955101,
+    42.417702
+],
+  "geometry": {"coordinates":[-82.955101,42.417702],"type":"Point"}
+}

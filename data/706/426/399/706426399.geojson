@@ -1,0 +1,69 @@
+{
+  "id": 706426399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224639,41.842912,-86.224639,41.842912",
+    "geom:latitude":41.842912,
+    "geom:longitude":-86.224639,
+    "iso:country":"US",
+    "sg:address":"1214 Airport Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 8020",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SS3xSuH9ijImBJx1UgyRM_41.842912_-86.224639@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802911,
+    "wof:geomhash":"332e2e737fd09d9316fcbca8e06bb3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706426399
+        }
+    ],
+    "wof:id":706426399,
+    "wof:lastmodified":1461802911,
+    "wof:name":"Maintenance and Operations Ctr",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.224639,
+    41.842912,
+    -86.224639,
+    41.842912
+],
+  "geometry": {"coordinates":[-86.224639,41.842912],"type":"Point"}
+}

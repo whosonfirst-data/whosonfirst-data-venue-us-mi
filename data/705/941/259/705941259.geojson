@@ -1,0 +1,71 @@
+{
+  "id": 705941259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.950488,43.463442,-85.950488,43.463442",
+    "geom:latitude":43.463442,
+    "geom:longitude":-85.950488,
+    "iso:country":"US",
+    "sg:address":"220 W Pine St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2350",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pwBiVEZB3M6yxdr2ZzPuC_43.463442_-85.950488@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792327,
+    "wof:geomhash":"3c3b811bdfab8b90bcb6fc1307c0e32f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705941259
+        }
+    ],
+    "wof:id":705941259,
+    "wof:lastmodified":1461792327,
+    "wof:name":"Fremont Public School Supt",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -85.950488,
+    43.463442,
+    -85.950488,
+    43.463442
+],
+  "geometry": {"coordinates":[-85.95048800000001,43.463442],"type":"Point"}
+}

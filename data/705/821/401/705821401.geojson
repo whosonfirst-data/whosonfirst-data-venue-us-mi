@@ -1,0 +1,81 @@
+{
+  "id": 705821401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.9213,42.382774,-82.9213,42.382774",
+    "geom:latitude":42.382774,
+    "geom:longitude":-82.9213,
+    "iso:country":"US",
+    "sg:address":"1000 Kensington Ave",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 881 0098",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R4oyl3qobW9MQFJYs00p3_42.382774_-82.921300@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789514,
+    "wof:geomhash":"315ca216f952df5acd22417f1be98412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":705821401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":705821401
+        }
+    ],
+    "wof:id":705821401,
+    "wof:lastmodified":1461789514,
+    "wof:name":"Est Property Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.9213,
+    42.382774,
+    -82.9213,
+    42.382774
+],
+  "geometry": {"coordinates":[-82.9213,42.382774],"type":"Point"}
+}

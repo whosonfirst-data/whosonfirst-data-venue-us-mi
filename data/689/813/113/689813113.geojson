@@ -1,0 +1,91 @@
+{
+  "id": 689813113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080926,42.476325,-83.080926,42.476325",
+    "geom:latitude":42.476325,
+    "geom:longitude":-83.080926,
+    "iso:country":"US",
+    "sg:address":"2200 E 10 Mile Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 759 3838",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524399,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524611,
+        404508191,
+        85952063,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5788Z5KiUkAaiBtlrq8j7p_42.476325_-83.080926@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782290,
+    "wof:geomhash":"b14770d6d446f529dd202c6bfdc915a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524399,
+            "region_id":85688599,
+            "venue_id":689813113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":420524611,
+            "region_id":85688599,
+            "venue_id":689813113
+        }
+    ],
+    "wof:id":689813113,
+    "wof:lastmodified":1461782290,
+    "wof:name":"Logicom Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.080926,
+    42.476325,
+    -83.080926,
+    42.476325
+],
+  "geometry": {"coordinates":[-83.08092600000001,42.476325],"type":"Point"}
+}

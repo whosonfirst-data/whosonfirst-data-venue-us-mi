@@ -1,0 +1,75 @@
+{
+  "id": 705994885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.194982,43.219689,-86.194982,43.219689",
+    "geom:latitude":43.219689,
+    "geom:longitude":-86.194982,
+    "iso:country":"US",
+    "sg:address":"2000 E Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 6126",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gRvcrsQnN4BwVAfo4LoKk_43.219689_-86.194982@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793460,
+    "wof:geomhash":"c9646613b1817b608e3e0ed7a577d7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705994885
+        }
+    ],
+    "wof:id":705994885,
+    "wof:lastmodified":1461793460,
+    "wof:name":"Flannery's Service",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.194982,
+    43.219689,
+    -86.194982,
+    43.219689
+],
+  "geometry": {"coordinates":[-86.194982,43.219689],"type":"Point"}
+}

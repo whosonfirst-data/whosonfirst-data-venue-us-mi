@@ -1,0 +1,92 @@
+{
+  "id": 706460797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678293,42.988281,-85.678293,42.988281",
+    "geom:latitude":42.988281,
+    "geom:longitude":-85.678293,
+    "iso:country":"US",
+    "sg:address":"431 Myrtle St NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 458 0600",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877927,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599,
+        85877903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uS1EL4DlvaU61lRi2XV5U_42.988281_-85.678293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803658,
+    "wof:geomhash":"c305f1099c33e16edabfbcb715ba4404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877927,
+            "region_id":85688599,
+            "venue_id":706460797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877903,
+            "region_id":85688599,
+            "venue_id":706460797
+        }
+    ],
+    "wof:id":706460797,
+    "wof:lastmodified":1461803658,
+    "wof:name":"Grand Rapids Sewer Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -85.678293,
+    42.988281,
+    -85.678293,
+    42.988281
+],
+  "geometry": {"coordinates":[-85.678293,42.988281],"type":"Point"}
+}

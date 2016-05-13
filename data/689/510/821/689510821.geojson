@@ -1,0 +1,69 @@
+{
+  "id": 689510821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.436856,42.579049,-83.436856,42.579049",
+    "geom:latitude":42.579049,
+    "geom:longitude":-83.436856,
+    "iso:country":"US",
+    "sg:address":"7760 Detroit Blvd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 3113",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ilc40eiJwfNYB6AxzGfcT_42.579049_-83.436856@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773439,
+    "wof:geomhash":"fbffb224801dc9b89ea876233c177322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":689510821
+        }
+    ],
+    "wof:id":689510821,
+    "wof:lastmodified":1461773439,
+    "wof:name":"Mallard Moose Inv Grp",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.436856,
+    42.579049,
+    -83.436856,
+    42.579049
+],
+  "geometry": {"coordinates":[-83.43685600000001,42.579049],"type":"Point"}
+}

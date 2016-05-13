@@ -1,0 +1,83 @@
+{
+  "id": 706674217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.705597,43.020401,-83.705597,43.020401",
+    "geom:latitude":43.020401,
+    "geom:longitude":-83.705597,
+    "iso:country":"US",
+    "sg:address":"806 Tuuri Pl",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 5750",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospital",
+        "center"
+    ],
+    "sg:website":"www.mottchc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877383,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G1dLnf4JQXmjvgEmHFysG_43.020054_-83.706102@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809049,
+    "wof:geomhash":"86626026eb18dcdf158bbb491934e197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877383,
+            "region_id":85688599,
+            "venue_id":706674217
+        }
+    ],
+    "wof:id":706674217,
+    "wof:lastmodified":1461809049,
+    "wof:name":"Mott Children's Health Center",
+    "wof:parent_id":85877383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.705597,
+    43.020401,
+    -83.705597,
+    43.020401
+],
+  "geometry": {"coordinates":[-83.705597,43.020401],"type":"Point"}
+}

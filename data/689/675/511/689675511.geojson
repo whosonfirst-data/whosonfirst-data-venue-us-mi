@@ -1,0 +1,71 @@
+{
+  "id": 689675511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.9285,43.012375,-82.9285,43.012375",
+    "geom:latitude":43.012375,
+    "geom:longitude":-82.9285,
+    "iso:country":"US",
+    "sg:address":"117 S Main St",
+    "sg:city":"Capac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 395 4840",
+    "sg:postcode":"48014",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IGmEtXTGGmhtgolSEAW5u_43.012375_-82.928500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778520,
+    "wof:geomhash":"7da2038e61416967ba46b5b586a715ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689675511
+        }
+    ],
+    "wof:id":689675511,
+    "wof:lastmodified":1461778520,
+    "wof:name":"Capac Community Health Ctr",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.9285,
+    43.012375,
+    -82.9285,
+    43.012375
+],
+  "geometry": {"coordinates":[-82.9285,43.012375],"type":"Point"}
+}

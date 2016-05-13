@@ -1,0 +1,71 @@
+{
+  "id": 689854819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.693201,41.827085,-86.693201,41.827085",
+    "geom:latitude":41.827085,
+    "geom:longitude":-86.693201,
+    "iso:country":"US",
+    "sg:address":"16153 Red Arrow Hwy",
+    "sg:city":"Union Pier",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 1961",
+    "sg:postcode":"49129",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R2QTrVH3kfAm5mlovCNQB_41.827085_-86.693201@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783417,
+    "wof:geomhash":"b8a796f6ccd3e7835ee0a5fc2142439b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":689854819
+        }
+    ],
+    "wof:id":689854819,
+    "wof:lastmodified":1461783417,
+    "wof:name":"Harrington Collision Repair",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.693201,
+    41.827085,
+    -86.693201,
+    41.827085
+],
+  "geometry": {"coordinates":[-86.693201,41.827085],"type":"Point"}
+}

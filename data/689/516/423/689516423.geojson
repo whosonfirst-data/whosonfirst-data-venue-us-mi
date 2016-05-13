@@ -1,0 +1,71 @@
+{
+  "id": 689516423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.276336,41.957117,-86.276336,41.957117",
+    "geom:latitude":41.957117,
+    "geom:longitude":-86.276336,
+    "iso:country":"US",
+    "sg:address":"8893 State Hwy 140",
+    "sg:city":"Berrien Center",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 461 6163",
+    "sg:postcode":"49102",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahG4utVTFTSdCBk1L5FD1_41.957117_-86.276336@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773590,
+    "wof:geomhash":"4e762f81e48e4b814b8f88bdc5431f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689516423
+        }
+    ],
+    "wof:id":689516423,
+    "wof:lastmodified":1461773590,
+    "wof:name":"Harold's Service Station",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.276336,
+    41.957117,
+    -86.276336,
+    41.957117
+],
+  "geometry": {"coordinates":[-86.276336,41.957117],"type":"Point"}
+}

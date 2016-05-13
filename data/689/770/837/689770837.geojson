@@ -1,0 +1,86 @@
+{
+  "id": 689770837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.097722,45.803881,-88.097722,45.803881",
+    "geom:latitude":45.803881,
+    "geom:longitude":-88.097722,
+    "iso:country":"US",
+    "sg:address":"510 S Westwood Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 1265",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420549997,
+        102191575,
+        404507319,
+        85633793,
+        85950929,
+        102083107,
+        85688599,
+        420524269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16aPFgJR4abXWQkbEXyVvc_45.803881_-88.097722@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781032,
+    "wof:geomhash":"b1b8ab90ce6c0ed982d706f63d0799d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420549997,
+            "region_id":85688599,
+            "venue_id":689770837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083107,
+            "localadmin_id":404507319,
+            "locality_id":85950929,
+            "neighbourhood_id":420524269,
+            "region_id":85688599,
+            "venue_id":689770837
+        }
+    ],
+    "wof:id":689770837,
+    "wof:lastmodified":1461781032,
+    "wof:name":"Kingsford Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.097722,
+    45.803881,
+    -88.097722,
+    45.803881
+],
+  "geometry": {"coordinates":[-88.097722,45.803881],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 705705863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680109,42.969428,-85.680109,42.969428",
+    "geom:latitude":42.969428,
+    "geom:longitude":-85.680109,
+    "iso:country":"US",
+    "sg:address":"307 Summer Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 2222",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "fire",
+        "upholstery",
+        "damage",
+        "restoration",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877917,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iov7i9PVNkYRAJ7K10gZ2_42.969428_-85.680109@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786761,
+    "wof:geomhash":"3aa7e43d37525327bcf1bf7440604ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877917,
+            "region_id":85688599,
+            "venue_id":705705863
+        }
+    ],
+    "wof:id":705705863,
+    "wof:lastmodified":1461786761,
+    "wof:name":"Advanced Restorations Inc",
+    "wof:parent_id":85877917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "upholstery",
+        "damage",
+        "restoration",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -85.680109,
+    42.969428,
+    -85.680109,
+    42.969428
+],
+  "geometry": {"coordinates":[-85.680109,42.969428],"type":"Point"}
+}

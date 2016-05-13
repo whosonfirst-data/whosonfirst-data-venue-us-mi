@@ -1,0 +1,74 @@
+{
+  "id": 706685945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.202382,43.295099,-86.202382,43.295099",
+    "geom:latitude":43.295099,
+    "geom:longitude":-86.202382,
+    "iso:country":"US",
+    "sg:address":"1519 E River Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/145998-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 3060",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T34D9KFfVIUOxX61KzgAj_43.295099_-86.202382@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809519,
+    "wof:geomhash":"a1ff8bdc7416cde045171604248246de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685945
+        }
+    ],
+    "wof:id":706685945,
+    "wof:lastmodified":1461809519,
+    "wof:name":"Subway",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.202382,
+    43.295099,
+    -86.202382,
+    43.295099
+],
+  "geometry": {"coordinates":[-86.202382,43.295099],"type":"Point"}
+}

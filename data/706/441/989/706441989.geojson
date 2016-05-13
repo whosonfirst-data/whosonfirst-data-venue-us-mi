@@ -1,0 +1,71 @@
+{
+  "id": 706441989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.899757,45.788385,-87.899757,45.788385",
+    "geom:latitude":45.788385,
+    "geom:longitude":-87.899757,
+    "iso:country":"US",
+    "sg:address":"1100 Railroad Ave",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 7475",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7moEdJeBHWI8ouK86EqvVa_45.788385_-87.899757@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803266,
+    "wof:geomhash":"0cd55f525a66dc711c6a2906012dfe51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706441989
+        }
+    ],
+    "wof:id":706441989,
+    "wof:lastmodified":1461803266,
+    "wof:name":"Hayes Custom Trucking",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.899757,
+    45.788385,
+    -87.899757,
+    45.788385
+],
+  "geometry": {"coordinates":[-87.89975699999999,45.788385],"type":"Point"}
+}

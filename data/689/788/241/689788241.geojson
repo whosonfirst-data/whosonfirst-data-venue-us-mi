@@ -1,0 +1,77 @@
+{
+  "id": 689788241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.284562,42.501196,-83.284562,42.501196",
+    "geom:latitude":42.501196,
+    "geom:longitude":-83.284562,
+    "iso:country":"US",
+    "sg:address":"24350 W 12 Mile Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 356 5844",
+    "sg:postcode":"48034",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896669,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VCG4TJBLhfA0Qjpl3k4Vw_42.501196_-83.284562@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781468,
+    "wof:geomhash":"a4a327946e684e25c21af44ac81f4aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896669,
+            "region_id":85688599,
+            "venue_id":689788241
+        }
+    ],
+    "wof:id":689788241,
+    "wof:lastmodified":1461781468,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85896669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.284562,
+    42.501196,
+    -83.284562,
+    42.501196
+],
+  "geometry": {"coordinates":[-83.28456199999999,42.501196],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689623563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.255517,43.187401,-86.255517,43.187401",
+    "geom:latitude":43.187401,
+    "geom:longitude":-86.255517,
+    "iso:country":"US",
+    "sg:address":"3535 Park St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 2981",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43W5o7GG19O5H8keaIh7N6_43.187401_-86.255517@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776994,
+    "wof:geomhash":"470ac835615a15c03c340926e34ca69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689623563
+        }
+    ],
+    "wof:id":689623563,
+    "wof:lastmodified":1461776994,
+    "wof:name":"Westshore Dentistry",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.255517,
+    43.187401,
+    -86.255517,
+    43.187401
+],
+  "geometry": {"coordinates":[-86.255517,43.187401],"type":"Point"}
+}

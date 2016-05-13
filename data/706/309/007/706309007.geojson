@@ -1,0 +1,71 @@
+{
+  "id": 706309007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.031304,43.442423,-84.031304,43.442423",
+    "geom:latitude":43.442423,
+    "geom:longitude":-84.031304,
+    "iso:country":"US",
+    "sg:address":"5762 Olive Tree Dr",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 793 8733",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P4WzpEzRF1HPWzawahP5t_43.442423_-84.031304@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800498,
+    "wof:geomhash":"abdde0ae7e014359bf00037dafb0e738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706309007
+        }
+    ],
+    "wof:id":706309007,
+    "wof:lastmodified":1461800498,
+    "wof:name":"Olive Tree Apartments",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.031304,
+    43.442423,
+    -84.031304,
+    43.442423
+],
+  "geometry": {"coordinates":[-84.03130400000001,43.442423],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705826371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.807007,43.405201,-85.807007,43.405201",
+    "geom:latitude":43.405201,
+    "geom:longitude":-85.807007,
+    "iso:country":"US",
+    "sg:address":"250 Allen St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 9649",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gVuJTczV1ejMk3BWRl69v_43.405201_-85.807007@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789651,
+    "wof:geomhash":"9244bc9d6fd55a0075fd66b4648ca993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705826371
+        }
+    ],
+    "wof:id":705826371,
+    "wof:lastmodified":1461789651,
+    "wof:name":"De Haan Builder",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.807007,
+    43.405201,
+    -85.807007,
+    43.405201
+],
+  "geometry": {"coordinates":[-85.807007,43.405201],"type":"Point"}
+}

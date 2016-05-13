@@ -1,0 +1,71 @@
+{
+  "id": 706610111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423206,42.08984,-86.423206,42.08984",
+    "geom:latitude":42.08984,
+    "geom:longitude":-86.423206,
+    "iso:country":"US",
+    "sg:address":"1405 E Napier Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 926 8345",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11XuU45tfCuJVencEPPHvo_42.089840_-86.423206@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806929,
+    "wof:geomhash":"df1aa758451229eeed4f7e1e445fd907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706610111
+        }
+    ],
+    "wof:id":706610111,
+    "wof:lastmodified":1461806929,
+    "wof:name":"Fire Station #3",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.423206,
+    42.08984,
+    -86.423206,
+    42.08984
+],
+  "geometry": {"coordinates":[-86.42320599999999,42.08984],"type":"Point"}
+}

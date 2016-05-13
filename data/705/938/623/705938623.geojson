@@ -1,0 +1,71 @@
+{
+  "id": 705938623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.404753,42.250202,-84.404753,42.250202",
+    "geom:latitude":42.250202,
+    "geom:longitude":-84.404753,
+    "iso:country":"US",
+    "sg:address":"313 Oak St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 768 0114",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ICo0EAtx7EdvcxTGfHbSV_42.250202_-84.404753@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792271,
+    "wof:geomhash":"f5af2c8bebbecad9d59452e9cace5d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705938623
+        }
+    ],
+    "wof:id":705938623,
+    "wof:lastmodified":1461792271,
+    "wof:name":"Thoman Tool",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.404753,
+    42.250202,
+    -84.404753,
+    42.250202
+],
+  "geometry": {"coordinates":[-84.404753,42.250202],"type":"Point"}
+}

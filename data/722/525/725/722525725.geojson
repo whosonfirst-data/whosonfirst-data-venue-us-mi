@@ -1,0 +1,93 @@
+{
+  "id": 722525725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513271,42.733396,-84.513271,42.733396",
+    "geom:latitude":42.733396,
+    "geom:longitude":-84.513271,
+    "iso:country":"US",
+    "sg:address":"2722 East Michigan, Ste. 104",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 999 2722",
+    "sg:postcode":"48912",
+    "sg:province":"MI",
+    "sg:tags":[
+        "abuse",
+        "addiction",
+        "testing",
+        "outpatient",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878641,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ACDbfn1ODD6OolThvCHwK_42.733396_-84.513271@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814242,
+    "wof:geomhash":"a074db73dcea84924b14e16bc7b6e0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878641,
+            "region_id":85688599,
+            "venue_id":722525725
+        }
+    ],
+    "wof:id":722525725,
+    "wof:lastmodified":1461814242,
+    "wof:name":"Michigan Access Center, Inc.",
+    "wof:parent_id":85878641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abuse",
+        "addiction",
+        "testing",
+        "outpatient",
+        "drug"
+    ]
+},
+  "bbox": [
+    -84.513271,
+    42.733396,
+    -84.513271,
+    42.733396
+],
+  "geometry": {"coordinates":[-84.513271,42.733396],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705847889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261488,43.310534,-86.261488,43.310534",
+    "geom:latitude":43.310534,
+    "geom:longitude":-86.261488,
+    "iso:country":"US",
+    "sg:address":"2990 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 766 3023",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lpToiFSPKGKaXlJOYkZTi_43.310534_-86.261488@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790128,
+    "wof:geomhash":"8229d672b232afdf5754a2c5cf24b2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705847889
+        }
+    ],
+    "wof:id":705847889,
+    "wof:lastmodified":1461790128,
+    "wof:name":"Jim's Auto Sales",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.261488,
+    43.310534,
+    -86.261488,
+    43.310534
+],
+  "geometry": {"coordinates":[-86.261488,43.310534],"type":"Point"}
+}

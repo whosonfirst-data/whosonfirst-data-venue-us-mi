@@ -1,0 +1,71 @@
+{
+  "id": 705743849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58234,42.905921,-85.58234,42.905921",
+    "geom:latitude":42.905921,
+    "geom:longitude":-85.58234,
+    "iso:country":"US",
+    "sg:address":"3101 Broadmoor Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 285 9000",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbHzLMaUmfR9kxq8iMoIa_42.905921_-85.582340@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787725,
+    "wof:geomhash":"01671740098d68e89b8b3c9a0014faad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":705743849
+        }
+    ],
+    "wof:id":705743849,
+    "wof:lastmodified":1461787725,
+    "wof:name":"Broadmoor Upholstery & Fabrics",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -85.58234,
+    42.905921,
+    -85.58234,
+    42.905921
+],
+  "geometry": {"coordinates":[-85.58234,42.905921],"type":"Point"}
+}

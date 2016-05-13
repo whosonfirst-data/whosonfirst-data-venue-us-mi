@@ -1,0 +1,80 @@
+{
+  "id": 706681175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.517994,43.034603,-83.517994,43.034603",
+    "geom:latitude":43.034603,
+    "geom:longitude":-83.517994,
+    "iso:country":"US",
+    "sg:address":"102 W Flint St",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/davison/182082-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 658 7324",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2osMUwPH47Vq3KRiBCXrYC_43.034603_-83.517994@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809328,
+    "wof:geomhash":"b1bf334a5734b43cc4638337393e9dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706681175
+        }
+    ],
+    "wof:id":706681175,
+    "wof:lastmodified":1461809328,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.517994,
+    43.034603,
+    -83.517994,
+    43.034603
+],
+  "geometry": {"coordinates":[-83.517994,43.034603],"type":"Point"}
+}

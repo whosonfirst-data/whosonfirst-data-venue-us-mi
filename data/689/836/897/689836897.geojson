@@ -1,0 +1,73 @@
+{
+  "id": 689836897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613774,42.86542,-85.613774,42.86542",
+    "geom:latitude":42.86542,
+    "geom:longitude":-85.613774,
+    "iso:country":"US",
+    "sg:address":"2036 Waterbury Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 1513",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tj5JfHAJpjZ4xiY94mzUn_42.865420_-85.613774@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783036,
+    "wof:geomhash":"a24563977e92fe69da03eeec2dc2ba12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689836897
+        }
+    ],
+    "wof:id":689836897,
+    "wof:lastmodified":1461783036,
+    "wof:name":"Simon Home Svcs",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -85.613774,
+    42.86542,
+    -85.613774,
+    42.86542
+],
+  "geometry": {"coordinates":[-85.61377400000001,42.86542],"type":"Point"}
+}

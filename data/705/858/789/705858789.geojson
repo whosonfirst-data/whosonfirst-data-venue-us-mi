@@ -1,0 +1,74 @@
+{
+  "id": 705858789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.487641,42.848314,-85.487641,42.848314",
+    "geom:latitude":42.848314,
+    "geom:longitude":-85.487641,
+    "iso:country":"US",
+    "sg:address":"6355 Thornapple River Dr SE",
+    "sg:city":"Alto",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 2031",
+    "sg:postcode":"49302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85802581,
+        102083023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24pTD6ZShglTZ6ylzJ0G5H_42.848314_-85.487641@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790394,
+    "wof:geomhash":"6d1363f26231c42c1bcc736440df92f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "neighbourhood_id":85802581,
+            "region_id":85688599,
+            "venue_id":705858789
+        }
+    ],
+    "wof:id":705858789,
+    "wof:lastmodified":1461790394,
+    "wof:name":"For Pets Sake",
+    "wof:parent_id":85802581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -85.487641,
+    42.848314,
+    -85.487641,
+    42.848314
+],
+  "geometry": {"coordinates":[-85.487641,42.848314],"type":"Point"}
+}

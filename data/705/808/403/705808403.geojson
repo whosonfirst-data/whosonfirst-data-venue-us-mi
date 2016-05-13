@@ -1,0 +1,71 @@
+{
+  "id": 705808403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.508509,43.013268,-82.508509,43.013268",
+    "geom:latitude":43.013268,
+    "geom:longitude":-82.508509,
+    "iso:country":"US",
+    "sg:address":"4353 N River Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 984 1500",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "water",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AXpipC05xZxLEHV0QXqxD_43.013268_-82.508509@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789199,
+    "wof:geomhash":"0f43dd2feb18f09bc5a652395a93b701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":705808403
+        }
+    ],
+    "wof:id":705808403,
+    "wof:lastmodified":1461789199,
+    "wof:name":"Blue Water Excursion Inc",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -82.508509,
+    43.013268,
+    -82.508509,
+    43.013268
+],
+  "geometry": {"coordinates":[-82.508509,43.013268],"type":"Point"}
+}

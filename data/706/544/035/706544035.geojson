@@ -1,0 +1,75 @@
+{
+  "id": 706544035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.93991,43.455002,-85.93991,43.455002",
+    "geom:latitude":43.455002,
+    "geom:longitude":-85.93991,
+    "iso:country":"US",
+    "sg:address":"5456 S Warner Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 6610",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fjcWsQJb6Yy0Te68VN4kN_43.455002_-85.939910@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805541,
+    "wof:geomhash":"6891ac571d925bbd1562c5a8a8bb36c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706544035
+        }
+    ],
+    "wof:id":706544035,
+    "wof:lastmodified":1461805541,
+    "wof:name":"Dave's Body Shop",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.93991,
+    43.455002,
+    -85.93991,
+    43.455002
+],
+  "geometry": {"coordinates":[-85.93991,43.455002],"type":"Point"}
+}

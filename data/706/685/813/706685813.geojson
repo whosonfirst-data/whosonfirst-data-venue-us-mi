@@ -1,0 +1,73 @@
+{
+  "id": 706685813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.288942,43.205667,-86.288942,43.205667",
+    "geom:latitude":43.205667,
+    "geom:longitude":-86.288942,
+    "iso:country":"US",
+    "sg:address":"1831 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/185820-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hfwde4ngYYHenDwmuYxYO_43.205667_-86.288942@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809513,
+    "wof:geomhash":"1383e3ba87a0ee1adcb3c8d828784707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685813
+        }
+    ],
+    "wof:id":706685813,
+    "wof:lastmodified":1461809513,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.288942,
+    43.205667,
+    -86.288942,
+    43.205667
+],
+  "geometry": {"coordinates":[-86.28894200000001,43.205667],"type":"Point"}
+}

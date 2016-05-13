@@ -1,0 +1,75 @@
+{
+  "id": 706532101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.466318,42.254779,-84.466318,42.254779",
+    "geom:latitude":42.254779,
+    "geom:longitude":-84.466318,
+    "iso:country":"US",
+    "sg:address":"3914 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 3050",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "commercial",
+        "residential",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MWRpKRGVkkwILuC3y46sM_42.254779_-84.466318@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805277,
+    "wof:geomhash":"0261c908a880e4319865b0184c2c6b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706532101
+        }
+    ],
+    "wof:id":706532101,
+    "wof:lastmodified":1461805277,
+    "wof:name":"Able Glass Shop Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "commercial",
+        "residential",
+        "glass"
+    ]
+},
+  "bbox": [
+    -84.466318,
+    42.254779,
+    -84.466318,
+    42.254779
+],
+  "geometry": {"coordinates":[-84.466318,42.254779],"type":"Point"}
+}

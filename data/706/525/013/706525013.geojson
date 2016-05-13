@@ -1,0 +1,71 @@
+{
+  "id": 706525013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394707,46.545514,-87.394707,46.545514",
+    "geom:latitude":46.545514,
+    "geom:longitude":-87.394707,
+    "iso:country":"US",
+    "sg:address":"200 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 6266",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tQNRbZiaGGlMw6GxG4ZK5_46.545514_-87.394707@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805133,
+    "wof:geomhash":"4530729cf0911740b7c9d156827b42c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706525013
+        }
+    ],
+    "wof:id":706525013,
+    "wof:lastmodified":1461805133,
+    "wof:name":"SBC",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -87.394707,
+    46.545514,
+    -87.394707,
+    46.545514
+],
+  "geometry": {"coordinates":[-87.394707,46.545514],"type":"Point"}
+}

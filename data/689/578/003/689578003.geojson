@@ -1,0 +1,71 @@
+{
+  "id": 689578003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403779,44.255484,-85.403779,44.255484",
+    "geom:latitude":44.255484,
+    "geom:longitude":-85.403779,
+    "iso:country":"US",
+    "sg:address":"621 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 0615",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hliMeglnPcAskwNWCkn7e_44.255484_-85.403779@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775534,
+    "wof:geomhash":"cc744e796553c159546d389cbeb8339e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689578003
+        }
+    ],
+    "wof:id":689578003,
+    "wof:lastmodified":1461775534,
+    "wof:name":"Performance Plus Quick Lube",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.403779,
+    44.255484,
+    -85.403779,
+    44.255484
+],
+  "geometry": {"coordinates":[-85.403779,44.255484],"type":"Point"}
+}

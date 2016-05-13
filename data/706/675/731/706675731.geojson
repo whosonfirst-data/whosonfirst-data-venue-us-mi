@@ -1,0 +1,72 @@
+{
+  "id": 706675731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.456211,43.030128,-82.456211,43.030128",
+    "geom:latitude":43.030128,
+    "geom:longitude":-82.456211,
+    "iso:country":"US",
+    "sg:address":"4175 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fort-gratiot/65427-cicis-pizza-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 5060",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WOxcYIWhSl6iQvHTRElz4_43.030128_-82.456211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809105,
+    "wof:geomhash":"b7b5038de7eb08408822ceb0d284850e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706675731
+        }
+    ],
+    "wof:id":706675731,
+    "wof:lastmodified":1461809105,
+    "wof:name":"CiCi's Pizza Buffet",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.456211,
+    43.030128,
+    -82.456211,
+    43.030128
+],
+  "geometry": {"coordinates":[-82.456211,43.030128],"type":"Point"}
+}

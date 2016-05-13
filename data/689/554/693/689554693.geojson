@@ -1,0 +1,71 @@
+{
+  "id": 689554693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.239459,43.234178,-86.239459,43.234178",
+    "geom:latitude":43.234178,
+    "geom:longitude":-86.239459,
+    "iso:country":"US",
+    "sg:address":"173 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 724 6386",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rBjA3FLatlLERRO2BpZqY_43.234178_-86.239459@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774869,
+    "wof:geomhash":"15de23f994fa0b1fcec3db30f1d85986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689554693
+        }
+    ],
+    "wof:id":689554693,
+    "wof:lastmodified":1461774869,
+    "wof:name":"Equalization Department",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -86.239459,
+    43.234178,
+    -86.239459,
+    43.234178
+],
+  "geometry": {"coordinates":[-86.239459,43.234178],"type":"Point"}
+}

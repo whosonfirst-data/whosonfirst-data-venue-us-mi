@@ -1,0 +1,71 @@
+{
+  "id": 706479389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636498,43.451369,-85.636498,43.451369",
+    "geom:latitude":43.451369,
+    "geom:longitude":-85.636498,
+    "iso:country":"US",
+    "sg:address":"5725 Croton Hardy Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 9456",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RYxKfhSOiP8fyzi2np0lq_43.451369_-85.636498@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804030,
+    "wof:geomhash":"15bd830c823864735b9577929fdb38b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706479389
+        }
+    ],
+    "wof:id":706479389,
+    "wof:lastmodified":1461804030,
+    "wof:name":"Life Ems Of Newaygo County Ofc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.636498,
+    43.451369,
+    -85.636498,
+    43.451369
+],
+  "geometry": {"coordinates":[-85.636498,43.451369],"type":"Point"}
+}

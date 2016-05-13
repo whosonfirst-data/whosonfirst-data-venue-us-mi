@@ -1,0 +1,72 @@
+{
+  "id": 706680205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378689,42.54258,-83.378689,42.54258",
+    "geom:latitude":42.54258,
+    "geom:longitude":-83.378689,
+    "iso:country":"US",
+    "sg:address":"6078 W Maple Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/west-bloomfield/87004-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 538 8637",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bXVpLkYqcTXJplxtLSTDf_42.542580_-83.378689@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809287,
+    "wof:geomhash":"55ae93d81c10822960f0fb88b0a4000a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706680205
+        }
+    ],
+    "wof:id":706680205,
+    "wof:lastmodified":1461809287,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.378689,
+    42.54258,
+    -83.378689,
+    42.54258
+],
+  "geometry": {"coordinates":[-83.37868899999999,42.54258],"type":"Point"}
+}

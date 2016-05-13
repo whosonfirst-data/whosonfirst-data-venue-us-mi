@@ -1,0 +1,69 @@
+{
+  "id": 722513145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.340135,42.654263,-83.340135,42.654263",
+    "geom:latitude":42.654263,
+    "geom:longitude":-83.340135,
+    "iso:country":"US",
+    "sg:address":"2709 Pontiac Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 681 1705",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FRziVTEyAoekPw7EoHAKZ_42.654263_-83.340135@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813616,
+    "wof:geomhash":"8827507e9970f95526c4d7147abb8cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":722513145
+        }
+    ],
+    "wof:id":722513145,
+    "wof:lastmodified":1461813616,
+    "wof:name":"Michigan Department Of Corrections",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state"
+    ]
+},
+  "bbox": [
+    -83.340135,
+    42.654263,
+    -83.340135,
+    42.654263
+],
+  "geometry": {"coordinates":[-83.340135,42.654263],"type":"Point"}
+}

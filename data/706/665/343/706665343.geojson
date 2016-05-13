@@ -1,0 +1,79 @@
+{
+  "id": 706665343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693802,43.054501,-83.693802,43.054501",
+    "geom:latitude":43.054501,
+    "geom:longitude":-83.693802,
+    "iso:country":"US",
+    "sg:address":"4250 N Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 1121",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "clinic",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877391,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kfDm1h7Wponp5qfHdH4XZ_43.055116_-83.693762@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808676,
+    "wof:geomhash":"152addb7121f6bcd2403f4256d67b136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877391,
+            "region_id":85688599,
+            "venue_id":706665343
+        }
+    ],
+    "wof:id":706665343,
+    "wof:lastmodified":1461808676,
+    "wof:name":"Medical Coverage Svcs PC",
+    "wof:parent_id":85877391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "clinic",
+        "internal"
+    ]
+},
+  "bbox": [
+    -83.693802,
+    43.054501,
+    -83.693802,
+    43.054501
+],
+  "geometry": {"coordinates":[-83.69380200000001,43.054501],"type":"Point"}
+}

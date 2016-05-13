@@ -1,0 +1,69 @@
+{
+  "id": 706430309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.65405,42.27155,-84.65405,42.27155",
+    "geom:latitude":42.27155,
+    "geom:longitude":-84.65405,
+    "iso:country":"US",
+    "sg:address":"2801 Callahan Rd",
+    "sg:city":"Albion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 531 3850",
+    "sg:postcode":"49224",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BKI24ndLWvb3Ty4VBJyZF_42.271550_-84.654050@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802985,
+    "wof:geomhash":"31ff9e7156938cd30f2623e3af31050f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706430309
+        }
+    ],
+    "wof:id":706430309,
+    "wof:lastmodified":1461802985,
+    "wof:name":"Mc Cormick & Sons Trucking",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.65405,
+    42.27155,
+    -84.65405,
+    42.27155
+],
+  "geometry": {"coordinates":[-84.65405,42.27155],"type":"Point"}
+}

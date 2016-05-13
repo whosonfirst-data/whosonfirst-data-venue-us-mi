@@ -1,0 +1,78 @@
+{
+  "id": 706681385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.760896,43.118972,-83.760896,43.118972",
+    "geom:latitude":43.118972,
+    "geom:longitude":-83.760896,
+    "iso:country":"US",
+    "sg:address":"4181 E Mount Morris Rd",
+    "sg:city":"Mount Morris",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-morris/196806-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 687 5351",
+    "sg:postcode":"48458",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805243,
+        102191575,
+        404506619,
+        85633793,
+        85952419,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vN4TqaRHEPbLB1gPZpMjy_43.118972_-83.760896@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809340,
+    "wof:geomhash":"622e4d7164de25d6d500460f50488374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506619,
+            "locality_id":85952419,
+            "neighbourhood_id":85805243,
+            "region_id":85688599,
+            "venue_id":706681385
+        }
+    ],
+    "wof:id":706681385,
+    "wof:lastmodified":1461809340,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.760896,
+    43.118972,
+    -83.760896,
+    43.118972
+],
+  "geometry": {"coordinates":[-83.760896,43.118972],"type":"Point"}
+}

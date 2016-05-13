@@ -1,0 +1,73 @@
+{
+  "id": 705727609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263279,43.194776,-86.263279,43.194776",
+    "geom:latitude":43.194776,
+    "geom:longitude":-86.263279,
+    "iso:country":"US",
+    "sg:address":"3360 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 830 1830",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HwM4PmgF8voDD47YiGugs_43.194776_-86.263279@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787346,
+    "wof:geomhash":"f029ddff045ca5f5d5f7350af3ede4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705727609
+        }
+    ],
+    "wof:id":705727609,
+    "wof:lastmodified":1461787346,
+    "wof:name":"Java Jack's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -86.263279,
+    43.194776,
+    -86.263279,
+    43.194776
+],
+  "geometry": {"coordinates":[-86.263279,43.194776],"type":"Point"}
+}

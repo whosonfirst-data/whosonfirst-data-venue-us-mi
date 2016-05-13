@@ -1,0 +1,86 @@
+{
+  "id": 689814575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.248632,42.41295,-83.248632,42.41295",
+    "geom:latitude":42.41295,
+    "geom:longitude":-83.248632,
+    "iso:country":"US",
+    "sg:address":"20934 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 533 7400",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CGUseHV4LQ8K2ers8qwog_42.412950_-83.248632@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782326,
+    "wof:geomhash":"a239c4d13a22e2eb42c622ab94bf956e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":689814575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":689814575
+        }
+    ],
+    "wof:id":689814575,
+    "wof:lastmodified":1461782326,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -83.248632,
+    42.41295,
+    -83.248632,
+    42.41295
+],
+  "geometry": {"coordinates":[-83.248632,42.41295],"type":"Point"}
+}

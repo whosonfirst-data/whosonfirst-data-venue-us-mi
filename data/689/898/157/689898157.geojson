@@ -1,0 +1,73 @@
+{
+  "id": 689898157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.045248,45.8413,-88.045248,45.8413",
+    "geom:latitude":45.8413,
+    "geom:longitude":-88.045248,
+    "iso:country":"US",
+    "sg:address":"2201 Quincy St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 3220",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "juice",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u40LvqTE7OaW1bMbO2v5s_45.841300_-88.045248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784512,
+    "wof:geomhash":"490b4eec894652ca035f4df4eb402fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689898157
+        }
+    ],
+    "wof:id":689898157,
+    "wof:lastmodified":1461784512,
+    "wof:name":"Peninsula Beverage Co",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -88.045248,
+    45.8413,
+    -88.045248,
+    45.8413
+],
+  "geometry": {"coordinates":[-88.045248,45.8413],"type":"Point"}
+}

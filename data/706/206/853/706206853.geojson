@@ -1,0 +1,71 @@
+{
+  "id": 706206853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.249084,41.768802,-86.249084,41.768802",
+    "geom:latitude":41.768802,
+    "geom:longitude":-86.249084,
+    "iso:country":"US",
+    "sg:address":"1110 Ontario Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 7462",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aRwwo3IZ7vB9vRQU3OQDQ_41.768802_-86.249084@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798220,
+    "wof:geomhash":"4d6628c926432eec25d45b71941d795b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706206853
+        }
+    ],
+    "wof:id":706206853,
+    "wof:lastmodified":1461798220,
+    "wof:name":"B & J Auto Svc",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.249084,
+    41.768802,
+    -86.249084,
+    41.768802
+],
+  "geometry": {"coordinates":[-86.249084,41.768802],"type":"Point"}
+}

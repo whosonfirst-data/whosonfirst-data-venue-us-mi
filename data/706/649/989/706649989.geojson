@@ -1,0 +1,71 @@
+{
+  "id": 706649989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631659,44.734139,-85.631659,44.734139",
+    "geom:latitude":44.734139,
+    "geom:longitude":-85.631659,
+    "iso:country":"US",
+    "sg:address":"2828 Concord St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 1200",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hykhmdbuyD13SstUVvULn_44.734139_-85.631659@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807938,
+    "wof:geomhash":"ca5d235b9504665d66020dc38fa9ee2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706649989
+        }
+    ],
+    "wof:id":706649989,
+    "wof:lastmodified":1461807938,
+    "wof:name":"Bortz Health Care Of Traverse",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.631659,
+    44.734139,
+    -85.631659,
+    44.734139
+],
+  "geometry": {"coordinates":[-85.631659,44.734139],"type":"Point"}
+}

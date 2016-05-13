@@ -1,0 +1,75 @@
+{
+  "id": 706011619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.00117,42.349077,-83.00117,42.349077",
+    "geom:latitude":42.349077,
+    "geom:longitude":-83.00117,
+    "iso:country":"US",
+    "sg:address":"430 Field St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 821 1470",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870555,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63RPKa2PPK7uiBR4R8cI3N_42.349077_-83.001170@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793825,
+    "wof:geomhash":"e38deb3bc1f71df192ec76cfe0799e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870555,
+            "region_id":85688599,
+            "venue_id":706011619
+        }
+    ],
+    "wof:id":706011619,
+    "wof:lastmodified":1461793825,
+    "wof:name":"Pops Detail Shop",
+    "wof:parent_id":85870555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.00117,
+    42.349077,
+    -83.00117,
+    42.349077
+],
+  "geometry": {"coordinates":[-83.00117,42.349077],"type":"Point"}
+}

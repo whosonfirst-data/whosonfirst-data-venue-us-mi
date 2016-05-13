@@ -1,0 +1,69 @@
+{
+  "id": 689851461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.643127,42.248099,-83.643127,42.248099",
+    "geom:latitude":42.248099,
+    "geom:longitude":-83.643127,
+    "iso:country":"US",
+    "sg:address":"1820 Washtenaw Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 3101",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RqxHCWaB0GnaBkhwej1CJ_42.248099_-83.643127@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783343,
+    "wof:geomhash":"b8d52de367ec8b6553e31ae8a0ca13ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":689851461
+        }
+    ],
+    "wof:id":689851461,
+    "wof:lastmodified":1461783343,
+    "wof:name":"Douglas W Cole DDS",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.643127,
+    42.248099,
+    -83.643127,
+    42.248099
+],
+  "geometry": {"coordinates":[-83.64312700000001,42.248099],"type":"Point"}
+}

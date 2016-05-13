@@ -1,0 +1,69 @@
+{
+  "id": 689658001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.591426,42.595266,-83.591426,42.595266",
+    "geom:latitude":42.595266,
+    "geom:longitude":-83.591426,
+    "iso:country":"US",
+    "sg:address":"965 E Summit St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 684 5535",
+    "sg:postcode":"48381",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ojTgoYwjXgnmukdujXcgv_42.595266_-83.591426@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778075,
+    "wof:geomhash":"ab80acddf726b19e5797c3e3d3e6ff13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":689658001
+        }
+    ],
+    "wof:id":689658001,
+    "wof:lastmodified":1461778075,
+    "wof:name":"Milford Grocery",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.591426,
+    42.595266,
+    -83.591426,
+    42.595266
+],
+  "geometry": {"coordinates":[-83.591426,42.595266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705741557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.989714,43.455148,-83.989714,43.455148",
+    "geom:latitude":43.455148,
+    "geom:longitude":-83.989714,
+    "iso:country":"US",
+    "sg:address":"3037 Silverwood Dr",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 754 8111",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "x",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0587e1KzTZ9YVeNDcaUtfZ_43.455148_-83.989714@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787679,
+    "wof:geomhash":"f990f336aa79c051ea73dcc42e618095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705741557
+        }
+    ],
+    "wof:id":705741557,
+    "wof:lastmodified":1461787679,
+    "wof:name":"Diagnostic X-Ray Associates PC",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.989714,
+    43.455148,
+    -83.989714,
+    43.455148
+],
+  "geometry": {"coordinates":[-83.98971400000001,43.455148],"type":"Point"}
+}

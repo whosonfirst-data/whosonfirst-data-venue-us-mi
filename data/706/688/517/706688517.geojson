@@ -1,0 +1,87 @@
+{
+  "id": 706688517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.835849,42.558457,-84.835849,42.558457",
+    "geom:latitude":42.558457,
+    "geom:longitude":-84.835849,
+    "iso:country":"US",
+    "sg:address":"407 S Cochran Ave",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/charlotte/168518-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 543 9331",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kndu59yiGrIQYM7c3NEJB_42.558479_-84.835780@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809617,
+    "wof:geomhash":"11a943a04eef3231e1605e01d054d390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706688517
+        }
+    ],
+    "wof:id":706688517,
+    "wof:lastmodified":1461809617,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -84.835849,
+    42.558457,
+    -84.835849,
+    42.558457
+],
+  "geometry": {"coordinates":[-84.835849,42.558457],"type":"Point"}
+}

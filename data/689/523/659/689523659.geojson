@@ -1,0 +1,75 @@
+{
+  "id": 689523659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.403038,43.41571,-86.403038,43.41571",
+    "geom:latitude":43.41571,
+    "geom:longitude":-86.403038,
+    "iso:country":"US",
+    "sg:address":"6455 Hancock Rd",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 5713",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IyD06UdGCXrbrMAHs3UQa_43.415710_-86.403038@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773853,
+    "wof:geomhash":"36ec43a6bb19cace7e39a35652c236f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":689523659
+        }
+    ],
+    "wof:id":689523659,
+    "wof:lastmodified":1461773853,
+    "wof:name":"T Mac Trucking",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.403038,
+    43.41571,
+    -86.403038,
+    43.41571
+],
+  "geometry": {"coordinates":[-86.403038,43.41571],"type":"Point"}
+}

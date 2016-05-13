@@ -1,0 +1,71 @@
+{
+  "id": 706125921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.105772,43.510215,-84.105772,43.510215",
+    "geom:latitude":43.510215,
+    "geom:longitude":-84.105772,
+    "iso:country":"US",
+    "sg:address":"9625 Pierce Rd",
+    "sg:city":"Freeland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 695 9880",
+    "sg:postcode":"48623",
+    "sg:province":"MI",
+    "sg:tags":[
+        "correctional",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814481,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SuaGDpltnD0zFidHArQQx_43.510215_-84.105772@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796410,
+    "wof:geomhash":"440f42e96ceaff6d7a6702e014f4bb05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85814481,
+            "region_id":85688599,
+            "venue_id":706125921
+        }
+    ],
+    "wof:id":706125921,
+    "wof:lastmodified":1461796410,
+    "wof:name":"Saginaw Correctional Facility",
+    "wof:parent_id":85814481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.105772,
+    43.510215,
+    -84.105772,
+    43.510215
+],
+  "geometry": {"coordinates":[-84.105772,43.510215],"type":"Point"}
+}

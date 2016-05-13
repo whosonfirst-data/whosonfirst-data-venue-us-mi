@@ -1,0 +1,73 @@
+{
+  "id": 705965879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.235085,43.187289,-86.235085,43.187289",
+    "geom:latitude":43.187289,
+    "geom:longitude":-86.235085,
+    "iso:country":"US",
+    "sg:address":"567 Lake Shore Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 8454",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KP2nVXBCLhGRSJXCMu2AD_43.187289_-86.235085@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792881,
+    "wof:geomhash":"83a0f6154ded953326d23873298c4474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705965879
+        }
+    ],
+    "wof:id":705965879,
+    "wof:lastmodified":1461792881,
+    "wof:name":"Paul Klimszas Dock Service",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ]
+},
+  "bbox": [
+    -86.235085,
+    43.187289,
+    -86.235085,
+    43.187289
+],
+  "geometry": {"coordinates":[-86.235085,43.187289],"type":"Point"}
+}

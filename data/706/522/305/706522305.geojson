@@ -1,0 +1,70 @@
+{
+  "id": 706522305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.080964,45.744766,-87.080964,45.744766",
+    "geom:latitude":45.744766,
+    "geom:longitude":-87.080964,
+    "iso:country":"US",
+    "sg:address":"2420 1st Ave S",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 1563",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.mgh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fHZW1bgH61Z1AZciG3q2G_45.744766_-87.080964@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805084,
+    "wof:geomhash":"01960ec4a47377f26f5ba68c9a400c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706522305
+        }
+    ],
+    "wof:id":706522305,
+    "wof:lastmodified":1461805084,
+    "wof:name":"North Shore Internal Medicine",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.080964,
+    45.744766,
+    -87.080964,
+    45.744766
+],
+  "geometry": {"coordinates":[-87.08096399999999,45.744766],"type":"Point"}
+}

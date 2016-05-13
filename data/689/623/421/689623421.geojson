@@ -1,0 +1,71 @@
+{
+  "id": 689623421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.555323,42.681134,-84.555323,42.681134",
+    "geom:latitude":42.681134,
+    "geom:longitude":-84.555323,
+    "iso:country":"US",
+    "sg:address":"333 Dahlia Dr",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 325 6540",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "middle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xh5DCrMem1avJjGThRNzN_42.681134_-84.555323@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776991,
+    "wof:geomhash":"dca2147458dc2a75d018493de287db25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689623421
+        }
+    ],
+    "wof:id":689623421,
+    "wof:lastmodified":1461776991,
+    "wof:name":"Gardner Middle School",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -84.555323,
+    42.681134,
+    -84.555323,
+    42.681134
+],
+  "geometry": {"coordinates":[-84.555323,42.681134],"type":"Point"}
+}

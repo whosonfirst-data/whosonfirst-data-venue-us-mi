@@ -1,0 +1,71 @@
+{
+  "id": 705823201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.612058,42.200956,-85.612058,42.200956",
+    "geom:latitude":42.200956,
+    "geom:longitude":-85.612058,
+    "iso:country":"US",
+    "sg:address":"2015 W Centre Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 329 6932",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UF5hb9X7WVdZvv9NTzAAI_42.200956_-85.612058@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789558,
+    "wof:geomhash":"571a636740bfde20a2ea19ec175515f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":705823201
+        }
+    ],
+    "wof:id":705823201,
+    "wof:lastmodified":1461789558,
+    "wof:name":"Portage Cleaners & Laundry",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -85.612058,
+    42.200956,
+    -85.612058,
+    42.200956
+],
+  "geometry": {"coordinates":[-85.612058,42.200956],"type":"Point"}
+}

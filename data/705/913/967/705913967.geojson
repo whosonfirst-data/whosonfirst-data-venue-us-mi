@@ -1,0 +1,71 @@
+{
+  "id": 705913967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.885245,42.641146,-82.885245,42.641146",
+    "geom:latitude":42.641146,
+    "geom:longitude":-82.885245,
+    "iso:country":"US",
+    "sg:address":"22566 Clearwater Dr",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 954 0075",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFOltoxnZDEl76HjCTOuW_42.641146_-82.885245@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791722,
+    "wof:geomhash":"5215f4e5b80c378ca30c601df0ae7061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":705913967
+        }
+    ],
+    "wof:id":705913967,
+    "wof:lastmodified":1461791722,
+    "wof:name":"Clear Window Cleaning",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -82.885245,
+    42.641146,
+    -82.885245,
+    42.641146
+],
+  "geometry": {"coordinates":[-82.885245,42.641146],"type":"Point"}
+}

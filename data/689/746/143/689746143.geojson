@@ -1,0 +1,71 @@
+{
+  "id": 689746143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.605103,46.509827,-87.605103,46.509827",
+    "geom:latitude":46.509827,
+    "geom:longitude":-87.605103,
+    "iso:country":"US",
+    "sg:address":"395 US Hwy 41",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 7171",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_286OvtI3dDCG66QNsexLTG_46.509827_-87.605103@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780343,
+    "wof:geomhash":"9dd076519f4cc2673d00d756b3266ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689746143
+        }
+    ],
+    "wof:id":689746143,
+    "wof:lastmodified":1461780343,
+    "wof:name":"Superior Car Wash Inc",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -87.605103,
+    46.509827,
+    -87.605103,
+    46.509827
+],
+  "geometry": {"coordinates":[-87.605103,46.509827],"type":"Point"}
+}

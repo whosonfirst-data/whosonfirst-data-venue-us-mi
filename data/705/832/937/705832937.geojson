@@ -1,0 +1,73 @@
+{
+  "id": 705832937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.347262,42.673025,-83.347262,42.673025",
+    "geom:latitude":42.673025,
+    "geom:longitude":-83.347262,
+    "iso:country":"US",
+    "sg:address":"2240 Scott Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 0968",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "parts",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17l4zislb2BzvCspOQCyw1_42.673025_-83.347262@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789802,
+    "wof:geomhash":"b411b34763c1b8d751b01517c5c1cae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":705832937
+        }
+    ],
+    "wof:id":705832937,
+    "wof:lastmodified":1461789802,
+    "wof:name":"Woodspecs Inc",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "parts",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.347262,
+    42.673025,
+    -83.347262,
+    42.673025
+],
+  "geometry": {"coordinates":[-83.347262,42.673025],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 706740179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.2845,42.255001,-83.2845,42.255001",
+    "geom:latitude":42.255001,
+    "geom:longitude":-83.2845,
+    "iso:country":"US",
+    "sg:address":"25447 Ecorse Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 291 7794",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "sg:website":"www.fairfaxelectric.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823787,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AkCqwNEcsy9k7k9PC2iRd_42.255001_-83.284500@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811814,
+    "wof:geomhash":"0cdc565aa89eb54a11d31615a6e73c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85823787,
+            "region_id":85688599,
+            "venue_id":706740179
+        }
+    ],
+    "wof:id":706740179,
+    "wof:lastmodified":1461811814,
+    "wof:name":"Fairfax Electric",
+    "wof:parent_id":85823787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.2845,
+    42.255001,
+    -83.2845,
+    42.255001
+],
+  "geometry": {"coordinates":[-83.28449999999999,42.255001],"type":"Point"}
+}

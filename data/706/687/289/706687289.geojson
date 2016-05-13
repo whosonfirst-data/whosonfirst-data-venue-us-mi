@@ -1,0 +1,74 @@
+{
+  "id": 706687289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.052591,45.809271,-88.052591,45.809271",
+    "geom:latitude":45.809271,
+    "geom:longitude":-88.052591,
+    "iso:country":"US",
+    "sg:address":"1665 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/iron-mountain/146039-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 1062",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HvAKlaRtb2idPrvG2pLiI_45.809271_-88.052591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809567,
+    "wof:geomhash":"eafcdd865c429a5eeb1b4ce565c9db6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706687289
+        }
+    ],
+    "wof:id":706687289,
+    "wof:lastmodified":1461809567,
+    "wof:name":"Subway",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.052591,
+    45.809271,
+    -88.052591,
+    45.809271
+],
+  "geometry": {"coordinates":[-88.05259100000001,45.809271],"type":"Point"}
+}

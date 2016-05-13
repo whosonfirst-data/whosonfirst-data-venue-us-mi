@@ -1,0 +1,75 @@
+{
+  "id": 705841399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.592041,42.729159,-84.592041,42.729159",
+    "geom:latitude":42.729159,
+    "geom:longitude":-84.592041,
+    "iso:country":"US",
+    "sg:address":"606 Lentz Ct",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 485 8858",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85864301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VjYdoXZKF0eAQ2TBjJift_42.729159_-84.592041@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789985,
+    "wof:geomhash":"adf6fb9e03d96361a2a518ddf73a3d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85864301,
+            "region_id":85688599,
+            "venue_id":705841399
+        }
+    ],
+    "wof:id":705841399,
+    "wof:lastmodified":1461789985,
+    "wof:name":"Heatex Warehouse LLC",
+    "wof:parent_id":85864301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.592041,
+    42.729159,
+    -84.592041,
+    42.729159
+],
+  "geometry": {"coordinates":[-84.59204099999999,42.729159],"type":"Point"}
+}

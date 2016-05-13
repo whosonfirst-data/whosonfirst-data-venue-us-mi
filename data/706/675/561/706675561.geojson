@@ -1,0 +1,72 @@
+{
+  "id": 706675561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.954175,42.642229,-82.954175,42.642229",
+    "geom:latitude":42.642229,
+    "geom:longitude":-82.954175,
+    "iso:country":"US",
+    "sg:address":"16824 21 Mile Rd",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/macomb/146043-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 226 8508",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ory14i8EoV6EM6rsnkty_42.642229_-82.954175@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809100,
+    "wof:geomhash":"3169340b0b59a31b2f30a9a45a12aaa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706675561
+        }
+    ],
+    "wof:id":706675561,
+    "wof:lastmodified":1461809100,
+    "wof:name":"Subway",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.954175,
+    42.642229,
+    -82.954175,
+    42.642229
+],
+  "geometry": {"coordinates":[-82.95417500000001,42.642229],"type":"Point"}
+}

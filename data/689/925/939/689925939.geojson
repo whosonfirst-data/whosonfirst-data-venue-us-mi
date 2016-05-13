@@ -1,0 +1,75 @@
+{
+  "id": 689925939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.433374,42.973375,-82.433374,42.973375",
+    "geom:latitude":42.973375,
+    "geom:longitude":-82.433374,
+    "iso:country":"US",
+    "sg:address":"1030 Pine St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 989 9719",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524659,
+        102191575,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YosBxAJyvcU0OSh4734Ee_42.973375_-82.433374@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785260,
+    "wof:geomhash":"59774cbcdee7da2db5bff2b58cb43cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":420524659,
+            "region_id":85688599,
+            "venue_id":689925939
+        }
+    ],
+    "wof:id":689925939,
+    "wof:lastmodified":1461785260,
+    "wof:name":"Port Huron Taxi",
+    "wof:parent_id":420524659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -82.433374,
+    42.973375,
+    -82.433374,
+    42.973375
+],
+  "geometry": {"coordinates":[-82.433374,42.973375],"type":"Point"}
+}

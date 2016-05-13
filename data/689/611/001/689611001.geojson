@@ -1,0 +1,71 @@
+{
+  "id": 689611001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342729,43.409441,-86.342729,43.409441",
+    "geom:latitude":43.409441,
+    "geom:longitude":-86.342729,
+    "iso:country":"US",
+    "sg:address":"115 S Baldwin St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 6503",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OOPNZeTzFa7Z4ogRldvXk_43.409441_-86.342729@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776639,
+    "wof:geomhash":"949455505c018613b3c451ebca558fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689611001
+        }
+    ],
+    "wof:id":689611001,
+    "wof:lastmodified":1461776639,
+    "wof:name":"Whitelake Fire Authority",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.342729,
+    43.409441,
+    -86.342729,
+    43.409441
+],
+  "geometry": {"coordinates":[-86.34272900000001,43.409441],"type":"Point"}
+}

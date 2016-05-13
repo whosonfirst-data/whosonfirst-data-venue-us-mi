@@ -1,0 +1,73 @@
+{
+  "id": 689529995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739466,43.013463,-83.739466,43.013463",
+    "geom:latitude":43.013463,
+    "geom:longitude":-83.739466,
+    "iso:country":"US",
+    "sg:address":"1121 Houran St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 720 4795",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58UZVHrYcGHpygEpJVAjAK_43.013463_-83.739466@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774087,
+    "wof:geomhash":"0f34f13a614d660f0551411d6f347bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689529995
+        }
+    ],
+    "wof:id":689529995,
+    "wof:lastmodified":1461774087,
+    "wof:name":"Genesee Water & Waste Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -83.739466,
+    43.013463,
+    -83.739466,
+    43.013463
+],
+  "geometry": {"coordinates":[-83.73946599999999,43.013463],"type":"Point"}
+}

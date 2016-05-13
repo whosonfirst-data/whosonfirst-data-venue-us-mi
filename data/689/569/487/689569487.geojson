@@ -1,0 +1,73 @@
+{
+  "id": 689569487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.849689,43.710223,-85.849689,43.710223",
+    "geom:latitude":43.710223,
+    "geom:longitude":-85.849689,
+    "iso:country":"US",
+    "sg:address":"316 Van Buren St W",
+    "sg:city":"Battle Creek",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 968 7188",
+    "sg:postcode":"49037",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Su10R5HdybzCWxHLBDcdC_43.710223_-85.849689@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775274,
+    "wof:geomhash":"59d7afd5b53c98d2781bcc74f76a08d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689569487
+        }
+    ],
+    "wof:id":689569487,
+    "wof:lastmodified":1461775274,
+    "wof:name":"D & H Automotive",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.849689,
+    43.710223,
+    -85.849689,
+    43.710223
+],
+  "geometry": {"coordinates":[-85.849689,43.710223],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705771175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.983265,42.698366,-82.983265,42.698366",
+    "geom:latitude":42.698366,
+    "geom:longitude":-82.983265,
+    "iso:country":"US",
+    "sg:address":"14564 Oakwood Dr",
+    "sg:city":"Utica",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 781 3481",
+    "sg:postcode":"48315",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85843103,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gWjSmc7WOhOgaZhX4rULQ_42.698366_-82.983265@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788325,
+    "wof:geomhash":"ddb279a0c4069dfabc67323e8b927cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85843103,
+            "region_id":85688599,
+            "venue_id":705771175
+        }
+    ],
+    "wof:id":705771175,
+    "wof:lastmodified":1461788325,
+    "wof:name":"Michael Hojna",
+    "wof:parent_id":85843103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.983265,
+    42.698366,
+    -82.983265,
+    42.698366
+],
+  "geometry": {"coordinates":[-82.983265,42.698366],"type":"Point"}
+}

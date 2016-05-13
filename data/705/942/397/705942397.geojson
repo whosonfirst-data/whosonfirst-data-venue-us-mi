@@ -1,0 +1,73 @@
+{
+  "id": 705942397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.163839,43.363056,-86.163839,43.363056",
+    "geom:latitude":43.363056,
+    "geom:longitude":-86.163839,
+    "iso:country":"US",
+    "sg:address":"3190 4th St",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 6296",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y9jE9A5pVejQHrQzhDBbj_43.363056_-86.163839@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792349,
+    "wof:geomhash":"779b2f881c628d083a77382be8059bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705942397
+        }
+    ],
+    "wof:id":705942397,
+    "wof:lastmodified":1461792349,
+    "wof:name":"Twin Lake Super Lube",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.163839,
+    43.363056,
+    -86.163839,
+    43.363056
+],
+  "geometry": {"coordinates":[-86.163839,43.363056],"type":"Point"}
+}

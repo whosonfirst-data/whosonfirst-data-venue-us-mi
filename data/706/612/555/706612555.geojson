@@ -1,0 +1,69 @@
+{
+  "id": 706612555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.613184,42.243519,-83.613184,42.243519",
+    "geom:latitude":42.243519,
+    "geom:longitude":-83.613184,
+    "iso:country":"US",
+    "sg:address":"111 N Huron St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 712 5430",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dr"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CN2fcPpJFEKSqsUxh0Odc_42.243519_-83.613184@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806977,
+    "wof:geomhash":"881b1efc0d128f7b983f8969bc7d8f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706612555
+        }
+    ],
+    "wof:id":706612555,
+    "wof:lastmodified":1461806977,
+    "wof:name":"Medical Faculty Associates",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dr"
+    ]
+},
+  "bbox": [
+    -83.613184,
+    42.243519,
+    -83.613184,
+    42.243519
+],
+  "geometry": {"coordinates":[-83.613184,42.243519],"type":"Point"}
+}

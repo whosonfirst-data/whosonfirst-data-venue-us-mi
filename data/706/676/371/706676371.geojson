@@ -1,0 +1,90 @@
+{
+  "id": 706676371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.084984,42.487736,-83.084984,42.487736",
+    "geom:latitude":42.487736,
+    "geom:longitude":-83.084984,
+    "iso:country":"US",
+    "sg:address":"26548 Dequindre Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/warren/40232-grand-azteca-ii/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 558 7373",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524423,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524615,
+        404508209,
+        85952031,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P7Y9n6tMPiPJmn1ujTAIC_42.487736_-83.084984@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809140,
+    "wof:geomhash":"5badbeba54935799b9536a0552fd84c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524423,
+            "region_id":85688599,
+            "venue_id":706676371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706676371
+        }
+    ],
+    "wof:id":706676371,
+    "wof:lastmodified":1461809140,
+    "wof:name":"Grand Azteca II",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.084984,
+    42.487736,
+    -83.084984,
+    42.487736
+],
+  "geometry": {"coordinates":[-83.08498400000001,42.487736],"type":"Point"}
+}

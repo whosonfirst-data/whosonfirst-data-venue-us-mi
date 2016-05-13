@@ -1,0 +1,71 @@
+{
+  "id": 706572457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.76174,43.030528,-83.76174,43.030528",
+    "geom:latitude":43.030528,
+    "geom:longitude":-83.76174,
+    "iso:country":"US",
+    "sg:address":"2077 Mill Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 720 0570",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3352H46iOqowAQbum6E8Pm_43.030528_-83.761740@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806109,
+    "wof:geomhash":"bc5514ec951ab8c4ba7a409fcb746dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706572457
+        }
+    ],
+    "wof:id":706572457,
+    "wof:lastmodified":1461806109,
+    "wof:name":"Mayfield Adult Foster Care",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -83.76174,
+    43.030528,
+    -83.76174,
+    43.030528
+],
+  "geometry": {"coordinates":[-83.76174,43.030528],"type":"Point"}
+}

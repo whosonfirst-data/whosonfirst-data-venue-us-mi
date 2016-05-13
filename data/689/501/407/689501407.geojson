@@ -1,0 +1,73 @@
+{
+  "id": 689501407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.352341,42.705343,-83.352341,42.705343",
+    "geom:latitude":42.705343,
+    "geom:longitude":-83.352341,
+    "iso:country":"US",
+    "sg:address":"3020 Mann Rd",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 5943",
+    "sg:postcode":"48346",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w2k4ifvXMRMwKtgGXzDn5_42.705343_-83.352341@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773131,
+    "wof:geomhash":"518567d0e174868ba63315cd9d9ddc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689501407
+        }
+    ],
+    "wof:id":689501407,
+    "wof:lastmodified":1461773131,
+    "wof:name":"Always Trucking",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.352341,
+    42.705343,
+    -83.352341,
+    42.705343
+],
+  "geometry": {"coordinates":[-83.352341,42.705343],"type":"Point"}
+}

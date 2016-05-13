@@ -1,0 +1,69 @@
+{
+  "id": 706594037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.490042,42.092336,-84.490042,42.092336",
+    "geom:latitude":42.092336,
+    "geom:longitude":-84.490042,
+    "iso:country":"US",
+    "sg:address":"521 Skyline Dr",
+    "sg:city":"Horton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 688 3705",
+    "sg:postcode":"49246",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AT2Soj4YkrO0KVOvnLq6b_42.092336_-84.490042@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806601,
+    "wof:geomhash":"c635de52e35518cbd65d0aa780ad3fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706594037
+        }
+    ],
+    "wof:id":706594037,
+    "wof:lastmodified":1461806601,
+    "wof:name":"Neat N Tidy",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.490042,
+    42.092336,
+    -84.490042,
+    42.092336
+],
+  "geometry": {"coordinates":[-84.490042,42.092336],"type":"Point"}
+}

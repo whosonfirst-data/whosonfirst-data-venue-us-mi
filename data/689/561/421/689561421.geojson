@@ -1,0 +1,73 @@
+{
+  "id": 689561421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.416099,42.719336,-84.416099,42.719336",
+    "geom:latitude":42.719336,
+    "geom:longitude":-84.416099,
+    "iso:country":"US",
+    "sg:address":"1859 W Grand River Ave",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 349 4500",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZwgGdEl71nWyl0EYfudhs_42.719336_-84.416099@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775051,
+    "wof:geomhash":"454364646245da2587eb4400407d9792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689561421
+        }
+    ],
+    "wof:id":689561421,
+    "wof:lastmodified":1461775051,
+    "wof:name":"Delta Medical Center",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.416099,
+    42.719336,
+    -84.416099,
+    42.719336
+],
+  "geometry": {"coordinates":[-84.416099,42.719336],"type":"Point"}
+}

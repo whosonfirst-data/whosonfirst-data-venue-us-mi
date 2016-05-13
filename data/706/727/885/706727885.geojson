@@ -1,0 +1,76 @@
+{
+  "id": 706727885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302101,42.326302,-83.302101,42.326302",
+    "geom:latitude":42.326302,
+    "geom:longitude":-83.302101,
+    "iso:country":"US",
+    "sg:address":"26445 Ford Rd",
+    "sg:city":"Dearborn Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 0600",
+    "sg:postcode":"48127",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com|www.wingstreet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896625,
+        102191575,
+        404508577,
+        85633793,
+        85951063,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31F9IPUpUJeRKxfy9nn5Wv_42.326302_-83.302101@1303262783"
+    },
+    "wof:country":"US",
+    "wof:created":1461811346,
+    "wof:geomhash":"f01d46fe79f0c7291887dda923fddcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951063,
+            "neighbourhood_id":85896625,
+            "region_id":85688599,
+            "venue_id":706727885
+        }
+    ],
+    "wof:id":706727885,
+    "wof:lastmodified":1461811346,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85896625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.302101,
+    42.326302,
+    -83.302101,
+    42.326302
+],
+  "geometry": {"coordinates":[-83.30210099999999,42.326302],"type":"Point"}
+}

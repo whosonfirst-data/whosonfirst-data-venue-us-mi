@@ -1,0 +1,71 @@
+{
+  "id": 706653443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.06553,45.819979,-88.06553,45.819979",
+    "geom:latitude":45.819979,
+    "geom:longitude":-88.06553,
+    "iso:country":"US",
+    "sg:address":"333 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9185",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSvLNaITCkXqlqmirxAg0_45.819979_-88.065530@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808105,
+    "wof:geomhash":"006020e315f9841f92acc8781a875530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706653443
+        }
+    ],
+    "wof:id":706653443,
+    "wof:lastmodified":1461808105,
+    "wof:name":"N K Professional Cleaners",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -88.06553,
+    45.819979,
+    -88.06553,
+    45.819979
+],
+  "geometry": {"coordinates":[-88.06553,45.819979],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706516567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.334218,42.65855,-83.334218,42.65855",
+    "geom:latitude":42.65855,
+    "geom:longitude":-83.334218,
+    "iso:country":"US",
+    "sg:address":"1201 N Telegraph Rd",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 858 1800",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qDS2ssp5J2ZV3YtaroUs0_42.658550_-83.334218@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804973,
+    "wof:geomhash":"32cf8ce481e4272b8a40271f7f70a55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":706516567
+        }
+    ],
+    "wof:id":706516567,
+    "wof:lastmodified":1461804973,
+    "wof:name":"Oakland County Jail",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.334218,
+    42.65855,
+    -83.334218,
+    42.65855
+],
+  "geometry": {"coordinates":[-83.33421800000001,42.65855],"type":"Point"}
+}

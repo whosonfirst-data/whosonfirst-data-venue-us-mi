@@ -1,0 +1,75 @@
+{
+  "id": 689902509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.178209,43.309401,-86.178209,43.309401",
+    "geom:latitude":43.309401,
+    "geom:longitude":-86.178209,
+    "iso:country":"US",
+    "sg:address":"2345 E McMillan Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 7280",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sewer",
+        "septic",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ryi35DteXJ05Vu8dmfaQL_43.309401_-86.178209@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784644,
+    "wof:geomhash":"e8c985a5e68b12d0898ad68c150959e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689902509
+        }
+    ],
+    "wof:id":689902509,
+    "wof:lastmodified":1461784644,
+    "wof:name":"Great Lakes Twin Lakes Septic",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "septic",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.178209,
+    43.309401,
+    -86.178209,
+    43.309401
+],
+  "geometry": {"coordinates":[-86.178209,43.309401],"type":"Point"}
+}

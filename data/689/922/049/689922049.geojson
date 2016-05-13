@@ -1,0 +1,71 @@
+{
+  "id": 689922049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.741348,43.0272,-83.741348,43.0272",
+    "geom:latitude":43.0272,
+    "geom:longitude":-83.741348,
+    "iso:country":"US",
+    "sg:address":"3500 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 720 0611",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XQF5qB9MOlxer8zS9b9N3_43.027200_-83.741348@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785167,
+    "wof:geomhash":"c9deda6f76f72e2e34dda730d9436b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689922049
+        }
+    ],
+    "wof:id":689922049,
+    "wof:lastmodified":1461785167,
+    "wof:name":"Khalil & Kinaia",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.741348,
+    43.0272,
+    -83.741348,
+    43.0272
+],
+  "geometry": {"coordinates":[-83.741348,43.0272],"type":"Point"}
+}

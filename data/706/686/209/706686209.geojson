@@ -1,0 +1,76 @@
+{
+  "id": 706686209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642063,42.955538,-85.642063,42.955538",
+    "geom:latitude":42.955538,
+    "geom:longitude":-85.642063,
+    "iso:country":"US",
+    "sg:address":"1059 Wealthy St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50821-jamaican-daves/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 458 7875",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "jamaican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877861,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FbjDrNsmwkW5vGESRgFao_42.955538_-85.642063@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809528,
+    "wof:geomhash":"20b9b6f65f37acb1b1f9fe7a07825346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877861,
+            "region_id":85688599,
+            "venue_id":706686209
+        }
+    ],
+    "wof:id":706686209,
+    "wof:lastmodified":1461809528,
+    "wof:name":"Jamaican Dave's",
+    "wof:parent_id":85877861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jamaican"
+    ]
+},
+  "bbox": [
+    -85.642063,
+    42.955538,
+    -85.642063,
+    42.955538
+],
+  "geometry": {"coordinates":[-85.64206299999999,42.955538],"type":"Point"}
+}

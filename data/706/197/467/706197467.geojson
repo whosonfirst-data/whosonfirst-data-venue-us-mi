@@ -1,0 +1,75 @@
+{
+  "id": 706197467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810638,43.317104,-85.810638,43.317104",
+    "geom:latitude":43.317104,
+    "geom:longitude":-85.810638,
+    "iso:country":"US",
+    "sg:address":"13213 Mason Dr",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7463",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2alsjUQeb6tN8lblPM7zub_43.317104_-85.810638@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798020,
+    "wof:geomhash":"8401a292c26adea01d08b7a25ca36e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706197467
+        }
+    ],
+    "wof:id":706197467,
+    "wof:lastmodified":1461798020,
+    "wof:name":"Wes's Auto Repair",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.810638,
+    43.317104,
+    -85.810638,
+    43.317104
+],
+  "geometry": {"coordinates":[-85.810638,43.317104],"type":"Point"}
+}

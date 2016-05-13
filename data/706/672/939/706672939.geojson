@@ -1,0 +1,80 @@
+{
+  "id": 706672939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.139503,42.5196,-83.139503,42.5196",
+    "geom:latitude":42.5196,
+    "geom:longitude":-83.139503,
+    "iso:country":"US",
+    "sg:address":"3315 Rochester Rd",
+    "sg:city":"Royal Oak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 589 2918",
+    "sg:postcode":"48073",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524503,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t0mP8ZwXOnHrNTai0eMhB_42.519983_-83.139334@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808999,
+    "wof:geomhash":"77f85ce6e793153e9dc5352f292c4b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":420524503,
+            "region_id":85688599,
+            "venue_id":706672939
+        }
+    ],
+    "wof:id":706672939,
+    "wof:lastmodified":1461808999,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":420524503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.139503,
+    42.5196,
+    -83.139503,
+    42.5196
+],
+  "geometry": {"coordinates":[-83.139503,42.5196],"type":"Point"}
+}

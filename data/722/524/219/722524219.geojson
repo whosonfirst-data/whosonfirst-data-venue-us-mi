@@ -1,0 +1,83 @@
+{
+  "id": 722524219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.595299,43.014999,-83.595299,43.014999",
+    "geom:latitude":43.014999,
+    "geom:longitude":-83.595299,
+    "iso:country":"US",
+    "sg:address":"1140 S Belsay Rd",
+    "sg:city":"Burton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 744 0433",
+    "sg:postcode":"48509",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829793,
+        102191575,
+        404506585,
+        85633793,
+        85951921,
+        102083111,
+        85688599,
+        85805647,
+        404506589,
+        85951925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gPX9JSf30wlGxkEuih6z1_43.014999_-83.595299@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814177,
+    "wof:geomhash":"cba5be602f8e72c55a87f3a44cfde511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506585,
+            "locality_id":85951921,
+            "neighbourhood_id":85829793,
+            "region_id":85688599,
+            "venue_id":722524219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":722524219
+        }
+    ],
+    "wof:id":722524219,
+    "wof:lastmodified":1461814177,
+    "wof:name":"Burton Dental Center PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.595299,
+    43.014999,
+    -83.595299,
+    43.014999
+],
+  "geometry": {"coordinates":[-83.595299,43.014999],"type":"Point"}
+}

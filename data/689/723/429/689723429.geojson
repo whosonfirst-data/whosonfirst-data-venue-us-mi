@@ -1,0 +1,69 @@
+{
+  "id": 689723429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.152093,43.139223,-86.152093,43.139223",
+    "geom:latitude":43.139223,
+    "geom:longitude":-86.152093,
+    "iso:country":"US",
+    "sg:address":"3443 Farr Rd",
+    "sg:city":"Fruitport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 865 6966",
+    "sg:postcode":"49415",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2awcUWLxCZCb6tIEuWvY50_43.139223_-86.152093@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779756,
+    "wof:geomhash":"88bd8518a624a5272e48810b900d9410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689723429
+        }
+    ],
+    "wof:id":689723429,
+    "wof:lastmodified":1461779756,
+    "wof:name":"Fruitport Family Medicine",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.152093,
+    43.139223,
+    -86.152093,
+    43.139223
+],
+  "geometry": {"coordinates":[-86.15209299999999,43.139223],"type":"Point"}
+}

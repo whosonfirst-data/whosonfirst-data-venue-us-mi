@@ -1,0 +1,72 @@
+{
+  "id": 706503301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4325,42.689285,-84.4325,42.689285",
+    "geom:latitude":42.689285,
+    "geom:longitude":-84.4325,
+    "iso:country":"US",
+    "sg:address":"3681 Okemos Rd",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 349 3011",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.bmtcarhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KnuJRJXKuD5JK4AbO8VSY_42.689285_-84.432500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804715,
+    "wof:geomhash":"419b833210496485fd2c833571cc079e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706503301
+        }
+    ],
+    "wof:id":706503301,
+    "wof:lastmodified":1461804715,
+    "wof:name":"Bavarian Motor Transport",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.4325,
+    42.689285,
+    -84.4325,
+    42.689285
+],
+  "geometry": {"coordinates":[-84.4325,42.689285],"type":"Point"}
+}

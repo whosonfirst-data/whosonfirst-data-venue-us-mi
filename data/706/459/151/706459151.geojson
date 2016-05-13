@@ -1,0 +1,73 @@
+{
+  "id": 706459151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426686,43.783633,-86.426686,43.783633",
+    "geom:latitude":43.783633,
+    "geom:longitude":-86.426686,
+    "iso:country":"US",
+    "sg:address":"486 Park St",
+    "sg:city":"Pentwater",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 869 5987",
+    "sg:postcode":"49449",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951205,
+        102083141,
+        85820689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hVlVH6dPKTG9SdE9NzhvV_43.783633_-86.426686@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803626,
+    "wof:geomhash":"552e3a42fe05fccbd220d7d40ad7db06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083141,
+            "locality_id":85951205,
+            "neighbourhood_id":85820689,
+            "region_id":85688599,
+            "venue_id":706459151
+        }
+    ],
+    "wof:id":706459151,
+    "wof:lastmodified":1461803626,
+    "wof:name":"Pentwater Fire Deprtmnt",
+    "wof:parent_id":85820689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.426686,
+    43.783633,
+    -86.426686,
+    43.783633
+],
+  "geometry": {"coordinates":[-86.426686,43.783633],"type":"Point"}
+}

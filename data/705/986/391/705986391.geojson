@@ -1,0 +1,73 @@
+{
+  "id": 705986391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.406699,44.27518,-85.406699,44.27518",
+    "geom:latitude":44.27518,
+    "geom:longitude":-85.406699,
+    "iso:country":"US",
+    "sg:address":"1815 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 876 8000",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aZQIGdHs99w6PgTcmj2HE_44.275180_-85.406699@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793303,
+    "wof:geomhash":"345e6c06d96e364da59b384f6edb6512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705986391
+        }
+    ],
+    "wof:id":705986391,
+    "wof:lastmodified":1461793303,
+    "wof:name":"Mirac Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.406699,
+    44.27518,
+    -85.406699,
+    44.27518
+],
+  "geometry": {"coordinates":[-85.406699,44.27518],"type":"Point"}
+}

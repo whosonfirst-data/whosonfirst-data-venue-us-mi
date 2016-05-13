@@ -1,0 +1,71 @@
+{
+  "id": 706433221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.77603,42.675091,-85.77603,42.675091",
+    "geom:latitude":42.675091,
+    "geom:longitude":-85.77603,
+    "iso:country":"US",
+    "sg:address":"2317 135th Ave",
+    "sg:city":"Hopkins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 793 3241",
+    "sg:postcode":"49328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nMO25SsV9cMla3JwyocT2_42.675091_-85.776030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803040,
+    "wof:geomhash":"95f0218e97b791ae0d5cfd5996c6d231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706433221
+        }
+    ],
+    "wof:id":706433221,
+    "wof:lastmodified":1461803040,
+    "wof:name":"Geiger Heating & Cooling",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.77603,
+    42.675091,
+    -85.77603,
+    42.675091
+],
+  "geometry": {"coordinates":[-85.77603000000001,42.675091],"type":"Point"}
+}

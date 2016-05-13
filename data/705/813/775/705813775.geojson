@@ -1,0 +1,74 @@
+{
+  "id": 705813775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.167449,43.357967,-86.167449,43.357967",
+    "geom:latitude":43.357967,
+    "geom:longitude":-86.167449,
+    "iso:country":"US",
+    "sg:address":"5710 Holton Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 4848",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.mdautosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PS5l42u6q17ODvLsRdW0t_43.357967_-86.167449@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789322,
+    "wof:geomhash":"c891d975ed4947d044d3ee7617691fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705813775
+        }
+    ],
+    "wof:id":705813775,
+    "wof:lastmodified":1461789322,
+    "wof:name":"M D Auto Sales",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.167449,
+    43.357967,
+    -86.167449,
+    43.357967
+],
+  "geometry": {"coordinates":[-86.167449,43.357967],"type":"Point"}
+}

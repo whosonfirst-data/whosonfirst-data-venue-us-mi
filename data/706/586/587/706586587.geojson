@@ -1,0 +1,73 @@
+{
+  "id": 706586587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.311072,42.221938,-84.311072,42.221938",
+    "geom:latitude":42.221938,
+    "geom:longitude":-84.311072,
+    "iso:country":"US",
+    "sg:address":"910 Napoleon Rd",
+    "sg:city":"Michigan Center",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 3010",
+    "sg:postcode":"49254",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P3uPoGUOsscO4ki8yGFls_42.221938_-84.311072@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806458,
+    "wof:geomhash":"fc5f39c058676538482f9217c08fadee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706586587
+        }
+    ],
+    "wof:id":706586587,
+    "wof:lastmodified":1461806458,
+    "wof:name":"Tomsway Trucking",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.311072,
+    42.221938,
+    -84.311072,
+    42.221938
+],
+  "geometry": {"coordinates":[-84.311072,42.221938],"type":"Point"}
+}

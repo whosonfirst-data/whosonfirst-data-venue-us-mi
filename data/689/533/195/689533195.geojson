@@ -1,0 +1,75 @@
+{
+  "id": 689533195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.659455,41.957288,-83.659455,41.957288",
+    "geom:latitude":41.957288,
+    "geom:longitude":-83.659455,
+    "iso:country":"US",
+    "sg:address":"125 W Main St",
+    "sg:city":"Dundee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 529 3273",
+    "sg:postcode":"48131",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_090TerdybQlvz9WqZcqNNV_41.957288_-83.659455@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774176,
+    "wof:geomhash":"cef484ea7943ba946edddb8a6eb176fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689533195
+        }
+    ],
+    "wof:id":689533195,
+    "wof:lastmodified":1461774176,
+    "wof:name":"Tom's Auto Body Shop",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.659455,
+    41.957288,
+    -83.659455,
+    41.957288
+],
+  "geometry": {"coordinates":[-83.65945499999999,41.957288],"type":"Point"}
+}

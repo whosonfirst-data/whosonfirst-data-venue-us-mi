@@ -1,0 +1,69 @@
+{
+  "id": 689698751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225052,43.196788,-86.225052,43.196788",
+    "geom:latitude":43.196788,
+    "geom:longitude":-86.225052,
+    "iso:country":"US",
+    "sg:address":"3020 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 3557",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U6YlyJFdD4Oco1XczML1W_43.196788_-86.225052@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779075,
+    "wof:geomhash":"c8dcf91e2cbf9d32a88648b0aceca1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689698751
+        }
+    ],
+    "wof:id":689698751,
+    "wof:lastmodified":1461779075,
+    "wof:name":"Muffler Center",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.225052,
+    43.196788,
+    -86.225052,
+    43.196788
+],
+  "geometry": {"coordinates":[-86.22505200000001,43.196788],"type":"Point"}
+}

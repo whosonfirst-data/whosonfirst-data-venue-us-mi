@@ -1,0 +1,70 @@
+{
+  "id": 706564139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.39751,41.91409,-83.39751,41.91409",
+    "geom:latitude":41.91409,
+    "geom:longitude":-83.39751,
+    "iso:country":"US",
+    "sg:address":"120 E 2nd St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 3300",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.monroepolice.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L6itJ14NbEhMftxAGtaKJ_41.914090_-83.397510@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805935,
+    "wof:geomhash":"61c9fbe7838c1120da4277c60d1cea2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706564139
+        }
+    ],
+    "wof:id":706564139,
+    "wof:lastmodified":1461805935,
+    "wof:name":"Monroe City Police Dept",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.39751,
+    41.91409,
+    -83.39751,
+    41.91409
+],
+  "geometry": {"coordinates":[-83.39751,41.91409],"type":"Point"}
+}

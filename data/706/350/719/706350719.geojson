@@ -1,0 +1,73 @@
+{
+  "id": 706350719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.751754,43.018464,-83.751754,43.018464",
+    "geom:latitude":43.018464,
+    "geom:longitude":-83.751754,
+    "iso:country":"US",
+    "sg:address":"3535 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 2250",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h0ENOuvY00Cl1BdipGEuL_43.018464_-83.751754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801420,
+    "wof:geomhash":"6d2d80ad10bbec3cac45057abccd3499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706350719
+        }
+    ],
+    "wof:id":706350719,
+    "wof:lastmodified":1461801420,
+    "wof:name":"Family Medicine Assoc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.751754,
+    43.018464,
+    -83.751754,
+    43.018464
+],
+  "geometry": {"coordinates":[-83.75175400000001,43.018464],"type":"Point"}
+}

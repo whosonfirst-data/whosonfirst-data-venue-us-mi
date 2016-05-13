@@ -1,0 +1,71 @@
+{
+  "id": 706499007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.443011,47.237171,-88.443011,47.237171",
+    "geom:latitude":47.237171,
+    "geom:longitude":-88.443011,
+    "iso:country":"US",
+    "sg:address":"300 Hecla St",
+    "sg:city":"Laurium",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 337 9355",
+    "sg:postcode":"49913",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851683,
+        102083087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ic1U8aopazro9W3qYuOWc_47.237171_-88.443011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804634,
+    "wof:geomhash":"6999e382dcc23c5fb6ef947eeebac50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "neighbourhood_id":85851683,
+            "region_id":85688599,
+            "venue_id":706499007
+        }
+    ],
+    "wof:id":706499007,
+    "wof:lastmodified":1461804634,
+    "wof:name":"Larium Wellness Ctr",
+    "wof:parent_id":85851683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.443011,
+    47.237171,
+    -88.443011,
+    47.237171
+],
+  "geometry": {"coordinates":[-88.443011,47.237171],"type":"Point"}
+}

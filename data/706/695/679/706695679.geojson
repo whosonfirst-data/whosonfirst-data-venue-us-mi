@@ -1,0 +1,75 @@
+{
+  "id": 706695679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282514,42.49995,-83.282514,42.49995",
+    "geom:latitude":42.49995,
+    "geom:longitude":-83.282514,
+    "iso:country":"US",
+    "sg:address":"28800 Telegraph Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48034",
+    "sg:province":"MI",
+    "sg:website":"www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896669,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmrvAD8TPUeCc5OoNczWO_42.499950_-83.282514@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809896,
+    "wof:geomhash":"510c2fbcc96a4fa9bad496d6a2170947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896669,
+            "region_id":85688599,
+            "venue_id":706695679
+        }
+    ],
+    "wof:id":706695679,
+    "wof:lastmodified":1461809896,
+    "wof:name":"Meijer",
+    "wof:parent_id":85896669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.282514,
+    42.49995,
+    -83.282514,
+    42.49995
+],
+  "geometry": {"coordinates":[-83.28251400000001,42.49995],"type":"Point"}
+}

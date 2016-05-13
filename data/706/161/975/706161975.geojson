@@ -1,0 +1,79 @@
+{
+  "id": 706161975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.655919,42.959284,-85.655919,42.959284",
+    "geom:latitude":42.959284,
+    "geom:longitude":-85.655919,
+    "iso:country":"US",
+    "sg:address":"516 Cherry St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 771 9755",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877923,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3frc1Dx1p97RZwpZZkPTTe_42.959284_-85.655919@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797248,
+    "wof:geomhash":"e29a92aed7e7d066c9387cdbf2ee2aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877923,
+            "region_id":85688599,
+            "venue_id":706161975
+        }
+    ],
+    "wof:id":706161975,
+    "wof:lastmodified":1461797248,
+    "wof:name":"Life Connections Of Michigan",
+    "wof:parent_id":85877923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -85.655919,
+    42.959284,
+    -85.655919,
+    42.959284
+],
+  "geometry": {"coordinates":[-85.655919,42.959284],"type":"Point"}
+}

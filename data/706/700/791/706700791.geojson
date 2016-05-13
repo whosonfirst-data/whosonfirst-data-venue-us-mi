@@ -1,0 +1,71 @@
+{
+  "id": 706700791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.8965,42.6077,-82.8965,42.6077",
+    "geom:latitude":42.6077,
+    "geom:longitude":-82.8965,
+    "iso:country":"US",
+    "sg:address":"8 Valley Dr",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 5044",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T4Be6rKB0QSxWdumrVbS5_42.607700_-82.896500@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810113,
+    "wof:geomhash":"9ea8e639ead5138a63a2dbfb3373140b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706700791
+        }
+    ],
+    "wof:id":706700791,
+    "wof:lastmodified":1461810113,
+    "wof:name":"Valley Drive Apartments",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.8965,
+    42.6077,
+    -82.8965,
+    42.6077
+],
+  "geometry": {"coordinates":[-82.8965,42.6077],"type":"Point"}
+}

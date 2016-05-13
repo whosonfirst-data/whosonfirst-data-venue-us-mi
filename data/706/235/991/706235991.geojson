@@ -1,0 +1,71 @@
+{
+  "id": 706235991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.904738,42.850893,-85.904738,42.850893",
+    "geom:latitude":42.850893,
+    "geom:longitude":-85.904738,
+    "iso:country":"US",
+    "sg:address":"5350 Chicago Dr",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 875 6090",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805159,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Go53sdvuz5iF30yB1NFE7_42.850893_-85.904738@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798854,
+    "wof:geomhash":"454741db8f5f71df4ce7d01a733cba68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85805159,
+            "region_id":85688599,
+            "venue_id":706235991
+        }
+    ],
+    "wof:id":706235991,
+    "wof:lastmodified":1461798854,
+    "wof:name":"Integrity Electrical Svc",
+    "wof:parent_id":85805159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.904738,
+    42.850893,
+    -85.904738,
+    42.850893
+],
+  "geometry": {"coordinates":[-85.90473799999999,42.850893],"type":"Point"}
+}

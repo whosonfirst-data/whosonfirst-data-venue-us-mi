@@ -1,0 +1,94 @@
+{
+  "id": 706670267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.130798,42.330898,-83.130798,42.330898",
+    "geom:latitude":42.330898,
+    "geom:longitude":-83.130798,
+    "iso:country":"US",
+    "sg:address":"4381 Larkins St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 843 5233",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "space",
+        "venue",
+        "event",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Oc4cwJZVddtSGpVDl3dHN_42.330559_-83.130482@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808871,
+    "wof:geomhash":"de6d1a31adf349fde5a91f3eaa9d8f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":706670267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":706670267
+        }
+    ],
+    "wof:id":706670267,
+    "wof:lastmodified":1461808871,
+    "wof:name":"Knights of Columbus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "space",
+        "venue",
+        "event",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.130798,
+    42.330898,
+    -83.130798,
+    42.330898
+],
+  "geometry": {"coordinates":[-83.130798,42.330898],"type":"Point"}
+}

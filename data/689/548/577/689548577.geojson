@@ -1,0 +1,73 @@
+{
+  "id": 689548577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.398632,46.531704,-87.398632,46.531704",
+    "geom:latitude":46.531704,
+    "geom:longitude":-87.398632,
+    "iso:country":"US",
+    "sg:address":"250 W Hampton St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 2131",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gsYjhDdqiujmETrfJ6Bc7_46.531704_-87.398632@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774669,
+    "wof:geomhash":"755045098afabae0c3f32b463b3665fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689548577
+        }
+    ],
+    "wof:id":689548577,
+    "wof:lastmodified":1461774669,
+    "wof:name":"E Q Muffler Shop",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.398632,
+    46.531704,
+    -87.398632,
+    46.531704
+],
+  "geometry": {"coordinates":[-87.39863200000001,46.531704],"type":"Point"}
+}

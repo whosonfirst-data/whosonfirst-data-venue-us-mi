@@ -1,0 +1,73 @@
+{
+  "id": 705960017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.459574,41.783499,-86.459574,41.783499",
+    "geom:latitude":41.783499,
+    "geom:longitude":-86.459574,
+    "iso:country":"US",
+    "sg:address":"334 Buffalo Rd",
+    "sg:city":"Galien",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 545 2270",
+    "sg:postcode":"49113",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BQDw3gWInHI7wIm3XRf1A_41.783499_-86.459574@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792743,
+    "wof:geomhash":"e6200d8d7723dd0c74c03892d4f5f2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":705960017
+        }
+    ],
+    "wof:id":705960017,
+    "wof:lastmodified":1461792743,
+    "wof:name":"Precision Plumbing",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.459574,
+    41.783499,
+    -86.459574,
+    41.783499
+],
+  "geometry": {"coordinates":[-86.459574,41.783499],"type":"Point"}
+}

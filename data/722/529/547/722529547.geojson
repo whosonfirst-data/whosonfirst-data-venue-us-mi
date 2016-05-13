@@ -1,0 +1,79 @@
+{
+  "id": 722529547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.220617,43.146487,-86.220617,43.146487",
+    "geom:latitude":43.146487,
+    "geom:longitude":-86.220617,
+    "iso:country":"US",
+    "sg:address":"5832 Grand Haven Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 463 3339",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "duplicating",
+        "shipping",
+        "copying"
+    ],
+    "sg:website":"http://www.fedex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OKMIPJZEK0H18QfgSd90O_43.146487_-86.220617@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814390,
+    "wof:geomhash":"349d7daf5cd241e87de8de485ac7f8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":722529547
+        }
+    ],
+    "wof:id":722529547,
+    "wof:lastmodified":1461814390,
+    "wof:name":"FedEx Express Ship Center",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "shipping",
+        "copying"
+    ]
+},
+  "bbox": [
+    -86.220617,
+    43.146487,
+    -86.220617,
+    43.146487
+],
+  "geometry": {"coordinates":[-86.220617,43.146487],"type":"Point"}
+}

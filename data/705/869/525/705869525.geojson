@@ -1,0 +1,71 @@
+{
+  "id": 705869525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.451609,42.115096,-86.451609,42.115096",
+    "geom:latitude":42.115096,
+    "geom:longitude":-86.451609,
+    "iso:country":"US",
+    "sg:address":"272 Brunson Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 9600",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iMsOlJtjVy75RMJ9vb8nc_42.115096_-86.451609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790681,
+    "wof:geomhash":"ad2f769d9894d5ac6fda2cbe5291592d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705869525
+        }
+    ],
+    "wof:id":705869525,
+    "wof:lastmodified":1461790681,
+    "wof:name":"Brunson Hill Homes",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.451609,
+    42.115096,
+    -86.451609,
+    42.115096
+],
+  "geometry": {"coordinates":[-86.451609,42.115096],"type":"Point"}
+}

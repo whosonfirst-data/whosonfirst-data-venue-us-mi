@@ -1,0 +1,71 @@
+{
+  "id": 689789399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.30413,43.398872,-86.30413,43.398872",
+    "geom:latitude":43.398872,
+    "geom:longitude":-86.30413,
+    "iso:country":"US",
+    "sg:address":"2517 Crystal Lake Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 6232",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t37Djh27HMQysBjJjRYwM_43.398872_-86.304130@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781511,
+    "wof:geomhash":"063deac8bbd8a7eca35d11b162e7dbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689789399
+        }
+    ],
+    "wof:id":689789399,
+    "wof:lastmodified":1461781511,
+    "wof:name":"Point Of View Photography",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -86.30413,
+    43.398872,
+    -86.30413,
+    43.398872
+],
+  "geometry": {"coordinates":[-86.30413,43.398872],"type":"Point"}
+}

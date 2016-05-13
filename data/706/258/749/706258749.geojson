@@ -1,0 +1,71 @@
+{
+  "id": 706258749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624782,42.853321,-85.624782,42.853321",
+    "geom:latitude":42.853321,
+    "geom:longitude":-85.624782,
+    "iso:country":"US",
+    "sg:address":"6208 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 554 5970",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3TKFDBHUrcEE3SQc5jxg_42.853321_-85.624782@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799378,
+    "wof:geomhash":"b78771f911bb2190112a96525ccd21fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706258749
+        }
+    ],
+    "wof:id":706258749,
+    "wof:lastmodified":1461799378,
+    "wof:name":"Kentwood Dental Assoc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.624782,
+    42.853321,
+    -85.624782,
+    42.853321
+],
+  "geometry": {"coordinates":[-85.624782,42.853321],"type":"Point"}
+}

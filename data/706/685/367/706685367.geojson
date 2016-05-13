@@ -1,0 +1,74 @@
+{
+  "id": 706685367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.95701,43.058379,-85.95701,43.058379",
+    "geom:latitude":43.058379,
+    "geom:longitude":-85.95701,
+    "iso:country":"US",
+    "sg:address":"59 68th Ave S",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/coopersville/186044-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 9549",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NzstB5ofPvZnmnnS0Uy4z_43.058379_-85.957010@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"4fe572f1958de5b5f396a2ae98c9ec31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706685367
+        }
+    ],
+    "wof:id":706685367,
+    "wof:lastmodified":1461809497,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.95701,
+    43.058379,
+    -85.95701,
+    43.058379
+],
+  "geometry": {"coordinates":[-85.95701,43.058379],"type":"Point"}
+}

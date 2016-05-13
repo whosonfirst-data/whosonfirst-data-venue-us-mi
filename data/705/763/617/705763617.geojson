@@ -1,0 +1,74 @@
+{
+  "id": 705763617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.293516,42.805474,-83.293516,42.805474",
+    "geom:latitude":42.805474,
+    "geom:longitude":-83.293516,
+    "iso:country":"US",
+    "sg:address":"1845 Worcester Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 969 1968",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D1Ndv6KXlOUdZXrkQrBaj_42.805474_-83.293516@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788170,
+    "wof:geomhash":"2c7a4f4d3aed6482e686112cae1f02b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705763617
+        }
+    ],
+    "wof:id":705763617,
+    "wof:lastmodified":1461788170,
+    "wof:name":"Sierra Vending Svc",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -83.293516,
+    42.805474,
+    -83.293516,
+    42.805474
+],
+  "geometry": {"coordinates":[-83.293516,42.805474],"type":"Point"}
+}

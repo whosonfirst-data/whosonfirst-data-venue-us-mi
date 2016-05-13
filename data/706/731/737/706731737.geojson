@@ -1,0 +1,86 @@
+{
+  "id": 706731737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.424271,42.359443,-83.424271,42.359443",
+    "geom:latitude":42.359443,
+    "geom:longitude":-83.424271,
+    "iso:country":"US",
+    "sg:address":"38741 Ann Arbor Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 462 9247",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.dogdaycare.com/livonia",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896709,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CEwn4gJ30GgXFl0Flm2LA_42.359443_-83.424271@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811486,
+    "wof:geomhash":"2625f40e7cea0c67f9d256220aea46d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706731737
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706731737
+        }
+    ],
+    "wof:id":706731737,
+    "wof:lastmodified":1461811486,
+    "wof:name":"Dogtopia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.424271,
+    42.359443,
+    -83.424271,
+    42.359443
+],
+  "geometry": {"coordinates":[-83.424271,42.359443],"type":"Point"}
+}

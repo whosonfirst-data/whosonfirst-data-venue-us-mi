@@ -1,0 +1,71 @@
+{
+  "id": 706653451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259207,43.201238,-86.259207,43.201238",
+    "geom:latitude":43.201238,
+    "geom:longitude":-86.259207,
+    "iso:country":"US",
+    "sg:address":"560 W Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 830 1400",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TX1So6zwKqFTTj6WnCgec_43.201238_-86.259207@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808105,
+    "wof:geomhash":"5915db053ff04ecb2b98fa14a8e905f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706653451
+        }
+    ],
+    "wof:id":706653451,
+    "wof:lastmodified":1461808105,
+    "wof:name":"Michigan Contractor Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.259207,
+    43.201238,
+    -86.259207,
+    43.201238
+],
+  "geometry": {"coordinates":[-86.259207,43.201238],"type":"Point"}
+}

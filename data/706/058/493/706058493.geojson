@@ -1,0 +1,71 @@
+{
+  "id": 706058493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.562554,43.459859,-85.562554,43.459859",
+    "geom:latitude":43.459859,
+    "geom:longitude":-85.562554,
+    "iso:country":"US",
+    "sg:address":"5255 Newcosta Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 937 5925",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UbdBzKWyILUToSQJsCHNF_43.459859_-85.562554@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794783,
+    "wof:geomhash":"359e43c7cb599e43f2e2e29091497179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706058493
+        }
+    ],
+    "wof:id":706058493,
+    "wof:lastmodified":1461794783,
+    "wof:name":"All American Towing",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.562554,
+    43.459859,
+    -85.562554,
+    43.459859
+],
+  "geometry": {"coordinates":[-85.56255400000001,43.459859],"type":"Point"}
+}

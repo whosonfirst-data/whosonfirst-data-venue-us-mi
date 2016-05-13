@@ -1,0 +1,69 @@
+{
+  "id": 689827015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250626,41.775501,-86.250626,41.775501",
+    "geom:latitude":41.775501,
+    "geom:longitude":-86.250626,
+    "iso:country":"US",
+    "sg:address":"2555 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 7201",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ju0qtuJY8OhpRM6PXBLiz_41.775501_-86.250626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782704,
+    "wof:geomhash":"8a077375692ce4d1a79ed84afdb85567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689827015
+        }
+    ],
+    "wof:id":689827015,
+    "wof:lastmodified":1461782704,
+    "wof:name":"Joes Auto & Truck Painting",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.250626,
+    41.775501,
+    -86.250626,
+    41.775501
+],
+  "geometry": {"coordinates":[-86.250626,41.775501],"type":"Point"}
+}

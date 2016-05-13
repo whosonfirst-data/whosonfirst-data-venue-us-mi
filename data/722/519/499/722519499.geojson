@@ -1,0 +1,71 @@
+{
+  "id": 722519499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.445999,42.597,-83.445999,42.597",
+    "geom:latitude":42.597,
+    "geom:longitude":-83.445999,
+    "iso:country":"US",
+    "sg:address":"2625 Union Lake Rd",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 8344",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ixQ0VxmT37rrT9WB96kpU_42.597000_-83.445999@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813897,
+    "wof:geomhash":"fc9a9de0264c950a0d6cb6dfc1519d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":722519499
+        }
+    ],
+    "wof:id":722519499,
+    "wof:lastmodified":1461813897,
+    "wof:name":"Lakeside Pet Salon",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.445999,
+    42.597,
+    -83.445999,
+    42.597
+],
+  "geometry": {"coordinates":[-83.445999,42.597],"type":"Point"}
+}

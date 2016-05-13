@@ -1,0 +1,71 @@
+{
+  "id": 706449343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662185,42.702164,-84.662185,42.702164",
+    "geom:latitude":42.702164,
+    "geom:longitude":-84.662185,
+    "iso:country":"US",
+    "sg:address":"7608 Lanac St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 886 9090",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_018imD3dNia0EXxCHQwpFM_42.702164_-84.662185@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803421,
+    "wof:geomhash":"596df831a02b6cd0a03c26d60168afdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706449343
+        }
+    ],
+    "wof:id":706449343,
+    "wof:lastmodified":1461803421,
+    "wof:name":"Landmarc Construction Inc",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.662185,
+    42.702164,
+    -84.662185,
+    42.702164
+],
+  "geometry": {"coordinates":[-84.66218499999999,42.702164],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706526563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.959697,43.468091,-85.959697,43.468091",
+    "geom:latitude":43.468091,
+    "geom:longitude":-85.959697,
+    "iso:country":"US",
+    "sg:address":"100 N Stone Rd",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 9274",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_512VwvtPl3YY9k2VSH87Hx_43.468091_-85.959697@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805160,
+    "wof:geomhash":"3981e2f761928ac1f2023348d2c5f719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706526563
+        }
+    ],
+    "wof:id":706526563,
+    "wof:lastmodified":1461805160,
+    "wof:name":"Great Lakes Car Wash",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.959697,
+    43.468091,
+    -85.959697,
+    43.468091
+],
+  "geometry": {"coordinates":[-85.95969700000001,43.468091],"type":"Point"}
+}

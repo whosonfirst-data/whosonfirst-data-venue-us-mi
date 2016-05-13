@@ -1,0 +1,71 @@
+{
+  "id": 706416433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748232,42.753364,-84.748232,42.753364",
+    "geom:latitude":42.753364,
+    "geom:longitude":-84.748232,
+    "iso:country":"US",
+    "sg:address":"311 Harrison St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 2422",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GohhGUe0jXTsIGpNNlaBV_42.753364_-84.748232@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802724,
+    "wof:geomhash":"bbbcfd9c6029c0d04aea5086bd320ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706416433
+        }
+    ],
+    "wof:id":706416433,
+    "wof:lastmodified":1461802724,
+    "wof:name":"Richard Martzke DDS PC",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.748232,
+    42.753364,
+    -84.748232,
+    42.753364
+],
+  "geometry": {"coordinates":[-84.748232,42.753364],"type":"Point"}
+}

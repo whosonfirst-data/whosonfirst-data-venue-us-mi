@@ -1,0 +1,73 @@
+{
+  "id": 706485407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.399576,46.554683,-87.399576,46.554683",
+    "geom:latitude":46.554683,
+    "geom:longitude":-87.399576,
+    "iso:country":"US",
+    "sg:address":"580 W College Ave",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 3914",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QZAz5UQ9R2aAJJLhGSwns_46.554683_-87.399576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804211,
+    "wof:geomhash":"0c0e3825b686023934feb583b06f4aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706485407
+        }
+    ],
+    "wof:id":706485407,
+    "wof:lastmodified":1461804211,
+    "wof:name":"U P Rehabilitation Medicine",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.399576,
+    46.554683,
+    -87.399576,
+    46.554683
+],
+  "geometry": {"coordinates":[-87.399576,46.554683],"type":"Point"}
+}

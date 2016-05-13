@@ -1,0 +1,81 @@
+{
+  "id": 706716501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.186344,42.546327,-83.186344,42.546327",
+    "geom:latitude":42.546327,
+    "geom:longitude":-83.186344,
+    "iso:country":"US",
+    "sg:address":"1341 Coolidge Hwy",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 643 6316",
+    "sg:postcode":"48084",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896569,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KM5yrJ4kEK7TBfGwgFL8k_42.546327_-83.186344@1303262780"
+    },
+    "wof:country":"US",
+    "wof:created":1461810801,
+    "wof:geomhash":"7a448bd5b05f22c59fe4a2d47428dfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896569,
+            "region_id":85688599,
+            "venue_id":706716501
+        }
+    ],
+    "wof:id":706716501,
+    "wof:lastmodified":1461810801,
+    "wof:name":"FedEx Office Ship Center",
+    "wof:parent_id":85896569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -83.186344,
+    42.546327,
+    -83.186344,
+    42.546327
+],
+  "geometry": {"coordinates":[-83.18634400000001,42.546327],"type":"Point"}
+}

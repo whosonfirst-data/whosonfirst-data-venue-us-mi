@@ -1,0 +1,83 @@
+{
+  "id": 722476003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.193915,42.175446,-83.193915,42.175446",
+    "geom:latitude":42.175446,
+    "geom:longitude":-83.193915,
+    "iso:country":"US",
+    "sg:address":"18231 Civic Park Dr",
+    "sg:city":"Riverview",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"48193",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896777,
+        102191575,
+        404508653,
+        85633793,
+        85951127,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v0mJA9qaBWYzNlrHnzO6y_42.175446_-83.193915@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812118,
+    "wof:geomhash":"272231f9d07a148a262364858f4d4dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508653,
+            "locality_id":85951127,
+            "neighbourhood_id":85896777,
+            "region_id":85688599,
+            "venue_id":722476003
+        }
+    ],
+    "wof:id":722476003,
+    "wof:lastmodified":1461812118,
+    "wof:name":"USPS - United States Post Office - Riverview Branch",
+    "wof:parent_id":85896777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -83.193915,
+    42.175446,
+    -83.193915,
+    42.175446
+],
+  "geometry": {"coordinates":[-83.193915,42.175446],"type":"Point"}
+}

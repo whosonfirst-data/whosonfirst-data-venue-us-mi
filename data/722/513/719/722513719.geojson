@@ -1,0 +1,69 @@
+{
+  "id": 722513719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.437401,42.526001,-83.437401,42.526001",
+    "geom:latitude":42.526001,
+    "geom:longitude":-83.437401,
+    "iso:country":"US",
+    "sg:address":"31178 Haggerty Rd",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 661 3480",
+    "sg:postcode":"48331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896633,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nTtBpL0sDNotksLZ6804V_42.526001_-83.437401@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813642,
+    "wof:geomhash":"24280229300a5b6d2e62ed42a1f2cb1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896633,
+            "region_id":85688599,
+            "venue_id":722513719
+        }
+    ],
+    "wof:id":722513719,
+    "wof:lastmodified":1461813642,
+    "wof:name":"Country Ridge Animal Hospital",
+    "wof:parent_id":85896633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.437401,
+    42.526001,
+    -83.437401,
+    42.526001
+],
+  "geometry": {"coordinates":[-83.43740099999999,42.526001],"type":"Point"}
+}

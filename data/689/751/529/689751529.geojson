@@ -1,0 +1,76 @@
+{
+  "id": 689751529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866568,42.529807,-85.866568,42.529807",
+    "geom:latitude":42.529807,
+    "geom:longitude":-85.866568,
+    "iso:country":"US",
+    "sg:address":"101 Sherman St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 1774",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.moviegallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lHgiaWIuBYzIzAJVlkbNe_42.529807_-85.866568@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780491,
+    "wof:geomhash":"0994aef6d799837ec567d291bccbb008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689751529
+        }
+    ],
+    "wof:id":689751529,
+    "wof:lastmodified":1461780491,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.866568,
+    42.529807,
+    -85.866568,
+    42.529807
+],
+  "geometry": {"coordinates":[-85.866568,42.529807],"type":"Point"}
+}

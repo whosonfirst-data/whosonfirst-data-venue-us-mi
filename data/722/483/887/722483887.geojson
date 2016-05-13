@@ -1,0 +1,90 @@
+{
+  "id": 722483887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.1353,42.3312,-83.1353,42.3312",
+    "geom:latitude":42.3312,
+    "geom:longitude":-83.1353,
+    "iso:country":"US",
+    "sg:address":"7446 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 841 8060",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85896607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IIdzN4dWi0rKYihOR6Myz_42.331200_-83.135300@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812447,
+    "wof:geomhash":"08743877ce521695bd6286ce75b3e89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":722483887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85896607,
+            "region_id":85688599,
+            "venue_id":722483887
+        }
+    ],
+    "wof:id":722483887,
+    "wof:lastmodified":1461812447,
+    "wof:name":"Oram Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.1353,
+    42.3312,
+    -83.1353,
+    42.3312
+],
+  "geometry": {"coordinates":[-83.1353,42.3312],"type":"Point"}
+}

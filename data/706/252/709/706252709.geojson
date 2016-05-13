@@ -1,0 +1,71 @@
+{
+  "id": 706252709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.18843,42.165614,-83.18843,42.165614",
+    "geom:latitude":42.165614,
+    "geom:longitude":-83.18843,
+    "iso:country":"US",
+    "sg:address":"1345 Fort St",
+    "sg:city":"Wyandotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 283 7400",
+    "sg:postcode":"48183",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950975,
+        102083147,
+        85867977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e41hdwtADJYrLYzVL0hz0_42.165614_-83.188430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799254,
+    "wof:geomhash":"87228a3965115f049db62c959856da16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85950975,
+            "neighbourhood_id":85867977,
+            "region_id":85688599,
+            "venue_id":706252709
+        }
+    ],
+    "wof:id":706252709,
+    "wof:lastmodified":1461799254,
+    "wof:name":"Statewide Collision",
+    "wof:parent_id":85867977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.18843,
+    42.165614,
+    -83.18843,
+    42.165614
+],
+  "geometry": {"coordinates":[-83.18843,42.165614],"type":"Point"}
+}

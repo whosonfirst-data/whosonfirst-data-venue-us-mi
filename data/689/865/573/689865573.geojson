@@ -1,0 +1,73 @@
+{
+  "id": 689865573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.306964,43.212779,-86.306964,43.212779",
+    "geom:latitude":43.212779,
+    "geom:longitude":-86.306964,
+    "iso:country":"US",
+    "sg:address":"2195 Sherin St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3833",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PrjPJEsYauzzhFXZLozaz_43.212779_-86.306964@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783668,
+    "wof:geomhash":"5253ad97b3e76369115c92eea623cb68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689865573
+        }
+    ],
+    "wof:id":689865573,
+    "wof:lastmodified":1461783668,
+    "wof:name":"Duff Plumbing",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.306964,
+    43.212779,
+    -86.306964,
+    43.212779
+],
+  "geometry": {"coordinates":[-86.30696399999999,43.212779],"type":"Point"}
+}

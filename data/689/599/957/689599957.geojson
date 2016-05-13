@@ -1,0 +1,71 @@
+{
+  "id": 689599957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.637248,41.806527,-83.637248,41.806527",
+    "geom:latitude":41.806527,
+    "geom:longitude":-83.637248,
+    "iso:country":"US",
+    "sg:address":"3577 W Samaria Rd",
+    "sg:city":"Temperance",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 4643",
+    "sg:postcode":"48182",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56yFR7h9jGOO9aIY80YyBe_41.806527_-83.637248@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776241,
+    "wof:geomhash":"95b15d483f2d20ac1a0262867519e944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689599957
+        }
+    ],
+    "wof:id":689599957,
+    "wof:lastmodified":1461776241,
+    "wof:name":"Brama Industries",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.637248,
+    41.806527,
+    -83.637248,
+    41.806527
+],
+  "geometry": {"coordinates":[-83.637248,41.806527],"type":"Point"}
+}

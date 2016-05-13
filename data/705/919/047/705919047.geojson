@@ -1,0 +1,75 @@
+{
+  "id": 705919047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583749,42.918382,-85.583749,42.918382",
+    "geom:latitude":42.918382,
+    "geom:longitude":-85.583749,
+    "iso:country":"US",
+    "sg:address":"2500 E Beltline Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 8800",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fV1xZPjBpcAh32RdqoyPS_42.918382_-85.583749@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791825,
+    "wof:geomhash":"a19d128f852008c2e1ef06de80bd1e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":705919047
+        }
+    ],
+    "wof:id":705919047,
+    "wof:lastmodified":1461791825,
+    "wof:name":"Enterprise",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.583749,
+    42.918382,
+    -85.583749,
+    42.918382
+],
+  "geometry": {"coordinates":[-85.583749,42.918382],"type":"Point"}
+}

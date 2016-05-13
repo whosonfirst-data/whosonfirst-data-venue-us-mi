@@ -1,0 +1,71 @@
+{
+  "id": 705748783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.261029,43.20533,-86.261029,43.20533",
+    "geom:latitude":43.20533,
+    "geom:longitude":-86.261029,
+    "iso:country":"US",
+    "sg:address":"770 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 7161",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQ6XPIgiG9w39TjOeCDDy_43.205330_-86.261029@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787823,
+    "wof:geomhash":"7c4b91578c79061e91e9e20a4ca15ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705748783
+        }
+    ],
+    "wof:id":705748783,
+    "wof:lastmodified":1461787823,
+    "wof:name":"Port City Cab Co",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.261029,
+    43.20533,
+    -86.261029,
+    43.20533
+],
+  "geometry": {"coordinates":[-86.26102899999999,43.20533],"type":"Point"}
+}

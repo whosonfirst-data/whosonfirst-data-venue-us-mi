@@ -1,0 +1,77 @@
+{
+  "id": 689933153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.986082,42.357676,-82.986082,42.357676",
+    "geom:latitude":42.357676,
+    "geom:longitude":-82.986082,
+    "iso:country":"US",
+    "sg:address":"9141 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 331 3435",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870563,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uBMX2BZtt2u2Ew8vmC1OO_42.357676_-82.986082@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785450,
+    "wof:geomhash":"01c613d7c682c2697b3b1a771c97022f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870563,
+            "region_id":85688599,
+            "venue_id":689933153
+        }
+    ],
+    "wof:id":689933153,
+    "wof:lastmodified":1461785450,
+    "wof:name":"Detroit East Inc",
+    "wof:parent_id":85870563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -82.986082,
+    42.357676,
+    -82.986082,
+    42.357676
+],
+  "geometry": {"coordinates":[-82.986082,42.357676],"type":"Point"}
+}

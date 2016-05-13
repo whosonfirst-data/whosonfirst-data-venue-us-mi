@@ -1,0 +1,71 @@
+{
+  "id": 689889525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.501832,42.903449,-85.501832,42.903449",
+    "geom:latitude":42.903449,
+    "geom:longitude":-85.501832,
+    "iso:country":"US",
+    "sg:address":"6608 Burger Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 956 1599",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jWiMU22O6JeYlqwMzmUus_42.903449_-85.501832@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784288,
+    "wof:geomhash":"4e52808f52001d1bea2bb651e95ddf13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689889525
+        }
+    ],
+    "wof:id":689889525,
+    "wof:lastmodified":1461784288,
+    "wof:name":"Medpass Inc",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.501832,
+    42.903449,
+    -85.501832,
+    42.903449
+],
+  "geometry": {"coordinates":[-85.50183199999999,42.903449],"type":"Point"}
+}

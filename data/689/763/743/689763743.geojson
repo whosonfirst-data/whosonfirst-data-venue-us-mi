@@ -1,0 +1,73 @@
+{
+  "id": 689763743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.704308,43.021362,-83.704308,43.021362",
+    "geom:latitude":43.021362,
+    "geom:longitude":-83.704308,
+    "iso:country":"US",
+    "sg:address":"1 Hurley Plz",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 762 7200",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KS8TCtVbSVBNv1qR1geV2_43.021362_-83.704308@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780871,
+    "wof:geomhash":"58ca26bcd49815a518ac7b7eb2f26842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689763743
+        }
+    ],
+    "wof:id":689763743,
+    "wof:lastmodified":1461780871,
+    "wof:name":"Intensiva Hospital of Flint",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.704308,
+    43.021362,
+    -83.704308,
+    43.021362
+],
+  "geometry": {"coordinates":[-83.704308,43.021362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706051033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.710133,41.902142,-83.710133,41.902142",
+    "geom:latitude":41.902142,
+    "geom:longitude":-83.710133,
+    "iso:country":"US",
+    "sg:address":"21 Division St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 1978",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57EeXuIjtw10jBLPr73f0H_41.902142_-83.710133@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794621,
+    "wof:geomhash":"f6c386477e6b325d2c7d4dadbb6d8164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":706051033
+        }
+    ],
+    "wof:id":706051033,
+    "wof:lastmodified":1461794621,
+    "wof:name":"Petersburg Sewage Plant",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -83.710133,
+    41.902142,
+    -83.710133,
+    41.902142
+],
+  "geometry": {"coordinates":[-83.710133,41.902142],"type":"Point"}
+}

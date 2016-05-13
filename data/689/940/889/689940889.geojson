@@ -1,0 +1,84 @@
+{
+  "id": 689940889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.588213,47.129708,-88.588213,47.129708",
+    "geom:latitude":47.129708,
+    "geom:longitude":-88.588213,
+    "iso:country":"US",
+    "sg:address":"715 Pine St",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 5037",
+    "sg:postcode":"49930",
+    "sg:province":"MI",
+    "sg:tags":[
+        "armature",
+        "electrical",
+        "electric",
+        "rewinding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvcHqt5Qd1nm0MFTxijjW_47.129708_-88.588213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785634,
+    "wof:geomhash":"227a1dfcc03148243a44c85043bb2c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689940889
+        }
+    ],
+    "wof:id":689940889,
+    "wof:lastmodified":1461785634,
+    "wof:name":"Gedda's Electrical Repairs",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "electrical",
+        "electric",
+        "rewinding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.588213,
+    47.129708,
+    -88.588213,
+    47.129708
+],
+  "geometry": {"coordinates":[-88.588213,47.129708],"type":"Point"}
+}

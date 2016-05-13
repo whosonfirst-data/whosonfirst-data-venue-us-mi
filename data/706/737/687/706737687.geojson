@@ -1,0 +1,70 @@
+{
+  "id": 706737687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.441803,42.359299,-83.441803,42.359299",
+    "geom:latitude":42.359299,
+    "geom:longitude":-83.441803,
+    "iso:country":"US",
+    "sg:address":"40475 Ann Arbor Rd E",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 1932",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dCPdyZa6NRG1vxSifmGtH_42.359299_-83.441803@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811724,
+    "wof:geomhash":"673af674b8bb6051426a343ce9ae20b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737687
+        }
+    ],
+    "wof:id":706737687,
+    "wof:lastmodified":1461811724,
+    "wof:name":"Enterprise Leasing",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -83.441803,
+    42.359299,
+    -83.441803,
+    42.359299
+],
+  "geometry": {"coordinates":[-83.44180299999999,42.359299],"type":"Point"}
+}

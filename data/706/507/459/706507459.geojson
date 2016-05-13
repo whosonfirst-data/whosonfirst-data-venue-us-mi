@@ -1,0 +1,79 @@
+{
+  "id": 706507459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.415574,42.552541,-83.415574,42.552541",
+    "geom:latitude":42.552541,
+    "geom:longitude":-83.415574,
+    "iso:country":"US",
+    "sg:address":"6743 Long St",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 788 1836",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mIvKEkfZBU5Wyoa2BE6dh_42.552541_-83.415574@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804796,
+    "wof:geomhash":"15cf05d8f974da7c97b25d261420ac1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706507459
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706507459
+        }
+    ],
+    "wof:id":706507459,
+    "wof:lastmodified":1461804796,
+    "wof:name":"BV Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.415574,
+    42.552541,
+    -83.415574,
+    42.552541
+],
+  "geometry": {"coordinates":[-83.41557400000001,42.552541],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689697119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.19745,43.076766,-86.19745,43.076766",
+    "geom:latitude":43.076766,
+    "geom:longitude":-86.19745,
+    "iso:country":"US",
+    "sg:address":"123 W Savidge St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 4566",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xcfsCM5l20moEOHM84MSj_43.076766_-86.197450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779032,
+    "wof:geomhash":"e70a3b09ec2409e742d0caea08d32aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689697119
+        }
+    ],
+    "wof:id":689697119,
+    "wof:lastmodified":1461779032,
+    "wof:name":"Huntington National Bank",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -86.19745,
+    43.076766,
+    -86.19745,
+    43.076766
+],
+  "geometry": {"coordinates":[-86.19745,43.076766],"type":"Point"}
+}

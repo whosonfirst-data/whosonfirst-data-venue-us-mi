@@ -1,0 +1,71 @@
+{
+  "id": 705909275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.349251,42.239509,-84.349251,42.239509",
+    "geom:latitude":42.239509,
+    "geom:longitude":-84.349251,
+    "iso:country":"US",
+    "sg:address":"3603 Page Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 7100",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PxLFYipsztSsS8bkV0y9I_42.239509_-84.349251@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791614,
+    "wof:geomhash":"f769d08e79b9cf47b6121166b2f70ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705909275
+        }
+    ],
+    "wof:id":705909275,
+    "wof:lastmodified":1461791614,
+    "wof:name":"Jim Coffey's Soft Water",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.349251,
+    42.239509,
+    -84.349251,
+    42.239509
+],
+  "geometry": {"coordinates":[-84.349251,42.239509],"type":"Point"}
+}

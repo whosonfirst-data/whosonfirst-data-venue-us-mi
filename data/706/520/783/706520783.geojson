@@ -1,0 +1,78 @@
+{
+  "id": 706520783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.302934,43.24543,-86.302934,43.24543",
+    "geom:latitude":43.24543,
+    "geom:longitude":-86.302934,
+    "iso:country":"US",
+    "sg:address":"2380 Memorial Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 5435",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BrVWkBj7sSKRN7pO9hu5i_43.245430_-86.302934@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805050,
+    "wof:geomhash":"a926cb7f94fe34b7006ab5f5780465b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706520783
+        }
+    ],
+    "wof:id":706520783,
+    "wof:lastmodified":1461805050,
+    "wof:name":"Wild Wood Marine",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -86.302934,
+    43.24543,
+    -86.302934,
+    43.24543
+],
+  "geometry": {"coordinates":[-86.30293399999999,43.24543],"type":"Point"}
+}

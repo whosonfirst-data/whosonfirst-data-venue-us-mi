@@ -1,0 +1,69 @@
+{
+  "id": 706110575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.255332,41.825927,-86.255332,41.825927",
+    "geom:latitude":41.825927,
+    "geom:longitude":-86.255332,
+    "iso:country":"US",
+    "sg:address":"2 S 3rd St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 0404",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0EL83gpZx1gee49r9hgV_41.825927_-86.255332@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796000,
+    "wof:geomhash":"30b16e23667b313e5e56b002a1273d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706110575
+        }
+    ],
+    "wof:id":706110575,
+    "wof:lastmodified":1461796000,
+    "wof:name":"Niles Police Detective Bureau",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.255332,
+    41.825927,
+    -86.255332,
+    41.825927
+],
+  "geometry": {"coordinates":[-86.255332,41.825927],"type":"Point"}
+}

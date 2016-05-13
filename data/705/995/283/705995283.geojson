@@ -1,0 +1,71 @@
+{
+  "id": 705995283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.860354,42.622768,-82.860354,42.622768",
+    "geom:latitude":42.622768,
+    "geom:longitude":-82.860354,
+    "iso:country":"US",
+    "sg:address":"24601 Capital Blvd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 9260",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85803079,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L3ECjNwY1ECM1KMf5sF7l_42.622768_-82.860354@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793468,
+    "wof:geomhash":"95f16c3927edc52b3ea4891e3adc4636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85803079,
+            "region_id":85688599,
+            "venue_id":705995283
+        }
+    ],
+    "wof:id":705995283,
+    "wof:lastmodified":1461793468,
+    "wof:name":"Manchester Management LLC",
+    "wof:parent_id":85803079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -82.860354,
+    42.622768,
+    -82.860354,
+    42.622768
+],
+  "geometry": {"coordinates":[-82.860354,42.622768],"type":"Point"}
+}

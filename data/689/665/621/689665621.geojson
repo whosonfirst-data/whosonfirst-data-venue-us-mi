@@ -1,0 +1,73 @@
+{
+  "id": 689665621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.405688,46.54071,-87.405688,46.54071",
+    "geom:latitude":46.54071,
+    "geom:longitude":-87.405688,
+    "iso:country":"US",
+    "sg:address":"618 Fisher St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 2091",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oxURxYioEzxlF8aDQOKVP_46.540710_-87.405688@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778270,
+    "wof:geomhash":"02c34de136ff18bc19523d4c47745580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689665621
+        }
+    ],
+    "wof:id":689665621,
+    "wof:lastmodified":1461778270,
+    "wof:name":"Wright Electric Co",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.405688,
+    46.54071,
+    -87.405688,
+    46.54071
+],
+  "geometry": {"coordinates":[-87.405688,46.54071],"type":"Point"}
+}

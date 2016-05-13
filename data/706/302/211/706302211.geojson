@@ -1,0 +1,73 @@
+{
+  "id": 706302211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.082834,45.775018,-87.082834,45.775018",
+    "geom:latitude":45.775018,
+    "geom:longitude":-87.082834,
+    "iso:country":"US",
+    "sg:address":"2200 N Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 1461",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZSmlEjngd0fn49fdogThp_45.775018_-87.082834@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800348,
+    "wof:geomhash":"a5d71d66bdaadf41cbe26d311be2eab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706302211
+        }
+    ],
+    "wof:id":706302211,
+    "wof:lastmodified":1461800348,
+    "wof:name":"Pro Auto Body Inc",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.082834,
+    45.775018,
+    -87.082834,
+    45.775018
+],
+  "geometry": {"coordinates":[-87.08283400000001,45.775018],"type":"Point"}
+}

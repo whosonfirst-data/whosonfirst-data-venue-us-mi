@@ -1,0 +1,73 @@
+{
+  "id": 689751383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.241003,43.201001,-86.241003,43.201001",
+    "geom:latitude":43.201001,
+    "geom:longitude":-86.241003,
+    "iso:country":"US",
+    "sg:address":"120 E Broadway Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 8501",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "meat",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Y07o44AAG0uTgJPY1y0A_43.201001_-86.241003@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780488,
+    "wof:geomhash":"eab17aa327a0ae144ce65b11790ee2b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689751383
+        }
+    ],
+    "wof:id":689751383,
+    "wof:lastmodified":1461780488,
+    "wof:name":"Plumbs Market",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meat",
+        "market"
+    ]
+},
+  "bbox": [
+    -86.241003,
+    43.201001,
+    -86.241003,
+    43.201001
+],
+  "geometry": {"coordinates":[-86.24100300000001,43.201001],"type":"Point"}
+}

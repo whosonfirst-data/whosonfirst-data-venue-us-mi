@@ -1,0 +1,69 @@
+{
+  "id": 689855213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.452014,42.254776,-84.452014,42.254776",
+    "geom:latitude":42.254776,
+    "geom:longitude":-84.452014,
+    "iso:country":"US",
+    "sg:address":"3220 Wildwood Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 4704",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J1Q6kuusOlRLDq1BPJJ46_42.254776_-84.452014@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783424,
+    "wof:geomhash":"a34a78b1fe258bf0ddf7d8b434612809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689855213
+        }
+    ],
+    "wof:id":689855213,
+    "wof:lastmodified":1461783424,
+    "wof:name":"Neighborhood Dry Cleaners",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.452014,
+    42.254776,
+    -84.452014,
+    42.254776
+],
+  "geometry": {"coordinates":[-84.45201400000001,42.254776],"type":"Point"}
+}

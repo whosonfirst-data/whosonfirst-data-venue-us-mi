@@ -1,0 +1,73 @@
+{
+  "id": 689709139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643115,42.673685,-85.643115,42.673685",
+    "geom:latitude":42.673685,
+    "geom:longitude":-85.643115,
+    "iso:country":"US",
+    "sg:address":"129 S Main St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 4454",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PEyzJuQ9k5HyxV5UwGHQ3_42.673685_-85.643115@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779383,
+    "wof:geomhash":"78b4a9515f714583f5b8e10ab70e37d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":689709139
+        }
+    ],
+    "wof:id":689709139,
+    "wof:lastmodified":1461779383,
+    "wof:name":"Omni Vision",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -85.643115,
+    42.673685,
+    -85.643115,
+    42.673685
+],
+  "geometry": {"coordinates":[-85.64311499999999,42.673685],"type":"Point"}
+}

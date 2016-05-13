@@ -1,0 +1,71 @@
+{
+  "id": 706072331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.334098,43.409308,-86.334098,43.409308",
+    "geom:latitude":43.409308,
+    "geom:longitude":-86.334098,
+    "iso:country":"US",
+    "sg:address":"1123 E Colby St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 8236",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ntewvSf6Kf04zEzYehjST_43.409308_-86.334098@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795081,
+    "wof:geomhash":"5b310ae6d65064295423b3e2865e88a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706072331
+        }
+    ],
+    "wof:id":706072331,
+    "wof:lastmodified":1461795081,
+    "wof:name":"Whitehall Apartments II",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.334098,
+    43.409308,
+    -86.334098,
+    43.409308
+],
+  "geometry": {"coordinates":[-86.334098,43.409308],"type":"Point"}
+}

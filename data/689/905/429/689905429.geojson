@@ -1,0 +1,71 @@
+{
+  "id": 689905429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.253343,43.188156,-86.253343,43.188156",
+    "geom:latitude":43.188156,
+    "geom:longitude":-86.253343,
+    "iso:country":"US",
+    "sg:address":"340 Seminole Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 2273",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22wMZavFkCTP6EdsHfHocK_43.188156_-86.253343@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784719,
+    "wof:geomhash":"cc0f0ca1ccedf6824ca097323edc20de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689905429
+        }
+    ],
+    "wof:id":689905429,
+    "wof:lastmodified":1461784719,
+    "wof:name":"Today's Family Dentistry",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.253343,
+    43.188156,
+    -86.253343,
+    43.188156
+],
+  "geometry": {"coordinates":[-86.253343,43.188156],"type":"Point"}
+}

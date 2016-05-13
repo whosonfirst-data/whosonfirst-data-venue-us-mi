@@ -1,0 +1,72 @@
+{
+  "id": 705954045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.39693,46.549707,-87.39693,46.549707",
+    "geom:latitude":46.549707,
+    "geom:longitude":-87.39693,
+    "iso:country":"US",
+    "sg:address":"701 N 4th St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 4565",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.mediride.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20cGYsak42mFC5lk6UlUmd_46.549707_-87.396930@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792620,
+    "wof:geomhash":"0d402de784d52aef04b6880f885fa74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705954045
+        }
+    ],
+    "wof:id":705954045,
+    "wof:lastmodified":1461792620,
+    "wof:name":"Mediride",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -87.39693,
+    46.549707,
+    -87.39693,
+    46.549707
+],
+  "geometry": {"coordinates":[-87.39693,46.549707],"type":"Point"}
+}

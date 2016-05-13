@@ -1,0 +1,68 @@
+{
+  "id": 706105975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.56116,42.233801,-85.56116,42.233801",
+    "geom:latitude":42.233801,
+    "geom:longitude":-85.56116,
+    "iso:country":"US",
+    "sg:address":"2400 Yellow Brick Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 388 4377",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533001,
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13SBVWZKjTO6VcuX2BkRnW_42.233801_-85.561160@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795903,
+    "wof:geomhash":"ea619a489d91533779d71a7f5be635fa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533001,
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706105975
+        }
+    ],
+    "wof:id":706105975,
+    "wof:lastmodified":1461795903,
+    "wof:name":"Airport Center 76",
+    "wof:parent_id":102533001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.56116,
+    42.233801,
+    -85.56116,
+    42.233801
+],
+  "geometry": {"coordinates":[-85.56116,42.233801],"type":"Point"}
+}

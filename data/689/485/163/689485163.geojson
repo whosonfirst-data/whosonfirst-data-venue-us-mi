@@ -1,0 +1,75 @@
+{
+  "id": 689485163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.071498,45.797665,-88.071498,45.797665",
+    "geom:latitude":45.797665,
+    "geom:longitude":-88.071498,
+    "iso:country":"US",
+    "sg:address":"941 S Carpenter Ave",
+    "sg:city":"Kingsford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 5484",
+    "sg:postcode":"49802",
+    "sg:province":"MI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KfQZ3IVKb1KOl3bNFmKKn_45.797665_-88.071498@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772672,
+    "wof:geomhash":"dfb25db78f6d78a6472674b087442123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689485163
+        }
+    ],
+    "wof:id":689485163,
+    "wof:lastmodified":1461772672,
+    "wof:name":"Scotty's Muffler & Brake Shop",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.071498,
+    45.797665,
+    -88.071498,
+    45.797665
+],
+  "geometry": {"coordinates":[-88.07149800000001,45.797665],"type":"Point"}
+}

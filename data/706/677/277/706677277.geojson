@@ -1,0 +1,72 @@
+{
+  "id": 706677277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.54045,42.158643,-83.54045,42.158643",
+    "geom:latitude":42.158643,
+    "geom:longitude":-83.54045,
+    "iso:country":"US",
+    "sg:address":"51255 Willis Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/sumpter/248554-benitos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 461 3100",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rIpthdQRqvhTsoH2GNFsz_42.158643_-83.540450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809174,
+    "wof:geomhash":"c5afd2689105dbba1c614aa364f95c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677277
+        }
+    ],
+    "wof:id":706677277,
+    "wof:lastmodified":1461809174,
+    "wof:name":"Benito's Pizza",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.54045,
+    42.158643,
+    -83.54045,
+    42.158643
+],
+  "geometry": {"coordinates":[-83.54045000000001,42.158643],"type":"Point"}
+}

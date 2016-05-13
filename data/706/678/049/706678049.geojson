@@ -1,0 +1,74 @@
+{
+  "id": 706678049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.472631,42.358661,-83.472631,42.358661",
+    "geom:latitude":42.358661,
+    "geom:longitude":-83.472631,
+    "iso:country":"US",
+    "sg:address":"1043 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/plymouth/122050-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 1616",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NT2lTNiR9aXHqZWUeTLii_42.358661_-83.472631@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809210,
+    "wof:geomhash":"0572bc12651e3d0b007ad804966000b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706678049
+        }
+    ],
+    "wof:id":706678049,
+    "wof:lastmodified":1461809210,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.472631,
+    42.358661,
+    -83.472631,
+    42.358661
+],
+  "geometry": {"coordinates":[-83.47263100000001,42.358661],"type":"Point"}
+}

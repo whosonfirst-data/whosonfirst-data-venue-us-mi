@@ -1,0 +1,73 @@
+{
+  "id": 706099343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.873755,42.530791,-82.873755,42.530791",
+    "geom:latitude":42.530791,
+    "geom:longitude":-82.873755,
+    "iso:country":"US",
+    "sg:address":"23536 Recreation St",
+    "sg:city":"St Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 4848",
+    "sg:postcode":"48082",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52r4ffx4NduEn32xQhgY1I_42.530791_-82.873755@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795767,
+    "wof:geomhash":"2a822307567785ec0def5021c71f9a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706099343
+        }
+    ],
+    "wof:id":706099343,
+    "wof:lastmodified":1461795767,
+    "wof:name":"RJL Heating & Cooling",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.873755,
+    42.530791,
+    -82.873755,
+    42.530791
+],
+  "geometry": {"coordinates":[-82.873755,42.530791],"type":"Point"}
+}

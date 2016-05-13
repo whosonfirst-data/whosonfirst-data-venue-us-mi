@@ -1,0 +1,71 @@
+{
+  "id": 706197391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.983506,43.452114,-83.983506,43.452114",
+    "geom:latitude":43.452114,
+    "geom:longitude":-83.983506,
+    "iso:country":"US",
+    "sg:address":"3150 Hallmark Ct",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 9460",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UzgEeQqsnC2LvL1CPaD1e_43.452114_-83.983506@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798019,
+    "wof:geomhash":"c6a0d719b46b325397835ea588a9be72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706197391
+        }
+    ],
+    "wof:id":706197391,
+    "wof:lastmodified":1461798019,
+    "wof:name":"Miles P Light MD",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.983506,
+    43.452114,
+    -83.983506,
+    43.452114
+],
+  "geometry": {"coordinates":[-83.98350600000001,43.452114],"type":"Point"}
+}

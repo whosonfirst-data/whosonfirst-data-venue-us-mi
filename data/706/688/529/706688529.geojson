@@ -1,0 +1,76 @@
+{
+  "id": 706688529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.733323,42.740837,-84.733323,42.740837",
+    "geom:latitude":42.740837,
+    "geom:longitude":-84.733323,
+    "iso:country":"US",
+    "sg:address":"980 E Saginaw Hwy",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-ledge/182635-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 527 4963",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3urdfyTgh6Y5uYqe80v5bY_42.740791_-84.733919@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809617,
+    "wof:geomhash":"547e64a5cacac60542500c33ee5f6e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706688529
+        }
+    ],
+    "wof:id":706688529,
+    "wof:lastmodified":1461809617,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.733323,
+    42.740837,
+    -84.733323,
+    42.740837
+],
+  "geometry": {"coordinates":[-84.733323,42.740837],"type":"Point"}
+}

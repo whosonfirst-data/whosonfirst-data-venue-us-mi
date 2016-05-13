@@ -1,0 +1,75 @@
+{
+  "id": 706045211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.057349,42.417137,-83.057349,42.417137",
+    "geom:latitude":42.417137,
+    "geom:longitude":-83.057349,
+    "iso:country":"US",
+    "sg:address":"4435 E Davison St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 366 4500",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420559559,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TvU5hO2hIYGhhai9ToEjG_42.417137_-83.057349@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794503,
+    "wof:geomhash":"9a5de6365fc0b5a0646b58db4ea97b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420559559,
+            "region_id":85688599,
+            "venue_id":706045211
+        }
+    ],
+    "wof:id":706045211,
+    "wof:lastmodified":1461794503,
+    "wof:name":"Alpha Medical Clinic",
+    "wof:parent_id":420559559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.057349,
+    42.417137,
+    -83.057349,
+    42.417137
+],
+  "geometry": {"coordinates":[-83.057349,42.417137],"type":"Point"}
+}

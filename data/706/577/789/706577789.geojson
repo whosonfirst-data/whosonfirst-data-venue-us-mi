@@ -1,0 +1,71 @@
+{
+  "id": 706577789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.725851,43.022819,-83.725851,43.022819",
+    "geom:latitude":43.022819,
+    "geom:longitude":-83.725851,
+    "iso:country":"US",
+    "sg:address":"2638 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 767 7005",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zccHm8zoAh5R6LwJIJ8rR_43.022819_-83.725851@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806259,
+    "wof:geomhash":"12b4ee735ecb535dc068dd7b7da3ead1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706577789
+        }
+    ],
+    "wof:id":706577789,
+    "wof:lastmodified":1461806259,
+    "wof:name":"K & J Market",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.725851,
+    43.022819,
+    -83.725851,
+    43.022819
+],
+  "geometry": {"coordinates":[-83.72585100000001,43.022819],"type":"Point"}
+}

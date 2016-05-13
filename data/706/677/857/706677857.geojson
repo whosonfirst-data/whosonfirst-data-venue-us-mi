@@ -1,0 +1,72 @@
+{
+  "id": 706677857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.397372,41.916685,-83.397372,41.916685",
+    "geom:latitude":41.916685,
+    "geom:longitude":-83.397372,
+    "iso:country":"US",
+    "sg:address":"20 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/monroe/146101-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 457 0525",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oXCUglDbH6Q54Py9Y9Jl6_41.916685_-83.397372@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809203,
+    "wof:geomhash":"0a71202624dec41d17a244ccd0b16a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":706677857
+        }
+    ],
+    "wof:id":706677857,
+    "wof:lastmodified":1461809203,
+    "wof:name":"Subway",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.397372,
+    41.916685,
+    -83.397372,
+    41.916685
+],
+  "geometry": {"coordinates":[-83.397372,41.916685],"type":"Point"}
+}

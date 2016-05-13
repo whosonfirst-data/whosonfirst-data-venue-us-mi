@@ -1,0 +1,84 @@
+{
+  "id": 722503977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.305099,42.5299,-83.305099,42.5299",
+    "geom:latitude":42.5299,
+    "geom:longitude":-83.305099,
+    "iso:country":"US",
+    "sg:address":"7457 Franklin Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 626 8561",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820573,
+        102191575,
+        404508307,
+        85633793,
+        85952065,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02QoeX7CDBoc4xgguIlZVS_42.529900_-83.305099@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813227,
+    "wof:geomhash":"08b3e04de6f38b6ede46dccf3d80577b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508307,
+            "locality_id":85952065,
+            "neighbourhood_id":85820573,
+            "region_id":85688599,
+            "venue_id":722503977
+        }
+    ],
+    "wof:id":722503977,
+    "wof:lastmodified":1461813227,
+    "wof:name":"Breiner Sander J MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -83.305099,
+    42.5299,
+    -83.305099,
+    42.5299
+],
+  "geometry": {"coordinates":[-83.305099,42.5299],"type":"Point"}
+}

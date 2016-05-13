@@ -1,0 +1,82 @@
+{
+  "id": 706688223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.455089,42.466033,-83.455089,42.466033",
+    "geom:latitude":42.466033,
+    "geom:longitude":-83.455089,
+    "iso:country":"US",
+    "sg:address":"24045 Meadowbrook Rd",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/novi/70022-cottage-inn-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 380 4900",
+    "sg:postcode":"48375",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896653,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zDMy8wNFsxLYvJK2CDzIG_42.465773_-83.455196@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809606,
+    "wof:geomhash":"782855040cfd1f444c4749f15a1af7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896653,
+            "region_id":85688599,
+            "venue_id":706688223
+        }
+    ],
+    "wof:id":706688223,
+    "wof:lastmodified":1461809606,
+    "wof:name":"Cottage Inn Pizza",
+    "wof:parent_id":85896653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.455089,
+    42.466033,
+    -83.455089,
+    42.466033
+],
+  "geometry": {"coordinates":[-83.455089,42.466033],"type":"Point"}
+}

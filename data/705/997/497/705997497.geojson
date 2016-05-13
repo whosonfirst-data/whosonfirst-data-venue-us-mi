@@ -1,0 +1,71 @@
+{
+  "id": 705997497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.982666,43.415078,-83.982666,43.415078",
+    "geom:latitude":43.415078,
+    "geom:longitude":-83.982666,
+    "iso:country":"US",
+    "sg:address":"1404 Gratiot Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 790 8046",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nynaBEwscFbIJkcyUFhPD_43.415078_-83.982666@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793529,
+    "wof:geomhash":"117bd4fe26667fd2fd3f507fe308b2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705997497
+        }
+    ],
+    "wof:id":705997497,
+    "wof:lastmodified":1461793529,
+    "wof:name":"All Auto Service",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.982666,
+    43.415078,
+    -83.982666,
+    43.415078
+],
+  "geometry": {"coordinates":[-83.98266599999999,43.415078],"type":"Point"}
+}

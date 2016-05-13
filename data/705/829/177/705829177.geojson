@@ -1,0 +1,71 @@
+{
+  "id": 705829177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.05766,45.809603,-88.05766,45.809603",
+    "geom:latitude":45.809603,
+    "geom:longitude":-88.05766,
+    "iso:country":"US",
+    "sg:address":"1329 Jackson St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 9700",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ggtd59l2R5qIljMJEKRDL_45.809603_-88.057660@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789708,
+    "wof:geomhash":"64325f40f6b2502040c663ea5c378cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705829177
+        }
+    ],
+    "wof:id":705829177,
+    "wof:lastmodified":1461789708,
+    "wof:name":"Con-Way Central Express",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.05766,
+    45.809603,
+    -88.05766,
+    45.809603
+],
+  "geometry": {"coordinates":[-88.05766,45.809603],"type":"Point"}
+}

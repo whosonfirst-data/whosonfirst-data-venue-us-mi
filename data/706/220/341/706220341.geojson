@@ -1,0 +1,74 @@
+{
+  "id": 706220341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888813,42.950599,-85.888813,42.950599",
+    "geom:latitude":42.950599,
+    "geom:longitude":-85.888813,
+    "iso:country":"US",
+    "sg:address":"10235 42nd Ave",
+    "sg:city":"Allendale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 895 6678",
+    "sg:postcode":"49401",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_697DsBW71YlemD90xItrfk_42.950599_-85.888813@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798511,
+    "wof:geomhash":"3220c525ddffd9c37629997ad427d235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":706220341
+        }
+    ],
+    "wof:id":706220341,
+    "wof:lastmodified":1461798511,
+    "wof:name":"Campus View Apartments",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.888813,
+    42.950599,
+    -85.888813,
+    42.950599
+],
+  "geometry": {"coordinates":[-85.888813,42.950599],"type":"Point"}
+}

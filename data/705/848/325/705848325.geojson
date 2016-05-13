@@ -1,0 +1,75 @@
+{
+  "id": 705848325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.141509,43.088374,-86.141509,43.088374",
+    "geom:latitude":43.088374,
+    "geom:longitude":-86.141509,
+    "iso:country":"US",
+    "sg:address":"13850 State Rd",
+    "sg:city":"Nunica",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 3798",
+    "sg:postcode":"49448",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76nDGRGVEh8brPmycJ7mh9_43.088374_-86.141509@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790143,
+    "wof:geomhash":"f96e10ae10d3151fdc7467550a4e6c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705848325
+        }
+    ],
+    "wof:id":705848325,
+    "wof:lastmodified":1461790143,
+    "wof:name":"Charlie's Auto Body",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.141509,
+    43.088374,
+    -86.141509,
+    43.088374
+],
+  "geometry": {"coordinates":[-86.141509,43.088374],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706459855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.423604,44.249013,-85.423604,44.249013",
+    "geom:latitude":44.249013,
+    "geom:longitude":-85.423604,
+    "iso:country":"US",
+    "sg:address":"1102 Chestnut St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 884 0444",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dEszG1gCyYQIyqYqNrO4n_44.249013_-85.423604@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803638,
+    "wof:geomhash":"cc84082a41bc4fa692c6b4ff9f39efbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706459855
+        }
+    ],
+    "wof:id":706459855,
+    "wof:lastmodified":1461803638,
+    "wof:name":"Cadillac Taxi",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.423604,
+    44.249013,
+    -85.423604,
+    44.249013
+],
+  "geometry": {"coordinates":[-85.423604,44.249013],"type":"Point"}
+}

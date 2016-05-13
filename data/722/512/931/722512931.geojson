@@ -1,0 +1,81 @@
+{
+  "id": 722512931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.223099,42.628601,-83.223099,42.628601",
+    "geom:latitude":42.628601,
+    "geom:longitude":-83.223099,
+    "iso:country":"US",
+    "sg:address":"392 S Squirrel Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 853 0598",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "planning",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zAgUuXIU32BBLtgVeZ7WX_42.628601_-83.223099@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813607,
+    "wof:geomhash":"30d46dbcf44753da88a6703c9481710a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":722512931
+        }
+    ],
+    "wof:id":722512931,
+    "wof:lastmodified":1461813607,
+    "wof:name":"Daily Stop Market",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -83.223099,
+    42.628601,
+    -83.223099,
+    42.628601
+],
+  "geometry": {"coordinates":[-83.223099,42.628601],"type":"Point"}
+}

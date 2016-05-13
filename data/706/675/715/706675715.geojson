@@ -1,0 +1,74 @@
+{
+  "id": 706675715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.457823,43.025094,-82.457823,43.025094",
+    "geom:latitude":43.025094,
+    "geom:longitude":-82.457823,
+    "iso:country":"US",
+    "sg:address":"3040 Krafft Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fort-gratiot/176461-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 3311",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ebv1MTpUD2eBgch40F2ES_43.025094_-82.457823@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809105,
+    "wof:geomhash":"f3e91902b6f2ad07b0899536e679a86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706675715
+        }
+    ],
+    "wof:id":706675715,
+    "wof:lastmodified":1461809105,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -82.457823,
+    43.025094,
+    -82.457823,
+    43.025094
+],
+  "geometry": {"coordinates":[-82.457823,43.025094],"type":"Point"}
+}

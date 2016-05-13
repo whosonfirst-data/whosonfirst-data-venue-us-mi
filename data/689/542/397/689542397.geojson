@@ -1,0 +1,71 @@
+{
+  "id": 689542397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.436485,44.227897,-85.436485,44.227897",
+    "geom:latitude":44.227897,
+    "geom:longitude":-85.436485,
+    "iso:country":"US",
+    "sg:address":"4675 S 39 Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 8471",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TZth8QkTdSU0VRLcnMDAb_44.227897_-85.436485@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774420,
+    "wof:geomhash":"1a6b3b96e9317cd707d0c7f888ddbd11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689542397
+        }
+    ],
+    "wof:id":689542397,
+    "wof:lastmodified":1461774420,
+    "wof:name":"Cadillac Truck Svc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.436485,
+    44.227897,
+    -85.436485,
+    44.227897
+],
+  "geometry": {"coordinates":[-85.436485,44.227897],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705761431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.407367,42.691816,-83.407367,42.691816",
+    "geom:latitude":42.691816,
+    "geom:longitude":-83.407367,
+    "iso:country":"US",
+    "sg:address":"3700 Airport Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 4000",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IuxcYQ7scP9nhvu7U6juG_42.691816_-83.407367@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788115,
+    "wof:geomhash":"bcbd193a0d4f50715830f5f5d9c86891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":705761431
+        }
+    ],
+    "wof:id":705761431,
+    "wof:lastmodified":1461788115,
+    "wof:name":"Airport Road Mini Storage",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.407367,
+    42.691816,
+    -83.407367,
+    42.691816
+],
+  "geometry": {"coordinates":[-83.40736699999999,42.691816],"type":"Point"}
+}

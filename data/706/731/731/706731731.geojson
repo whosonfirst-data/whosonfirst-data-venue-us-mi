@@ -1,0 +1,82 @@
+{
+  "id": 706731731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.325996,42.372398,-83.325996,42.372398",
+    "geom:latitude":42.372398,
+    "geom:longitude":-83.325996,
+    "iso:country":"US",
+    "sg:address":"11961 Hartel St",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 522 2520",
+    "sg:postcode":"48150",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524971,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kCLn7dYXVdni2ooIaTQdu_42.372398_-83.325996@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811486,
+    "wof:geomhash":"da9e004dc7c3c9525b27884158c17dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524971,
+            "region_id":85688599,
+            "venue_id":706731731
+        }
+    ],
+    "wof:id":706731731,
+    "wof:lastmodified":1461811486,
+    "wof:name":"Catch-A-Cab",
+    "wof:parent_id":420524971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.325996,
+    42.372398,
+    -83.325996,
+    42.372398
+],
+  "geometry": {"coordinates":[-83.325996,42.372398],"type":"Point"}
+}

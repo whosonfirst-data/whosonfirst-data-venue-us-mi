@@ -1,0 +1,91 @@
+{
+  "id": 722486263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.950409,42.370831,-82.950409,42.370831",
+    "geom:latitude":42.370831,
+    "geom:longitude":-82.950409,
+    "iso:country":"US",
+    "sg:address":"13200 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 822 9515",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automobile",
+        "part"
+    ],
+    "sg:website":"http://www.oreillyautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85891667,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N8Lb1ov30dVmeZTBb99RT_42.370831_-82.950409@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812536,
+    "wof:geomhash":"dc2b31db470bbc675cb7aa3daf92e065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722486263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":722486263
+        }
+    ],
+    "wof:id":722486263,
+    "wof:lastmodified":1461812536,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part"
+    ]
+},
+  "bbox": [
+    -82.950409,
+    42.370831,
+    -82.950409,
+    42.370831
+],
+  "geometry": {"coordinates":[-82.95040899999999,42.370831],"type":"Point"}
+}

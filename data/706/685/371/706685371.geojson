@@ -1,0 +1,74 @@
+{
+  "id": 706685371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.95682,43.059429,-85.95682,43.059429",
+    "geom:latitude":43.059429,
+    "geom:longitude":-85.95682,
+    "iso:country":"US",
+    "sg:address":"34 68th Ave S",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/coopersville/142139-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 7007",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rOf56r6X9bONDz6JiuOVO_43.059429_-85.956820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809497,
+    "wof:geomhash":"5a72acd364a2c7e2c0862cb9cb482567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706685371
+        }
+    ],
+    "wof:id":706685371,
+    "wof:lastmodified":1461809497,
+    "wof:name":"Subway",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.95682,
+    43.059429,
+    -85.95682,
+    43.059429
+],
+  "geometry": {"coordinates":[-85.95681999999999,43.059429],"type":"Point"}
+}

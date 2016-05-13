@@ -1,0 +1,71 @@
+{
+  "id": 706278803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.428186,42.809895,-85.428186,42.809895",
+    "geom:latitude":42.809895,
+    "geom:longitude":-85.428186,
+    "iso:country":"US",
+    "sg:address":"8600 Dygert Dr SE",
+    "sg:city":"Alto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 891 9101",
+    "sg:postcode":"49302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85833173,
+        102083023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Evg3jUCzebmgT1z0MD7bQ_42.809895_-85.428186@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799824,
+    "wof:geomhash":"f7c1987642a517d8b8517dd9ed312efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "neighbourhood_id":85833173,
+            "region_id":85688599,
+            "venue_id":706278803
+        }
+    ],
+    "wof:id":706278803,
+    "wof:lastmodified":1461799824,
+    "wof:name":"Hardy Electric",
+    "wof:parent_id":85833173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.428186,
+    42.809895,
+    -85.428186,
+    42.809895
+],
+  "geometry": {"coordinates":[-85.428186,42.809895],"type":"Point"}
+}

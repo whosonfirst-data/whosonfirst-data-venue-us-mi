@@ -1,0 +1,79 @@
+{
+  "id": 706162001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.57067,43.007353,-85.57067,43.007353",
+    "geom:latitude":43.007353,
+    "geom:longitude":-85.57067,
+    "iso:country":"US",
+    "sg:address":"2222 Maguire Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 365 3094",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "remodeling",
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZixrQLJDYVX7VuqtnipBm_43.007353_-85.570670@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797249,
+    "wof:geomhash":"18fdbbf5a36eb5ed20affa47bb8ea0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706162001
+        }
+    ],
+    "wof:id":706162001,
+    "wof:lastmodified":1461797249,
+    "wof:name":"Jennings Building & Remodeling",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "remodeling",
+        "new"
+    ]
+},
+  "bbox": [
+    -85.57067,
+    43.007353,
+    -85.57067,
+    43.007353
+],
+  "geometry": {"coordinates":[-85.57067000000001,43.007353],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689809243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652506,44.722921,-85.652506,44.722921",
+    "geom:latitude":44.722921,
+    "geom:longitude":-85.652506,
+    "iso:country":"US",
+    "sg:address":"3726 S Airport Rd W",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 946 9436",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XwEBI8smu7iC2McDCHXLb_44.722921_-85.652506@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782158,
+    "wof:geomhash":"e304477beb47a369a4f205dfd2b0e49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689809243
+        }
+    ],
+    "wof:id":689809243,
+    "wof:lastmodified":1461782158,
+    "wof:name":"Hack & Wack Sawmill",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -85.652506,
+    44.722921,
+    -85.652506,
+    44.722921
+],
+  "geometry": {"coordinates":[-85.652506,44.722921],"type":"Point"}
+}

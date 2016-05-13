@@ -1,0 +1,72 @@
+{
+  "id": 706679455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.262932,42.545327,-83.262932,42.545327",
+    "geom:latitude":42.545327,
+    "geom:longitude":-83.262932,
+    "iso:country":"US",
+    "sg:address":"3621 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bloomfield/142160-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 988 8021",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vs5MD2WKmNoFNGw3ljOvy_42.545327_-83.262932@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809261,
+    "wof:geomhash":"6b4e9b46ea217db229cc58fc7838d4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706679455
+        }
+    ],
+    "wof:id":706679455,
+    "wof:lastmodified":1461809261,
+    "wof:name":"Subway",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.262932,
+    42.545327,
+    -83.262932,
+    42.545327
+],
+  "geometry": {"coordinates":[-83.26293200000001,42.545327],"type":"Point"}
+}

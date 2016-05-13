@@ -1,0 +1,73 @@
+{
+  "id": 706068685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.197095,43.2379,-86.197095,43.2379",
+    "geom:latitude":43.2379,
+    "geom:longitude":-86.197095,
+    "iso:country":"US",
+    "sg:address":"1820 Oak Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 767 3200",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40L6Wc38MFMW5G130vEQdf_43.237900_-86.197095@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795002,
+    "wof:geomhash":"ca96a9207f12ddfd86b0be1a13fa75a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706068685
+        }
+    ],
+    "wof:id":706068685,
+    "wof:lastmodified":1461795002,
+    "wof:name":"Robert Beckman PC",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.197095,
+    43.2379,
+    -86.197095,
+    43.2379
+],
+  "geometry": {"coordinates":[-86.197095,43.2379],"type":"Point"}
+}

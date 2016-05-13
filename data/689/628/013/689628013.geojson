@@ -1,0 +1,73 @@
+{
+  "id": 689628013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.452919,42.584703,-84.452919,42.584703",
+    "geom:latitude":42.584703,
+    "geom:longitude":-84.452919,
+    "iso:country":"US",
+    "sg:address":"445 N Cedar St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 9311",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h80j9x487YG5hOIRzhbQ1_42.584703_-84.452919@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777111,
+    "wof:geomhash":"8ddc75c52bbb074f14370c27f92fecdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689628013
+        }
+    ],
+    "wof:id":689628013,
+    "wof:lastmodified":1461777111,
+    "wof:name":"Kelly Automotive Group Inc",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.452919,
+    42.584703,
+    -84.452919,
+    42.584703
+],
+  "geometry": {"coordinates":[-84.45291899999999,42.584703],"type":"Point"}
+}

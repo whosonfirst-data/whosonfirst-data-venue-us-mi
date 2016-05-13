@@ -1,0 +1,78 @@
+{
+  "id": 706678685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.158968,42.376795,-83.158968,42.376795",
+    "geom:latitude":42.376795,
+    "geom:longitude":-83.158968,
+    "iso:country":"US",
+    "sg:address":"12060 Grand River Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/56876-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 491 1333",
+    "sg:postcode":"48204",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524905,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ngGvGeAxy4xdlKkgPEUQI_42.376795_-83.158968@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809233,
+    "wof:geomhash":"aed45bc2bac1fb11cbf3488995c5e042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524905,
+            "region_id":85688599,
+            "venue_id":706678685
+        }
+    ],
+    "wof:id":706678685,
+    "wof:lastmodified":1461809233,
+    "wof:name":"Subway",
+    "wof:parent_id":420524905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.158968,
+    42.376795,
+    -83.158968,
+    42.376795
+],
+  "geometry": {"coordinates":[-83.158968,42.376795],"type":"Point"}
+}

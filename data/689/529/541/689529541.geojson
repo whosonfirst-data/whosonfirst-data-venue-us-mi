@@ -1,0 +1,69 @@
+{
+  "id": 689529541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.726729,42.295543,-85.726729,42.295543",
+    "geom:latitude":42.295543,
+    "geom:longitude":-85.726729,
+    "iso:country":"US",
+    "sg:address":"9191 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 372 1237",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5du33rRIl0nAdw7ilKSwek_42.295543_-85.726729@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774076,
+    "wof:geomhash":"44e936620d56d3d5f589953a6003b972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":689529541
+        }
+    ],
+    "wof:id":689529541,
+    "wof:lastmodified":1461774076,
+    "wof:name":"Husted Market",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.726729,
+    42.295543,
+    -85.726729,
+    42.295543
+],
+  "geometry": {"coordinates":[-85.72672900000001,42.295543],"type":"Point"}
+}

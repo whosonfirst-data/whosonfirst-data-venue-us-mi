@@ -1,0 +1,73 @@
+{
+  "id": 706203001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.58496,41.906846,-86.58496,41.906846",
+    "geom:latitude":41.906846,
+    "geom:longitude":-86.58496,
+    "iso:country":"US",
+    "sg:address":"11721 N Hildebrandt Rd",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 465 6058",
+    "sg:postcode":"49125",
+    "sg:province":"MI",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67wG6oMY5lYQbPYMA7EIjV_41.906846_-86.584960@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798139,
+    "wof:geomhash":"271f93264ff7f83ad936fd538f8dcb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706203001
+        }
+    ],
+    "wof:id":706203001,
+    "wof:lastmodified":1461798139,
+    "wof:name":"Skyway",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -86.58496,
+    41.906846,
+    -86.58496,
+    41.906846
+],
+  "geometry": {"coordinates":[-86.58496,41.906846],"type":"Point"}
+}

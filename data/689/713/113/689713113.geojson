@@ -1,0 +1,73 @@
+{
+  "id": 689713113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645109,42.865816,-85.645109,42.865816",
+    "geom:latitude":42.865816,
+    "geom:longitude":-85.645109,
+    "iso:country":"US",
+    "sg:address":"5303 Eastern Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 532 8429",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cigarette",
+        "cigar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m3KdDk11cWV1xIWLIw4HL_42.865816_-85.645109@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779476,
+    "wof:geomhash":"8ff5abe34f01223c28fb8653c25abcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689713113
+        }
+    ],
+    "wof:id":689713113,
+    "wof:lastmodified":1461779476,
+    "wof:name":"Admiral Tobacco",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar"
+    ]
+},
+  "bbox": [
+    -85.645109,
+    42.865816,
+    -85.645109,
+    42.865816
+],
+  "geometry": {"coordinates":[-85.64510900000001,42.865816],"type":"Point"}
+}

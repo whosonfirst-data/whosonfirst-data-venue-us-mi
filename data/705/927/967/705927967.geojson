@@ -1,0 +1,71 @@
+{
+  "id": 705927967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.245498,42.758234,-83.245498,42.758234",
+    "geom:latitude":42.758234,
+    "geom:longitude":-83.245498,
+    "iso:country":"US",
+    "sg:address":"1262 S Lapeer Rd",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 2255",
+    "sg:postcode":"48360",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e0QT3p6zkTI8LFGTnlEg7_42.758234_-83.245498@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792014,
+    "wof:geomhash":"fc8374f8d2011150d238aa8c9ab9bc92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705927967
+        }
+    ],
+    "wof:id":705927967,
+    "wof:lastmodified":1461792014,
+    "wof:name":"Orion Auto Svc Ctr",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.245498,
+    42.758234,
+    -83.245498,
+    42.758234
+],
+  "geometry": {"coordinates":[-83.245498,42.758234],"type":"Point"}
+}

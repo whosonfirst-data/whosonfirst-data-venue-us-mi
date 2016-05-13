@@ -1,0 +1,71 @@
+{
+  "id": 706103277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.656297,42.542039,-85.656297,42.542039",
+    "geom:latitude":42.542039,
+    "geom:longitude":-85.656297,
+    "iso:country":"US",
+    "sg:address":"1627 11th St",
+    "sg:city":"Martin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 672 7411",
+    "sg:postcode":"49070",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0phqcejgKHyWRbH3Ic9G9X_42.542039_-85.656297@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795852,
+    "wof:geomhash":"2d9ba7b957892c264619f2e0d3492317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706103277
+        }
+    ],
+    "wof:id":706103277,
+    "wof:lastmodified":1461795852,
+    "wof:name":"Martin Tire Inc",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.656297,
+    42.542039,
+    -85.656297,
+    42.542039
+],
+  "geometry": {"coordinates":[-85.656297,42.542039],"type":"Point"}
+}

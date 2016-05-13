@@ -1,0 +1,69 @@
+{
+  "id": 705981723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.246436,42.752402,-83.246436,42.752402",
+    "geom:latitude":42.752402,
+    "geom:longitude":-83.246436,
+    "iso:country":"US",
+    "sg:address":"1375 S Lapeer Rd",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 693 6213",
+    "sg:postcode":"48360",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85846351,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a0yExeUIZgEu3T8I0BFoj_42.752402_-83.246436@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793198,
+    "wof:geomhash":"5b332df6083272d3879f0ba94a92d9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85846351,
+            "region_id":85688599,
+            "venue_id":705981723
+        }
+    ],
+    "wof:id":705981723,
+    "wof:lastmodified":1461793198,
+    "wof:name":"Lake Orion Family Dentistry",
+    "wof:parent_id":85846351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.246436,
+    42.752402,
+    -83.246436,
+    42.752402
+],
+  "geometry": {"coordinates":[-83.246436,42.752402],"type":"Point"}
+}

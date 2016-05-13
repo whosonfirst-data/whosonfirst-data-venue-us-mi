@@ -1,0 +1,75 @@
+{
+  "id": 689500975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.937656,43.189149,-85.937656,43.189149",
+    "geom:latitude":43.189149,
+    "geom:longitude":-85.937656,
+    "iso:country":"US",
+    "sg:address":"12451 Stafford St",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 0506",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UOSPvM8UOmNXuOagg01zf_43.189149_-85.937656@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773119,
+    "wof:geomhash":"34a322e1c75fea31975b98a5101a8da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689500975
+        }
+    ],
+    "wof:id":689500975,
+    "wof:lastmodified":1461773119,
+    "wof:name":"Dog City Pet Salon",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.937656,
+    43.189149,
+    -85.937656,
+    43.189149
+],
+  "geometry": {"coordinates":[-85.937656,43.189149],"type":"Point"}
+}

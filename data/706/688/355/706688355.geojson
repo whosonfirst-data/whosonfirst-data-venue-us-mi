@@ -1,0 +1,74 @@
+{
+  "id": 706688355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.768299,43.060541,-83.768299,43.060541",
+    "geom:latitude":43.060541,
+    "geom:longitude":-83.768299,
+    "iso:country":"US",
+    "sg:address":"4417 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/mount-morris/44236-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 4910",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kXlQFy9F0K2FGgIsQpUrr_43.060517_-83.767966@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809610,
+    "wof:geomhash":"8361ad48571a4ef31be8ee6bd55a56f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706688355
+        }
+    ],
+    "wof:id":706688355,
+    "wof:lastmodified":1461809610,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.768299,
+    43.060541,
+    -83.768299,
+    43.060541
+],
+  "geometry": {"coordinates":[-83.768299,43.060541],"type":"Point"}
+}

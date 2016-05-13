@@ -1,0 +1,80 @@
+{
+  "id": 706687701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222939,42.509802,-83.222939,42.509802",
+    "geom:latitude":42.509802,
+    "geom:longitude":-83.222939,
+    "iso:country":"US",
+    "sg:address":"29940 Southfield Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/southfield/152769-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 557 7020",
+    "sg:postcode":"48076",
+    "sg:province":"MI",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896551,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hnbp7tfIEgU2pCq1UsJ4n_42.509866_-83.222878@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809582,
+    "wof:geomhash":"3696cbb2c15acf3ee4671d04297c5b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85896551,
+            "region_id":85688599,
+            "venue_id":706687701
+        }
+    ],
+    "wof:id":706687701,
+    "wof:lastmodified":1461809582,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85896551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.222939,
+    42.509802,
+    -83.222939,
+    42.509802
+],
+  "geometry": {"coordinates":[-83.222939,42.509802],"type":"Point"}
+}

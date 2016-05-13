@@ -1,0 +1,87 @@
+{
+  "id": 706735669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.373596,42.395199,-83.373596,42.395199",
+    "geom:latitude":42.395199,
+    "geom:longitude":-83.373596,
+    "iso:country":"US",
+    "sg:address":"15115 Farmington Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 427 0900",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524975,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6veqMWxyJrYVpoVQTtDpjd_42.395199_-83.373596@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811647,
+    "wof:geomhash":"c3249b83000d3edfcb08d054572038de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420524975,
+            "region_id":85688599,
+            "venue_id":706735669
+        }
+    ],
+    "wof:id":706735669,
+    "wof:lastmodified":1461811647,
+    "wof:name":"Livonia Little Tots Kindergarten",
+    "wof:parent_id":420524975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.373596,
+    42.395199,
+    -83.373596,
+    42.395199
+],
+  "geometry": {"coordinates":[-83.37359600000001,42.395199],"type":"Point"}
+}

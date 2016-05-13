@@ -1,0 +1,89 @@
+{
+  "id": 706686251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.640375,42.95553,-85.640375,42.95553",
+    "geom:latitude":42.95553,
+    "geom:longitude":-85.640375,
+    "iso:country":"US",
+    "sg:address":"1157 Wealthy St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50822-wealthy-st-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 451 0238",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877861,
+        404507947,
+        85951337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_055UKIvh7kWeyuZjbQxh81_42.955530_-85.640375@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809529,
+    "wof:geomhash":"0e33da46f207cf692a7077642a9effc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706686251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877861,
+            "region_id":85688599,
+            "venue_id":706686251
+        }
+    ],
+    "wof:id":706686251,
+    "wof:lastmodified":1461809529,
+    "wof:name":"Wealthy St Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.640375,
+    42.95553,
+    -85.640375,
+    42.95553
+],
+  "geometry": {"coordinates":[-85.64037500000001,42.95553],"type":"Point"}
+}

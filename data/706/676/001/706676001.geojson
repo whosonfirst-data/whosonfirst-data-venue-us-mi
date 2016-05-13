@@ -1,0 +1,78 @@
+{
+  "id": 706676001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.19204,42.50291,-83.19204,42.50291",
+    "geom:latitude":42.50291,
+    "geom:longitude":-83.19204,
+    "iso:country":"US",
+    "sg:address":"3249 12 Mile Rd",
+    "sg:city":"Berkley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/berkley/9652-amicis-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 544 4100",
+    "sg:postcode":"48072",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896553,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZnGtIGzG6XvA0FBo4QVn2_42.502910_-83.192040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809121,
+    "wof:geomhash":"1315afa4e0774d0f0b21053845a10acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896553,
+            "region_id":85688599,
+            "venue_id":706676001
+        }
+    ],
+    "wof:id":706676001,
+    "wof:lastmodified":1461809121,
+    "wof:name":"Amici's Pizza",
+    "wof:parent_id":85896553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.19204,
+    42.50291,
+    -83.19204,
+    42.50291
+],
+  "geometry": {"coordinates":[-83.19204000000001,42.50291],"type":"Point"}
+}

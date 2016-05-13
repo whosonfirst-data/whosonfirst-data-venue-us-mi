@@ -1,0 +1,73 @@
+{
+  "id": 689646187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663861,42.861236,-85.663861,42.861236",
+    "geom:latitude":42.861236,
+    "geom:longitude":-85.663861,
+    "iso:country":"US",
+    "sg:address":"5610 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 530 2444",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UnyW4yxWiMckGvRlJQXOB_42.861236_-85.663861@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777766,
+    "wof:geomhash":"a7307baa1d02043765484a4104d01584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689646187
+        }
+    ],
+    "wof:id":689646187,
+    "wof:lastmodified":1461777766,
+    "wof:name":"Quantum Concrete",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.663861,
+    42.861236,
+    -85.663861,
+    42.861236
+],
+  "geometry": {"coordinates":[-85.663861,42.861236],"type":"Point"}
+}

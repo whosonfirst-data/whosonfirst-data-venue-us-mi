@@ -1,0 +1,75 @@
+{
+  "id": 689892563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.196912,42.357845,-83.196912,42.357845",
+    "geom:latitude":42.357845,
+    "geom:longitude":-83.196912,
+    "iso:country":"US",
+    "sg:address":"8536 Greenfield Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 584 2244",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870497,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J98LF7iKpcfCFBRuUMGne_42.357845_-83.196912@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784377,
+    "wof:geomhash":"00a3e57a21f9eb9ddf7ee73fc5b016d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870497,
+            "region_id":85688599,
+            "venue_id":689892563
+        }
+    ],
+    "wof:id":689892563,
+    "wof:lastmodified":1461784377,
+    "wof:name":"Street Beat",
+    "wof:parent_id":85870497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.196912,
+    42.357845,
+    -83.196912,
+    42.357845
+],
+  "geometry": {"coordinates":[-83.196912,42.357845],"type":"Point"}
+}

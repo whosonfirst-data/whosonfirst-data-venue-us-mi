@@ -1,0 +1,70 @@
+{
+  "id": 722483013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.078276,42.339843,-83.078276,42.339843",
+    "geom:latitude":42.339843,
+    "geom:longitude":-83.078276,
+    "iso:country":"US",
+    "sg:address":"2001 Martin Luther King Jr Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 596 3780",
+    "sg:postcode":"48208",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870551,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59l7RmLdqAXL7GZ8YffAh0_42.339843_-83.078276@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812407,
+    "wof:geomhash":"7940e99270c98f11b10ba7701ddc870b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870551,
+            "region_id":85688599,
+            "venue_id":722483013
+        }
+    ],
+    "wof:id":722483013,
+    "wof:lastmodified":1461812407,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":85870551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.078276,
+    42.339843,
+    -83.078276,
+    42.339843
+],
+  "geometry": {"coordinates":[-83.078276,42.339843],"type":"Point"}
+}

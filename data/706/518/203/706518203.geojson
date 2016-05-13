@@ -1,0 +1,71 @@
+{
+  "id": 706518203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.96006,43.553679,-85.96006,43.553679",
+    "geom:latitude":43.553679,
+    "geom:longitude":-85.96006,
+    "iso:country":"US",
+    "sg:address":"21 S Stone Rd",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 5240",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ugDXjt8mvMtRq1wWvVvVB_43.553679_-85.960060@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805004,
+    "wof:geomhash":"5b6c95d93e9b66c48df3b210d8d00884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706518203
+        }
+    ],
+    "wof:id":706518203,
+    "wof:lastmodified":1461805004,
+    "wof:name":"Fremont Laundromat",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -85.96006,
+    43.553679,
+    -85.96006,
+    43.553679
+],
+  "geometry": {"coordinates":[-85.96006,43.553679],"type":"Point"}
+}

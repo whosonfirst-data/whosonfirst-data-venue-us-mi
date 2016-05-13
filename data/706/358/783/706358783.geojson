@@ -1,0 +1,73 @@
+{
+  "id": 706358783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259717,43.194524,-86.259717,43.194524",
+    "geom:latitude":43.194524,
+    "geom:longitude":-86.259717,
+    "iso:country":"US",
+    "sg:address":"3102 Glade St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 830 1200",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54u05sPIFuVsC7J04rbdtM_43.194524_-86.259717@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801586,
+    "wof:geomhash":"f5549d907dc28ce8037a47deb226bc9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706358783
+        }
+    ],
+    "wof:id":706358783,
+    "wof:lastmodified":1461801586,
+    "wof:name":"Vitreo Retinal Assoc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.259717,
+    43.194524,
+    -86.259717,
+    43.194524
+],
+  "geometry": {"coordinates":[-86.25971699999999,43.194524],"type":"Point"}
+}

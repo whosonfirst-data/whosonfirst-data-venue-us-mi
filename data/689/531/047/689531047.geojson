@@ -1,0 +1,74 @@
+{
+  "id": 689531047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617285,44.761667,-85.617285,44.761667",
+    "geom:latitude":44.761667,
+    "geom:longitude":-85.617285,
+    "iso:country":"US",
+    "sg:address":"328 Washington St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 922 4581",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ce6pgnupQkELgkIsoBPGU_44.761667_-85.617285@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774119,
+    "wof:geomhash":"33bbc7b82a536db5f9a49ec41f002cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689531047
+        }
+    ],
+    "wof:id":689531047,
+    "wof:lastmodified":1461774119,
+    "wof:name":"Grand Traverse Criminal Clerk",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -85.617285,
+    44.761667,
+    -85.617285,
+    44.761667
+],
+  "geometry": {"coordinates":[-85.617285,44.761667],"type":"Point"}
+}

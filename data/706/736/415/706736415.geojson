@@ -1,0 +1,81 @@
+{
+  "id": 706736415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.430103,42.352447,-83.430103,42.352447",
+    "geom:latitude":42.352447,
+    "geom:longitude":-83.430103,
+    "iso:country":"US",
+    "sg:address":"39485 Joy Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 207 5555",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "traditional",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "sg:website":"www.eatpapas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wtE03pesT5TCc9XI6Mv6r_42.352447_-83.430103@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811674,
+    "wof:geomhash":"b1cdfe6cd7089cc700249d75dd20cd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736415
+        }
+    ],
+    "wof:id":706736415,
+    "wof:lastmodified":1461811674,
+    "wof:name":"Papa's Pizza",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.430103,
+    42.352447,
+    -83.430103,
+    42.352447
+],
+  "geometry": {"coordinates":[-83.430103,42.352447],"type":"Point"}
+}

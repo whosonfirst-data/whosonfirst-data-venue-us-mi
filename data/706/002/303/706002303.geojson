@@ -1,0 +1,71 @@
+{
+  "id": 706002303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500293,42.167501,-84.500293,42.167501",
+    "geom:latitude":42.167501,
+    "geom:longitude":-84.500293,
+    "iso:country":"US",
+    "sg:address":"6089 Reynolds Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 563 8894",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u4l6LYs1zuLbhzwhqQIdy_42.167501_-84.500293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793626,
+    "wof:geomhash":"d5b9edd14de29133195a721fcd17bf6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706002303
+        }
+    ],
+    "wof:id":706002303,
+    "wof:lastmodified":1461793626,
+    "wof:name":"Barton Plumbing & Heating Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.500293,
+    42.167501,
+    -84.500293,
+    42.167501
+],
+  "geometry": {"coordinates":[-84.500293,42.167501],"type":"Point"}
+}

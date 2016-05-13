@@ -1,0 +1,71 @@
+{
+  "id": 706457865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.02903,43.402469,-84.02903,43.402469",
+    "geom:latitude":43.402469,
+    "geom:longitude":-84.02903,
+    "iso:country":"US",
+    "sg:address":"5195 W Michigan Ave",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 793 5370",
+    "sg:postcode":"48638",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t57gWoU924vE9oBTGpiH1_43.402469_-84.029030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803603,
+    "wof:geomhash":"bb8852b1ca241965e016a1cde4daf463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706457865
+        }
+    ],
+    "wof:id":706457865,
+    "wof:lastmodified":1461803603,
+    "wof:name":"Mary Ellen Brethauer",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -84.02903,
+    43.402469,
+    -84.02903,
+    43.402469
+],
+  "geometry": {"coordinates":[-84.02903000000001,43.402469],"type":"Point"}
+}

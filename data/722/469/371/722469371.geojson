@@ -1,0 +1,84 @@
+{
+  "id": 722469371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.286341,42.211529,-83.286341,42.211529",
+    "geom:latitude":42.211529,
+    "geom:longitude":-83.286341,
+    "iso:country":"US",
+    "sg:address":"25605 Northline Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 374 1320",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uY6Qi5pbQvFjIweQDkBgG_42.211529_-83.286341@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811833,
+    "wof:geomhash":"f7e2cee46890199a3fc5ff511f0a9aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":722469371
+        }
+    ],
+    "wof:id":722469371,
+    "wof:lastmodified":1461811833,
+    "wof:name":"City of Taylor",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -83.286341,
+    42.211529,
+    -83.286341,
+    42.211529
+],
+  "geometry": {"coordinates":[-83.28634099999999,42.211529],"type":"Point"}
+}

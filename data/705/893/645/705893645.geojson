@@ -1,0 +1,71 @@
+{
+  "id": 705893645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.26738,42.827573,-83.26738,42.827573",
+    "geom:latitude":42.827573,
+    "geom:longitude":-83.26738,
+    "iso:country":"US",
+    "sg:address":"74 N Washington St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 969 8100",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24rnOCxrsB0hDBmDxbkZrR_42.827573_-83.267380@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791261,
+    "wof:geomhash":"ad695764fe326781968abafea3f07f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":705893645
+        }
+    ],
+    "wof:id":705893645,
+    "wof:lastmodified":1461791261,
+    "wof:name":"Oxford Orion Plumbing Heating",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.26738,
+    42.827573,
+    -83.26738,
+    42.827573
+],
+  "geometry": {"coordinates":[-83.26738,42.827573],"type":"Point"}
+}

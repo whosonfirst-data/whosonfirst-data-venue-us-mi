@@ -1,0 +1,71 @@
+{
+  "id": 706316487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.079615,45.748705,-87.079615,45.748705",
+    "geom:latitude":45.748705,
+    "geom:longitude":-87.079615,
+    "iso:country":"US",
+    "sg:address":"308 N Lincoln Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 7030",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3llItVjwa7HiQVWua2lHb2_45.748705_-87.079615@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800650,
+    "wof:geomhash":"78bdd09a13fa15596a59745f0027b449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706316487
+        }
+    ],
+    "wof:id":706316487,
+    "wof:lastmodified":1461800650,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -87.079615,
+    45.748705,
+    -87.079615,
+    45.748705
+],
+  "geometry": {"coordinates":[-87.079615,45.748705],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 689669517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637393,42.962799,-85.637393,42.962799",
+    "geom:latitude":42.962799,
+    "geom:longitude":-85.637393,
+    "iso:country":"US",
+    "sg:address":"1319 Fulton St E",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 459 2999",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877885,
+        404507947,
+        85951337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43KXwnFHHZ3osg992U8ee6_42.962799_-85.637393@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778368,
+    "wof:geomhash":"647ef01512ef42fcf46e83c6fb714dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":689669517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877885,
+            "region_id":85688599,
+            "venue_id":689669517
+        }
+    ],
+    "wof:id":689669517,
+    "wof:lastmodified":1461778368,
+    "wof:name":"Common Ground Coffee Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.637393,
+    42.962799,
+    -85.637393,
+    42.962799
+],
+  "geometry": {"coordinates":[-85.637393,42.962799],"type":"Point"}
+}

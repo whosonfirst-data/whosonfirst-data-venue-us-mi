@@ -1,0 +1,73 @@
+{
+  "id": 706572519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.264121,43.200272,-86.264121,43.200272",
+    "geom:latitude":43.200272,
+    "geom:longitude":-86.264121,
+    "iso:country":"US",
+    "sg:address":"885 Oak Ridge Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 3510",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TWmRlLMBZSk9TeD2Py8mc_43.200272_-86.264121@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806110,
+    "wof:geomhash":"0557827f08f63fe8f7c7e37b2282da25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706572519
+        }
+    ],
+    "wof:id":706572519,
+    "wof:lastmodified":1461806110,
+    "wof:name":"Mortgage House Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -86.264121,
+    43.200272,
+    -86.264121,
+    43.200272
+],
+  "geometry": {"coordinates":[-86.264121,43.200272],"type":"Point"}
+}

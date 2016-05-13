@@ -1,0 +1,71 @@
+{
+  "id": 689495285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.863746,42.528499,-85.863746,42.528499",
+    "geom:latitude":42.528499,
+    "geom:longitude":-85.863746,
+    "iso:country":"US",
+    "sg:address":"320 Western Ave",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 686 0014",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WbpU94jOUCwda5fHp3VW9_42.528499_-85.863746@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772970,
+    "wof:geomhash":"72f4115a6543b84a3970bf0432be5ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":689495285
+        }
+    ],
+    "wof:id":689495285,
+    "wof:lastmodified":1461772970,
+    "wof:name":"Mr Electric",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.863746,
+    42.528499,
+    -85.863746,
+    42.528499
+],
+  "geometry": {"coordinates":[-85.86374600000001,42.528499],"type":"Point"}
+}

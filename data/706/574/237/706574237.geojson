@@ -1,0 +1,77 @@
+{
+  "id": 706574237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.102775,42.396322,-83.102775,42.396322",
+    "geom:latitude":42.396322,
+    "geom:longitude":-83.102775,
+    "iso:country":"US",
+    "sg:address":"330 Glendale St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 852 7500",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870579,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0grAtiWjdyJ79gfD9Q0pbt_42.396322_-83.102775@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806162,
+    "wof:geomhash":"1696656c224f86c150d418b43f0147c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870579,
+            "region_id":85688599,
+            "venue_id":706574237
+        }
+    ],
+    "wof:id":706574237,
+    "wof:lastmodified":1461806162,
+    "wof:name":"Spectrum Juvenile Services",
+    "wof:parent_id":85870579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.102775,
+    42.396322,
+    -83.102775,
+    42.396322
+],
+  "geometry": {"coordinates":[-83.10277499999999,42.396322],"type":"Point"}
+}

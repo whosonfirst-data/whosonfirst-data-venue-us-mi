@@ -1,0 +1,69 @@
+{
+  "id": 706693609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285599,42.518799,-83.285599,42.518799",
+    "geom:latitude":42.518799,
+    "geom:longitude":-83.285599,
+    "iso:country":"US",
+    "sg:address":"31500 Telegraph Rd Ste 10",
+    "sg:city":"Bingham Farms",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 594 4913",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T09Qh9F23UfKFppBL2Zdl_42.518799_-83.285599@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809817,
+    "wof:geomhash":"68592971b60695999204224c6b126661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706693609
+        }
+    ],
+    "wof:id":706693609,
+    "wof:lastmodified":1461809817,
+    "wof:name":"Gunther Stephen J MD Plc",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -83.285599,
+    42.518799,
+    -83.285599,
+    42.518799
+],
+  "geometry": {"coordinates":[-83.285599,42.518799],"type":"Point"}
+}

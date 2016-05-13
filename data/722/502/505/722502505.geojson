@@ -1,0 +1,71 @@
+{
+  "id": 722502505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.276901,42.3941,-83.276901,42.3941",
+    "geom:latitude":42.3941,
+    "geom:longitude":-83.276901,
+    "iso:country":"US",
+    "sg:address":"14615 Telegraph Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 592 8000",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85870483,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TXrCJJ0ZP0Bcub0Uo1jHZ_42.394100_-83.276901@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813165,
+    "wof:geomhash":"f62026e8f9ad7bea24e917328349d9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85870483,
+            "region_id":85688599,
+            "venue_id":722502505
+        }
+    ],
+    "wof:id":722502505,
+    "wof:lastmodified":1461813165,
+    "wof:name":"Rent-A-Flick Video",
+    "wof:parent_id":85870483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -83.276901,
+    42.3941,
+    -83.276901,
+    42.3941
+],
+  "geometry": {"coordinates":[-83.276901,42.3941],"type":"Point"}
+}

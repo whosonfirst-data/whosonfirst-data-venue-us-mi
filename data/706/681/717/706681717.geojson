@@ -1,0 +1,76 @@
+{
+  "id": 706681717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.035117,43.436968,-84.035117,43.436968",
+    "geom:latitude":43.436968,
+    "geom:longitude":-84.035117,
+    "iso:country":"US",
+    "sg:address":"5940 State St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/saginaw/88687-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 8965",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77LcUKSfbU64FnJ120LMpY_43.436968_-84.035117@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809353,
+    "wof:geomhash":"e47584b7846223bdf040d97c2572d079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706681717
+        }
+    ],
+    "wof:id":706681717,
+    "wof:lastmodified":1461809353,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.035117,
+    43.436968,
+    -84.035117,
+    43.436968
+],
+  "geometry": {"coordinates":[-84.035117,43.436968],"type":"Point"}
+}

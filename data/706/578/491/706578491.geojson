@@ -1,0 +1,71 @@
+{
+  "id": 706578491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.293513,43.193744,-86.293513,43.193744",
+    "geom:latitude":43.193744,
+    "geom:longitude":-86.293513,
+    "iso:country":"US",
+    "sg:address":"3253 Mc Cracken St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 1095",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RMjUInrMmFkcy8UNp2BST_43.193744_-86.293513@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806274,
+    "wof:geomhash":"ad56bf60f728d79f284a02d46d389363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706578491
+        }
+    ],
+    "wof:id":706578491,
+    "wof:lastmodified":1461806274,
+    "wof:name":"John W Russell DDS",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.293513,
+    43.193744,
+    -86.293513,
+    43.193744
+],
+  "geometry": {"coordinates":[-86.293513,43.193744],"type":"Point"}
+}

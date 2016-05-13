@@ -1,0 +1,71 @@
+{
+  "id": 705722605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.625844,41.752006,-83.625844,41.752006",
+    "geom:latitude":41.752006,
+    "geom:longitude":-83.625844,
+    "iso:country":"US",
+    "sg:address":"7581 Secor Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 6360",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zk8z84XL0OKTOQangeaEK_41.752006_-83.625844@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787224,
+    "wof:geomhash":"89c957fa1ba9ba1a67ef222f77fa158e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":705722605
+        }
+    ],
+    "wof:id":705722605,
+    "wof:lastmodified":1461787224,
+    "wof:name":"Aspen Medical Partners",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.625844,
+    41.752006,
+    -83.625844,
+    41.752006
+],
+  "geometry": {"coordinates":[-83.625844,41.752006],"type":"Point"}
+}

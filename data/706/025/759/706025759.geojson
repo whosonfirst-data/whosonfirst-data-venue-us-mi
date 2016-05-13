@@ -1,0 +1,71 @@
+{
+  "id": 706025759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.81064,42.574908,-82.81064,42.574908",
+    "geom:latitude":42.574908,
+    "geom:longitude":-82.81064,
+    "iso:country":"US",
+    "sg:address":"38095 Cherry Ln",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 5736",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wphUGXI2tCh8VPtKss5eE_42.574908_-82.810640@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794123,
+    "wof:geomhash":"d9771de4ee78485e2f722b8b35ac4ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706025759
+        }
+    ],
+    "wof:id":706025759,
+    "wof:lastmodified":1461794123,
+    "wof:name":"Electric Connection",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.81064,
+    42.574908,
+    -82.81064,
+    42.574908
+],
+  "geometry": {"coordinates":[-82.81064000000001,42.574908],"type":"Point"}
+}

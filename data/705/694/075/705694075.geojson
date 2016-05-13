@@ -1,0 +1,71 @@
+{
+  "id": 705694075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444149,42.077243,-86.444149,42.077243",
+    "geom:latitude":42.077243,
+    "geom:longitude":-86.444149,
+    "iso:country":"US",
+    "sg:address":"2198 Linda Ln",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 0048",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpqqfkaYq5r7oeVsqoZKG_42.077243_-86.444149@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786268,
+    "wof:geomhash":"30f6876bc016f273fccdfd906b9e2f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705694075
+        }
+    ],
+    "wof:id":705694075,
+    "wof:lastmodified":1461786268,
+    "wof:name":"Hardy's Janitor Svc",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.444149,
+    42.077243,
+    -86.444149,
+    42.077243
+],
+  "geometry": {"coordinates":[-86.444149,42.077243],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706685827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.193241,43.234201,-86.193241,43.234201",
+    "geom:latitude":43.234201,
+    "geom:longitude":-86.193241,
+    "iso:country":"US",
+    "sg:address":"2039 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/210816-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 7339",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_113T2sayiuPTgqOTn6iSMu_43.234201_-86.193241@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809514,
+    "wof:geomhash":"b5d6c0afdeaeb6ccc0ed20fda36f9bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685827
+        }
+    ],
+    "wof:id":706685827,
+    "wof:lastmodified":1461809514,
+    "wof:name":"Arby's",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.193241,
+    43.234201,
+    -86.193241,
+    43.234201
+],
+  "geometry": {"coordinates":[-86.193241,43.234201],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705844009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485748,41.957709,-86.485748,41.957709",
+    "geom:latitude":41.957709,
+    "geom:longitude":-86.485748,
+    "iso:country":"US",
+    "sg:address":"8905 Stevensville-Baroda Rd",
+    "sg:city":"Baroda",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 422 2273",
+    "sg:postcode":"49101",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V0OREcJ7DcWbOun5XKXFu_41.957709_-86.485748@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790046,
+    "wof:geomhash":"d16303b5e48cc7f2420e74087f14dc8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":705844009
+        }
+    ],
+    "wof:id":705844009,
+    "wof:lastmodified":1461790046,
+    "wof:name":"Tlc Car Care",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.485748,
+    41.957709,
+    -86.485748,
+    41.957709
+],
+  "geometry": {"coordinates":[-86.485748,41.957709],"type":"Point"}
+}

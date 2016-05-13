@@ -1,0 +1,83 @@
+{
+  "id": 706650067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.996176,42.43595,-82.996176,42.43595",
+    "geom:latitude":42.43595,
+    "geom:longitude":-82.996176,
+    "iso:country":"US",
+    "sg:address":"19159 Barlow St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 371 3325",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "carrier",
+        "local",
+        "insurance",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870561,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VE4L9iRN5Ek9cLmLZNhIV_42.435950_-82.996176@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807943,
+    "wof:geomhash":"0e29cc02797887c2fa777405fae6ca1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870561,
+            "region_id":85688599,
+            "venue_id":706650067
+        }
+    ],
+    "wof:id":706650067,
+    "wof:lastmodified":1461807943,
+    "wof:name":"CNA Transportation",
+    "wof:parent_id":85870561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "carrier",
+        "local",
+        "insurance",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.996176,
+    42.43595,
+    -82.996176,
+    42.43595
+],
+  "geometry": {"coordinates":[-82.99617600000001,42.43595],"type":"Point"}
+}

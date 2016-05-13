@@ -1,0 +1,71 @@
+{
+  "id": 705752951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.284892,43.163179,-86.284892,43.163179",
+    "geom:latitude":43.163179,
+    "geom:longitude":-86.284892,
+    "iso:country":"US",
+    "sg:address":"4900 Elmwood St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 3374",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uZoAV24CWO6oEBuhxq5OA_43.163179_-86.284892@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787924,
+    "wof:geomhash":"e14d1834659b947c953aab0ba4bfc4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705752951
+        }
+    ],
+    "wof:id":705752951,
+    "wof:lastmodified":1461787924,
+    "wof:name":"USA 10 Minute Oil Change",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.284892,
+    43.163179,
+    -86.284892,
+    43.163179
+],
+  "geometry": {"coordinates":[-86.284892,43.163179],"type":"Point"}
+}

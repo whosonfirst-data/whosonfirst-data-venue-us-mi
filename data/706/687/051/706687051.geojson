@@ -1,0 +1,72 @@
+{
+  "id": 706687051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626215,44.73375,-85.626215,44.73375",
+    "geom:latitude":44.73375,
+    "geom:longitude":-85.626215,
+    "iso:country":"US",
+    "sg:address":"2600 S Airport Rd W",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/garfield/146263-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 929 7867",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QIYcbfq7kiY4qPoIdv64i_44.733750_-85.626215@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809559,
+    "wof:geomhash":"82ccd6331de2ff573810bb081ffb7556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706687051
+        }
+    ],
+    "wof:id":706687051,
+    "wof:lastmodified":1461809559,
+    "wof:name":"Subway",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.626215,
+    44.73375,
+    -85.626215,
+    44.73375
+],
+  "geometry": {"coordinates":[-85.626215,44.73375],"type":"Point"}
+}

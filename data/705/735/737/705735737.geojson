@@ -1,0 +1,69 @@
+{
+  "id": 705735737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.071367,45.755947,-87.071367,45.755947",
+    "geom:latitude":45.755947,
+    "geom:longitude":-87.071367,
+    "iso:country":"US",
+    "sg:address":"828 Sheridan Rd",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 2051",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p90PiD11opOkFU52v1rxm_45.755947_-87.071367@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787547,
+    "wof:geomhash":"4c86d48ec7be4eff8d2424b9bd0aa0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":705735737
+        }
+    ],
+    "wof:id":705735737,
+    "wof:lastmodified":1461787547,
+    "wof:name":"Rampart Emergency Medical Svc",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -87.071367,
+    45.755947,
+    -87.071367,
+    45.755947
+],
+  "geometry": {"coordinates":[-87.071367,45.755947],"type":"Point"}
+}

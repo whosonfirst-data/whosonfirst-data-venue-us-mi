@@ -1,0 +1,71 @@
+{
+  "id": 706439725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263525,43.190549,-86.263525,43.190549",
+    "geom:latitude":43.190549,
+    "geom:longitude":-86.263525,
+    "iso:country":"US",
+    "sg:address":"3587 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 4554",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ukppd10ic2MPPAvpg6QBT_43.190549_-86.263525@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803202,
+    "wof:geomhash":"a4c9bf7b20310d9d0aea37eede9ffb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706439725
+        }
+    ],
+    "wof:id":706439725,
+    "wof:lastmodified":1461803202,
+    "wof:name":"Harbor Point Medical",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -86.263525,
+    43.190549,
+    -86.263525,
+    43.190549
+],
+  "geometry": {"coordinates":[-86.263525,43.190549],"type":"Point"}
+}

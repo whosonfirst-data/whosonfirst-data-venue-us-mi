@@ -1,0 +1,69 @@
+{
+  "id": 689954615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.36848,42.546911,-83.36848,42.546911",
+    "geom:latitude":42.546911,
+    "geom:longitude":-83.36848,
+    "iso:country":"US",
+    "sg:address":"4384 Pinehurst Dr",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 932 0256",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dOy5tZyXt4poJlHADdsow_42.546911_-83.368480@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785986,
+    "wof:geomhash":"47be99e45caeabfbfce740665732b343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":689954615
+        }
+    ],
+    "wof:id":689954615,
+    "wof:lastmodified":1461785986,
+    "wof:name":"Lewis H Rosenbaum Dr",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.36848,
+    42.546911,
+    -83.36848,
+    42.546911
+],
+  "geometry": {"coordinates":[-83.36848000000001,42.546911],"type":"Point"}
+}

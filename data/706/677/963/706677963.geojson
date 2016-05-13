@@ -1,0 +1,74 @@
+{
+  "id": 706677963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.483829,42.431084,-83.483829,42.431084",
+    "geom:latitude":42.431084,
+    "geom:longitude":-83.483829,
+    "iso:country":"US",
+    "sg:address":"122 Maincentre",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/northville/122042-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 449 2500",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hKrrJbKeRSo7vcALd51pb_42.431084_-83.483829@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809207,
+    "wof:geomhash":"6acdfe2937b33a751b2ee6f4aead53cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":706677963
+        }
+    ],
+    "wof:id":706677963,
+    "wof:lastmodified":1461809207,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.483829,
+    42.431084,
+    -83.483829,
+    42.431084
+],
+  "geometry": {"coordinates":[-83.483829,42.431084],"type":"Point"}
+}

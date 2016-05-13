@@ -1,0 +1,73 @@
+{
+  "id": 706647007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.89039,45.785357,-87.89039,45.785357",
+    "geom:latitude":45.785357,
+    "geom:longitude":-87.89039,
+    "iso:country":"US",
+    "sg:address":"603 3rd St",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 4355",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wniGGWglslZVY52dahp5K_45.785357_-87.890390@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807796,
+    "wof:geomhash":"a63842652dc7f622452533bbf51a882f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706647007
+        }
+    ],
+    "wof:id":706647007,
+    "wof:lastmodified":1461807796,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.89039,
+    45.785357,
+    -87.89039,
+    45.785357
+],
+  "geometry": {"coordinates":[-87.89039,45.785357],"type":"Point"}
+}

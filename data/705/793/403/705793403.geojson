@@ -1,0 +1,71 @@
+{
+  "id": 705793403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.343791,42.93494,-85.343791,42.93494",
+    "geom:latitude":42.93494,
+    "geom:longitude":-85.343791,
+    "iso:country":"US",
+    "sg:address":"212 Lincoln Lake",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 8529",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69z4CB8rOQGoTZVODo564G_42.934940_-85.343791@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788864,
+    "wof:geomhash":"a1a25d6b8c9c7c7f359059870b946fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":705793403
+        }
+    ],
+    "wof:id":705793403,
+    "wof:lastmodified":1461788864,
+    "wof:name":"Jerry Adams Painting",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.343791,
+    42.93494,
+    -85.343791,
+    42.93494
+],
+  "geometry": {"coordinates":[-85.343791,42.93494],"type":"Point"}
+}

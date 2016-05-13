@@ -1,0 +1,71 @@
+{
+  "id": 706723863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.322491,42.055392,-83.322491,42.055392",
+    "geom:latitude":42.055392,
+    "geom:longitude":-83.322491,
+    "iso:country":"US",
+    "sg:address":"12263 Telegraph Rd",
+    "sg:city":"Carleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 654 6050",
+    "sg:postcode":"48117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816729,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X7KcFfxZnYcShcU1J8lzu_42.055392_-83.322491@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811155,
+    "wof:geomhash":"a9563b037b9b833dc01f5b054a31a41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85816729,
+            "region_id":85688599,
+            "venue_id":706723863
+        }
+    ],
+    "wof:id":706723863,
+    "wof:lastmodified":1461811155,
+    "wof:name":"D & B Collision",
+    "wof:parent_id":85816729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.322491,
+    42.055392,
+    -83.322491,
+    42.055392
+],
+  "geometry": {"coordinates":[-83.322491,42.055392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706527003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.529025,42.959442,-82.529025,42.959442",
+    "geom:latitude":42.959442,
+    "geom:longitude":-82.529025,
+    "iso:country":"US",
+    "sg:address":"1841 Maple Rd",
+    "sg:city":"Kimball",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 982 3121",
+    "sg:postcode":"48074",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851823,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pB4gaNvqxSjgRrGYmyWSz_42.959442_-82.529025@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805169,
+    "wof:geomhash":"6280372033a6b8a156c6cb52422c6a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85851823,
+            "region_id":85688599,
+            "venue_id":706527003
+        }
+    ],
+    "wof:id":706527003,
+    "wof:lastmodified":1461805169,
+    "wof:name":"Grooming Gone To The Dogs",
+    "wof:parent_id":85851823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -82.529025,
+    42.959442,
+    -82.529025,
+    42.959442
+],
+  "geometry": {"coordinates":[-82.529025,42.959442],"type":"Point"}
+}

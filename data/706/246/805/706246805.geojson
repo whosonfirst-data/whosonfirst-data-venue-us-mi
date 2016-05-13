@@ -1,0 +1,71 @@
+{
+  "id": 706246805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401587,42.744572,-84.401587,42.744572",
+    "geom:latitude":42.744572,
+    "geom:longitude":-84.401587,
+    "iso:country":"US",
+    "sg:address":"5695 Babbitt St",
+    "sg:city":"Haslett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 339 0355",
+    "sg:postcode":"48840",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G0NeDTRE6iFKMzveUAA2M_42.744572_-84.401587@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799120,
+    "wof:geomhash":"20accc1a4c549c8050cfdb5d057df22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706246805
+        }
+    ],
+    "wof:id":706246805,
+    "wof:lastmodified":1461799120,
+    "wof:name":"Morrow & Morrow",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.401587,
+    42.744572,
+    -84.401587,
+    42.744572
+],
+  "geometry": {"coordinates":[-84.40158700000001,42.744572],"type":"Point"}
+}

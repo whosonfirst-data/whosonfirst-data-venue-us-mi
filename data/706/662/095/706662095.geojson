@@ -1,0 +1,71 @@
+{
+  "id": 706662095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.973913,42.616594,-82.973913,42.616594",
+    "geom:latitude":42.616594,
+    "geom:longitude":-82.973913,
+    "iso:country":"US",
+    "sg:address":"15127 Olivewood Dr",
+    "sg:city":"Sterling Heights",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 247 7040",
+    "sg:postcode":"48313",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23ux628q03qCmlwhIGm715_42.616633_-82.973937@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808520,
+    "wof:geomhash":"fbc14c9b681e85465e3456a88a4693d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706662095
+        }
+    ],
+    "wof:id":706662095,
+    "wof:lastmodified":1461808520,
+    "wof:name":"Olivewood Apartments",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.973913,
+    42.616594,
+    -82.973913,
+    42.616594
+],
+  "geometry": {"coordinates":[-82.973913,42.616594],"type":"Point"}
+}

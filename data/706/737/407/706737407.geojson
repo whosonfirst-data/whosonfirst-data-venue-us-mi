@@ -1,0 +1,83 @@
+{
+  "id": 706737407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.459702,42.359001,-83.459702,42.359001",
+    "geom:latitude":42.359001,
+    "geom:longitude":-83.459702,
+    "iso:country":"US",
+    "sg:address":"111 Ann Arbor Rd W",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 8740",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sQdLlIoSMuvSOwh1DAW0M_42.359001_-83.459702@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811709,
+    "wof:geomhash":"c36f969cf944b7ba03929a63d5fe2d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737407
+        }
+    ],
+    "wof:id":706737407,
+    "wof:lastmodified":1461811709,
+    "wof:name":"Fox Hills Chrysler Plymouth",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.459702,
+    42.359001,
+    -83.459702,
+    42.359001
+],
+  "geometry": {"coordinates":[-83.45970199999999,42.359001],"type":"Point"}
+}

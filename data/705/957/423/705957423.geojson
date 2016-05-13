@@ -1,0 +1,71 @@
+{
+  "id": 705957423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.545012,42.658471,-83.545012,42.658471",
+    "geom:latitude":42.658471,
+    "geom:longitude":-83.545012,
+    "iso:country":"US",
+    "sg:address":"5405 Plantation Dr",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 887 5424",
+    "sg:postcode":"48383",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wCTEFy8X53tSov9sYivm6_42.658471_-83.545012@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792696,
+    "wof:geomhash":"b2ea9731008f9bd9f277b2f79a552099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":705957423
+        }
+    ],
+    "wof:id":705957423,
+    "wof:lastmodified":1461792696,
+    "wof:name":"James Brendel",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.545012,
+    42.658471,
+    -83.545012,
+    42.658471
+],
+  "geometry": {"coordinates":[-83.545012,42.658471],"type":"Point"}
+}

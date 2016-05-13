@@ -1,0 +1,71 @@
+{
+  "id": 689469347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.404452,42.2475,-84.404452,42.2475",
+    "geom:latitude":42.2475,
+    "geom:longitude":-84.404452,
+    "iso:country":"US",
+    "sg:address":"101 E Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 4040",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C83VhqVfxuPE0G538hQtO_42.247500_-84.404452@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772188,
+    "wof:geomhash":"59c0a4a62e28767c982c7ae3cac82870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689469347
+        }
+    ],
+    "wof:id":689469347,
+    "wof:lastmodified":1461772188,
+    "wof:name":"Elaine Apartments",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.404452,
+    42.2475,
+    -84.404452,
+    42.2475
+],
+  "geometry": {"coordinates":[-84.40445200000001,42.2475],"type":"Point"}
+}

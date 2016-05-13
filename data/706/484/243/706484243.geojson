@@ -1,0 +1,71 @@
+{
+  "id": 706484243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626148,42.888588,-85.626148,42.888588",
+    "geom:latitude":42.888588,
+    "geom:longitude":-85.626148,
+    "iso:country":"US",
+    "sg:address":"4122 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 455 4020",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MPbFikO6UMduKUTFjvGSS_42.888588_-85.626148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804173,
+    "wof:geomhash":"3976e02584e985fbfe70c8db3fe611b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706484243
+        }
+    ],
+    "wof:id":706484243,
+    "wof:lastmodified":1461804173,
+    "wof:name":"Grand Valley Foster Care",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -85.626148,
+    42.888588,
+    -85.626148,
+    42.888588
+],
+  "geometry": {"coordinates":[-85.626148,42.888588],"type":"Point"}
+}

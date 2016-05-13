@@ -1,0 +1,91 @@
+{
+  "id": 706098541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.180967,42.450121,-83.180967,42.450121",
+    "geom:latitude":42.450121,
+    "geom:longitude":-83.180967,
+    "iso:country":"US",
+    "sg:address":"13220 Cloverdale St",
+    "sg:city":"Oak Park",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 399 3439",
+    "sg:postcode":"48237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524619,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599,
+        420524987,
+        404506393,
+        85951091,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q4kCEJKOqrVomoszryCzh_42.450121_-83.180967@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795752,
+    "wof:geomhash":"5bce20001b3d16e3040e8c13597246cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":420524619,
+            "region_id":85688599,
+            "venue_id":706098541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524987,
+            "region_id":85688599,
+            "venue_id":706098541
+        }
+    ],
+    "wof:id":706098541,
+    "wof:lastmodified":1461795752,
+    "wof:name":"Commonwealth Recycling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.180967,
+    42.450121,
+    -83.180967,
+    42.450121
+],
+  "geometry": {"coordinates":[-83.180967,42.450121],"type":"Point"}
+}

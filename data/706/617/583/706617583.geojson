@@ -1,0 +1,73 @@
+{
+  "id": 706617583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685879,44.504367,-85.685879,44.504367",
+    "geom:latitude":44.504367,
+    "geom:longitude":-85.685879,
+    "iso:country":"US",
+    "sg:address":"140 Industrial Dr",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 269 3314",
+    "sg:postcode":"49620",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jo8eUHFxZyOhNd5wrL18a_44.504367_-85.685879@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807102,
+    "wof:geomhash":"30d0a0715b44ce33e0fe9c0e9be6a422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706617583
+        }
+    ],
+    "wof:id":706617583,
+    "wof:lastmodified":1461807102,
+    "wof:name":"MPS Automotive",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.685879,
+    44.504367,
+    -85.685879,
+    44.504367
+],
+  "geometry": {"coordinates":[-85.685879,44.504367],"type":"Point"}
+}

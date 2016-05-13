@@ -1,0 +1,69 @@
+{
+  "id": 689505503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.229262,41.851143,-86.229262,41.851143",
+    "geom:latitude":41.851143,
+    "geom:longitude":-86.229262,
+    "iso:country":"US",
+    "sg:address":"1800 Terminal Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 8584",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bt92WRIBvgyM9POdmxdS6_41.851143_-86.229262@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773276,
+    "wof:geomhash":"eec2fe165ba14b63b10a1c17061e0c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689505503
+        }
+    ],
+    "wof:id":689505503,
+    "wof:lastmodified":1461773276,
+    "wof:name":"Davis Cartage Co",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -86.229262,
+    41.851143,
+    -86.229262,
+    41.851143
+],
+  "geometry": {"coordinates":[-86.22926200000001,41.851143],"type":"Point"}
+}

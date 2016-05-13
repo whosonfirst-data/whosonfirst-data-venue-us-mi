@@ -1,0 +1,73 @@
+{
+  "id": 689476321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604621,42.998816,-85.604621,42.998816",
+    "geom:latitude":42.998816,
+    "geom:longitude":-85.604621,
+    "iso:country":"US",
+    "sg:address":"2777 Knapp St NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 365 0525",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dgTur4DUnT5aAf2A36wFG_42.998816_-85.604621@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772418,
+    "wof:geomhash":"01afab16bfe55db06d3343cd7f29c7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":689476321
+        }
+    ],
+    "wof:id":689476321,
+    "wof:lastmodified":1461772418,
+    "wof:name":"North Hills Classical Academy",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "private"
+    ]
+},
+  "bbox": [
+    -85.604621,
+    42.998816,
+    -85.604621,
+    42.998816
+],
+  "geometry": {"coordinates":[-85.60462099999999,42.998816],"type":"Point"}
+}

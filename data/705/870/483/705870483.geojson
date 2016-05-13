@@ -1,0 +1,71 @@
+{
+  "id": 705870483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.54605,42.601581,-82.54605,42.601581",
+    "geom:latitude":42.601581,
+    "geom:longitude":-82.54605,
+    "iso:country":"US",
+    "sg:address":"258 Monroe Blvd",
+    "sg:city":"Harsens Island",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 748 9569",
+    "sg:postcode":"48028",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951529,
+        102083053,
+        85842569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cwfMXEMeAIBq4OgPBJuwX_42.601581_-82.546050@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790705,
+    "wof:geomhash":"477d9b9fd4a9f934df11dc82f2cad8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951529,
+            "neighbourhood_id":85842569,
+            "region_id":85688599,
+            "venue_id":705870483
+        }
+    ],
+    "wof:id":705870483,
+    "wof:lastmodified":1461790705,
+    "wof:name":"General Maintenance",
+    "wof:parent_id":85842569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -82.54605,
+    42.601581,
+    -82.54605,
+    42.601581
+],
+  "geometry": {"coordinates":[-82.54604999999999,42.601581],"type":"Point"}
+}

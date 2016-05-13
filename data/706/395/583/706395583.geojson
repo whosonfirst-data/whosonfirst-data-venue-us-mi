@@ -1,0 +1,71 @@
+{
+  "id": 706395583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.51411,42.046699,-86.51411,42.046699",
+    "geom:latitude":42.046699,
+    "geom:longitude":-86.51411,
+    "iso:country":"US",
+    "sg:address":"3909 Red Arrow Hwy",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 3431",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821733,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DfYpMw6YL1xNCefYMgjwB_42.046699_-86.514110@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802313,
+    "wof:geomhash":"3466f1e758e4616de43169676e4a3cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85821733,
+            "region_id":85688599,
+            "venue_id":706395583
+        }
+    ],
+    "wof:id":706395583,
+    "wof:lastmodified":1461802313,
+    "wof:name":"Garbage Co",
+    "wof:parent_id":85821733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.51411,
+    42.046699,
+    -86.51411,
+    42.046699
+],
+  "geometry": {"coordinates":[-86.51411,42.046699],"type":"Point"}
+}

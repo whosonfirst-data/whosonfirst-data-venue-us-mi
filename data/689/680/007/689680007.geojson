@@ -1,0 +1,74 @@
+{
+  "id": 689680007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.400502,46.541685,-87.400502,46.541685",
+    "geom:latitude":46.541685,
+    "geom:longitude":-87.400502,
+    "iso:country":"US",
+    "sg:address":"311 W Baraga Ave",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 6548",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "sg:website":"www.stpetercathedral.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J92sSCqQV5boKDVCQRhnA_46.541685_-87.400502@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778619,
+    "wof:geomhash":"a71867c2e53eaa3c0c6f34c8aad3a342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689680007
+        }
+    ],
+    "wof:id":689680007,
+    "wof:lastmodified":1461778619,
+    "wof:name":"St Peters Cathedral",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [
+    -87.400502,
+    46.541685,
+    -87.400502,
+    46.541685
+],
+  "geometry": {"coordinates":[-87.400502,46.541685],"type":"Point"}
+}

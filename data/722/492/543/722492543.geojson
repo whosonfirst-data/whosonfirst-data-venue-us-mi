@@ -1,0 +1,83 @@
+{
+  "id": 722492543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.045389,42.330592,-83.045389,42.330592",
+    "geom:latitude":42.330592,
+    "geom:longitude":-83.045389,
+    "iso:country":"US",
+    "sg:address":"608 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 483 7283",
+    "sg:postcode":"48226",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit"
+    ],
+    "sg:website":"www.motorcitywine.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558475,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AFALei5r3cAIix8zASE1q_42.330592_-83.045389@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812793,
+    "wof:geomhash":"343a92862ce00790a65a31e6151bb452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420558475,
+            "region_id":85688599,
+            "venue_id":722492543
+        }
+    ],
+    "wof:id":722492543,
+    "wof:lastmodified":1461812793,
+    "wof:name":"Motor City Wine",
+    "wof:parent_id":420558475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit"
+    ]
+},
+  "bbox": [
+    -83.045389,
+    42.330592,
+    -83.045389,
+    42.330592
+],
+  "geometry": {"coordinates":[-83.045389,42.330592],"type":"Point"}
+}

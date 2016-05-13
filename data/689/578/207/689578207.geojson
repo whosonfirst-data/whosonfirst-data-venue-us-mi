@@ -1,0 +1,77 @@
+{
+  "id": 689578207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569357,47.120439,-88.569357,47.120439",
+    "geom:latitude":47.120439,
+    "geom:longitude":-88.569357,
+    "iso:country":"US",
+    "sg:address":"401 E Houghton Ave",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 487 5937",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "county",
+        "govt",
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D7rz3IxD8vPH2OpH4K2zB_47.120439_-88.569357@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775538,
+    "wof:geomhash":"2086ee6625a47a7457b4e57a6e6b74f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":689578207
+        }
+    ],
+    "wof:id":689578207,
+    "wof:lastmodified":1461775538,
+    "wof:name":"Community Corrections Program",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.569357,
+    47.120439,
+    -88.569357,
+    47.120439
+],
+  "geometry": {"coordinates":[-88.569357,47.120439],"type":"Point"}
+}

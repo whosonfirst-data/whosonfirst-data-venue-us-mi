@@ -1,0 +1,71 @@
+{
+  "id": 705852507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800769,43.390795,-85.800769,43.390795",
+    "geom:latitude":43.390795,
+    "geom:longitude":-85.800769,
+    "iso:country":"US",
+    "sg:address":"9022 Mason Dr",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 1681",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gcCGjaEaCxk2f6SQRGWjq_43.390795_-85.800769@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790244,
+    "wof:geomhash":"a5b1d86cf6e2b50cb7061c6f416dcf81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705852507
+        }
+    ],
+    "wof:id":705852507,
+    "wof:lastmodified":1461790244,
+    "wof:name":"Newaygo Veterinary Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.800769,
+    43.390795,
+    -85.800769,
+    43.390795
+],
+  "geometry": {"coordinates":[-85.800769,43.390795],"type":"Point"}
+}

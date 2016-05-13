@@ -1,0 +1,85 @@
+{
+  "id": 706675175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.208179,42.541406,-83.208179,42.541406",
+    "geom:latitude":42.541406,
+    "geom:longitude":-83.208179,
+    "iso:country":"US",
+    "sg:address":"34300 Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/birmingham/137072-seattles-best-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 203 0005",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896581,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Y9Gu4F7I9ILTGlGAozr0_42.541406_-83.208179@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809085,
+    "wof:geomhash":"c5089b54b202ee85b6466224da8fdb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":85896581,
+            "region_id":85688599,
+            "venue_id":706675175
+        }
+    ],
+    "wof:id":706675175,
+    "wof:lastmodified":1461809085,
+    "wof:name":"Seattle's Best Coffee",
+    "wof:parent_id":85896581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.208179,
+    42.541406,
+    -83.208179,
+    42.541406
+],
+  "geometry": {"coordinates":[-83.208179,42.541406],"type":"Point"}
+}

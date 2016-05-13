@@ -1,0 +1,83 @@
+{
+  "id": 722513449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.420589,42.497353,-83.420589,42.497353",
+    "geom:latitude":42.497353,
+    "geom:longitude":-83.420589,
+    "iso:country":"US",
+    "sg:address":"37801 W 12 Mile Rd",
+    "sg:city":"Farmington Hills",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 553 0602",
+    "sg:postcode":"48331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896653,
+        102191575,
+        404508281,
+        85633793,
+        85952021,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HnUHGAALzKah7l4VVouIM_42.497353_-83.420589@1303262797"
+    },
+    "wof:country":"US",
+    "wof:created":1461813631,
+    "wof:geomhash":"45abd88c8cf2aac6212ca0b43ac7037d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508281,
+            "locality_id":85952021,
+            "neighbourhood_id":85896653,
+            "region_id":85688599,
+            "venue_id":722513449
+        }
+    ],
+    "wof:id":722513449,
+    "wof:lastmodified":1461813631,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85896653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.420589,
+    42.497353,
+    -83.420589,
+    42.497353
+],
+  "geometry": {"coordinates":[-83.42058900000001,42.497353],"type":"Point"}
+}

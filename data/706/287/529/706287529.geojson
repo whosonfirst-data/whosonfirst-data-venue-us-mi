@@ -1,0 +1,69 @@
+{
+  "id": 706287529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401097,42.199257,-84.401097,42.199257",
+    "geom:latitude":42.199257,
+    "geom:longitude":-84.401097,
+    "iso:country":"US",
+    "sg:address":"4483 Francis St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 6193",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gMlIdnfTIFlsBawu9ObuQ_42.199257_-84.401097@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800030,
+    "wof:geomhash":"4e64d1e8fca3491b8c08119fa7202e90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706287529
+        }
+    ],
+    "wof:id":706287529,
+    "wof:lastmodified":1461800030,
+    "wof:name":"Animal Hospital Of Vandercook",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.401097,
+    42.199257,
+    -84.401097,
+    42.199257
+],
+  "geometry": {"coordinates":[-84.40109699999999,42.199257],"type":"Point"}
+}

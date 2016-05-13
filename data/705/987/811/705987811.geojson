@@ -1,0 +1,71 @@
+{
+  "id": 705987811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.126288,42.778474,-86.126288,42.778474",
+    "geom:latitude":42.778474,
+    "geom:longitude":-86.126288,
+    "iso:country":"US",
+    "sg:address":"411 W 21st St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 494 9535",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wojt44xKYqoSUCM1Cdb2n_42.778474_-86.126288@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793329,
+    "wof:geomhash":"04efddcf276d67f8ce6349e40056a0a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":705987811
+        }
+    ],
+    "wof:id":705987811,
+    "wof:lastmodified":1461793329,
+    "wof:name":"Holland Museum Storage",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.126288,
+    42.778474,
+    -86.126288,
+    42.778474
+],
+  "geometry": {"coordinates":[-86.126288,42.778474],"type":"Point"}
+}

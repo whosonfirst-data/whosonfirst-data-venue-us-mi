@@ -1,0 +1,73 @@
+{
+  "id": 689546545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.412284,42.747322,-84.412284,42.747322",
+    "geom:latitude":42.747322,
+    "geom:longitude":-84.412284,
+    "iso:country":"US",
+    "sg:address":"1650 Haslett Rd",
+    "sg:city":"Haslett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 339 3200",
+    "sg:postcode":"48840",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Ym6njJJzDT2yO2pFAdym_42.747322_-84.412284@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774592,
+    "wof:geomhash":"8d2efbee2169628d58a2fe143f3969b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689546545
+        }
+    ],
+    "wof:id":689546545,
+    "wof:lastmodified":1461774592,
+    "wof:name":"Christina Helms MD",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.412284,
+    42.747322,
+    -84.412284,
+    42.747322
+],
+  "geometry": {"coordinates":[-84.412284,42.747322],"type":"Point"}
+}

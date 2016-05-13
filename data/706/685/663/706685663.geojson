@@ -1,0 +1,74 @@
+{
+  "id": 706685663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.091147,42.825405,-86.091147,42.825405",
+    "geom:latitude":42.825405,
+    "geom:longitude":-86.091147,
+    "iso:country":"US",
+    "sg:address":"3067 W Shore Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/47735-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 738 2400",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_763O2F9CccDYoeVj509ghW_42.825405_-86.091147@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809508,
+    "wof:geomhash":"7853fc3f86baf5d28760f8ac2ab53760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706685663
+        }
+    ],
+    "wof:id":706685663,
+    "wof:lastmodified":1461809508,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -86.091147,
+    42.825405,
+    -86.091147,
+    42.825405
+],
+  "geometry": {"coordinates":[-86.09114700000001,42.825405],"type":"Point"}
+}

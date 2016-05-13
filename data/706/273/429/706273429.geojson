@@ -1,0 +1,71 @@
+{
+  "id": 706273429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.574815,42.984468,-85.574815,42.984468",
+    "geom:latitude":42.984468,
+    "geom:longitude":-85.574815,
+    "iso:country":"US",
+    "sg:address":"4060 Leonard St NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 813 5374",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53aV4meEQT31oFogF2mXoD_42.984468_-85.574815@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799694,
+    "wof:geomhash":"ee311feb9654f09b1b0c74afbe452cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877893,
+            "region_id":85688599,
+            "venue_id":706273429
+        }
+    ],
+    "wof:id":706273429,
+    "wof:lastmodified":1461799694,
+    "wof:name":"Davco Capital & Leasing",
+    "wof:parent_id":85877893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.574815,
+    42.984468,
+    -85.574815,
+    42.984468
+],
+  "geometry": {"coordinates":[-85.574815,42.984468],"type":"Point"}
+}

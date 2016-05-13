@@ -1,0 +1,73 @@
+{
+  "id": 705768685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.048365,45.808358,-88.048365,45.808358",
+    "geom:latitude":45.808358,
+    "geom:longitude":-88.048365,
+    "iso:country":"US",
+    "sg:address":"1771 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 3750",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h9myRioY32OfZBOZrGIWy_45.808358_-88.048365@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788273,
+    "wof:geomhash":"b67de0390b9d54ec17a4dd210b0becff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":705768685
+        }
+    ],
+    "wof:id":705768685,
+    "wof:lastmodified":1461788273,
+    "wof:name":"Edelweiss Coffee Inc",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -88.048365,
+    45.808358,
+    -88.048365,
+    45.808358
+],
+  "geometry": {"coordinates":[-88.048365,45.808358],"type":"Point"}
+}

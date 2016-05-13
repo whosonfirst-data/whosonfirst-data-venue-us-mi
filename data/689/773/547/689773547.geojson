@@ -1,0 +1,71 @@
+{
+  "id": 689773547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.28342,42.821481,-83.28342,42.821481",
+    "geom:latitude":42.821481,
+    "geom:longitude":-83.28342,
+    "iso:country":"US",
+    "sg:address":"82 Frederick Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 628 8995",
+    "sg:postcode":"48371",
+    "sg:province":"MI",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829169,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFvHTNESp743kYbNtyExG_42.821481_-83.283420@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781091,
+    "wof:geomhash":"19717a2f6d40cc8db74700c2bf7905fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85829169,
+            "region_id":85688599,
+            "venue_id":689773547
+        }
+    ],
+    "wof:id":689773547,
+    "wof:lastmodified":1461781091,
+    "wof:name":"Bitwise Operations",
+    "wof:parent_id":85829169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -83.28342,
+    42.821481,
+    -83.28342,
+    42.821481
+],
+  "geometry": {"coordinates":[-83.28342000000001,42.821481],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 722498709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.21637,42.430103,-83.21637,42.430103",
+    "geom:latitude":42.430103,
+    "geom:longitude":-83.21637,
+    "iso:country":"US",
+    "sg:address":"17625 W 7 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 5754",
+    "sg:postcode":"48235",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pXdWCc4mqniiqhJwSphlN_42.430103_-83.216370@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461813019,
+    "wof:geomhash":"ff55119f83ea9e3f01c88a202dc24a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":722498709
+        }
+    ],
+    "wof:id":722498709,
+    "wof:lastmodified":1461813019,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":85870493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -83.21637,
+    42.430103,
+    -83.21637,
+    42.430103
+],
+  "geometry": {"coordinates":[-83.21637,42.430103],"type":"Point"}
+}

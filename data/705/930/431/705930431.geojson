@@ -1,0 +1,71 @@
+{
+  "id": 705930431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.475801,42.430502,-83.475801,42.430502",
+    "geom:latitude":42.430502,
+    "geom:longitude":-83.475801,
+    "iso:country":"US",
+    "sg:address":"195 S Main St",
+    "sg:city":"Northville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 349 7640",
+    "sg:postcode":"48167",
+    "sg:province":"MI",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkixzWAygOk4WKXj4xDXe_42.430502_-83.475801@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792069,
+    "wof:geomhash":"185ac747531e1b13eb9c2b571787b825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":705930431
+        }
+    ],
+    "wof:id":705930431,
+    "wof:lastmodified":1461792069,
+    "wof:name":"Northville Chamber of Commerce",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -83.475801,
+    42.430502,
+    -83.475801,
+    42.430502
+],
+  "geometry": {"coordinates":[-83.475801,42.430502],"type":"Point"}
+}

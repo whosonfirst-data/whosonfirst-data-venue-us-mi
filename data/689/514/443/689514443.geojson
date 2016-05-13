@@ -1,0 +1,71 @@
+{
+  "id": 689514443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.903958,43.466911,-85.903958,43.466911",
+    "geom:latitude":43.466911,
+    "geom:longitude":-85.903958,
+    "iso:country":"US",
+    "sg:address":"4424 W 48th St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 4229",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_265o8s9Bo6P3hwYyD1u9Xb_43.466911_-85.903958@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773537,
+    "wof:geomhash":"65db42271bc69e7bd54090dda9e8252c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689514443
+        }
+    ],
+    "wof:id":689514443,
+    "wof:lastmodified":1461773537,
+    "wof:name":"Hospice Of Michigan",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -85.903958,
+    43.466911,
+    -85.903958,
+    43.466911
+],
+  "geometry": {"coordinates":[-85.903958,43.466911],"type":"Point"}
+}

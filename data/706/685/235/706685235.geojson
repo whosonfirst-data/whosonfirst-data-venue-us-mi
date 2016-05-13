@@ -1,0 +1,77 @@
+{
+  "id": 706685235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.567583,43.219901,-85.567583,43.219901",
+    "geom:latitude":43.219901,
+    "geom:longitude":-85.567583,
+    "iso:country":"US",
+    "sg:address":"4141 17 Mile Rd NE",
+    "sg:city":"Cedar Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cedar-springs/185983-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49319",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RlBSXZhRX3FoQss2LtnTA_43.219901_-85.567583@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809493,
+    "wof:geomhash":"1d7c2058e26e0547f5c9ce90968fd86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706685235
+        }
+    ],
+    "wof:id":706685235,
+    "wof:lastmodified":1461809493,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.567583,
+    43.219901,
+    -85.567583,
+    43.219901
+],
+  "geometry": {"coordinates":[-85.567583,43.219901],"type":"Point"}
+}

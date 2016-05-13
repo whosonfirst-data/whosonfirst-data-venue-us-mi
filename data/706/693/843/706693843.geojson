@@ -1,0 +1,84 @@
+{
+  "id": 706693843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.204002,42.518398,-83.204002,42.518398",
+    "geom:latitude":42.518398,
+    "geom:longitude":-83.204002,
+    "iso:country":"US",
+    "sg:address":"31111 Greenfield Rd",
+    "sg:city":"Beverly Hills",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 644 2155",
+    "sg:postcode":"48025",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524599,
+        102191575,
+        404508307,
+        85633793,
+        85952039,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eov1KWvtcV2sfRhlAY77f_42.518398_-83.204002@1303262775"
+    },
+    "wof:country":"US",
+    "wof:created":1461809826,
+    "wof:geomhash":"2d1a9debe6530ab48e7384806af1f6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508307,
+            "locality_id":85952039,
+            "neighbourhood_id":420524599,
+            "region_id":85688599,
+            "venue_id":706693843
+        }
+    ],
+    "wof:id":706693843,
+    "wof:lastmodified":1461809826,
+    "wof:name":"Beverage Warehouse",
+    "wof:parent_id":420524599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.204002,
+    42.518398,
+    -83.204002,
+    42.518398
+],
+  "geometry": {"coordinates":[-83.204002,42.518398],"type":"Point"}
+}

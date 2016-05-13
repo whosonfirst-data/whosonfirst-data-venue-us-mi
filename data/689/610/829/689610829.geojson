@@ -1,0 +1,75 @@
+{
+  "id": 689610829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.772237,42.987281,-83.772237,42.987281",
+    "geom:latitude":42.987281,
+    "geom:longitude":-83.772237,
+    "iso:country":"US",
+    "sg:address":"4495 W Lennon Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 2590",
+    "sg:postcode":"48507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b27a1J92gqacDZh2xcgoM_42.987281_-83.772237@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776631,
+    "wof:geomhash":"6f22302787d6d18cc0d10f4510966985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":689610829
+        }
+    ],
+    "wof:id":689610829,
+    "wof:lastmodified":1461776631,
+    "wof:name":"Animal Medical Clinic",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.772237,
+    42.987281,
+    -83.772237,
+    42.987281
+],
+  "geometry": {"coordinates":[-83.772237,42.987281],"type":"Point"}
+}

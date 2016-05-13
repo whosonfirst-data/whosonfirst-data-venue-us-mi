@@ -1,0 +1,71 @@
+{
+  "id": 706499675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2052,42.655663,-86.2052,42.655663",
+    "geom:latitude":42.655663,
+    "geom:longitude":-86.2052,
+    "iso:country":"US",
+    "sg:address":"147 Water St",
+    "sg:city":"Saugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 857 3307",
+    "sg:postcode":"49453",
+    "sg:province":"MI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839391,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5n9tafhTBJ9ouE7aQ1df_42.655663_-86.205200@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804645,
+    "wof:geomhash":"f37e05c6b1bb8018aeb28c5849c4d632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85839391,
+            "region_id":85688599,
+            "venue_id":706499675
+        }
+    ],
+    "wof:id":706499675,
+    "wof:lastmodified":1461804645,
+    "wof:name":"Waterfront Day Spa",
+    "wof:parent_id":85839391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -86.2052,
+    42.655663,
+    -86.2052,
+    42.655663
+],
+  "geometry": {"coordinates":[-86.2052,42.655663],"type":"Point"}
+}

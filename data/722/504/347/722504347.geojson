@@ -1,0 +1,73 @@
+{
+  "id": 722504347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285202,42.5448,-83.285202,42.5448",
+    "geom:latitude":42.5448,
+    "geom:longitude":-83.285202,
+    "iso:country":"US",
+    "sg:address":"S Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 645 2010",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "internal",
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sXIQyRrmvpFRkola3knUk_42.544800_-83.285202@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813240,
+    "wof:geomhash":"6f6eb40aee1b9f975e70d891aaeae91b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":722504347
+        }
+    ],
+    "wof:id":722504347,
+    "wof:lastmodified":1461813240,
+    "wof:name":"Bloomfield Cardiology Group PC",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal",
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -83.285202,
+    42.5448,
+    -83.285202,
+    42.5448
+],
+  "geometry": {"coordinates":[-83.285202,42.5448],"type":"Point"}
+}

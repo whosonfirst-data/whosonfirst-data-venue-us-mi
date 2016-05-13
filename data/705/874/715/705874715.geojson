@@ -1,0 +1,71 @@
+{
+  "id": 705874715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.444168,42.746393,-84.444168,42.746393",
+    "geom:latitude":42.746393,
+    "geom:longitude":-84.444168,
+    "iso:country":"US",
+    "sg:address":"2524 Marmon Ct",
+    "sg:city":"East Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 339 9907",
+    "sg:postcode":"48823",
+    "sg:province":"MI",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Te8zCUzhqiu00T6iiyQP8_42.746393_-84.444168@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790812,
+    "wof:geomhash":"ad1412df44e535094b587d2fe928cda1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705874715
+        }
+    ],
+    "wof:id":705874715,
+    "wof:lastmodified":1461790812,
+    "wof:name":"Political Ed & Consulting",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -84.444168,
+    42.746393,
+    -84.444168,
+    42.746393
+],
+  "geometry": {"coordinates":[-84.444168,42.746393],"type":"Point"}
+}

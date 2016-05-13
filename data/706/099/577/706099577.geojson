@@ -1,0 +1,71 @@
+{
+  "id": 706099577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.755136,43.06079,-83.755136,43.06079",
+    "geom:latitude":43.06079,
+    "geom:longitude":-83.755136,
+    "iso:country":"US",
+    "sg:address":"4010 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 8877",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lF1U9fkglEHytx1nufgFR_43.060790_-83.755136@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795774,
+    "wof:geomhash":"1900c8fd84d77ac783fae6545cc977aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706099577
+        }
+    ],
+    "wof:id":706099577,
+    "wof:lastmodified":1461795774,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.755136,
+    43.06079,
+    -83.755136,
+    43.06079
+],
+  "geometry": {"coordinates":[-83.75513599999999,43.06079],"type":"Point"}
+}

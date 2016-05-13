@@ -1,0 +1,71 @@
+{
+  "id": 705749185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.400375,42.26697,-84.400375,42.26697",
+    "geom:latitude":42.26697,
+    "geom:longitude":-84.400375,
+    "iso:country":"US",
+    "sg:address":"606 Blair Park Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 9009",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_366Y7XaFoMle1S2vfP8dkU_42.266970_-84.400375@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787831,
+    "wof:geomhash":"d475e9777b9fea249be99776896ca6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705749185
+        }
+    ],
+    "wof:id":705749185,
+    "wof:lastmodified":1461787831,
+    "wof:name":"Blair Park Management Office",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.400375,
+    42.26697,
+    -84.400375,
+    42.26697
+],
+  "geometry": {"coordinates":[-84.400375,42.26697],"type":"Point"}
+}

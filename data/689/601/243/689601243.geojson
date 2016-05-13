@@ -1,0 +1,73 @@
+{
+  "id": 689601243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.455935,42.09048,-86.455935,42.09048",
+    "geom:latitude":42.09048,
+    "geom:longitude":-86.455935,
+    "iso:country":"US",
+    "sg:address":"1452 Colfax Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 7151",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tp3BdgxJA1jesffsATI5M_42.090480_-86.455935@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776287,
+    "wof:geomhash":"bade8d98b09245a616cb88fcbe87088b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":689601243
+        }
+    ],
+    "wof:id":689601243,
+    "wof:lastmodified":1461776287,
+    "wof:name":"Jewell Electric",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.455935,
+    42.09048,
+    -86.455935,
+    42.09048
+],
+  "geometry": {"coordinates":[-86.455935,42.09048],"type":"Point"}
+}

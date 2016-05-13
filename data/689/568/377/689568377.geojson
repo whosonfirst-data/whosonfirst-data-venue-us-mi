@@ -1,0 +1,73 @@
+{
+  "id": 689568377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.653246,42.153725,-83.653246,42.153725",
+    "geom:latitude":42.153725,
+    "geom:longitude":-83.653246,
+    "iso:country":"US",
+    "sg:address":"9012 Stony Creek Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 7504",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "beer",
+        "liquor",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851175,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x3TbIU9hWo2MH9ZpJHWMs_42.153725_-83.653246@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775243,
+    "wof:geomhash":"0197dd4f41fe540f9cc43d0028af7e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85851175,
+            "region_id":85688599,
+            "venue_id":689568377
+        }
+    ],
+    "wof:id":689568377,
+    "wof:lastmodified":1461775243,
+    "wof:name":"Stoney Creek Convenience",
+    "wof:parent_id":85851175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "liquor",
+        "wine"
+    ]
+},
+  "bbox": [
+    -83.653246,
+    42.153725,
+    -83.653246,
+    42.153725
+],
+  "geometry": {"coordinates":[-83.653246,42.153725],"type":"Point"}
+}

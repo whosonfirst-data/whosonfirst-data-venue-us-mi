@@ -1,0 +1,73 @@
+{
+  "id": 689745355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.226249,43.0373,-86.226249,43.0373",
+    "geom:latitude":43.0373,
+    "geom:longitude":-86.226249,
+    "iso:country":"US",
+    "sg:address":"14806 Parkwood Dr",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 6738",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H1MhhhYH9KvQy1ohlT9gr_43.037300_-86.226249@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780327,
+    "wof:geomhash":"9215ba316dead0c200c5a248f8f795e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":689745355
+        }
+    ],
+    "wof:id":689745355,
+    "wof:lastmodified":1461780327,
+    "wof:name":"National Assoc of Letter",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.226249,
+    43.0373,
+    -86.226249,
+    43.0373
+],
+  "geometry": {"coordinates":[-86.226249,43.0373],"type":"Point"}
+}

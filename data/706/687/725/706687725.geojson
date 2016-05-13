@@ -1,0 +1,92 @@
+{
+  "id": 706687725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.901039,42.459018,-82.901039,42.459018",
+    "geom:latitude":42.459018,
+    "geom:longitude":-82.901039,
+    "iso:country":"US",
+    "sg:address":"22411 Greater Mack Ave",
+    "sg:city":"Saint Clair Shores",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/st-clair-shores/39948-pepperoni-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 774 3998",
+    "sg:postcode":"48080",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524409,
+        102191575,
+        404507479,
+        85633793,
+        85951695,
+        102083047,
+        85688599,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hxUwAqaGkWioVskP3Bhbn_42.459514_-82.900903@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809588,
+    "wof:geomhash":"cfdb3d72f29bf4f9732187cc519a9615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507479,
+            "locality_id":85951695,
+            "neighbourhood_id":420524409,
+            "region_id":85688599,
+            "venue_id":706687725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":706687725
+        }
+    ],
+    "wof:id":706687725,
+    "wof:lastmodified":1461809588,
+    "wof:name":"Pepperoni Grille",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.901039,
+    42.459018,
+    -82.901039,
+    42.459018
+],
+  "geometry": {"coordinates":[-82.901039,42.459018],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705815099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.425987,42.513126,-83.425987,42.513126",
+    "geom:latitude":42.513126,
+    "geom:longitude":-83.425987,
+    "iso:country":"US",
+    "sg:address":"29814 Newbury Ct",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 592 0671",
+    "sg:postcode":"48331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896633,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jqUWVQJLkM34q9uVRPRoG_42.513126_-83.425987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789365,
+    "wof:geomhash":"018132a4cb1f0be7d054d42e42c820b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896633,
+            "region_id":85688599,
+            "venue_id":705815099
+        }
+    ],
+    "wof:id":705815099,
+    "wof:lastmodified":1461789365,
+    "wof:name":"FM Dish",
+    "wof:parent_id":85896633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.425987,
+    42.513126,
+    -83.425987,
+    42.513126
+],
+  "geometry": {"coordinates":[-83.42598700000001,42.513126],"type":"Point"}
+}

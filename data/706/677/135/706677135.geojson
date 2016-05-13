@@ -1,0 +1,78 @@
+{
+  "id": 706677135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.738251,42.239843,-83.738251,42.239843",
+    "geom:latitude":42.239843,
+    "geom:longitude":-83.738251,
+    "iso:country":"US",
+    "sg:address":"725 Victors Way",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/197230-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 996 1223",
+    "sg:postcode":"48108",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866991,
+        102191575,
+        404506389,
+        85633793,
+        85951883,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgUtWy7nqi33AzQ7xgFvG_42.239843_-83.738251@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809168,
+    "wof:geomhash":"0def04722d8213f43d0243ffd354dbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506389,
+            "locality_id":85951883,
+            "neighbourhood_id":85866991,
+            "region_id":85688599,
+            "venue_id":706677135
+        }
+    ],
+    "wof:id":706677135,
+    "wof:lastmodified":1461809168,
+    "wof:name":"Burger King",
+    "wof:parent_id":85866991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.738251,
+    42.239843,
+    -83.738251,
+    42.239843
+],
+  "geometry": {"coordinates":[-83.73825100000001,42.239843],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706738235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.347725,42.249843,-83.347725,42.249843",
+    "geom:latitude":42.249843,
+    "geom:longitude":-83.347725,
+    "iso:country":"US",
+    "sg:address":"7630 Merriman Rd",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 595 6711",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851475,
+        102191575,
+        404508657,
+        85633793,
+        85951131,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07s0TfPAqiLQHIZlixmVso_42.249843_-83.347725@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811743,
+    "wof:geomhash":"df47cc76feb44886f3ef1a092ccb97ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508657,
+            "locality_id":85951131,
+            "neighbourhood_id":85851475,
+            "region_id":85688599,
+            "venue_id":706738235
+        }
+    ],
+    "wof:id":706738235,
+    "wof:lastmodified":1461811743,
+    "wof:name":"Subway",
+    "wof:parent_id":85851475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.347725,
+    42.249843,
+    -83.347725,
+    42.249843
+],
+  "geometry": {"coordinates":[-83.347725,42.249843],"type":"Point"}
+}

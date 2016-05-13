@@ -1,0 +1,71 @@
+{
+  "id": 705725299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.025505,42.801692,-86.025505,42.801692",
+    "geom:latitude":42.801692,
+    "geom:longitude":-86.025505,
+    "iso:country":"US",
+    "sg:address":"25 Princeton Ct",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 748 9077",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rpqEmOHQGxak4BVvDNhBK_42.801692_-86.025505@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787291,
+    "wof:geomhash":"63a1c03aeca20caf2ea4c1138bd6ca40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":705725299
+        }
+    ],
+    "wof:id":705725299,
+    "wof:lastmodified":1461787291,
+    "wof:name":"Koster Plumbing",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.025505,
+    42.801692,
+    -86.025505,
+    42.801692
+],
+  "geometry": {"coordinates":[-86.025505,42.801692],"type":"Point"}
+}

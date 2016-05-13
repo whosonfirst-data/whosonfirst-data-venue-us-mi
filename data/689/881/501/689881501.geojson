@@ -1,0 +1,71 @@
+{
+  "id": 689881501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874517,42.972295,-85.874517,42.972295",
+    "geom:latitude":42.972295,
+    "geom:longitude":-85.874517,
+    "iso:country":"US",
+    "sg:address":"4141 Lake Michigan Dr NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 453 9472",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822455,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08JuKszIzVAO17qA5GyUyh_42.972295_-85.874517@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784079,
+    "wof:geomhash":"7b4b2681817f9caad2bae4f04ef465b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85822455,
+            "region_id":85688599,
+            "venue_id":689881501
+        }
+    ],
+    "wof:id":689881501,
+    "wof:lastmodified":1461784079,
+    "wof:name":"Clear Imagine Auto Glass",
+    "wof:parent_id":85822455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -85.874517,
+    42.972295,
+    -85.874517,
+    42.972295
+],
+  "geometry": {"coordinates":[-85.874517,42.972295],"type":"Point"}
+}

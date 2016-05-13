@@ -1,0 +1,73 @@
+{
+  "id": 689861811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455349,42.384325,-85.455349,42.384325",
+    "geom:latitude":42.384325,
+    "geom:longitude":-85.455349,
+    "iso:country":"US",
+    "sg:address":"8559 N 32nd St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 629 4234",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w7eQ6C8SpTUOkdbDwhRUv_42.384325_-85.455349@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783567,
+    "wof:geomhash":"2c7a9d29b0e0ac85b306a3322cced07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":689861811
+        }
+    ],
+    "wof:id":689861811,
+    "wof:lastmodified":1461783567,
+    "wof:name":"Lakeside Apartments",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.455349,
+    42.384325,
+    -85.455349,
+    42.384325
+],
+  "geometry": {"coordinates":[-85.455349,42.384325],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706687897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.62513,41.760399,-83.62513,41.760399",
+    "geom:latitude":41.760399,
+    "geom:longitude":-83.62513,
+    "iso:country":"US",
+    "sg:address":"7965 Summerfield Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bedford/79645-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 854 2128",
+    "sg:postcode":"48144",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712039,
+        102084787,
+        85852653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NfWL8XtYbICKXnCfbfx9S_41.760333_-83.625081@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809594,
+    "wof:geomhash":"8ed528bcfabc0f63dd107d21c145b4ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712039,
+            "neighbourhood_id":85852653,
+            "region_id":85688485,
+            "venue_id":706687897
+        }
+    ],
+    "wof:id":706687897,
+    "wof:lastmodified":1461809594,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85852653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.62513,
+    41.760399,
+    -83.62513,
+    41.760399
+],
+  "geometry": {"coordinates":[-83.62513,41.760399],"type":"Point"}
+}

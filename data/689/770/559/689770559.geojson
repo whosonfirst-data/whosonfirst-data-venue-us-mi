@@ -1,0 +1,73 @@
+{
+  "id": 689770559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.602897,41.893577,-86.602897,41.893577",
+    "geom:latitude":41.893577,
+    "geom:longitude":-86.602897,
+    "iso:country":"US",
+    "sg:address":"12440 Red Arrow Hwy",
+    "sg:city":"Sawyer",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 426 4494",
+    "sg:postcode":"49125",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bQQh38E6BrkDkcs4SGcIH_41.893577_-86.602897@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781027,
+    "wof:geomhash":"8768c3cc4fd8ead5b212cdafee4f3b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":689770559
+        }
+    ],
+    "wof:id":689770559,
+    "wof:lastmodified":1461781027,
+    "wof:name":"Sawyer Dance Academy",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -86.602897,
+    41.893577,
+    -86.602897,
+    41.893577
+],
+  "geometry": {"coordinates":[-86.602897,41.893577],"type":"Point"}
+}

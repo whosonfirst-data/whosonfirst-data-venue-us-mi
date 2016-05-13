@@ -1,0 +1,79 @@
+{
+  "id": 706039935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.397815,42.541828,-83.397815,42.541828",
+    "geom:latitude":42.541828,
+    "geom:longitude":-83.397815,
+    "iso:country":"US",
+    "sg:address":"6445 W Maple Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 661 1600",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85837605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66z6QAamKzzQMQe0mob3uu_42.541828_-83.397815@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794403,
+    "wof:geomhash":"3f17bd97d88422964ddff3a8b7d29c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706039935
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706039935
+        }
+    ],
+    "wof:id":706039935,
+    "wof:lastmodified":1461794403,
+    "wof:name":"West Bloomfield Nursing Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -83.397815,
+    42.541828,
+    -83.397815,
+    42.541828
+],
+  "geometry": {"coordinates":[-83.39781499999999,42.541828],"type":"Point"}
+}

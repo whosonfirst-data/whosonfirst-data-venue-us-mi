@@ -1,0 +1,71 @@
+{
+  "id": 689890991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.985927,43.441219,-83.985927,43.441219",
+    "geom:latitude":43.441219,
+    "geom:longitude":-83.985927,
+    "iso:country":"US",
+    "sg:address":"2425 Peale Dr",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 8258",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HreAMYhijwXozla91kO9R_43.441219_-83.985927@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784320,
+    "wof:geomhash":"95886b4bd7d0ea1c908fefa07608edef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689890991
+        }
+    ],
+    "wof:id":689890991,
+    "wof:lastmodified":1461784320,
+    "wof:name":"Duffy S Electric",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.985927,
+    43.441219,
+    -83.985927,
+    43.441219
+],
+  "geometry": {"coordinates":[-83.985927,43.441219],"type":"Point"}
+}

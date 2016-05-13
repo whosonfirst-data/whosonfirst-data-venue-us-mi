@@ -1,0 +1,73 @@
+{
+  "id": 689745197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.300586,43.205735,-86.300586,43.205735",
+    "geom:latitude":43.205735,
+    "geom:longitude":-86.300586,
+    "iso:country":"US",
+    "sg:address":"2624 Le Boeuf St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 0706",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lpLapBYUZ1vKhZoXym8XA_43.205735_-86.300586@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780324,
+    "wof:geomhash":"a2e9a943bcf10fe194e15704829df3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689745197
+        }
+    ],
+    "wof:id":689745197,
+    "wof:lastmodified":1461780324,
+    "wof:name":"Eagle Trucking",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.300586,
+    43.205735,
+    -86.300586,
+    43.205735
+],
+  "geometry": {"coordinates":[-86.300586,43.205735],"type":"Point"}
+}

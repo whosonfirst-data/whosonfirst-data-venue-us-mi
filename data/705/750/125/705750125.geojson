@@ -1,0 +1,72 @@
+{
+  "id": 705750125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724571,43.016598,-85.724571,43.016598",
+    "geom:latitude":43.016598,
+    "geom:longitude":-85.724571,
+    "iso:country":"US",
+    "sg:address":"2929 Walker Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 453 6711",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6glNzJXQQ9tqDz0tkb8Ort_43.016598_-85.724571@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787848,
+    "wof:geomhash":"80037b5600159c6e5505b923f2e40566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":705750125
+        }
+    ],
+    "wof:id":705750125,
+    "wof:lastmodified":1461787848,
+    "wof:name":"Meijer Inc",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.724571,
+    43.016598,
+    -85.724571,
+    43.016598
+],
+  "geometry": {"coordinates":[-85.724571,43.016598],"type":"Point"}
+}

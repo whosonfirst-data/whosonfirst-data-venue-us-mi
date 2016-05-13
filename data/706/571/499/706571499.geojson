@@ -1,0 +1,71 @@
+{
+  "id": 706571499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.747056,43.014554,-83.747056,43.014554",
+    "geom:latitude":43.014554,
+    "geom:longitude":-83.747056,
+    "iso:country":"US",
+    "sg:address":"1053 Professional Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 8322",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rrLwhZsE8zwNHG8TGr9KH_43.014554_-83.747056@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806090,
+    "wof:geomhash":"e0c2fede29063982602cd00a13170ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706571499
+        }
+    ],
+    "wof:id":706571499,
+    "wof:lastmodified":1461806090,
+    "wof:name":"Joyce Strohl MD",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.747056,
+    43.014554,
+    -83.747056,
+    43.014554
+],
+  "geometry": {"coordinates":[-83.747056,43.014554],"type":"Point"}
+}

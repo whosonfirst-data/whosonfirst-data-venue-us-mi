@@ -1,0 +1,71 @@
+{
+  "id": 706444799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.296086,42.606341,-83.296086,42.606341",
+    "geom:latitude":42.606341,
+    "geom:longitude":-83.296086,
+    "iso:country":"US",
+    "sg:address":"2129 S Telegraph Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 335 1553",
+    "sg:postcode":"48302",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4phYMAxxzAmhdTFxbTWl7f_42.606341_-83.296086@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803324,
+    "wof:geomhash":"6708a42ed01c2433239ac81321cd5e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706444799
+        }
+    ],
+    "wof:id":706444799,
+    "wof:lastmodified":1461803324,
+    "wof:name":"PETCO",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.296086,
+    42.606341,
+    -83.296086,
+    42.606341
+],
+  "geometry": {"coordinates":[-83.296086,42.606341],"type":"Point"}
+}

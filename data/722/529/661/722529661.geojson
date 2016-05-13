@@ -1,0 +1,67 @@
+{
+  "id": 722529661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.938254,43.187895,-85.938254,43.187895",
+    "geom:latitude":43.187895,
+    "geom:longitude":-85.938254,
+    "iso:country":"US",
+    "sg:address":"12521 Crockery Creek Dr",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1drcL7FaXsbJku1HjZbbSo_43.187895_-85.938254@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814395,
+    "wof:geomhash":"262174d54633067d53977d828cdfc9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529661
+        }
+    ],
+    "wof:id":722529661,
+    "wof:lastmodified":1461814395,
+    "wof:name":"USPS - United States Post Office - Ravenna Main Office",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.938254,
+    43.187895,
+    -85.938254,
+    43.187895
+],
+  "geometry": {"coordinates":[-85.938254,43.187895],"type":"Point"}
+}

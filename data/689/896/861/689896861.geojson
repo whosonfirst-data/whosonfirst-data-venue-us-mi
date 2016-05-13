@@ -1,0 +1,70 @@
+{
+  "id": 689896861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401783,42.245713,-84.401783,42.245713",
+    "geom:latitude":42.245713,
+    "geom:longitude":-84.401783,
+    "iso:country":"US",
+    "sg:address":"216 E Washington Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 788 4131",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofjackson.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ROoJQ1E13IPCw035DgPtM_42.245713_-84.401783@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784474,
+    "wof:geomhash":"b13a01c0613a75961eb8b315a739a100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689896861
+        }
+    ],
+    "wof:id":689896861,
+    "wof:lastmodified":1461784474,
+    "wof:name":"Jackson Police-Oper Commander",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.401783,
+    42.245713,
+    -84.401783,
+    42.245713
+],
+  "geometry": {"coordinates":[-84.40178299999999,42.245713],"type":"Point"}
+}

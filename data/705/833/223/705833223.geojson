@@ -1,0 +1,79 @@
+{
+  "id": 705833223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.666074,42.916621,-85.666074,42.916621",
+    "geom:latitude":42.916621,
+    "geom:longitude":-85.666074,
+    "iso:country":"US",
+    "sg:address":"2634 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 970 0023",
+    "sg:postcode":"49507",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_245wcRCoN2fRkSIspjoFYC_42.916621_-85.666074@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789807,
+    "wof:geomhash":"16a9e3b26c50bf4c2c71711efa313a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":705833223
+        }
+    ],
+    "wof:id":705833223,
+    "wof:lastmodified":1461789807,
+    "wof:name":"KOOL Radiator Svc",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -85.666074,
+    42.916621,
+    -85.666074,
+    42.916621
+],
+  "geometry": {"coordinates":[-85.66607399999999,42.916621],"type":"Point"}
+}

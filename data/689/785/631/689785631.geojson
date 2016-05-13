@@ -1,0 +1,67 @@
+{
+  "id": 689785631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269995,43.205475,-86.269995,43.205475",
+    "geom:latitude":43.205475,
+    "geom:longitude":-86.269995,
+    "iso:country":"US",
+    "sg:address":"840 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 8589",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Btar0jAjMXKDJV9aIEo0_43.205475_-86.269995@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781412,
+    "wof:geomhash":"00c7699309a15e244117a22cf7162615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689785631
+        }
+    ],
+    "wof:id":689785631,
+    "wof:lastmodified":1461781412,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.269995,
+    43.205475,
+    -86.269995,
+    43.205475
+],
+  "geometry": {"coordinates":[-86.26999499999999,43.205475],"type":"Point"}
+}

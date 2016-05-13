@@ -1,0 +1,74 @@
+{
+  "id": 689959531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.340132,41.947897,-86.340132,41.947897",
+    "geom:latitude":41.947897,
+    "geom:longitude":-86.340132,
+    "iso:country":"US",
+    "sg:address":"200 N Cass St",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 5433",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y6jHUufSbugsotg9BXymS_41.947897_-86.340132@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786124,
+    "wof:geomhash":"7e4a343e17f951feb120031f1af5a5d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689959531
+        }
+    ],
+    "wof:id":689959531,
+    "wof:lastmodified":1461786124,
+    "wof:name":"Stowe Chiropractic Life Center",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.340132,
+    41.947897,
+    -86.340132,
+    41.947897
+],
+  "geometry": {"coordinates":[-86.340132,41.947897],"type":"Point"}
+}

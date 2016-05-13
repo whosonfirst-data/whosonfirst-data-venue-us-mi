@@ -1,0 +1,71 @@
+{
+  "id": 689850017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.40661,44.279397,-85.40661,44.279397",
+    "geom:latitude":44.279397,
+    "geom:longitude":-85.40661,
+    "iso:country":"US",
+    "sg:address":"2116 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 1800",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uPYioima5TNr9hW76rfL4_44.279397_-85.406610@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783313,
+    "wof:geomhash":"f5a795450cc769741c62bf5005c36c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689850017
+        }
+    ],
+    "wof:id":689850017,
+    "wof:lastmodified":1461783313,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -85.40661,
+    44.279397,
+    -85.40661,
+    44.279397
+],
+  "geometry": {"coordinates":[-85.40661,44.279397],"type":"Point"}
+}

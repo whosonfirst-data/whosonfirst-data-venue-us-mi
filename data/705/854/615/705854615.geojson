@@ -1,0 +1,71 @@
+{
+  "id": 705854615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.242042,43.090718,-86.242042,43.090718",
+    "geom:latitude":43.090718,
+    "geom:longitude":-86.242042,
+    "iso:country":"US",
+    "sg:address":"18125 Shady Ridge Ct",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 2262",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17diKWeV35FaQpEYvdqhTq_43.090718_-86.242042@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790295,
+    "wof:geomhash":"26524c40805c90acc61c796cdcfe792c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705854615
+        }
+    ],
+    "wof:id":705854615,
+    "wof:lastmodified":1461790295,
+    "wof:name":"Woodland Ridge Apartments",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.242042,
+    43.090718,
+    -86.242042,
+    43.090718
+],
+  "geometry": {"coordinates":[-86.242042,43.090718],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 722496259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.212233,42.343441,-83.212233,42.343441",
+    "geom:latitude":42.343441,
+    "geom:longitude":-83.212233,
+    "iso:country":"US",
+    "sg:address":"17031 W Warren Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 846 9772",
+    "sg:postcode":"48228",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870491,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CnlypSU0uwex8qCRHaI4H_42.343441_-83.212233@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812933,
+    "wof:geomhash":"6325159887fcd1c82a7c44e52476b80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870491,
+            "region_id":85688599,
+            "venue_id":722496259
+        }
+    ],
+    "wof:id":722496259,
+    "wof:lastmodified":1461812933,
+    "wof:name":"Bravo One Pizza",
+    "wof:parent_id":85870491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.212233,
+    42.343441,
+    -83.212233,
+    42.343441
+],
+  "geometry": {"coordinates":[-83.212233,42.343441],"type":"Point"}
+}

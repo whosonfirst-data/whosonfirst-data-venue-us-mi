@@ -1,0 +1,75 @@
+{
+  "id": 722484319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.072701,42.386299,-83.072701,42.386299",
+    "geom:latitude":42.386299,
+    "geom:longitude":-83.072701,
+    "iso:country":"US",
+    "sg:address":"9100 Oakland St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 868 5510",
+    "sg:postcode":"48211",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870609,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_033Qrw53sbD6bZPJONG10W_42.386299_-83.072701@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812462,
+    "wof:geomhash":"340c97a6000d1943ca0e9c51c918fc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":722484319
+        }
+    ],
+    "wof:id":722484319,
+    "wof:lastmodified":1461812462,
+    "wof:name":"Super Save Drugs",
+    "wof:parent_id":85870609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.072701,
+    42.386299,
+    -83.072701,
+    42.386299
+],
+  "geometry": {"coordinates":[-83.072701,42.386299],"type":"Point"}
+}

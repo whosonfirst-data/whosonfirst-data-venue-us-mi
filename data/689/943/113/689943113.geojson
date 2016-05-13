@@ -1,0 +1,73 @@
+{
+  "id": 689943113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.539558,42.769689,-84.539558,42.769689",
+    "geom:latitude":42.769689,
+    "geom:longitude":-84.539558,
+    "iso:country":"US",
+    "sg:address":"731 E Sheridan Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 372 5871",
+    "sg:postcode":"48906",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EATmvIxgS2WTQyVsLbiSm_42.769689_-84.539558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785688,
+    "wof:geomhash":"4a25bf232474b55c08a5f1fe8668d897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878629,
+            "region_id":85688599,
+            "venue_id":689943113
+        }
+    ],
+    "wof:id":689943113,
+    "wof:lastmodified":1461785688,
+    "wof:name":"Eric's Refuse Inc",
+    "wof:parent_id":85878629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.539558,
+    42.769689,
+    -84.539558,
+    42.769689
+],
+  "geometry": {"coordinates":[-84.539558,42.769689],"type":"Point"}
+}

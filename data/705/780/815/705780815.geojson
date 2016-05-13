@@ -1,0 +1,73 @@
+{
+  "id": 705780815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.584127,42.276113,-83.584127,42.276113",
+    "geom:latitude":42.276113,
+    "geom:longitude":-83.584127,
+    "iso:country":"US",
+    "sg:address":"8383 Geddes Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 8060",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0au9gcHIwTzHn3sAOqELKU_42.276113_-83.584127@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788574,
+    "wof:geomhash":"df4c4829155e060e3929510d1c7e7aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":705780815
+        }
+    ],
+    "wof:id":705780815,
+    "wof:lastmodified":1461788574,
+    "wof:name":"Ypsilanti Brewing Co",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -83.584127,
+    42.276113,
+    -83.584127,
+    42.276113
+],
+  "geometry": {"coordinates":[-83.584127,42.276113],"type":"Point"}
+}

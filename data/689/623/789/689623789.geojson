@@ -1,0 +1,71 @@
+{
+  "id": 689623789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742941,43.033619,-83.742941,43.033619",
+    "geom:latitude":43.033619,
+    "geom:longitude":-83.742941,
+    "iso:country":"US",
+    "sg:address":"3409 Mackin Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 3284",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EDXu16vrUXSGyrZb5u819_43.033619_-83.742941@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776998,
+    "wof:geomhash":"742cd1a051ba5b00aa63a2c3248eeb1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689623789
+        }
+    ],
+    "wof:id":689623789,
+    "wof:lastmodified":1461776998,
+    "wof:name":"Bennie Kendall Cleaning",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.742941,
+    43.033619,
+    -83.742941,
+    43.033619
+],
+  "geometry": {"coordinates":[-83.742941,43.033619],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689864017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.228331,43.205247,-86.228331,43.205247",
+    "geom:latitude":43.205247,
+    "geom:longitude":-86.228331,
+    "iso:country":"US",
+    "sg:address":"2520 Elwood St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 2066",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tYSRrbnpgxEWICydtHjDX_43.205247_-86.228331@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783614,
+    "wof:geomhash":"dbfe3a6dadba1a7a305ac17a2d35dc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689864017
+        }
+    ],
+    "wof:id":689864017,
+    "wof:lastmodified":1461783614,
+    "wof:name":"Tee Tee's Foster Care",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "foster"
+    ]
+},
+  "bbox": [
+    -86.228331,
+    43.205247,
+    -86.228331,
+    43.205247
+],
+  "geometry": {"coordinates":[-86.228331,43.205247],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689941237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.491505,42.209135,-83.491505,42.209135",
+    "geom:latitude":42.209135,
+    "geom:longitude":-83.491505,
+    "iso:country":"US",
+    "sg:address":"25 5th St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 1222",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61dJQeKsRBSt0b26SdfveA_42.209135_-83.491505@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785642,
+    "wof:geomhash":"88f5189080caed4e098bc3b1a7a9d5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":689941237
+        }
+    ],
+    "wof:id":689941237,
+    "wof:lastmodified":1461785642,
+    "wof:name":"Belleville Taxi",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.491505,
+    42.209135,
+    -83.491505,
+    42.209135
+],
+  "geometry": {"coordinates":[-83.491505,42.209135],"type":"Point"}
+}

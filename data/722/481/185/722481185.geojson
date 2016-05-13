@@ -1,0 +1,91 @@
+{
+  "id": 722481185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.96837,42.449484,-82.96837,42.449484",
+    "geom:latitude":42.449484,
+    "geom:longitude":-82.96837,
+    "iso:country":"US",
+    "sg:address":"15455 Gratiot Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 372 7075",
+    "sg:postcode":"48205",
+    "sg:province":"MI",
+    "sg:tags":[
+        "supply",
+        "photo",
+        "aid",
+        "finishing",
+        "drugstore",
+        "first"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870569,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VTPB5fm4p4umMJr9rm9iW_42.449484_-82.968370@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812336,
+    "wof:geomhash":"d0e293e39c4006c040702152883d9ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870569,
+            "region_id":85688599,
+            "venue_id":722481185
+        }
+    ],
+    "wof:id":722481185,
+    "wof:lastmodified":1461812336,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85870569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "photo",
+        "aid",
+        "finishing",
+        "drugstore",
+        "first"
+    ]
+},
+  "bbox": [
+    -82.96837,
+    42.449484,
+    -82.96837,
+    42.449484
+],
+  "geometry": {"coordinates":[-82.96836999999999,42.449484],"type":"Point"}
+}

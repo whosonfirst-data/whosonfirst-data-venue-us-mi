@@ -1,0 +1,78 @@
+{
+  "id": 706676039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.240938,42.444036,-83.240938,42.444036",
+    "geom:latitude":42.444036,
+    "geom:longitude":-83.240938,
+    "iso:country":"US",
+    "sg:address":"20104 W 8 Mile Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/southfield/56923-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 358 6850",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870505,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CQBYUN4PEUqm8Uk9RsUrA_42.444036_-83.240938@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809122,
+    "wof:geomhash":"d637b9d24e8f532749dbb7738f439c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870505,
+            "region_id":85688599,
+            "venue_id":706676039
+        }
+    ],
+    "wof:id":706676039,
+    "wof:lastmodified":1461809122,
+    "wof:name":"Subway",
+    "wof:parent_id":85870505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.240938,
+    42.444036,
+    -83.240938,
+    42.444036
+],
+  "geometry": {"coordinates":[-83.240938,42.444036],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706010055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.700587,43.034725,-83.700587,43.034725",
+    "geom:latitude":43.034725,
+    "geom:longitude":-83.700587,
+    "iso:country":"US",
+    "sg:address":"2026 Oren Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 233 6958",
+    "sg:postcode":"48505",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wBv6ZJ3lv0D82qYJaEPYz_43.034725_-83.700587@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793794,
+    "wof:geomhash":"83abbc7786021ef3ea259e7906151c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706010055
+        }
+    ],
+    "wof:id":706010055,
+    "wof:lastmodified":1461793794,
+    "wof:name":"Royster Haven",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -83.700587,
+    43.034725,
+    -83.700587,
+    43.034725
+],
+  "geometry": {"coordinates":[-83.700587,43.034725],"type":"Point"}
+}

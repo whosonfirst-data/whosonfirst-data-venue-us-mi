@@ -1,0 +1,85 @@
+{
+  "id": 722489161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.138496,42.417099,-83.138496,42.417099",
+    "geom:latitude":42.417099,
+    "geom:longitude":-83.138496,
+    "iso:country":"US",
+    "sg:address":"4001 W McNichols Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 993 1000",
+    "sg:postcode":"48221",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "college",
+        "language"
+    ],
+    "sg:website":"www.udmercy.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870511,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZguEYGsDkl2LoNvkvoWK_42.417099_-83.138496@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812642,
+    "wof:geomhash":"961b7c9a3a1bbf300c296e30a395f3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870511,
+            "region_id":85688599,
+            "venue_id":722489161
+        }
+    ],
+    "wof:id":722489161,
+    "wof:lastmodified":1461812642,
+    "wof:name":"University of Detroit Mercy",
+    "wof:parent_id":85870511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "college",
+        "language"
+    ]
+},
+  "bbox": [
+    -83.138496,
+    42.417099,
+    -83.138496,
+    42.417099
+],
+  "geometry": {"coordinates":[-83.138496,42.417099],"type":"Point"}
+}

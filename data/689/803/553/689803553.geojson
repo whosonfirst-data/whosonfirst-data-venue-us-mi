@@ -1,0 +1,73 @@
+{
+  "id": 689803553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.495004,43.016943,-82.495004,43.016943",
+    "geom:latitude":43.016943,
+    "geom:longitude":-82.495004,
+    "iso:country":"US",
+    "sg:address":"3777 State Rd",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 8628",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72IB442oZeL7dk2j7CYrs4_43.016943_-82.495004@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781999,
+    "wof:geomhash":"66b99bc4a4000844f39e492f83a258f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689803553
+        }
+    ],
+    "wof:id":689803553,
+    "wof:lastmodified":1461781999,
+    "wof:name":"Venus Body Shop",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.495004,
+    43.016943,
+    -82.495004,
+    43.016943
+],
+  "geometry": {"coordinates":[-82.49500399999999,43.016943],"type":"Point"}
+}

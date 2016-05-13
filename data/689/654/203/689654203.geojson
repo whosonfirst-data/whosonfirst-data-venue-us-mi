@@ -1,0 +1,73 @@
+{
+  "id": 689654203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702207,43.330467,-85.702207,43.330467",
+    "geom:latitude":43.330467,
+    "geom:longitude":-85.702207,
+    "iso:country":"US",
+    "sg:address":"12292 S Oak Ave",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7884",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DFfY4gfSpyzs8fJxTPDCG_43.330467_-85.702207@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777968,
+    "wof:geomhash":"83e2cc03c24aa3f675675fd6ff660dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689654203
+        }
+    ],
+    "wof:id":689654203,
+    "wof:lastmodified":1461777968,
+    "wof:name":"Northern Repair Svc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.702207,
+    43.330467,
+    -85.702207,
+    43.330467
+],
+  "geometry": {"coordinates":[-85.702207,43.330467],"type":"Point"}
+}

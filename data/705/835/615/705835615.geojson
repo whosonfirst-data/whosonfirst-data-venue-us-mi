@@ -1,0 +1,67 @@
+{
+  "id": 705835615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.41139,46.545759,-87.41139,46.545759",
+    "geom:latitude":46.545759,
+    "geom:longitude":-87.41139,
+    "iso:country":"US",
+    "sg:address":"843 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 5550",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:website":"www.metlife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KZYRARUmMjaFcgQvBn4qS_46.545759_-87.411390@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789858,
+    "wof:geomhash":"09b80d3016e7d459b23bd691b0e7a479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705835615
+        }
+    ],
+    "wof:id":705835615,
+    "wof:lastmodified":1461789858,
+    "wof:name":"Met Life",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.41139,
+    46.545759,
+    -87.41139,
+    46.545759
+],
+  "geometry": {"coordinates":[-87.41139,46.545759],"type":"Point"}
+}

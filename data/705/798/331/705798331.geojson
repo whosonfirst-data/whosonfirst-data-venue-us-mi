@@ -1,0 +1,75 @@
+{
+  "id": 705798331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.885068,43.60098,-83.885068,43.60098",
+    "geom:latitude":43.60098,
+    "geom:longitude":-83.885068,
+    "iso:country":"US",
+    "sg:address":"501 3rd St",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 892 3419",
+    "sg:postcode":"48708",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524233,
+        102191575,
+        404506795,
+        85633793,
+        85951273,
+        102083135,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTS5nCa4KJGaLJtKS8Ib1_43.600980_-83.885068@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788968,
+    "wof:geomhash":"b846db53698606a0e078c9c5db259245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":705798331
+        }
+    ],
+    "wof:id":705798331,
+    "wof:lastmodified":1461788968,
+    "wof:name":"Police Department",
+    "wof:parent_id":420524233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.885068,
+    43.60098,
+    -83.885068,
+    43.60098
+],
+  "geometry": {"coordinates":[-83.885068,43.60098],"type":"Point"}
+}

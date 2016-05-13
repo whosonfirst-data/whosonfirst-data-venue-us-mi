@@ -1,0 +1,71 @@
+{
+  "id": 705985825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850578,42.534597,-85.850578,42.534597",
+    "geom:latitude":42.534597,
+    "geom:longitude":-85.850578,
+    "iso:country":"US",
+    "sg:address":"277 North St",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 5092",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bwMbrvZjn74P3W22aDX4i_42.534597_-85.850578@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793288,
+    "wof:geomhash":"51b048cb7f62543cf84dc435c0561665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":705985825
+        }
+    ],
+    "wof:id":705985825,
+    "wof:lastmodified":1461793288,
+    "wof:name":"Allegan County Activity Prgrm",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -85.850578,
+    42.534597,
+    -85.850578,
+    42.534597
+],
+  "geometry": {"coordinates":[-85.850578,42.534597],"type":"Point"}
+}

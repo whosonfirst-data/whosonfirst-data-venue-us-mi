@@ -1,0 +1,75 @@
+{
+  "id": 689867951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.92763,43.178198,-85.92763,43.178198",
+    "geom:latitude":43.178198,
+    "geom:longitude":-85.92763,
+    "iso:country":"US",
+    "sg:address":"4106 S Ravenna Rd",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 2462",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42MPF1rdCyVcbxI6ijrVyg_43.178198_-85.927630@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783737,
+    "wof:geomhash":"8d8dfc9f8653f4a570de299ce4e8e33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689867951
+        }
+    ],
+    "wof:id":689867951,
+    "wof:lastmodified":1461783737,
+    "wof:name":"Faulkner Trucking",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.92763,
+    43.178198,
+    -85.92763,
+    43.178198
+],
+  "geometry": {"coordinates":[-85.92762999999999,43.178198],"type":"Point"}
+}

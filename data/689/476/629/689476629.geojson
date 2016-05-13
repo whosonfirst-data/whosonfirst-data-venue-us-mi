@@ -1,0 +1,75 @@
+{
+  "id": 689476629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.293278,43.243008,-86.293278,43.243008",
+    "geom:latitude":43.243008,
+    "geom:longitude":-86.293278,
+    "iso:country":"US",
+    "sg:address":"431 Mac Ln",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 7700",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26VrOjxJGgmGFXD5p31aJ4_43.243008_-86.293278@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772428,
+    "wof:geomhash":"152f6ce73c6ef72c05df0fae7fde1633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689476629
+        }
+    ],
+    "wof:id":689476629,
+    "wof:lastmodified":1461772428,
+    "wof:name":"Homecare Group",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -86.293278,
+    43.243008,
+    -86.293278,
+    43.243008
+],
+  "geometry": {"coordinates":[-86.293278,43.243008],"type":"Point"}
+}

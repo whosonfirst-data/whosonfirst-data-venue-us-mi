@@ -1,0 +1,69 @@
+{
+  "id": 706669511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.959396,42.5499,-82.959396,42.5499",
+    "geom:latitude":42.5499,
+    "geom:longitude":-82.959396,
+    "iso:country":"US",
+    "sg:address":"34533 Utica Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 415 4215",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5etvNARFKC8knsAeoX56RS_42.549278_-82.959028@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808842,
+    "wof:geomhash":"02983bae63c7ae60ae534fe8590ee6a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706669511
+        }
+    ],
+    "wof:id":706669511,
+    "wof:lastmodified":1461808842,
+    "wof:name":"Express Cleaners",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -82.959396,
+    42.5499,
+    -82.959396,
+    42.5499
+],
+  "geometry": {"coordinates":[-82.959396,42.5499],"type":"Point"}
+}

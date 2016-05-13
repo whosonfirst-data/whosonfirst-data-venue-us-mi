@@ -1,0 +1,73 @@
+{
+  "id": 705763591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589323,42.209006,-85.589323,42.209006",
+    "geom:latitude":42.209006,
+    "geom:longitude":-85.589323,
+    "iso:country":"US",
+    "sg:address":"7441 S Westnedge Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 321 7510",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tcmiyfRXfF4wnwefiZkwS_42.209006_-85.589323@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788169,
+    "wof:geomhash":"d1eaabdc447736dbca519088151c2595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":705763591
+        }
+    ],
+    "wof:id":705763591,
+    "wof:lastmodified":1461788169,
+    "wof:name":"Boer's Truck Svc",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.589323,
+    42.209006,
+    -85.589323,
+    42.209006
+],
+  "geometry": {"coordinates":[-85.58932299999999,42.209006],"type":"Point"}
+}

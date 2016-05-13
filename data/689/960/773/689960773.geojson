@@ -1,0 +1,75 @@
+{
+  "id": 689960773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693659,43.029551,-83.693659,43.029551",
+    "geom:latitude":43.029551,
+    "geom:longitude":-83.693659,
+    "iso:country":"US",
+    "sg:address":"1515 N Saginaw St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 234 9782",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MCzKtlMzrCIB1ZWr7MGpH_43.029551_-83.693659@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786152,
+    "wof:geomhash":"2987945300e024ce21201f0165e1cee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689960773
+        }
+    ],
+    "wof:id":689960773,
+    "wof:lastmodified":1461786152,
+    "wof:name":"Denim Warehouse",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.693659,
+    43.029551,
+    -83.693659,
+    43.029551
+],
+  "geometry": {"coordinates":[-83.693659,43.029551],"type":"Point"}
+}

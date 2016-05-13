@@ -1,0 +1,75 @@
+{
+  "id": 705718927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.569074,42.912614,-85.569074,42.912614",
+    "geom:latitude":42.912614,
+    "geom:longitude":-85.569074,
+    "iso:country":"US",
+    "sg:address":"3815 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 6080",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49NMHik832KXISz43QxLzD_42.912614_-85.569074@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787140,
+    "wof:geomhash":"f97a818ef8b701bb873d43cf63b8bb12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":705718927
+        }
+    ],
+    "wof:id":705718927,
+    "wof:lastmodified":1461787140,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.569074,
+    42.912614,
+    -85.569074,
+    42.912614
+],
+  "geometry": {"coordinates":[-85.569074,42.912614],"type":"Point"}
+}

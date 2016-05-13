@@ -1,0 +1,71 @@
+{
+  "id": 689776303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.403933,42.24381,-84.403933,42.24381",
+    "geom:latitude":42.24381,
+    "geom:longitude":-84.403933,
+    "iso:country":"US",
+    "sg:address":"400 Francis St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 7124",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LmJr4JmQIeUSrX4gOD25G_42.243810_-84.403933@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781154,
+    "wof:geomhash":"b8e0a876ed3b7c21a9591d4283cf4e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689776303
+        }
+    ],
+    "wof:id":689776303,
+    "wof:lastmodified":1461781154,
+    "wof:name":"Grindall & White Inc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.403933,
+    42.24381,
+    -84.403933,
+    42.24381
+],
+  "geometry": {"coordinates":[-84.40393299999999,42.24381],"type":"Point"}
+}

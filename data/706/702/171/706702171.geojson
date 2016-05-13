@@ -1,0 +1,72 @@
+{
+  "id": 706702171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.852303,42.5723,-82.852303,42.5723",
+    "geom:latitude":42.5723,
+    "geom:longitude":-82.852303,
+    "iso:country":"US",
+    "sg:address":"26150 Crocker Blvd",
+    "sg:city":"Harrison Township",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 3753",
+    "sg:postcode":"48045",
+    "sg:province":"MI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85829347,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uUMo6pzYm9l4QQT67s2j5_42.572300_-82.852303@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810166,
+    "wof:geomhash":"9fa7e06f824c6d9d635de2fd308b1688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85829347,
+            "region_id":85688599,
+            "venue_id":706702171
+        }
+    ],
+    "wof:id":706702171,
+    "wof:lastmodified":1461810166,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85829347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -82.852303,
+    42.5723,
+    -82.852303,
+    42.5723
+],
+  "geometry": {"coordinates":[-82.85230300000001,42.5723],"type":"Point"}
+}

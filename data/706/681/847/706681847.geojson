@@ -1,0 +1,71 @@
+{
+  "id": 706681847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.119351,43.516062,-84.119351,43.516062",
+    "geom:latitude":43.516062,
+    "geom:longitude":-84.119351,
+    "iso:country":"US",
+    "sg:address":"7374 Midland Rd",
+    "sg:city":"Freeland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/tittabawassee/186094-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48623",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814481,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sA4rnuFZ3IqNWsxd2MeYm_43.516062_-84.119351@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809358,
+    "wof:geomhash":"1a931f535cf89824be1cc1403fa6b95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85814481,
+            "region_id":85688599,
+            "venue_id":706681847
+        }
+    ],
+    "wof:id":706681847,
+    "wof:lastmodified":1461809358,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85814481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.119351,
+    43.516062,
+    -84.119351,
+    43.516062
+],
+  "geometry": {"coordinates":[-84.11935099999999,43.516062],"type":"Point"}
+}

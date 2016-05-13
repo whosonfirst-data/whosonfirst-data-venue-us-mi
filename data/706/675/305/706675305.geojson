@@ -1,0 +1,78 @@
+{
+  "id": 706675305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.104813,42.461514,-83.104813,42.461514",
+    "geom:latitude":42.461514,
+    "geom:longitude":-83.104813,
+    "iso:country":"US",
+    "sg:address":"50 W 9 Mile Rd",
+    "sg:city":"Hazel Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/hazel-park/186020-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 399 5693",
+    "sg:postcode":"48030",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896687,
+        102191575,
+        404508191,
+        85633793,
+        85952063,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A0CRVcE6IuLtLTixoejnm_42.461514_-83.104813@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809090,
+    "wof:geomhash":"66363c11aed863198ffa14e55914b4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":85896687,
+            "region_id":85688599,
+            "venue_id":706675305
+        }
+    ],
+    "wof:id":706675305,
+    "wof:lastmodified":1461809090,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.104813,
+    42.461514,
+    -83.104813,
+    42.461514
+],
+  "geometry": {"coordinates":[-83.10481299999999,42.461514],"type":"Point"}
+}

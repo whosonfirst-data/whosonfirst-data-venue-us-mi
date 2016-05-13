@@ -1,0 +1,73 @@
+{
+  "id": 689754307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.184645,43.368055,-86.184645,43.368055",
+    "geom:latitude":43.368055,
+    "geom:longitude":-86.184645,
+    "iso:country":"US",
+    "sg:address":"3439 Lakewood Rd",
+    "sg:city":"Twin Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 828 4300",
+    "sg:postcode":"49457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_022au769rn5TOR2ZZcKu6Y_43.368055_-86.184645@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780562,
+    "wof:geomhash":"e9d60f2ebca12d5d63821831809aa140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689754307
+        }
+    ],
+    "wof:id":689754307,
+    "wof:lastmodified":1461780562,
+    "wof:name":"R & D Electric",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.184645,
+    43.368055,
+    -86.184645,
+    43.368055
+],
+  "geometry": {"coordinates":[-86.184645,43.368055],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 722479107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.072262,42.365011,-83.072262,42.365011",
+    "geom:latitude":42.365011,
+    "geom:longitude":-83.072262,
+    "iso:country":"US",
+    "sg:address":"440 Burroughs St Ste 124",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 510 8861",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "satellite",
+        "antenna",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870585,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QZrGSG6Vqk2kkhtHkYUD4_42.365011_-83.072262@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812250,
+    "wof:geomhash":"7fe698c8b066a8de80bffe33475fc95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870585,
+            "region_id":85688599,
+            "venue_id":722479107
+        }
+    ],
+    "wof:id":722479107,
+    "wof:lastmodified":1461812250,
+    "wof:name":"Direct Reality Tv",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "antenna",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -83.072262,
+    42.365011,
+    -83.072262,
+    42.365011
+],
+  "geometry": {"coordinates":[-83.07226199999999,42.365011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706169071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.33536,43.409335,-86.33536,43.409335",
+    "geom:latitude":43.409335,
+    "geom:longitude":-86.33536,
+    "iso:country":"US",
+    "sg:address":"1003 E Colby St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 861 6218",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16FAhtDbP9l9T9kVwtAWEU_43.409335_-86.335360@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797411,
+    "wof:geomhash":"f99943d6883ba3aa06f84f9f90070d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706169071
+        }
+    ],
+    "wof:id":706169071,
+    "wof:lastmodified":1461797411,
+    "wof:name":"Dales Radiator & A/C Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -86.33536,
+    43.409335,
+    -86.33536,
+    43.409335
+],
+  "geometry": {"coordinates":[-86.33535999999999,43.409335],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 705841783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56001,42.727659,-84.56001,42.727659",
+    "geom:latitude":42.727659,
+    "geom:longitude":-84.56001,
+    "iso:country":"US",
+    "sg:address":"519 S Pine St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 484 7565",
+    "sg:postcode":"48933",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878659,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kCPYQmeNLlI37WQzBcDRM_42.727659_-84.560010@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789993,
+    "wof:geomhash":"d081f47d66f3a11de193d7ee8c2344b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878659,
+            "region_id":85688599,
+            "venue_id":705841783
+        }
+    ],
+    "wof:id":705841783,
+    "wof:lastmodified":1461789993,
+    "wof:name":"Pine Street Apartments",
+    "wof:parent_id":85878659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.56001,
+    42.727659,
+    -84.56001,
+    42.727659
+],
+  "geometry": {"coordinates":[-84.56001000000001,42.727659],"type":"Point"}
+}

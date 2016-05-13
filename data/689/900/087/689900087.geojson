@@ -1,0 +1,71 @@
+{
+  "id": 689900087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729342,44.406362,-85.729342,44.406362",
+    "geom:latitude":44.406362,
+    "geom:longitude":-85.729342,
+    "iso:country":"US",
+    "sg:address":"300 W Mesick Ave",
+    "sg:city":"Mesick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 885 2316",
+    "sg:postcode":"49668",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XhQNjJvzWHGWibhxYbCsL_44.406362_-85.729342@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784574,
+    "wof:geomhash":"419fdb80c16a8c9a98e5f381d726fa4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689900087
+        }
+    ],
+    "wof:id":689900087,
+    "wof:lastmodified":1461784574,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.729342,
+    44.406362,
+    -85.729342,
+    44.406362
+],
+  "geometry": {"coordinates":[-85.729342,44.406362],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 689526327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651245,44.762211,-85.651245,44.762211",
+    "geom:latitude":44.762211,
+    "geom:longitude":-85.651245,
+    "iso:country":"US",
+    "sg:address":"5080 N Royal Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 929 2500",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uXymh8hwC1axoKjTUqBl0_44.762211_-85.651245@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773975,
+    "wof:geomhash":"ff27f885ac412050695cfdd817375099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689526327
+        }
+    ],
+    "wof:id":689526327,
+    "wof:lastmodified":1461773975,
+    "wof:name":"Surgery Center",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.651245,
+    44.762211,
+    -85.651245,
+    44.762211
+],
+  "geometry": {"coordinates":[-85.651245,44.762211],"type":"Point"}
+}

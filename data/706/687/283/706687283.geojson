@@ -1,0 +1,73 @@
+{
+  "id": 706687283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.060713,45.812509,-88.060713,45.812509",
+    "geom:latitude":45.812509,
+    "geom:longitude":-88.060713,
+    "iso:country":"US",
+    "sg:address":"1109 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/iron-mountain/185725-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A6yfsUeslZbedkAXJbM5V_45.812509_-88.060713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809567,
+    "wof:geomhash":"6b74fea11f2700e271c8e3f23de00940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706687283
+        }
+    ],
+    "wof:id":706687283,
+    "wof:lastmodified":1461809567,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.060713,
+    45.812509,
+    -88.060713,
+    45.812509
+],
+  "geometry": {"coordinates":[-88.06071300000001,45.812509],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 705934339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.894002,43.631521,-83.894002,43.631521",
+    "geom:latitude":43.631521,
+    "geom:longitude":-83.894002,
+    "iso:country":"US",
+    "sg:address":"3990 State Street Rd",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 667 5360",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814849,
+        102083135,
+        420524233,
+        102191575,
+        404506795,
+        85951273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Apw7cBSDLAsvY3qrkXeVL_43.631521_-83.894002@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792166,
+    "wof:geomhash":"34964240ffa5ec5c95a249aeb9bf12bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083135,
+            "neighbourhood_id":85814849,
+            "region_id":85688599,
+            "venue_id":705934339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":705934339
+        }
+    ],
+    "wof:id":705934339,
+    "wof:lastmodified":1461792166,
+    "wof:name":"Buffeteria Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -83.894002,
+    43.631521,
+    -83.894002,
+    43.631521
+],
+  "geometry": {"coordinates":[-83.894002,43.631521],"type":"Point"}
+}

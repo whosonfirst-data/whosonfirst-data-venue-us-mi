@@ -1,0 +1,71 @@
+{
+  "id": 705971823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.50668,41.775917,-83.50668,41.775917",
+    "geom:latitude":41.775917,
+    "geom:longitude":-83.50668,
+    "iso:country":"US",
+    "sg:address":"8603 S Dixie Hwy",
+    "sg:city":"Erie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 848 3079",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85842547,
+        102084787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ApEvJRsR7myga4QUSYN41_41.775917_-83.506680@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793003,
+    "wof:geomhash":"b673c47e0e12b51a3f4ac654c987b393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":705971823
+        }
+    ],
+    "wof:id":705971823,
+    "wof:lastmodified":1461793003,
+    "wof:name":"Genes Repair Service Co",
+    "wof:parent_id":85842547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.50668,
+    41.775917,
+    -83.50668,
+    41.775917
+],
+  "geometry": {"coordinates":[-83.50668,41.775917],"type":"Point"}
+}

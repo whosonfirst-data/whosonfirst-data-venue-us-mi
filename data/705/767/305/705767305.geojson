@@ -1,0 +1,72 @@
+{
+  "id": 705767305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.582493,42.653501,-83.582493,42.653501",
+    "geom:latitude":42.653501,
+    "geom:longitude":-83.582493,
+    "iso:country":"US",
+    "sg:address":"2724 E Highland Rd",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 889 1177",
+    "sg:postcode":"48356",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85816417,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t26DMrpauf7M5gjdiWSzY_42.653501_-83.582493@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788243,
+    "wof:geomhash":"b5f009c0aa84b8856c448b3a079d6dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85816417,
+            "region_id":85688599,
+            "venue_id":705767305
+        }
+    ],
+    "wof:id":705767305,
+    "wof:lastmodified":1461788243,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85816417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.582493,
+    42.653501,
+    -83.582493,
+    42.653501
+],
+  "geometry": {"coordinates":[-83.582493,42.653501],"type":"Point"}
+}

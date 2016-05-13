@@ -1,0 +1,73 @@
+{
+  "id": 706169437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.295191,43.214979,-86.295191,43.214979",
+    "geom:latitude":43.214979,
+    "geom:longitude":-86.295191,
+    "iso:country":"US",
+    "sg:address":"2034 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 3306",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k10MdFBE5FibVLh2BsI4c_43.214979_-86.295191@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797421,
+    "wof:geomhash":"146b3bfb55e0e804891ab2616c1d1199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706169437
+        }
+    ],
+    "wof:id":706169437,
+    "wof:lastmodified":1461797421,
+    "wof:name":"Complete Automotive Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.295191,
+    43.214979,
+    -86.295191,
+    43.214979
+],
+  "geometry": {"coordinates":[-86.295191,43.214979],"type":"Point"}
+}

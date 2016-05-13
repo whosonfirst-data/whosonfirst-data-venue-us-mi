@@ -1,0 +1,76 @@
+{
+  "id": 705713241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.206602,43.230652,-86.206602,43.230652",
+    "geom:latitude":43.230652,
+    "geom:longitude":-86.206602,
+    "iso:country":"US",
+    "sg:address":"1480 McLaughlin Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 3788",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sfY5RLnVtxI9zBnG9ZHQx_43.230652_-86.206602@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786984,
+    "wof:geomhash":"f446554f02e0d4ac0797a7865d53b4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705713241
+        }
+    ],
+    "wof:id":705713241,
+    "wof:lastmodified":1461786984,
+    "wof:name":"Christian Manor",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.206602,
+    43.230652,
+    -86.206602,
+    43.230652
+],
+  "geometry": {"coordinates":[-86.206602,43.230652],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 706658115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.918297,42.388599,-82.918297,42.388599",
+    "geom:latitude":42.388599,
+    "geom:longitude":-82.918297,
+    "iso:country":"US",
+    "sg:address":"660 Cadieux Rd",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 885 8500",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist",
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dttWXP0xA0QmlhL3X8Ln8_42.389230_-82.918711@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808342,
+    "wof:geomhash":"55394c3b7443ae1b0260dcbddee9c160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":706658115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":706658115
+        }
+    ],
+    "wof:id":706658115,
+    "wof:lastmodified":1461808342,
+    "wof:name":"Gebeck Orthodontics PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -82.918297,
+    42.388599,
+    -82.918297,
+    42.388599
+],
+  "geometry": {"coordinates":[-82.918297,42.388599],"type":"Point"}
+}

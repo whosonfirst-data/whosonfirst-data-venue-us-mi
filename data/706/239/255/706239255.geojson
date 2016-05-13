@@ -1,0 +1,71 @@
+{
+  "id": 706239255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589029,42.912585,-85.589029,42.912585",
+    "geom:latitude":42.912585,
+    "geom:longitude":-85.589029,
+    "iso:country":"US",
+    "sg:address":"3115 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 957 0380",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:website":"www.footlocker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877913,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EwG52RC6t3RZINVGN8LWm_42.912585_-85.589029@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798919,
+    "wof:geomhash":"fa70c52689fb0e05d050c62fb32b3706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877913,
+            "region_id":85688599,
+            "venue_id":706239255
+        }
+    ],
+    "wof:id":706239255,
+    "wof:lastmodified":1461798919,
+    "wof:name":"Foot Locker",
+    "wof:parent_id":85877913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.589029,
+    42.912585,
+    -85.589029,
+    42.912585
+],
+  "geometry": {"coordinates":[-85.589029,42.912585],"type":"Point"}
+}

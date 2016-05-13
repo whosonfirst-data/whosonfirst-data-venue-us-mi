@@ -1,0 +1,72 @@
+{
+  "id": 706678603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.595958,42.242503,-83.595958,42.242503",
+    "geom:latitude":42.242503,
+    "geom:longitude":-83.595958,
+    "iso:country":"US",
+    "sg:address":"823 E Michigan Ave",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ypsilanti/197274-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 484 1140",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ORzIvP17XaSfsTTWsoUzP_42.242503_-83.595958@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809231,
+    "wof:geomhash":"e4c686dcbcbab081dde5711367fd059a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706678603
+        }
+    ],
+    "wof:id":706678603,
+    "wof:lastmodified":1461809231,
+    "wof:name":"Burger King",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.595958,
+    42.242503,
+    -83.595958,
+    42.242503
+],
+  "geometry": {"coordinates":[-83.595958,42.242503],"type":"Point"}
+}

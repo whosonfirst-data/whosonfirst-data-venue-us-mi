@@ -1,0 +1,71 @@
+{
+  "id": 706275539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.37509,42.545362,-83.37509,42.545362",
+    "geom:latitude":42.545362,
+    "geom:longitude":-83.37509,
+    "iso:country":"US",
+    "sg:address":"4821 Leonard Ct",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 788 3191",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Bmaj7MHRzREhr7V2tiLS_42.545362_-83.375090@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799738,
+    "wof:geomhash":"4fad7e1c75a0ebf9401467fb6b747c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706275539
+        }
+    ],
+    "wof:id":706275539,
+    "wof:lastmodified":1461799738,
+    "wof:name":"ARS Svc Co Inc",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.37509,
+    42.545362,
+    -83.37509,
+    42.545362
+],
+  "geometry": {"coordinates":[-83.37509,42.545362],"type":"Point"}
+}

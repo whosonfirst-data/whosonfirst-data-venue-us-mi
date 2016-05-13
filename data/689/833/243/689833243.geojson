@@ -1,0 +1,69 @@
+{
+  "id": 689833243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.393388,41.987171,-86.393388,41.987171",
+    "geom:latitude":41.987171,
+    "geom:longitude":-86.393388,
+    "iso:country":"US",
+    "sg:address":"7220 US Hwy 31",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 5080",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64LOsb0W8qirZM35f5CS1b_41.987171_-86.393388@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782938,
+    "wof:geomhash":"fcd469b79fb4b5ee8d991e5b8f12e591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689833243
+        }
+    ],
+    "wof:id":689833243,
+    "wof:lastmodified":1461782938,
+    "wof:name":"Road Runner Towing & Recovery",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.393388,
+    41.987171,
+    -86.393388,
+    41.987171
+],
+  "geometry": {"coordinates":[-86.393388,41.987171],"type":"Point"}
+}

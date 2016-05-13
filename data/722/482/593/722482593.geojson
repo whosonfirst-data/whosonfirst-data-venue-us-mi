@@ -1,0 +1,85 @@
+{
+  "id": 722482593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.040559,42.345291,-83.040559,42.345291",
+    "geom:latitude":42.345291,
+    "geom:longitude":-83.040559,
+    "iso:country":"US",
+    "sg:address":"2457 Russell St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 567 7879",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza",
+        "take",
+        "italian"
+    ],
+    "sg:website":"www.supinopizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870545,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zniNSILQVxOdPwgzz64Qa_42.345291_-83.040559@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812391,
+    "wof:geomhash":"e22891cd5ce2d8bcb4cee60043c79e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870545,
+            "region_id":85688599,
+            "venue_id":722482593
+        }
+    ],
+    "wof:id":722482593,
+    "wof:lastmodified":1461812391,
+    "wof:name":"Supino Pizzeria",
+    "wof:parent_id":85870545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [
+    -83.040559,
+    42.345291,
+    -83.040559,
+    42.345291
+],
+  "geometry": {"coordinates":[-83.040559,42.345291],"type":"Point"}
+}

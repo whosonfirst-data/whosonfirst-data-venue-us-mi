@@ -1,0 +1,71 @@
+{
+  "id": 705941123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.999484,43.438898,-83.999484,43.438898",
+    "geom:latitude":43.438898,
+    "geom:longitude":-83.999484,
+    "iso:country":"US",
+    "sg:address":"4138 Louise St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 791 1164",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "day",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sbSMk9FzZJJRBo8LwgFgA_43.438898_-83.999484@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792325,
+    "wof:geomhash":"75ef470ed4ceac93516c9542b415b0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":705941123
+        }
+    ],
+    "wof:id":705941123,
+    "wof:lastmodified":1461792325,
+    "wof:name":"Lizs Day Care",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "provider"
+    ]
+},
+  "bbox": [
+    -83.999484,
+    43.438898,
+    -83.999484,
+    43.438898
+],
+  "geometry": {"coordinates":[-83.999484,43.438898],"type":"Point"}
+}

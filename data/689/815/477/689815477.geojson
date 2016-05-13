@@ -1,0 +1,75 @@
+{
+  "id": 689815477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.442306,42.242906,-83.442306,42.242906",
+    "geom:latitude":42.242906,
+    "geom:longitude":-83.442306,
+    "iso:country":"US",
+    "sg:address":"100 Coca Cola Dr",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 2700",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "opera",
+        "grocery",
+        "general",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820681,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlMH3OZbuHqcPioNEzkVz_42.242906_-83.442306@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782349,
+    "wof:geomhash":"aa8de60eed7b8c7ac717897a7686e3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85820681,
+            "region_id":85688599,
+            "venue_id":689815477
+        }
+    ],
+    "wof:id":689815477,
+    "wof:lastmodified":1461782349,
+    "wof:name":"Coca-Cola",
+    "wof:parent_id":85820681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opera",
+        "grocery",
+        "general",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.442306,
+    42.242906,
+    -83.442306,
+    42.242906
+],
+  "geometry": {"coordinates":[-83.442306,42.242906],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689844759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.225196,43.194569,-86.225196,43.194569",
+    "geom:latitude":43.194569,
+    "geom:longitude":-86.225196,
+    "iso:country":"US",
+    "sg:address":"3220 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 7341",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5piJK1vzVPfYXVY5xnxk3s_43.194569_-86.225196@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783204,
+    "wof:geomhash":"1f3d9b7968320caffba2b8118bdc3b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":689844759
+        }
+    ],
+    "wof:id":689844759,
+    "wof:lastmodified":1461783204,
+    "wof:name":"Tejchma's Auto Svc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.225196,
+    43.194569,
+    -86.225196,
+    43.194569
+],
+  "geometry": {"coordinates":[-86.225196,43.194569],"type":"Point"}
+}

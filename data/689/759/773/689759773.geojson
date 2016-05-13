@@ -1,0 +1,76 @@
+{
+  "id": 689759773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.196593,43.233483,-86.196593,43.233483",
+    "geom:latitude":43.233483,
+    "geom:longitude":-86.196593,
+    "iso:country":"US",
+    "sg:address":"1020 Gordon St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 9284",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xCXyscFnIisBh5DfJlV6v_43.233483_-86.196593@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780729,
+    "wof:geomhash":"c3137da0f4a0ac5953e5bb4ec3f82862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689759773
+        }
+    ],
+    "wof:id":689759773,
+    "wof:lastmodified":1461780729,
+    "wof:name":"Parkside Barber Stylist",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.196593,
+    43.233483,
+    -86.196593,
+    43.233483
+],
+  "geometry": {"coordinates":[-86.19659299999999,43.233483],"type":"Point"}
+}

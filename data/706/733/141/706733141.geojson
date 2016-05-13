@@ -1,0 +1,88 @@
+{
+  "id": 706733141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378842,42.418684,-83.378842,42.418684",
+    "geom:latitude":42.418684,
+    "geom:longitude":-83.378842,
+    "iso:country":"US",
+    "sg:address":"33901 Curtis Rd",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 525 5767",
+    "sg:postcode":"48152",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.learningtreechildcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896701,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PMaaqMdw9JUYhUAszZVrz_42.418684_-83.378842@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811535,
+    "wof:geomhash":"002579dd13267ca15153e8ac0294ee9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896701,
+            "region_id":85688599,
+            "venue_id":706733141
+        }
+    ],
+    "wof:id":706733141,
+    "wof:lastmodified":1461811535,
+    "wof:name":"Learning Tree Child Care Center",
+    "wof:parent_id":85896701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -83.378842,
+    42.418684,
+    -83.378842,
+    42.418684
+],
+  "geometry": {"coordinates":[-83.37884200000001,42.418684],"type":"Point"}
+}

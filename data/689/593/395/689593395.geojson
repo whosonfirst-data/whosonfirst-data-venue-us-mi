@@ -1,0 +1,75 @@
+{
+  "id": 689593395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720913,43.003479,-83.720913,43.003479",
+    "geom:latitude":43.003479,
+    "geom:longitude":-83.720913,
+    "iso:country":"US",
+    "sg:address":"2540 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 238 7776",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pSR8pZ5obYuVYWB2klP3I_43.003479_-83.720913@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776006,
+    "wof:geomhash":"d60ed02ad7f80342552c966645450b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689593395
+        }
+    ],
+    "wof:id":689593395,
+    "wof:lastmodified":1461776006,
+    "wof:name":"Gunther's Sales & Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -83.720913,
+    43.003479,
+    -83.720913,
+    43.003479
+],
+  "geometry": {"coordinates":[-83.720913,43.003479],"type":"Point"}
+}

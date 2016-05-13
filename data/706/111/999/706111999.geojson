@@ -1,0 +1,75 @@
+{
+  "id": 706111999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.008244,43.235098,-86.008244,43.235098",
+    "geom:latitude":43.235098,
+    "geom:longitude":-86.008244,
+    "iso:country":"US",
+    "sg:address":"9366 Apple Ave",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 724 6001",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "solid",
+        "waste",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WJcjzjtSBOc1WFCYXQTaS_43.235098_-86.008244@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796047,
+    "wof:geomhash":"032361238290e3770536baa33f2d766e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706111999
+        }
+    ],
+    "wof:id":706111999,
+    "wof:lastmodified":1461796047,
+    "wof:name":"O Solid Waste",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solid",
+        "waste",
+        "facility"
+    ]
+},
+  "bbox": [
+    -86.008244,
+    43.235098,
+    -86.008244,
+    43.235098
+],
+  "geometry": {"coordinates":[-86.008244,43.235098],"type":"Point"}
+}

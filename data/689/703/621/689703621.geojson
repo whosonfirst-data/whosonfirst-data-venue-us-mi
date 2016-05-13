@@ -1,0 +1,92 @@
+{
+  "id": 689703621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.129143,42.591691,-83.129143,42.591691",
+    "geom:latitude":42.591691,
+    "geom:longitude":-83.129143,
+    "iso:country":"US",
+    "sg:address":"4693 Rochester Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 524 3370",
+    "sg:postcode":"48085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "program",
+        "marking",
+        "administration",
+        "general",
+        "economic",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74EbNpirQNKmUFY1Fei5Br_42.591691_-83.129143@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779215,
+    "wof:geomhash":"89d85f94f14244d8ebdcdab153c98f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":689703621
+        }
+    ],
+    "wof:id":689703621,
+    "wof:lastmodified":1461779215,
+    "wof:name":"Troy Public Works Department",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "marking",
+        "administration",
+        "general",
+        "economic",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -83.129143,
+    42.591691,
+    -83.129143,
+    42.591691
+],
+  "geometry": {"coordinates":[-83.129143,42.591691],"type":"Point"}
+}

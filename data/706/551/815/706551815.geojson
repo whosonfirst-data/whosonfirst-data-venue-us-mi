@@ -1,0 +1,71 @@
+{
+  "id": 706551815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720275,43.026649,-83.720275,43.026649",
+    "geom:latitude":43.026649,
+    "geom:longitude":-83.720275,
+    "iso:country":"US",
+    "sg:address":"1360 Milbourne Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 760 1550",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sqw0tKQrfrHBXh3rdAUCg_43.026649_-83.720275@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805694,
+    "wof:geomhash":"a4c53201ed205070d1918c3955d40ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706551815
+        }
+    ],
+    "wof:id":706551815,
+    "wof:lastmodified":1461805694,
+    "wof:name":"Summerfield Elementary School",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.720275,
+    43.026649,
+    -83.720275,
+    43.026649
+],
+  "geometry": {"coordinates":[-83.720275,43.026649],"type":"Point"}
+}

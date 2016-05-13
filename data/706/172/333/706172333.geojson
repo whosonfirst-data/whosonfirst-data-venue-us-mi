@@ -1,0 +1,73 @@
+{
+  "id": 706172333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.749585,42.751142,-84.749585,42.751142",
+    "geom:latitude":42.751142,
+    "geom:longitude":-84.749585,
+    "iso:country":"US",
+    "sg:address":"520 Jenne St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 8002",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PUbNIy862Qx7ySYfbfAyC_42.751142_-84.749585@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797478,
+    "wof:geomhash":"a20bdefd4f817f94174268d952243283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706172333
+        }
+    ],
+    "wof:id":706172333,
+    "wof:lastmodified":1461797478,
+    "wof:name":"Express Trash Removal",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.749585,
+    42.751142,
+    -84.749585,
+    42.751142
+],
+  "geometry": {"coordinates":[-84.749585,42.751142],"type":"Point"}
+}

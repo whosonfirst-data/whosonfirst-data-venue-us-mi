@@ -1,0 +1,71 @@
+{
+  "id": 706004215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275377,42.61522,-83.275377,42.61522",
+    "geom:latitude":42.61522,
+    "geom:longitude":-83.275377,
+    "iso:country":"US",
+    "sg:address":"900 Woodward Ave",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 858 3190",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iN4zFoW0fNWIss4kCCyvw_42.615220_-83.275377@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793667,
+    "wof:geomhash":"93757c7833f12b4d468e9599c2d9fa06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706004215
+        }
+    ],
+    "wof:id":706004215,
+    "wof:lastmodified":1461793667,
+    "wof:name":"James A Rising MD",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.275377,
+    42.61522,
+    -83.275377,
+    42.61522
+],
+  "geometry": {"coordinates":[-83.27537700000001,42.61522],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705845533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.930508,43.068048,-85.930508,43.068048",
+    "geom:latitude":43.068048,
+    "geom:longitude":-85.930508,
+    "iso:country":"US",
+    "sg:address":"430 Harrison Ave",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 240 2767",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pOoaIOiywDA9ve8c6FuON_43.068048_-85.930508@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790078,
+    "wof:geomhash":"56f3bdabfee51883d0f3578d408bdd1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705845533
+        }
+    ],
+    "wof:id":705845533,
+    "wof:lastmodified":1461790078,
+    "wof:name":"Paint Co",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.930508,
+    43.068048,
+    -85.930508,
+    43.068048
+],
+  "geometry": {"coordinates":[-85.930508,43.068048],"type":"Point"}
+}

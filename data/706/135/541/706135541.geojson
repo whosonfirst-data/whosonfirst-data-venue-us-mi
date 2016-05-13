@@ -1,0 +1,71 @@
+{
+  "id": 706135541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907418,45.786179,-87.907418,45.786179",
+    "geom:latitude":45.786179,
+    "geom:longitude":-87.907418,
+    "iso:country":"US",
+    "sg:address":"500 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9255",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50XeySl52iyug1R6fV7Jvy_45.786179_-87.907418@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796652,
+    "wof:geomhash":"419898afd25177a59f0057570e7782dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706135541
+        }
+    ],
+    "wof:id":706135541,
+    "wof:lastmodified":1461796652,
+    "wof:name":"Atkinson-Hayes MD",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.907418,
+    45.786179,
+    -87.907418,
+    45.786179
+],
+  "geometry": {"coordinates":[-87.90741800000001,45.786179],"type":"Point"}
+}

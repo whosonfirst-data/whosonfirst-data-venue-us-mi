@@ -1,0 +1,71 @@
+{
+  "id": 706351191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244558,43.208723,-86.244558,43.208723",
+    "geom:latitude":43.208723,
+    "geom:longitude":-86.244558,
+    "iso:country":"US",
+    "sg:address":"2301 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 2500",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WlFgrm6l3EPubeyCChxHf_43.208723_-86.244558@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801428,
+    "wof:geomhash":"5e21b05d8402b880d5a23a959b4a62ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706351191
+        }
+    ],
+    "wof:id":706351191,
+    "wof:lastmodified":1461801428,
+    "wof:name":"S Maxine Peterson MD",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.244558,
+    43.208723,
+    -86.244558,
+    43.208723
+],
+  "geometry": {"coordinates":[-86.244558,43.208723],"type":"Point"}
+}

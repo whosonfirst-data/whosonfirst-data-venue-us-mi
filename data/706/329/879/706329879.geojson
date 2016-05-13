@@ -1,0 +1,91 @@
+{
+  "id": 706329879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.082816,42.477397,-83.082816,42.477397",
+    "geom:latitude":42.477397,
+    "geom:longitude":-83.082816,
+    "iso:country":"US",
+    "sg:address":"1960 Kenney Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 754 3248",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524399,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524611,
+        404508191,
+        85952063,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ARWsrBc42S0NM82TqxFjH_42.477397_-83.082816@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800983,
+    "wof:geomhash":"b5edd2881df0a5df7bf775992a7f203b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524399,
+            "region_id":85688599,
+            "venue_id":706329879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508191,
+            "locality_id":85952063,
+            "neighbourhood_id":420524611,
+            "region_id":85688599,
+            "venue_id":706329879
+        }
+    ],
+    "wof:id":706329879,
+    "wof:lastmodified":1461800983,
+    "wof:name":"Uni Fab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -83.082816,
+    42.477397,
+    -83.082816,
+    42.477397
+],
+  "geometry": {"coordinates":[-83.08281599999999,42.477397],"type":"Point"}
+}

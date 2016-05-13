@@ -1,0 +1,73 @@
+{
+  "id": 706326933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455325,44.235246,-85.455325,44.235246",
+    "geom:latitude":44.235246,
+    "geom:longitude":-85.455325,
+    "iso:country":"US",
+    "sg:address":"2811 Sunnyside Dr",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 876 0288",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qYvDtPPH71giGxX9ES3b_44.235246_-85.455325@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800911,
+    "wof:geomhash":"89c75e899655fb613f655defc1ca98f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706326933
+        }
+    ],
+    "wof:id":706326933,
+    "wof:lastmodified":1461800911,
+    "wof:name":"Rick's Car Wash",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.455325,
+    44.235246,
+    -85.455325,
+    44.235246
+],
+  "geometry": {"coordinates":[-85.455325,44.235246],"type":"Point"}
+}

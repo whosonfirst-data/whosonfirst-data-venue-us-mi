@@ -1,0 +1,79 @@
+{
+  "id": 706121065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535284,42.167375,-84.535284,42.167375",
+    "geom:latitude":42.167375,
+    "geom:longitude":-84.535284,
+    "iso:country":"US",
+    "sg:address":"7203 Sears Rd",
+    "sg:city":"Horton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 563 2005",
+    "sg:postcode":"49246",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consultant",
+        "training",
+        "laboratory"
+    ],
+    "sg:website":"www.abctrainingandtesting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oup1VkoaEIfTH29xJ4oJe_42.167375_-84.535284@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796285,
+    "wof:geomhash":"ca1975e3104291a8c8dd70dffec3ec58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706121065
+        }
+    ],
+    "wof:id":706121065,
+    "wof:lastmodified":1461796285,
+    "wof:name":"ABC Training & Testing",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "training",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.535284,
+    42.167375,
+    -84.535284,
+    42.167375
+],
+  "geometry": {"coordinates":[-84.535284,42.167375],"type":"Point"}
+}

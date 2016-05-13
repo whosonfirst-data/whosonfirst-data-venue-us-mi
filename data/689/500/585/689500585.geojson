@@ -1,0 +1,73 @@
+{
+  "id": 689500585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.944452,43.467191,-85.944452,43.467191",
+    "geom:latitude":43.467191,
+    "geom:longitude":-85.944452,
+    "iso:country":"US",
+    "sg:address":"37 E Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3167",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCAKBQODjo9DMln35c3Au_43.467191_-85.944452@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773109,
+    "wof:geomhash":"091be796ea988c931cd10c92a91bd2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689500585
+        }
+    ],
+    "wof:id":689500585,
+    "wof:lastmodified":1461773109,
+    "wof:name":"Odds & Ends Consignment",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -85.944452,
+    43.467191,
+    -85.944452,
+    43.467191
+],
+  "geometry": {"coordinates":[-85.944452,43.467191],"type":"Point"}
+}

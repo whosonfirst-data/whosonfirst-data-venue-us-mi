@@ -1,0 +1,67 @@
+{
+  "id": 689660299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263363,43.190846,-86.263363,43.190846",
+    "geom:latitude":43.190846,
+    "geom:longitude":-86.263363,
+    "iso:country":"US",
+    "sg:address":"700 W Norton Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 5701",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:website":"www.meijer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZcABTWHYCfo9CBMhklH8_43.190846_-86.263363@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778133,
+    "wof:geomhash":"971788f215e661c7a95ccd70f69b3cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689660299
+        }
+    ],
+    "wof:id":689660299,
+    "wof:lastmodified":1461778133,
+    "wof:name":"Meijer Pharmacy",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.263363,
+    43.190846,
+    -86.263363,
+    43.190846
+],
+  "geometry": {"coordinates":[-86.263363,43.190846],"type":"Point"}
+}

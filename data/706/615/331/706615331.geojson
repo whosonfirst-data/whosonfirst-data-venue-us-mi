@@ -1,0 +1,75 @@
+{
+  "id": 706615331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.472033,42.524154,-84.472033,42.524154",
+    "geom:latitude":42.524154,
+    "geom:longitude":-84.472033,
+    "iso:country":"US",
+    "sg:address":"3268 W Barnes Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 1927",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NTZaj03syVeyprjTPrDNn_42.524154_-84.472033@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807055,
+    "wof:geomhash":"ed408e97b94a497253c3f9bbc00a53eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706615331
+        }
+    ],
+    "wof:id":706615331,
+    "wof:lastmodified":1461807055,
+    "wof:name":"R&D Farms LLC",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.472033,
+    42.524154,
+    -84.472033,
+    42.524154
+],
+  "geometry": {"coordinates":[-84.472033,42.524154],"type":"Point"}
+}

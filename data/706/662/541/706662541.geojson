@@ -1,0 +1,71 @@
+{
+  "id": 706662541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.718803,43.046398,-83.718803,43.046398",
+    "geom:latitude":43.046398,
+    "geom:longitude":-83.718803,
+    "iso:country":"US",
+    "sg:address":"1114 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 219 3219",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E4ZN44FwNLl2VukvzanQ2_43.046366_-83.719312@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808546,
+    "wof:geomhash":"4bcd33cd09626fedbc0eaa9f8ccd22bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706662541
+        }
+    ],
+    "wof:id":706662541,
+    "wof:lastmodified":1461808546,
+    "wof:name":"Family Auto Care Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.718803,
+    43.046398,
+    -83.718803,
+    43.046398
+],
+  "geometry": {"coordinates":[-83.71880299999999,43.046398],"type":"Point"}
+}

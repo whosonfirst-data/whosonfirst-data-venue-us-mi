@@ -1,0 +1,79 @@
+{
+  "id": 706242851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.534417,43.012219,-83.534417,43.012219",
+    "geom:latitude":43.012219,
+    "geom:longitude":-83.534417,
+    "iso:country":"US",
+    "sg:address":"9090 Lapeer Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 658 1855",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y1YKOP7NUMNLgegpjfZrM_43.012219_-83.534417@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799015,
+    "wof:geomhash":"d78afbc97ca43947af51e8cd1ef6591a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706242851
+        }
+    ],
+    "wof:id":706242851,
+    "wof:lastmodified":1461799015,
+    "wof:name":"Ryder",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.534417,
+    43.012219,
+    -83.534417,
+    43.012219
+],
+  "geometry": {"coordinates":[-83.534417,43.012219],"type":"Point"}
+}

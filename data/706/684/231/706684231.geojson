@@ -1,0 +1,72 @@
+{
+  "id": 706684231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589767,42.200999,-85.589767,42.200999",
+    "geom:latitude":42.200999,
+    "geom:longitude":-85.589767,
+    "iso:country":"US",
+    "sg:address":"129 W Centre Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/portage/47224-el-jimador/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 8507",
+    "sg:postcode":"49024",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75mvC3E4Gdu2b8Yr9hBio2_42.200999_-85.589767@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809457,
+    "wof:geomhash":"c4dcec901c6088036074d8d978c083be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706684231
+        }
+    ],
+    "wof:id":706684231,
+    "wof:lastmodified":1461809457,
+    "wof:name":"El Jimador",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.589767,
+    42.200999,
+    -85.589767,
+    42.200999
+],
+  "geometry": {"coordinates":[-85.58976699999999,42.200999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706686639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.591326,43.002461,-85.591326,43.002461",
+    "geom:latitude":43.002461,
+    "geom:longitude":-85.591326,
+    "iso:country":"US",
+    "sg:address":"2121 Celebration Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/184878-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 447 9901",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yuZ9TPCorJnEhAiwnseGG_43.002461_-85.591326@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809543,
+    "wof:geomhash":"7aac40d16d7791f1a1d9f32570a043ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706686639
+        }
+    ],
+    "wof:id":706686639,
+    "wof:lastmodified":1461809543,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.591326,
+    43.002461,
+    -85.591326,
+    43.002461
+],
+  "geometry": {"coordinates":[-85.591326,43.002461],"type":"Point"}
+}

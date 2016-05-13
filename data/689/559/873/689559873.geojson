@@ -1,0 +1,69 @@
+{
+  "id": 689559873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.313681,42.375333,-83.313681,42.375333",
+    "geom:latitude":42.375333,
+    "geom:longitude":-83.313681,
+    "iso:country":"US",
+    "sg:address":"12350 Inkster Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 937 2410",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896775,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eumS35gbXFYOZBdIcRPBf_42.375333_-83.313681@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775011,
+    "wof:geomhash":"92f1aafd56668f60d0d02ab4e115c558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896775,
+            "region_id":85688599,
+            "venue_id":689559873
+        }
+    ],
+    "wof:id":689559873,
+    "wof:lastmodified":1461775011,
+    "wof:name":"Westside Mobile Fleet Repair",
+    "wof:parent_id":85896775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.313681,
+    42.375333,
+    -83.313681,
+    42.375333
+],
+  "geometry": {"coordinates":[-83.313681,42.375333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 722528321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.565201,42.756199,-85.565201,42.756199",
+    "geom:latitude":42.756199,
+    "geom:longitude":-85.565201,
+    "iso:country":"US",
+    "sg:address":"4614 2nd St",
+    "sg:city":"Caledonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 891 0404",
+    "sg:postcode":"49316",
+    "sg:province":"MI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.hiddenlakekennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W8XKJmoAhdaJnUESFNl2G_42.756199_-85.565201@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814343,
+    "wof:geomhash":"6580e55aaef3f9f0355cead361f71695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":722528321
+        }
+    ],
+    "wof:id":722528321,
+    "wof:lastmodified":1461814343,
+    "wof:name":"Hidden Lake Kennels",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.565201,
+    42.756199,
+    -85.565201,
+    42.756199
+],
+  "geometry": {"coordinates":[-85.565201,42.756199],"type":"Point"}
+}

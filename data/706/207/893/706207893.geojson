@@ -1,0 +1,83 @@
+{
+  "id": 706207893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.898461,43.636931,-83.898461,43.636931",
+    "geom:latitude":43.636931,
+    "geom:longitude":-83.898461,
+    "iso:country":"US",
+    "sg:address":"180 State Park Dr",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 684 2140",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814849,
+        102083135,
+        420524233,
+        102191575,
+        404506795,
+        85951273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Y37iVJyzjHAFCvv6cETQ_43.636931_-83.898461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798242,
+    "wof:geomhash":"9920862a8ea345a080b5c9c2cbe4e2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083135,
+            "neighbourhood_id":85814849,
+            "region_id":85688599,
+            "venue_id":706207893
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":706207893
+        }
+    ],
+    "wof:id":706207893,
+    "wof:lastmodified":1461798242,
+    "wof:name":"Fire Inspctn & Public Educatn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.898461,
+    43.636931,
+    -83.898461,
+    43.636931
+],
+  "geometry": {"coordinates":[-83.898461,43.636931],"type":"Point"}
+}

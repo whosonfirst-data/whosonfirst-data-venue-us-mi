@@ -1,0 +1,71 @@
+{
+  "id": 706439271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694803,43.151498,-83.694803,43.151498",
+    "geom:latitude":43.151498,
+    "geom:longitude":-83.694803,
+    "iso:country":"US",
+    "sg:address":"10221 N Saginaw Rd",
+    "sg:city":"Clio",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 687 1210",
+    "sg:postcode":"48420",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85841859,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hnjAvq8QD0mlIDmCYdDUW_43.151498_-83.694803@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803192,
+    "wof:geomhash":"5dd5ad841b606b272eda89581c2b2509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85841859,
+            "region_id":85688599,
+            "venue_id":706439271
+        }
+    ],
+    "wof:id":706439271,
+    "wof:lastmodified":1461803192,
+    "wof:name":"Phils Transmission Service",
+    "wof:parent_id":85841859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.694803,
+    43.151498,
+    -83.694803,
+    43.151498
+],
+  "geometry": {"coordinates":[-83.69480299999999,43.151498],"type":"Point"}
+}

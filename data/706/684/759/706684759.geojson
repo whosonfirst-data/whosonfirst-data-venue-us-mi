@@ -1,0 +1,76 @@
+{
+  "id": 706684759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.730534,41.771789,-86.730534,41.771789",
+    "geom:latitude":41.771789,
+    "geom:longitude":-86.730534,
+    "iso:country":"US",
+    "sg:address":"11449 Obrien Ct",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/new-buffalo/182109-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 469 3367",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qY57S9AxOLsPMKLi0qSM5_41.771789_-86.730534@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809476,
+    "wof:geomhash":"391dc5343828ac0d587bb966ad477bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706684759
+        }
+    ],
+    "wof:id":706684759,
+    "wof:lastmodified":1461809476,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.730534,
+    41.771789,
+    -86.730534,
+    41.771789
+],
+  "geometry": {"coordinates":[-86.73053400000001,41.771789],"type":"Point"}
+}

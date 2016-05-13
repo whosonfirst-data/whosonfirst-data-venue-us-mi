@@ -1,0 +1,71 @@
+{
+  "id": 689911585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.623227,42.895013,-85.623227,42.895013",
+    "geom:latitude":42.895013,
+    "geom:longitude":-85.623227,
+    "iso:country":"US",
+    "sg:address":"1830 Southampton St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 475 9960",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m8Ki8ev9v5aCjDTOi9EEy_42.895013_-85.623227@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784903,
+    "wof:geomhash":"75d3b6ee403f4f58553fef1ddd198998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689911585
+        }
+    ],
+    "wof:id":689911585,
+    "wof:lastmodified":1461784903,
+    "wof:name":"B & W Janitorial Svc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.623227,
+    42.895013,
+    -85.623227,
+    42.895013
+],
+  "geometry": {"coordinates":[-85.623227,42.895013],"type":"Point"}
+}

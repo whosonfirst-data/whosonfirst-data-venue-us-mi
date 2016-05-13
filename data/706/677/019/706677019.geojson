@@ -1,0 +1,82 @@
+{
+  "id": 706677019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740773,42.278996,-83.740773,42.278996",
+    "geom:latitude":42.278996,
+    "geom:longitude":-83.740773,
+    "iso:country":"US",
+    "sg:address":"310 S State St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/18178-great-wraps/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 994 7850",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866995,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nHfdRGSHsxWGi5jWg0Mtm_42.278996_-83.740773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809162,
+    "wof:geomhash":"3a9d1b92b5b026f144e7da34964cc6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85866995,
+            "region_id":85688599,
+            "venue_id":706677019
+        }
+    ],
+    "wof:id":706677019,
+    "wof:lastmodified":1461809162,
+    "wof:name":"Great Wraps",
+    "wof:parent_id":85866995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.740773,
+    42.278996,
+    -83.740773,
+    42.278996
+],
+  "geometry": {"coordinates":[-83.740773,42.278996],"type":"Point"}
+}

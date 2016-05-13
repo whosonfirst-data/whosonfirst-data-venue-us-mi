@@ -1,0 +1,72 @@
+{
+  "id": 706685755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263104,43.205308,-86.263104,43.205308",
+    "geom:latitude":43.205308,
+    "geom:longitude":-86.263104,
+    "iso:country":"US",
+    "sg:address":"2599 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/45174-qdoba/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 5900",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdA7SxViGehJPPBN1a8Fh_43.205308_-86.263104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809511,
+    "wof:geomhash":"533bb94fff298cb08745f7e0c699e307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685755
+        }
+    ],
+    "wof:id":706685755,
+    "wof:lastmodified":1461809511,
+    "wof:name":"Qdoba",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.263104,
+    43.205308,
+    -86.263104,
+    43.205308
+],
+  "geometry": {"coordinates":[-86.263104,43.205308],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 706682605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.409855,42.747283,-84.409855,42.747283",
+    "geom:latitude":42.747283,
+    "geom:longitude":-84.409855,
+    "iso:country":"US",
+    "sg:address":"1639 Haslett Rd",
+    "sg:city":"Haslett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/meridian/86820-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 339 1129",
+    "sg:postcode":"48840",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JyaIHpnsKUvXXmEijJW9e_42.747283_-84.409855@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809388,
+    "wof:geomhash":"733fb7b5503ed178135cb9681bc3ca79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":706682605
+        }
+    ],
+    "wof:id":706682605,
+    "wof:lastmodified":1461809388,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.409855,
+    42.747283,
+    -84.409855,
+    42.747283
+],
+  "geometry": {"coordinates":[-84.40985499999999,42.747283],"type":"Point"}
+}

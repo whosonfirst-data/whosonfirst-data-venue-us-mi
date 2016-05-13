@@ -1,0 +1,85 @@
+{
+  "id": 722506885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.133829,42.682705,-83.133829,42.682705",
+    "geom:latitude":42.682705,
+    "geom:longitude":-83.133829,
+    "iso:country":"US",
+    "sg:address":"543 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 218 7000",
+    "sg:postcode":"48307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896795,
+        102191575,
+        404508297,
+        85633793,
+        85952001,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y3EDh8b1qgqedF3vAxdHJ_42.682705_-83.133829@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813337,
+    "wof:geomhash":"d6e377312cf85bb6448157ba2456fab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508297,
+            "locality_id":85952001,
+            "neighbourhood_id":85896795,
+            "region_id":85688599,
+            "venue_id":722506885
+        }
+    ],
+    "wof:id":722506885,
+    "wof:lastmodified":1461813337,
+    "wof:name":"Fortesa Restaurant & Bar",
+    "wof:parent_id":85896795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -83.133829,
+    42.682705,
+    -83.133829,
+    42.682705
+],
+  "geometry": {"coordinates":[-83.13382900000001,42.682705],"type":"Point"}
+}

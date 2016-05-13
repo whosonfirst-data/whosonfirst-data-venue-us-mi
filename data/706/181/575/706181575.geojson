@@ -1,0 +1,71 @@
+{
+  "id": 706181575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.198297,43.184735,-86.198297,43.184735",
+    "geom:latitude":43.184735,
+    "geom:longitude":-86.198297,
+    "iso:country":"US",
+    "sg:address":"1840 Eloise Dr",
+    "sg:city":"Muskegon Heights",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 1992",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fZQ4zy2zjPX1EIKasqEdF_43.184735_-86.198297@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797669,
+    "wof:geomhash":"0cd378feef97ec49285eee1352a27219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706181575
+        }
+    ],
+    "wof:id":706181575,
+    "wof:lastmodified":1461797669,
+    "wof:name":"Dent-Craft Lab Inc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -86.198297,
+    43.184735,
+    -86.198297,
+    43.184735
+],
+  "geometry": {"coordinates":[-86.198297,43.184735],"type":"Point"}
+}

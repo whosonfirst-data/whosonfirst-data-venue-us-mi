@@ -1,0 +1,72 @@
+{
+  "id": 722473287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.458001,42.309211,-83.458001,42.309211",
+    "geom:latitude":42.309211,
+    "geom:longitude":-83.458001,
+    "iso:country":"US",
+    "sg:address":"255 N Lilley Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 981 3300",
+    "sg:postcode":"48187",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "sg:website":"www.piim.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Jgj5ffE4G8XnKshA8rls_42.309211_-83.458001@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812003,
+    "wof:geomhash":"9318d2125afc005311010b6907a0e5ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722473287
+        }
+    ],
+    "wof:id":722473287,
+    "wof:lastmodified":1461812003,
+    "wof:name":"Partners In Internal Medicine",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -83.458001,
+    42.309211,
+    -83.458001,
+    42.309211
+],
+  "geometry": {"coordinates":[-83.458001,42.309211],"type":"Point"}
+}

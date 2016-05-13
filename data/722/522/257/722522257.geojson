@@ -1,0 +1,85 @@
+{
+  "id": 722522257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.711304,43.0065,-83.711304,43.0065",
+    "geom:latitude":43.0065,
+    "geom:longitude":-83.711304,
+    "iso:country":"US",
+    "sg:address":"1919 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 4511",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AtIADw3SfgWSk9A312xRC_43.006500_-83.711304@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814029,
+    "wof:geomhash":"982851bc5080dd6a72a249ee3e34f783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":722522257
+        }
+    ],
+    "wof:id":722522257,
+    "wof:lastmodified":1461814029,
+    "wof:name":"Jim McFall's Collision & Frame Service",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [
+    -83.711304,
+    43.0065,
+    -83.711304,
+    43.0065
+],
+  "geometry": {"coordinates":[-83.711304,43.0065],"type":"Point"}
+}

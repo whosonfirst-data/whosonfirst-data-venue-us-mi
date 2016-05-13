@@ -1,0 +1,75 @@
+{
+  "id": 689932321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250578,43.219675,-86.250578,43.219675",
+    "geom:latitude":43.219675,
+    "geom:longitude":-86.250578,
+    "iso:country":"US",
+    "sg:address":"237 W Laketon Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 725 8232",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5073a8ixygKOwg1MCygKrx_43.219675_-86.250578@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785433,
+    "wof:geomhash":"94173c25de79ee00262fb399f50d0062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689932321
+        }
+    ],
+    "wof:id":689932321,
+    "wof:lastmodified":1461785433,
+    "wof:name":"Bud & Ray's Transmission Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.250578,
+    43.219675,
+    -86.250578,
+    43.219675
+],
+  "geometry": {"coordinates":[-86.250578,43.219675],"type":"Point"}
+}

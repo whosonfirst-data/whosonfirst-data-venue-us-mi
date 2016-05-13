@@ -1,0 +1,72 @@
+{
+  "id": 689819705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.354687,42.95655,-85.354687,42.95655",
+    "geom:latitude":42.95655,
+    "geom:longitude":-85.354687,
+    "iso:country":"US",
+    "sg:address":"633 Lincoln Lake Ave SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 2615",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.equinemedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qFIdQGrgHsrGXCXHQreVr_42.956550_-85.354687@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782484,
+    "wof:geomhash":"c48d0a167e9815e9658090cf21146e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":689819705
+        }
+    ],
+    "wof:id":689819705,
+    "wof:lastmodified":1461782484,
+    "wof:name":"Equine Medical",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.354687,
+    42.95655,
+    -85.354687,
+    42.95655
+],
+  "geometry": {"coordinates":[-85.354687,42.95655],"type":"Point"}
+}

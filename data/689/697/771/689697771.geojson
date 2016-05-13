@@ -1,0 +1,71 @@
+{
+  "id": 689697771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.813954,43.336476,-85.813954,43.336476",
+    "geom:latitude":43.336476,
+    "geom:longitude":-85.813954,
+    "iso:country":"US",
+    "sg:address":"86 W State Rd",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 0389",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_699cNv9sSTlw0bxLEZD3mO_43.336476_-85.813954@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779048,
+    "wof:geomhash":"905e388c4b951970b57d6e24f3d0ba60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689697771
+        }
+    ],
+    "wof:id":689697771,
+    "wof:lastmodified":1461779048,
+    "wof:name":"Main Street Produce",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.813954,
+    43.336476,
+    -85.813954,
+    43.336476
+],
+  "geometry": {"coordinates":[-85.813954,43.336476],"type":"Point"}
+}

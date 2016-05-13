@@ -1,0 +1,92 @@
+{
+  "id": 689820185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.944697,42.372803,-82.944697,42.372803",
+    "geom:latitude":42.372803,
+    "geom:longitude":-82.944697,
+    "iso:country":"US",
+    "sg:address":"14313 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 822 1131",
+    "sg:postcode":"48215",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870571,
+        102191575,
+        404508593,
+        85633793,
+        85951123,
+        102083147,
+        85688599,
+        85891667,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mVY1fmX7drt8HNISqSlp0_42.372803_-82.944697@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782505,
+    "wof:geomhash":"685e753495df3e01a5764954bd87046a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":689820185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85891667,
+            "region_id":85688599,
+            "venue_id":689820185
+        }
+    ],
+    "wof:id":689820185,
+    "wof:lastmodified":1461782505,
+    "wof:name":"Crown Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -82.944697,
+    42.372803,
+    -82.944697,
+    42.372803
+],
+  "geometry": {"coordinates":[-82.94469700000001,42.372803],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 706735003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3937,42.389301,-83.3937,42.389301",
+    "geom:latitude":42.389301,
+    "geom:longitude":-83.3937,
+    "iso:country":"US",
+    "sg:address":"14485 Ronnie Ln",
+    "sg:city":"Livonia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 476 3222",
+    "sg:postcode":"48154",
+    "sg:province":"MI",
+    "sg:tags":[
+        "school",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420559297,
+        102191575,
+        404508639,
+        85633793,
+        85951073,
+        102083147,
+        85688599,
+        85896709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05E6lJOD6f0Dny7ycAn0gQ_42.389301_-83.393700@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811609,
+    "wof:geomhash":"2dda53ef830a828058b3971eb2514fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":420559297,
+            "region_id":85688599,
+            "venue_id":706735003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508639,
+            "locality_id":85951073,
+            "neighbourhood_id":85896709,
+            "region_id":85688599,
+            "venue_id":706735003
+        }
+    ],
+    "wof:id":706735003,
+    "wof:lastmodified":1461811609,
+    "wof:name":"A & A Driving School Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "driving"
+    ]
+},
+  "bbox": [
+    -83.3937,
+    42.389301,
+    -83.3937,
+    42.389301
+],
+  "geometry": {"coordinates":[-83.3937,42.389301],"type":"Point"}
+}

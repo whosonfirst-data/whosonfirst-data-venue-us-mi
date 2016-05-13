@@ -1,0 +1,73 @@
+{
+  "id": 689824243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.051999,43.373066,-84.051999,43.373066",
+    "geom:latitude":43.373066,
+    "geom:longitude":-84.051999,
+    "iso:country":"US",
+    "sg:address":"3025 S River Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 0200",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23T7Ut1yFLRxuGBpd35r4b_43.373066_-84.051999@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782630,
+    "wof:geomhash":"409b1b68908b1d55a89fcb73b223095b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689824243
+        }
+    ],
+    "wof:id":689824243,
+    "wof:lastmodified":1461782630,
+    "wof:name":"Roger's Body Shop",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.051999,
+    43.373066,
+    -84.051999,
+    43.373066
+],
+  "geometry": {"coordinates":[-84.051999,43.373066],"type":"Point"}
+}

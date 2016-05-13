@@ -1,0 +1,74 @@
+{
+  "id": 706687369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.397577,46.543913,-87.397577,46.543913",
+    "geom:latitude":46.543913,
+    "geom:longitude":-87.397577,
+    "iso:country":"US",
+    "sg:address":"301 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marquette/86862-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 1331",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pySkOIus446vDxJBb89De_46.543913_-87.397577@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809570,
+    "wof:geomhash":"1796ef4852f460fd5184576fc4d77865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706687369
+        }
+    ],
+    "wof:id":706687369,
+    "wof:lastmodified":1461809570,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.397577,
+    46.543913,
+    -87.397577,
+    46.543913
+],
+  "geometry": {"coordinates":[-87.397577,46.543913],"type":"Point"}
+}

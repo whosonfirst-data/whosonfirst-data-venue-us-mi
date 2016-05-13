@@ -1,0 +1,75 @@
+{
+  "id": 706509791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.128185,42.572012,-83.128185,42.572012",
+    "geom:latitude":42.572012,
+    "geom:longitude":-83.128185,
+    "iso:country":"US",
+    "sg:address":"3705 Rochester Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 689 4520",
+    "sg:postcode":"48083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806041,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j3dRI83Yt315UQ20DTiD1_42.572012_-83.128185@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804847,
+    "wof:geomhash":"d438169ce3cfd6f9f048e466a7a3cea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85806041,
+            "region_id":85688599,
+            "venue_id":706509791
+        }
+    ],
+    "wof:id":706509791,
+    "wof:lastmodified":1461804847,
+    "wof:name":"Troy Veterinary Hospital",
+    "wof:parent_id":85806041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.128185,
+    42.572012,
+    -83.128185,
+    42.572012
+],
+  "geometry": {"coordinates":[-83.128185,42.572012],"type":"Point"}
+}

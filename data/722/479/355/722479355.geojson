@@ -1,0 +1,84 @@
+{
+  "id": 722479355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.080002,42.373798,-83.080002,42.373798",
+    "geom:latitude":42.373798,
+    "geom:longitude":-83.080002,
+    "iso:country":"US",
+    "sg:address":"2790 W Grand Blvd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 8335",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870609,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64IQAG1dmOLmGqU1hK7MPE_42.373798_-83.080002@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812259,
+    "wof:geomhash":"8913f55ad8935f810c1f50e878e70404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":722479355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479355
+        }
+    ],
+    "wof:id":722479355,
+    "wof:lastmodified":1461812259,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.080002,
+    42.373798,
+    -83.080002,
+    42.373798
+],
+  "geometry": {"coordinates":[-83.08000199999999,42.373798],"type":"Point"}
+}

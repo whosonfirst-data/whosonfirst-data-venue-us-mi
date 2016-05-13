@@ -1,0 +1,73 @@
+{
+  "id": 706135425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20385,43.055723,-86.20385,43.055723",
+    "geom:latitude":43.055723,
+    "geom:longitude":-86.20385,
+    "iso:country":"US",
+    "sg:address":"1530 Waverly Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 1353",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tuQCu9zsbFlcVZU6zjHHw_43.055723_-86.203850@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796650,
+    "wof:geomhash":"58b21c385d80b86f959acc19e8f47dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706135425
+        }
+    ],
+    "wof:id":706135425,
+    "wof:lastmodified":1461796650,
+    "wof:name":"Scotts Parking Lot Painting",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.20385,
+    43.055723,
+    -86.20385,
+    43.055723
+],
+  "geometry": {"coordinates":[-86.20385,43.055723],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706730701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.169296,42.223202,-83.169296,42.223202",
+    "geom:latitude":42.223202,
+    "geom:longitude":-83.169296,
+    "iso:country":"US",
+    "sg:address":"725 Harrison Blvd",
+    "sg:city":"Lincoln Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 382 6010",
+    "sg:postcode":"48146",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524961,
+        102191575,
+        404508637,
+        85633793,
+        85951069,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KsTmPk1ApJbRzSshSChjd_42.223202_-83.169296@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811447,
+    "wof:geomhash":"fe419cf0ef3f7303bc587bb967171280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508637,
+            "locality_id":85951069,
+            "neighbourhood_id":420524961,
+            "region_id":85688599,
+            "venue_id":706730701
+        }
+    ],
+    "wof:id":706730701,
+    "wof:lastmodified":1461811447,
+    "wof:name":"Pizza King",
+    "wof:parent_id":420524961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.169296,
+    42.223202,
+    -83.169296,
+    42.223202
+],
+  "geometry": {"coordinates":[-83.169296,42.223202],"type":"Point"}
+}

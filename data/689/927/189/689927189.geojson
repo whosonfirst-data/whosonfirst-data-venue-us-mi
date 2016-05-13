@@ -1,0 +1,75 @@
+{
+  "id": 689927189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.231299,43.279257,-86.231299,43.279257",
+    "geom:latitude":43.279257,
+    "geom:longitude":-86.231299,
+    "iso:country":"US",
+    "sg:address":"1420 Holton Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 5717",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YvVHf8HjR3qY14sA3NVh3_43.279257_-86.231299@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785291,
+    "wof:geomhash":"1107657ff2916664389ddb934c1e529b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689927189
+        }
+    ],
+    "wof:id":689927189,
+    "wof:lastmodified":1461785291,
+    "wof:name":"Grooming Station",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.231299,
+    43.279257,
+    -86.231299,
+    43.279257
+],
+  "geometry": {"coordinates":[-86.23129900000001,43.279257],"type":"Point"}
+}

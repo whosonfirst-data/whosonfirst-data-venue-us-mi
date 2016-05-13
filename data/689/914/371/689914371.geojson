@@ -1,0 +1,73 @@
+{
+  "id": 689914371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.752817,43.060652,-83.752817,43.060652",
+    "geom:latitude":43.060652,
+    "geom:longitude":-83.752817,
+    "iso:country":"US",
+    "sg:address":"3511 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 787 6594",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1az5A3ePtRbU2s4hGmcW4Q_43.060652_-83.752817@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784971,
+    "wof:geomhash":"437cc2af6d2b3dd185a23d1ac7770472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689914371
+        }
+    ],
+    "wof:id":689914371,
+    "wof:lastmodified":1461784971,
+    "wof:name":"Muffler Man",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.752817,
+    43.060652,
+    -83.752817,
+    43.060652
+],
+  "geometry": {"coordinates":[-83.75281699999999,43.060652],"type":"Point"}
+}

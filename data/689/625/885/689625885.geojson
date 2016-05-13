@@ -1,0 +1,71 @@
+{
+  "id": 689625885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.237072,43.03844,-86.237072,43.03844",
+    "geom:latitude":43.03844,
+    "geom:longitude":-86.237072,
+    "iso:country":"US",
+    "sg:address":"17950 Holcomb Hills Rd",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 846 6538",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811155,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0TLA3DVvwX3uoyG78ENN_43.038440_-86.237072@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777055,
+    "wof:geomhash":"72aad37f65d2cb6986ae39f7ccbe0bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85811155,
+            "region_id":85688599,
+            "venue_id":689625885
+        }
+    ],
+    "wof:id":689625885,
+    "wof:lastmodified":1461777055,
+    "wof:name":"EPI",
+    "wof:parent_id":85811155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.237072,
+    43.03844,
+    -86.237072,
+    43.03844
+],
+  "geometry": {"coordinates":[-86.237072,43.03844],"type":"Point"}
+}

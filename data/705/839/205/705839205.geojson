@@ -1,0 +1,73 @@
+{
+  "id": 705839205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.405026,41.887734,-83.405026,41.887734",
+    "geom:latitude":41.887734,
+    "geom:longitude":-83.405026,
+    "iso:country":"US",
+    "sg:address":"14985 Hull Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 0070",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42s8nP3ur7VXvvqGfnTUB1_41.887734_-83.405026@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789939,
+    "wof:geomhash":"199ff1853c32f8022d2ac1ef7c776b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705839205
+        }
+    ],
+    "wof:id":705839205,
+    "wof:lastmodified":1461789939,
+    "wof:name":"Monroe Kennels",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.405026,
+    41.887734,
+    -83.405026,
+    41.887734
+],
+  "geometry": {"coordinates":[-83.40502600000001,41.887734],"type":"Point"}
+}

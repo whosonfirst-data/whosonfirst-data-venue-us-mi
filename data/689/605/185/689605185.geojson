@@ -1,0 +1,73 @@
+{
+  "id": 689605185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633594,42.854673,-85.633594,42.854673",
+    "geom:latitude":42.854673,
+    "geom:longitude":-85.633594,
+    "iso:country":"US",
+    "sg:address":"1160 60th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 7472",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sOaiFAVP6GnqQUHpcJPVN_42.854673_-85.633594@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776413,
+    "wof:geomhash":"b31da816e7f40b21c9a991cd4f2c6fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689605185
+        }
+    ],
+    "wof:id":689605185,
+    "wof:lastmodified":1461776413,
+    "wof:name":"Acme Disposal",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.633594,
+    42.854673,
+    -85.633594,
+    42.854673
+],
+  "geometry": {"coordinates":[-85.633594,42.854673],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706691443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.206398,42.546799,-83.206398,42.546799",
+    "geom:latitude":42.546799,
+    "geom:longitude":-83.206398,
+    "iso:country":"US",
+    "sg:address":"1000 E Maple Rd",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 540 1217",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524535,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tIfRGuAEQUhvIqCIMpZWr_42.546799_-83.206398@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809731,
+    "wof:geomhash":"69ce84b068f914c000fb067d5beb9639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":420524535,
+            "region_id":85688599,
+            "venue_id":706691443
+        }
+    ],
+    "wof:id":706691443,
+    "wof:lastmodified":1461809731,
+    "wof:name":"Budget",
+    "wof:parent_id":420524535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -83.206398,
+    42.546799,
+    -83.206398,
+    42.546799
+],
+  "geometry": {"coordinates":[-83.20639799999999,42.546799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706170443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.688749,42.587805,-85.688749,42.587805",
+    "geom:latitude":42.587805,
+    "geom:longitude":-85.688749,
+    "iso:country":"US",
+    "sg:address":"1510 123rd Ave",
+    "sg:city":"Hopkins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 793 7086",
+    "sg:postcode":"49328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "boarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fQkDxhOoxdnOyIrxocYh8_42.587805_-85.688749@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797439,
+    "wof:geomhash":"f441dd707a32c5ed9624323101270b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706170443
+        }
+    ],
+    "wof:id":706170443,
+    "wof:lastmodified":1461797439,
+    "wof:name":"Your House To Ours Pet Boardin",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding"
+    ]
+},
+  "bbox": [
+    -85.688749,
+    42.587805,
+    -85.688749,
+    42.587805
+],
+  "geometry": {"coordinates":[-85.688749,42.587805],"type":"Point"}
+}

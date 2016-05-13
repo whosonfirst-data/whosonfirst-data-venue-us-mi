@@ -1,0 +1,74 @@
+{
+  "id": 706685591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.120825,42.800363,-86.120825,42.800363",
+    "geom:latitude":42.800363,
+    "geom:longitude":-86.120825,
+    "iso:country":"US",
+    "sg:address":"9673 Adams St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/142455-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 748 0318",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZAMOqcXGwIe1oNvXlAl3e_42.800363_-86.120825@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809506,
+    "wof:geomhash":"13658c703e3a9a4b6b5eb3fd5d651151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706685591
+        }
+    ],
+    "wof:id":706685591,
+    "wof:lastmodified":1461809506,
+    "wof:name":"Subway",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.120825,
+    42.800363,
+    -86.120825,
+    42.800363
+],
+  "geometry": {"coordinates":[-86.120825,42.800363],"type":"Point"}
+}

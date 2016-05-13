@@ -1,0 +1,73 @@
+{
+  "id": 705772059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.936527,43.189628,-85.936527,43.189628",
+    "geom:latitude":43.189628,
+    "geom:longitude":-85.936527,
+    "iso:country":"US",
+    "sg:address":"3524 Main St",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 5566",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iePDXYRDcVVkvz9AyEVf9_43.189628_-85.936527@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788346,
+    "wof:geomhash":"358cbe0b4631731eda7d166887fa94df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705772059
+        }
+    ],
+    "wof:id":705772059,
+    "wof:lastmodified":1461788346,
+    "wof:name":"Ravenna Car Co",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.936527,
+    43.189628,
+    -85.936527,
+    43.189628
+],
+  "geometry": {"coordinates":[-85.936527,43.189628],"type":"Point"}
+}

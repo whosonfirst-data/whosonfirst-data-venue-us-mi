@@ -1,0 +1,71 @@
+{
+  "id": 689476891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.251305,43.103155,-86.251305,43.103155",
+    "geom:latitude":43.103155,
+    "geom:longitude":-86.251305,
+    "iso:country":"US",
+    "sg:address":"18606 Sioux Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 5966",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49sOPdTfFQT9tKFsk41e5D_43.103155_-86.251305@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772434,
+    "wof:geomhash":"83a29fe2bcfd8ec8e71bd84156c6020b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689476891
+        }
+    ],
+    "wof:id":689476891,
+    "wof:lastmodified":1461772434,
+    "wof:name":"Custom Cakes",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.251305,
+    43.103155,
+    -86.251305,
+    43.103155
+],
+  "geometry": {"coordinates":[-86.251305,43.103155],"type":"Point"}
+}

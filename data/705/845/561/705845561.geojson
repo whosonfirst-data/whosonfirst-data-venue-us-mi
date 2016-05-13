@@ -1,0 +1,71 @@
+{
+  "id": 705845561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.48399,42.779439,-83.48399,42.779439",
+    "geom:latitude":42.779439,
+    "geom:longitude":-83.48399,
+    "iso:country":"US",
+    "sg:address":"9810 Trotter Ln",
+    "sg:city":"Clarkston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 625 6886",
+    "sg:postcode":"48348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85803987,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YhC1qLQ0KAHzRqtkekh4Z_42.779439_-83.483990@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790079,
+    "wof:geomhash":"7cd668657fb4f530d149490dbd105388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85803987,
+            "region_id":85688599,
+            "venue_id":705845561
+        }
+    ],
+    "wof:id":705845561,
+    "wof:lastmodified":1461790079,
+    "wof:name":"Pinnacle Dental Lab",
+    "wof:parent_id":85803987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.48399,
+    42.779439,
+    -83.48399,
+    42.779439
+],
+  "geometry": {"coordinates":[-83.48399000000001,42.779439],"type":"Point"}
+}

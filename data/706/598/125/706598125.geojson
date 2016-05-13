@@ -1,0 +1,71 @@
+{
+  "id": 706598125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.991217,43.437597,-83.991217,43.437597",
+    "geom:latitude":43.437597,
+    "geom:longitude":-83.991217,
+    "iso:country":"US",
+    "sg:address":"2130 Marshall Ct",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 799 0600",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_781WdGJOWyT2IR4RdY0NIf_43.437597_-83.991217@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806678,
+    "wof:geomhash":"f0fa8e5fd138f2d29bc344d08e25226a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706598125
+        }
+    ],
+    "wof:id":706598125,
+    "wof:lastmodified":1461806678,
+    "wof:name":"Kenneth W Distler MD PC",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.991217,
+    43.437597,
+    -83.991217,
+    43.437597
+],
+  "geometry": {"coordinates":[-83.99121700000001,43.437597],"type":"Point"}
+}

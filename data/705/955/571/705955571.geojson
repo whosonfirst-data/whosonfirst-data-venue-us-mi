@@ -1,0 +1,71 @@
+{
+  "id": 705955571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.578636,42.253855,-83.578636,42.253855",
+    "geom:latitude":42.253855,
+    "geom:longitude":-83.578636,
+    "iso:country":"US",
+    "sg:address":"1625 Holmes Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 480 1900",
+    "sg:postcode":"48198",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_460RIITqkn4I9d1fuGi782_42.253855_-83.578636@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792661,
+    "wof:geomhash":"b269d54df9ee4b2968e3f3188444ba74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":705955571
+        }
+    ],
+    "wof:id":705955571,
+    "wof:lastmodified":1461792661,
+    "wof:name":"Video Palace of Ypsilanti",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -83.578636,
+    42.253855,
+    -83.578636,
+    42.253855
+],
+  "geometry": {"coordinates":[-83.578636,42.253855],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722525677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.538175,42.662969,-84.538175,42.662969",
+    "geom:latitude":42.662969,
+    "geom:longitude":-84.538175,
+    "iso:country":"US",
+    "sg:address":"6505 S Pennsylvania Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 8030",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UhZIYVqbwraV4danGAofZ_42.662969_-84.538175@1303262800"
+    },
+    "wof:country":"US",
+    "wof:created":1461814240,
+    "wof:geomhash":"6268cf200ee3b77af4700e885f40b12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":722525677
+        }
+    ],
+    "wof:id":722525677,
+    "wof:lastmodified":1461814240,
+    "wof:name":"Motor Cars of Lansing",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -84.538175,
+    42.662969,
+    -84.538175,
+    42.662969
+],
+  "geometry": {"coordinates":[-84.538175,42.662969],"type":"Point"}
+}

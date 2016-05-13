@@ -1,0 +1,73 @@
+{
+  "id": 689659555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714813,41.899578,-83.714813,41.899578",
+    "geom:latitude":41.899578,
+    "geom:longitude":-83.714813,
+    "iso:country":"US",
+    "sg:address":"211 Saline St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 279 2106",
+    "sg:postcode":"49270",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101712037,
+        102084787,
+        85817731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qxId1SGgLEg7Lf1H9tKbw_41.899578_-83.714813@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778119,
+    "wof:geomhash":"27417df044ba44bebda4d4977dbad388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "locality_id":101712037,
+            "neighbourhood_id":85817731,
+            "region_id":85688485,
+            "venue_id":689659555
+        }
+    ],
+    "wof:id":689659555,
+    "wof:lastmodified":1461778119,
+    "wof:name":"Dan's Auto Repair",
+    "wof:parent_id":85817731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.714813,
+    41.899578,
+    -83.714813,
+    41.899578
+],
+  "geometry": {"coordinates":[-83.71481300000001,41.899578],"type":"Point"}
+}

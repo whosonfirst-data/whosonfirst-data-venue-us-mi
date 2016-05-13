@@ -1,0 +1,72 @@
+{
+  "id": 706687565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.456295,43.031567,-82.456295,43.031567",
+    "geom:latitude":43.031567,
+    "geom:longitude":-82.456295,
+    "iso:country":"US",
+    "sg:address":"4220 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/fort-gratiot/127822-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 8773",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i0IgKGgmReZ49wf3CKjlQ_43.031370_-82.456246@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809577,
+    "wof:geomhash":"7468439408588f785b8590251977708d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706687565
+        }
+    ],
+    "wof:id":706687565,
+    "wof:lastmodified":1461809577,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.456295,
+    43.031567,
+    -82.456295,
+    43.031567
+],
+  "geometry": {"coordinates":[-82.456295,43.031567],"type":"Point"}
+}

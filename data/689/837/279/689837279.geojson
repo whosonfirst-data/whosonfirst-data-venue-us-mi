@@ -1,0 +1,82 @@
+{
+  "id": 689837279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.32572,42.613841,-83.32572,42.613841",
+    "geom:latitude":42.613841,
+    "geom:longitude":-83.32572,
+    "iso:country":"US",
+    "sg:address":"2097 Orchard Lake Rd",
+    "sg:city":"Keego Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 332 6576",
+    "sg:postcode":"48320",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851725,
+        102191575,
+        404508331,
+        85633793,
+        85952051,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QJuMhpafwwDqGoZtjMQF7_42.613841_-83.325720@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783046,
+    "wof:geomhash":"902a4b0667a2b837d5d1a36360ed6a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689837279
+        }
+    ],
+    "wof:id":689837279,
+    "wof:lastmodified":1461783046,
+    "wof:name":"Orchard Lake School Of Music",
+    "wof:parent_id":85851725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -83.32572,
+    42.613841,
+    -83.32572,
+    42.613841
+],
+  "geometry": {"coordinates":[-83.32572,42.613841],"type":"Point"}
+}

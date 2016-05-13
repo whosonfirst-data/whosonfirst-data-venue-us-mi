@@ -1,0 +1,85 @@
+{
+  "id": 706047513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378213,42.582257,-83.378213,42.582257",
+    "geom:latitude":42.582257,
+    "geom:longitude":-83.378213,
+    "iso:country":"US",
+    "sg:address":"4858 Willow Ln",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 762 9500",
+    "sg:postcode":"48324",
+    "sg:province":"MI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fzyr3s38R7OGbGEzmzwLp_42.582257_-83.378213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794550,
+    "wof:geomhash":"6e90f1496b425de55a7950fb00f63899",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706047513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":706047513
+        }
+    ],
+    "wof:id":706047513,
+    "wof:lastmodified":1461794550,
+    "wof:name":"MBI Holdings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -83.378213,
+    42.582257,
+    -83.378213,
+    42.582257
+],
+  "geometry": {"coordinates":[-83.378213,42.582257],"type":"Point"}
+}

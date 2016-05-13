@@ -1,0 +1,71 @@
+{
+  "id": 689784355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.422576,46.5425,-87.422576,46.5425",
+    "geom:latitude":46.5425,
+    "geom:longitude":-87.422576,
+    "iso:country":"US",
+    "sg:address":"1401 Odovero Dr",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 3500",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jBcrHGCuOHPW6kgxTV68z_46.542500_-87.422576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781380,
+    "wof:geomhash":"4d8957f28dcde676d39b34dcde187cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689784355
+        }
+    ],
+    "wof:id":689784355,
+    "wof:lastmodified":1461781380,
+    "wof:name":"Econofoods",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.422576,
+    46.5425,
+    -87.422576,
+    46.5425
+],
+  "geometry": {"coordinates":[-87.42257600000001,46.5425],"type":"Point"}
+}

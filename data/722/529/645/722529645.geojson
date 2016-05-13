@@ -1,0 +1,86 @@
+{
+  "id": 722529645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.190544,43.304793,-86.190544,43.304793",
+    "geom:latitude":43.304793,
+    "geom:longitude":-86.190544,
+    "iso:country":"US",
+    "sg:address":"2755 Holton Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 744 6861",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "sg:website":"http://www.fcc-online.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JRGBdzl8n09INfat34Yrv_43.304793_-86.190544@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814395,
+    "wof:geomhash":"03e08ec7d9912522f6bb1af503a4eaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":722529645
+        }
+    ],
+    "wof:id":722529645,
+    "wof:lastmodified":1461814395,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -86.190544,
+    43.304793,
+    -86.190544,
+    43.304793
+],
+  "geometry": {"coordinates":[-86.190544,43.304793],"type":"Point"}
+}

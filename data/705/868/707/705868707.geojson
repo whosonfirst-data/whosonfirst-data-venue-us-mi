@@ -1,0 +1,75 @@
+{
+  "id": 705868707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.28016,43.205499,-86.28016,43.205499",
+    "geom:latitude":43.205499,
+    "geom:longitude":-86.28016,
+    "iso:country":"US",
+    "sg:address":"1429 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 6159",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T6BTFgveMss6Oez1Yig6n_43.205499_-86.280160@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790663,
+    "wof:geomhash":"2d5bdb5aed306e1ee82ce780d436b1d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705868707
+        }
+    ],
+    "wof:id":705868707,
+    "wof:lastmodified":1461790663,
+    "wof:name":"Clothes Basket",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -86.28016,
+    43.205499,
+    -86.28016,
+    43.205499
+],
+  "geometry": {"coordinates":[-86.28016,43.205499],"type":"Point"}
+}

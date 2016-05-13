@@ -1,0 +1,75 @@
+{
+  "id": 705907283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.107787,42.521429,-83.107787,42.521429",
+    "geom:latitude":42.521429,
+    "geom:longitude":-83.107787,
+    "iso:country":"US",
+    "sg:address":"31313 Brush St",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 588 3605",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896589,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VXvXGdoOn712s7LvhueKj_42.521429_-83.107787@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791570,
+    "wof:geomhash":"04ee064588820ef39ab7670d69488c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896589,
+            "region_id":85688599,
+            "venue_id":705907283
+        }
+    ],
+    "wof:id":705907283,
+    "wof:lastmodified":1461791570,
+    "wof:name":"Madison Heights City Fire Dept",
+    "wof:parent_id":85896589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.107787,
+    42.521429,
+    -83.107787,
+    42.521429
+],
+  "geometry": {"coordinates":[-83.107787,42.521429],"type":"Point"}
+}

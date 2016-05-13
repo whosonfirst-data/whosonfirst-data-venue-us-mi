@@ -1,0 +1,74 @@
+{
+  "id": 706683901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677496,42.240301,-85.677496,42.240301",
+    "geom:latitude":42.240301,
+    "geom:longitude":-85.677496,
+    "iso:country":"US",
+    "sg:address":"5128 S 9th St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/texas/182491-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 3058",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bGrzhuf4Khx2IRxy95GAB_42.240301_-85.677496@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809442,
+    "wof:geomhash":"13ae27bf7be6eb55e7950511fd095b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706683901
+        }
+    ],
+    "wof:id":706683901,
+    "wof:lastmodified":1461809442,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.677496,
+    42.240301,
+    -85.677496,
+    42.240301
+],
+  "geometry": {"coordinates":[-85.677496,42.240301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706611513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.032965,42.638738,-83.032965,42.638738",
+    "geom:latitude":42.638738,
+    "geom:longitude":-83.032965,
+    "iso:country":"US",
+    "sg:address":"46863 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 323 0565",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ECmjRIQvzSOIX4mHFSGm_42.638738_-83.032965@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806958,
+    "wof:geomhash":"d51c62af99ff6407a76495a1371c7ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706611513
+        }
+    ],
+    "wof:id":706611513,
+    "wof:lastmodified":1461806958,
+    "wof:name":"Castalina Auto Repair",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.032965,
+    42.638738,
+    -83.032965,
+    42.638738
+],
+  "geometry": {"coordinates":[-83.032965,42.638738],"type":"Point"}
+}

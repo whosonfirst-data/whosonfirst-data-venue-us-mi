@@ -1,0 +1,75 @@
+{
+  "id": 689888125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.426705,44.266254,-85.426705,44.266254",
+    "geom:latitude":44.266254,
+    "geom:longitude":-85.426705,
+    "iso:country":"US",
+    "sg:address":"1625 Leeson Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 0929",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p4RQPuo8d53ttNhCgBFD9_44.266254_-85.426705@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784259,
+    "wof:geomhash":"4bf97e112b198190ce5b041ef2b02a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689888125
+        }
+    ],
+    "wof:id":689888125,
+    "wof:lastmodified":1461784259,
+    "wof:name":"Ryder Truck Rental",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.426705,
+    44.266254,
+    -85.426705,
+    44.266254
+],
+  "geometry": {"coordinates":[-85.426705,44.266254],"type":"Point"}
+}

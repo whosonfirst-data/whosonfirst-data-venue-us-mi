@@ -1,0 +1,73 @@
+{
+  "id": 689918345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542464,42.567571,-84.542464,42.567571",
+    "geom:latitude":42.567571,
+    "geom:longitude":-84.542464,
+    "iso:country":"US",
+    "sg:address":"581 S Eifert Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 628 3920",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oq3ag2X0DhD3cCaTXdC2d_42.567571_-84.542464@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785076,
+    "wof:geomhash":"7220038e5f0ef0a0b62ccc5791643ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":689918345
+        }
+    ],
+    "wof:id":689918345,
+    "wof:lastmodified":1461785076,
+    "wof:name":"Russ's Repair",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.542464,
+    42.567571,
+    -84.542464,
+    42.567571
+],
+  "geometry": {"coordinates":[-84.542464,42.567571],"type":"Point"}
+}

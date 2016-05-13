@@ -1,0 +1,75 @@
+{
+  "id": 706667109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.933899,42.418098,-82.933899,42.418098",
+    "geom:latitude":42.418098,
+    "geom:longitude":-82.933899,
+    "iso:country":"US",
+    "sg:address":"17333 Harper Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 884 8424",
+    "sg:postcode":"48224",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870573,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cz76z9X11OUvbtgjQK5aH_42.418234_-82.933522@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808750,
+    "wof:geomhash":"6890d40988dad1d3a38e25ec8835171c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870573,
+            "region_id":85688599,
+            "venue_id":706667109
+        }
+    ],
+    "wof:id":706667109,
+    "wof:lastmodified":1461808750,
+    "wof:name":"Mr B's Auto Wash",
+    "wof:parent_id":85870573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -82.933899,
+    42.418098,
+    -82.933899,
+    42.418098
+],
+  "geometry": {"coordinates":[-82.933899,42.418098],"type":"Point"}
+}

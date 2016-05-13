@@ -1,0 +1,71 @@
+{
+  "id": 689845679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.407745,42.696467,-83.407745,42.696467",
+    "geom:latitude":42.696467,
+    "geom:longitude":-83.407745,
+    "iso:country":"US",
+    "sg:address":"3955 Airport Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 8897",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bNvBA0HkkIm7fght7Po5r_42.696467_-83.407745@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783224,
+    "wof:geomhash":"249eed6521f1785fb8238d20e02e0f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689845679
+        }
+    ],
+    "wof:id":689845679,
+    "wof:lastmodified":1461783224,
+    "wof:name":"Bill's Plumbing & Sewer Svc",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.407745,
+    42.696467,
+    -83.407745,
+    42.696467
+],
+  "geometry": {"coordinates":[-83.40774500000001,42.696467],"type":"Point"}
+}

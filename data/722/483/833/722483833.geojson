@@ -1,0 +1,77 @@
+{
+  "id": 722483833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.134148,42.326279,-83.134148,42.326279",
+    "geom:latitude":42.326279,
+    "geom:longitude":-83.134148,
+    "iso:country":"US",
+    "sg:address":"4201 Central St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 581 1700",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870619,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O2LA55PPJpPV54C1reJHY_42.326279_-83.134148@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812446,
+    "wof:geomhash":"d5743b6ba9f7963c90a1936cd382cd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":722483833
+        }
+    ],
+    "wof:id":722483833,
+    "wof:lastmodified":1461812446,
+    "wof:name":"US Truck Driver Training School Inc",
+    "wof:parent_id":85870619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.134148,
+    42.326279,
+    -83.134148,
+    42.326279
+],
+  "geometry": {"coordinates":[-83.134148,42.326279],"type":"Point"}
+}

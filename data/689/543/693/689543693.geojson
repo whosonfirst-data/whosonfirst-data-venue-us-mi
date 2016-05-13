@@ -1,0 +1,73 @@
+{
+  "id": 689543693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.972139,42.071928,-83.972139,42.071928",
+    "geom:latitude":42.071928,
+    "geom:longitude":-83.972139,
+    "iso:country":"US",
+    "sg:address":"123 W Michigan Ave",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 456 7900",
+    "sg:postcode":"49236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951675,
+        102083099,
+        85836787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IhAq6wLJELpwEd11kN6Cl_42.071928_-83.972139@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774479,
+    "wof:geomhash":"47f27202098941d9762469fd24987a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083099,
+            "locality_id":85951675,
+            "neighbourhood_id":85836787,
+            "region_id":85688599,
+            "venue_id":689543693
+        }
+    ],
+    "wof:id":689543693,
+    "wof:lastmodified":1461774479,
+    "wof:name":"Cutting Edge",
+    "wof:parent_id":85836787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -83.972139,
+    42.071928,
+    -83.972139,
+    42.071928
+],
+  "geometry": {"coordinates":[-83.972139,42.071928],"type":"Point"}
+}

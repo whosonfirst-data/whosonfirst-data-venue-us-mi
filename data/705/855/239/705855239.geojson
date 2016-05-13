@@ -1,0 +1,79 @@
+{
+  "id": 705855239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.325735,46.457209,-87.325735,46.457209",
+    "geom:latitude":46.457209,
+    "geom:longitude":-87.325735,
+    "iso:country":"US",
+    "sg:address":"271 Little Lake Rd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 249 3833",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822319,
+        102083039,
+        85805135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lnZZ04ICbOMEs9wtgzrw8_46.457209_-87.325735@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790306,
+    "wof:geomhash":"16aad9344281e9e3455735a1eda63d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "neighbourhood_id":85822319,
+            "region_id":85688599,
+            "venue_id":705855239
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "neighbourhood_id":85805135,
+            "region_id":85688599,
+            "venue_id":705855239
+        }
+    ],
+    "wof:id":705855239,
+    "wof:lastmodified":1461790306,
+    "wof:name":"Salo Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -87.325735,
+    46.457209,
+    -87.325735,
+    46.457209
+],
+  "geometry": {"coordinates":[-87.32573499999999,46.457209],"type":"Point"}
+}

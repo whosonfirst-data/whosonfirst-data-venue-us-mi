@@ -1,0 +1,70 @@
+{
+  "id": 722483139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.130838,42.298364,-83.130838,42.298364",
+    "geom:latitude":42.298364,
+    "geom:longitude":-83.130838,
+    "iso:country":"US",
+    "sg:address":"9200 Olivet St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 849 2023",
+    "sg:postcode":"48209",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870531,
+        102191575,
+        404506405,
+        85633793,
+        85951103,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tlzL997YqxxOgFDUxThY0_42.298364_-83.130838@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812412,
+    "wof:geomhash":"ba03735390711ccb767afa2e0b2b027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506405,
+            "locality_id":85951103,
+            "neighbourhood_id":85870531,
+            "region_id":85688599,
+            "venue_id":722483139
+        }
+    ],
+    "wof:id":722483139,
+    "wof:lastmodified":1461812412,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":85870531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.130838,
+    42.298364,
+    -83.130838,
+    42.298364
+],
+  "geometry": {"coordinates":[-83.130838,42.298364],"type":"Point"}
+}

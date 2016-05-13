@@ -1,0 +1,73 @@
+{
+  "id": 705860421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.406609,44.279325,-85.406609,44.279325",
+    "geom:latitude":44.279325,
+    "geom:longitude":-85.406609,
+    "iso:country":"US",
+    "sg:address":"2124 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 1700",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06aETb1hWAvGPuhG48GbBS_44.279325_-85.406609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790434,
+    "wof:geomhash":"afe1629012e74eccd4d7831181d07d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705860421
+        }
+    ],
+    "wof:id":705860421,
+    "wof:lastmodified":1461790434,
+    "wof:name":"Check N Go of Michigan Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -85.406609,
+    44.279325,
+    -85.406609,
+    44.279325
+],
+  "geometry": {"coordinates":[-85.406609,44.279325],"type":"Point"}
+}

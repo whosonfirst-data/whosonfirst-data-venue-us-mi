@@ -1,0 +1,73 @@
+{
+  "id": 689629031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.082313,45.8122,-88.082313,45.8122",
+    "geom:latitude":45.8122,
+    "geom:longitude":-88.082313,
+    "iso:country":"US",
+    "sg:address":"1001 S Hemlock St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 1290",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y3wstMc9lzOciVnrxU0Wu_45.812200_-88.082313@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777131,
+    "wof:geomhash":"b513130898ba1f3a18fd39f8d19f14a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689629031
+        }
+    ],
+    "wof:id":689629031,
+    "wof:lastmodified":1461777131,
+    "wof:name":"Women's Health",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.082313,
+    45.8122,
+    -88.082313,
+    45.8122
+],
+  "geometry": {"coordinates":[-88.082313,45.8122],"type":"Point"}
+}

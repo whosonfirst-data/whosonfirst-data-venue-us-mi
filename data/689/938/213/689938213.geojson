@@ -1,0 +1,75 @@
+{
+  "id": 689938213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.273078,43.169245,-86.273078,43.169245",
+    "geom:latitude":43.169245,
+    "geom:longitude":-86.273078,
+    "iso:country":"US",
+    "sg:address":"1172 W Hile Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 2888",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lsPDfGG8wgxIbgnJBCN9v_43.169245_-86.273078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785568,
+    "wof:geomhash":"3b45608c48ce058be8e273dff8f06962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689938213
+        }
+    ],
+    "wof:id":689938213,
+    "wof:lastmodified":1461785568,
+    "wof:name":"Link Trucking",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.273078,
+    43.169245,
+    -86.273078,
+    43.169245
+],
+  "geometry": {"coordinates":[-86.273078,43.169245],"type":"Point"}
+}

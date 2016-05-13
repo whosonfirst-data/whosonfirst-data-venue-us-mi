@@ -1,0 +1,71 @@
+{
+  "id": 706155025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.10874,43.07407,-86.10874,43.07407",
+    "geom:latitude":43.07407,
+    "geom:longitude":-86.10874,
+    "iso:country":"US",
+    "sg:address":"12887 Cleveland St",
+    "sg:city":"Nunica",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 6208",
+    "sg:postcode":"49448",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FFKCavPZ8TH6NRkEau2fX_43.074070_-86.108740@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797087,
+    "wof:geomhash":"2a65760b295ac956b86df29744750a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706155025
+        }
+    ],
+    "wof:id":706155025,
+    "wof:lastmodified":1461797087,
+    "wof:name":"M-104 Machine Inc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    -86.10874,
+    43.07407,
+    -86.10874,
+    43.07407
+],
+  "geometry": {"coordinates":[-86.10874,43.07407],"type":"Point"}
+}

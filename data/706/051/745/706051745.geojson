@@ -1,0 +1,71 @@
+{
+  "id": 706051745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.74845,42.753326,-84.74845,42.753326",
+    "geom:latitude":42.753326,
+    "geom:longitude":-84.74845,
+    "iso:country":"US",
+    "sg:address":"205 W Scott St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 9099",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L9E6FESWfhkM3DzNaws3b_42.753326_-84.748450@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794634,
+    "wof:geomhash":"ed0e4b22cd8bc959f7f2483b0259ec17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706051745
+        }
+    ],
+    "wof:id":706051745,
+    "wof:lastmodified":1461794634,
+    "wof:name":"Teenworks/Kidworks",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -84.74845,
+    42.753326,
+    -84.74845,
+    42.753326
+],
+  "geometry": {"coordinates":[-84.74845000000001,42.753326],"type":"Point"}
+}

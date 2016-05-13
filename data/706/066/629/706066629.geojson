@@ -1,0 +1,73 @@
+{
+  "id": 706066629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.087428,45.767552,-87.087428,45.767552",
+    "geom:latitude":45.767552,
+    "geom:longitude":-87.087428,
+    "iso:country":"US",
+    "sg:address":"1701 N 28th St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 6223",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dhWHSyqYn8uo2q9cdCoW8_45.767552_-87.087428@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794957,
+    "wof:geomhash":"8c37b1246d6b153c16a53b5824c3f935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706066629
+        }
+    ],
+    "wof:id":706066629,
+    "wof:lastmodified":1461794957,
+    "wof:name":"Esky Engines",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.087428,
+    45.767552,
+    -87.087428,
+    45.767552
+],
+  "geometry": {"coordinates":[-87.087428,45.767552],"type":"Point"}
+}

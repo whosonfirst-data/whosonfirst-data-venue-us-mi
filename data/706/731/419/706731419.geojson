@@ -1,0 +1,75 @@
+{
+  "id": 706731419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.180603,42.227798,-83.180603,42.227798",
+    "geom:latitude":42.227798,
+    "geom:longitude":-83.180603,
+    "iso:country":"US",
+    "sg:address":"3909 Fort St",
+    "sg:city":"Lincoln Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 389 2222",
+    "sg:postcode":"48146",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524961,
+        102191575,
+        404508637,
+        85633793,
+        85951069,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KgooCN7yOx9Bng6vbCktJ_42.227798_-83.180603@1303262784"
+    },
+    "wof:country":"US",
+    "wof:created":1461811473,
+    "wof:geomhash":"57ae807b1139c6527c507cb5646891f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508637,
+            "locality_id":85951069,
+            "neighbourhood_id":420524961,
+            "region_id":85688599,
+            "venue_id":706731419
+        }
+    ],
+    "wof:id":706731419,
+    "wof:lastmodified":1461811473,
+    "wof:name":"First Veterinary Clinic of Lincoln Park",
+    "wof:parent_id":420524961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.180603,
+    42.227798,
+    -83.180603,
+    42.227798
+],
+  "geometry": {"coordinates":[-83.180603,42.227798],"type":"Point"}
+}

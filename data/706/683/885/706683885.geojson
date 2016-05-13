@@ -1,0 +1,78 @@
+{
+  "id": 706683885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.614117,42.245236,-85.614117,42.245236",
+    "geom:latitude":42.245236,
+    "geom:longitude":-85.614117,
+    "iso:country":"US",
+    "sg:address":"4999 Oakland Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/47207-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 7272",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878457,
+        102191575,
+        404507697,
+        85633793,
+        85950989,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y4OxCmhRxSH1rYpsGsn7A_42.245236_-85.614117@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809442,
+    "wof:geomhash":"da5d7d9d789b576d53fe96c5f8f63ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507697,
+            "locality_id":85950989,
+            "neighbourhood_id":85878457,
+            "region_id":85688599,
+            "venue_id":706683885
+        }
+    ],
+    "wof:id":706683885,
+    "wof:lastmodified":1461809442,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85878457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.614117,
+    42.245236,
+    -85.614117,
+    42.245236
+],
+  "geometry": {"coordinates":[-85.61411699999999,42.245236],"type":"Point"}
+}

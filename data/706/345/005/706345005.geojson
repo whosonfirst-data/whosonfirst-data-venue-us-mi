@@ -1,0 +1,73 @@
+{
+  "id": 706345005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270642,43.219393,-86.270642,43.219393",
+    "geom:latitude":43.219393,
+    "geom:longitude":-86.270642,
+    "iso:country":"US",
+    "sg:address":"1851 Barclay St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 1000",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "fund",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qyids57fQz6mHw2p3A2gP_43.219393_-86.270642@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801302,
+    "wof:geomhash":"b95bfd37a4277137a35cadeb7aab02e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706345005
+        }
+    ],
+    "wof:id":706345005,
+    "wof:lastmodified":1461801302,
+    "wof:name":"McCef",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "raising"
+    ]
+},
+  "bbox": [
+    -86.270642,
+    43.219393,
+    -86.270642,
+    43.219393
+],
+  "geometry": {"coordinates":[-86.270642,43.219393],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705696289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.360566,41.960008,-83.360566,41.960008",
+    "geom:latitude":41.960008,
+    "geom:longitude":-83.360566,
+    "iso:country":"US",
+    "sg:address":"3699 Vivian Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 2644",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814403,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k5WHt04QPbi2FPHGDmiRK_41.960008_-83.360566@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786348,
+    "wof:geomhash":"7ff7c755e1791be3a5f13f4e673ec15d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85814403,
+            "region_id":85688599,
+            "venue_id":705696289
+        }
+    ],
+    "wof:id":705696289,
+    "wof:lastmodified":1461786348,
+    "wof:name":"Globe Dental Lab Inc",
+    "wof:parent_id":85814403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.360566,
+    41.960008,
+    -83.360566,
+    41.960008
+],
+  "geometry": {"coordinates":[-83.36056600000001,41.960008],"type":"Point"}
+}

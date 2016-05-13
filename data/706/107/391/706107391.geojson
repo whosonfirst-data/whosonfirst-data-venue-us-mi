@@ -1,0 +1,73 @@
+{
+  "id": 706107391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.954668,43.467147,-85.954668,43.467147",
+    "geom:latitude":43.467147,
+    "geom:longitude":-85.954668,
+    "iso:country":"US",
+    "sg:address":"501 W Main St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 2650",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DiNk1d6UcLlX8mBV7JChD_43.467147_-85.954668@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795934,
+    "wof:geomhash":"f9cecb8ed0d6b9fe7f94662cad026026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706107391
+        }
+    ],
+    "wof:id":706107391,
+    "wof:lastmodified":1461795934,
+    "wof:name":"Tanis Service Inc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.954668,
+    43.467147,
+    -85.954668,
+    43.467147
+],
+  "geometry": {"coordinates":[-85.954668,43.467147],"type":"Point"}
+}

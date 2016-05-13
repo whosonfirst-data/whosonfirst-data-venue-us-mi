@@ -1,0 +1,71 @@
+{
+  "id": 705745121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663697,42.842735,-85.663697,42.842735",
+    "geom:latitude":42.842735,
+    "geom:longitude":-85.663697,
+    "iso:country":"US",
+    "sg:address":"6725 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 9790",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c35VhsY5SCBhfWkHuqWb5_42.842735_-85.663697@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787752,
+    "wof:geomhash":"8b8e43011fb391fef754712aa5fe67eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":705745121
+        }
+    ],
+    "wof:id":705745121,
+    "wof:lastmodified":1461787752,
+    "wof:name":"Phoenix Rising Bakery",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.663697,
+    42.842735,
+    -85.663697,
+    42.842735
+],
+  "geometry": {"coordinates":[-85.663697,42.842735],"type":"Point"}
+}

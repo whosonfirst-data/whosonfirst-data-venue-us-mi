@@ -1,0 +1,71 @@
+{
+  "id": 689468523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583106,42.209876,-85.583106,42.209876",
+    "geom:latitude":42.209876,
+    "geom:longitude":-85.583106,
+    "iso:country":"US",
+    "sg:address":"7601 Garden Ln",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 323 8882",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85840935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RSU3nDbsl8n87rfknn1Fe_42.209876_-85.583106@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772163,
+    "wof:geomhash":"ec0bb530dd092d1dcadba90fcb9e8cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85840935,
+            "region_id":85688599,
+            "venue_id":689468523
+        }
+    ],
+    "wof:id":689468523,
+    "wof:lastmodified":1461772163,
+    "wof:name":"Garden Spot Greenhouse",
+    "wof:parent_id":85840935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -85.583106,
+    42.209876,
+    -85.583106,
+    42.209876
+],
+  "geometry": {"coordinates":[-85.583106,42.209876],"type":"Point"}
+}

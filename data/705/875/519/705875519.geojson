@@ -1,0 +1,71 @@
+{
+  "id": 705875519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.712401,42.186541,-85.712401,42.186541",
+    "geom:latitude":42.186541,
+    "geom:longitude":-85.712401,
+    "iso:country":"US",
+    "sg:address":"8336 W R Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 372 5902",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l4g09Y7xErtyd7TBFdsME_42.186541_-85.712401@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790828,
+    "wof:geomhash":"4fe02c146784c7f2af6000bbb38d3855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":705875519
+        }
+    ],
+    "wof:id":705875519,
+    "wof:lastmodified":1461790828,
+    "wof:name":"Portage Plumbing Inc",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.712401,
+    42.186541,
+    -85.712401,
+    42.186541
+],
+  "geometry": {"coordinates":[-85.712401,42.186541],"type":"Point"}
+}

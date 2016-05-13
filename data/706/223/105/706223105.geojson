@@ -1,0 +1,71 @@
+{
+  "id": 706223105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610238,42.370483,-85.610238,42.370483",
+    "geom:latitude":42.370483,
+    "geom:longitude":-85.610238,
+    "iso:country":"US",
+    "sg:address":"7587 Douglas Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 3649",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40cFSFi54SCw9zaRFJ8M98_42.370483_-85.610238@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798567,
+    "wof:geomhash":"36bb86f7283ea1785cf644df3ccc91ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":706223105
+        }
+    ],
+    "wof:id":706223105,
+    "wof:lastmodified":1461798567,
+    "wof:name":"Rhodes Excavation",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.610238,
+    42.370483,
+    -85.610238,
+    42.370483
+],
+  "geometry": {"coordinates":[-85.610238,42.370483],"type":"Point"}
+}

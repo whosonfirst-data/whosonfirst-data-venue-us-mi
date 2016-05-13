@@ -1,0 +1,71 @@
+{
+  "id": 706437825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.712172,42.732932,-85.712172,42.732932",
+    "geom:latitude":42.732932,
+    "geom:longitude":-85.712172,
+    "iso:country":"US",
+    "sg:address":"4340 17th St",
+    "sg:city":"Dorr",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 681 5609",
+    "sg:postcode":"49323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F52o8skzFbiItBqfhKZJB_42.732932_-85.712172@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803153,
+    "wof:geomhash":"06970753d6821a29ca4dd4da37d1a8ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706437825
+        }
+    ],
+    "wof:id":706437825,
+    "wof:lastmodified":1461803153,
+    "wof:name":"Cherry Valley Plumbing",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.712172,
+    42.732932,
+    -85.712172,
+    42.732932
+],
+  "geometry": {"coordinates":[-85.712172,42.732932],"type":"Point"}
+}

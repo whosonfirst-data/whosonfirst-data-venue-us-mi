@@ -1,0 +1,74 @@
+{
+  "id": 706683859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632064,42.271575,-85.632064,42.271575",
+    "geom:latitude":42.271575,
+    "geom:longitude":-85.632064,
+    "iso:country":"US",
+    "sg:address":"3321 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/24122-jets-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 372 2600",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W3I1bw3sZEF1H3dKgc74g_42.271575_-85.632064@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809441,
+    "wof:geomhash":"615874a0c4d353a63b90af9fdd501a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706683859
+        }
+    ],
+    "wof:id":706683859,
+    "wof:lastmodified":1461809441,
+    "wof:name":"Jet's Pizza",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.632064,
+    42.271575,
+    -85.632064,
+    42.271575
+],
+  "geometry": {"coordinates":[-85.632064,42.271575],"type":"Point"}
+}

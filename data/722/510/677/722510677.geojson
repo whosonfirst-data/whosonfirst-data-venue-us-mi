@@ -1,0 +1,84 @@
+{
+  "id": 722510677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.348503,42.6022,-83.348503,42.6022",
+    "geom:latitude":42.6022,
+    "geom:longitude":-83.348503,
+    "iso:country":"US",
+    "sg:address":"3251 Orchard Lake Rd",
+    "sg:city":"Keego Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 682 0320",
+    "sg:postcode":"48320",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "sandwich",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851725,
+        102191575,
+        404508331,
+        85633793,
+        85952051,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38CCKiNaoGCqsfi0UeXfBt_42.602200_-83.348503@1303262796"
+    },
+    "wof:country":"US",
+    "wof:created":1461813506,
+    "wof:geomhash":"03ba4dccea903ab576f4a19773cd9695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":722510677
+        }
+    ],
+    "wof:id":722510677,
+    "wof:lastmodified":1461813506,
+    "wof:name":"Harbor Steak House",
+    "wof:parent_id":85851725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "sandwich",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -83.348503,
+    42.6022,
+    -83.348503,
+    42.6022
+],
+  "geometry": {"coordinates":[-83.34850299999999,42.6022],"type":"Point"}
+}

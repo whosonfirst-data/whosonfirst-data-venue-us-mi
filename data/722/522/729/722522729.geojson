@@ -1,0 +1,71 @@
+{
+  "id": 722522729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.710841,43.01917,-83.710841,43.01917",
+    "geom:latitude":43.01917,
+    "geom:longitude":-83.710841,
+    "iso:country":"US",
+    "sg:address":"1301 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 9100",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_459A0Jtre12mnLFjoAB45d_43.019170_-83.710841@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814056,
+    "wof:geomhash":"d1bfbbcb825e68733aba9e05b48df185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":722522729
+        }
+    ],
+    "wof:id":722522729,
+    "wof:lastmodified":1461814056,
+    "wof:name":"Town Center Pharmacy",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.710841,
+    43.01917,
+    -83.710841,
+    43.01917
+],
+  "geometry": {"coordinates":[-83.710841,43.01917],"type":"Point"}
+}

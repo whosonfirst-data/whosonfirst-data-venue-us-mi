@@ -1,0 +1,69 @@
+{
+  "id": 706369091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.45626,43.028178,-82.45626,43.028178",
+    "geom:latitude":43.028178,
+    "geom:longitude":-82.45626,
+    "iso:country":"US",
+    "sg:address":"4325 24th Ave",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 4849",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U1v29cdVJLSVMCh8Y19qk_43.028178_-82.456260@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801789,
+    "wof:geomhash":"bf7e0f9296583e7f9a7fb3c05ba1dc0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706369091
+        }
+    ],
+    "wof:id":706369091,
+    "wof:lastmodified":1461801789,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.45626,
+    43.028178,
+    -82.45626,
+    43.028178
+],
+  "geometry": {"coordinates":[-82.45626,43.028178],"type":"Point"}
+}

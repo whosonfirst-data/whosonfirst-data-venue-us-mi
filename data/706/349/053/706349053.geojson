@@ -1,0 +1,73 @@
+{
+  "id": 706349053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725587,43.042719,-85.725587,43.042719",
+    "geom:latitude":43.042719,
+    "geom:longitude":-85.725587,
+    "iso:country":"US",
+    "sg:address":"4242 Cisco Grove NW",
+    "sg:city":"Comstock Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 647 9120",
+    "sg:postcode":"49321",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wKLpsY6gKblZTq3bpam6J_43.042719_-85.725587@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801390,
+    "wof:geomhash":"644d14f0c0cf48508faff5c56a37f6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706349053
+        }
+    ],
+    "wof:id":706349053,
+    "wof:lastmodified":1461801390,
+    "wof:name":"B & B Mechanical Svc LLC",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.725587,
+    43.042719,
+    -85.725587,
+    43.042719
+],
+  "geometry": {"coordinates":[-85.725587,43.042719],"type":"Point"}
+}

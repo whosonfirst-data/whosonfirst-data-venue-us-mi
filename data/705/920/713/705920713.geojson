@@ -1,0 +1,71 @@
+{
+  "id": 705920713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.401825,42.10228,-84.401825,42.10228",
+    "geom:latitude":42.10228,
+    "geom:longitude":-84.401825,
+    "iso:country":"US",
+    "sg:address":"202 E Liberty Rd",
+    "sg:city":"Clarklake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 529 4241",
+    "sg:postcode":"49234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QQfmZLB7c9Tous5D9tgU1_42.102280_-84.401825@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791863,
+    "wof:geomhash":"e5139579795da52f9a70a460fc69b6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705920713
+        }
+    ],
+    "wof:id":705920713,
+    "wof:lastmodified":1461791863,
+    "wof:name":"Liberty Township Fire Dept",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -84.401825,
+    42.10228,
+    -84.401825,
+    42.10228
+],
+  "geometry": {"coordinates":[-84.401825,42.10228],"type":"Point"}
+}

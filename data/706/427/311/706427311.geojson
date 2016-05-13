@@ -1,0 +1,86 @@
+{
+  "id": 706427311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.656944,42.964211,-85.656944,42.964211",
+    "geom:latitude":42.964211,
+    "geom:longitude":-85.656944,
+    "iso:country":"US",
+    "sg:address":"45 College Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 456 5775",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "consultant",
+        "safety",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877889,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FaevpvUAq8bjRVjhawPj4_42.964211_-85.656944@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802927,
+    "wof:geomhash":"0a0ec42178c5b14646b31949692cf653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877889,
+            "region_id":85688599,
+            "venue_id":706427311
+        }
+    ],
+    "wof:id":706427311,
+    "wof:lastmodified":1461802927,
+    "wof:name":"Health & Safety Associates",
+    "wof:parent_id":85877889,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "safety",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.656944,
+    42.964211,
+    -85.656944,
+    42.964211
+],
+  "geometry": {"coordinates":[-85.656944,42.964211],"type":"Point"}
+}

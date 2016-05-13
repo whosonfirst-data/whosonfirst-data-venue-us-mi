@@ -1,0 +1,73 @@
+{
+  "id": 689748553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.737157,43.060733,-83.737157,43.060733",
+    "geom:latitude":43.060733,
+    "geom:longitude":-83.737157,
+    "iso:country":"US",
+    "sg:address":"3070 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 3099",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vEDmJcENAlbd6qNlWAbvi_43.060733_-83.737157@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780413,
+    "wof:geomhash":"f06b2fda5c6f112b36ad0f19ecd3643d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689748553
+        }
+    ],
+    "wof:id":689748553,
+    "wof:lastmodified":1461780413,
+    "wof:name":"Three C Tire Wheel & Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.737157,
+    43.060733,
+    -83.737157,
+    43.060733
+],
+  "geometry": {"coordinates":[-83.737157,43.060733],"type":"Point"}
+}

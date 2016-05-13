@@ -1,0 +1,71 @@
+{
+  "id": 706023161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.741719,41.79162,-86.741719,41.79162",
+    "geom:latitude":41.79162,
+    "geom:longitude":-86.741719,
+    "iso:country":"US",
+    "sg:address":"225 S Whittaker St",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 0202",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4seVU8AqfKikjwFagYneni_41.791620_-86.741719@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794071,
+    "wof:geomhash":"8bc02b2a11ff2d51ed522e203370dd04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706023161
+        }
+    ],
+    "wof:id":706023161,
+    "wof:lastmodified":1461794071,
+    "wof:name":"New Buffalo Med Center",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.741719,
+    41.79162,
+    -86.741719,
+    41.79162
+],
+  "geometry": {"coordinates":[-86.741719,41.79162],"type":"Point"}
+}

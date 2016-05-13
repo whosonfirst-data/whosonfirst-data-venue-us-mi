@@ -1,0 +1,71 @@
+{
+  "id": 706409735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.397646,42.290109,-84.397646,42.290109",
+    "geom:latitude":42.290109,
+    "geom:longitude":-84.397646,
+    "iso:country":"US",
+    "sg:address":"3401 Cooper St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 2990",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "enforcement",
+        "narcotic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pITUGI4ooUw9v24UI5hl0_42.290109_-84.397646@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802596,
+    "wof:geomhash":"3901c8985a7172ffe8fc5b74e0e33b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706409735
+        }
+    ],
+    "wof:id":706409735,
+    "wof:lastmodified":1461802596,
+    "wof:name":"Jackson Narcotics Enforcement",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "narcotic"
+    ]
+},
+  "bbox": [
+    -84.397646,
+    42.290109,
+    -84.397646,
+    42.290109
+],
+  "geometry": {"coordinates":[-84.39764599999999,42.290109],"type":"Point"}
+}

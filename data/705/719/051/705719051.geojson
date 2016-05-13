@@ -1,0 +1,71 @@
+{
+  "id": 705719051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.212917,43.173462,-86.212917,43.173462",
+    "geom:latitude":43.173462,
+    "geom:longitude":-86.212917,
+    "iso:country":"US",
+    "sg:address":"1296 Cherry Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 799 8908",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75qLSKDgPQDH6a8Zf2rpoh_43.173462_-86.212917@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787145,
+    "wof:geomhash":"0d4e72b1048057364bb8eed134c46d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705719051
+        }
+    ],
+    "wof:id":705719051,
+    "wof:lastmodified":1461787145,
+    "wof:name":"Cool Ride Express Inc",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.212917,
+    43.173462,
+    -86.212917,
+    43.173462
+],
+  "geometry": {"coordinates":[-86.212917,43.173462],"type":"Point"}
+}

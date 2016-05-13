@@ -1,0 +1,72 @@
+{
+  "id": 706687535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.493881,42.912426,-82.493881,42.912426",
+    "geom:latitude":42.912426,
+    "geom:longitude":-82.493881,
+    "iso:country":"US",
+    "sg:address":"3000 Gratiot Blvd",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marysville/207832-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 388 0366",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10PDTm4QYNDn5XVi5Hr800_42.912534_-82.493520@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809576,
+    "wof:geomhash":"bd68f3bcfb91454f89d2988e28b41043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706687535
+        }
+    ],
+    "wof:id":706687535,
+    "wof:lastmodified":1461809576,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.493881,
+    42.912426,
+    -82.493881,
+    42.912426
+],
+  "geometry": {"coordinates":[-82.493881,42.912426],"type":"Point"}
+}

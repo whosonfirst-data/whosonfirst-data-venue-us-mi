@@ -1,0 +1,71 @@
+{
+  "id": 689918313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.376054,46.281635,-87.376054,46.281635",
+    "geom:latitude":46.281635,
+    "geom:longitude":-87.376054,
+    "iso:country":"US",
+    "sg:address":"1043 Mehl Lake Ln",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 4411",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822319,
+        102083039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PTnzwE2zSWTYe2G7lxV7K_46.281635_-87.376054@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785076,
+    "wof:geomhash":"5de54c1fffef89f758984cd10a94fab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "neighbourhood_id":85822319,
+            "region_id":85688599,
+            "venue_id":689918313
+        }
+    ],
+    "wof:id":689918313,
+    "wof:lastmodified":1461785076,
+    "wof:name":"Lake Superior Driving School",
+    "wof:parent_id":85822319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -87.376054,
+    46.281635,
+    -87.376054,
+    46.281635
+],
+  "geometry": {"coordinates":[-87.376054,46.281635],"type":"Point"}
+}

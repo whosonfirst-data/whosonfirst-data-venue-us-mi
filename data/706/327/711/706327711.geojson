@@ -1,0 +1,71 @@
+{
+  "id": 706327711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259763,43.192169,-86.259763,43.192169",
+    "geom:latitude":43.192169,
+    "geom:longitude":-86.259763,
+    "iso:country":"US",
+    "sg:address":"3304 Glade St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 1092",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PS937F2TkdXst7TnREAYa_43.192169_-86.259763@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800940,
+    "wof:geomhash":"a9ef3051e9384591ae50dfd934a8607b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706327711
+        }
+    ],
+    "wof:id":706327711,
+    "wof:lastmodified":1461800940,
+    "wof:name":"Airline Pet Clinic",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.259763,
+    43.192169,
+    -86.259763,
+    43.192169
+],
+  "geometry": {"coordinates":[-86.25976300000001,43.192169],"type":"Point"}
+}

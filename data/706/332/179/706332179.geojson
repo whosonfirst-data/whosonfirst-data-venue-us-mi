@@ -1,0 +1,73 @@
+{
+  "id": 706332179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.076699,43.410137,-86.076699,43.410137",
+    "geom:latitude":43.410137,
+    "geom:longitude":-86.076699,
+    "iso:country":"US",
+    "sg:address":"6898 Marvin Rd",
+    "sg:city":"Holton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 821 2103",
+    "sg:postcode":"49425",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UtqC3brC3f9poMnrs7DTW_43.410137_-86.076699@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801028,
+    "wof:geomhash":"12082cc6af943619bc4af2911215eacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706332179
+        }
+    ],
+    "wof:id":706332179,
+    "wof:lastmodified":1461801028,
+    "wof:name":"Richard Fray",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.076699,
+    43.410137,
+    -86.076699,
+    43.410137
+],
+  "geometry": {"coordinates":[-86.076699,43.410137],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706679925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.992187,42.615611,-82.992187,42.615611",
+    "geom:latitude":42.615611,
+    "geom:longitude":-82.992187,
+    "iso:country":"US",
+    "sg:address":"43650 Schoenherr Rd",
+    "sg:city":"Sterling Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/sterling-heights/40592-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 247 4411",
+    "sg:postcode":"48313",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50J675Pz5LXaPxUMmpKm2q_42.615611_-82.992187@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809277,
+    "wof:geomhash":"7e93bd35aa7a039912b1d55b55769138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706679925
+        }
+    ],
+    "wof:id":706679925,
+    "wof:lastmodified":1461809277,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.992187,
+    42.615611,
+    -82.992187,
+    42.615611
+],
+  "geometry": {"coordinates":[-82.992187,42.615611],"type":"Point"}
+}

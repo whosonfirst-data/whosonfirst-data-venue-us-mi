@@ -1,0 +1,74 @@
+{
+  "id": 706665481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.268207,43.196832,-86.268207,43.196832",
+    "geom:latitude":43.196832,
+    "geom:longitude":-86.268207,
+    "iso:country":"US",
+    "sg:address":"3050 Maple Grove Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 4444",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "sg:website":"http://www.metprop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MKHYa6quoSAEhRD3ssDUX_43.197255_-86.268122@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808685,
+    "wof:geomhash":"da47a353f4cc55e28d7e96666e1a29e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706665481
+        }
+    ],
+    "wof:id":706665481,
+    "wof:lastmodified":1461808685,
+    "wof:name":"Lake Crest Park Apartments",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.268207,
+    43.196832,
+    -86.268207,
+    43.196832
+],
+  "geometry": {"coordinates":[-86.268207,43.196832],"type":"Point"}
+}

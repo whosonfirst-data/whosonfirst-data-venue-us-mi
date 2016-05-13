@@ -1,0 +1,71 @@
+{
+  "id": 705694763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.470777,41.861047,-83.470777,41.861047",
+    "geom:latitude":41.861047,
+    "geom:longitude":-83.470777,
+    "iso:country":"US",
+    "sg:address":"3281 Swartz Rd",
+    "sg:city":"La Salle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 384 5477",
+    "sg:postcode":"48145",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804009,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e0D1xahQZKgrasEtrTX3T_41.861047_-83.470777@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786287,
+    "wof:geomhash":"7022b8e3b499af0ea2a3786d2fdba2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":705694763
+        }
+    ],
+    "wof:id":705694763,
+    "wof:lastmodified":1461786287,
+    "wof:name":"Nu View Windshield Repair",
+    "wof:parent_id":85804009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -83.470777,
+    41.861047,
+    -83.470777,
+    41.861047
+],
+  "geometry": {"coordinates":[-83.470777,41.861047],"type":"Point"}
+}

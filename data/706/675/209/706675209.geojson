@@ -1,0 +1,86 @@
+{
+  "id": 706675209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.027379,42.469598,-83.027379,42.469598",
+    "geom:latitude":42.469598,
+    "geom:longitude":-83.027379,
+    "iso:country":"US",
+    "sg:address":"23815 Van Dyke Ave",
+    "sg:city":"Center Line",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/center-line/163038-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 754 6444",
+    "sg:postcode":"48015",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896847,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gVczz97OZ01qhWR7vNPHA_42.469598_-83.027379@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809087,
+    "wof:geomhash":"d5c020e286921c8bbce5158dd06dabcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":85896847,
+            "region_id":85688599,
+            "venue_id":706675209
+        }
+    ],
+    "wof:id":706675209,
+    "wof:lastmodified":1461809087,
+    "wof:name":"Rally's",
+    "wof:parent_id":85896847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.027379,
+    42.469598,
+    -83.027379,
+    42.469598
+],
+  "geometry": {"coordinates":[-83.027379,42.469598],"type":"Point"}
+}

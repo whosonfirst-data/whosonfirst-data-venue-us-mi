@@ -1,0 +1,71 @@
+{
+  "id": 706270465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.798123,43.128412,-82.798123,43.128412",
+    "geom:latitude":43.128412,
+    "geom:longitude":-82.798123,
+    "iso:country":"US",
+    "sg:address":"136 S Main St",
+    "sg:city":"Yale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 387 4452",
+    "sg:postcode":"48097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I5wPBbOOgnLEd5l8KxAxV_43.128412_-82.798123@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799628,
+    "wof:geomhash":"9936d15897a8f7004645e66183ad6429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706270465
+        }
+    ],
+    "wof:id":706270465,
+    "wof:lastmodified":1461799628,
+    "wof:name":"Kulek Heating & Cooling Inc",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.798123,
+    43.128412,
+    -82.798123,
+    43.128412
+],
+  "geometry": {"coordinates":[-82.798123,43.128412],"type":"Point"}
+}

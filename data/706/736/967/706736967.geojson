@@ -1,0 +1,71 @@
+{
+  "id": 706736967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4627,42.375599,-83.4627,42.375599",
+    "geom:latitude":42.375599,
+    "geom:longitude":-83.4627,
+    "iso:country":"US",
+    "sg:address":"413 N Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 455 7887",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "greek",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AYtcvvUKU6vNnHAqsvLfu_42.375599_-83.462700@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811694,
+    "wof:geomhash":"495db8eb22925d18836d96f02c5c8fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706736967
+        }
+    ],
+    "wof:id":706736967,
+    "wof:lastmodified":1461811694,
+    "wof:name":"Grecian Cafe",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greek",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.4627,
+    42.375599,
+    -83.4627,
+    42.375599
+],
+  "geometry": {"coordinates":[-83.4627,42.375599],"type":"Point"}
+}

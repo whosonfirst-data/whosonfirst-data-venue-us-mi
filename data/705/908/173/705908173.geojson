@@ -1,0 +1,71 @@
+{
+  "id": 705908173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.22029,43.169701,-86.22029,43.169701",
+    "geom:latitude":43.169701,
+    "geom:longitude":-86.22029,
+    "iso:country":"US",
+    "sg:address":"4576 Grand Haven Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 798 2009",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "appraisal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gQMOweZCrrdcbzPCeAxQA_43.169701_-86.220290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791590,
+    "wof:geomhash":"fee2552b47e30067e697a061b9880408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705908173
+        }
+    ],
+    "wof:id":705908173,
+    "wof:lastmodified":1461791590,
+    "wof:name":"Midwest Realestate Services",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "appraisal"
+    ]
+},
+  "bbox": [
+    -86.22029,
+    43.169701,
+    -86.22029,
+    43.169701
+],
+  "geometry": {"coordinates":[-86.22029000000001,43.169701],"type":"Point"}
+}

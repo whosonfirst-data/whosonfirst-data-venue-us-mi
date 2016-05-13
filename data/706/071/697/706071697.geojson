@@ -1,0 +1,80 @@
+{
+  "id": 706071697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.556322,42.230177,-85.556322,42.230177",
+    "geom:latitude":42.230177,
+    "geom:longitude":-85.556322,
+    "iso:country":"US",
+    "sg:address":"2729 E Milham Ave",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 0790",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533001,
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gGkuz8ux1jM0TAhySLems_42.230177_-85.556322@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795068,
+    "wof:geomhash":"991b7bea36b5dd6f15bbeca6382c1786",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533001,
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706071697
+        }
+    ],
+    "wof:id":706071697,
+    "wof:lastmodified":1461795068,
+    "wof:name":"Kalamazoo Aircraft Inc",
+    "wof:parent_id":102533001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.556322,
+    42.230177,
+    -85.556322,
+    42.230177
+],
+  "geometry": {"coordinates":[-85.55632199999999,42.230177],"type":"Point"}
+}

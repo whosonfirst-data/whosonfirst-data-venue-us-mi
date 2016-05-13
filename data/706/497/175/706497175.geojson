@@ -1,0 +1,73 @@
+{
+  "id": 706497175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.453432,42.622512,-83.453432,42.622512",
+    "geom:latitude":42.622512,
+    "geom:longitude":-83.453432,
+    "iso:country":"US",
+    "sg:address":"1266 Union Lake Rd",
+    "sg:city":"White Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 366 1302",
+    "sg:postcode":"48386",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O2p7GSV2bkBA95svjpX5O_42.622512_-83.453432@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804596,
+    "wof:geomhash":"1ffd73ca3c03de8d732a51b4d27c7d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":706497175
+        }
+    ],
+    "wof:id":706497175,
+    "wof:lastmodified":1461804596,
+    "wof:name":"Rcw Trucking",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.453432,
+    42.622512,
+    -83.453432,
+    42.622512
+],
+  "geometry": {"coordinates":[-83.45343200000001,42.622512],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689833525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.483255,42.105837,-86.483255,42.105837",
+    "geom:latitude":42.105837,
+    "geom:longitude":-86.483255,
+    "iso:country":"US",
+    "sg:address":"600 Main St",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 982 1340",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Py0xGKHjJvrrmUxvVVPal_42.105837_-86.483255@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782945,
+    "wof:geomhash":"29750ed087b345336bc19a92f358aadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":689833525
+        }
+    ],
+    "wof:id":689833525,
+    "wof:lastmodified":1461782945,
+    "wof:name":"Initial Security",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -86.483255,
+    42.105837,
+    -86.483255,
+    42.105837
+],
+  "geometry": {"coordinates":[-86.483255,42.105837],"type":"Point"}
+}

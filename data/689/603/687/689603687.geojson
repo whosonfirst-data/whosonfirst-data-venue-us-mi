@@ -1,0 +1,75 @@
+{
+  "id": 689603687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.205806,43.056714,-86.205806,43.056714",
+    "geom:latitude":43.056714,
+    "geom:longitude":-86.205806,
+    "iso:country":"US",
+    "sg:address":"401 S Beechtree St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 844 0240",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hZRVx3wCuCA8gW8hw2zyy_43.056714_-86.205806@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776367,
+    "wof:geomhash":"102b77d8bf36baff3179aa87ccca234a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689603687
+        }
+    ],
+    "wof:id":689603687,
+    "wof:lastmodified":1461776367,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.205806,
+    43.056714,
+    -86.205806,
+    43.056714
+],
+  "geometry": {"coordinates":[-86.205806,43.056714],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706351865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.959797,42.848561,-85.959797,42.848561",
+    "geom:latitude":42.848561,
+    "geom:longitude":-85.959797,
+    "iso:country":"US",
+    "sg:address":"4410 72nd Ave",
+    "sg:city":"Zeeland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 000 1111",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805159,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FRUcr0MpYFl5VugJdzVT9_42.848561_-85.959797@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801444,
+    "wof:geomhash":"a18807a78ea66730bc8080ee48cfbba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85805159,
+            "region_id":85688599,
+            "venue_id":706351865
+        }
+    ],
+    "wof:id":706351865,
+    "wof:lastmodified":1461801444,
+    "wof:name":"Zeeland Twp Fire Dept",
+    "wof:parent_id":85805159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.959797,
+    42.848561,
+    -85.959797,
+    42.848561
+],
+  "geometry": {"coordinates":[-85.95979699999999,42.848561],"type":"Point"}
+}

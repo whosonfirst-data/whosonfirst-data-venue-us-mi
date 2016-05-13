@@ -1,0 +1,73 @@
+{
+  "id": 706509101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.906336,42.550662,-82.906336,42.550662",
+    "geom:latitude":42.550662,
+    "geom:longitude":-82.906336,
+    "iso:country":"US",
+    "sg:address":"20780 Catalano St",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 746 1132",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bjwSwgseh63pbEKo32U1g_42.550662_-82.906336@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804833,
+    "wof:geomhash":"a734376ea9358a1b7a504db1f1ecd760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":706509101
+        }
+    ],
+    "wof:id":706509101,
+    "wof:lastmodified":1461804833,
+    "wof:name":"Landmark Delivery",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.906336,
+    42.550662,
+    -82.906336,
+    42.550662
+],
+  "geometry": {"coordinates":[-82.906336,42.550662],"type":"Point"}
+}

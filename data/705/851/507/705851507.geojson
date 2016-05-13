@@ -1,0 +1,69 @@
+{
+  "id": 705851507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.622786,42.705022,-84.622786,42.705022",
+    "geom:latitude":42.705022,
+    "geom:longitude":-84.622786,
+    "iso:country":"US",
+    "sg:address":"2610 Snow Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 484 0911",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834385,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VJnLy9thfwNdhUzQ6ZKPS_42.705022_-84.622786@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790214,
+    "wof:geomhash":"124ca45d3a77bfae19c137f782ece388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85834385,
+            "region_id":85688599,
+            "venue_id":705851507
+        }
+    ],
+    "wof:id":705851507,
+    "wof:lastmodified":1461790214,
+    "wof:name":"Auto Ambulance",
+    "wof:parent_id":85834385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.622786,
+    42.705022,
+    -84.622786,
+    42.705022
+],
+  "geometry": {"coordinates":[-84.622786,42.705022],"type":"Point"}
+}

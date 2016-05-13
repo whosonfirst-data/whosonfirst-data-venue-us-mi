@@ -1,0 +1,76 @@
+{
+  "id": 706686565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.59048,42.998252,-85.59048,42.998252",
+    "geom:latitude":42.998252,
+    "geom:longitude":-85.59048,
+    "iso:country":"US",
+    "sg:address":"1971 E Beltline Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/122005-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 364 9050",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s825EiNii2wKFgh6B5v4i_42.998252_-85.590480@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809540,
+    "wof:geomhash":"cb81dc7178fdb0ded84c11b3821bf039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":706686565
+        }
+    ],
+    "wof:id":706686565,
+    "wof:lastmodified":1461809540,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.59048,
+    42.998252,
+    -85.59048,
+    42.998252
+],
+  "geometry": {"coordinates":[-85.59048,42.998252],"type":"Point"}
+}

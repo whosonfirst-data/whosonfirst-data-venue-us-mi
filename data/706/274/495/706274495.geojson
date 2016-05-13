@@ -1,0 +1,73 @@
+{
+  "id": 706274495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.316676,43.214532,-86.316676,43.214532",
+    "geom:latitude":43.214532,
+    "geom:longitude":-86.316676,
+    "iso:country":"US",
+    "sg:address":"3093 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 0569",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sales",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BPbFuhyeiyWbb1POOzYpM_43.214532_-86.316676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799716,
+    "wof:geomhash":"d15c931a933fda8d024e3eac547fb590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706274495
+        }
+    ],
+    "wof:id":706274495,
+    "wof:lastmodified":1461799716,
+    "wof:name":"Lakeside Marine",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "boat"
+    ]
+},
+  "bbox": [
+    -86.316676,
+    43.214532,
+    -86.316676,
+    43.214532
+],
+  "geometry": {"coordinates":[-86.316676,43.214532],"type":"Point"}
+}

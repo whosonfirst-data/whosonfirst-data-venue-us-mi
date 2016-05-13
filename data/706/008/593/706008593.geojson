@@ -1,0 +1,71 @@
+{
+  "id": 706008593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583626,42.633977,-85.583626,42.633977",
+    "geom:latitude":42.633977,
+    "geom:longitude":-85.583626,
+    "iso:country":"US",
+    "sg:address":"2925 4th St",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 792 6148",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KGNz3QWKriviiOdmNEXls_42.633977_-85.583626@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793763,
+    "wof:geomhash":"4b356152a4ef7521c9aefca9ed79a4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706008593
+        }
+    ],
+    "wof:id":706008593,
+    "wof:lastmodified":1461793763,
+    "wof:name":"Bodey Electric",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.583626,
+    42.633977,
+    -85.583626,
+    42.633977
+],
+  "geometry": {"coordinates":[-85.583626,42.633977],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706118115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.635414,42.247126,-83.635414,42.247126",
+    "geom:latitude":42.247126,
+    "geom:longitude":-83.635414,
+    "iso:country":"US",
+    "sg:address":"1420 Washtenaw Rd",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 483 6140",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821275,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJsFgtG4HaDayaKMItuzX_42.247126_-83.635414@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796227,
+    "wof:geomhash":"8235a1c95b2f042d1d0acea403da3d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85821275,
+            "region_id":85688599,
+            "venue_id":706118115
+        }
+    ],
+    "wof:id":706118115,
+    "wof:lastmodified":1461796227,
+    "wof:name":"Sams Auto Service",
+    "wof:parent_id":85821275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.635414,
+    42.247126,
+    -83.635414,
+    42.247126
+],
+  "geometry": {"coordinates":[-83.635414,42.247126],"type":"Point"}
+}

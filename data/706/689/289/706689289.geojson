@@ -1,0 +1,85 @@
+{
+  "id": 706689289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689233,43.026706,-85.689233,43.026706",
+    "geom:latitude":43.026706,
+    "geom:longitude":-85.689233,
+    "iso:country":"US",
+    "sg:address":"3488 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/walker/92595-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 785 7082",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877873,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RpAmXUnpM8D2wDdf0R4zH_43.026604_-85.689177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809644,
+    "wof:geomhash":"925ceec5967223250dd93e62fbd7b8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877873,
+            "region_id":85688599,
+            "venue_id":706689289
+        }
+    ],
+    "wof:id":706689289,
+    "wof:lastmodified":1461809644,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85877873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.689233,
+    43.026706,
+    -85.689233,
+    43.026706
+],
+  "geometry": {"coordinates":[-85.689233,43.026706],"type":"Point"}
+}

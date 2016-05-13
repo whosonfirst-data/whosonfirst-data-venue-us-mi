@@ -1,0 +1,69 @@
+{
+  "id": 689736531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.295446,42.428324,-83.295446,42.428324",
+    "geom:latitude":42.428324,
+    "geom:longitude":-83.295446,
+    "iso:country":"US",
+    "sg:address":"25639 W 7 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 2823",
+    "sg:postcode":"48240",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jLCh3BuHBxvsQo4LfwNBm_42.428324_-83.295446@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780112,
+    "wof:geomhash":"1a2f11ed523d53c972ca7049b078313c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":689736531
+        }
+    ],
+    "wof:id":689736531,
+    "wof:lastmodified":1461780112,
+    "wof:name":"Walshs Service Station",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.295446,
+    42.428324,
+    -83.295446,
+    42.428324
+],
+  "geometry": {"coordinates":[-83.295446,42.428324],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689474321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.424854,46.54581,-87.424854,46.54581",
+    "geom:latitude":46.54581,
+    "geom:longitude":-87.424854,
+    "iso:country":"US",
+    "sg:address":"1471 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 3526",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XfyN9Q0XHYUOkV59nzee6_46.545810_-87.424854@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772360,
+    "wof:geomhash":"dccadd49bff84f222d16791811461936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689474321
+        }
+    ],
+    "wof:id":689474321,
+    "wof:lastmodified":1461772360,
+    "wof:name":"Perfect Cup",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -87.424854,
+    46.54581,
+    -87.424854,
+    46.54581
+],
+  "geometry": {"coordinates":[-87.424854,46.54581],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 689687461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641977,43.645381,-85.641977,43.645381",
+    "geom:latitude":43.645381,
+    "geom:longitude":-85.641977,
+    "iso:country":"US",
+    "sg:address":"4801 N Elm Ave",
+    "sg:city":"Big Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 796 2952",
+    "sg:postcode":"49307",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6de7NN6qhIIAiG5zCI34yp_43.645381_-85.641977@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778808,
+    "wof:geomhash":"c0034af431bcc66ee013cd338cbfbd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":689687461
+        }
+    ],
+    "wof:id":689687461,
+    "wof:lastmodified":1461778808,
+    "wof:name":"Sam's Disposal",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.641977,
+    43.645381,
+    -85.641977,
+    43.645381
+],
+  "geometry": {"coordinates":[-85.641977,43.645381],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706342377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.224146,42.678884,-83.224146,42.678884",
+    "geom:latitude":42.678884,
+    "geom:longitude":-83.224146,
+    "iso:country":"US",
+    "sg:address":"3412 E Walton Blvd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 371 3713",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.michvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896797,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SgoeqGaIHQCd8Er8zaivS_42.678884_-83.224146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801253,
+    "wof:geomhash":"939daf822b67d59060c5ca53aaba4cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896797,
+            "region_id":85688599,
+            "venue_id":706342377
+        }
+    ],
+    "wof:id":706342377,
+    "wof:lastmodified":1461801253,
+    "wof:name":"Michigan Veterinary Specialist",
+    "wof:parent_id":85896797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.224146,
+    42.678884,
+    -83.224146,
+    42.678884
+],
+  "geometry": {"coordinates":[-83.224146,42.678884],"type":"Point"}
+}

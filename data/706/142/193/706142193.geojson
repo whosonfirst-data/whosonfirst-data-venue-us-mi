@@ -1,0 +1,82 @@
+{
+  "id": 706142193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663965,42.864579,-85.663965,42.864579",
+    "geom:latitude":42.864579,
+    "geom:longitude":-85.663965,
+    "iso:country":"US",
+    "sg:address":"5416 Division Ave S",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 534 8303",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system",
+        "cb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eyJEWlc16VGuIfbHou9AN_42.864579_-85.663965@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796808,
+    "wof:geomhash":"f4fa9cad61956bd82551fe1c9af55f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706142193
+        }
+    ],
+    "wof:id":706142193,
+    "wof:lastmodified":1461796808,
+    "wof:name":"Power Unlimited Inc",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system",
+        "cb"
+    ]
+},
+  "bbox": [
+    -85.663965,
+    42.864579,
+    -85.663965,
+    42.864579
+],
+  "geometry": {"coordinates":[-85.663965,42.864579],"type":"Point"}
+}

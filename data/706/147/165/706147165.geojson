@@ -1,0 +1,71 @@
+{
+  "id": 706147165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387223,42.256512,-84.387223,42.256512",
+    "geom:latitude":42.256512,
+    "geom:longitude":-84.387223,
+    "iso:country":"US",
+    "sg:address":"1309 Leroy St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 0513",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JqTLYa1WfRNoexG0adav8_42.256512_-84.387223@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796912,
+    "wof:geomhash":"5daf5ae9766dc10d824e9ea718850af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706147165
+        }
+    ],
+    "wof:id":706147165,
+    "wof:lastmodified":1461796912,
+    "wof:name":"Leo's Plumbing Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.387223,
+    42.256512,
+    -84.387223,
+    42.256512
+],
+  "geometry": {"coordinates":[-84.38722300000001,42.256512],"type":"Point"}
+}

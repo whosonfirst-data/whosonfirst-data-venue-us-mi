@@ -1,0 +1,76 @@
+{
+  "id": 689873461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.39393,41.921499,-86.39393,41.921499",
+    "geom:latitude":41.921499,
+    "geom:longitude":-86.39393,
+    "iso:country":"US",
+    "sg:address":"2689 E Snow Rd",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 473 2510",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20xtuFvcYPOwxA0VlNWpa7_41.921499_-86.393930@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783876,
+    "wof:geomhash":"741f5aa73f2a1b2ced33927722f514a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689873461
+        }
+    ],
+    "wof:id":689873461,
+    "wof:lastmodified":1461783876,
+    "wof:name":"Old Farm Living Centre",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.39393,
+    41.921499,
+    -86.39393,
+    41.921499
+],
+  "geometry": {"coordinates":[-86.39393,41.921499],"type":"Point"}
+}

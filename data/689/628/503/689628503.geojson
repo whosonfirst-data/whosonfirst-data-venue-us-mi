@@ -1,0 +1,71 @@
+{
+  "id": 689628503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.070239,45.752957,-87.070239,45.752957",
+    "geom:latitude":45.752957,
+    "geom:longitude":-87.070239,
+    "iso:country":"US",
+    "sg:address":"801 N 16th St",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 789 6124",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VoXOd5xUMgD4B6QQ3XST8_45.752957_-87.070239@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777121,
+    "wof:geomhash":"44aa7fc65e80b1146797b8fb7f38f336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689628503
+        }
+    ],
+    "wof:id":689628503,
+    "wof:lastmodified":1461777121,
+    "wof:name":"Nort Town Storage",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.070239,
+    45.752957,
+    -87.070239,
+    45.752957
+],
+  "geometry": {"coordinates":[-87.070239,45.752957],"type":"Point"}
+}

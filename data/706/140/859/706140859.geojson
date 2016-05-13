@@ -1,0 +1,75 @@
+{
+  "id": 706140859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.936437,43.197329,-85.936437,43.197329",
+    "geom:latitude":43.197329,
+    "geom:longitude":-85.936437,
+    "iso:country":"US",
+    "sg:address":"3265 S Slocum Rd",
+    "sg:city":"Ravenna",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 853 5738",
+    "sg:postcode":"49451",
+    "sg:province":"MI",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Vv8mj4EuB1OVDa5yiq9V_43.197329_-85.936437@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796778,
+    "wof:geomhash":"cc9f8825df8d7ffb8f6caea92fd24a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706140859
+        }
+    ],
+    "wof:id":706140859,
+    "wof:lastmodified":1461796778,
+    "wof:name":"Ravenna Auction",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -85.936437,
+    43.197329,
+    -85.936437,
+    43.197329
+],
+  "geometry": {"coordinates":[-85.936437,43.197329],"type":"Point"}
+}

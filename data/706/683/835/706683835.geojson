@@ -1,0 +1,77 @@
+{
+  "id": 706683835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58961,42.258014,-85.58961,42.258014",
+    "geom:latitude":42.258014,
+    "geom:longitude":-85.58961,
+    "iso:country":"US",
+    "sg:address":"3320 S Westnedge Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/185937-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878485,
+        102191575,
+        404507687,
+        85633793,
+        85950985,
+        102083671,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kHi54vDlBS7FVWGqGvLuP_42.258014_-85.589610@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809440,
+    "wof:geomhash":"eafea8c7244f1c7b74d6a831fab26f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083671,
+            "localadmin_id":404507687,
+            "locality_id":85950985,
+            "neighbourhood_id":85878485,
+            "region_id":85688599,
+            "venue_id":706683835
+        }
+    ],
+    "wof:id":706683835,
+    "wof:lastmodified":1461809440,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.58961,
+    42.258014,
+    -85.58961,
+    42.258014
+],
+  "geometry": {"coordinates":[-85.58960999999999,42.258014],"type":"Point"}
+}

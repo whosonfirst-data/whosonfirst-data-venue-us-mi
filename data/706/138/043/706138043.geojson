@@ -1,0 +1,73 @@
+{
+  "id": 706138043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.999192,43.619522,-85.999192,43.619522",
+    "geom:latitude":43.619522,
+    "geom:longitude":-85.999192,
+    "iso:country":"US",
+    "sg:address":"8205 Van Buren St",
+    "sg:city":"Hesperia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 854 5010",
+    "sg:postcode":"49421",
+    "sg:province":"MI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vNP3UIQrayOxmTdGxEAaQ_43.619522_-85.999192@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796714,
+    "wof:geomhash":"0fdd808081e6cd477c5550ffc17a92a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706138043
+        }
+    ],
+    "wof:id":706138043,
+    "wof:lastmodified":1461796714,
+    "wof:name":"Fred's Plumbing",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.999192,
+    43.619522,
+    -85.999192,
+    43.619522
+],
+  "geometry": {"coordinates":[-85.99919199999999,43.619522],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 706663893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455269,42.38251,-85.455269,42.38251",
+    "geom:latitude":42.38251,
+    "geom:longitude":-85.455269,
+    "iso:country":"US",
+    "sg:address":"8421 N 32nd St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 629 9010",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"http://www.richlandanimalhospitalpc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vePXnCLjdCJZcxXgTK315_42.382364_-85.455346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808618,
+    "wof:geomhash":"032729a99070d6cac6a9f0f0198ff07d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706663893
+        }
+    ],
+    "wof:id":706663893,
+    "wof:lastmodified":1461808618,
+    "wof:name":"Richland Animal Hospital",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.455269,
+    42.38251,
+    -85.455269,
+    42.38251
+],
+  "geometry": {"coordinates":[-85.455269,42.38251],"type":"Point"}
+}

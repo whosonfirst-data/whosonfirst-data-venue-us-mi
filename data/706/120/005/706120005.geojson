@@ -1,0 +1,71 @@
+{
+  "id": 706120005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.23174,43.065239,-86.23174,43.065239",
+    "geom:latitude":43.065239,
+    "geom:longitude":-86.23174,
+    "iso:country":"US",
+    "sg:address":"133 Columbus Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 850 2665",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzgmkrYaPQlKDTqmXr007_43.065239_-86.231740@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796265,
+    "wof:geomhash":"d1c5315236ccd8c387242e5d1cc35a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706120005
+        }
+    ],
+    "wof:id":706120005,
+    "wof:lastmodified":1461796265,
+    "wof:name":"Lucy's Market",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.23174,
+    43.065239,
+    -86.23174,
+    43.065239
+],
+  "geometry": {"coordinates":[-86.23174,43.065239],"type":"Point"}
+}

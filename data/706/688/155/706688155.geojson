@@ -1,0 +1,72 @@
+{
+  "id": 706688155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.416718,42.686146,-83.416718,42.686146",
+    "geom:latitude":42.686146,
+    "geom:longitude":-83.416718,
+    "iso:country":"US",
+    "sg:address":"6484 Williams Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/waterford/50990-guidos-premium-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 7077",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fiYSNTR9TWlXicXgV3Oz9_42.686409_-83.416625@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809603,
+    "wof:geomhash":"40b968057d93b2613e5bbbd7211ff28c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706688155
+        }
+    ],
+    "wof:id":706688155,
+    "wof:lastmodified":1461809603,
+    "wof:name":"Guido's Premium Pizza",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.416718,
+    42.686146,
+    -83.416718,
+    42.686146
+],
+  "geometry": {"coordinates":[-83.416718,42.686146],"type":"Point"}
+}

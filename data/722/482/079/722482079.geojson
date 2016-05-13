@@ -1,0 +1,81 @@
+{
+  "id": 722482079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.02043,42.339713,-83.02043,42.339713",
+    "geom:latitude":42.339713,
+    "geom:longitude":-83.02043,
+    "iso:country":"US",
+    "sg:address":"2751 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 446 9800",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.aidspartnership.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870599,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69eFkntmBW9HJtvSN0ACDC_42.339713_-83.020430@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812373,
+    "wof:geomhash":"0591ca9fffa8316336a3ab6e3812f900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870599,
+            "region_id":85688599,
+            "venue_id":722482079
+        }
+    ],
+    "wof:id":722482079,
+    "wof:lastmodified":1461812373,
+    "wof:name":"AIDS Partnership of Michigan",
+    "wof:parent_id":85870599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.02043,
+    42.339713,
+    -83.02043,
+    42.339713
+],
+  "geometry": {"coordinates":[-83.02043,42.339713],"type":"Point"}
+}

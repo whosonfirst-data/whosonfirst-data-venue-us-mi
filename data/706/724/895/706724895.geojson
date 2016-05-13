@@ -1,0 +1,88 @@
+{
+  "id": 706724895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.267403,42.300701,-83.267403,42.300701",
+    "geom:latitude":42.300701,
+    "geom:longitude":-83.267403,
+    "iso:country":"US",
+    "sg:address":"23801 Michigan Ave",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 274 1100",
+    "sg:postcode":"48124",
+    "sg:province":"MI",
+    "sg:tags":[
+        "agent",
+        "resume"
+    ],
+    "sg:website":"www.charteronebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896593,
+        102191575,
+        404508577,
+        85633793,
+        85951061,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pCctyw440gjpfbuySwb9h_42.300701_-83.267403@1303262782"
+    },
+    "wof:country":"US",
+    "wof:created":1461811219,
+    "wof:geomhash":"3df4692beaa5ca91e9bdb4f83bdbf26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508577,
+            "locality_id":85951061,
+            "neighbourhood_id":85896593,
+            "region_id":85688599,
+            "venue_id":706724895
+        }
+    ],
+    "wof:id":706724895,
+    "wof:lastmodified":1461811219,
+    "wof:name":"Charter One Bank",
+    "wof:parent_id":85896593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "resume"
+    ]
+},
+  "bbox": [
+    -83.267403,
+    42.300701,
+    -83.267403,
+    42.300701
+],
+  "geometry": {"coordinates":[-83.267403,42.300701],"type":"Point"}
+}

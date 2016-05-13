@@ -1,0 +1,71 @@
+{
+  "id": 689705207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.051965,43.415683,-84.051965,43.415683",
+    "geom:latitude":43.415683,
+    "geom:longitude":-84.051965,
+    "iso:country":"US",
+    "sg:address":"6879 Gratiot Rd",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 781 6930",
+    "sg:postcode":"48609",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g2q8ILovSQo2w9HEK61s6_43.415683_-84.051965@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779265,
+    "wof:geomhash":"668e885eaa1b0d4dffb0feaf833f3732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":689705207
+        }
+    ],
+    "wof:id":689705207,
+    "wof:lastmodified":1461779265,
+    "wof:name":"Tri City Dental Laboratory",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.051965,
+    43.415683,
+    -84.051965,
+    43.415683
+],
+  "geometry": {"coordinates":[-84.051965,43.415683],"type":"Point"}
+}

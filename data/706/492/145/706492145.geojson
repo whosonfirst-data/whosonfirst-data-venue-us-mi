@@ -1,0 +1,73 @@
+{
+  "id": 706492145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.548339,41.879073,-86.548339,41.879073",
+    "geom:latitude":41.879073,
+    "geom:longitude":-86.548339,
+    "iso:country":"US",
+    "sg:address":"3965 Oak St",
+    "sg:city":"New Troy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 426 4535",
+    "sg:postcode":"49125",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eVX3PIsaLHibbb2mNtKtv_41.879073_-86.548339@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804447,
+    "wof:geomhash":"c89f288663c7757167ae75303ab8db54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706492145
+        }
+    ],
+    "wof:id":706492145,
+    "wof:lastmodified":1461804447,
+    "wof:name":"Rice's Locksmith Svc",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.548339,
+    41.879073,
+    -86.548339,
+    41.879073
+],
+  "geometry": {"coordinates":[-86.548339,41.879073],"type":"Point"}
+}

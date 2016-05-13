@@ -1,0 +1,71 @@
+{
+  "id": 706219517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651168,44.762656,-85.651168,44.762656",
+    "geom:latitude":44.762656,
+    "geom:longitude":-85.651168,
+    "iso:country":"US",
+    "sg:address":"5246 N Royal Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 935 0957",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H86mNt5JaSXJJkDDnZokO_44.762656_-85.651168@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798493,
+    "wof:geomhash":"d6eb532df999538e40b9b75cd56efb7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706219517
+        }
+    ],
+    "wof:id":706219517,
+    "wof:lastmodified":1461798493,
+    "wof:name":"James Vanwagner Do",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -85.651168,
+    44.762656,
+    -85.651168,
+    44.762656
+],
+  "geometry": {"coordinates":[-85.651168,44.762656],"type":"Point"}
+}

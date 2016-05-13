@@ -1,0 +1,71 @@
+{
+  "id": 705949661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.458449,42.611197,-84.458449,42.611197",
+    "geom:latitude":42.611197,
+    "geom:longitude":-84.458449,
+    "iso:country":"US",
+    "sg:address":"2940 Harper Rd",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 676 6425",
+    "sg:postcode":"48854",
+    "sg:province":"MI",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l90lkAjKGBUGZEf1DPDTw_42.611197_-84.458449@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792519,
+    "wof:geomhash":"42628d21dd27707cd2eecffeb4ad1c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":705949661
+        }
+    ],
+    "wof:id":705949661,
+    "wof:lastmodified":1461792519,
+    "wof:name":"J Grossman Training",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -84.458449,
+    42.611197,
+    -84.458449,
+    42.611197
+],
+  "geometry": {"coordinates":[-84.458449,42.611197],"type":"Point"}
+}

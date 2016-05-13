@@ -1,0 +1,71 @@
+{
+  "id": 706435013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.416737,46.563954,-87.416737,46.563954",
+    "geom:latitude":46.563954,
+    "geom:longitude":-87.416737,
+    "iso:country":"US",
+    "sg:address":"1415 Wright St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 225 0191",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18IIDmtMkEbZ7wbuDAkyQP_46.563954_-87.416737@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803085,
+    "wof:geomhash":"8a13ba7afaca4bc761e7f85562a5918d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706435013
+        }
+    ],
+    "wof:id":706435013,
+    "wof:lastmodified":1461803085,
+    "wof:name":"Holy Cross Cemetery",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -87.416737,
+    46.563954,
+    -87.416737,
+    46.563954
+],
+  "geometry": {"coordinates":[-87.416737,46.563954],"type":"Point"}
+}

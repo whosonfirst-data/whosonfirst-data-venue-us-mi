@@ -1,0 +1,71 @@
+{
+  "id": 722505769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222504,42.558102,-83.222504,42.558102",
+    "geom:latitude":42.558102,
+    "geom:longitude":-83.222504,
+    "iso:country":"US",
+    "sg:address":"36700 Woodward Ave",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 642 7711",
+    "sg:postcode":"48304",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952029,
+        102083713,
+        85896571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LiYnZrNU8smbTCPJbs07F_42.558102_-83.222504@1303262795"
+    },
+    "wof:country":"US",
+    "wof:created":1461813299,
+    "wof:geomhash":"4296c27c4bde15c6e540ba2348d0ff57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "locality_id":85952029,
+            "neighbourhood_id":85896571,
+            "region_id":85688599,
+            "venue_id":722505769
+        }
+    ],
+    "wof:id":722505769,
+    "wof:lastmodified":1461813299,
+    "wof:name":"Sebold & Associates",
+    "wof:parent_id":85896571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.222504,
+    42.558102,
+    -83.222504,
+    42.558102
+],
+  "geometry": {"coordinates":[-83.222504,42.558102],"type":"Point"}
+}

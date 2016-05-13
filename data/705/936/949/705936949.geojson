@@ -1,0 +1,69 @@
+{
+  "id": 705936949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480092,42.058029,-86.480092,42.058029",
+    "geom:latitude":42.058029,
+    "geom:longitude":-86.480092,
+    "iso:country":"US",
+    "sg:address":"1155 Vineland Rd",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 429 9661",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0scqcFwUrV7qFmuE72mhaq_42.058029_-86.480092@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792221,
+    "wof:geomhash":"2204565d4ff6916b80d793316631dff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":705936949
+        }
+    ],
+    "wof:id":705936949,
+    "wof:lastmodified":1461792221,
+    "wof:name":"Roger's Foodland",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.480092,
+    42.058029,
+    -86.480092,
+    42.058029
+],
+  "geometry": {"coordinates":[-86.480092,42.058029],"type":"Point"}
+}

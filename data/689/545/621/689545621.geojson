@@ -1,0 +1,77 @@
+{
+  "id": 689545621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.451047,41.86746,-83.451047,41.86746",
+    "geom:latitude":41.86746,
+    "geom:longitude":-83.451047,
+    "iso:country":"US",
+    "sg:address":"4111 Laplaisance Rd",
+    "sg:city":"La Salle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 4344",
+    "sg:postcode":"48145",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117,
+        85804009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3elcmGznsjLCjgOE24zYKu_41.867460_-83.451047@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774549,
+    "wof:geomhash":"63a651f31ebe21a4e45db0be5df10783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":689545621
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":689545621
+        }
+    ],
+    "wof:id":689545621,
+    "wof:lastmodified":1461774549,
+    "wof:name":"Lasalle Twp Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -83.451047,
+    41.86746,
+    -83.451047,
+    41.86746
+],
+  "geometry": {"coordinates":[-83.451047,41.86746],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706173053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.399676,44.275515,-85.399676,44.275515",
+    "geom:latitude":44.275515,
+    "geom:longitude":-85.399676,
+    "iso:country":"US",
+    "sg:address":"607 Norton Ave",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 1022",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pTnu0kZKJusxA3c45x1QK_44.275515_-85.399676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797496,
+    "wof:geomhash":"1ee7bb894d9c09914229269dc516caf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706173053
+        }
+    ],
+    "wof:id":706173053,
+    "wof:lastmodified":1461797496,
+    "wof:name":"C & G Radiator Svc Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -85.399676,
+    44.275515,
+    -85.399676,
+    44.275515
+],
+  "geometry": {"coordinates":[-85.399676,44.275515],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 689645993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.337088,42.583952,-83.337088,42.583952",
+    "geom:latitude":42.583952,
+    "geom:longitude":-83.337088,
+    "iso:country":"US",
+    "sg:address":"3978 Anglia Ct",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 851 7349",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L1GJvoJZl2yjuvSzwTJk7_42.583952_-83.337088@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777761,
+    "wof:geomhash":"42c67e300f39b73dc07bb95c25fc0f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689645993
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689645993
+        }
+    ],
+    "wof:id":689645993,
+    "wof:lastmodified":1461777761,
+    "wof:name":"Safety Kleen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste"
+    ]
+},
+  "bbox": [
+    -83.337088,
+    42.583952,
+    -83.337088,
+    42.583952
+],
+  "geometry": {"coordinates":[-83.33708799999999,42.583952],"type":"Point"}
+}

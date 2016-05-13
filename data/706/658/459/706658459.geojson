@@ -1,0 +1,77 @@
+{
+  "id": 706658459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.020897,42.359901,-83.020897,42.359901",
+    "geom:latitude":42.359901,
+    "geom:longitude":-83.020897,
+    "iso:country":"US",
+    "sg:address":"3475 Mount Elliott St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 267 9897",
+    "sg:postcode":"48207",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870547,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iqvWVB7EH8OZLsxHeJNaB_42.359754_-83.020757@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808362,
+    "wof:geomhash":"049a7b0140defb42cf8673e7750d0b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870547,
+            "region_id":85688599,
+            "venue_id":706658459
+        }
+    ],
+    "wof:id":706658459,
+    "wof:lastmodified":1461808362,
+    "wof:name":"Singleton Cleaners",
+    "wof:parent_id":85870547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -83.020897,
+    42.359901,
+    -83.020897,
+    42.359901
+],
+  "geometry": {"coordinates":[-83.02089700000001,42.359901],"type":"Point"}
+}

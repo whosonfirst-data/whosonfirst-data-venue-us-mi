@@ -1,0 +1,74 @@
+{
+  "id": 706686649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689048,43.021428,-85.689048,43.021428",
+    "geom:latitude":43.021428,
+    "geom:longitude":-85.689048,
+    "iso:country":"US",
+    "sg:address":"3153 Alpine Ave NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/walker/50850-logans-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 647 4007",
+    "sg:postcode":"49544",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dGGpg7ooHFCLkxt1H6NZM_43.021428_-85.689048@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809543,
+    "wof:geomhash":"f02f4a93e28933ce4dff837cb876cb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706686649
+        }
+    ],
+    "wof:id":706686649,
+    "wof:lastmodified":1461809543,
+    "wof:name":"Logan's Roadhouse",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -85.689048,
+    43.021428,
+    -85.689048,
+    43.021428
+],
+  "geometry": {"coordinates":[-85.689048,43.021428],"type":"Point"}
+}

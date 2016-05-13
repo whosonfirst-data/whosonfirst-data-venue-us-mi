@@ -1,0 +1,73 @@
+{
+  "id": 706628139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.748621,43.358603,-85.748621,43.358603",
+    "geom:latitude":43.358603,
+    "geom:longitude":-85.748621,
+    "iso:country":"US",
+    "sg:address":"2091 E 108th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 7932",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HAJ69eqI65Fn2vH15ZAqG_43.358603_-85.748621@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807314,
+    "wof:geomhash":"34af3f6ffe48a32f85439d5bb39aa49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706628139
+        }
+    ],
+    "wof:id":706628139,
+    "wof:lastmodified":1461807314,
+    "wof:name":"WERT Electric",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.748621,
+    43.358603,
+    -85.748621,
+    43.358603
+],
+  "geometry": {"coordinates":[-85.748621,43.358603],"type":"Point"}
+}

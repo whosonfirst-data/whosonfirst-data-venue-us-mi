@@ -1,0 +1,73 @@
+{
+  "id": 706096131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.554984,42.385134,-85.554984,42.385134",
+    "geom:latitude":42.385134,
+    "geom:longitude":-85.554984,
+    "iso:country":"US",
+    "sg:address":"8618 N Riverview Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 2239",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f4vGhOJ5YeNo4rEn5PFFE_42.385134_-85.554984@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795698,
+    "wof:geomhash":"66d4fa71a4f1cd8924ada12b2e9b0d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":706096131
+        }
+    ],
+    "wof:id":706096131,
+    "wof:lastmodified":1461795698,
+    "wof:name":"M&A Trucking",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.554984,
+    42.385134,
+    -85.554984,
+    42.385134
+],
+  "geometry": {"coordinates":[-85.554984,42.385134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689735321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.334934,42.639689,-83.334934,42.639689",
+    "geom:latitude":42.639689,
+    "geom:longitude":-83.334934,
+    "iso:country":"US",
+    "sg:address":"2425 Elizabeth Lake Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 683 2151",
+    "sg:postcode":"48328",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896749,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aQklPogAfg8lVv4aOVGLB_42.639689_-83.334934@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780081,
+    "wof:geomhash":"c9c0630f0e02e2396ed48861ce3ad2a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896749,
+            "region_id":85688599,
+            "venue_id":689735321
+        }
+    ],
+    "wof:id":689735321,
+    "wof:lastmodified":1461780081,
+    "wof:name":"Arrowhead Mall Apartments",
+    "wof:parent_id":85896749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.334934,
+    42.639689,
+    -83.334934,
+    42.639689
+],
+  "geometry": {"coordinates":[-83.334934,42.639689],"type":"Point"}
+}

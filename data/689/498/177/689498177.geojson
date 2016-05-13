@@ -1,0 +1,71 @@
+{
+  "id": 689498177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.314759,43.406804,-86.314759,43.406804",
+    "geom:latitude":43.406804,
+    "geom:longitude":-86.314759,
+    "iso:country":"US",
+    "sg:address":"8127 Whitehall Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 5766",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18V8WLp85TcULBKyzbkxPz_43.406804_-86.314759@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773044,
+    "wof:geomhash":"eac380146d83887307e2791cdd9b6e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689498177
+        }
+    ],
+    "wof:id":689498177,
+    "wof:lastmodified":1461773044,
+    "wof:name":"Carrs Service Center",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.314759,
+    43.406804,
+    -86.314759,
+    43.406804
+],
+  "geometry": {"coordinates":[-86.314759,43.406804],"type":"Point"}
+}

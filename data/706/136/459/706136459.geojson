@@ -1,0 +1,71 @@
+{
+  "id": 706136459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.105559,42.594337,-86.105559,42.594337",
+    "geom:latitude":42.594337,
+    "geom:longitude":-86.105559,
+    "iso:country":"US",
+    "sg:address":"120 W Main St",
+    "sg:city":"Fennville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 561 4681",
+    "sg:postcode":"49408",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f8x0e1jfwvcuRGxNGM0lp_42.594337_-86.105559@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796679,
+    "wof:geomhash":"f9f4c43794e0d06cea4ccfe0cb404a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706136459
+        }
+    ],
+    "wof:id":706136459,
+    "wof:lastmodified":1461796679,
+    "wof:name":"John's Auto Svc",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.105559,
+    42.594337,
+    -86.105559,
+    42.594337
+],
+  "geometry": {"coordinates":[-86.105559,42.594337],"type":"Point"}
+}

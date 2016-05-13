@@ -1,0 +1,71 @@
+{
+  "id": 689788537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.424898,46.545809,-87.424898,46.545809",
+    "geom:latitude":46.545809,
+    "geom:longitude":-87.424898,
+    "iso:country":"US",
+    "sg:address":"1475 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7266",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZumX9I94gsgapAsymJfY8_46.545809_-87.424898@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781476,
+    "wof:geomhash":"c7959357221d8b09fd13857e0258897f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689788537
+        }
+    ],
+    "wof:id":689788537,
+    "wof:lastmodified":1461781476,
+    "wof:name":"Taystee Bakery",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -87.424898,
+    46.545809,
+    -87.424898,
+    46.545809
+],
+  "geometry": {"coordinates":[-87.424898,46.545809],"type":"Point"}
+}

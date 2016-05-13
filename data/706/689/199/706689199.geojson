@@ -1,0 +1,85 @@
+{
+  "id": 706689199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.720121,42.971478,-85.720121,42.971478",
+    "geom:latitude":42.971478,
+    "geom:longitude":-85.720121,
+    "iso:country":"US",
+    "sg:address":"2058 Lake Michigan Dr NW",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/59899-big-apple-bagels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 735 2390",
+    "sg:postcode":"49504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877925,
+        102191575,
+        404507947,
+        85633793,
+        85951365,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qP8zo2sX5IhXXHw6dNw7E_42.971407_-85.720276@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809640,
+    "wof:geomhash":"9251f8a59925f09ea11e19554b74fd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951365,
+            "neighbourhood_id":85877925,
+            "region_id":85688599,
+            "venue_id":706689199
+        }
+    ],
+    "wof:id":706689199,
+    "wof:lastmodified":1461809640,
+    "wof:name":"Big Apple Bagels",
+    "wof:parent_id":85877925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.720121,
+    42.971478,
+    -85.720121,
+    42.971478
+],
+  "geometry": {"coordinates":[-85.72012100000001,42.971478],"type":"Point"}
+}

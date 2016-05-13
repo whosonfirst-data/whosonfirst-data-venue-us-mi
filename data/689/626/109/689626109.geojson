@@ -1,0 +1,73 @@
+{
+  "id": 689626109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685979,42.295673,-85.685979,42.295673",
+    "geom:latitude":42.295673,
+    "geom:longitude":-85.685979,
+    "iso:country":"US",
+    "sg:address":"6831 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 375 6200",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sfi2K2GjQsk27p4RZSjaR_42.295673_-85.685979@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777064,
+    "wof:geomhash":"dcd8c41b26ecbb399b00cc929f8c8f8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":689626109
+        }
+    ],
+    "wof:id":689626109,
+    "wof:lastmodified":1461777064,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.685979,
+    42.295673,
+    -85.685979,
+    42.295673
+],
+  "geometry": {"coordinates":[-85.685979,42.295673],"type":"Point"}
+}

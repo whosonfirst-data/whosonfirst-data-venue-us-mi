@@ -1,0 +1,73 @@
+{
+  "id": 706553299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.047597,45.808237,-88.047597,45.808237",
+    "geom:latitude":45.808237,
+    "geom:longitude":-88.047597,
+    "iso:country":"US",
+    "sg:address":"1800 S Stephenson Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 4525",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O7NffEYk0lTaD2fl8Dg4G_45.808237_-88.047597@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805724,
+    "wof:geomhash":"50b451a0db0b8f14c9bf15a231dfe663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706553299
+        }
+    ],
+    "wof:id":706553299,
+    "wof:lastmodified":1461805724,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.047597,
+    45.808237,
+    -88.047597,
+    45.808237
+],
+  "geometry": {"coordinates":[-88.047597,45.808237],"type":"Point"}
+}

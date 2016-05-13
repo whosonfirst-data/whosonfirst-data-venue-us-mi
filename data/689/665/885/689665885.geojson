@@ -1,0 +1,73 @@
+{
+  "id": 689665885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.295211,43.409637,-86.295211,43.409637",
+    "geom:latitude":43.409637,
+    "geom:longitude":-86.295211,
+    "iso:country":"US",
+    "sg:address":"2100 Holton Whitehall Rd",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 893 2405",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rbXmqqWW5oh7r0kr0hJHp_43.409637_-86.295211@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778278,
+    "wof:geomhash":"7f2ae1f62989418c5dd30f595a2b7827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689665885
+        }
+    ],
+    "wof:id":689665885,
+    "wof:lastmodified":1461778278,
+    "wof:name":"White Lake Area Solid Waste",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.295211,
+    43.409637,
+    -86.295211,
+    43.409637
+],
+  "geometry": {"coordinates":[-86.29521099999999,43.409637],"type":"Point"}
+}

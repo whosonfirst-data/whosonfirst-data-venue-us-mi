@@ -1,0 +1,71 @@
+{
+  "id": 689603923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.726084,43.006826,-83.726084,43.006826",
+    "geom:latitude":43.006826,
+    "geom:longitude":-83.726084,
+    "iso:country":"US",
+    "sg:address":"2809 W Court St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 232 7645",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mbKyLy2ZObwEepv0SboM5_43.006826_-83.726084@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776372,
+    "wof:geomhash":"6c753552a5f9c76e25df33540e953431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689603923
+        }
+    ],
+    "wof:id":689603923,
+    "wof:lastmodified":1461776372,
+    "wof:name":"Cheers Market",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.726084,
+    43.006826,
+    -83.726084,
+    43.006826
+],
+  "geometry": {"coordinates":[-83.726084,43.006826],"type":"Point"}
+}

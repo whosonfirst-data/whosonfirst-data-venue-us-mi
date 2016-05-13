@@ -1,0 +1,91 @@
+{
+  "id": 706247391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624148,42.95835,-85.624148,42.95835",
+    "geom:latitude":42.95835,
+    "geom:longitude":-85.624148,
+    "iso:country":"US",
+    "sg:address":"1607 Robinson Rd SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 732 4474",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "sg:website":"www.aquinas.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877885,
+        404507947,
+        85951337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72RAflxEXGF3yJ2UF52iAf_42.958350_-85.624148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799134,
+    "wof:geomhash":"9ea5ecd17b3fbd9bf06b114da9d147f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706247391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877885,
+            "region_id":85688599,
+            "venue_id":706247391
+        }
+    ],
+    "wof:id":706247391,
+    "wof:lastmodified":1461799134,
+    "wof:name":"Campus Safety Emergency Calls",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -85.624148,
+    42.95835,
+    -85.624148,
+    42.95835
+],
+  "geometry": {"coordinates":[-85.62414800000001,42.95835],"type":"Point"}
+}

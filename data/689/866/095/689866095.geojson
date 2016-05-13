@@ -1,0 +1,71 @@
+{
+  "id": 689866095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.462052,42.392333,-83.462052,42.392333",
+    "geom:latitude":42.392333,
+    "geom:longitude":-83.462052,
+    "iso:country":"US",
+    "sg:address":"42803 Schoolcraft Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 374 2670",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ktTUgqzKeHTz4r3BDXgVV_42.392333_-83.462052@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783680,
+    "wof:geomhash":"fddf6f8bf9b09e2985d4e6050abb6003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":689866095
+        }
+    ],
+    "wof:id":689866095,
+    "wof:lastmodified":1461783680,
+    "wof:name":"Biting Edge Dental Studio",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.462052,
+    42.392333,
+    -83.462052,
+    42.392333
+],
+  "geometry": {"coordinates":[-83.462052,42.392333],"type":"Point"}
+}

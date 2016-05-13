@@ -1,0 +1,73 @@
+{
+  "id": 706438513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.745131,43.046072,-83.745131,43.046072",
+    "geom:latitude":43.046072,
+    "geom:longitude":-83.745131,
+    "iso:country":"US",
+    "sg:address":"3245 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 8520",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vwwq1YwEiSeX9gFj0p2D8_43.046072_-83.745131@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803166,
+    "wof:geomhash":"fb031f94c4dea149fda82bda73adeeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706438513
+        }
+    ],
+    "wof:id":706438513,
+    "wof:lastmodified":1461803166,
+    "wof:name":"Westside Bump Shop",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.745131,
+    43.046072,
+    -83.745131,
+    43.046072
+],
+  "geometry": {"coordinates":[-83.745131,43.046072],"type":"Point"}
+}

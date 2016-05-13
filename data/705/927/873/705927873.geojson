@@ -1,0 +1,73 @@
+{
+  "id": 705927873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.7283,43.002568,-83.7283,43.002568",
+    "geom:latitude":43.002568,
+    "geom:longitude":-83.7283,
+    "iso:country":"US",
+    "sg:address":"3008 Corunna Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 238 3639",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jHn2G0iq2kP3T1ZiVmCit_43.002568_-83.728300@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792013,
+    "wof:geomhash":"81d935b7aac82c6e312bf6dd98d69370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705927873
+        }
+    ],
+    "wof:id":705927873,
+    "wof:lastmodified":1461792013,
+    "wof:name":"Flint Dental Lab",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.7283,
+    43.002568,
+    -83.7283,
+    43.002568
+],
+  "geometry": {"coordinates":[-83.7283,43.002568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689585021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.745,42.754044,-84.745,42.754044",
+    "geom:latitude":42.754044,
+    "geom:longitude":-84.745,
+    "iso:country":"US",
+    "sg:address":"121 S Bridge St",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 2383",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6URWuf6rdcENq8opOnpSE9_42.754044_-84.745000@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775770,
+    "wof:geomhash":"cde88ab83daf7e852cd4420558f13c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":689585021
+        }
+    ],
+    "wof:id":689585021,
+    "wof:lastmodified":1461775770,
+    "wof:name":"Chamber of Commerce",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -84.745,
+    42.754044,
+    -84.745,
+    42.754044
+],
+  "geometry": {"coordinates":[-84.745,42.754044],"type":"Point"}
+}

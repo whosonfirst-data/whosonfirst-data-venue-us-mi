@@ -1,0 +1,102 @@
+{
+  "id": 722479165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0709,42.366798,-83.0709,42.366798",
+    "geom:latitude":42.366798,
+    "geom:longitude":-83.0709,
+    "iso:country":"US",
+    "sg:address":"6250 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 875 0500",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "used",
+        "new",
+        "car"
+    ],
+    "sg:website":"www.chevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870607,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T7y5j2s0GSdRMycOoT6Ga_42.366798_-83.070900@1303262789"
+    },
+    "wof:country":"US",
+    "wof:created":1461812252,
+    "wof:geomhash":"d8c052ae9d149cb7b8b2cbfca4e804c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":722479165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870607,
+            "region_id":85688599,
+            "venue_id":722479165
+        }
+    ],
+    "wof:id":722479165,
+    "wof:lastmodified":1461812252,
+    "wof:name":"James-Martin Chevrolet Buick Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "used",
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.0709,
+    42.366798,
+    -83.0709,
+    42.366798
+],
+  "geometry": {"coordinates":[-83.07089999999999,42.366798],"type":"Point"}
+}

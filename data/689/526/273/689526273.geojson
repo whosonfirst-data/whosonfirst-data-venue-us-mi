@@ -1,0 +1,71 @@
+{
+  "id": 689526273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.321646,43.217579,-86.321646,43.217579",
+    "geom:latitude":43.217579,
+    "geom:longitude":-86.321646,
+    "iso:country":"US",
+    "sg:address":"3200 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3381",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kYDjrN9mB7oWAiEsLixtw_43.217579_-86.321646@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773974,
+    "wof:geomhash":"8a76cccff83d8e41056f02e47b83d45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689526273
+        }
+    ],
+    "wof:id":689526273,
+    "wof:lastmodified":1461773974,
+    "wof:name":"Beach Party Store",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.321646,
+    43.217579,
+    -86.321646,
+    43.217579
+],
+  "geometry": {"coordinates":[-86.321646,43.217579],"type":"Point"}
+}

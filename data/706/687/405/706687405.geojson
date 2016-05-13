@@ -1,0 +1,82 @@
+{
+  "id": 706687405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.595908,47.112501,-88.595908,47.112501",
+    "geom:latitude":47.112501,
+    "geom:longitude":-88.595908,
+    "iso:country":"US",
+    "sg:address":"1001 W Sharon Ave",
+    "sg:city":"Houghton",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/houghton/102287-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 482 7906",
+    "sg:postcode":"49931",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951253,
+        102083087,
+        85826653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aPma6xa8I9f8kkcMitdpo_47.112501_-88.595908@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809571,
+    "wof:geomhash":"8a3166db0f8bd41cc3471d9eb6737345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083087,
+            "locality_id":85951253,
+            "neighbourhood_id":85826653,
+            "region_id":85688599,
+            "venue_id":706687405
+        }
+    ],
+    "wof:id":706687405,
+    "wof:lastmodified":1461809571,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85826653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -88.595908,
+    47.112501,
+    -88.595908,
+    47.112501
+],
+  "geometry": {"coordinates":[-88.59590799999999,47.112501],"type":"Point"}
+}

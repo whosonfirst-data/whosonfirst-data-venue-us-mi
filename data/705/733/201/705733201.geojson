@@ -1,0 +1,69 @@
+{
+  "id": 705733201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.928637,43.021503,-82.928637,43.021503",
+    "geom:latitude":43.021503,
+    "geom:longitude":-82.928637,
+    "iso:country":"US",
+    "sg:address":"4309 Capac Rd",
+    "sg:city":"Mussey",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 395 2100",
+    "sg:postcode":"48014",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oyoMWxaUGswKnjgGHCEl4_43.021503_-82.928637@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787488,
+    "wof:geomhash":"a71f8db5e09831c04f9112e64cf867a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":705733201
+        }
+    ],
+    "wof:id":705733201,
+    "wof:lastmodified":1461787488,
+    "wof:name":"Thomas J Horgan DDS",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.928637,
+    43.021503,
+    -82.928637,
+    43.021503
+],
+  "geometry": {"coordinates":[-82.92863699999999,43.021503],"type":"Point"}
+}

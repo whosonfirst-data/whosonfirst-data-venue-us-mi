@@ -1,0 +1,90 @@
+{
+  "id": 722519337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.511868,42.511362,-83.511868,42.511362",
+    "geom:latitude":42.511362,
+    "geom:longitude":-83.511868,
+    "iso:country":"US",
+    "sg:address":"46590 Ryan Ct",
+    "sg:city":"Novi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 669 3100",
+    "sg:postcode":"48377",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratories-metallurgical",
+        "apparatus",
+        "calibration"
+    ],
+    "sg:website":"http://www.sunteccorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858475,
+        102191575,
+        404508183,
+        85633793,
+        85952053,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gmWJQ6qMeo2Z7eZJ4jYH4_42.511362_-83.511868@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813890,
+    "wof:geomhash":"5ff12f22be01ef9d6b18be55f5866d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508183,
+            "locality_id":85952053,
+            "neighbourhood_id":85858475,
+            "region_id":85688599,
+            "venue_id":722519337
+        }
+    ],
+    "wof:id":722519337,
+    "wof:lastmodified":1461813890,
+    "wof:name":"Sun-Tec Corp",
+    "wof:parent_id":85858475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-metallurgical",
+        "apparatus",
+        "calibration"
+    ]
+},
+  "bbox": [
+    -83.511868,
+    42.511362,
+    -83.511868,
+    42.511362
+],
+  "geometry": {"coordinates":[-83.51186800000001,42.511362],"type":"Point"}
+}

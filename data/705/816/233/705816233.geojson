@@ -1,0 +1,69 @@
+{
+  "id": 705816233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.494728,42.079968,-86.494728,42.079968",
+    "geom:latitude":42.079968,
+    "geom:longitude":-86.494728,
+    "iso:country":"US",
+    "sg:address":"1625 Hilltop Rd",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 254 4551",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dDQbe2DAPzPmUMStsLNnc_42.079968_-86.494728@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789392,
+    "wof:geomhash":"9ccdd2a734498c44ee60f3fb4b3da32f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":705816233
+        }
+    ],
+    "wof:id":705816233,
+    "wof:lastmodified":1461789392,
+    "wof:name":"Bob's Appliance Repair",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -86.494728,
+    42.079968,
+    -86.494728,
+    42.079968
+],
+  "geometry": {"coordinates":[-86.49472799999999,42.079968],"type":"Point"}
+}

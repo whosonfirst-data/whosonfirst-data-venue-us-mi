@@ -1,0 +1,84 @@
+{
+  "id": 689621325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445032,43.955603,-86.445032,43.955603",
+    "geom:latitude":43.955603,
+    "geom:longitude":-86.445032,
+    "iso:country":"US",
+    "sg:address":"201 W Ludington Ave",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 845 5206",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WwnEpFsp0uf6VQyPNTsjh_43.955603_-86.445032@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776934,
+    "wof:geomhash":"7419305f8fbc0187ea4281c34937696f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":689621325
+        }
+    ],
+    "wof:id":689621325,
+    "wof:lastmodified":1461776934,
+    "wof:name":"Acker's Car Care",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.445032,
+    43.955603,
+    -86.445032,
+    43.955603
+],
+  "geometry": {"coordinates":[-86.445032,43.955603],"type":"Point"}
+}

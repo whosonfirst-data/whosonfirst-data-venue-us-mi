@@ -1,0 +1,75 @@
+{
+  "id": 706318741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.829433,42.565958,-84.829433,42.565958",
+    "geom:latitude":42.565958,
+    "geom:longitude":-84.829433,
+    "iso:country":"US",
+    "sg:address":"122 Lansing St",
+    "sg:city":"Charlotte",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 543 4100",
+    "sg:postcode":"48813",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857331,
+        102191575,
+        404507335,
+        85633793,
+        85951429,
+        102083005,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BMJ1dENfA5MDYhWAYBbE3_42.565958_-84.829433@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800696,
+    "wof:geomhash":"853998dc5af730e9c98d0185819c0f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083005,
+            "localadmin_id":404507335,
+            "locality_id":85951429,
+            "neighbourhood_id":85857331,
+            "region_id":85688599,
+            "venue_id":706318741
+        }
+    ],
+    "wof:id":706318741,
+    "wof:lastmodified":1461800696,
+    "wof:name":"Charlotte Veterinary Hospital",
+    "wof:parent_id":85857331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.829433,
+    42.565958,
+    -84.829433,
+    42.565958
+],
+  "geometry": {"coordinates":[-84.82943299999999,42.565958],"type":"Point"}
+}

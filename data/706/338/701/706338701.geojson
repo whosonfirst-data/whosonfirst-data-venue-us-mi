@@ -1,0 +1,73 @@
+{
+  "id": 706338701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518624,42.147211,-84.518624,42.147211",
+    "geom:latitude":42.147211,
+    "geom:longitude":-84.518624,
+    "iso:country":"US",
+    "sg:address":"210 Moscow Rd",
+    "sg:city":"Horton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 563 2069",
+    "sg:postcode":"49246",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WCaZbHDJLWq685HDMf8Sp_42.147211_-84.518624@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801172,
+    "wof:geomhash":"ace72bb3e5df02ab1f59d2893c38eb3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706338701
+        }
+    ],
+    "wof:id":706338701,
+    "wof:lastmodified":1461801172,
+    "wof:name":"Pampered Pets",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.518624,
+    42.147211,
+    -84.518624,
+    42.147211
+],
+  "geometry": {"coordinates":[-84.518624,42.147211],"type":"Point"}
+}

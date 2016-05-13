@@ -1,0 +1,71 @@
+{
+  "id": 706131303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542976,42.667479,-84.542976,42.667479",
+    "geom:latitude":42.667479,
+    "geom:longitude":-84.542976,
+    "iso:country":"US",
+    "sg:address":"6250 S Cedar St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 5602",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FLqsY0jYzkQx26FVWWciS_42.667479_-84.542976@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796550,
+    "wof:geomhash":"5ab771029f7b3a358c6b601fad58cb94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706131303
+        }
+    ],
+    "wof:id":706131303,
+    "wof:lastmodified":1461796550,
+    "wof:name":"Dollar Items",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.542976,
+    42.667479,
+    -84.542976,
+    42.667479
+],
+  "geometry": {"coordinates":[-84.542976,42.667479],"type":"Point"}
+}

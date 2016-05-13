@@ -1,0 +1,69 @@
+{
+  "id": 689603129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.928464,43.014153,-82.928464,43.014153",
+    "geom:latitude":43.014153,
+    "geom:longitude":-82.928464,
+    "iso:country":"US",
+    "sg:address":"103 E Church St",
+    "sg:city":"Capac",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 395 7900",
+    "sg:postcode":"48014",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TTUAmteX3wIpBP2vDXGEu_43.014153_-82.928464@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776349,
+    "wof:geomhash":"5b48b2812bd4f1b950675fad958899b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689603129
+        }
+    ],
+    "wof:id":689603129,
+    "wof:lastmodified":1461776349,
+    "wof:name":"Tri-HOSPITAL Ems",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -82.928464,
+    43.014153,
+    -82.928464,
+    43.014153
+],
+  "geometry": {"coordinates":[-82.92846400000001,43.014153],"type":"Point"}
+}

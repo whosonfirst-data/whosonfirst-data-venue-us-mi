@@ -1,0 +1,71 @@
+{
+  "id": 689847207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907446,45.790532,-87.907446,45.790532",
+    "geom:latitude":45.790532,
+    "geom:longitude":-87.907446,
+    "iso:country":"US",
+    "sg:address":"1014 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 7088",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N8n9UVIQ3hmd73f9vAk80_45.790532_-87.907446@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783254,
+    "wof:geomhash":"029702bce070495021d5ad6f4b3eaabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689847207
+        }
+    ],
+    "wof:id":689847207,
+    "wof:lastmodified":1461783254,
+    "wof:name":"Norway Voting Precinct",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -87.907446,
+    45.790532,
+    -87.907446,
+    45.790532
+],
+  "geometry": {"coordinates":[-87.90744599999999,45.790532],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706209393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.667608,42.984142,-85.667608,42.984142",
+    "geom:latitude":42.984142,
+    "geom:longitude":-85.667608,
+    "iso:country":"US",
+    "sg:address":"1100 Plainfield Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 776 7272",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877863,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b78sCPcGXfSncFKHQSY15_42.984142_-85.667608@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798269,
+    "wof:geomhash":"8eca2f1cf4d98fa648eee80b041cd114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877863,
+            "region_id":85688599,
+            "venue_id":706209393
+        }
+    ],
+    "wof:id":706209393,
+    "wof:lastmodified":1461798269,
+    "wof:name":"American Taxi Cab Co",
+    "wof:parent_id":85877863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.667608,
+    42.984142,
+    -85.667608,
+    42.984142
+],
+  "geometry": {"coordinates":[-85.667608,42.984142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706032683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65185,43.439338,-85.65185,43.439338",
+    "geom:latitude":43.439338,
+    "geom:longitude":-85.65185,
+    "iso:country":"US",
+    "sg:address":"5977 Division St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 3646",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53TzYcAvGNLthVEAXg5kil_43.439338_-85.651850@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794263,
+    "wof:geomhash":"9629e7b86403afa6c9da018ff3fd01ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706032683
+        }
+    ],
+    "wof:id":706032683,
+    "wof:lastmodified":1461794263,
+    "wof:name":"Mighty Tidy Cleaning Serv",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.65185,
+    43.439338,
+    -85.65185,
+    43.439338
+],
+  "geometry": {"coordinates":[-85.65185,43.439338],"type":"Point"}
+}

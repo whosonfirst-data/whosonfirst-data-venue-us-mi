@@ -1,0 +1,72 @@
+{
+  "id": 706684803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.248055,41.812563,-86.248055,41.812563",
+    "geom:latitude":41.812563,
+    "geom:longitude":-86.248055,
+    "iso:country":"US",
+    "sg:address":"1295 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/176524-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 683 1530",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pJPiHdA086zNL70jOLseV_41.812563_-86.248055@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809477,
+    "wof:geomhash":"c73fdb3974456b9a272b582f98d9f802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706684803
+        }
+    ],
+    "wof:id":706684803,
+    "wof:lastmodified":1461809477,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.248055,
+    41.812563,
+    -86.248055,
+    41.812563
+],
+  "geometry": {"coordinates":[-86.24805499999999,41.812563],"type":"Point"}
+}

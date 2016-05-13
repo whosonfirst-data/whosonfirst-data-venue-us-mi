@@ -1,0 +1,88 @@
+{
+  "id": 706334135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602999,42.680932,-84.602999,42.680932",
+    "geom:latitude":42.680932,
+    "geom:longitude":-84.602999,
+    "iso:country":"US",
+    "sg:address":"5131 S Waverly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 882 4060",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878667,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599,
+        85840163,
+        102083005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SOwq2U9Xw7cvEc1ERPlw7_42.680932_-84.602999@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801077,
+    "wof:geomhash":"fc5cc808de2624b356a64181fd9f9985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878667,
+            "region_id":85688599,
+            "venue_id":706334135
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "neighbourhood_id":85840163,
+            "region_id":85688599,
+            "venue_id":706334135
+        }
+    ],
+    "wof:id":706334135,
+    "wof:lastmodified":1461801077,
+    "wof:name":"Prestige Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "repair"
+    ]
+},
+  "bbox": [
+    -84.602999,
+    42.680932,
+    -84.602999,
+    42.680932
+],
+  "geometry": {"coordinates":[-84.602999,42.680932],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706685863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.21137,43.234113,-86.21137,43.234113",
+    "geom:latitude":43.234113,
+    "geom:longitude":-86.21137,
+    "iso:country":"US",
+    "sg:address":"1332 E Apple Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/muskegon/45012-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 777 3966",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12G8Ttp2b32u9793irY9xu_43.234113_-86.211370@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809515,
+    "wof:geomhash":"ba73600f561ae900f3da14c82cc856dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685863
+        }
+    ],
+    "wof:id":706685863,
+    "wof:lastmodified":1461809515,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.21137,
+    43.234113,
+    -86.21137,
+    43.234113
+],
+  "geometry": {"coordinates":[-86.21137,43.234113],"type":"Point"}
+}

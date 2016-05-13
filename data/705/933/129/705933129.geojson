@@ -1,0 +1,71 @@
+{
+  "id": 705933129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.384658,41.914605,-83.384658,41.914605",
+    "geom:latitude":41.914605,
+    "geom:longitude":-83.384658,
+    "iso:country":"US",
+    "sg:address":"1010 E Elm Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 5465",
+    "sg:postcode":"48162",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S3J3o8NV5LSlxqpJmFb67_41.914605_-83.384658@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792132,
+    "wof:geomhash":"bf1904edd527f37ff4e1b8abdd6595d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705933129
+        }
+    ],
+    "wof:id":705933129,
+    "wof:lastmodified":1461792132,
+    "wof:name":"Massingo's Car Wash",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.384658,
+    41.914605,
+    -83.384658,
+    41.914605
+],
+  "geometry": {"coordinates":[-83.384658,41.914605],"type":"Point"}
+}

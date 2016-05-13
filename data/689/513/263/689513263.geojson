@@ -1,0 +1,73 @@
+{
+  "id": 689513263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740579,43.020188,-83.740579,43.020188",
+    "geom:latitude":43.020188,
+    "geom:longitude":-83.740579,
+    "iso:country":"US",
+    "sg:address":"3800 River Valley Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 2480",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hjwqTRxaJhGL5YTaOyNSH_43.020188_-83.740579@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773509,
+    "wof:geomhash":"c3bee88a2fd0b52898d453be066d24b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689513263
+        }
+    ],
+    "wof:id":689513263,
+    "wof:lastmodified":1461773509,
+    "wof:name":"River Valley Manor",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.740579,
+    43.020188,
+    -83.740579,
+    43.020188
+],
+  "geometry": {"coordinates":[-83.740579,43.020188],"type":"Point"}
+}

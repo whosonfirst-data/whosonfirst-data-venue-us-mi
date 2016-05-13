@@ -1,0 +1,71 @@
+{
+  "id": 705845953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.244633,43.205048,-86.244633,43.205048",
+    "geom:latitude":43.205048,
+    "geom:longitude":-86.244633,
+    "iso:country":"US",
+    "sg:address":"2501 Peck St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 8592",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aX5nnXg0PgSW2jaul0PLT_43.205048_-86.244633@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790086,
+    "wof:geomhash":"c0ca542663750dcd543a1e88582a3afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705845953
+        }
+    ],
+    "wof:id":705845953,
+    "wof:lastmodified":1461790086,
+    "wof:name":"Bills Transmission Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.244633,
+    43.205048,
+    -86.244633,
+    43.205048
+],
+  "geometry": {"coordinates":[-86.24463299999999,43.205048],"type":"Point"}
+}

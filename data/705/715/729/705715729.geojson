@@ -1,0 +1,71 @@
+{
+  "id": 705715729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.745431,43.060853,-83.745431,43.060853",
+    "geom:latitude":43.060853,
+    "geom:longitude":-83.745431,
+    "iso:country":"US",
+    "sg:address":"3278 W Pierson Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 785 9029",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nczN9NnyrryhLFQpM8d9G_43.060853_-83.745431@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787058,
+    "wof:geomhash":"fa526b23b7c96265bb4296bda1220b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705715729
+        }
+    ],
+    "wof:id":705715729,
+    "wof:lastmodified":1461787058,
+    "wof:name":"Big Foot Towing",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.745431,
+    43.060853,
+    -83.745431,
+    43.060853
+],
+  "geometry": {"coordinates":[-83.745431,43.060853],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 706151271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.353093,42.574831,-83.353093,42.574831",
+    "geom:latitude":42.574831,
+    "geom:longitude":-83.353093,
+    "iso:country":"US",
+    "sg:address":"4333 Westover Ct",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 851 9515",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cnBugsu95KnU1GodjGabe_42.574831_-83.353093@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797009,
+    "wof:geomhash":"4177a398cffa351a9a9af3da2a6d544c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":706151271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":706151271
+        }
+    ],
+    "wof:id":706151271,
+    "wof:lastmodified":1461797009,
+    "wof:name":"Allan Blum Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste"
+    ]
+},
+  "bbox": [
+    -83.353093,
+    42.574831,
+    -83.353093,
+    42.574831
+],
+  "geometry": {"coordinates":[-83.353093,42.574831],"type":"Point"}
+}

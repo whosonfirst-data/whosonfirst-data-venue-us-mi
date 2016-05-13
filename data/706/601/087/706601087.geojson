@@ -1,0 +1,75 @@
+{
+  "id": 706601087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.883809,42.609733,-82.883809,42.609733",
+    "geom:latitude":42.609733,
+    "geom:longitude":-82.883809,
+    "iso:country":"US",
+    "sg:address":"215 Madison Ave",
+    "sg:city":"Mount Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 1279",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pump",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ax1ifRj20RUMfooULgbv_42.609733_-82.883809@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806751,
+    "wof:geomhash":"e23bd9b5ed5215afc53b21c6e01d1559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706601087
+        }
+    ],
+    "wof:id":706601087,
+    "wof:lastmodified":1461806751,
+    "wof:name":"Station Service & Equipment Co",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -82.883809,
+    42.609733,
+    -82.883809,
+    42.609733
+],
+  "geometry": {"coordinates":[-82.883809,42.609733],"type":"Point"}
+}

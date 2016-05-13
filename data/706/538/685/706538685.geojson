@@ -1,0 +1,71 @@
+{
+  "id": 706538685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.403066,44.251245,-85.403066,44.251245",
+    "geom:latitude":44.251245,
+    "geom:longitude":-85.403066,
+    "iso:country":"US",
+    "sg:address":"200 N Lake St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 3114",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oYEfkQpajhfdoekMAn8WR_44.251245_-85.403066@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805432,
+    "wof:geomhash":"e74fc128156697c8efbfba2547f87f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706538685
+        }
+    ],
+    "wof:id":706538685,
+    "wof:lastmodified":1461805432,
+    "wof:name":"Cadillac City Fire Dept",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.403066,
+    44.251245,
+    -85.403066,
+    44.251245
+],
+  "geometry": {"coordinates":[-85.403066,44.251245],"type":"Point"}
+}

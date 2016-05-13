@@ -1,0 +1,76 @@
+{
+  "id": 706739785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.258698,42.197701,-83.258698,42.197701",
+    "geom:latitude":42.197701,
+    "geom:longitude":-83.258698,
+    "iso:country":"US",
+    "sg:address":"23271 Eureka Rd",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 374 8106",
+    "sg:postcode":"48180",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet"
+    ],
+    "sg:website":"www.petsmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851871,
+        102191575,
+        404508661,
+        85633793,
+        85950973,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W6NqR1Cc1DhZrDvoHWUT4_42.197701_-83.258698@1303262786"
+    },
+    "wof:country":"US",
+    "wof:created":1461811800,
+    "wof:geomhash":"3e2c55ae3f078a038ff82e1feef70956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508661,
+            "locality_id":85950973,
+            "neighbourhood_id":85851871,
+            "region_id":85688599,
+            "venue_id":706739785
+        }
+    ],
+    "wof:id":706739785,
+    "wof:lastmodified":1461811800,
+    "wof:name":"Petsmart",
+    "wof:parent_id":85851871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -83.258698,
+    42.197701,
+    -83.258698,
+    42.197701
+],
+  "geometry": {"coordinates":[-83.258698,42.197701],"type":"Point"}
+}

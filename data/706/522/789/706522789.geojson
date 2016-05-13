@@ -1,0 +1,69 @@
+{
+  "id": 706522789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250628,41.775145,-86.250628,41.775145",
+    "geom:latitude":41.775145,
+    "geom:longitude":-86.250628,
+    "iso:country":"US",
+    "sg:address":"2543 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 3740",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iaaUbL6851f0fLfovpvnz_41.775145_-86.250628@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805092,
+    "wof:geomhash":"05e333eaf6bce5581138dff0f5287e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706522789
+        }
+    ],
+    "wof:id":706522789,
+    "wof:lastmodified":1461805092,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.250628,
+    41.775145,
+    -86.250628,
+    41.775145
+],
+  "geometry": {"coordinates":[-86.25062800000001,41.775145],"type":"Point"}
+}

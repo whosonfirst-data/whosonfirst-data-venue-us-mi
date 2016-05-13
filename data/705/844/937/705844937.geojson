@@ -1,0 +1,71 @@
+{
+  "id": 705844937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.426119,46.545858,-87.426119,46.545858",
+    "geom:latitude":46.545858,
+    "geom:longitude":-87.426119,
+    "iso:country":"US",
+    "sg:address":"1551 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 6866",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76PfL69umV8fxWfWVlFDRU_46.545858_-87.426119@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790068,
+    "wof:geomhash":"d543a4e21e00db717677c7fa2f6fb8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705844937
+        }
+    ],
+    "wof:id":705844937,
+    "wof:lastmodified":1461790068,
+    "wof:name":"Pit Stop Quick Lube",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -87.426119,
+    46.545858,
+    -87.426119,
+    46.545858
+],
+  "geometry": {"coordinates":[-87.426119,46.545858],"type":"Point"}
+}

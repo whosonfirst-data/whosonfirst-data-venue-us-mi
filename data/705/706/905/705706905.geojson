@@ -1,0 +1,69 @@
+{
+  "id": 705706905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.446582,42.608567,-83.446582,42.608567",
+    "geom:latitude":42.608567,
+    "geom:longitude":-83.446582,
+    "iso:country":"US",
+    "sg:address":"1863 Union Lake Rd",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 363 3000",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17f5J3pIlOsHEx5h9IDmSQ_42.608567_-83.446582@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786792,
+    "wof:geomhash":"4e361da1e5a7d4e675f6182e53ae0ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":705706905
+        }
+    ],
+    "wof:id":705706905,
+    "wof:lastmodified":1461786792,
+    "wof:name":"Union Lake Salon",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.446582,
+    42.608567,
+    -83.446582,
+    42.608567
+],
+  "geometry": {"coordinates":[-83.44658200000001,42.608567],"type":"Point"}
+}

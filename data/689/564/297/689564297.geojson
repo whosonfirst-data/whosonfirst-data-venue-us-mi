@@ -1,0 +1,71 @@
+{
+  "id": 689564297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.533835,42.212804,-85.533835,42.212804",
+    "geom:latitude":42.212804,
+    "geom:longitude":-85.533835,
+    "iso:country":"US",
+    "sg:address":"7250 Jamaica Ln",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 324 5725",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ql5nShMtlqUeGM1cPpXwI_42.212804_-85.533835@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775142,
+    "wof:geomhash":"69c21b036e451fd2ae155021bfd84659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":689564297
+        }
+    ],
+    "wof:id":689564297,
+    "wof:lastmodified":1461775142,
+    "wof:name":"Fresenius Medical Care",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.533835,
+    42.212804,
+    -85.533835,
+    42.212804
+],
+  "geometry": {"coordinates":[-85.533835,42.212804],"type":"Point"}
+}

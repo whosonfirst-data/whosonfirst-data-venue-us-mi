@@ -1,0 +1,73 @@
+{
+  "id": 689664145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.528576,41.85269,-83.528576,41.85269",
+    "geom:latitude":41.85269,
+    "geom:longitude":-83.528576,
+    "iso:country":"US",
+    "sg:address":"962 W Stein Rd",
+    "sg:city":"La Salle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 269 3269",
+    "sg:postcode":"48145",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804009,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I1glb0PCqNx4njbFKu9lB_41.852690_-83.528576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778235,
+    "wof:geomhash":"3dc49f9b624151c08a69bd0aeaa8dee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85804009,
+            "region_id":85688599,
+            "venue_id":689664145
+        }
+    ],
+    "wof:id":689664145,
+    "wof:lastmodified":1461778235,
+    "wof:name":"Ms Transport Inc",
+    "wof:parent_id":85804009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.528576,
+    41.85269,
+    -83.528576,
+    41.85269
+],
+  "geometry": {"coordinates":[-83.528576,41.85269],"type":"Point"}
+}

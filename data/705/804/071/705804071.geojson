@@ -1,0 +1,71 @@
+{
+  "id": 705804071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742713,43.017506,-83.742713,43.017506",
+    "geom:latitude":43.017506,
+    "geom:longitude":-83.742713,
+    "iso:country":"US",
+    "sg:address":"1190 River Valley Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 9147",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rBtQy4FHCqY7QtxsJ50dS_43.017506_-83.742713@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789110,
+    "wof:geomhash":"06edd631a6b9d3c4f282aacb3a8f9727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705804071
+        }
+    ],
+    "wof:id":705804071,
+    "wof:lastmodified":1461789110,
+    "wof:name":"Showcase Paint Works",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.742713,
+    43.017506,
+    -83.742713,
+    43.017506
+],
+  "geometry": {"coordinates":[-83.74271299999999,43.017506],"type":"Point"}
+}

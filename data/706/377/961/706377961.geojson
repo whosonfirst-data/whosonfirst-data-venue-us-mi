@@ -1,0 +1,71 @@
+{
+  "id": 706377961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.567556,42.261,-85.567556,42.261",
+    "geom:latitude":42.261,
+    "geom:longitude":-85.567556,
+    "iso:country":"US",
+    "sg:address":"3012 Lovers Ln",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 345 4992",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hardware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Ck4fR4jaM5h5YvMg78hK_42.261000_-85.567556@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801971,
+    "wof:geomhash":"3de8f5641903123b5fa5a5c203376be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706377961
+        }
+    ],
+    "wof:id":706377961,
+    "wof:lastmodified":1461801971,
+    "wof:name":"Meyers Sales & Service",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware"
+    ]
+},
+  "bbox": [
+    -85.567556,
+    42.261,
+    -85.567556,
+    42.261
+],
+  "geometry": {"coordinates":[-85.567556,42.261],"type":"Point"}
+}

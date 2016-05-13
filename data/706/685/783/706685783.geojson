@@ -1,0 +1,74 @@
+{
+  "id": 706685783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263502,43.188635,-86.263502,43.188635",
+    "geom:latitude":43.188635,
+    "geom:longitude":-86.263502,
+    "iso:country":"US",
+    "sg:address":"3436 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/196933-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 9242",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aHJ3lGcOTzjpXk7YgGH1x_43.188635_-86.263502@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809512,
+    "wof:geomhash":"f600b0de55ec84f3ee604832dede171f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685783
+        }
+    ],
+    "wof:id":706685783,
+    "wof:lastmodified":1461809512,
+    "wof:name":"Burger King",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.263502,
+    43.188635,
+    -86.263502,
+    43.188635
+],
+  "geometry": {"coordinates":[-86.263502,43.188635],"type":"Point"}
+}

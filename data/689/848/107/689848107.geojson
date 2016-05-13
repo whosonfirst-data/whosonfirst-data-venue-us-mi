@@ -1,0 +1,71 @@
+{
+  "id": 689848107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.741938,43.015576,-83.741938,43.015576",
+    "geom:latitude":43.015576,
+    "geom:longitude":-83.741938,
+    "iso:country":"US",
+    "sg:address":"3231 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 2411",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRAXtkGCufN54qNFt8JkD_43.015576_-83.741938@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783274,
+    "wof:geomhash":"2149872e8f70d5158dfd49dd0b648ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689848107
+        }
+    ],
+    "wof:id":689848107,
+    "wof:lastmodified":1461783274,
+    "wof:name":"Greater Flint M R I Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.741938,
+    43.015576,
+    -83.741938,
+    43.015576
+],
+  "geometry": {"coordinates":[-83.741938,43.015576],"type":"Point"}
+}

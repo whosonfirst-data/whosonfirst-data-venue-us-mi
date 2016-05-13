@@ -1,0 +1,69 @@
+{
+  "id": 689765205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.252569,41.835744,-86.252569,41.835744",
+    "geom:latitude":41.835744,
+    "geom:longitude":-86.252569,
+    "iso:country":"US",
+    "sg:address":"515 Wayne St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 683 3727",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f8GPiq74mxX85FvZ2XLlG_41.835744_-86.252569@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780903,
+    "wof:geomhash":"522a9dc988d86dd473700d6ba534cafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689765205
+        }
+    ],
+    "wof:id":689765205,
+    "wof:lastmodified":1461780903,
+    "wof:name":"Dexters Wayne Street Auto",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.252569,
+    41.835744,
+    -86.252569,
+    41.835744
+],
+  "geometry": {"coordinates":[-86.25256899999999,41.835744],"type":"Point"}
+}

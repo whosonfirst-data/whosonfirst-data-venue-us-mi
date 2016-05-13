@@ -1,0 +1,80 @@
+{
+  "id": 689933487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.396654,42.67465,-83.396654,42.67465",
+    "geom:latitude":42.67465,
+    "geom:longitude":-83.396654,
+    "iso:country":"US",
+    "sg:address":"5601 Hatchery Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 9292",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "retirement",
+        "community",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tqHehUfIvXEnr21gpu0qX_42.674650_-83.396654@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785457,
+    "wof:geomhash":"a1be23f56a72ce35b7119973827e80e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":689933487
+        }
+    ],
+    "wof:id":689933487,
+    "wof:lastmodified":1461785457,
+    "wof:name":"Canterbury On The Lake",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "retirement",
+        "community",
+        "home"
+    ]
+},
+  "bbox": [
+    -83.396654,
+    42.67465,
+    -83.396654,
+    42.67465
+],
+  "geometry": {"coordinates":[-83.396654,42.67465],"type":"Point"}
+}

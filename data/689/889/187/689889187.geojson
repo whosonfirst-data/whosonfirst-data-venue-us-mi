@@ -1,0 +1,71 @@
+{
+  "id": 689889187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.74447,43.029595,-83.74447,43.029595",
+    "geom:latitude":43.029595,
+    "geom:longitude":-83.74447,
+    "iso:country":"US",
+    "sg:address":"5107 Drummond Sq",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 4640",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kmrB1toICBGhpp6qxBMBz_43.029595_-83.744470@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784280,
+    "wof:geomhash":"75c00ba9fa5396675aceeb9313085945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689889187
+        }
+    ],
+    "wof:id":689889187,
+    "wof:lastmodified":1461784280,
+    "wof:name":"Autumn Grove Apartments",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.74447,
+    43.029595,
+    -83.74447,
+    43.029595
+],
+  "geometry": {"coordinates":[-83.74447000000001,43.029595],"type":"Point"}
+}

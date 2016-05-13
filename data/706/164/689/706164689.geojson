@@ -1,0 +1,71 @@
+{
+  "id": 706164689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260885,43.294149,-86.260885,43.294149",
+    "geom:latitude":43.294149,
+    "geom:longitude":-86.260885,
+    "iso:country":"US",
+    "sg:address":"2144 Whitehall Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 719 2291",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wH3EPwahICHSchPGKKavH_43.294149_-86.260885@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797320,
+    "wof:geomhash":"c749ca5dd939f9fcb39a4bbaa26ef7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706164689
+        }
+    ],
+    "wof:id":706164689,
+    "wof:lastmodified":1461797320,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.260885,
+    43.294149,
+    -86.260885,
+    43.294149
+],
+  "geometry": {"coordinates":[-86.260885,43.294149],"type":"Point"}
+}

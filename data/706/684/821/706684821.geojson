@@ -1,0 +1,72 @@
+{
+  "id": 706684821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.259636,41.829873,-86.259636,41.829873",
+    "geom:latitude":41.829873,
+    "geom:longitude":-86.259636,
+    "iso:country":"US",
+    "sg:address":"20 E Main St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/277812-massimos-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 687 4992",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A96JGduUmQBlT1Xapia6s_41.829873_-86.259636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809478,
+    "wof:geomhash":"8673d24f886fedb7b57bd9034d55d375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706684821
+        }
+    ],
+    "wof:id":706684821,
+    "wof:lastmodified":1461809478,
+    "wof:name":"Massimo's Pizzeria",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.259636,
+    41.829873,
+    -86.259636,
+    41.829873
+],
+  "geometry": {"coordinates":[-86.259636,41.829873],"type":"Point"}
+}

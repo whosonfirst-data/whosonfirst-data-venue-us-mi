@@ -1,0 +1,76 @@
+{
+  "id": 722498221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.024696,42.4417,-83.024696,42.4417",
+    "geom:latitude":42.4417,
+    "geom:longitude":-83.024696,
+    "iso:country":"US",
+    "sg:address":"19901 Van Dyke St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 893 3260",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870543,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U37hDzH1Un0m7XuGPMYyT_42.441700_-83.024696@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461813002,
+    "wof:geomhash":"837cbe534bddd2bbb1be74e7c26330f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870543,
+            "region_id":85688599,
+            "venue_id":722498221
+        }
+    ],
+    "wof:id":722498221,
+    "wof:lastmodified":1461813002,
+    "wof:name":"Burger King",
+    "wof:parent_id":85870543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -83.024696,
+    42.4417,
+    -83.024696,
+    42.4417
+],
+  "geometry": {"coordinates":[-83.02469600000001,42.4417],"type":"Point"}
+}

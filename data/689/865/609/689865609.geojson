@@ -1,0 +1,77 @@
+{
+  "id": 689865609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59603,42.768677,-84.59603,42.768677",
+    "geom:latitude":42.768677,
+    "geom:longitude":-84.59603,
+    "iso:country":"US",
+    "sg:address":"3701 Sheffer Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 886 6664",
+    "sg:postcode":"48906",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878663,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S6KEMQXSBzwVg3lfLxVtO_42.768677_-84.596030@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783669,
+    "wof:geomhash":"53d94579d4442068e4c13c252a79978d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":85878663,
+            "region_id":85688599,
+            "venue_id":689865609
+        }
+    ],
+    "wof:id":689865609,
+    "wof:lastmodified":1461783669,
+    "wof:name":"JEP Automotive Repair",
+    "wof:parent_id":85878663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.59603,
+    42.768677,
+    -84.59603,
+    42.768677
+],
+  "geometry": {"coordinates":[-84.59603,42.768677],"type":"Point"}
+}

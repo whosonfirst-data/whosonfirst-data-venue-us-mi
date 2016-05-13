@@ -1,0 +1,73 @@
+{
+  "id": 706163509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342743,43.408365,-86.342743,43.408365",
+    "geom:latitude":43.408365,
+    "geom:longitude":-86.342743,
+    "iso:country":"US",
+    "sg:address":"203 S Baldwin St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 6092",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FHxSZW6iTMVX9vpcO5NIy_43.408365_-86.342743@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797289,
+    "wof:geomhash":"41d125763a5ac41a57192212c4a006e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706163509
+        }
+    ],
+    "wof:id":706163509,
+    "wof:lastmodified":1461797289,
+    "wof:name":"Schmidt Painting",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.342743,
+    43.408365,
+    -86.342743,
+    43.408365
+],
+  "geometry": {"coordinates":[-86.342743,43.408365],"type":"Point"}
+}

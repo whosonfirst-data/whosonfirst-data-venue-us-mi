@@ -1,0 +1,73 @@
+{
+  "id": 706468975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.017215,43.106293,-86.017215,43.106293",
+    "geom:latitude":43.106293,
+    "geom:longitude":-86.017215,
+    "iso:country":"US",
+    "sg:address":"18505 92nd Ave",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 837 8277",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64lP3iK8gtiJCAntWt5Blx_43.106293_-86.017215@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803829,
+    "wof:geomhash":"0a66a44475114f0e5daaf2a42f9cc2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706468975
+        }
+    ],
+    "wof:id":706468975,
+    "wof:lastmodified":1461803829,
+    "wof:name":"University Apartments",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.017215,
+    43.106293,
+    -86.017215,
+    43.106293
+],
+  "geometry": {"coordinates":[-86.01721499999999,43.106293],"type":"Point"}
+}

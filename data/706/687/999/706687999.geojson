@@ -1,0 +1,72 @@
+{
+  "id": 706687999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.263098,42.545325,-83.263098,42.545325",
+    "geom:latitude":42.545325,
+    "geom:longitude":-83.263098,
+    "iso:country":"US",
+    "sg:address":"3637 W Maple Rd",
+    "sg:city":"Bloomfield Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bloomfield/39563-buddys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 645 0300",
+    "sg:postcode":"48301",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896671,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZPUkwRS60eoyAdQt4Sfk1_42.545275_-83.262083@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809597,
+    "wof:geomhash":"f34d181cf5a9b6369db425ac8511896b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896671,
+            "region_id":85688599,
+            "venue_id":706687999
+        }
+    ],
+    "wof:id":706687999,
+    "wof:lastmodified":1461809597,
+    "wof:name":"Buddy's Pizza",
+    "wof:parent_id":85896671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.263098,
+    42.545325,
+    -83.263098,
+    42.545325
+],
+  "geometry": {"coordinates":[-83.263098,42.545325],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 705894653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.237901,43.053545,-86.237901,43.053545",
+    "geom:latitude":43.053545,
+    "geom:longitude":-86.237901,
+    "iso:country":"US",
+    "sg:address":"1304 Lake Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 3489",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cemetery",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JQzW1YVxpH2SJWuu50wtP_43.053545_-86.237901@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791286,
+    "wof:geomhash":"2d45ec28d7a9bba311d8df988fc7b9e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705894653
+        }
+    ],
+    "wof:id":705894653,
+    "wof:lastmodified":1461791286,
+    "wof:name":"Lake Forest Municipal Cemetery",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery",
+        "village"
+    ]
+},
+  "bbox": [
+    -86.237901,
+    43.053545,
+    -86.237901,
+    43.053545
+],
+  "geometry": {"coordinates":[-86.23790099999999,43.053545],"type":"Point"}
+}

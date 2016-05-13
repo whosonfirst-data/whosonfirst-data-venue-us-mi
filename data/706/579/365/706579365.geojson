@@ -1,0 +1,71 @@
+{
+  "id": 706579365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306934,41.979049,-83.306934,41.979049",
+    "geom:latitude":41.979049,
+    "geom:longitude":-83.306934,
+    "iso:country":"US",
+    "sg:address":"4041 Post Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 586 6250",
+    "sg:postcode":"48166",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85858699,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wikFyLqZltWAv8kNQoP3Y_41.979049_-83.306934@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806302,
+    "wof:geomhash":"b38deb0a142728e2ccc512c3e155df9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85858699,
+            "region_id":85688599,
+            "venue_id":706579365
+        }
+    ],
+    "wof:id":706579365,
+    "wof:lastmodified":1461806302,
+    "wof:name":"Webb's Tire Svc",
+    "wof:parent_id":85858699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -83.306934,
+    41.979049,
+    -83.306934,
+    41.979049
+],
+  "geometry": {"coordinates":[-83.306934,41.979049],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706236563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.440804,42.278235,-84.440804,42.278235",
+    "geom:latitude":42.278235,
+    "geom:longitude":-84.440804,
+    "iso:country":"US",
+    "sg:address":"3250 Kingsbrooke Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 784 5500",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BEtyzzNQLsLVYnC4t41jQ_42.278235_-84.440804@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798864,
+    "wof:geomhash":"183a02d3fc15eab0ed614187a09a76fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706236563
+        }
+    ],
+    "wof:id":706236563,
+    "wof:lastmodified":1461798864,
+    "wof:name":"Ws Smith Co",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.440804,
+    42.278235,
+    -84.440804,
+    42.278235
+],
+  "geometry": {"coordinates":[-84.440804,42.278235],"type":"Point"}
+}

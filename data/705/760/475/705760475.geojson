@@ -1,0 +1,71 @@
+{
+  "id": 705760475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.177552,43.116985,-86.177552,43.116985",
+    "geom:latitude":43.116985,
+    "geom:longitude":-86.177552,
+    "iso:country":"US",
+    "sg:address":"7409 Pine Bluff Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 2549",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S02RtQzUCz4CCZnRHP7mx_43.116985_-86.177552@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788097,
+    "wof:geomhash":"1b28b3de61228a93130dc5eb09a61388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":705760475
+        }
+    ],
+    "wof:id":705760475,
+    "wof:lastmodified":1461788097,
+    "wof:name":"L & M Services",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.177552,
+    43.116985,
+    -86.177552,
+    43.116985
+],
+  "geometry": {"coordinates":[-86.17755200000001,43.116985],"type":"Point"}
+}

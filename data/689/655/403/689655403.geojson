@@ -1,0 +1,75 @@
+{
+  "id": 689655403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.401197,46.412368,-87.401197,46.412368",
+    "geom:latitude":46.412368,
+    "geom:longitude":-87.401197,
+    "iso:country":"US",
+    "sg:address":"220 Youngs Rd",
+    "sg:city":"Gwinn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 346 5945",
+    "sg:postcode":"49841",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5td7AyXYO4a6r1O0kQqbCX_46.412368_-87.401197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778004,
+    "wof:geomhash":"cab6aea5e58192883a2116a59c9613c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689655403
+        }
+    ],
+    "wof:id":689655403,
+    "wof:lastmodified":1461778004,
+    "wof:name":"Animal Inn",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -87.401197,
+    46.412368,
+    -87.401197,
+    46.412368
+],
+  "geometry": {"coordinates":[-87.401197,46.412368],"type":"Point"}
+}

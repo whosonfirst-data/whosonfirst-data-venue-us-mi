@@ -1,0 +1,69 @@
+{
+  "id": 705832205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.438012,42.199345,-84.438012,42.199345",
+    "geom:latitude":42.199345,
+    "geom:longitude":-84.438012,
+    "iso:country":"US",
+    "sg:address":"2119 Ferguson Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 787 6096",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oy8yVIFOHIsfJMePpNTNX_42.199345_-84.438012@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789787,
+    "wof:geomhash":"9f34ecfae5a3b716d899bd8de8794170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705832205
+        }
+    ],
+    "wof:id":705832205,
+    "wof:lastmodified":1461789787,
+    "wof:name":"Polly's Foods",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.438012,
+    42.199345,
+    -84.438012,
+    42.199345
+],
+  "geometry": {"coordinates":[-84.438012,42.199345],"type":"Point"}
+}

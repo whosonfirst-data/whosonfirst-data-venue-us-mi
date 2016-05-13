@@ -1,0 +1,71 @@
+{
+  "id": 689625861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.098415,42.807729,-86.098415,42.807729",
+    "geom:latitude":42.807729,
+    "geom:longitude":-86.098415,
+    "iso:country":"US",
+    "sg:address":"335 Hillview Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 393 9757",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GT5vy2EAAOrXE5eqWsuMe_42.807729_-86.098415@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461777054,
+    "wof:geomhash":"1d6ac8821a62bdd414406b2509f4360c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":689625861
+        }
+    ],
+    "wof:id":689625861,
+    "wof:lastmodified":1461777054,
+    "wof:name":"Innerface Dental Lab",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -86.098415,
+    42.807729,
+    -86.098415,
+    42.807729
+],
+  "geometry": {"coordinates":[-86.098415,42.807729],"type":"Point"}
+}

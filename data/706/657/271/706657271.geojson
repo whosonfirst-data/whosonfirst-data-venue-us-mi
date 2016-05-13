@@ -1,0 +1,71 @@
+{
+  "id": 706657271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.033229,42.651347,-83.033229,42.651347",
+    "geom:latitude":42.651347,
+    "geom:longitude":-83.033229,
+    "iso:country":"US",
+    "sg:address":"48330 Van Dyke Ave",
+    "sg:city":"Shelby Twp",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 726 8797",
+    "sg:postcode":"48317",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DMYVbaic0Aari8aQohztv_42.651347_-83.033229@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808311,
+    "wof:geomhash":"498f2be1ad561f5b586de9debf366ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706657271
+        }
+    ],
+    "wof:id":706657271,
+    "wof:lastmodified":1461808311,
+    "wof:name":"Automotive Repair Svc",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.033229,
+    42.651347,
+    -83.033229,
+    42.651347
+],
+  "geometry": {"coordinates":[-83.03322900000001,42.651347],"type":"Point"}
+}

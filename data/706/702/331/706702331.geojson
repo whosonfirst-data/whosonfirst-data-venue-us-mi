@@ -1,0 +1,90 @@
+{
+  "id": 706702331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.832669,42.675387,-82.832669,42.675387",
+    "geom:latitude":42.675387,
+    "geom:longitude":-82.832669,
+    "iso:country":"US",
+    "sg:address":"51595 Gratiot Ave",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 949 0970",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"http://www.timhortons.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85834493,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pIibMeMqr8nJT7kgnog3u_42.675387_-82.832669@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810176,
+    "wof:geomhash":"d62f53c5b27aee058d0bade023ad505f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85834493,
+            "region_id":85688599,
+            "venue_id":706702331
+        }
+    ],
+    "wof:id":706702331,
+    "wof:lastmodified":1461810176,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":85834493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -82.832669,
+    42.675387,
+    -82.832669,
+    42.675387
+],
+  "geometry": {"coordinates":[-82.832669,42.675387],"type":"Point"}
+}

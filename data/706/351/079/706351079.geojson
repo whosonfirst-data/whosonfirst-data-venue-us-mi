@@ -1,0 +1,71 @@
+{
+  "id": 706351079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.392054,44.247834,-85.392054,44.247834",
+    "geom:latitude":44.247834,
+    "geom:longitude":-85.392054,
+    "iso:country":"US",
+    "sg:address":"323 Hersey St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 6131",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HHFjIaBkfl2UfqzSTqoE1_44.247834_-85.392054@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801426,
+    "wof:geomhash":"038d819c8eaebd64b514ff54cba63786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706351079
+        }
+    ],
+    "wof:id":706351079,
+    "wof:lastmodified":1461801426,
+    "wof:name":"Ziegler Adult Foster Care Home",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -85.392054,
+    44.247834,
+    -85.392054,
+    44.247834
+],
+  "geometry": {"coordinates":[-85.392054,44.247834],"type":"Point"}
+}

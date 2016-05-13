@@ -1,0 +1,69 @@
+{
+  "id": 706655001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.401078,42.700783,-83.401078,42.700783",
+    "geom:latitude":42.700783,
+    "geom:longitude":-83.401078,
+    "iso:country":"US",
+    "sg:address":"5598 Dixie Hwy",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 623 1290",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iSWS0igruN8t5m8rR6jJ4_42.700783_-83.401078@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808177,
+    "wof:geomhash":"ba12255eb0ac16a8d6f9ddf641811b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706655001
+        }
+    ],
+    "wof:id":706655001,
+    "wof:lastmodified":1461808177,
+    "wof:name":"Dollar Discount",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.401078,
+    42.700783,
+    -83.401078,
+    42.700783
+],
+  "geometry": {"coordinates":[-83.401078,42.700783],"type":"Point"}
+}

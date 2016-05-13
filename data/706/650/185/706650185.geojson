@@ -1,0 +1,71 @@
+{
+  "id": 706650185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.720383,41.801263,-86.720383,41.801263",
+    "geom:latitude":41.801263,
+    "geom:longitude":-86.720383,
+    "iso:country":"US",
+    "sg:address":"17600 Red Arrow Hwy",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 3698",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57R0f6liPmOZrYYXWIhsIX_41.801263_-86.720383@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807950,
+    "wof:geomhash":"abc5da90be0562531c8bbd149fd8187e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706650185
+        }
+    ],
+    "wof:id":706650185,
+    "wof:lastmodified":1461807950,
+    "wof:name":"Roma Pizza",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.720383,
+    41.801263,
+    -86.720383,
+    41.801263
+],
+  "geometry": {"coordinates":[-86.720383,41.801263],"type":"Point"}
+}

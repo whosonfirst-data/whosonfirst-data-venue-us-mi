@@ -1,0 +1,71 @@
+{
+  "id": 705829165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.949987,43.464308,-85.949987,43.464308",
+    "geom:latitude":43.464308,
+    "geom:longitude":-85.949987,
+    "iso:country":"US",
+    "sg:address":"230 W Oak St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1305",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01KImU9yQZdUU817IUVpP3_43.464308_-85.949987@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789707,
+    "wof:geomhash":"abba49dbc18581849f12f53cc6162a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705829165
+        }
+    ],
+    "wof:id":705829165,
+    "wof:lastmodified":1461789707,
+    "wof:name":"Gerber Mem Specialty Clinics",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.949987,
+    43.464308,
+    -85.949987,
+    43.464308
+],
+  "geometry": {"coordinates":[-85.94998699999999,43.464308],"type":"Point"}
+}

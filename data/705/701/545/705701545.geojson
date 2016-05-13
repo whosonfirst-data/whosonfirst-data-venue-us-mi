@@ -1,0 +1,71 @@
+{
+  "id": 705701545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63943,44.729067,-85.63943,44.729067",
+    "geom:latitude":44.729067,
+    "geom:longitude":-85.63943,
+    "iso:country":"US",
+    "sg:address":"3158 Horseshoe Dr",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 947 8873",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26pFlQ8EWISeezZRS58E7O_44.729067_-85.639430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786601,
+    "wof:geomhash":"5460d894d9036b338ec58624464d7c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":705701545
+        }
+    ],
+    "wof:id":705701545,
+    "wof:lastmodified":1461786601,
+    "wof:name":"Hollywood At Home",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.63943,
+    44.729067,
+    -85.63943,
+    44.729067
+],
+  "geometry": {"coordinates":[-85.63943,44.729067],"type":"Point"}
+}

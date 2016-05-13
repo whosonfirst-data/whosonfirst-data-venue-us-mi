@@ -1,0 +1,71 @@
+{
+  "id": 706150567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.48012,42.910926,-82.48012,42.910926",
+    "geom:latitude":42.910926,
+    "geom:longitude":-82.48012,
+    "iso:country":"US",
+    "sg:address":"1318 Michigan Ave",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 3400",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vd8UqyXlIL5CxzV5Xn2Mo_42.910926_-82.480120@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796996,
+    "wof:geomhash":"0d0fb9e66e47787c962477c0970269e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706150567
+        }
+    ],
+    "wof:id":706150567,
+    "wof:lastmodified":1461796996,
+    "wof:name":"Italia's Pizzeria",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.48012,
+    42.910926,
+    -82.48012,
+    42.910926
+],
+  "geometry": {"coordinates":[-82.48012,42.910926],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 689491135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.735899,43.046121,-83.735899,43.046121",
+    "geom:latitude":43.046121,
+    "geom:longitude":-83.735899,
+    "iso:country":"US",
+    "sg:address":"3053 W Pasadena Ave",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 235 9133",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "sharpening",
+        "tool",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zwu2UzlKBDk7zcRRUuyn9_43.046121_-83.735899@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772859,
+    "wof:geomhash":"420bbfc7bfc2df4a3ff6a4c73a3a11fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689491135
+        }
+    ],
+    "wof:id":689491135,
+    "wof:lastmodified":1461772859,
+    "wof:name":"Michigan Saw & Tool Co",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening",
+        "tool",
+        "saw"
+    ]
+},
+  "bbox": [
+    -83.735899,
+    43.046121,
+    -83.735899,
+    43.046121
+],
+  "geometry": {"coordinates":[-83.735899,43.046121],"type":"Point"}
+}

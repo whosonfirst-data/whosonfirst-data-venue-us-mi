@@ -1,0 +1,71 @@
+{
+  "id": 689830863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660506,42.840639,-85.660506,42.840639",
+    "geom:latitude":42.840639,
+    "geom:longitude":-85.660506,
+    "iso:country":"US",
+    "sg:address":"130 68th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 281 6444",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahogAqDirNMj80BYCWe34_42.840639_-85.660506@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782852,
+    "wof:geomhash":"e3ef50714a6aafcd22c55ce573f27967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":689830863
+        }
+    ],
+    "wof:id":689830863,
+    "wof:lastmodified":1461782852,
+    "wof:name":"Dakotah Shloah Fmly Trtmnt Ctr",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.660506,
+    42.840639,
+    -85.660506,
+    42.840639
+],
+  "geometry": {"coordinates":[-85.660506,42.840639],"type":"Point"}
+}

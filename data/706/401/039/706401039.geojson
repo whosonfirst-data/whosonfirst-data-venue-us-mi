@@ -1,0 +1,71 @@
+{
+  "id": 706401039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672242,42.234041,-85.672242,42.234041",
+    "geom:latitude":42.234041,
+    "geom:longitude":-85.672242,
+    "iso:country":"US",
+    "sg:address":"5649 Hawthorn St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 372 0487",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85851987,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SC2pSTeI2Emk5N7ECaSlc_42.234041_-85.672242@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802417,
+    "wof:geomhash":"63abeffe2d7618ef6383a469ae8fba8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85851987,
+            "region_id":85688599,
+            "venue_id":706401039
+        }
+    ],
+    "wof:id":706401039,
+    "wof:lastmodified":1461802417,
+    "wof:name":"Denbie Trucking",
+    "wof:parent_id":85851987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.672242,
+    42.234041,
+    -85.672242,
+    42.234041
+],
+  "geometry": {"coordinates":[-85.672242,42.234041],"type":"Point"}
+}

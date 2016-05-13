@@ -1,0 +1,77 @@
+{
+  "id": 689933357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527321,42.733562,-84.527321,42.733562",
+    "geom:latitude":42.733562,
+    "geom:longitude":-84.527321,
+    "iso:country":"US",
+    "sg:address":"1514 E Michigan Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 484 0004",
+    "sg:postcode":"48912",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524299,
+        102191575,
+        404507643,
+        85633793,
+        85951849,
+        102083649,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m4HPQ1yX37POpONQXysoF_42.733562_-84.527321@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785454,
+    "wof:geomhash":"1297d603ba8cc87d18730f5693e35596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083649,
+            "localadmin_id":404507643,
+            "locality_id":85951849,
+            "neighbourhood_id":420524299,
+            "region_id":85688599,
+            "venue_id":689933357
+        }
+    ],
+    "wof:id":689933357,
+    "wof:lastmodified":1461785454,
+    "wof:name":"Children's Heart Ctr",
+    "wof:parent_id":420524299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.527321,
+    42.733562,
+    -84.527321,
+    42.733562
+],
+  "geometry": {"coordinates":[-84.527321,42.733562],"type":"Point"}
+}

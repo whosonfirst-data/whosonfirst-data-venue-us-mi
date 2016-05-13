@@ -1,0 +1,70 @@
+{
+  "id": 689895337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.297663,41.805835,-86.297663,41.805835",
+    "geom:latitude":41.805835,
+    "geom:longitude":-86.297663,
+    "iso:country":"US",
+    "sg:address":"2100 W Chicago Rd",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 684 2170",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.smcas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4myvOYfNvwzNBhf2fVBPMZ_41.805835_-86.297663@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784445,
+    "wof:geomhash":"fe1f448499e2fa618215eec773ad034d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":689895337
+        }
+    ],
+    "wof:id":689895337,
+    "wof:lastmodified":1461784445,
+    "wof:name":"Southwestern Michigan Cmnty",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.297663,
+    41.805835,
+    -86.297663,
+    41.805835
+],
+  "geometry": {"coordinates":[-86.297663,41.805835],"type":"Point"}
+}

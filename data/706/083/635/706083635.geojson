@@ -1,0 +1,74 @@
+{
+  "id": 706083635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.664319,42.703821,-84.664319,42.703821",
+    "geom:latitude":42.703821,
+    "geom:longitude":-84.664319,
+    "iso:country":"US",
+    "sg:address":"7833 Rickle St",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 322 2422",
+    "sg:postcode":"48917",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carrier",
+        "common"
+    ],
+    "sg:website":"www.deecotrans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V0gTKMaIhHmUkNqE1tixf_42.703821_-84.664319@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795347,
+    "wof:geomhash":"9f96eabbef15c4cce3375167e7022d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706083635
+        }
+    ],
+    "wof:id":706083635,
+    "wof:lastmodified":1461795347,
+    "wof:name":"Deeco Transportation",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "common"
+    ]
+},
+  "bbox": [
+    -84.664319,
+    42.703821,
+    -84.664319,
+    42.703821
+],
+  "geometry": {"coordinates":[-84.66431900000001,42.703821],"type":"Point"}
+}

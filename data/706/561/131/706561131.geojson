@@ -1,0 +1,73 @@
+{
+  "id": 706561131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.950657,43.4652,-85.950657,43.4652",
+    "geom:latitude":43.4652,
+    "geom:longitude":-85.950657,
+    "iso:country":"US",
+    "sg:address":"212 S Sullivan Ave",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 1100",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "surgery",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XhQxvElAlT7YQpWIP7QlJ_43.465200_-85.950657@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805873,
+    "wof:geomhash":"bc1d342ec143096cb98728eab3632797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706561131
+        }
+    ],
+    "wof:id":706561131,
+    "wof:lastmodified":1461805873,
+    "wof:name":"Great Lakes Cosmetic Laser",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgery",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -85.950657,
+    43.4652,
+    -85.950657,
+    43.4652
+],
+  "geometry": {"coordinates":[-85.95065700000001,43.4652],"type":"Point"}
+}

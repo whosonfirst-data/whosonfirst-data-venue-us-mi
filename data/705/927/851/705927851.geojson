@@ -1,0 +1,71 @@
+{
+  "id": 705927851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.292681,43.215807,-86.292681,43.215807",
+    "geom:latitude":43.215807,
+    "geom:longitude":-86.292681,
+    "iso:country":"US",
+    "sg:address":"2020 Lake Shore Dr",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 7454",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqR8uW9kNgyXf991q9FsF_43.215807_-86.292681@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792012,
+    "wof:geomhash":"52f2bcfa6f3ee6275291a7a9eaf5c26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705927851
+        }
+    ],
+    "wof:id":705927851,
+    "wof:lastmodified":1461792012,
+    "wof:name":"Sorrento's USA Cafe",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.292681,
+    43.215807,
+    -86.292681,
+    43.215807
+],
+  "geometry": {"coordinates":[-86.292681,43.215807],"type":"Point"}
+}

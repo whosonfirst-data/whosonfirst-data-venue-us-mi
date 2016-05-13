@@ -1,0 +1,72 @@
+{
+  "id": 706675411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.952104,42.590214,-82.952104,42.590214",
+    "geom:latitude":42.590214,
+    "geom:longitude":-82.952104,
+    "iso:country":"US",
+    "sg:address":"39890 Garfield Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/clinton/131307-clinton-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 226 1994",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KgZCQVCbD84oo016XJwWb_42.590214_-82.952104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809094,
+    "wof:geomhash":"7e1de5261b0b334a11ff3a525f9b9427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706675411
+        }
+    ],
+    "wof:id":706675411,
+    "wof:lastmodified":1461809094,
+    "wof:name":"Clinton Grill",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -82.952104,
+    42.590214,
+    -82.952104,
+    42.590214
+],
+  "geometry": {"coordinates":[-82.95210400000001,42.590214],"type":"Point"}
+}

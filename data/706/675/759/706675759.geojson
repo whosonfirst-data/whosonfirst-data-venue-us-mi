@@ -1,0 +1,74 @@
+{
+  "id": 706675759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.450002,43.01558,-82.450002,43.01558",
+    "geom:latitude":43.01558,
+    "geom:longitude":-82.450002,
+    "iso:country":"US",
+    "sg:address":"3584 Pine Grove Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/port-huron/197205-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 897 6799",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wj0v3dI3gErV8WJXUaV6G_43.015580_-82.450002@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809107,
+    "wof:geomhash":"929d6f8cd1c4ae0a78c17ac95a91f5e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896761,
+            "region_id":85688599,
+            "venue_id":706675759
+        }
+    ],
+    "wof:id":706675759,
+    "wof:lastmodified":1461809107,
+    "wof:name":"Burger King",
+    "wof:parent_id":85896761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.450002,
+    43.01558,
+    -82.450002,
+    43.01558
+],
+  "geometry": {"coordinates":[-82.450002,43.01558],"type":"Point"}
+}

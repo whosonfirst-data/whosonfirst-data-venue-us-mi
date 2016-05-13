@@ -1,0 +1,71 @@
+{
+  "id": 689700499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.386556,42.6849,-84.386556,42.6849",
+    "geom:latitude":42.6849,
+    "geom:longitude":-84.386556,
+    "iso:country":"US",
+    "sg:address":"1079 Bonanza Dr",
+    "sg:city":"Okemos",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 347 1416",
+    "sg:postcode":"48864",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h3s9PSMV170ypYbpTx1Ha_42.684900_-84.386556@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779114,
+    "wof:geomhash":"b7fbcfb2a91f45af8f0e39c616ff3fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689700499
+        }
+    ],
+    "wof:id":689700499,
+    "wof:lastmodified":1461779114,
+    "wof:name":"Mid Michigan Cleaning Services",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.386556,
+    42.6849,
+    -84.386556,
+    42.6849
+],
+  "geometry": {"coordinates":[-84.386556,42.6849],"type":"Point"}
+}

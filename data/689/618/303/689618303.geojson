@@ -1,0 +1,79 @@
+{
+  "id": 689618303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.064198,42.39294,-83.064198,42.39294",
+    "geom:latitude":42.39294,
+    "geom:longitude":-83.064198,
+    "iso:country":"US",
+    "sg:address":"2060 Norwalk St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 365 8494",
+    "sg:postcode":"48212",
+    "sg:province":"MI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896685,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XRA4Df4oqa7gi4mM0VrEy_42.392940_-83.064198@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776842,
+    "wof:geomhash":"f42f4c072336256341e8a7fbda9878b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85896685,
+            "region_id":85688599,
+            "venue_id":689618303
+        }
+    ],
+    "wof:id":689618303,
+    "wof:lastmodified":1461776842,
+    "wof:name":"Portage Garage Inc",
+    "wof:parent_id":85896685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.064198,
+    42.39294,
+    -83.064198,
+    42.39294
+],
+  "geometry": {"coordinates":[-83.064198,42.39294],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689586245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065988,45.814498,-88.065988,45.814498",
+    "geom:latitude":45.814498,
+    "geom:longitude":-88.065988,
+    "iso:country":"US",
+    "sg:address":"916 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 5797",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mWSqyXiqni3rxKuOE4EuO_45.814498_-88.065988@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775816,
+    "wof:geomhash":"cf1c53ec0a88bfb8ceacb74ec17150aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689586245
+        }
+    ],
+    "wof:id":689586245,
+    "wof:lastmodified":1461775816,
+    "wof:name":"American Legion",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -88.065988,
+    45.814498,
+    -88.065988,
+    45.814498
+],
+  "geometry": {"coordinates":[-88.065988,45.814498],"type":"Point"}
+}

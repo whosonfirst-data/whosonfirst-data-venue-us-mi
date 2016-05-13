@@ -1,0 +1,69 @@
+{
+  "id": 706561113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.02699,43.436999,-84.02699,43.436999",
+    "geom:latitude":43.436999,
+    "geom:longitude":-84.02699,
+    "iso:country":"US",
+    "sg:address":"5700 State St",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 6371",
+    "sg:postcode":"48603",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hwjvxpoa2EQ3hNkcrHanj_43.436999_-84.026990@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805873,
+    "wof:geomhash":"133f2666c41b8f7a8aa95722b7924379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706561113
+        }
+    ],
+    "wof:id":706561113,
+    "wof:lastmodified":1461805873,
+    "wof:name":"Kroger",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.02699,
+    43.436999,
+    -84.02699,
+    43.436999
+],
+  "geometry": {"coordinates":[-84.02699,43.436999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689867481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.67443,42.378495,-84.67443,42.378495",
+    "geom:latitude":42.378495,
+    "geom:longitude":-84.67443,
+    "iso:country":"US",
+    "sg:address":"15011 Eaton Rapids Rd",
+    "sg:city":"Springport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 857 3366",
+    "sg:postcode":"49284",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ehXxmwDoUrAk3cargn37R_42.378495_-84.674430@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783727,
+    "wof:geomhash":"add5963c185e4a4db3f96eef750aa95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689867481
+        }
+    ],
+    "wof:id":689867481,
+    "wof:lastmodified":1461783727,
+    "wof:name":"Keeler's Garage",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.67443,
+    42.378495,
+    -84.67443,
+    42.378495
+],
+  "geometry": {"coordinates":[-84.67443,42.378495],"type":"Point"}
+}

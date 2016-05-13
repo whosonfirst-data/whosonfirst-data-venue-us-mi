@@ -1,0 +1,71 @@
+{
+  "id": 706661725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.870399,42.559601,-82.870399,42.559601",
+    "geom:latitude":42.559601,
+    "geom:longitude":-82.870399,
+    "iso:country":"US",
+    "sg:address":"35493 Harper Ave",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 791 7960",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951695,
+        102083047,
+        85850869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WTsZcjnV9ela9lPHwSLSc_42.559881_-82.870352@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808503,
+    "wof:geomhash":"df9f0ac4a9c3fec30b64158674a3763b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951695,
+            "neighbourhood_id":85850869,
+            "region_id":85688599,
+            "venue_id":706661725
+        }
+    ],
+    "wof:id":706661725,
+    "wof:lastmodified":1461808503,
+    "wof:name":"Carmen's Pizza & Party Shop",
+    "wof:parent_id":85850869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.870399,
+    42.559601,
+    -82.870399,
+    42.559601
+],
+  "geometry": {"coordinates":[-82.87039900000001,42.559601],"type":"Point"}
+}

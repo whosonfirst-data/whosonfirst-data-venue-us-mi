@@ -1,0 +1,69 @@
+{
+  "id": 689833135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.062707,45.804883,-87.062707,45.804883",
+    "geom:latitude":45.804883,
+    "geom:longitude":-87.062707,
+    "iso:country":"US",
+    "sg:address":"7142 US Hwy 41",
+    "sg:city":"Gladstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 1878",
+    "sg:postcode":"49837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RITIMo4re2e4CdsnnXO4t_45.804883_-87.062707@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782933,
+    "wof:geomhash":"f9fe35814ee0d31f66980fab7d79db32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":689833135
+        }
+    ],
+    "wof:id":689833135,
+    "wof:lastmodified":1461782933,
+    "wof:name":"Bay Veterinary Clinic",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.062707,
+    45.804883,
+    -87.062707,
+    45.804883
+],
+  "geometry": {"coordinates":[-87.062707,45.804883],"type":"Point"}
+}

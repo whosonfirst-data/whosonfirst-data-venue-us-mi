@@ -1,0 +1,71 @@
+{
+  "id": 689739595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.893446,42.565604,-82.893446,42.565604",
+    "geom:latitude":42.565604,
+    "geom:longitude":-82.893446,
+    "iso:country":"US",
+    "sg:address":"36500 S Gratiot Ave",
+    "sg:city":"Clinton Twp",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 493 3727",
+    "sg:postcode":"48035",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807645,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FYBf10ahB4wfEkWuLbaub_42.565604_-82.893446@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780182,
+    "wof:geomhash":"78068f5a61213f0ab1d26c78527f4c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85807645,
+            "region_id":85688599,
+            "venue_id":689739595
+        }
+    ],
+    "wof:id":689739595,
+    "wof:lastmodified":1461780182,
+    "wof:name":"Family First",
+    "wof:parent_id":85807645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.893446,
+    42.565604,
+    -82.893446,
+    42.565604
+],
+  "geometry": {"coordinates":[-82.893446,42.565604],"type":"Point"}
+}

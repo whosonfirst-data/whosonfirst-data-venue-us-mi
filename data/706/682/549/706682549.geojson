@@ -1,0 +1,72 @@
+{
+  "id": 706682549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.732959,42.741759,-84.732959,42.741759",
+    "geom:latitude":42.741759,
+    "geom:longitude":-84.732959,
+    "iso:country":"US",
+    "sg:address":"820 Torch Dr",
+    "sg:city":"Grand Ledge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-ledge/208739-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 627 0253",
+    "sg:postcode":"48837",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952265,
+        102083005,
+        85814265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eSu0MCshEwo1eSKan80P2_42.741759_-84.732959@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809385,
+    "wof:geomhash":"251729c11bc6ce80198200f5facc5676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083005,
+            "locality_id":85952265,
+            "neighbourhood_id":85814265,
+            "region_id":85688599,
+            "venue_id":706682549
+        }
+    ],
+    "wof:id":706682549,
+    "wof:lastmodified":1461809385,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85814265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.732959,
+    42.741759,
+    -84.732959,
+    42.741759
+],
+  "geometry": {"coordinates":[-84.73295899999999,42.741759],"type":"Point"}
+}

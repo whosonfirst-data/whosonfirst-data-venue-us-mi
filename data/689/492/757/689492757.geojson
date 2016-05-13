@@ -1,0 +1,71 @@
+{
+  "id": 689492757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.619165,44.733197,-85.619165,44.733197",
+    "geom:latitude":44.733197,
+    "geom:longitude":-85.619165,
+    "iso:country":"US",
+    "sg:address":"2150 S Airport Rd W",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 941 1804",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2dVSLK1lWfbbuBz0iwI6_44.733197_-85.619165@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772899,
+    "wof:geomhash":"34f3a3f0441fec695177f99ad90b50e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":689492757
+        }
+    ],
+    "wof:id":689492757,
+    "wof:lastmodified":1461772899,
+    "wof:name":"Twin Bay Dental Arts Inc",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -85.619165,
+    44.733197,
+    -85.619165,
+    44.733197
+],
+  "geometry": {"coordinates":[-85.619165,44.733197],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706281109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.604801,46.510222,-87.604801,46.510222",
+    "geom:latitude":46.510222,
+    "geom:longitude":-87.604801,
+    "iso:country":"US",
+    "sg:address":"354 US Hwy 41",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 2277",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNyxBjjCX9OKInDhWapDK_46.510222_-87.604801@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799870,
+    "wof:geomhash":"ca3eeb03bfe0ebd75ae008827f5cdde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706281109
+        }
+    ],
+    "wof:id":706281109,
+    "wof:lastmodified":1461799870,
+    "wof:name":"Mi Garage Inc",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.604801,
+    46.510222,
+    -87.604801,
+    46.510222
+],
+  "geometry": {"coordinates":[-87.60480099999999,46.510222],"type":"Point"}
+}

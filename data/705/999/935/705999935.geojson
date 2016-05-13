@@ -1,0 +1,71 @@
+{
+  "id": 705999935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.059564,42.804063,-86.059564,42.804063",
+    "geom:latitude":42.804063,
+    "geom:longitude":-86.059564,
+    "iso:country":"US",
+    "sg:address":"11283 Chicago Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 392 8180",
+    "sg:postcode":"49464",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21chZJnEwW2z9eW1inqVsj_42.804063_-86.059564@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793575,
+    "wof:geomhash":"820920d963455fd4bfff24b01f239175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":705999935
+        }
+    ],
+    "wof:id":705999935,
+    "wof:lastmodified":1461793575,
+    "wof:name":"Express Muffler",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.059564,
+    42.804063,
+    -86.059564,
+    42.804063
+],
+  "geometry": {"coordinates":[-86.05956399999999,42.804063],"type":"Point"}
+}

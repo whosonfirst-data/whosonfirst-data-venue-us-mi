@@ -1,0 +1,80 @@
+{
+  "id": 706679719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.155218,42.682116,-83.155218,42.682116",
+    "geom:latitude":42.682116,
+    "geom:longitude":-83.155218,
+    "iso:country":"US",
+    "sg:address":"1344 Walton Blvd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/rochester-hills/182147-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 656 0839",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896781,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PxpDganNshQEWiyxsm2ue_42.682116_-83.155218@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809270,
+    "wof:geomhash":"faaadb85259d81ddbc373e031268a28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":85896781,
+            "region_id":85688599,
+            "venue_id":706679719
+        }
+    ],
+    "wof:id":706679719,
+    "wof:lastmodified":1461809270,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85896781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.155218,
+    42.682116,
+    -83.155218,
+    42.682116
+],
+  "geometry": {"coordinates":[-83.155218,42.682116],"type":"Point"}
+}

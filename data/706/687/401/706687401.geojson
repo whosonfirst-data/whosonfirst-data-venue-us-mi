@@ -1,0 +1,74 @@
+{
+  "id": 706687401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050331,46.481229,-90.050331,46.481229",
+    "geom:latitude":46.481229,
+    "geom:longitude":-90.050331,
+    "iso:country":"US",
+    "sg:address":"201 E Lead St",
+    "sg:city":"Bessemer",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bessemer/168505-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 663 6061",
+    "sg:postcode":"49911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951285,
+        102083009,
+        85859297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ogw1VjmxWzjVw8HDzygtn_46.481229_-90.050331@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809571,
+    "wof:geomhash":"c70b029e2cb0598b488fba555cfe82ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083009,
+            "locality_id":85951285,
+            "neighbourhood_id":85859297,
+            "region_id":85688599,
+            "venue_id":706687401
+        }
+    ],
+    "wof:id":706687401,
+    "wof:lastmodified":1461809571,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85859297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.050331,
+    46.481229,
+    -90.050331,
+    46.481229
+],
+  "geometry": {"coordinates":[-90.050331,46.481229],"type":"Point"}
+}

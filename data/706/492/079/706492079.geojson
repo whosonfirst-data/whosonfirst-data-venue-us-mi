@@ -1,0 +1,73 @@
+{
+  "id": 706492079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763414,43.55194,-85.763414,43.55194",
+    "geom:latitude":43.55194,
+    "geom:longitude":-85.763414,
+    "iso:country":"US",
+    "sg:address":"104 Morgan St",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 0034",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bUpWNp479dVIWqpnt4K8X_43.551940_-85.763414@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804439,
+    "wof:geomhash":"d23305910176db5a0a7541246f4dd476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706492079
+        }
+    ],
+    "wof:id":706492079,
+    "wof:lastmodified":1461804439,
+    "wof:name":"Morgan Street Home",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -85.763414,
+    43.55194,
+    -85.763414,
+    43.55194
+],
+  "geometry": {"coordinates":[-85.763414,43.55194],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 705819777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.096177,42.406458,-83.096177,42.406458",
+    "geom:latitude":42.406458,
+    "geom:longitude":-83.096177,
+    "iso:country":"US",
+    "sg:address":"64 Victor St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 852 7700",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870621,
+        102191575,
+        404508599,
+        85633793,
+        85951065,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yjab3E1RrbB9tZZ1jFezC_42.406458_-83.096177@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789480,
+    "wof:geomhash":"3a6287d5b8c9b3d3ef13999cea979aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508599,
+            "locality_id":85951065,
+            "neighbourhood_id":85870621,
+            "region_id":85688599,
+            "venue_id":705819777
+        }
+    ],
+    "wof:id":705819777,
+    "wof:lastmodified":1461789480,
+    "wof:name":"Physicians Dialysis",
+    "wof:parent_id":85870621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.096177,
+    42.406458,
+    -83.096177,
+    42.406458
+],
+  "geometry": {"coordinates":[-83.096177,42.406458],"type":"Point"}
+}

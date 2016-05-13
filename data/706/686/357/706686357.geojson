@@ -1,0 +1,78 @@
+{
+  "id": 706686357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646514,42.912807,-85.646514,42.912807",
+    "geom:latitude":42.912807,
+    "geom:longitude":-85.646514,
+    "iso:country":"US",
+    "sg:address":"820 28th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/210824-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 452 0179",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877857,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vuFNRGKGXwnWNgj91vjQ9_42.912807_-85.646514@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809533,
+    "wof:geomhash":"fb2ee739b9c246b3cce4f7779ef3c32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877857,
+            "region_id":85688599,
+            "venue_id":706686357
+        }
+    ],
+    "wof:id":706686357,
+    "wof:lastmodified":1461809533,
+    "wof:name":"Arby's",
+    "wof:parent_id":85877857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.646514,
+    42.912807,
+    -85.646514,
+    42.912807
+],
+  "geometry": {"coordinates":[-85.646514,42.912807],"type":"Point"}
+}

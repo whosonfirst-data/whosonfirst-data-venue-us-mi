@@ -1,0 +1,71 @@
+{
+  "id": 706328749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.413695,42.287863,-84.413695,42.287863",
+    "geom:latitude":42.287863,
+    "geom:longitude":-84.413695,
+    "iso:country":"US",
+    "sg:address":"3160 Lansing Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 9898",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yE5IvmPie1KYUzUjygbEL_42.287863_-84.413695@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800962,
+    "wof:geomhash":"973557bd8562074657e0f31a726b2452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706328749
+        }
+    ],
+    "wof:id":706328749,
+    "wof:lastmodified":1461800962,
+    "wof:name":"Northside Self Storage",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.413695,
+    42.287863,
+    -84.413695,
+    42.287863
+],
+  "geometry": {"coordinates":[-84.413695,42.287863],"type":"Point"}
+}

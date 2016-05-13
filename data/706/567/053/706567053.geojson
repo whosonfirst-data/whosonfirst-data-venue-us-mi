@@ -1,0 +1,75 @@
+{
+  "id": 706567053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.073057,43.213239,-86.073057,43.213239",
+    "geom:latitude":43.213239,
+    "geom:longitude":-86.073057,
+    "iso:country":"US",
+    "sg:address":"6730 Evanston Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 2686",
+    "sg:postcode":"49442",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zI0PkuWUbNOAU5exJcZMI_43.213239_-86.073057@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805995,
+    "wof:geomhash":"5e1491e03177df9e78f9d93f9964f286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706567053
+        }
+    ],
+    "wof:id":706567053,
+    "wof:lastmodified":1461805995,
+    "wof:name":"Steve's Garage",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.073057,
+    43.213239,
+    -86.073057,
+    43.213239
+],
+  "geometry": {"coordinates":[-86.07305700000001,43.213239],"type":"Point"}
+}

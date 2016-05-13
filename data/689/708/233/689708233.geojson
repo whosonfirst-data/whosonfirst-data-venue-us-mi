@@ -1,0 +1,71 @@
+{
+  "id": 689708233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.454704,43.044697,-82.454704,43.044697",
+    "geom:latitude":43.044697,
+    "geom:longitude":-82.454704,
+    "iso:country":"US",
+    "sg:address":"4601 Meadowlawn Dr",
+    "sg:city":"Fort Gratiot",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 385 5622",
+    "sg:postcode":"48059",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hmU4lyikdxulWp3OObEKV_43.044697_-82.454704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779364,
+    "wof:geomhash":"d5bdb78452e7409c9793cef9e376deca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689708233
+        }
+    ],
+    "wof:id":689708233,
+    "wof:lastmodified":1461779364,
+    "wof:name":"A Plus Auto Glass",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -82.454704,
+    43.044697,
+    -82.454704,
+    43.044697
+],
+  "geometry": {"coordinates":[-82.45470400000001,43.044697],"type":"Point"}
+}

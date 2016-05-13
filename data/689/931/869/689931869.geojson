@@ -1,0 +1,71 @@
+{
+  "id": 689931869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.972538,42.071915,-83.972538,42.071915",
+    "geom:latitude":42.071915,
+    "geom:longitude":-83.972538,
+    "iso:country":"US",
+    "sg:address":"147 W Michigan Ave",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 456 7471",
+    "sg:postcode":"49236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951675,
+        102083099,
+        85836787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J1n9sBBIU51kEcPeCt6QN_42.071915_-83.972538@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785418,
+    "wof:geomhash":"f19f5d656906df510ca8b4f16fd5af75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083099,
+            "locality_id":85951675,
+            "neighbourhood_id":85836787,
+            "region_id":85688599,
+            "venue_id":689931869
+        }
+    ],
+    "wof:id":689931869,
+    "wof:lastmodified":1461785418,
+    "wof:name":"Jan M Rizzo DDS",
+    "wof:parent_id":85836787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.972538,
+    42.071915,
+    -83.972538,
+    42.071915
+],
+  "geometry": {"coordinates":[-83.972538,42.071915],"type":"Point"}
+}

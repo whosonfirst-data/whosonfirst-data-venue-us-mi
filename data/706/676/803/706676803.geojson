@@ -1,0 +1,80 @@
+{
+  "id": 706676803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.747165,42.282534,-83.747165,42.282534",
+    "geom:latitude":42.282534,
+    "geom:longitude":-83.747165,
+    "iso:country":"US",
+    "sg:address":"226 N 4th Ave",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/ann-arbor/40499-gelato-di-roma/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 761 8100",
+    "sg:postcode":"48104",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85875895,
+        102191575,
+        404506537,
+        85633793,
+        85951859,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FnRkiHz7ifyASBlw6FyVm_42.282534_-83.747165@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809155,
+    "wof:geomhash":"cb1564e86ad56c7284d08461df1682c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506537,
+            "locality_id":85951859,
+            "neighbourhood_id":85875895,
+            "region_id":85688599,
+            "venue_id":706676803
+        }
+    ],
+    "wof:id":706676803,
+    "wof:lastmodified":1461809155,
+    "wof:name":"Gelato di Roma",
+    "wof:parent_id":85875895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.747165,
+    42.282534,
+    -83.747165,
+    42.282534
+],
+  "geometry": {"coordinates":[-83.747165,42.282534],"type":"Point"}
+}

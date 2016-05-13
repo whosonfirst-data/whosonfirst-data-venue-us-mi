@@ -1,0 +1,81 @@
+{
+  "id": 706427767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.73899,42.234381,-83.73899,42.234381",
+    "geom:latitude":42.234381,
+    "geom:longitude":-83.73899,
+    "iso:country":"US",
+    "sg:address":"3621 S State St",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 647 5299",
+    "sg:postcode":"48108",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866991,
+        102191575,
+        404506389,
+        85633793,
+        85951883,
+        102083763,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H9f2Snc1hFavccXTkImog_42.234381_-83.738990@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802936,
+    "wof:geomhash":"8d593221a75608661100c30228109f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083763,
+            "localadmin_id":404506389,
+            "locality_id":85951883,
+            "neighbourhood_id":85866991,
+            "region_id":85688599,
+            "venue_id":706427767
+        }
+    ],
+    "wof:id":706427767,
+    "wof:lastmodified":1461802936,
+    "wof:name":"Profesional Fee Billing",
+    "wof:parent_id":85866991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.73899,
+    42.234381,
+    -83.73899,
+    42.234381
+],
+  "geometry": {"coordinates":[-83.73899,42.234381],"type":"Point"}
+}

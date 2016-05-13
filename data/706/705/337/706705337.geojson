@@ -1,0 +1,76 @@
+{
+  "id": 706705337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.105114,42.492163,-83.105114,42.492163",
+    "geom:latitude":42.492163,
+    "geom:longitude":-83.105114,
+    "iso:country":"US",
+    "sg:address":"27080 John R Rd",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 547 4444",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.happyspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524615,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vDsRhxq6Wrvy36yaMJiGE_42.492163_-83.105114@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810292,
+    "wof:geomhash":"17d289cf4ec88415f8246d7a2960ad2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":420524615,
+            "region_id":85688599,
+            "venue_id":706705337
+        }
+    ],
+    "wof:id":706705337,
+    "wof:lastmodified":1461810292,
+    "wof:name":"Happy's Pizza",
+    "wof:parent_id":420524615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.105114,
+    42.492163,
+    -83.105114,
+    42.492163
+],
+  "geometry": {"coordinates":[-83.105114,42.492163],"type":"Point"}
+}

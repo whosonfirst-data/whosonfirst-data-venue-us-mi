@@ -1,0 +1,73 @@
+{
+  "id": 706095967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683384,44.503727,-85.683384,44.503727",
+    "geom:latitude":44.503727,
+    "geom:longitude":-85.683384,
+    "iso:country":"US",
+    "sg:address":"205 Pine St",
+    "sg:city":"Buckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 269 3777",
+    "sg:postcode":"49620",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sa3X78gmvYoViMfJPeYiM_44.503727_-85.683384@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795695,
+    "wof:geomhash":"97624535a08794e66c461d1e686ed18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706095967
+        }
+    ],
+    "wof:id":706095967,
+    "wof:lastmodified":1461795695,
+    "wof:name":"Kenmark Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -85.683384,
+    44.503727,
+    -85.683384,
+    44.503727
+],
+  "geometry": {"coordinates":[-85.683384,44.503727],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 722502579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.279195,42.371012,-83.279195,42.371012",
+    "geom:latitude":42.371012,
+    "geom:longitude":-83.279195,
+    "iso:country":"US",
+    "sg:address":"24335 Plymouth Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 533 5323",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "take",
+        "pizza"
+    ],
+    "sg:website":"www.jetspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870487,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MA4PVwXiFoVQEZqnePODx_42.371012_-83.279195@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813170,
+    "wof:geomhash":"31a0ad99e272b87de2a24d617b643863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870487,
+            "region_id":85688599,
+            "venue_id":722502579
+        }
+    ],
+    "wof:id":722502579,
+    "wof:lastmodified":1461813170,
+    "wof:name":"Jets Pizza",
+    "wof:parent_id":85870487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.279195,
+    42.371012,
+    -83.279195,
+    42.371012
+],
+  "geometry": {"coordinates":[-83.279195,42.371012],"type":"Point"}
+}

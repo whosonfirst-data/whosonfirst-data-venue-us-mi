@@ -1,0 +1,74 @@
+{
+  "id": 706683201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.538162,42.670527,-84.538162,42.670527",
+    "geom:latitude":42.670527,
+    "geom:longitude":-84.538162,
+    "iso:country":"US",
+    "sg:address":"6031 S Pennsylvania Ave",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/lansing/249705-penn-ave-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 272 0504",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2taEnuwFeds4UGY36IG7f9_42.670527_-84.538162@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809409,
+    "wof:geomhash":"40efe000989b1b21bc06bc6035743bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706683201
+        }
+    ],
+    "wof:id":706683201,
+    "wof:lastmodified":1461809409,
+    "wof:name":"Penn Ave Diner",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -84.538162,
+    42.670527,
+    -84.538162,
+    42.670527
+],
+  "geometry": {"coordinates":[-84.538162,42.670527],"type":"Point"}
+}

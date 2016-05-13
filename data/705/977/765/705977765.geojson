@@ -1,0 +1,76 @@
+{
+  "id": 705977765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.384518,41.872153,-83.384518,41.872153",
+    "geom:latitude":41.872153,
+    "geom:longitude":-83.384518,
+    "iso:country":"US",
+    "sg:address":"7932 Harbor Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 243 8935",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85806581,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XbWmKOJ2G8MtbuJ854CK9_41.872153_-83.384518@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793121,
+    "wof:geomhash":"e400d31974f1dbd22a5282cf45a0cae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85806581,
+            "region_id":85688599,
+            "venue_id":705977765
+        }
+    ],
+    "wof:id":705977765,
+    "wof:lastmodified":1461793121,
+    "wof:name":"Monroe Boat Club Inc",
+    "wof:parent_id":85806581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -83.384518,
+    41.872153,
+    -83.384518,
+    41.872153
+],
+  "geometry": {"coordinates":[-83.384518,41.872153],"type":"Point"}
+}

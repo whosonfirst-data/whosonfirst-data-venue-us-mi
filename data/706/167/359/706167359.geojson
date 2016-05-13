@@ -1,0 +1,80 @@
+{
+  "id": 706167359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.110527,43.190765,-86.110527,43.190765",
+    "geom:latitude":43.190765,
+    "geom:longitude":-86.110527,
+    "iso:country":"US",
+    "sg:address":"5170 Heights Ravenna Rd",
+    "sg:city":"Fruitport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 788 5028",
+    "sg:postcode":"49415",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319uTJmpdndn1ISYUATo18_43.190765_-86.110527@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797375,
+    "wof:geomhash":"97569229e275a451186d025071b6e133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":706167359
+        }
+    ],
+    "wof:id":706167359,
+    "wof:lastmodified":1461797375,
+    "wof:name":"Eschmans Excavating",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.110527,
+    43.190765,
+    -86.110527,
+    43.190765
+],
+  "geometry": {"coordinates":[-86.110527,43.190765],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 706737511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.468856,42.369915,-83.468856,42.369915",
+    "geom:latitude":42.369915,
+    "geom:longitude":-83.468856,
+    "iso:country":"US",
+    "sg:address":"Kellogg Park",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "sg:website":"www.plymouthfallfestival.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47wmc3GEIBxcDKiOYH5epf_42.369915_-83.468856@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811712,
+    "wof:geomhash":"010fe7e6e3f1e0c3954dda9b39134da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737511
+        }
+    ],
+    "wof:id":706737511,
+    "wof:lastmodified":1461811712,
+    "wof:name":"Plymouth Fall Festival",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -83.468856,
+    42.369915,
+    -83.468856,
+    42.369915
+],
+  "geometry": {"coordinates":[-83.468856,42.369915],"type":"Point"}
+}

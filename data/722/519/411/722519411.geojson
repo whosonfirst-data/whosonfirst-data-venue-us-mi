@@ -1,0 +1,69 @@
+{
+  "id": 722519411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4459,42.5914,-83.4459,42.5914",
+    "geom:latitude":42.5914,
+    "geom:longitude":-83.4459,
+    "iso:country":"US",
+    "sg:address":"3050 Union Lake Rd Ste 8H",
+    "sg:city":"Commerce Township",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 360 5900",
+    "sg:postcode":"48382",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85856655,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MTWVn3wsI8SISpHBhg5Hg_42.591400_-83.445900@1303262798"
+    },
+    "wof:country":"US",
+    "wof:created":1461813893,
+    "wof:geomhash":"59ea7940179c1d63846085f546975094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85856655,
+            "region_id":85688599,
+            "venue_id":722519411
+        }
+    ],
+    "wof:id":722519411,
+    "wof:lastmodified":1461813893,
+    "wof:name":"Commerce Animal Hospital",
+    "wof:parent_id":85856655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.4459,
+    42.5914,
+    -83.4459,
+    42.5914
+],
+  "geometry": {"coordinates":[-83.44589999999999,42.5914],"type":"Point"}
+}

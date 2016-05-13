@@ -1,0 +1,71 @@
+{
+  "id": 689718641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.68049,42.298319,-84.68049,42.298319",
+    "geom:latitude":42.298319,
+    "geom:longitude":-84.68049,
+    "iso:country":"US",
+    "sg:address":"15124 Herrick Rd",
+    "sg:city":"Albion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 857 2370",
+    "sg:postcode":"49224",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ybvg4TcZssljybuS2DvP_42.298319_-84.680490@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779625,
+    "wof:geomhash":"da7632f7db72263fb37e1741942c8cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689718641
+        }
+    ],
+    "wof:id":689718641,
+    "wof:lastmodified":1461779625,
+    "wof:name":"Andy's Electric",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.68049,
+    42.298319,
+    -84.68049,
+    42.298319
+],
+  "geometry": {"coordinates":[-84.68049000000001,42.298319],"type":"Point"}
+}

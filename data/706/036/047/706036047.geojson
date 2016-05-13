@@ -1,0 +1,69 @@
+{
+  "id": 706036047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.688303,43.171148,-83.688303,43.171148",
+    "geom:latitude":43.171148,
+    "geom:longitude":-83.688303,
+    "iso:country":"US",
+    "sg:address":"1281 E Tobias Rd",
+    "sg:city":"Clio",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 687 8445",
+    "sg:postcode":"48420",
+    "sg:province":"MI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85841859,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61c1MwEt2499oIsQVq1JDu_43.171148_-83.688303@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794329,
+    "wof:geomhash":"85e5fb160a6ad54a4af2703a840d01ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85841859,
+            "region_id":85688599,
+            "venue_id":706036047
+        }
+    ],
+    "wof:id":706036047,
+    "wof:lastmodified":1461794329,
+    "wof:name":"Dave's Small Appliance Repair",
+    "wof:parent_id":85841859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.688303,
+    43.171148,
+    -83.688303,
+    43.171148
+],
+  "geometry": {"coordinates":[-83.688303,43.171148],"type":"Point"}
+}

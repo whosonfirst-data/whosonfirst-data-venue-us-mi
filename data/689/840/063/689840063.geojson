@@ -1,0 +1,73 @@
+{
+  "id": 689840063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.581291,42.99765,-85.581291,42.99765",
+    "geom:latitude":42.99765,
+    "geom:longitude":-85.581291,
+    "iso:country":"US",
+    "sg:address":"1899 Flowers Mill Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 365 2473",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951337,
+        102083023,
+        85877905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40CuVVccy6bwllaGUS4u8Q_42.997650_-85.581291@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783103,
+    "wof:geomhash":"07c77cf666dff2624cf21cd2cbddb8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951337,
+            "neighbourhood_id":85877905,
+            "region_id":85688599,
+            "venue_id":689840063
+        }
+    ],
+    "wof:id":689840063,
+    "wof:lastmodified":1461783103,
+    "wof:name":"Flowers Mill Assoc",
+    "wof:parent_id":85877905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "customs"
+    ]
+},
+  "bbox": [
+    -85.581291,
+    42.99765,
+    -85.581291,
+    42.99765
+],
+  "geometry": {"coordinates":[-85.58129099999999,42.99765],"type":"Point"}
+}

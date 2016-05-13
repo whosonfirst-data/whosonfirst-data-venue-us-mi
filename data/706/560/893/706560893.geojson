@@ -1,0 +1,73 @@
+{
+  "id": 706560893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.281486,42.621572,-83.281486,42.621572",
+    "geom:latitude":42.621572,
+    "geom:longitude":-83.281486,
+    "iso:country":"US",
+    "sg:address":"600 S Saginaw St",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 753 6622",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "product",
+        "validation",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896753,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dcw0Kpc1Ual2RAKmL5DyX_42.621572_-83.281486@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805869,
+    "wof:geomhash":"b5386476a6336baf5292e8cdfd1c016a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896753,
+            "region_id":85688599,
+            "venue_id":706560893
+        }
+    ],
+    "wof:id":706560893,
+    "wof:lastmodified":1461805869,
+    "wof:name":"General Motors",
+    "wof:parent_id":85896753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "validation",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.281486,
+    42.621572,
+    -83.281486,
+    42.621572
+],
+  "geometry": {"coordinates":[-83.281486,42.621572],"type":"Point"}
+}

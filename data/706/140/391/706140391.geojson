@@ -1,0 +1,77 @@
+{
+  "id": 706140391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.481666,42.224099,-83.481666,42.224099",
+    "geom:latitude":42.224099,
+    "geom:longitude":-83.481666,
+    "iso:country":"US",
+    "sg:address":"10670 Dewitt Rd",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 487 8584",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110rIEhTQJeqT2d2ainjhe_42.224099_-83.481666@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461796766,
+    "wof:geomhash":"578fd3abe388f9d39421807a59da7bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":706140391
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706140391
+        }
+    ],
+    "wof:id":706140391,
+    "wof:lastmodified":1461796766,
+    "wof:name":"American Building Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.481666,
+    42.224099,
+    -83.481666,
+    42.224099
+],
+  "geometry": {"coordinates":[-83.481666,42.224099],"type":"Point"}
+}

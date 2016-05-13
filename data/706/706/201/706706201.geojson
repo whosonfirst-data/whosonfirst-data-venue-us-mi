@@ -1,0 +1,78 @@
+{
+  "id": 706706201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.105301,42.476299,-83.105301,42.476299",
+    "geom:latitude":42.476299,
+    "geom:longitude":-83.105301,
+    "iso:country":"US",
+    "sg:address":"110 W 10 Mile Rd",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 543 8018",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.greatlakescollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896815,
+        102191575,
+        404508301,
+        85633793,
+        85951993,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xUXlBnhzwBUjstz5zdXCw_42.476299_-83.105301@1303262778"
+    },
+    "wof:country":"US",
+    "wof:created":1461810342,
+    "wof:geomhash":"61dc457ca1af3a857b573be441bf1e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508301,
+            "locality_id":85951993,
+            "neighbourhood_id":85896815,
+            "region_id":85688599,
+            "venue_id":706706201
+        }
+    ],
+    "wof:id":706706201,
+    "wof:lastmodified":1461810342,
+    "wof:name":"Great Lakes Collision",
+    "wof:parent_id":85896815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.105301,
+    42.476299,
+    -83.105301,
+    42.476299
+],
+  "geometry": {"coordinates":[-83.105301,42.476299],"type":"Point"}
+}

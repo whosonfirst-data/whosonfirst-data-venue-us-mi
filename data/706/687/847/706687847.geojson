@@ -1,0 +1,77 @@
+{
+  "id": 706687847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029198,42.526791,-83.029198,42.526791",
+    "geom:latitude":42.526791,
+    "geom:longitude":-83.029198,
+    "iso:country":"US",
+    "sg:address":"31803 Van Dyke Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/warren/240954-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48093",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896843,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZTqz4MVp6NyzqK9YWbgg8_42.527276_-83.029200@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809592,
+    "wof:geomhash":"9ad750652c00954ecd79a0fc0a2b7617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":85896843,
+            "region_id":85688599,
+            "venue_id":706687847
+        }
+    ],
+    "wof:id":706687847,
+    "wof:lastmodified":1461809592,
+    "wof:name":"White Castle",
+    "wof:parent_id":85896843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.029198,
+    42.526791,
+    -83.029198,
+    42.526791
+],
+  "geometry": {"coordinates":[-83.02919799999999,42.526791],"type":"Point"}
+}

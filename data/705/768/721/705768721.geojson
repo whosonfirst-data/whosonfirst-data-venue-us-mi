@@ -1,0 +1,71 @@
+{
+  "id": 705768721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634722,43.410468,-85.634722,43.410468",
+    "geom:latitude":43.410468,
+    "geom:longitude":-85.634722,
+    "iso:country":"US",
+    "sg:address":"6699 E 80th St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 2939",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01QQF1NtFGhRAIKqDzMkut_43.410468_-85.634722@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788273,
+    "wof:geomhash":"7fa1f8b64b1f9b7ae6d0e787063a554c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705768721
+        }
+    ],
+    "wof:id":705768721,
+    "wof:lastmodified":1461788273,
+    "wof:name":"Oak Grove Veterinary Clinic",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.634722,
+    43.410468,
+    -85.634722,
+    43.410468
+],
+  "geometry": {"coordinates":[-85.634722,43.410468],"type":"Point"}
+}

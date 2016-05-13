@@ -1,0 +1,87 @@
+{
+  "id": 722497765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.916702,42.390099,-82.916702,42.390099",
+    "geom:latitude":42.390099,
+    "geom:longitude":-82.916702,
+    "iso:country":"US",
+    "sg:address":"17007 Kercheval St",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 882 2550",
+    "sg:postcode":"48230",
+    "sg:province":"MI",
+    "sg:tags":[
+        "spa"
+    ],
+    "sg:website":"www.skye-salon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951121,
+        102083147,
+        420524945,
+        85870571,
+        404508593,
+        85951123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DswaZeDleqA2MjEbxHWNX_42.390099_-82.916702@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461812986,
+    "wof:geomhash":"1dec0b16a4d1c2ae6eb7f2a704fcd4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951121,
+            "neighbourhood_id":420524945,
+            "region_id":85688599,
+            "venue_id":722497765
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508593,
+            "locality_id":85951123,
+            "neighbourhood_id":85870571,
+            "region_id":85688599,
+            "venue_id":722497765
+        }
+    ],
+    "wof:id":722497765,
+    "wof:lastmodified":1461812986,
+    "wof:name":"Skye Salon + Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa"
+    ]
+},
+  "bbox": [
+    -82.916702,
+    42.390099,
+    -82.916702,
+    42.390099
+],
+  "geometry": {"coordinates":[-82.916702,42.390099],"type":"Point"}
+}

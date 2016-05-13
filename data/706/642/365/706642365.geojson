@@ -1,0 +1,71 @@
+{
+  "id": 706642365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.52183,42.260984,-85.52183,42.260984",
+    "geom:latitude":42.260984,
+    "geom:longitude":-85.52183,
+    "iso:country":"US",
+    "sg:address":"2975 Interstate Pkwy",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 0973",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ml7kpNS3pU149ztcHJJxD_42.260984_-85.521830@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807625,
+    "wof:geomhash":"501f634d832f9d29b892b1d0d153a672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":706642365
+        }
+    ],
+    "wof:id":706642365,
+    "wof:lastmodified":1461807625,
+    "wof:name":"Mc Donald's Towing & Rescue",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.52183,
+    42.260984,
+    -85.52183,
+    42.260984
+],
+  "geometry": {"coordinates":[-85.52182999999999,42.260984],"type":"Point"}
+}

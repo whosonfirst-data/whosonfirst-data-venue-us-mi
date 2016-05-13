@@ -1,0 +1,71 @@
+{
+  "id": 705786063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.948754,43.468092,-85.948754,43.468092",
+    "geom:latitude":43.468092,
+    "geom:longitude":-85.948754,
+    "iso:country":"US",
+    "sg:address":"111 W Dayton St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3600",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44sGE5K6uFJNGcuSRDgfAO_43.468092_-85.948754@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788713,
+    "wof:geomhash":"8a2547751310b58a43307f9f7b6c3c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705786063
+        }
+    ],
+    "wof:id":705786063,
+    "wof:lastmodified":1461788713,
+    "wof:name":"Fremont Dental Assoc",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.948754,
+    43.468092,
+    -85.948754,
+    43.468092
+],
+  "geometry": {"coordinates":[-85.94875399999999,43.468092],"type":"Point"}
+}

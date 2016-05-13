@@ -1,0 +1,73 @@
+{
+  "id": 706543863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.232452,43.064443,-86.232452,43.064443",
+    "geom:latitude":43.064443,
+    "geom:longitude":-86.232452,
+    "iso:country":"US",
+    "sg:address":"115 Washington Ave",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 9433",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CWk2XonMC7cW8CpnxlSBm_43.064443_-86.232452@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805536,
+    "wof:geomhash":"d320bcafbc3aa6c3f272e955a9edbafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706543863
+        }
+    ],
+    "wof:id":706543863,
+    "wof:lastmodified":1461805536,
+    "wof:name":"RIT Music West",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.232452,
+    43.064443,
+    -86.232452,
+    43.064443
+],
+  "geometry": {"coordinates":[-86.23245199999999,43.064443],"type":"Point"}
+}

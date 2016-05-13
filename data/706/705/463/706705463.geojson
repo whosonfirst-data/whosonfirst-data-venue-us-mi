@@ -1,0 +1,75 @@
+{
+  "id": 706705463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.116138,42.519631,-83.116138,42.519631",
+    "geom:latitude":42.519631,
+    "geom:longitude":-83.116138,
+    "iso:country":"US",
+    "sg:address":"1005 W 13 Mile Rd",
+    "sg:city":"Madison Heights",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 307 4910",
+    "sg:postcode":"48071",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896811,
+        102191575,
+        404508209,
+        85633793,
+        85952031,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vQLmJY6xakRNxs26vcrdW_42.519631_-83.116138@1303262777"
+    },
+    "wof:country":"US",
+    "wof:created":1461810299,
+    "wof:geomhash":"066dab5b3895de1a5de01ca9e9b57d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508209,
+            "locality_id":85952031,
+            "neighbourhood_id":85896811,
+            "region_id":85688599,
+            "venue_id":706705463
+        }
+    ],
+    "wof:id":706705463,
+    "wof:lastmodified":1461810299,
+    "wof:name":"Meijer Pharmacy",
+    "wof:parent_id":85896811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.116138,
+    42.519631,
+    -83.116138,
+    42.519631
+],
+  "geometry": {"coordinates":[-83.11613800000001,42.519631],"type":"Point"}
+}

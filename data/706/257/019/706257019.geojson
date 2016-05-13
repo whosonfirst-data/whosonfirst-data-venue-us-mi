@@ -1,0 +1,73 @@
+{
+  "id": 706257019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.584582,42.897913,-85.584582,42.897913",
+    "geom:latitude":42.897913,
+    "geom:longitude":-85.584582,
+    "iso:country":"US",
+    "sg:address":"3300 36th St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 2110",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ze6YXuMIusXTawcw2D91R_42.897913_-85.584582@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799347,
+    "wof:geomhash":"8d2892d23881c48330be451d514c9b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":706257019
+        }
+    ],
+    "wof:id":706257019,
+    "wof:lastmodified":1461799347,
+    "wof:name":"L'Tanya A Haith MD",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.584582,
+    42.897913,
+    -85.584582,
+    42.897913
+],
+  "geometry": {"coordinates":[-85.584582,42.897913],"type":"Point"}
+}

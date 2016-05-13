@@ -1,0 +1,77 @@
+{
+  "id": 706737315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.444984,42.359179,-83.444984,42.359179",
+    "geom:latitude":42.359179,
+    "geom:longitude":-83.444984,
+    "iso:country":"US",
+    "sg:address":"40909 Ann Arbor Rd E",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 8666",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_777THeuxe6RkMMRuHSLaEi_42.359179_-83.444984@1303262785"
+    },
+    "wof:country":"US",
+    "wof:created":1461811706,
+    "wof:geomhash":"6f6274eba432fdb4023b845ea10b14cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":706737315
+        }
+    ],
+    "wof:id":706737315,
+    "wof:lastmodified":1461811706,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.444984,
+    42.359179,
+    -83.444984,
+    42.359179
+],
+  "geometry": {"coordinates":[-83.44498400000001,42.359179],"type":"Point"}
+}

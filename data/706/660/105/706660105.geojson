@@ -1,0 +1,84 @@
+{
+  "id": 706660105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.202103,42.475101,-83.202103,42.475101",
+    "geom:latitude":42.475101,
+    "geom:longitude":-83.202103,
+    "iso:country":"US",
+    "sg:address":"25155 Greenfield Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 559 1883",
+    "sg:postcode":"48075",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "kosher",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896735,
+        102191575,
+        404508287,
+        85633793,
+        85952019,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AW0nOZWw5b7jPGOg2m7lx_42.475603_-83.201912@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808433,
+    "wof:geomhash":"42d7b5e10ac72c64dbd9b917ce9338b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508287,
+            "locality_id":85952019,
+            "neighbourhood_id":85896735,
+            "region_id":85688599,
+            "venue_id":706660105
+        }
+    ],
+    "wof:id":706660105,
+    "wof:lastmodified":1461808433,
+    "wof:name":"Superior Meats",
+    "wof:parent_id":85896735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "kosher",
+        "product"
+    ]
+},
+  "bbox": [
+    -83.202103,
+    42.475101,
+    -83.202103,
+    42.475101
+],
+  "geometry": {"coordinates":[-83.20210299999999,42.475101],"type":"Point"}
+}

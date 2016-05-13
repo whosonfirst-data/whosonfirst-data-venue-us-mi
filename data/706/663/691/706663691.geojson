@@ -1,0 +1,77 @@
+{
+  "id": 706663691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.234398,42.383598,-83.234398,42.383598",
+    "geom:latitude":42.383598,
+    "geom:longitude":-83.234398,
+    "iso:country":"US",
+    "sg:address":"12925 Auburn St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 838 1331",
+    "sg:postcode":"48223",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838629,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sjkhpYVWwYNP4qjuR6kJM_42.383549_-83.234366@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808610,
+    "wof:geomhash":"aa63adbc279e0fc4fdf4651a9d8c0c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85838629,
+            "region_id":85688599,
+            "venue_id":706663691
+        }
+    ],
+    "wof:id":706663691,
+    "wof:lastmodified":1461808610,
+    "wof:name":"Dick's Auto Body & Frame",
+    "wof:parent_id":85838629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.234398,
+    42.383598,
+    -83.234398,
+    42.383598
+],
+  "geometry": {"coordinates":[-83.234398,42.383598],"type":"Point"}
+}

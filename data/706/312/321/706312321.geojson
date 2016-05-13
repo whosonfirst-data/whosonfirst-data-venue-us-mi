@@ -1,0 +1,69 @@
+{
+  "id": 706312321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.136246,42.745218,-83.136246,42.745218",
+    "geom:latitude":42.745218,
+    "geom:longitude":-83.136246,
+    "iso:country":"US",
+    "sg:address":"3985 N Rochester Rd",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 652 3614",
+    "sg:postcode":"48306",
+    "sg:province":"MI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896789,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Uk4CDBtqdpZhi2YMvd96_42.745218_-83.136246@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800563,
+    "wof:geomhash":"6ce5732848673c8ccc1ce3256354077d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85896789,
+            "region_id":85688599,
+            "venue_id":706312321
+        }
+    ],
+    "wof:id":706312321,
+    "wof:lastmodified":1461800563,
+    "wof:name":"Fogler's Orchard & Farm Market",
+    "wof:parent_id":85896789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -83.136246,
+    42.745218,
+    -83.136246,
+    42.745218
+],
+  "geometry": {"coordinates":[-83.136246,42.745218],"type":"Point"}
+}

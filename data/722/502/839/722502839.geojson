@@ -1,0 +1,70 @@
+{
+  "id": 722502839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.291745,42.399819,-83.291745,42.399819",
+    "geom:latitude":42.399819,
+    "geom:longitude":-83.291745,
+    "iso:country":"US",
+    "sg:address":"25380 5 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 592 6357",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896771,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WhI0cb2gz0jkwWgDJ7ce7_42.399819_-83.291745@1303262794"
+    },
+    "wof:country":"US",
+    "wof:created":1461813179,
+    "wof:geomhash":"fb68d424586e8e05d831275031a7d7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896771,
+            "region_id":85688599,
+            "venue_id":722502839
+        }
+    ],
+    "wof:id":722502839,
+    "wof:lastmodified":1461813179,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85896771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.291745,
+    42.399819,
+    -83.291745,
+    42.399819
+],
+  "geometry": {"coordinates":[-83.29174500000001,42.399819],"type":"Point"}
+}

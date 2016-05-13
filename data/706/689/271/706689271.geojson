@@ -1,0 +1,78 @@
+{
+  "id": 706689271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632716,43.024593,-85.632716,43.024593",
+    "geom:latitude":43.024593,
+    "geom:longitude":-85.632716,
+    "iso:country":"US",
+    "sg:address":"3401 Plainfield Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/56563-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 364 6500",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877907,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28iLa64Ybcat9eEEZxPMMW_43.024489_-85.632811@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809643,
+    "wof:geomhash":"bb8b3cae8a5765cb06a9e5531ede1f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877907,
+            "region_id":85688599,
+            "venue_id":706689271
+        }
+    ],
+    "wof:id":706689271,
+    "wof:lastmodified":1461809643,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85877907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.632716,
+    43.024593,
+    -85.632716,
+    43.024593
+],
+  "geometry": {"coordinates":[-85.632716,43.024593],"type":"Point"}
+}

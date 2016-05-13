@@ -1,0 +1,72 @@
+{
+  "id": 706686997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638993,44.745293,-85.638993,44.745293",
+    "geom:latitude":44.745293,
+    "geom:longitude":-85.638993,
+    "iso:country":"US",
+    "sg:address":"1535 S Division St",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/traverse-city/86981-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 929 2700",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Es1RPbxTEUZJx5WnzhrSy_44.745293_-85.638993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809557,
+    "wof:geomhash":"044ed7dd120cb8d040293c9654c79427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706686997
+        }
+    ],
+    "wof:id":706686997,
+    "wof:lastmodified":1461809557,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.638993,
+    44.745293,
+    -85.638993,
+    44.745293
+],
+  "geometry": {"coordinates":[-85.638993,44.745293],"type":"Point"}
+}

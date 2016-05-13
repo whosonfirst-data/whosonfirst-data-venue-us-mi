@@ -1,0 +1,81 @@
+{
+  "id": 722500251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.8731,42.450199,-82.8731,42.450199",
+    "geom:latitude":42.450199,
+    "geom:longitude":-82.8731,
+    "iso:country":"US",
+    "sg:address":"1100 Lake Shore Rd",
+    "sg:city":"Grosse Pointe",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 884 4222",
+    "sg:postcode":"48236",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.fordhouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        102191575,
+        85633793,
+        85951587,
+        102083147,
+        420524821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dsCaEj0svENw7UGUpInyE_42.450199_-82.873100@1303262793"
+    },
+    "wof:country":"US",
+    "wof:created":1461813084,
+    "wof:geomhash":"5bc44ec05bfee065e2d85215032c63ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "locality_id":85951587,
+            "neighbourhood_id":420524821,
+            "region_id":85688599,
+            "venue_id":722500251
+        }
+    ],
+    "wof:id":722500251,
+    "wof:lastmodified":1461813084,
+    "wof:name":"Edsel & Eleanor Ford House",
+    "wof:parent_id":420524821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -82.8731,
+    42.450199,
+    -82.8731,
+    42.450199
+],
+  "geometry": {"coordinates":[-82.87309999999999,42.450199],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705963553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.435293,46.544864,-87.435293,46.544864",
+    "geom:latitude":46.544864,
+    "geom:longitude":-87.435293,
+    "iso:country":"US",
+    "sg:address":"200 Whetstone Rd",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 3630",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WJVF4q8cLoOOXgpEiRJMw_46.544864_-87.435293@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792831,
+    "wof:geomhash":"ea25957152c3c688ef21ed8977c15d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":705963553
+        }
+    ],
+    "wof:id":705963553,
+    "wof:lastmodified":1461792831,
+    "wof:name":"Whetstone Village Apartments",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.435293,
+    46.544864,
+    -87.435293,
+    46.544864
+],
+  "geometry": {"coordinates":[-87.435293,46.544864],"type":"Point"}
+}

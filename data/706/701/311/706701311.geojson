@@ -1,0 +1,71 @@
+{
+  "id": 706701311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.877433,42.597949,-82.877433,42.597949",
+    "geom:latitude":42.597949,
+    "geom:longitude":-82.877433,
+    "iso:country":"US",
+    "sg:address":"39 N Main St",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 783 9100",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S0sbBcJbNXaexBd5yPVX2_42.597949_-82.877433@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810132,
+    "wof:geomhash":"b6da5a26ec8b702952cfa7a4e4d2f0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706701311
+        }
+    ],
+    "wof:id":706701311,
+    "wof:lastmodified":1461810132,
+    "wof:name":"The Detroit Burger Company",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -82.877433,
+    42.597949,
+    -82.877433,
+    42.597949
+],
+  "geometry": {"coordinates":[-82.877433,42.597949],"type":"Point"}
+}

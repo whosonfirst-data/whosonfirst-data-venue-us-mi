@@ -1,0 +1,73 @@
+{
+  "id": 689491021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.556468,46.493176,-87.556468,46.493176",
+    "geom:latitude":46.493176,
+    "geom:longitude":-87.556468,
+    "iso:country":"US",
+    "sg:address":"118 Johnson Rd",
+    "sg:city":"Negaunee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 475 7263",
+    "sg:postcode":"49866",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zTx3Z2wIbwzZfwpifYp4o_46.493176_-87.556468@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772857,
+    "wof:geomhash":"5ed141bbb2ddf67c01a032d52ddf41fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689491021
+        }
+    ],
+    "wof:id":689491021,
+    "wof:lastmodified":1461772857,
+    "wof:name":"Poutanen Electric",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.556468,
+    46.493176,
+    -87.556468,
+    46.493176
+],
+  "geometry": {"coordinates":[-87.556468,46.493176],"type":"Point"}
+}

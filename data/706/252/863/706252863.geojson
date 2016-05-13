@@ -1,0 +1,71 @@
+{
+  "id": 706252863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.001928,43.408726,-84.001928,43.408726",
+    "geom:latitude":43.408726,
+    "geom:longitude":-84.001928,
+    "iso:country":"US",
+    "sg:address":"1 Rust Ln",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 792 3521",
+    "sg:postcode":"48602",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E53HAFDLFakqWC1wH1GcY_43.408726_-84.001928@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799258,
+    "wof:geomhash":"efd565c9e4442a84ebd8fe2d4c8bad8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706252863
+        }
+    ],
+    "wof:id":706252863,
+    "wof:lastmodified":1461799258,
+    "wof:name":"Davenport Braun APT",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.001928,
+    43.408726,
+    -84.001928,
+    43.408726
+],
+  "geometry": {"coordinates":[-84.00192800000001,43.408726],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706598841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.09876,42.852726,-86.09876,42.852726",
+    "geom:latitude":42.852726,
+    "geom:longitude":-86.09876,
+    "iso:country":"US",
+    "sg:address":"4554 128th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 9025",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qByHCk3tvhyrWSA8bbhtZ_42.852726_-86.098760@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806705,
+    "wof:geomhash":"5c053036cd37dbfe0c2046cd8900053f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706598841
+        }
+    ],
+    "wof:id":706598841,
+    "wof:lastmodified":1461806705,
+    "wof:name":"Global Parts Source",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.09876,
+    42.852726,
+    -86.09876,
+    42.852726
+],
+  "geometry": {"coordinates":[-86.09876,42.852726],"type":"Point"}
+}

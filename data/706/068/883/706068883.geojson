@@ -1,0 +1,75 @@
+{
+  "id": 706068883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63714,42.124126,-85.63714,42.124126",
+    "geom:latitude":42.124126,
+    "geom:longitude":-85.63714,
+    "iso:country":"US",
+    "sg:address":"13323 US Hwy 131",
+    "sg:city":"Schoolcraft",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 679 3399",
+    "sg:postcode":"49087",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85842599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ONx9iTIiLXaZoSE80J29_42.124126_-85.637140@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795006,
+    "wof:geomhash":"d7b393709896cc6884b2ae053275dbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85842599,
+            "region_id":85688599,
+            "venue_id":706068883
+        }
+    ],
+    "wof:id":706068883,
+    "wof:lastmodified":1461795006,
+    "wof:name":"Charlie's Auto",
+    "wof:parent_id":85842599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.63714,
+    42.124126,
+    -85.63714,
+    42.124126
+],
+  "geometry": {"coordinates":[-85.63714,42.124126],"type":"Point"}
+}

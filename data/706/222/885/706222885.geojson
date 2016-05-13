@@ -1,0 +1,71 @@
+{
+  "id": 706222885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.556163,41.942843,-86.556163,41.942843",
+    "geom:latitude":41.942843,
+    "geom:longitude":-86.556163,
+    "iso:country":"US",
+    "sg:address":"4222 Lake St",
+    "sg:city":"Bridgman",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 465 6413",
+    "sg:postcode":"49106",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951565,
+        102083151,
+        85849193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MwNp8EkGE5lVVr2wlzN8C_41.942843_-86.556163@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798561,
+    "wof:geomhash":"163e4fe18aea50f7625fd0467584a9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85951565,
+            "neighbourhood_id":85849193,
+            "region_id":85688599,
+            "venue_id":706222885
+        }
+    ],
+    "wof:id":706222885,
+    "wof:lastmodified":1461798561,
+    "wof:name":"Ben Franklin",
+    "wof:parent_id":85849193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.556163,
+    41.942843,
+    -86.556163,
+    41.942843
+],
+  "geometry": {"coordinates":[-86.556163,41.942843],"type":"Point"}
+}

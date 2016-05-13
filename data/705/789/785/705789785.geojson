@@ -1,0 +1,91 @@
+{
+  "id": 705789785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.171314,42.639459,-83.171314,42.639459",
+    "geom:latitude":42.639459,
+    "geom:longitude":-83.171314,
+    "iso:country":"US",
+    "sg:address":"2130 Austin Ave",
+    "sg:city":"Rochester Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 853 5430",
+    "sg:postcode":"48309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "motorola",
+        "communication",
+        "system",
+        "sales",
+        "equipment",
+        "radio"
+    ],
+    "sg:website":"www.comsourcemi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524479,
+        102191575,
+        404508299,
+        85633793,
+        85951995,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UuZs96wz5Zhsp5LQ2XKAv_42.639459_-83.171314@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788795,
+    "wof:geomhash":"77c21da60980881ff09e1710d5ade8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508299,
+            "locality_id":85951995,
+            "neighbourhood_id":420524479,
+            "region_id":85688599,
+            "venue_id":705789785
+        }
+    ],
+    "wof:id":705789785,
+    "wof:lastmodified":1461788795,
+    "wof:name":"Comsource Inc",
+    "wof:parent_id":420524479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorola",
+        "communication",
+        "system",
+        "sales",
+        "equipment",
+        "radio"
+    ]
+},
+  "bbox": [
+    -83.171314,
+    42.639459,
+    -83.171314,
+    42.639459
+],
+  "geometry": {"coordinates":[-83.171314,42.639459],"type":"Point"}
+}

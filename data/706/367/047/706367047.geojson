@@ -1,0 +1,78 @@
+{
+  "id": 706367047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.492545,42.096629,-86.492545,42.096629",
+    "geom:latitude":42.096629,
+    "geom:longitude":-86.492545,
+    "iso:country":"US",
+    "sg:address":"1807 Lakeshore Dr",
+    "sg:city":"St Joseph",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 983 8051",
+    "sg:postcode":"49085",
+    "sg:province":"MI",
+    "sg:tags":[
+        "residential",
+        "property",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85853921,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xPPTmOVZtaStWxY0hqfpo_42.096629_-86.492545@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801751,
+    "wof:geomhash":"6d97c40033774151fdee2183ecdda9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85853921,
+            "region_id":85688599,
+            "venue_id":706367047
+        }
+    ],
+    "wof:id":706367047,
+    "wof:lastmodified":1461801751,
+    "wof:name":"Lakeside Property Management",
+    "wof:parent_id":85853921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "property",
+        "management"
+    ]
+},
+  "bbox": [
+    -86.492545,
+    42.096629,
+    -86.492545,
+    42.096629
+],
+  "geometry": {"coordinates":[-86.49254500000001,42.096629],"type":"Point"}
+}

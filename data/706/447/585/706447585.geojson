@@ -1,0 +1,71 @@
+{
+  "id": 706447585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342729,43.409391,-86.342729,43.409391",
+    "geom:latitude":43.409391,
+    "geom:longitude":-86.342729,
+    "iso:country":"US",
+    "sg:address":"119 S Baldwin St",
+    "sg:city":"Whitehall",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 4306",
+    "sg:postcode":"49461",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cnBViMNvBz7SJF8bqtzPQ_43.409391_-86.342729@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803383,
+    "wof:geomhash":"f64dee41800232591fb1f9c7b0dae984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706447585
+        }
+    ],
+    "wof:id":706447585,
+    "wof:lastmodified":1461803383,
+    "wof:name":"White Lake Ambulance Svc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.342729,
+    43.409391,
+    -86.342729,
+    43.409391
+],
+  "geometry": {"coordinates":[-86.34272900000001,43.409391],"type":"Point"}
+}

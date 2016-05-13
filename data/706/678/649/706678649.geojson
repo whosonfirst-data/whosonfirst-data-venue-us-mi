@@ -1,0 +1,91 @@
+{
+  "id": 706678649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.069868,42.36505,-83.069868,42.36505",
+    "geom:latitude":42.36505,
+    "geom:longitude":-83.069868,
+    "iso:country":"US",
+    "sg:address":"5996 Woodward Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/detroit/56900-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 870 1260",
+    "sg:postcode":"48202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870589,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85866987,
+        404506401,
+        85951033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Nse0imPh4SLExJAQvmSA_42.365050_-83.069868@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809232,
+    "wof:geomhash":"4ee1c278895a121e5e98746ea7f42e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870589,
+            "region_id":85688599,
+            "venue_id":706678649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":706678649
+        }
+    ],
+    "wof:id":706678649,
+    "wof:lastmodified":1461809232,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.069868,
+    42.36505,
+    -83.069868,
+    42.36505
+],
+  "geometry": {"coordinates":[-83.069868,42.36505],"type":"Point"}
+}

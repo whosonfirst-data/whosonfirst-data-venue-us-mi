@@ -1,0 +1,71 @@
+{
+  "id": 706551013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.579069,43.092351,-82.579069,43.092351",
+    "geom:latitude":43.092351,
+    "geom:longitude":-82.579069,
+    "iso:country":"US",
+    "sg:address":"6493 Wildcat Rd",
+    "sg:city":"Jeddo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 327 2154",
+    "sg:postcode":"48032",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zl7kmmn6TXYJUOJOKY4eo_43.092351_-82.579069@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805680,
+    "wof:geomhash":"6f3e1257dbc7ba73900c22932e07653b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":706551013
+        }
+    ],
+    "wof:id":706551013,
+    "wof:lastmodified":1461805680,
+    "wof:name":"Wills Body Shop",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -82.579069,
+    43.092351,
+    -82.579069,
+    43.092351
+],
+  "geometry": {"coordinates":[-82.579069,43.092351],"type":"Point"}
+}

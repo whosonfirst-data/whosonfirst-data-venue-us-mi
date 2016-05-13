@@ -1,0 +1,71 @@
+{
+  "id": 706494661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.071756,45.755278,-87.071756,45.755278",
+    "geom:latitude":45.755278,
+    "geom:longitude":-87.071756,
+    "iso:country":"US",
+    "sg:address":"801 Stephenson Ave",
+    "sg:city":"Escanaba",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 786 9650",
+    "sg:postcode":"49829",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837595,
+        102083091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TJSPzhrKuuJymovj5N0nr_45.755278_-87.071756@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804523,
+    "wof:geomhash":"1bf27cb6c9d8593716a09ea1d6edbbaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083091,
+            "neighbourhood_id":85837595,
+            "region_id":85688599,
+            "venue_id":706494661
+        }
+    ],
+    "wof:id":706494661,
+    "wof:lastmodified":1461804523,
+    "wof:name":"John's US Svc",
+    "wof:parent_id":85837595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.071756,
+    45.755278,
+    -87.071756,
+    45.755278
+],
+  "geometry": {"coordinates":[-87.07175599999999,45.755278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 689885983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.50015,42.682792,-84.50015,42.682792",
+    "geom:latitude":42.682792,
+    "geom:longitude":-84.50015,
+    "iso:country":"US",
+    "sg:address":"3390 E Jolly Rd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 2020",
+    "sg:postcode":"48910",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.rosenbaumeye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PLnnL9QD8VCYUFraeGtNF_42.682792_-84.500150@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784200,
+    "wof:geomhash":"370ccf09d702fa7df9329fb52568c4fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878645,
+            "region_id":85688599,
+            "venue_id":689885983
+        }
+    ],
+    "wof:id":689885983,
+    "wof:lastmodified":1461784200,
+    "wof:name":"Rosenbaum Eye & Laser Ctr",
+    "wof:parent_id":85878645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.50015,
+    42.682792,
+    -84.50015,
+    42.682792
+],
+  "geometry": {"coordinates":[-84.50015,42.682792],"type":"Point"}
+}

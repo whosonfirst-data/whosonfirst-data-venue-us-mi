@@ -1,0 +1,69 @@
+{
+  "id": 706500933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.388219,42.627344,-83.388219,42.627344",
+    "geom:latitude":42.627344,
+    "geom:longitude":-83.388219,
+    "iso:country":"US",
+    "sg:address":"5157 Cass Elizabeth Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 706 1055",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85820385,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E8zsZxxA1woOXSxsA0QOh_42.627344_-83.388219@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804668,
+    "wof:geomhash":"6f72ba9cde5ad3d1ea39b8fa11d40a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85820385,
+            "region_id":85688599,
+            "venue_id":706500933
+        }
+    ],
+    "wof:id":706500933,
+    "wof:lastmodified":1461804668,
+    "wof:name":"A-1",
+    "wof:parent_id":85820385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.388219,
+    42.627344,
+    -83.388219,
+    42.627344
+],
+  "geometry": {"coordinates":[-83.38821900000001,42.627344],"type":"Point"}
+}

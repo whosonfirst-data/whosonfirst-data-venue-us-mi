@@ -1,0 +1,76 @@
+{
+  "id": 722477101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.189201,42.1992,-83.189201,42.1992",
+    "geom:latitude":42.1992,
+    "geom:longitude":-83.189201,
+    "iso:country":"US",
+    "sg:address":"13545 Eureka Rd",
+    "sg:city":"Southgate",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 283 2367",
+    "sg:postcode":"48195",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896825,
+        102191575,
+        404508659,
+        85633793,
+        85950971,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YIr8ZhkfTmlKNKTc6eR3r_42.199200_-83.189201@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812156,
+    "wof:geomhash":"94ebe4be72a31f477b48073b66e824cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508659,
+            "locality_id":85950971,
+            "neighbourhood_id":85896825,
+            "region_id":85688599,
+            "venue_id":722477101
+        }
+    ],
+    "wof:id":722477101,
+    "wof:lastmodified":1461812156,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85896825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.189201,
+    42.1992,
+    -83.189201,
+    42.1992
+],
+  "geometry": {"coordinates":[-83.189201,42.1992],"type":"Point"}
+}

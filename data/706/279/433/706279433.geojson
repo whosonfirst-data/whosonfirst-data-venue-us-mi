@@ -1,0 +1,73 @@
+{
+  "id": 706279433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.224894,43.200603,-86.224894,43.200603",
+    "geom:latitude":43.200603,
+    "geom:longitude":-86.224894,
+    "iso:country":"US",
+    "sg:address":"2846 S Getty St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 8334",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VNmuxBfSkWQnHWOeFMllL_43.200603_-86.224894@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799840,
+    "wof:geomhash":"d67f4be23413874096cf087164b5e922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706279433
+        }
+    ],
+    "wof:id":706279433,
+    "wof:lastmodified":1461799840,
+    "wof:name":"Bowmans Body Shop Inc",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.224894,
+    43.200603,
+    -86.224894,
+    43.200603
+],
+  "geometry": {"coordinates":[-86.22489400000001,43.200603],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706685279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.354248,42.931438,-85.354248,42.931438",
+    "geom:latitude":42.931438,
+    "geom:longitude":-85.354248,
+    "iso:country":"US",
+    "sg:address":"1300 W Main St",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/lowell/185760-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yky1hoMQ837kslnqTWJzP_42.931438_-85.354248@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809494,
+    "wof:geomhash":"539f39d7160baee37ae8f5d1d556b346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706685279
+        }
+    ],
+    "wof:id":706685279,
+    "wof:lastmodified":1461809494,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.354248,
+    42.931438,
+    -85.354248,
+    42.931438
+],
+  "geometry": {"coordinates":[-85.354248,42.931438],"type":"Point"}
+}

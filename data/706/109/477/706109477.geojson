@@ -1,0 +1,71 @@
+{
+  "id": 706109477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518701,42.150912,-84.518701,42.150912",
+    "geom:latitude":42.150912,
+    "geom:longitude":-84.518701,
+    "iso:country":"US",
+    "sg:address":"121 Moscow Rd",
+    "sg:city":"Horton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 563 2043",
+    "sg:postcode":"49246",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l5OU8JptkFCulKs9xXwtg_42.150912_-84.518701@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795975,
+    "wof:geomhash":"71695c345546ea7a356749deb13d3487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706109477
+        }
+    ],
+    "wof:id":706109477,
+    "wof:lastmodified":1461795975,
+    "wof:name":"Voris Electric",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.518701,
+    42.150912,
+    -84.518701,
+    42.150912
+],
+  "geometry": {"coordinates":[-84.51870099999999,42.150912],"type":"Point"}
+}

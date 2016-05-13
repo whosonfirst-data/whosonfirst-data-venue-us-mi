@@ -1,0 +1,96 @@
+{
+  "id": 706189157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.425696,42.977306,-82.425696,42.977306",
+    "geom:latitude":42.977306,
+    "geom:longitude":-82.425696,
+    "iso:country":"US",
+    "sg:address":"626 Grand River Ave",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 966 9500",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85784851,
+        102191575,
+        85633041,
+        101740719,
+        85682057,
+        101736019,
+        85896759,
+        404508925,
+        85633793,
+        85951541,
+        102083053,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16HbICrTb2diMsYxcp4Yca_42.977306_-82.425696@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797842,
+    "wof:geomhash":"ccc73fcbe95f361a7300beb3a0de135f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101740719,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":706189157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633041,
+            "locality_id":101736019,
+            "neighbourhood_id":85784851,
+            "region_id":85682057,
+            "venue_id":706189157
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083053,
+            "localadmin_id":404508925,
+            "locality_id":85951541,
+            "neighbourhood_id":85896759,
+            "region_id":85688599,
+            "venue_id":706189157
+        }
+    ],
+    "wof:id":706189157,
+    "wof:lastmodified":1461797842,
+    "wof:name":"B & L Athletic Equipment Clean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -82.425696,
+    42.977306,
+    -82.425696,
+    42.977306
+],
+  "geometry": {"coordinates":[-82.425696,42.977306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705927553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.405621,41.906785,-83.405621,41.906785",
+    "geom:latitude":41.906785,
+    "geom:longitude":-83.405621,
+    "iso:country":"US",
+    "sg:address":"1225 S Monroe St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 242 4765",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QJJKaco1PnSWRgiti8lsi_41.906785_-83.405621@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792007,
+    "wof:geomhash":"28b94fbf86782beabace8930c5f19045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705927553
+        }
+    ],
+    "wof:id":705927553,
+    "wof:lastmodified":1461792007,
+    "wof:name":"Quality Auto Wash",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.405621,
+    41.906785,
+    -83.405621,
+    41.906785
+],
+  "geometry": {"coordinates":[-83.405621,41.906785],"type":"Point"}
+}

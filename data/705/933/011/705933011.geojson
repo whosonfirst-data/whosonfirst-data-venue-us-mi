@@ -1,0 +1,77 @@
+{
+  "id": 705933011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.089122,42.432758,-83.089122,42.432758",
+    "geom:latitude":42.432758,
+    "geom:longitude":-83.089122,
+    "iso:country":"US",
+    "sg:address":"1411 E 7 Mile Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 368 8277",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "self",
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870525,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y7eguo05X6QzJN3LWBFdU_42.432758_-83.089122@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792130,
+    "wof:geomhash":"f4ecff3b2f5976fd74c5e3dd60f1c540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870525,
+            "region_id":85688599,
+            "venue_id":705933011
+        }
+    ],
+    "wof:id":705933011,
+    "wof:lastmodified":1461792130,
+    "wof:name":"Youngs Laundromat Inc",
+    "wof:parent_id":85870525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -83.089122,
+    42.432758,
+    -83.089122,
+    42.432758
+],
+  "geometry": {"coordinates":[-83.089122,42.432758],"type":"Point"}
+}

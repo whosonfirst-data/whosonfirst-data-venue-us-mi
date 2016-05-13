@@ -1,0 +1,78 @@
+{
+  "id": 706686025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65447,42.967629,-85.65447,42.967629",
+    "geom:latitude":42.967629,
+    "geom:longitude":-85.65447,
+    "iso:country":"US",
+    "sg:address":"208 Union Ave NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50801-nantucket/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 726 6609",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877897,
+        102191575,
+        404507947,
+        85633793,
+        85951337,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jy7JydjdLj38KmJw3hLbq_42.967629_-85.654470@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809522,
+    "wof:geomhash":"81dc28c09b7f30713adbb508643bd342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877897,
+            "region_id":85688599,
+            "venue_id":706686025
+        }
+    ],
+    "wof:id":706686025,
+    "wof:lastmodified":1461809522,
+    "wof:name":"Nantucket",
+    "wof:parent_id":85877897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.65447,
+    42.967629,
+    -85.65447,
+    42.967629
+],
+  "geometry": {"coordinates":[-85.65447,42.967629],"type":"Point"}
+}

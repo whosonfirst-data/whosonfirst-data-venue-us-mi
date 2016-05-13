@@ -1,0 +1,77 @@
+{
+  "id": 689660445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4771,42.209459,-83.4771,42.209459",
+    "geom:latitude":42.209459,
+    "geom:longitude":-83.4771,
+    "iso:country":"US",
+    "sg:address":"537 E Huron River Dr",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 699 7422",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85805511,
+        102083147,
+        85817453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EzmveUMjOgPR9WEmPNf29_42.209459_-83.477100@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778137,
+    "wof:geomhash":"1569108d7f6d8ace4b0b2fee10f4f394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85805511,
+            "region_id":85688599,
+            "venue_id":689660445
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":689660445
+        }
+    ],
+    "wof:id":689660445,
+    "wof:lastmodified":1461778137,
+    "wof:name":"Als Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.4771,
+    42.209459,
+    -83.4771,
+    42.209459
+],
+  "geometry": {"coordinates":[-83.47709999999999,42.209459],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 722485833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.975502,42.3647,-82.975502,42.3647",
+    "geom:latitude":42.3647,
+    "geom:longitude":-82.975502,
+    "iso:country":"US",
+    "sg:address":"10800 E Jefferson Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 331 8226",
+    "sg:postcode":"48214",
+    "sg:province":"MI",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "yogurt",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870577,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KzBPVqizznrOcoarsjrJ3_42.364700_-82.975502@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812520,
+    "wof:geomhash":"afe90032a31d333cfd1e514d6f67faa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870577,
+            "region_id":85688599,
+            "venue_id":722485833
+        }
+    ],
+    "wof:id":722485833,
+    "wof:lastmodified":1461812520,
+    "wof:name":"River Breeze Dairy Freeze",
+    "wof:parent_id":85870577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "yogurt",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -82.975502,
+    42.3647,
+    -82.975502,
+    42.3647
+],
+  "geometry": {"coordinates":[-82.97550200000001,42.3647],"type":"Point"}
+}

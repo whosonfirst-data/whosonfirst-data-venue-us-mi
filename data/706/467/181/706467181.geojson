@@ -1,0 +1,89 @@
+{
+  "id": 706467181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.260838,42.476893,-83.260838,42.476893",
+    "geom:latitude":42.476893,
+    "geom:longitude":-83.260838,
+    "iso:country":"US",
+    "sg:address":"25700 Lahser Rd",
+    "sg:city":"Southfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 415 2514",
+    "sg:postcode":"48033",
+    "sg:province":"MI",
+    "sg:tags":[
+        "living",
+        "assisted",
+        "rehabilitation",
+        "clinic",
+        "outpatient"
+    ],
+    "sg:website":"www.irvineneurorehab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870505,
+        102191575,
+        404508305,
+        85633793,
+        85951991,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qSk483wFXlZR8u7SdC3mW_42.476893_-83.260838@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803789,
+    "wof:geomhash":"e4fe19b52436cdcc6a29f2c36598da7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508305,
+            "locality_id":85951991,
+            "neighbourhood_id":85870505,
+            "region_id":85688599,
+            "venue_id":706467181
+        }
+    ],
+    "wof:id":706467181,
+    "wof:lastmodified":1461803789,
+    "wof:name":"Irvine Nuro Rehabilitation Ctr",
+    "wof:parent_id":85870505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "assisted",
+        "rehabilitation",
+        "clinic",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.260838,
+    42.476893,
+    -83.260838,
+    42.476893
+],
+  "geometry": {"coordinates":[-83.26083800000001,42.476893],"type":"Point"}
+}

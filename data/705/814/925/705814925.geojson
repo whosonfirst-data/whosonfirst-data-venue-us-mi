@@ -1,0 +1,83 @@
+{
+  "id": 705814925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.91242,43.660388,-83.91242,43.660388",
+    "geom:latitude":43.660388,
+    "geom:longitude":-83.91242,
+    "iso:country":"US",
+    "sg:address":"2739 N Euclid Ave",
+    "sg:city":"Bay City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 922 4800",
+    "sg:postcode":"48706",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85830951,
+        102083135,
+        420524233,
+        102191575,
+        404506795,
+        85951273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cHtvMXhybNDssvAxuUy2t_43.660388_-83.912420@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789361,
+    "wof:geomhash":"5a84496fd844a5a59b8e7a20c4a2534a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083135,
+            "neighbourhood_id":85830951,
+            "region_id":85688599,
+            "venue_id":705814925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083135,
+            "localadmin_id":404506795,
+            "locality_id":85951273,
+            "neighbourhood_id":420524233,
+            "region_id":85688599,
+            "venue_id":705814925
+        }
+    ],
+    "wof:id":705814925,
+    "wof:lastmodified":1461789361,
+    "wof:name":"Robinsons Auto Bdy Restoration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.91242,
+    43.660388,
+    -83.91242,
+    43.660388
+],
+  "geometry": {"coordinates":[-83.91242,43.660388],"type":"Point"}
+}

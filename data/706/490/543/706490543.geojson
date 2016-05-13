@@ -1,0 +1,86 @@
+{
+  "id": 706490543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551342,43.241365,-85.551342,43.241365",
+    "geom:latitude":43.241365,
+    "geom:longitude":-85.551342,
+    "iso:country":"US",
+    "sg:address":"14625 Cedar Springs Ave NE",
+    "sg:city":"Cedar Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 696 9911",
+    "sg:postcode":"49319",
+    "sg:province":"MI",
+    "sg:tags":[
+        "professional",
+        "counselor",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DmpHcPptIJD73cbV8VKaU_43.241365_-85.551342@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804380,
+    "wof:geomhash":"dcf68a0f47a32c6bb265675e48022f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706490543
+        }
+    ],
+    "wof:id":706490543,
+    "wof:lastmodified":1461804380,
+    "wof:name":"Cedar Springs Counseling Svc",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "counselor",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.551342,
+    43.241365,
+    -85.551342,
+    43.241365
+],
+  "geometry": {"coordinates":[-85.55134200000001,43.241365],"type":"Point"}
+}

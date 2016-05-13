@@ -1,0 +1,77 @@
+{
+  "id": 705964701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590307,43.016965,-85.590307,43.016965",
+    "geom:latitude":43.016965,
+    "geom:longitude":-85.590307,
+    "iso:country":"US",
+    "sg:address":"3264 Evergreen Dr NE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 363 7229",
+    "sg:postcode":"49525",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AG2A1WJHKGH9fAdkuixoP_43.016965_-85.590307@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792857,
+    "wof:geomhash":"d0319267a3a30a94e7f54446d79f1a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":705964701
+        }
+    ],
+    "wof:id":705964701,
+    "wof:lastmodified":1461792857,
+    "wof:name":"Grand Valley Radiology Plc",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.590307,
+    43.016965,
+    -85.590307,
+    43.016965
+],
+  "geometry": {"coordinates":[-85.590307,43.016965],"type":"Point"}
+}

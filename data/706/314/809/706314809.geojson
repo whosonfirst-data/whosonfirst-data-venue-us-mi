@@ -1,0 +1,82 @@
+{
+  "id": 706314809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.414958,42.277861,-83.414958,42.277861",
+    "geom:latitude":42.277861,
+    "geom:longitude":-83.414958,
+    "iso:country":"US",
+    "sg:address":"38303 Michigan Ave",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 467 0616",
+    "sg:postcode":"48184",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "bo",
+        "general",
+        "motor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896853,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VaCBSeWIDY4r8Mtr4TpfK_42.277861_-83.414958@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800614,
+    "wof:geomhash":"263acfe483f2b751803953c0792e8f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896853,
+            "region_id":85688599,
+            "venue_id":706314809
+        }
+    ],
+    "wof:id":706314809,
+    "wof:lastmodified":1461800614,
+    "wof:name":"Ford",
+    "wof:parent_id":85896853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "bo",
+        "general",
+        "motor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -83.414958,
+    42.277861,
+    -83.414958,
+    42.277861
+],
+  "geometry": {"coordinates":[-83.414958,42.277861],"type":"Point"}
+}

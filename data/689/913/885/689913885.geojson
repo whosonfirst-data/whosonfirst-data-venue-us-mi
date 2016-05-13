@@ -1,0 +1,73 @@
+{
+  "id": 689913885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.568214,42.906278,-85.568214,42.906278",
+    "geom:latitude":42.906278,
+    "geom:longitude":-85.568214,
+    "iso:country":"US",
+    "sg:address":"3140 E Paris Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 942 7661",
+    "sg:postcode":"49512",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IZ5rHV2ieP1oCSbsEU1Zv_42.906278_-85.568214@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784958,
+    "wof:geomhash":"0cfdb5c844fd7148d38932fbdccb49e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689913885
+        }
+    ],
+    "wof:id":689913885,
+    "wof:lastmodified":1461784958,
+    "wof:name":"Cambridge Partners",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.568214,
+    42.906278,
+    -85.568214,
+    42.906278
+],
+  "geometry": {"coordinates":[-85.568214,42.906278],"type":"Point"}
+}

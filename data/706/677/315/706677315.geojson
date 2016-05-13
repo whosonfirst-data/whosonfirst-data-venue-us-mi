@@ -1,0 +1,72 @@
+{
+  "id": 706677315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.493067,42.209945,-83.493067,42.209945",
+    "geom:latitude":42.209945,
+    "geom:longitude":-83.493067,
+    "iso:country":"US",
+    "sg:address":"565 Main St",
+    "sg:city":"Belleville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/belleville/248550-benitos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 697 9128",
+    "sg:postcode":"48111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817453,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kH4Qa8eLfZEblQhn0xjIM_42.209945_-83.493067@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809179,
+    "wof:geomhash":"0cfb325d2a5fb01602bd4700e9223b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85817453,
+            "region_id":85688599,
+            "venue_id":706677315
+        }
+    ],
+    "wof:id":706677315,
+    "wof:lastmodified":1461809179,
+    "wof:name":"Benito's Pizza",
+    "wof:parent_id":85817453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.493067,
+    42.209945,
+    -83.493067,
+    42.209945
+],
+  "geometry": {"coordinates":[-83.493067,42.209945],"type":"Point"}
+}

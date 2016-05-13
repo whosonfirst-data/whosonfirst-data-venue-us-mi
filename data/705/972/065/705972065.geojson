@@ -1,0 +1,71 @@
+{
+  "id": 705972065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303755,42.707252,-83.303755,42.707252",
+    "geom:latitude":42.707252,
+    "geom:longitude":-83.303755,
+    "iso:country":"US",
+    "sg:address":"2475 Brown Rd",
+    "sg:city":"Lake Orion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 340 6000",
+    "sg:postcode":"48359",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85821589,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42tejrJAwLypLrwBSShHXZ_42.707252_-83.303755@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793007,
+    "wof:geomhash":"ce8f3b1da6427011e090028c628fe273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85821589,
+            "region_id":85688599,
+            "venue_id":705972065
+        }
+    ],
+    "wof:id":705972065,
+    "wof:lastmodified":1461793007,
+    "wof:name":"Ziller Electric",
+    "wof:parent_id":85821589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.303755,
+    42.707252,
+    -83.303755,
+    42.707252
+],
+  "geometry": {"coordinates":[-83.303755,42.707252],"type":"Point"}
+}

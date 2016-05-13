@@ -1,0 +1,71 @@
+{
+  "id": 706188115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.246746,43.234785,-86.246746,43.234785",
+    "geom:latitude":43.234785,
+    "geom:longitude":-86.246746,
+    "iso:country":"US",
+    "sg:address":"980 Jefferson St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 724 6750",
+    "sg:postcode":"49440",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5swbwIC66lUKdvB5hbsQuP_43.234785_-86.246746@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797814,
+    "wof:geomhash":"2521bfd7eac7883ea2d5e8fa59ff385f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706188115
+        }
+    ],
+    "wof:id":706188115,
+    "wof:lastmodified":1461797814,
+    "wof:name":"Muskegon City Police Dept",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.246746,
+    43.234785,
+    -86.246746,
+    43.234785
+],
+  "geometry": {"coordinates":[-86.246746,43.234785],"type":"Point"}
+}

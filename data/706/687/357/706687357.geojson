@@ -1,0 +1,74 @@
+{
+  "id": 706687357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.415153,46.545879,-87.415153,46.545879",
+    "geom:latitude":46.545879,
+    "geom:longitude":-87.415153,
+    "iso:country":"US",
+    "sg:address":"1001 W Washington St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/marquette/176417-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 7728",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WXDfsXowxqlfTVty2ldWl_46.545879_-87.415153@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809569,
+    "wof:geomhash":"d046635b910b7b89f99fa874f1fba019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706687357
+        }
+    ],
+    "wof:id":706687357,
+    "wof:lastmodified":1461809569,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -87.415153,
+    46.545879,
+    -87.415153,
+    46.545879
+],
+  "geometry": {"coordinates":[-87.415153,46.545879],"type":"Point"}
+}

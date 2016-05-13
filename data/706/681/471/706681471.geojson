@@ -1,0 +1,72 @@
+{
+  "id": 706681471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.733129,43.034112,-83.733129,43.034112",
+    "geom:latitude":43.034112,
+    "geom:longitude":-83.733129,
+    "iso:country":"US",
+    "sg:address":"3243 Mallery St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/flint/125604-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 1318",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FhM5sxvija7N5FzOS4wx8_43.034112_-83.733129@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809343,
+    "wof:geomhash":"1c9728027c05cb29028f0c6a4070672d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706681471
+        }
+    ],
+    "wof:id":706681471,
+    "wof:lastmodified":1461809343,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.733129,
+    43.034112,
+    -83.733129,
+    43.034112
+],
+  "geometry": {"coordinates":[-83.73312900000001,43.034112],"type":"Point"}
+}

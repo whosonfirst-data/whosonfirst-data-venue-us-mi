@@ -1,0 +1,78 @@
+{
+  "id": 706678071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.327364,42.235297,-83.327364,42.235297",
+    "geom:latitude":42.235297,
+    "geom:longitude":-83.327364,
+    "iso:country":"US",
+    "sg:address":"29387 Airport Dr",
+    "sg:city":"Romulus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/romulus/11554-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 946 4630",
+    "sg:postcode":"48174",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851475,
+        102191575,
+        404508657,
+        85633793,
+        85951131,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d8GywwWzVCRgoA361BsXR_42.235297_-83.327364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809211,
+    "wof:geomhash":"035fc7dd570a5f66bb23de75a3fc0ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508657,
+            "locality_id":85951131,
+            "neighbourhood_id":85851475,
+            "region_id":85688599,
+            "venue_id":706678071
+        }
+    ],
+    "wof:id":706678071,
+    "wof:lastmodified":1461809211,
+    "wof:name":"Denny's",
+    "wof:parent_id":85851475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.327364,
+    42.235297,
+    -83.327364,
+    42.235297
+],
+  "geometry": {"coordinates":[-83.327364,42.235297],"type":"Point"}
+}

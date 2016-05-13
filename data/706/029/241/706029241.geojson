@@ -1,0 +1,71 @@
+{
+  "id": 706029241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742142,43.007893,-83.742142,43.007893",
+    "geom:latitude":43.007893,
+    "geom:longitude":-83.742142,
+    "iso:country":"US",
+    "sg:address":"2412 Ridgecliffe Dr",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 239 5714",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31YUkZJdwR1Baj5Q7jrvs7_43.007893_-83.742142@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794194,
+    "wof:geomhash":"c1938d36dc566715f3f94496a6da443c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706029241
+        }
+    ],
+    "wof:id":706029241,
+    "wof:lastmodified":1461794194,
+    "wof:name":"Flint Township Police Dept",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.742142,
+    43.007893,
+    -83.742142,
+    43.007893
+],
+  "geometry": {"coordinates":[-83.742142,43.007893],"type":"Point"}
+}

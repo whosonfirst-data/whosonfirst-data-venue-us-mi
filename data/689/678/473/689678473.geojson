@@ -1,0 +1,86 @@
+{
+  "id": 689678473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.243217,42.414431,-83.243217,42.414431",
+    "geom:latitude":42.414431,
+    "geom:longitude":-83.243217,
+    "iso:country":"US",
+    "sg:address":"16880 Fielding St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 537 7973",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870493,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QmHOF71tgtYqKe2xw3tlg_42.414431_-83.243217@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778582,
+    "wof:geomhash":"a1c125d34807d3d628545e73dda578cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870493,
+            "region_id":85688599,
+            "venue_id":689678473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870489,
+            "region_id":85688599,
+            "venue_id":689678473
+        }
+    ],
+    "wof:id":689678473,
+    "wof:lastmodified":1461778582,
+    "wof:name":"Hunter & Hunter Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -83.243217,
+    42.414431,
+    -83.243217,
+    42.414431
+],
+  "geometry": {"coordinates":[-83.243217,42.414431],"type":"Point"}
+}

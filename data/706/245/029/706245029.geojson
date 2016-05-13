@@ -1,0 +1,71 @@
+{
+  "id": 706245029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20242,42.856642,-86.20242,42.856642",
+    "geom:latitude":42.856642,
+    "geom:longitude":-86.20242,
+    "iso:country":"US",
+    "sg:address":"4950 Christy Ln",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 399 8094",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mcsnImn4NmRGh8MzT2He3_42.856642_-86.202420@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799071,
+    "wof:geomhash":"bc24f5032d610ff7f5d814130cf7d95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706245029
+        }
+    ],
+    "wof:id":706245029,
+    "wof:lastmodified":1461799071,
+    "wof:name":"Gopher Express Courier Svc Inc",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.20242,
+    42.856642,
+    -86.20242,
+    42.856642
+],
+  "geometry": {"coordinates":[-86.20242,42.856642],"type":"Point"}
+}

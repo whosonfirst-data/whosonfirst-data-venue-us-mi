@@ -1,0 +1,71 @@
+{
+  "id": 689828539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.418006,42.21952,-84.418006,42.21952",
+    "geom:latitude":42.21952,
+    "geom:longitude":-84.418006,
+    "iso:country":"US",
+    "sg:address":"665 N Alpine Lake Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 5558",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mzNDIRRAnavVlzEj8EyR9_42.219520_-84.418006@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782749,
+    "wof:geomhash":"bf72ad58750c2f1bd1b6f517dcbd595a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":689828539
+        }
+    ],
+    "wof:id":689828539,
+    "wof:lastmodified":1461782749,
+    "wof:name":"Alpine Lake Apartments",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.418006,
+    42.21952,
+    -84.418006,
+    42.21952
+],
+  "geometry": {"coordinates":[-84.41800600000001,42.21952],"type":"Point"}
+}

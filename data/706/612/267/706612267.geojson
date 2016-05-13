@@ -1,0 +1,81 @@
+{
+  "id": 706612267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632953,42.955515,-85.632953,42.955515",
+    "geom:latitude":42.955515,
+    "geom:longitude":-85.632953,
+    "iso:country":"US",
+    "sg:address":"1530 Wealthy St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 5776",
+    "sg:postcode":"49506",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OSiMObcdWQPYaHqcjBC2C_42.955515_-85.632953@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806971,
+    "wof:geomhash":"0c0f7853ab58d31187c2fc4438a01a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":706612267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877911,
+            "region_id":85688599,
+            "venue_id":706612267
+        }
+    ],
+    "wof:id":706612267,
+    "wof:lastmodified":1461806971,
+    "wof:name":"Wolfgang's Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.632953,
+    42.955515,
+    -85.632953,
+    42.955515
+],
+  "geometry": {"coordinates":[-85.632953,42.955515],"type":"Point"}
+}

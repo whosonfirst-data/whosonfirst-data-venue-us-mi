@@ -1,0 +1,88 @@
+{
+  "id": 705839477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637283,42.962796,-85.637283,42.962796",
+    "geom:latitude":42.962796,
+    "geom:longitude":-85.637283,
+    "iso:country":"US",
+    "sg:address":"1307 Fulton St E",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 454 7475",
+    "sg:postcode":"49503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877881,
+        102191575,
+        404509039,
+        85633793,
+        85951335,
+        102083023,
+        85688599,
+        85877885,
+        404507947,
+        85951337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lM2mdiu9Xd7aO98L7rwTF_42.962796_-85.637283@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789944,
+    "wof:geomhash":"524929cff7bd44adff02ae462392608f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404509039,
+            "locality_id":85951335,
+            "neighbourhood_id":85877881,
+            "region_id":85688599,
+            "venue_id":705839477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507947,
+            "locality_id":85951337,
+            "neighbourhood_id":85877885,
+            "region_id":85688599,
+            "venue_id":705839477
+        }
+    ],
+    "wof:id":705839477,
+    "wof:lastmodified":1461789944,
+    "wof:name":"Catering Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.637283,
+    42.962796,
+    -85.637283,
+    42.962796
+],
+  "geometry": {"coordinates":[-85.637283,42.962796],"type":"Point"}
+}

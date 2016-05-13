@@ -1,0 +1,73 @@
+{
+  "id": 689791593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263007,43.213802,-86.263007,43.213802",
+    "geom:latitude":43.213802,
+    "geom:longitude":-86.263007,
+    "iso:country":"US",
+    "sg:address":"2107 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 759 7363",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NFVO6MAH8X4BOctW0AxsX_43.213802_-86.263007@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781581,
+    "wof:geomhash":"1f52b326cc7ac0eeed5597bbf90c8115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689791593
+        }
+    ],
+    "wof:id":689791593,
+    "wof:lastmodified":1461781581,
+    "wof:name":"Arnolds Auto Glass",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -86.263007,
+    43.213802,
+    -86.263007,
+    43.213802
+],
+  "geometry": {"coordinates":[-86.263007,43.213802],"type":"Point"}
+}

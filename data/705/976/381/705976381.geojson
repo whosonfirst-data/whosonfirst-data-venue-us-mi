@@ -1,0 +1,71 @@
+{
+  "id": 705976381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.578048,43.33716,-85.578048,43.33716",
+    "geom:latitude":43.33716,
+    "geom:longitude":-85.578048,
+    "iso:country":"US",
+    "sg:address":"8880 Oak Dr",
+    "sg:city":"Sand Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 636 8895",
+    "sg:postcode":"49343",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSkiZ2j5PxumH2BY3uOg8_43.337160_-85.578048@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793094,
+    "wof:geomhash":"fadf19a4b75a0a06edcd3fb6a9b3f878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705976381
+        }
+    ],
+    "wof:id":705976381,
+    "wof:lastmodified":1461793094,
+    "wof:name":"Van Dyke Towing & Recovery",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.578048,
+    43.33716,
+    -85.578048,
+    43.33716
+],
+  "geometry": {"coordinates":[-85.578048,43.33716],"type":"Point"}
+}

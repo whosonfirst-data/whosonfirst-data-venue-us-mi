@@ -1,0 +1,71 @@
+{
+  "id": 706606231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.030125,43.416972,-84.030125,43.416972",
+    "geom:latitude":43.416972,
+    "geom:longitude":-84.030125,
+    "iso:country":"US",
+    "sg:address":"5821 Colony Dr N",
+    "sg:city":"Saginaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 989 797 1040",
+    "sg:postcode":"48638",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848051,
+        102083725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArsP3Jxrm1Em0CiUWItrK_43.416972_-84.030125@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806856,
+    "wof:geomhash":"212cb4b9979f88a3faa18b90f5e8c009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083725,
+            "neighbourhood_id":85848051,
+            "region_id":85688599,
+            "venue_id":706606231
+        }
+    ],
+    "wof:id":706606231,
+    "wof:lastmodified":1461806856,
+    "wof:name":"Saginaw Valley Pediatrics",
+    "wof:parent_id":85848051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.030125,
+    43.416972,
+    -84.030125,
+    43.416972
+],
+  "geometry": {"coordinates":[-84.030125,43.416972],"type":"Point"}
+}

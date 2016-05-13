@@ -1,0 +1,71 @@
+{
+  "id": 706338013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663319,42.758761,-85.663319,42.758761",
+    "geom:latitude":42.758761,
+    "geom:longitude":-85.663319,
+    "iso:country":"US",
+    "sg:address":"4668 Division Ave",
+    "sg:city":"Wayland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 877 4503",
+    "sg:postcode":"49348",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814963,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Dnd5XTmbzipw0wHQa93N_42.758761_-85.663319@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801157,
+    "wof:geomhash":"cef14701cc96b78b44b70bf54f679f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85814963,
+            "region_id":85688599,
+            "venue_id":706338013
+        }
+    ],
+    "wof:id":706338013,
+    "wof:lastmodified":1461801157,
+    "wof:name":"Helco Electric Co",
+    "wof:parent_id":85814963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.663319,
+    42.758761,
+    -85.663319,
+    42.758761
+],
+  "geometry": {"coordinates":[-85.663319,42.758761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689600183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.203396,43.112884,-86.203396,43.112884",
+    "geom:latitude":43.112884,
+    "geom:longitude":-86.203396,
+    "iso:country":"US",
+    "sg:address":"16346 Hemlock Dr",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 0200",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dTSEbqyCJiG9dYRGtYQLN_43.112884_-86.203396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776255,
+    "wof:geomhash":"5b11d940b3b6830eb04bc3e05c37b3c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689600183
+        }
+    ],
+    "wof:id":689600183,
+    "wof:lastmodified":1461776255,
+    "wof:name":"Gill Delivery Svc Inc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.203396,
+    43.112884,
+    -86.203396,
+    43.112884
+],
+  "geometry": {"coordinates":[-86.203396,43.112884],"type":"Point"}
+}

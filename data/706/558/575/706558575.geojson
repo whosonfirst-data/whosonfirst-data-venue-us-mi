@@ -1,0 +1,71 @@
+{
+  "id": 706558575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.538345,42.183487,-85.538345,42.183487",
+    "geom:latitude":42.183487,
+    "geom:longitude":-85.538345,
+    "iso:country":"US",
+    "sg:address":"9444 Sprinkle Rd",
+    "sg:city":"Portage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 6379",
+    "sg:postcode":"49002",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950989,
+        102083671,
+        85840935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F3f1EQy1Au4CaF1e17Ckn_42.183487_-85.538345@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461805819,
+    "wof:geomhash":"6eee92cd4627dded663391612cff1720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950989,
+            "neighbourhood_id":85840935,
+            "region_id":85688599,
+            "venue_id":706558575
+        }
+    ],
+    "wof:id":706558575,
+    "wof:lastmodified":1461805819,
+    "wof:name":"Mullins Auto Service Inc",
+    "wof:parent_id":85840935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.538345,
+    42.183487,
+    -85.538345,
+    42.183487
+],
+  "geometry": {"coordinates":[-85.53834500000001,42.183487],"type":"Point"}
+}

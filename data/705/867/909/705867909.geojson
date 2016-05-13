@@ -1,0 +1,71 @@
+{
+  "id": 705867909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.421676,42.247493,-84.421676,42.247493",
+    "geom:latitude":42.247493,
+    "geom:longitude":-84.421676,
+    "iso:country":"US",
+    "sg:address":"720 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 789 8444",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01tzsm0aSrKd6jtNF6wVxq_42.247493_-84.421676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790642,
+    "wof:geomhash":"db9d95debc650235bd1210e0bbf02fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705867909
+        }
+    ],
+    "wof:id":705867909,
+    "wof:lastmodified":1461790642,
+    "wof:name":"Renaissance Apartments",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.421676,
+    42.247493,
+    -84.421676,
+    42.247493
+],
+  "geometry": {"coordinates":[-84.42167600000001,42.247493],"type":"Point"}
+}

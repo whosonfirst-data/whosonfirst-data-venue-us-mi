@@ -1,0 +1,71 @@
+{
+  "id": 689603881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.798129,43.128575,-82.798129,43.128575",
+    "geom:latitude":43.128575,
+    "geom:longitude":-82.798129,
+    "iso:country":"US",
+    "sg:address":"124 S Main St",
+    "sg:city":"Yale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 387 0451",
+    "sg:postcode":"48097",
+    "sg:province":"MI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85827917,
+        102083053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zbt9nL0JQVji4YZw4B8V_43.128575_-82.798129@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776371,
+    "wof:geomhash":"79c05c5dfa1ea0989f2618bc57a3d8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "neighbourhood_id":85827917,
+            "region_id":85688599,
+            "venue_id":689603881
+        }
+    ],
+    "wof:id":689603881,
+    "wof:lastmodified":1461776371,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85827917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.798129,
+    43.128575,
+    -82.798129,
+    43.128575
+],
+  "geometry": {"coordinates":[-82.798129,43.128575],"type":"Point"}
+}

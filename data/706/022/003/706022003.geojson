@@ -1,0 +1,71 @@
+{
+  "id": 706022003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.858291,43.748244,-85.858291,43.748244",
+    "geom:latitude":43.748244,
+    "geom:longitude":-85.858291,
+    "iso:country":"US",
+    "sg:address":"10730 Prospect Ave",
+    "sg:city":"Bitely",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 745 4741",
+    "sg:postcode":"49309",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WabhsM3WHauAJdn1vHGC9_43.748244_-85.858291@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794050,
+    "wof:geomhash":"42989b6629ed20980fb03dcd78c58c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706022003
+        }
+    ],
+    "wof:id":706022003,
+    "wof:lastmodified":1461794050,
+    "wof:name":"Lilly Twp Fire Dept",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.858291,
+    43.748244,
+    -85.858291,
+    43.748244
+],
+  "geometry": {"coordinates":[-85.85829099999999,43.748244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689770207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.400148,44.250099,-85.400148,44.250099",
+    "geom:latitude":44.250099,
+    "geom:longitude":-85.400148,
+    "iso:country":"US",
+    "sg:address":"132 W Harris St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 3124",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YPthegYUj7ytP9Qtzy8Ue_44.250099_-85.400148@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781020,
+    "wof:geomhash":"cf9770bc3eef8412345eebe3b436e6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689770207
+        }
+    ],
+    "wof:id":689770207,
+    "wof:lastmodified":1461781020,
+    "wof:name":"Peter J Sneed MD",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.400148,
+    44.250099,
+    -85.400148,
+    44.250099
+],
+  "geometry": {"coordinates":[-85.400148,44.250099],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 705947447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433235,42.242958,-84.433235,42.242958",
+    "geom:latitude":42.242958,
+    "geom:longitude":-84.433235,
+    "iso:country":"US",
+    "sg:address":"600 S Brown St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 783 2612",
+    "sg:postcode":"49203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Hree1gELORf4dNtn0SvX_42.242958_-84.433235@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792474,
+    "wof:geomhash":"5100ead8a5d2e79b5943c381e611f0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705947447
+        }
+    ],
+    "wof:id":705947447,
+    "wof:lastmodified":1461792474,
+    "wof:name":"Jackson Radiology Consultants",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.433235,
+    42.242958,
+    -84.433235,
+    42.242958
+],
+  "geometry": {"coordinates":[-84.433235,42.242958],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706376167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661016,42.83096,-85.661016,42.83096",
+    "geom:latitude":42.83096,
+    "geom:longitude":-85.661016,
+    "iso:country":"US",
+    "sg:address":"102 Dunkirk St SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 827 9177",
+    "sg:postcode":"49548",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EoYpHZCe2iVscQicRyonf_42.830960_-85.661016@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801926,
+    "wof:geomhash":"2b4cbb073216c57107582b021860bfc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706376167
+        }
+    ],
+    "wof:id":706376167,
+    "wof:lastmodified":1461801926,
+    "wof:name":"Screen Printing",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -85.661016,
+    42.83096,
+    -85.661016,
+    42.83096
+],
+  "geometry": {"coordinates":[-85.661016,42.83096],"type":"Point"}
+}

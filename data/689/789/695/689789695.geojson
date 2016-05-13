@@ -1,0 +1,73 @@
+{
+  "id": 689789695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.412131,46.553419,-87.412131,46.553419",
+    "geom:latitude":46.553419,
+    "geom:longitude":-87.412131,
+    "iso:country":"US",
+    "sg:address":"1030 Lincoln Ave",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 2030",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oWM3Ueaj1QA2VP6mlO6U0_46.553419_-87.412131@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781523,
+    "wof:geomhash":"a2d8930266593e6993eff52e2dfc79be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689789695
+        }
+    ],
+    "wof:id":689789695,
+    "wof:lastmodified":1461781523,
+    "wof:name":"Greater North Orthodontic Lab",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -87.412131,
+    46.553419,
+    -87.412131,
+    46.553419
+],
+  "geometry": {"coordinates":[-87.412131,46.553419],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 705970131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.882011,43.126205,-85.882011,43.126205",
+    "geom:latitude":43.126205,
+    "geom:longitude":-85.882011,
+    "iso:country":"US",
+    "sg:address":"19686 Main St",
+    "sg:city":"Conklin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 899 2325",
+    "sg:postcode":"49403",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dQUiJepFVtasS7q182Tj_43.126205_-85.882011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792969,
+    "wof:geomhash":"c14aef6d585de983a36d4fafdc9dd062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":705970131
+        }
+    ],
+    "wof:id":705970131,
+    "wof:lastmodified":1461792969,
+    "wof:name":"Dykstra's Elevator",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -85.882011,
+    43.126205,
+    -85.882011,
+    43.126205
+],
+  "geometry": {"coordinates":[-85.88201100000001,43.126205],"type":"Point"}
+}

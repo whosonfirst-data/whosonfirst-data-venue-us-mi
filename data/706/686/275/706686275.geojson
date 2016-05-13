@@ -1,0 +1,76 @@
+{
+  "id": 706686275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626009,42.883807,-85.626009,42.883807",
+    "geom:latitude":42.883807,
+    "geom:longitude":-85.626009,
+    "iso:country":"US",
+    "sg:address":"4399 Kalamazoo Ave SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grand-rapids/50808-the-pita-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 698 8722",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lomwXVIghXw86agUsoJmx_42.883807_-85.626009@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809530,
+    "wof:geomhash":"d0a6d1251d55fbcf0212a15d45305d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706686275
+        }
+    ],
+    "wof:id":706686275,
+    "wof:lastmodified":1461809530,
+    "wof:name":"The Pita House",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.626009,
+    42.883807,
+    -85.626009,
+    42.883807
+],
+  "geometry": {"coordinates":[-85.626009,42.883807],"type":"Point"}
+}

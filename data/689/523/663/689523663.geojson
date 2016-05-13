@@ -1,0 +1,72 @@
+{
+  "id": 689523663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263378,43.190431,-86.263378,43.190431",
+    "geom:latitude":43.190431,
+    "geom:longitude":-86.263378,
+    "iso:country":"US",
+    "sg:address":"3580 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 725 0206",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.huntington.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o8kiNo17MAvqhcwNNviCs_43.190431_-86.263378@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773858,
+    "wof:geomhash":"56b9279f6cb9121850205ededd90c4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689523663
+        }
+    ],
+    "wof:id":689523663,
+    "wof:lastmodified":1461773858,
+    "wof:name":"Huntington National Bank",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -86.263378,
+    43.190431,
+    -86.263378,
+    43.190431
+],
+  "geometry": {"coordinates":[-86.263378,43.190431],"type":"Point"}
+}

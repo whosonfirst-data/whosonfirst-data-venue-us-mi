@@ -1,0 +1,75 @@
+{
+  "id": 689738965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.104895,42.417833,-83.104895,42.417833",
+    "geom:latitude":42.417833,
+    "geom:longitude":-83.104895,
+    "iso:country":"US",
+    "sg:address":"10 W McNichols Rd",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 869 7080",
+    "sg:postcode":"48203",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870525,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CjG0W68Z9qQCmkdY62gCl_42.417833_-83.104895@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461780164,
+    "wof:geomhash":"468379b3d085c92e94c3b15c05322a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870525,
+            "region_id":85688599,
+            "venue_id":689738965
+        }
+    ],
+    "wof:id":689738965,
+    "wof:lastmodified":1461780164,
+    "wof:name":"Oil & Lube Center",
+    "wof:parent_id":85870525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -83.104895,
+    42.417833,
+    -83.104895,
+    42.417833
+],
+  "geometry": {"coordinates":[-83.104895,42.417833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706178463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.229576,42.63344,-83.229576,42.63344",
+    "geom:latitude":42.63344,
+    "geom:longitude":-83.229576,
+    "iso:country":"US",
+    "sg:address":"2740 Auburn Rd",
+    "sg:city":"Auburn Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 852 6944",
+    "sg:postcode":"48326",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_559dqXwq4x3LRhADQ0NQbe_42.633440_-83.229576@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461797602,
+    "wof:geomhash":"443b913597c10513baecf8b06ce38611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":706178463
+        }
+    ],
+    "wof:id":706178463,
+    "wof:lastmodified":1461797602,
+    "wof:name":"Automotive Technology Intl",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -83.229576,
+    42.63344,
+    -83.229576,
+    42.63344
+],
+  "geometry": {"coordinates":[-83.22957599999999,42.63344],"type":"Point"}
+}

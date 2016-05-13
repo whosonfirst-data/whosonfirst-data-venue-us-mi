@@ -1,0 +1,73 @@
+{
+  "id": 706046565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.612296,43.472928,-85.612296,43.472928",
+    "geom:latitude":43.472928,
+    "geom:longitude":-85.612296,
+    "iso:country":"US",
+    "sg:address":"4519 Chestnut Ave",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 5525",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "foster",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dt69wayXKi6es08xmZcMk_43.472928_-85.612296@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794528,
+    "wof:geomhash":"2562543b4e2cf965405975f895fe4551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706046565
+        }
+    ],
+    "wof:id":706046565,
+    "wof:lastmodified":1461794528,
+    "wof:name":"Marcia Hunt",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster",
+        "provider"
+    ]
+},
+  "bbox": [
+    -85.612296,
+    43.472928,
+    -85.612296,
+    43.472928
+],
+  "geometry": {"coordinates":[-85.612296,43.472928],"type":"Point"}
+}

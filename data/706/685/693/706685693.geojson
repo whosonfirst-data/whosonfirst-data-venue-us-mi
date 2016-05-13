@@ -1,0 +1,72 @@
+{
+  "id": 706685693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.089704,42.808329,-86.089704,42.808329",
+    "geom:latitude":42.808329,
+    "geom:longitude":-86.089704,
+    "iso:country":"US",
+    "sg:address":"2352 N Park Dr",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/42366-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 395 0200",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oLihHVduazki6jeKrK0eR_42.808329_-86.089704@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809509,
+    "wof:geomhash":"6a5a9f15c51e68215716b7d12c324f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706685693
+        }
+    ],
+    "wof:id":706685693,
+    "wof:lastmodified":1461809509,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.089704,
+    42.808329,
+    -86.089704,
+    42.808329
+],
+  "geometry": {"coordinates":[-86.089704,42.808329],"type":"Point"}
+}

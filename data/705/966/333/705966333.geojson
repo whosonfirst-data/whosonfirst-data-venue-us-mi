@@ -1,0 +1,73 @@
+{
+  "id": 705966333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260161,43.212616,-86.260161,43.212616",
+    "geom:latitude":43.212616,
+    "geom:longitude":-86.260161,
+    "iso:country":"US",
+    "sg:address":"714 W Hackley Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 1315",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1783f4gmWiJlWbm2H90IEj_43.212616_-86.260161@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792891,
+    "wof:geomhash":"c76d897cbf4aa63f55cc1c1202444ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705966333
+        }
+    ],
+    "wof:id":705966333,
+    "wof:lastmodified":1461792891,
+    "wof:name":"Nelson Crown & Bridge Lab",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -86.260161,
+    43.212616,
+    -86.260161,
+    43.212616
+],
+  "geometry": {"coordinates":[-86.260161,43.212616],"type":"Point"}
+}

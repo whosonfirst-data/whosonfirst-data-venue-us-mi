@@ -1,0 +1,71 @@
+{
+  "id": 705799399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.469041,42.354478,-85.469041,42.354478",
+    "geom:latitude":42.354478,
+    "geom:longitude":-85.469041,
+    "iso:country":"US",
+    "sg:address":"8111 E E F Ave",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 629 9476",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wE8fJhczHxEPGPbvgz4OW_42.354478_-85.469041@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788990,
+    "wof:geomhash":"c51db7dd55c8153162d12ff070077c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":705799399
+        }
+    ],
+    "wof:id":705799399,
+    "wof:lastmodified":1461788990,
+    "wof:name":"Centerline Plumbing",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.469041,
+    42.354478,
+    -85.469041,
+    42.354478
+],
+  "geometry": {"coordinates":[-85.469041,42.354478],"type":"Point"}
+}

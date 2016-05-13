@@ -1,0 +1,69 @@
+{
+  "id": 706662571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3778,42.542599,-83.3778,42.542599",
+    "geom:latitude":42.542599,
+    "geom:longitude":-83.3778,
+    "iso:country":"US",
+    "sg:address":"6056 W Maple Rd",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 855 8133",
+    "sg:postcode":"48322",
+    "sg:province":"MI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837605,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eN18uid271vSLtl7idVrg_42.542583_-83.377017@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808547,
+    "wof:geomhash":"7679f23df9ec7d4849f3c664104d1904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85837605,
+            "region_id":85688599,
+            "venue_id":706662571
+        }
+    ],
+    "wof:id":706662571,
+    "wof:lastmodified":1461808547,
+    "wof:name":"Maple Cleaners",
+    "wof:parent_id":85837605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -83.3778,
+    42.542599,
+    -83.3778,
+    42.542599
+],
+  "geometry": {"coordinates":[-83.37779999999999,42.542599],"type":"Point"}
+}

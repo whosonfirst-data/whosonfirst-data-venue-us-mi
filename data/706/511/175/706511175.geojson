@@ -1,0 +1,73 @@
+{
+  "id": 706511175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.654361,42.174127,-84.654361,42.174127",
+    "geom:latitude":42.174127,
+    "geom:longitude":-84.654361,
+    "iso:country":"US",
+    "sg:address":"13220 Allman Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 524 6344",
+    "sg:postcode":"49237",
+    "sg:province":"MI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ELpVeM9YVdkIFYoWlq6Zs_42.174127_-84.654361@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804872,
+    "wof:geomhash":"f0c1a2924aa1477f7ffe8629abb52cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706511175
+        }
+    ],
+    "wof:id":706511175,
+    "wof:lastmodified":1461804872,
+    "wof:name":"Buscano Trucking",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.654361,
+    42.174127,
+    -84.654361,
+    42.174127
+],
+  "geometry": {"coordinates":[-84.65436099999999,42.174127],"type":"Point"}
+}

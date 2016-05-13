@@ -1,0 +1,71 @@
+{
+  "id": 706397239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.719742,41.816085,-86.719742,41.816085",
+    "geom:latitude":41.816085,
+    "geom:longitude":-86.719742,
+    "iso:country":"US",
+    "sg:address":"11151 Marquette Dr",
+    "sg:city":"New Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 469 3484",
+    "sg:postcode":"49117",
+    "sg:province":"MI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85941907,
+        102086409,
+        85815431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55IYARbd8LtbcsgARcqBUI_41.816085_-86.719742@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802347,
+    "wof:geomhash":"076c9d16ac6403227f8cbc6582a112fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086409,
+            "locality_id":85941907,
+            "neighbourhood_id":85815431,
+            "region_id":85688709,
+            "venue_id":706397239
+        }
+    ],
+    "wof:id":706397239,
+    "wof:lastmodified":1461802347,
+    "wof:name":"Camp Sokol",
+    "wof:parent_id":85815431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -86.719742,
+    41.816085,
+    -86.719742,
+    41.816085
+],
+  "geometry": {"coordinates":[-86.719742,41.816085],"type":"Point"}
+}

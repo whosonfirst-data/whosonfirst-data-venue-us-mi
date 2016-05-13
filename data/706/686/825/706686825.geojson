@@ -1,0 +1,72 @@
+{
+  "id": 706686825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.400393,44.251637,-85.400393,44.251637",
+    "geom:latitude":44.251637,
+    "geom:longitude":-85.400393,
+    "iso:country":"US",
+    "sg:address":"214 N Mitchell St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/cadillac/137751-chefs-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 9563",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cHcrtMCGjOW2dRvjobWps_44.251637_-85.400393@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809550,
+    "wof:geomhash":"384f35febe3ba485bf226aa5bca7b8fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":706686825
+        }
+    ],
+    "wof:id":706686825,
+    "wof:lastmodified":1461809550,
+    "wof:name":"Chef's Deli",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.400393,
+    44.251637,
+    -85.400393,
+    44.251637
+],
+  "geometry": {"coordinates":[-85.40039299999999,44.251637],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 705818789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.41622,41.894681,-83.41622,41.894681",
+    "geom:latitude":41.894681,
+    "geom:longitude":-83.41622,
+    "iso:country":"US",
+    "sg:address":"15161 S Dixie Hwy",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 241 2525",
+    "sg:postcode":"48161",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85849901,
+        102083117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_500Jw8eMtfV0hBxLsVavjm_41.894681_-83.416220@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789453,
+    "wof:geomhash":"310048c3c937145a5963357637afd980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083117,
+            "neighbourhood_id":85849901,
+            "region_id":85688599,
+            "venue_id":705818789
+        }
+    ],
+    "wof:id":705818789,
+    "wof:lastmodified":1461789453,
+    "wof:name":"Monroe Veterinary Clinic",
+    "wof:parent_id":85849901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.41622,
+    41.894681,
+    -83.41622,
+    41.894681
+],
+  "geometry": {"coordinates":[-83.41622,41.894681],"type":"Point"}
+}

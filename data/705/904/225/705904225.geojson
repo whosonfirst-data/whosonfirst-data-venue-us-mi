@@ -1,0 +1,71 @@
+{
+  "id": 705904225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2631,43.208409,-86.2631,43.208409",
+    "geom:latitude":43.208409,
+    "geom:longitude":-86.2631,
+    "iso:country":"US",
+    "sg:address":"2425 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 755 3533",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m74CvgclF8FmsgNmX2T0s_43.208409_-86.263100@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791499,
+    "wof:geomhash":"34173689c3784a5ac02c55c5e55830ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705904225
+        }
+    ],
+    "wof:id":705904225,
+    "wof:lastmodified":1461791499,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -86.2631,
+    43.208409,
+    -86.2631,
+    43.208409
+],
+  "geometry": {"coordinates":[-86.26309999999999,43.208409],"type":"Point"}
+}

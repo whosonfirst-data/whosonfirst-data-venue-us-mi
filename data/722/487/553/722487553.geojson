@@ -1,0 +1,76 @@
+{
+  "id": 722487553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.284103,42.427311,-83.284103,42.427311",
+    "geom:latitude":42.427311,
+    "geom:longitude":-83.284103,
+    "iso:country":"US",
+    "sg:address":"19000 Winston St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 0820",
+    "sg:postcode":"48219",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bible",
+        "churches-independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896773,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YTVeGhtdI8bYrMXv2XwtQ_42.427311_-83.284103@1303262791"
+    },
+    "wof:country":"US",
+    "wof:created":1461812580,
+    "wof:geomhash":"9c3845db2fa03e0b8ba98d97733d9320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896773,
+            "region_id":85688599,
+            "venue_id":722487553
+        }
+    ],
+    "wof:id":722487553,
+    "wof:lastmodified":1461812580,
+    "wof:name":"Westside Bible Church",
+    "wof:parent_id":85896773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bible",
+        "churches-independent"
+    ]
+},
+  "bbox": [
+    -83.284103,
+    42.427311,
+    -83.284103,
+    42.427311
+],
+  "geometry": {"coordinates":[-83.284103,42.427311],"type":"Point"}
+}

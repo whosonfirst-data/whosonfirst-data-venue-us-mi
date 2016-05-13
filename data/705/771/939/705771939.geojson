@@ -1,0 +1,71 @@
+{
+  "id": 705771939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.891527,43.177229,-83.891527,43.177229",
+    "geom:latitude":43.177229,
+    "geom:longitude":-83.891527,
+    "iso:country":"US",
+    "sg:address":"145 Hickory St",
+    "sg:city":"Montrose",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 639 2033",
+    "sg:postcode":"48457",
+    "sg:province":"MI",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ofTpeKxLj02GrAUBC7x8p_43.177229_-83.891527@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788341,
+    "wof:geomhash":"0410a2172679f915d07afb89a883d6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705771939
+        }
+    ],
+    "wof:id":705771939,
+    "wof:lastmodified":1461788341,
+    "wof:name":"Shannon's Engine Svc Inc",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -83.891527,
+    43.177229,
+    -83.891527,
+    43.177229
+],
+  "geometry": {"coordinates":[-83.891527,43.177229],"type":"Point"}
+}

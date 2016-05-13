@@ -1,0 +1,71 @@
+{
+  "id": 689469189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.447171,44.266773,-85.447171,44.266773",
+    "geom:latitude":44.266773,
+    "geom:longitude":-85.447171,
+    "iso:country":"US",
+    "sg:address":"3075 W 13th St",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 779 3000",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0FJYMPSPCa4OFcUumaR8_44.266773_-85.447171@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461772185,
+    "wof:geomhash":"2bf65515d913be20ef82bbc34ab493df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":689469189
+        }
+    ],
+    "wof:id":689469189,
+    "wof:lastmodified":1461772185,
+    "wof:name":"Jean's Kitchen",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.447171,
+    44.266773,
+    -85.447171,
+    44.266773
+],
+  "geometry": {"coordinates":[-85.447171,44.266773],"type":"Point"}
+}

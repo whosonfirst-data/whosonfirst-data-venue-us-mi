@@ -1,0 +1,90 @@
+{
+  "id": 706658911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.121101,42.3312,-83.121101,42.3312",
+    "geom:latitude":42.3312,
+    "geom:longitude":-83.121101,
+    "iso:country":"US",
+    "sg:address":"6340 Michigan Ave",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 894 2810",
+    "sg:postcode":"48210",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission",
+        "automobile",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0paGoZaTVHviJytON2lTiB_42.331192_-83.121553@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808386,
+    "wof:geomhash":"9cbfc6a5400884758098868fbb5ce960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":706658911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870619,
+            "region_id":85688599,
+            "venue_id":706658911
+        }
+    ],
+    "wof:id":706658911,
+    "wof:lastmodified":1461808386,
+    "wof:name":"Bill's Transmission Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.121101,
+    42.3312,
+    -83.121101,
+    42.3312
+],
+  "geometry": {"coordinates":[-83.121101,42.3312],"type":"Point"}
+}

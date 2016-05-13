@@ -1,0 +1,85 @@
+{
+  "id": 706689129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263509,43.188346,-86.263509,43.188346",
+    "geom:latitude":43.188346,
+    "geom:longitude":-86.263509,
+    "iso:country":"US",
+    "sg:address":"3468 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/40558-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 733 2110",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JoUqUu7g8aUHjJccg7RrR_43.188323_-86.263417@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809638,
+    "wof:geomhash":"f8cf3191c6df3f43ec1d4ca27c4660e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706689129
+        }
+    ],
+    "wof:id":706689129,
+    "wof:lastmodified":1461809638,
+    "wof:name":"TCBY",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -86.263509,
+    43.188346,
+    -86.263509,
+    43.188346
+],
+  "geometry": {"coordinates":[-86.263509,43.188346],"type":"Point"}
+}

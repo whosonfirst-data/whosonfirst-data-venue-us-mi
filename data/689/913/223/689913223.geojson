@@ -1,0 +1,71 @@
+{
+  "id": 689913223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.063715,45.819314,-88.063715,45.819314",
+    "geom:latitude":45.819314,
+    "geom:longitude":-88.063715,
+    "iso:country":"US",
+    "sg:address":"405 Iron Mountain St",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 779 2131",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tfjS9nXBRTJMZlFoqhaoq_45.819314_-88.063715@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784938,
+    "wof:geomhash":"3c29fd03cb7adf593d3b95f5949bf00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":689913223
+        }
+    ],
+    "wof:id":689913223,
+    "wof:lastmodified":1461784938,
+    "wof:name":"Phoenix Center",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.063715,
+    45.819314,
+    -88.063715,
+    45.819314
+],
+  "geometry": {"coordinates":[-88.063715,45.819314],"type":"Point"}
+}

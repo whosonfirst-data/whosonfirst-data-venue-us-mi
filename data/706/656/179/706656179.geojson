@@ -1,0 +1,71 @@
+{
+  "id": 706656179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.930156,43.059962,-85.930156,43.059962",
+    "geom:latitude":43.059962,
+    "geom:longitude":-85.930156,
+    "iso:country":"US",
+    "sg:address":"107 Randall St W",
+    "sg:city":"Coopersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 997 9094",
+    "sg:postcode":"49404",
+    "sg:province":"MI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_471yChcB42wDuraPZ5CJMT_43.059962_-85.930156@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461808252,
+    "wof:geomhash":"9baa9c94051fde0548dbf1cea4ad201d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":706656179
+        }
+    ],
+    "wof:id":706656179,
+    "wof:lastmodified":1461808252,
+    "wof:name":"Wmt",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.930156,
+    43.059962,
+    -85.930156,
+    43.059962
+],
+  "geometry": {"coordinates":[-85.930156,43.059962],"type":"Point"}
+}

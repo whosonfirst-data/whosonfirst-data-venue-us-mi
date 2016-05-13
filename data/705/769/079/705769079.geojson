@@ -1,0 +1,71 @@
+{
+  "id": 705769079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440716,43.949505,-86.440716,43.949505",
+    "geom:latitude":43.949505,
+    "geom:longitude":-86.440716,
+    "iso:country":"US",
+    "sg:address":"501 E Dowland St",
+    "sg:city":"Ludington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 845 6974",
+    "sg:postcode":"49431",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951787,
+        102083743,
+        85808663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04fiY6CVNWKNtv7Em7qQCw_43.949505_-86.440716@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788281,
+    "wof:geomhash":"0dc46313d3f88457b2b3b825dbad755e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083743,
+            "locality_id":85951787,
+            "neighbourhood_id":85808663,
+            "region_id":85688599,
+            "venue_id":705769079
+        }
+    ],
+    "wof:id":705769079,
+    "wof:lastmodified":1461788281,
+    "wof:name":"Dowland Street Appliance",
+    "wof:parent_id":85808663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.440716,
+    43.949505,
+    -86.440716,
+    43.949505
+],
+  "geometry": {"coordinates":[-86.44071599999999,43.949505],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689931877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742199,43.027446,-83.742199,43.027446",
+    "geom:latitude":43.027446,
+    "geom:longitude":-83.742199,
+    "iso:country":"US",
+    "sg:address":"3422 Flushing Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 2223",
+    "sg:postcode":"48504",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q76ysBEmA7p3FGTYKeY4S_43.027446_-83.742199@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785419,
+    "wof:geomhash":"8825f98df7501c76c5a1e029c0840347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689931877
+        }
+    ],
+    "wof:id":689931877,
+    "wof:lastmodified":1461785419,
+    "wof:name":"Quality Lube & Wash",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.742199,
+    43.027446,
+    -83.742199,
+    43.027446
+],
+  "geometry": {"coordinates":[-83.742199,43.027446],"type":"Point"}
+}

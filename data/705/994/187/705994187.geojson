@@ -1,0 +1,71 @@
+{
+  "id": 705994187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.237185,43.207336,-86.237185,43.207336",
+    "geom:latitude":43.207336,
+    "geom:longitude":-86.237185,
+    "iso:country":"US",
+    "sg:address":"2429 Howden St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 737 2559",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CTDDAoySdZOzqGF0Lg3J9_43.207336_-86.237185@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793448,
+    "wof:geomhash":"e1e520048002e4f8996f0903a47d398d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705994187
+        }
+    ],
+    "wof:id":705994187,
+    "wof:lastmodified":1461793448,
+    "wof:name":"Wash N Go",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.237185,
+    43.207336,
+    -86.237185,
+    43.207336
+],
+  "geometry": {"coordinates":[-86.237185,43.207336],"type":"Point"}
+}

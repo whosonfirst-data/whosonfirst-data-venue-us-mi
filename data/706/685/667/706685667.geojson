@@ -1,0 +1,76 @@
+{
+  "id": 706685667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.114619,42.804874,-86.114619,42.804874",
+    "geom:latitude":42.804874,
+    "geom:longitude":-86.114619,
+    "iso:country":"US",
+    "sg:address":"250 N River Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/holland/182305-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 928 0071",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952113,
+        102083097,
+        85841709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cKP0hEGd5Pebj0vhVlFU6_42.804874_-86.114619@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809508,
+    "wof:geomhash":"3a72cdd57082805bf844f3adaaadc96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85952113,
+            "neighbourhood_id":85841709,
+            "region_id":85688599,
+            "venue_id":706685667
+        }
+    ],
+    "wof:id":706685667,
+    "wof:lastmodified":1461809508,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85841709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.114619,
+    42.804874,
+    -86.114619,
+    42.804874
+],
+  "geometry": {"coordinates":[-86.114619,42.804874],"type":"Point"}
+}

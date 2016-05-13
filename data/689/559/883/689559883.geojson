@@ -1,0 +1,71 @@
+{
+  "id": 689559883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.217402,43.062798,-86.217402,43.062798",
+    "geom:latitude":43.062798,
+    "geom:longitude":-86.217402,
+    "iso:country":"US",
+    "sg:address":"1045 Fulton St",
+    "sg:city":"Grand Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 847 7387",
+    "sg:postcode":"49417",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tDGS962huzrIZKYQcEUAI_43.062798_-86.217402@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461775011,
+    "wof:geomhash":"c5c46e599cded5c894fd7e28bad35731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":689559883
+        }
+    ],
+    "wof:id":689559883,
+    "wof:lastmodified":1461775011,
+    "wof:name":"Haven Animal Hospital",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.217402,
+    43.062798,
+    -86.217402,
+    43.062798
+],
+  "geometry": {"coordinates":[-86.21740200000001,43.062798],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 689512427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.342432,42.581893,-83.342432,42.581893",
+    "geom:latitude":42.581893,
+    "geom:longitude":-83.342432,
+    "iso:country":"US",
+    "sg:address":"2993 Moon Lake Dr",
+    "sg:city":"West Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 865 9853",
+    "sg:postcode":"48323",
+    "sg:province":"MI",
+    "sg:tags":[
+        "importer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85839739,
+        102083713,
+        85851725,
+        102191575,
+        404508331,
+        85952051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ibDobhMmk5zHEqUaZkqCB_42.581893_-83.342432@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773493,
+    "wof:geomhash":"9e13db6cd5e0c703c397ca9fc3555aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85839739,
+            "region_id":85688599,
+            "venue_id":689512427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508331,
+            "locality_id":85952051,
+            "neighbourhood_id":85851725,
+            "region_id":85688599,
+            "venue_id":689512427
+        }
+    ],
+    "wof:id":689512427,
+    "wof:lastmodified":1461773493,
+    "wof:name":"Moon Lake Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "importer"
+    ]
+},
+  "bbox": [
+    -83.342432,
+    42.581893,
+    -83.342432,
+    42.581893
+],
+  "geometry": {"coordinates":[-83.342432,42.581893],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 706393667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742676,43.015928,-83.742676,43.015928",
+    "geom:latitude":43.015928,
+    "geom:longitude":-83.742676,
+    "iso:country":"US",
+    "sg:address":"3200 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 0319",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gEd9oEqH2rjUUxSocf7ZK_43.015928_-83.742676@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802273,
+    "wof:geomhash":"a37ba1087d6a9e074046eb3495e6df0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":706393667
+        }
+    ],
+    "wof:id":706393667,
+    "wof:lastmodified":1461802273,
+    "wof:name":"Pulmonary Associates",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.742676,
+    43.015928,
+    -83.742676,
+    43.015928
+],
+  "geometry": {"coordinates":[-83.742676,43.015928],"type":"Point"}
+}

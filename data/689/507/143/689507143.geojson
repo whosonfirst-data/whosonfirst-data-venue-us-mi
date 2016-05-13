@@ -1,0 +1,88 @@
+{
+  "id": 689507143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.058586,42.430412,-83.058586,42.430412",
+    "geom:latitude":42.430412,
+    "geom:longitude":-83.058586,
+    "iso:country":"US",
+    "sg:address":"18704 Justine St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 366 8850",
+    "sg:postcode":"48234",
+    "sg:province":"MI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866987,
+        102191575,
+        404506401,
+        85633793,
+        85951033,
+        102083147,
+        85688599,
+        85870543,
+        404506393,
+        85951091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nuxTVy5J83by1nBz1GnlU_42.430412_-83.058586@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773320,
+    "wof:geomhash":"69f4b2b3b45e4b111b8368531011c64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506401,
+            "locality_id":85951033,
+            "neighbourhood_id":85866987,
+            "region_id":85688599,
+            "venue_id":689507143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870543,
+            "region_id":85688599,
+            "venue_id":689507143
+        }
+    ],
+    "wof:id":689507143,
+    "wof:lastmodified":1461773320,
+    "wof:name":"Owens Automotive Consultants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.058586,
+    42.430412,
+    -83.058586,
+    42.430412
+],
+  "geometry": {"coordinates":[-83.05858600000001,42.430412],"type":"Point"}
+}

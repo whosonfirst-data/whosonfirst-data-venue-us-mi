@@ -1,0 +1,73 @@
+{
+  "id": 705839907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263283,43.196349,-86.263283,43.196349",
+    "geom:latitude":43.196349,
+    "geom:longitude":-86.263283,
+    "iso:country":"US",
+    "sg:address":"3112 Henry St",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 1568",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ScjWxIU596IoMn3KhO6rH_43.196349_-86.263283@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789952,
+    "wof:geomhash":"b19e0a32a3186954430ea5aadbc9e70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":705839907
+        }
+    ],
+    "wof:id":705839907,
+    "wof:lastmodified":1461789952,
+    "wof:name":"Health Hutt",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -86.263283,
+    43.196349,
+    -86.263283,
+    43.196349
+],
+  "geometry": {"coordinates":[-86.263283,43.196349],"type":"Point"}
+}

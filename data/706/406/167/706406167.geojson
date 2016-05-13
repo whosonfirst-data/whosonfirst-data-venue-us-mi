@@ -1,0 +1,71 @@
+{
+  "id": 706406167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518653,42.148117,-84.518653,42.148117",
+    "geom:latitude":42.148117,
+    "geom:longitude":-84.518653,
+    "iso:country":"US",
+    "sg:address":"201 Moscow Rd",
+    "sg:city":"Horton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 563 8462",
+    "sg:postcode":"49246",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mn8KbBebWCEXmem8v83mO_42.148117_-84.518653@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802523,
+    "wof:geomhash":"37484a0eb46253e9766bdcfe1d378dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706406167
+        }
+    ],
+    "wof:id":706406167,
+    "wof:lastmodified":1461802523,
+    "wof:name":"Horton Automotive Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.518653,
+    42.148117,
+    -84.518653,
+    42.148117
+],
+  "geometry": {"coordinates":[-84.518653,42.148117],"type":"Point"}
+}

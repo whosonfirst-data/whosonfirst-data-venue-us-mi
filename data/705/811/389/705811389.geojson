@@ -1,0 +1,71 @@
+{
+  "id": 705811389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.854396,43.063998,-83.854396,43.063998",
+    "geom:latitude":43.063998,
+    "geom:longitude":-83.854396,
+    "iso:country":"US",
+    "sg:address":"121 N Cherry St",
+    "sg:city":"Flushing",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 659 5572",
+    "sg:postcode":"48433",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807205,
+        102083111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UuhWpbqiNLFrJHuyMcS1b_43.063998_-83.854396@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789258,
+    "wof:geomhash":"b9aa2f6a6a934e58d23536a889a48f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "neighbourhood_id":85807205,
+            "region_id":85688599,
+            "venue_id":705811389
+        }
+    ],
+    "wof:id":705811389,
+    "wof:lastmodified":1461789258,
+    "wof:name":"Staley's Plumbing & Heating",
+    "wof:parent_id":85807205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.854396,
+    43.063998,
+    -83.854396,
+    43.063998
+],
+  "geometry": {"coordinates":[-83.85439599999999,43.063998],"type":"Point"}
+}

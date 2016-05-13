@@ -1,0 +1,72 @@
+{
+  "id": 706679371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.297191,42.399513,-83.297191,42.399513",
+    "geom:latitude":42.399513,
+    "geom:longitude":-83.297191,
+    "iso:country":"US",
+    "sg:address":"25817 5 Mile Rd",
+    "sg:city":"Redford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/redford/146259-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 532 4842",
+    "sg:postcode":"48239",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896771,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44asHNJzNPxvvqtW67w3vQ_42.399513_-83.297191@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809258,
+    "wof:geomhash":"028e9117604a0c903653c2721c35db69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896771,
+            "region_id":85688599,
+            "venue_id":706679371
+        }
+    ],
+    "wof:id":706679371,
+    "wof:lastmodified":1461809258,
+    "wof:name":"Subway",
+    "wof:parent_id":85896771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.297191,
+    42.399513,
+    -83.297191,
+    42.399513
+],
+  "geometry": {"coordinates":[-83.297191,42.399513],"type":"Point"}
+}

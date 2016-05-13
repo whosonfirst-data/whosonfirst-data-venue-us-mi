@@ -1,0 +1,71 @@
+{
+  "id": 689691669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354047,43.312261,-86.354047,43.312261",
+    "geom:latitude":43.312261,
+    "geom:longitude":-86.354047,
+    "iso:country":"US",
+    "sg:address":"4427 W McMillan Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 766 3221",
+    "sg:postcode":"49445",
+    "sg:province":"MI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10qaKGdzopEutBHunpYZFd_43.312261_-86.354047@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778913,
+    "wof:geomhash":"805aaa4c711dfab77dab09820e4924aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689691669
+        }
+    ],
+    "wof:id":689691669,
+    "wof:lastmodified":1461778913,
+    "wof:name":"Shickenchit Ranch",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -86.354047,
+    43.312261,
+    -86.354047,
+    43.312261
+],
+  "geometry": {"coordinates":[-86.35404699999999,43.312261],"type":"Point"}
+}

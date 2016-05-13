@@ -1,0 +1,82 @@
+{
+  "id": 706430217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.321473,42.929365,-85.321473,42.929365",
+    "geom:latitude":42.929365,
+    "geom:longitude":-85.321473,
+    "iso:country":"US",
+    "sg:address":"14179 Grand River Dr SE",
+    "sg:city":"Lowell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 897 7348",
+    "sg:postcode":"49331",
+    "sg:province":"MI",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951355,
+        102083023,
+        85847707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DHC6umk4CA6Z5JPLzqcEU_42.929365_-85.321473@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802981,
+    "wof:geomhash":"a864d893dfddc11fe531129757b8a18b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951355,
+            "neighbourhood_id":85847707,
+            "region_id":85688599,
+            "venue_id":706430217
+        }
+    ],
+    "wof:id":706430217,
+    "wof:lastmodified":1461802981,
+    "wof:name":"Riverside Motorsports",
+    "wof:parent_id":85847707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.321473,
+    42.929365,
+    -85.321473,
+    42.929365
+],
+  "geometry": {"coordinates":[-85.321473,42.929365],"type":"Point"}
+}

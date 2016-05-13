@@ -1,0 +1,88 @@
+{
+  "id": 722477791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.057297,42.3507,-83.057297,42.3507",
+    "geom:latitude":42.3507,
+    "geom:longitude":-83.057297,
+    "iso:country":"US",
+    "sg:address":"3990 John R St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 745 8040",
+    "sg:postcode":"48201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "surgery"
+    ],
+    "sg:website":"http://www.dmc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870591,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lWhtYg2suXyTaqYK2bYvY_42.350700_-83.057297@1303262788"
+    },
+    "wof:country":"US",
+    "wof:created":1461812192,
+    "wof:geomhash":"c9cf7302d4fb833898152e31fb5036d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870591,
+            "region_id":85688599,
+            "venue_id":722477791
+        }
+    ],
+    "wof:id":722477791,
+    "wof:lastmodified":1461812192,
+    "wof:name":"Harper University Hospital",
+    "wof:parent_id":85870591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -83.057297,
+    42.3507,
+    -83.057297,
+    42.3507
+],
+  "geometry": {"coordinates":[-83.05729700000001,42.3507],"type":"Point"}
+}

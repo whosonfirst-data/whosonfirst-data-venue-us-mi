@@ -1,0 +1,71 @@
+{
+  "id": 705930915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433146,42.258959,-84.433146,42.258959",
+    "geom:latitude":42.258959,
+    "geom:longitude":-84.433146,
+    "iso:country":"US",
+    "sg:address":"1401 W North St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 2555",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MAkbrl3icUBN8kVGXVo5I_42.258959_-84.433146@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792079,
+    "wof:geomhash":"1f0b2fe0e31d4c493e9a19650f66ae6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705930915
+        }
+    ],
+    "wof:id":705930915,
+    "wof:lastmodified":1461792079,
+    "wof:name":"Centre For Family Medicine",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.433146,
+    42.258959,
+    -84.433146,
+    42.258959
+],
+  "geometry": {"coordinates":[-84.43314599999999,42.258959],"type":"Point"}
+}

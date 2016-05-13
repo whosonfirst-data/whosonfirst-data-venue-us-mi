@@ -1,0 +1,73 @@
+{
+  "id": 705822755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.556704,42.925748,-85.556704,42.925748",
+    "geom:latitude":42.925748,
+    "geom:longitude":-85.556704,
+    "iso:country":"US",
+    "sg:address":"2046 Shiloh Pt SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 235 2809",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b2uX0VACZjHsTKHGO0nsa_42.925748_-85.556704@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789547,
+    "wof:geomhash":"72abe41fb5ff3c8ae8ca1d50af08e376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":705822755
+        }
+    ],
+    "wof:id":705822755,
+    "wof:lastmodified":1461789547,
+    "wof:name":"Biomedical Technologies Inc",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.556704,
+    42.925748,
+    -85.556704,
+    42.925748
+],
+  "geometry": {"coordinates":[-85.556704,42.925748],"type":"Point"}
+}

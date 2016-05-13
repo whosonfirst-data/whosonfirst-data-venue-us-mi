@@ -1,0 +1,71 @@
+{
+  "id": 705706071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.145219,43.197093,-86.145219,43.197093",
+    "geom:latitude":43.197093,
+    "geom:longitude":-86.145219,
+    "iso:country":"US",
+    "sg:address":"3045 S Brooks Rd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 773 2978",
+    "sg:postcode":"49444",
+    "sg:province":"MI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811515,
+        102083707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TbEBlan1dc7nPPv9B2y5X_43.197093_-86.145219@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786766,
+    "wof:geomhash":"4db8657d2507f0cc410ec92e4655ee64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "neighbourhood_id":85811515,
+            "region_id":85688599,
+            "venue_id":705706071
+        }
+    ],
+    "wof:id":705706071,
+    "wof:lastmodified":1461786766,
+    "wof:name":"Cloverville Storage",
+    "wof:parent_id":85811515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.145219,
+    43.197093,
+    -86.145219,
+    43.197093
+],
+  "geometry": {"coordinates":[-86.145219,43.197093],"type":"Point"}
+}

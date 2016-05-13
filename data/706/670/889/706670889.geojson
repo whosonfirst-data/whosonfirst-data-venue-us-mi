@@ -1,0 +1,73 @@
+{
+  "id": 706670889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.394732,46.546417,-87.394732,46.546417",
+    "geom:latitude":46.546417,
+    "geom:longitude":-87.394732,
+    "iso:country":"US",
+    "sg:address":"429 N 3rd St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 226 9899",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bagel",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VtLF0mf71MJYMGUdMULKs_46.546869_-87.394805@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808902,
+    "wof:geomhash":"d38c9dcc08437aa5cef23a3ff6ade7ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":706670889
+        }
+    ],
+    "wof:id":706670889,
+    "wof:lastmodified":1461808902,
+    "wof:name":"Third Street Bagel Co",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -87.394732,
+    46.546417,
+    -87.394732,
+    46.546417
+],
+  "geometry": {"coordinates":[-87.394732,46.546417],"type":"Point"}
+}

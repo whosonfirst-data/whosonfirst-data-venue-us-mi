@@ -1,0 +1,71 @@
+{
+  "id": 705812011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.310101,42.066122,-86.310101,42.066122",
+    "geom:latitude":42.066122,
+    "geom:longitude":-86.310101,
+    "iso:country":"US",
+    "sg:address":"2829 Hochberger Rd",
+    "sg:city":"Eau Claire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 944 3315",
+    "sg:postcode":"49111",
+    "sg:province":"MI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wZwWotcNJ8LayKfSjrhrE_42.066122_-86.310101@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461789279,
+    "wof:geomhash":"7d5f91a22ad14198eab5ea77c90241ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":705812011
+        }
+    ],
+    "wof:id":705812011,
+    "wof:lastmodified":1461789279,
+    "wof:name":"Great Lakes Landscape",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -86.310101,
+    42.066122,
+    -86.310101,
+    42.066122
+],
+  "geometry": {"coordinates":[-86.310101,42.066122],"type":"Point"}
+}

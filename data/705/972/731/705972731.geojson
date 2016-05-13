@@ -1,0 +1,71 @@
+{
+  "id": 705972731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.599149,42.329634,-85.599149,42.329634",
+    "geom:latitude":42.329634,
+    "geom:longitude":-85.599149,
+    "iso:country":"US",
+    "sg:address":"1012 Gina Ln",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 381 8925",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838411,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73joFm62YfVj2Tm77uIz1r_42.329634_-85.599149@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461793019,
+    "wof:geomhash":"1056d9278656924e9cebac202255d82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85838411,
+            "region_id":85688599,
+            "venue_id":705972731
+        }
+    ],
+    "wof:id":705972731,
+    "wof:lastmodified":1461793019,
+    "wof:name":"Kalamazoo Lock Svc",
+    "wof:parent_id":85838411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -85.599149,
+    42.329634,
+    -85.599149,
+    42.329634
+],
+  "geometry": {"coordinates":[-85.599149,42.329634],"type":"Point"}
+}

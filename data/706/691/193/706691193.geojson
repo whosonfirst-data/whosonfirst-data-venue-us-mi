@@ -1,0 +1,83 @@
+{
+  "id": 706691193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.207607,42.539787,-83.207607,42.539787",
+    "geom:latitude":42.539787,
+    "geom:longitude":-83.207607,
+    "iso:country":"US",
+    "sg:address":"950 S Old Woodward Ave",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 283 8400",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "bath",
+        "kitchen"
+    ],
+    "sg:website":"www.wittocksupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896581,
+        102191575,
+        404508113,
+        85633793,
+        85952029,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61LtVLRTShf5c9kUNGw77O_42.539787_-83.207607@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809722,
+    "wof:geomhash":"5187b1b84581ef909a54bec48824565a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508113,
+            "locality_id":85952029,
+            "neighbourhood_id":85896581,
+            "region_id":85688599,
+            "venue_id":706691193
+        }
+    ],
+    "wof:id":706691193,
+    "wof:lastmodified":1461809722,
+    "wof:name":"Wittock Supply",
+    "wof:parent_id":85896581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bath",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -83.207607,
+    42.539787,
+    -83.207607,
+    42.539787
+],
+  "geometry": {"coordinates":[-83.207607,42.539787],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706410321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443375,42.087156,-86.443375,42.087156",
+    "geom:latitude":42.087156,
+    "geom:longitude":-86.443375,
+    "iso:country":"US",
+    "sg:address":"635 E Napier Ave",
+    "sg:city":"Benton Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 925 2143",
+    "sg:postcode":"49022",
+    "sg:province":"MI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85952309,
+        102083151,
+        85818453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MRRdTY35QTEzfKD3OBqid_42.087156_-86.443375@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802607,
+    "wof:geomhash":"df9fab94f3f155da053b589b85c797e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "locality_id":85952309,
+            "neighbourhood_id":85818453,
+            "region_id":85688599,
+            "venue_id":706410321
+        }
+    ],
+    "wof:id":706410321,
+    "wof:lastmodified":1461802607,
+    "wof:name":"Medic 1 Ambulance",
+    "wof:parent_id":85818453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.443375,
+    42.087156,
+    -86.443375,
+    42.087156
+],
+  "geometry": {"coordinates":[-86.443375,42.087156],"type":"Point"}
+}

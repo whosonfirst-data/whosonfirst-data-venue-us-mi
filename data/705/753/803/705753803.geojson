@@ -1,0 +1,71 @@
+{
+  "id": 705753803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.932882,42.665236,-82.932882,42.665236",
+    "geom:latitude":42.665236,
+    "geom:longitude":-82.932882,
+    "iso:country":"US",
+    "sg:address":"19122 Plantation Dr",
+    "sg:city":"Macomb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 5985",
+    "sg:postcode":"48044",
+    "sg:province":"MI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kAkHdbDLLG8s8pncNrolO_42.665236_-82.932882@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787943,
+    "wof:geomhash":"bdc248e7c9d4929b99fc9c85f5b7232c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":705753803
+        }
+    ],
+    "wof:id":705753803,
+    "wof:lastmodified":1461787943,
+    "wof:name":"County Wide Auto Glass",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -82.932882,
+    42.665236,
+    -82.932882,
+    42.665236
+],
+  "geometry": {"coordinates":[-82.93288200000001,42.665236],"type":"Point"}
+}

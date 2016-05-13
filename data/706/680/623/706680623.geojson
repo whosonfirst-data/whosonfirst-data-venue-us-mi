@@ -1,0 +1,74 @@
+{
+  "id": 706680623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.248451,42.616711,-83.248451,42.616711",
+    "geom:latitude":42.616711,
+    "geom:longitude":-83.248451,
+    "iso:country":"US",
+    "sg:address":"1700 S Opdyke Rd",
+    "sg:city":"Pontiac",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/bloomfield/182204-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 334 8008",
+    "sg:postcode":"48341",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85838681,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22kiqhEfNsRJh1vyhOKbTu_42.616711_-83.248451@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809309,
+    "wof:geomhash":"9b0a0ad77346949695f07a36313eebc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85838681,
+            "region_id":85688599,
+            "venue_id":706680623
+        }
+    ],
+    "wof:id":706680623,
+    "wof:lastmodified":1461809309,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85838681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.248451,
+    42.616711,
+    -83.248451,
+    42.616711
+],
+  "geometry": {"coordinates":[-83.248451,42.616711],"type":"Point"}
+}

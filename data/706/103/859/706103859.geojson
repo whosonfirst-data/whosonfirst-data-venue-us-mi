@@ -1,0 +1,71 @@
+{
+  "id": 706103859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.465679,42.2547,-84.465679,42.2547",
+    "geom:latitude":42.2547,
+    "geom:longitude":-84.465679,
+    "iso:country":"US",
+    "sg:address":"3851 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 4357",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dZHKrAzo3O3zHXkyqyiX_42.254700_-84.465679@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795863,
+    "wof:geomhash":"c4c2b547ab3e2f7f941ed8edb639a7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706103859
+        }
+    ],
+    "wof:id":706103859,
+    "wof:lastmodified":1461795863,
+    "wof:name":"Oliver's Used Cars",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.465679,
+    42.2547,
+    -84.465679,
+    42.2547
+],
+  "geometry": {"coordinates":[-84.46567899999999,42.2547],"type":"Point"}
+}

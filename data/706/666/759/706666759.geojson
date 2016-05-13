@@ -1,0 +1,71 @@
+{
+  "id": 706666759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.902496,42.5844,-82.902496,42.5844",
+    "geom:latitude":42.5844,
+    "geom:longitude":-82.902496,
+    "iso:country":"US",
+    "sg:address":"38536 S Groesbeck Hwy",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 463 2805",
+    "sg:postcode":"48036",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46dsSfwjqNBYgguBlLoyFB_42.584771_-82.902750@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808737,
+    "wof:geomhash":"501c1ef4fc80bcb89ef562289b6ceebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896725,
+            "region_id":85688599,
+            "venue_id":706666759
+        }
+    ],
+    "wof:id":706666759,
+    "wof:lastmodified":1461808737,
+    "wof:name":"Asher's Market",
+    "wof:parent_id":85896725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.902496,
+    42.5844,
+    -82.902496,
+    42.5844
+],
+  "geometry": {"coordinates":[-82.902496,42.5844],"type":"Point"}
+}

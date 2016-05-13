@@ -1,0 +1,80 @@
+{
+  "id": 706272195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556376,42.660537,-84.556376,42.660537",
+    "geom:latitude":42.660537,
+    "geom:longitude":-84.556376,
+    "iso:country":"US",
+    "sg:address":"200 W Edgewood Blvd",
+    "sg:city":"Lansing",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 393 7777",
+    "sg:postcode":"48911",
+    "sg:province":"MI",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951849,
+        102083649,
+        85878635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hO7EUnRziVaFTp1oU8dkw_42.660537_-84.556376@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799664,
+    "wof:geomhash":"bf9cd46fe39cd00298cb339929d924c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083649,
+            "locality_id":85951849,
+            "neighbourhood_id":85878635,
+            "region_id":85688599,
+            "venue_id":706272195
+        }
+    ],
+    "wof:id":706272195,
+    "wof:lastmodified":1461799664,
+    "wof:name":"Edgewood Retirement Center",
+    "wof:parent_id":85878635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -84.556376,
+    42.660537,
+    -84.556376,
+    42.660537
+],
+  "geometry": {"coordinates":[-84.556376,42.660537],"type":"Point"}
+}

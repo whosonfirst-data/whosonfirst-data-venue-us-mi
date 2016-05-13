@@ -1,0 +1,71 @@
+{
+  "id": 689928785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.396617,46.532865,-87.396617,46.532865",
+    "geom:latitude":46.532865,
+    "geom:longitude":-87.396617,
+    "iso:country":"US",
+    "sg:address":"1204 S Front St",
+    "sg:city":"Marquette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 228 6320",
+    "sg:postcode":"49855",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951903,
+        102083039,
+        85806001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20hxwdsSSttg6NPw0PAyLz_46.532865_-87.396617@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785332,
+    "wof:geomhash":"96e3456277b71a3e0a870ada7f112832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083039,
+            "locality_id":85951903,
+            "neighbourhood_id":85806001,
+            "region_id":85688599,
+            "venue_id":689928785
+        }
+    ],
+    "wof:id":689928785,
+    "wof:lastmodified":1461785332,
+    "wof:name":"Marquette Transmissions Inc",
+    "wof:parent_id":85806001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -87.396617,
+    46.532865,
+    -87.396617,
+    46.532865
+],
+  "geometry": {"coordinates":[-87.39661700000001,46.532865],"type":"Point"}
+}

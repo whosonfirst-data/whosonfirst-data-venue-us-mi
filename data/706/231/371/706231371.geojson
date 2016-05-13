@@ -1,0 +1,71 @@
+{
+  "id": 706231371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.065988,45.813524,-88.065988,45.813524",
+    "geom:latitude":45.813524,
+    "geom:longitude":-88.065988,
+    "iso:country":"US",
+    "sg:address":"1014 River Ave",
+    "sg:city":"Iron Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 774 6877",
+    "sg:postcode":"49801",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0INMHQ6Kr7xKJxESQcCcOI_45.813524_-88.065988@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798729,
+    "wof:geomhash":"7f28aa0be3c7d6105def61fb57ca1dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706231371
+        }
+    ],
+    "wof:id":706231371,
+    "wof:lastmodified":1461798729,
+    "wof:name":"Langins Transmission Center",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -88.065988,
+    45.813524,
+    -88.065988,
+    45.813524
+],
+  "geometry": {"coordinates":[-88.065988,45.813524],"type":"Point"}
+}

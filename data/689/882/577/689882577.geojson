@@ -1,0 +1,75 @@
+{
+  "id": 689882577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.503336,42.387631,-83.503336,42.387631",
+    "geom:latitude":42.387631,
+    "geom:longitude":-83.503336,
+    "iso:country":"US",
+    "sg:address":"46555 Port St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 453 8131",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department",
+        "township",
+        "works",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85822463,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BxroWoMvUUCoG55uoP9WR_42.387631_-83.503336@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461784100,
+    "wof:geomhash":"7723e04e30318cd5992ea0a39e3d5eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85822463,
+            "region_id":85688599,
+            "venue_id":689882577
+        }
+    ],
+    "wof:id":689882577,
+    "wof:lastmodified":1461784100,
+    "wof:name":"Department of Public Works",
+    "wof:parent_id":85822463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "works",
+        "public"
+    ]
+},
+  "bbox": [
+    -83.503336,
+    42.387631,
+    -83.503336,
+    42.387631
+],
+  "geometry": {"coordinates":[-83.503336,42.387631],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 706685471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.772201,42.883855,-85.772201,42.883855",
+    "geom:latitude":42.883855,
+    "geom:longitude":-85.772201,
+    "iso:country":"US",
+    "sg:address":"4435 Canal Ave SW",
+    "sg:city":"Grandville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/grandville/182466-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 530 2499",
+    "sg:postcode":"49418",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877869,
+        102191575,
+        404507949,
+        85633793,
+        85951367,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BVxOYUU14p84DTxix8jBS_42.883855_-85.772201@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809501,
+    "wof:geomhash":"158d32292db17849ad50716d8702e5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507949,
+            "locality_id":85951367,
+            "neighbourhood_id":85877869,
+            "region_id":85688599,
+            "venue_id":706685471
+        }
+    ],
+    "wof:id":706685471,
+    "wof:lastmodified":1461809501,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85877869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.772201,
+    42.883855,
+    -85.772201,
+    42.883855
+],
+  "geometry": {"coordinates":[-85.772201,42.883855],"type":"Point"}
+}

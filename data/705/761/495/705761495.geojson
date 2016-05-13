@@ -1,0 +1,75 @@
+{
+  "id": 705761495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.867218,43.350982,-85.867218,43.350982",
+    "geom:latitude":43.350982,
+    "geom:longitude":-85.867218,
+    "iso:country":"US",
+    "sg:address":"2763 W 112th St",
+    "sg:city":"Grant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 834 8390",
+    "sg:postcode":"49327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ht3AoyPKGH5lNiaPwezoc_43.350982_-85.867218@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461788116,
+    "wof:geomhash":"2b1d2ee6586b0112cbaf5239a0304ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705761495
+        }
+    ],
+    "wof:id":705761495,
+    "wof:lastmodified":1461788116,
+    "wof:name":"Pampered Pets",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.867218,
+    43.350982,
+    -85.867218,
+    43.350982
+],
+  "geometry": {"coordinates":[-85.86721799999999,43.350982],"type":"Point"}
+}

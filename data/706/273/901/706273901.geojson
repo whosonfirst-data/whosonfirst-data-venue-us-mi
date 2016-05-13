@@ -1,0 +1,73 @@
+{
+  "id": 706273901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729118,43.043481,-85.729118,43.043481",
+    "geom:latitude":43.043481,
+    "geom:longitude":-85.729118,
+    "iso:country":"US",
+    "sg:address":"4220 Walker Ave NW",
+    "sg:city":"Comstock Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 4479",
+    "sg:postcode":"49321",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951365,
+        102083023,
+        85857725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mnRa6XrTrrERlTJhWPil0_43.043481_-85.729118@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461799702,
+    "wof:geomhash":"f31452e76554d404d4905a87e3e05522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951365,
+            "neighbourhood_id":85857725,
+            "region_id":85688599,
+            "venue_id":706273901
+        }
+    ],
+    "wof:id":706273901,
+    "wof:lastmodified":1461799702,
+    "wof:name":"Roper Electric",
+    "wof:parent_id":85857725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.729118,
+    43.043481,
+    -85.729118,
+    43.043481
+],
+  "geometry": {"coordinates":[-85.729118,43.043481],"type":"Point"}
+}

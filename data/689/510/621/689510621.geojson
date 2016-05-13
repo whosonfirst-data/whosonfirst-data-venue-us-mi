@@ -1,0 +1,73 @@
+{
+  "id": 689510621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.741213,43.015383,-83.741213,43.015383",
+    "geom:latitude":43.015383,
+    "geom:longitude":-83.741213,
+    "iso:country":"US",
+    "sg:address":"3259 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 3463",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_635nXuHPf1Fr1uNgFDjCdB_43.015383_-83.741213@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461773431,
+    "wof:geomhash":"e6aa8595db876f205376e0feac84b240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689510621
+        }
+    ],
+    "wof:id":689510621,
+    "wof:lastmodified":1461773431,
+    "wof:name":"Med-Tech Rehab Inc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -83.741213,
+    43.015383,
+    -83.741213,
+    43.015383
+],
+  "geometry": {"coordinates":[-83.741213,43.015383],"type":"Point"}
+}

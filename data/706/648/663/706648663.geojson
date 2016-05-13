@@ -1,0 +1,69 @@
+{
+  "id": 706648663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.078105,42.818547,-86.078105,42.818547",
+    "geom:latitude":42.818547,
+    "geom:longitude":-86.078105,
+    "iso:country":"US",
+    "sg:address":"2691 N 120th Ave",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 396 7420",
+    "sg:postcode":"49424",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854833,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z5CUC27LNSRU2KZoaLaur_42.818547_-86.078105@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461807873,
+    "wof:geomhash":"410afbae4712a5d256f0869b8bf19ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85854833,
+            "region_id":85688599,
+            "venue_id":706648663
+        }
+    ],
+    "wof:id":706648663,
+    "wof:lastmodified":1461807873,
+    "wof:name":"AAH Ark Animal Hospital",
+    "wof:parent_id":85854833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.078105,
+    42.818547,
+    -86.078105,
+    42.818547
+],
+  "geometry": {"coordinates":[-86.07810499999999,42.818547],"type":"Point"}
+}

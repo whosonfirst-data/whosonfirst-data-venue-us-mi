@@ -1,0 +1,89 @@
+{
+  "id": 706687827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.056753,42.462275,-83.056753,42.462275",
+    "geom:latitude":42.462275,
+    "geom:longitude":-83.056753,
+    "iso:country":"US",
+    "sg:address":"4806 E 9 Mile Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/warren/89348-the-red-apple-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 759 6272",
+    "sg:postcode":"48091",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524429,
+        102191575,
+        404507485,
+        85633793,
+        85951703,
+        102083047,
+        85688599,
+        420524839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKKeGR1L1tFGUTOTWBrRe_42.462172_-83.056603@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809591,
+    "wof:geomhash":"9cc4afce84af01f5d1ec2c79f10a631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524429,
+            "region_id":85688599,
+            "venue_id":706687827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083047,
+            "localadmin_id":404507485,
+            "locality_id":85951703,
+            "neighbourhood_id":420524839,
+            "region_id":85688599,
+            "venue_id":706687827
+        }
+    ],
+    "wof:id":706687827,
+    "wof:lastmodified":1461809591,
+    "wof:name":"The Red Apple Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.056753,
+    42.462275,
+    -83.056753,
+    42.462275
+],
+  "geometry": {"coordinates":[-83.056753,42.462275],"type":"Point"}
+}

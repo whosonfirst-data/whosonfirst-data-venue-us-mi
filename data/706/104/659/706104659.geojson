@@ -1,0 +1,73 @@
+{
+  "id": 706104659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.454519,42.951635,-82.454519,42.951635",
+    "geom:latitude":42.951635,
+    "geom:longitude":-82.454519,
+    "iso:country":"US",
+    "sg:address":"2630 Dove St",
+    "sg:city":"Port Huron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 987 2390",
+    "sg:postcode":"48060",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18JblIQ65VQn0WUdWEedOr_42.951635_-82.454519@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795879,
+    "wof:geomhash":"fd23158e7cc2aeebd231049f19915dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706104659
+        }
+    ],
+    "wof:id":706104659,
+    "wof:lastmodified":1461795879,
+    "wof:name":"H P Pelzer Automotive",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.454519,
+    42.951635,
+    -82.454519,
+    42.951635
+],
+  "geometry": {"coordinates":[-82.454519,42.951635],"type":"Point"}
+}

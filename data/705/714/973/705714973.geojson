@@ -1,0 +1,71 @@
+{
+  "id": 705714973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.515609,42.191865,-85.515609,42.191865",
+    "geom:latitude":42.191865,
+    "geom:longitude":-85.515609,
+    "iso:country":"US",
+    "sg:address":"8749 S 25th St",
+    "sg:city":"Scotts",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 327 7532",
+    "sg:postcode":"49088",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85834523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WTXPtY2yTSO9Fg4yR7m1k_42.191865_-85.515609@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461787038,
+    "wof:geomhash":"81ea8eb7520c2f54ecf775ca04fe979f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85834523,
+            "region_id":85688599,
+            "venue_id":705714973
+        }
+    ],
+    "wof:id":705714973,
+    "wof:lastmodified":1461787038,
+    "wof:name":"Greenfield Shores Fire Dept",
+    "wof:parent_id":85834523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.515609,
+    42.191865,
+    -85.515609,
+    42.191865
+],
+  "geometry": {"coordinates":[-85.515609,42.191865],"type":"Point"}
+}

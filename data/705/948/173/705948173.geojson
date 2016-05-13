@@ -1,0 +1,71 @@
+{
+  "id": 705948173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.733263,43.003266,-83.733263,43.003266",
+    "geom:latitude":43.003266,
+    "geom:longitude":-83.733263,
+    "iso:country":"US",
+    "sg:address":"1007 S Ballenger Hwy",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 238 7557",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I0cYnIaMz7K3ZD3PKObVn_43.003266_-83.733263@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792488,
+    "wof:geomhash":"76c411fba4da57d850f748e9962f8b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":705948173
+        }
+    ],
+    "wof:id":705948173,
+    "wof:lastmodified":1461792488,
+    "wof:name":"Animal Emergency Clinic",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.733263,
+    43.003266,
+    -83.733263,
+    43.003266
+],
+  "geometry": {"coordinates":[-83.73326299999999,43.003266],"type":"Point"}
+}

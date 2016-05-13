@@ -1,0 +1,78 @@
+{
+  "id": 706687663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.172049,42.502829,-83.172049,42.502829",
+    "geom:latitude":42.502829,
+    "geom:longitude":-83.172049,
+    "iso:country":"US",
+    "sg:address":"28957 Woodward Ave",
+    "sg:city":"Berkley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/berkley/24735-uncle-andys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 545 6111",
+    "sg:postcode":"48072",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896559,
+        102191575,
+        404506337,
+        85633793,
+        85952041,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75atPF5WrAOqkT5XHWZEDG_42.502605_-83.171944@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809580,
+    "wof:geomhash":"dd794428ff1ceae270d54b1c39404a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404506337,
+            "locality_id":85952041,
+            "neighbourhood_id":85896559,
+            "region_id":85688599,
+            "venue_id":706687663
+        }
+    ],
+    "wof:id":706687663,
+    "wof:lastmodified":1461809580,
+    "wof:name":"Uncle Andy's Pizza",
+    "wof:parent_id":85896559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.172049,
+    42.502829,
+    -83.172049,
+    42.502829
+],
+  "geometry": {"coordinates":[-83.172049,42.502829],"type":"Point"}
+}

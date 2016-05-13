@@ -1,0 +1,76 @@
+{
+  "id": 722522335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.709816,43.003927,-83.709816,43.003927",
+    "geom:latitude":43.003927,
+    "geom:longitude":-83.709816,
+    "iso:country":"US",
+    "sg:address":"1235 Pershing St",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 760 1607",
+    "sg:postcode":"48503",
+    "sg:province":"MI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.flintschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dvp8gZ6tAC045PPW6kEY0_43.003927_-83.709816@1303262799"
+    },
+    "wof:country":"US",
+    "wof:created":1461814032,
+    "wof:geomhash":"f37bdb137ca80fc03a5f667c76d1a25a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":722522335
+        }
+    ],
+    "wof:id":722522335,
+    "wof:lastmodified":1461814032,
+    "wof:name":"Flint School District",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.709816,
+    43.003927,
+    -83.709816,
+    43.003927
+],
+  "geometry": {"coordinates":[-83.709816,43.003927],"type":"Point"}
+}

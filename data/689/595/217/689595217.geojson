@@ -1,0 +1,72 @@
+{
+  "id": 689595217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.500037,42.914052,-85.500037,42.914052",
+    "geom:latitude":42.914052,
+    "geom:longitude":-85.500037,
+    "iso:country":"US",
+    "sg:address":"6730 Cascade Rd SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 949 0960",
+    "sg:postcode":"49546",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.chfa.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85816657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c16ypl6XJ2mAiATzUoRQl_42.914052_-85.500037@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776067,
+    "wof:geomhash":"dccfca19fc7056939409e116c018e557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85816657,
+            "region_id":85688599,
+            "venue_id":689595217
+        }
+    ],
+    "wof:id":689595217,
+    "wof:lastmodified":1461776067,
+    "wof:name":"Cascade Hospital For Animals",
+    "wof:parent_id":85816657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.500037,
+    42.914052,
+    -85.500037,
+    42.914052
+],
+  "geometry": {"coordinates":[-85.50003700000001,42.914052],"type":"Point"}
+}

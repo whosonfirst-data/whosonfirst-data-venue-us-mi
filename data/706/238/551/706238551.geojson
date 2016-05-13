@@ -1,0 +1,75 @@
+{
+  "id": 706238551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.880412,42.600362,-82.880412,42.600362",
+    "geom:latitude":42.600362,
+    "geom:longitude":-82.880412,
+    "iso:country":"US",
+    "sg:address":"112 Macomb Pl",
+    "sg:city":"Mt Clemens",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 468 0041",
+    "sg:postcode":"48043",
+    "sg:province":"MI",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951621,
+        102083047,
+        85896727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aroRLep9PbTnyYFM9jQAz_42.600362_-82.880412@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798906,
+    "wof:geomhash":"74fc97854e0e92afe393aceca09d798d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "locality_id":85951621,
+            "neighbourhood_id":85896727,
+            "region_id":85688599,
+            "venue_id":706238551
+        }
+    ],
+    "wof:id":706238551,
+    "wof:lastmodified":1461798906,
+    "wof:name":"Highland Atm Svc",
+    "wof:parent_id":85896727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -82.880412,
+    42.600362,
+    -82.880412,
+    42.600362
+],
+  "geometry": {"coordinates":[-82.88041200000001,42.600362],"type":"Point"}
+}

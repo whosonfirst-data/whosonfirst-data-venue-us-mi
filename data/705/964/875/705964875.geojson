@@ -1,0 +1,71 @@
+{
+  "id": 705964875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384459,42.252579,-84.384459,42.252579",
+    "geom:latitude":42.252579,
+    "geom:longitude":-84.384459,
+    "iso:country":"US",
+    "sg:address":"124 N Elm Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 782 2387",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2orpI4z6gqu7wu9vfji1zn_42.252579_-84.384459@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461792860,
+    "wof:geomhash":"242e0c2820ab24a458e50bd4277118ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":705964875
+        }
+    ],
+    "wof:id":705964875,
+    "wof:lastmodified":1461792860,
+    "wof:name":"Internal Medicine Assoc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.384459,
+    42.252579,
+    -84.384459,
+    42.252579
+],
+  "geometry": {"coordinates":[-84.38445900000001,42.252579],"type":"Point"}
+}

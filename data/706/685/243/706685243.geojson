@@ -1,0 +1,78 @@
+{
+  "id": 706685243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689642,43.038193,-85.689642,43.038193",
+    "geom:latitude":43.038193,
+    "geom:longitude":-85.689642,
+    "iso:country":"US",
+    "sg:address":"4089 Alpine Ave NW",
+    "sg:city":"Comstock Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/alpine/86737-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 784 8460",
+    "sg:postcode":"49321",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47yoRNssH7ETdfkpIFMMrQ_43.038193_-85.689642@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809493,
+    "wof:geomhash":"f67472b7d3f0f444872bf192a6262807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706685243
+        }
+    ],
+    "wof:id":706685243,
+    "wof:lastmodified":1461809493,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.689642,
+    43.038193,
+    -85.689642,
+    43.038193
+],
+  "geometry": {"coordinates":[-85.68964200000001,43.038193],"type":"Point"}
+}

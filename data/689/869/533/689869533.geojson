@@ -1,0 +1,69 @@
+{
+  "id": 689869533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.839373,42.667026,-82.839373,42.667026",
+    "geom:latitude":42.667026,
+    "geom:longitude":-82.839373,
+    "iso:country":"US",
+    "sg:address":"50177 Gratiot Ave",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 000 1111",
+    "sg:postcode":"48051",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85847647,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zpp1IesNYvnGSIo1jW51C_42.667026_-82.839373@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461783778,
+    "wof:geomhash":"42fd7a5464700a42d4b43f1f02af0022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85847647,
+            "region_id":85688599,
+            "venue_id":689869533
+        }
+    ],
+    "wof:id":689869533,
+    "wof:lastmodified":1461783778,
+    "wof:name":"Chesterfield Twp Fire Dept",
+    "wof:parent_id":85847647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.839373,
+    42.667026,
+    -82.839373,
+    42.667026
+],
+  "geometry": {"coordinates":[-82.83937299999999,42.667026],"type":"Point"}
+}

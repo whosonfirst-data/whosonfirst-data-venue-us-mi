@@ -1,0 +1,71 @@
+{
+  "id": 705701003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.415799,44.191255,-85.415799,44.191255",
+    "geom:latitude":44.191255,
+    "geom:longitude":-85.415799,
+    "iso:country":"US",
+    "sg:address":"10189 S 41 Rd",
+    "sg:city":"Cadillac",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 775 7216",
+    "sg:postcode":"49601",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951843,
+        102083119,
+        85821929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YWnXEti4XevmoZT6OTfrT_44.191255_-85.415799@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461786573,
+    "wof:geomhash":"eb313d2f8f27f47fc32c18e985e73fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083119,
+            "locality_id":85951843,
+            "neighbourhood_id":85821929,
+            "region_id":85688599,
+            "venue_id":705701003
+        }
+    ],
+    "wof:id":705701003,
+    "wof:lastmodified":1461786573,
+    "wof:name":"Egelus Inc",
+    "wof:parent_id":85821929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.415799,
+    44.191255,
+    -85.415799,
+    44.191255
+],
+  "geometry": {"coordinates":[-85.41579900000001,44.191255],"type":"Point"}
+}

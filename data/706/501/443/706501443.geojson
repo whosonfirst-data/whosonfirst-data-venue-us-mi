@@ -1,0 +1,69 @@
+{
+  "id": 706501443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3805,42.689807,-83.3805,42.689807",
+    "geom:latitude":42.689807,
+    "geom:longitude":-83.3805,
+    "iso:country":"US",
+    "sg:address":"4664 W Walton Blvd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 674 0418",
+    "sg:postcode":"48329",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZhOAEI6ud6M4H1XGEogy1_42.689807_-83.380500@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804677,
+    "wof:geomhash":"57d9bfbf84c03add60bfba2054497f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706501443
+        }
+    ],
+    "wof:id":706501443,
+    "wof:lastmodified":1461804677,
+    "wof:name":"Metropolitan Dental Centers",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.3805,
+    42.689807,
+    -83.3805,
+    42.689807
+],
+  "geometry": {"coordinates":[-83.3805,42.689807],"type":"Point"}
+}

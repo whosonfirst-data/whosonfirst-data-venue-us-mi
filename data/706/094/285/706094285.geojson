@@ -1,0 +1,71 @@
+{
+  "id": 706094285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.776283,43.547892,-85.776283,43.547892",
+    "geom:latitude":43.547892,
+    "geom:longitude":-85.776283,
+    "iso:country":"US",
+    "sg:address":"1035 E James St",
+    "sg:city":"White Cloud",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 689 6623",
+    "sg:postcode":"49349",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hDT7IFDpiwxRMkWDR1N5L_43.547892_-85.776283@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461795656,
+    "wof:geomhash":"50b0eb2ce2e61430e132411103f508d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706094285
+        }
+    ],
+    "wof:id":706094285,
+    "wof:lastmodified":1461795656,
+    "wof:name":"Newaygo Sheriff's Office",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.776283,
+    43.547892,
+    -85.776283,
+    43.547892
+],
+  "geometry": {"coordinates":[-85.77628300000001,43.547892],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 706673463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.517502,43.017101,-83.517502,43.017101",
+    "geom:latitude":43.017101,
+    "geom:longitude":-83.517502,
+    "iso:country":"US",
+    "sg:address":"1141 S State Rd",
+    "sg:city":"Davison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 658 4454",
+    "sg:postcode":"48423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805647,
+        102191575,
+        404506589,
+        85633793,
+        85951925,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70u1ScWKgqFNhdXHB4HbrP_43.017633_-83.517542@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809020,
+    "wof:geomhash":"6b1c302cbbdd69c8ab5702e5626c3686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506589,
+            "locality_id":85951925,
+            "neighbourhood_id":85805647,
+            "region_id":85688599,
+            "venue_id":706673463
+        }
+    ],
+    "wof:id":706673463,
+    "wof:lastmodified":1461809020,
+    "wof:name":"Regional Medical Imaging",
+    "wof:parent_id":85805647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -83.517502,
+    43.017101,
+    -83.517502,
+    43.017101
+],
+  "geometry": {"coordinates":[-83.51750199999999,43.017101],"type":"Point"}
+}

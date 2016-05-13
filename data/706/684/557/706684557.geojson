@@ -1,0 +1,73 @@
+{
+  "id": 706684557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455269,42.379115,-85.455269,42.379115",
+    "geom:latitude":42.379115,
+    "geom:longitude":-85.455269,
+    "iso:country":"US",
+    "sg:address":"8200 N 32nd St",
+    "sg:city":"Richland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/richland/186108-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"49083",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cQxY8K1ebXPL9R2qi9k8l_42.379115_-85.455269@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809468,
+    "wof:geomhash":"e922f809c55fd3807d26b6b46a87def9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684557
+        }
+    ],
+    "wof:id":706684557,
+    "wof:lastmodified":1461809468,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.455269,
+    42.379115,
+    -85.455269,
+    42.379115
+],
+  "geometry": {"coordinates":[-85.455269,42.379115],"type":"Point"}
+}

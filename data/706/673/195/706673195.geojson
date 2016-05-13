@@ -1,0 +1,79 @@
+{
+  "id": 706673195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.171097,42.248299,-83.171097,42.248299",
+    "geom:latitude":42.248299,
+    "geom:longitude":-83.171097,
+    "iso:country":"US",
+    "sg:address":"969 Southfield Rd",
+    "sg:city":"Lincoln Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 388 5003",
+    "sg:postcode":"48146",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dry",
+        "coin",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524965,
+        102191575,
+        404508637,
+        85633793,
+        85951069,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wmaxy4n9IRajagdpdaV0m_42.248313_-83.170982@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461809010,
+    "wof:geomhash":"cb368d251935ab4651b32b1dfddc086d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404508637,
+            "locality_id":85951069,
+            "neighbourhood_id":420524965,
+            "region_id":85688599,
+            "venue_id":706673195
+        }
+    ],
+    "wof:id":706673195,
+    "wof:lastmodified":1461809010,
+    "wof:name":"Millennium Coin Laundry",
+    "wof:parent_id":420524965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "coin",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -83.171097,
+    42.248299,
+    -83.171097,
+    42.248299
+],
+  "geometry": {"coordinates":[-83.171097,42.248299],"type":"Point"}
+}

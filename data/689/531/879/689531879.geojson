@@ -1,0 +1,71 @@
+{
+  "id": 689531879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.052561,42.783447,-86.052561,42.783447",
+    "geom:latitude":42.783447,
+    "geom:longitude":-86.052561,
+    "iso:country":"US",
+    "sg:address":"1283 E 16th St",
+    "sg:city":"Holland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 546 3390",
+    "sg:postcode":"49423",
+    "sg:province":"MI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85837049,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YSnxZ6wtwHIGmt4BVN3mn_42.783447_-86.052561@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774141,
+    "wof:geomhash":"41c9ce84d8833a0a52974ed42efcfb14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85837049,
+            "region_id":85688599,
+            "venue_id":689531879
+        }
+    ],
+    "wof:id":689531879,
+    "wof:lastmodified":1461774141,
+    "wof:name":"Potter Disposal",
+    "wof:parent_id":85837049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.052561,
+    42.783447,
+    -86.052561,
+    42.783447
+],
+  "geometry": {"coordinates":[-86.052561,42.783447],"type":"Point"}
+}

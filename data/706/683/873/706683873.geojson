@@ -1,0 +1,74 @@
+{
+  "id": 706683873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631891,42.271756,-85.631891,42.271756",
+    "geom:latitude":42.271756,
+    "geom:longitude":-85.631891,
+    "iso:country":"US",
+    "sg:address":"3330 Stadium Dr",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/258503-gumbys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 544 1100",
+    "sg:postcode":"49008",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J6xMJc3V3Jfro6UCYHoUx_42.271756_-85.631891@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809441,
+    "wof:geomhash":"8ced2e2227b6c9f98acba5895c74b1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":706683873
+        }
+    ],
+    "wof:id":706683873,
+    "wof:lastmodified":1461809441,
+    "wof:name":"Gumby's Pizza",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.631891,
+    42.271756,
+    -85.631891,
+    42.271756
+],
+  "geometry": {"coordinates":[-85.631891,42.271756],"type":"Point"}
+}

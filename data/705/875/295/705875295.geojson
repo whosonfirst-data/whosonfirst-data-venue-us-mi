@@ -1,0 +1,69 @@
+{
+  "id": 705875295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.6807,42.254036,-83.6807,42.254036",
+    "geom:latitude":42.254036,
+    "geom:longitude":-83.6807,
+    "iso:country":"US",
+    "sg:address":"2215 Hogback Rd",
+    "sg:city":"Ann Arbor",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 486 9111",
+    "sg:postcode":"48107",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85875953,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cBJGyAcxj2BP9iD560W5F_42.254036_-83.680700@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461790824,
+    "wof:geomhash":"b9cdce699b99b1c6ce6106d43ea5d7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85875953,
+            "region_id":85688599,
+            "venue_id":705875295
+        }
+    ],
+    "wof:id":705875295,
+    "wof:lastmodified":1461790824,
+    "wof:name":"South Lyon Ambulance Inc",
+    "wof:parent_id":85875953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -83.6807,
+    42.254036,
+    -83.6807,
+    42.254036
+],
+  "geometry": {"coordinates":[-83.6807,42.254036],"type":"Point"}
+}

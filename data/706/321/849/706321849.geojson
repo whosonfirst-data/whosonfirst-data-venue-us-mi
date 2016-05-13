@@ -1,0 +1,69 @@
+{
+  "id": 706321849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.399127,42.267111,-84.399127,42.267111",
+    "geom:latitude":42.267111,
+    "geom:longitude":-84.399127,
+    "iso:country":"US",
+    "sg:address":"200 Blair Park Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 764 7013",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zp8AAiZFWqkbNgwuIKjn6_42.267111_-84.399127@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800777,
+    "wof:geomhash":"e2e170c5e5b6691c19488756a46ce368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706321849
+        }
+    ],
+    "wof:id":706321849,
+    "wof:lastmodified":1461800777,
+    "wof:name":"Fed Ex Freight",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.399127,
+    42.267111,
+    -84.399127,
+    42.267111
+],
+  "geometry": {"coordinates":[-84.39912699999999,42.267111],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 706385433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.478516,42.909742,-82.478516,42.909742",
+    "geom:latitude":42.909742,
+    "geom:longitude":-82.478516,
+    "iso:country":"US",
+    "sg:address":"200 E 14th St",
+    "sg:city":"Marysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 364 8340",
+    "sg:postcode":"48040",
+    "sg:province":"MI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951541,
+        102083053,
+        85896769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TvIjhauq5VmqE1pVFp9S4_42.909742_-82.478516@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802118,
+    "wof:geomhash":"00b71b630b58a7da75c9a384cdc700f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083053,
+            "locality_id":85951541,
+            "neighbourhood_id":85896769,
+            "region_id":85688599,
+            "venue_id":706385433
+        }
+    ],
+    "wof:id":706385433,
+    "wof:lastmodified":1461802118,
+    "wof:name":"Marysville Public Works",
+    "wof:parent_id":85896769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -82.478516,
+    42.909742,
+    -82.478516,
+    42.909742
+],
+  "geometry": {"coordinates":[-82.478516,42.909742],"type":"Point"}
+}

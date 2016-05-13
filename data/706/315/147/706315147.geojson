@@ -1,0 +1,71 @@
+{
+  "id": 706315147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.466197,42.254778,-84.466197,42.254778",
+    "geom:latitude":42.254778,
+    "geom:longitude":-84.466197,
+    "iso:country":"US",
+    "sg:address":"3918 W Michigan Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 750 1398",
+    "sg:postcode":"49202",
+    "sg:province":"MI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62NVM5HjnWKxCIoitPFTgV_42.254778_-84.466197@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800624,
+    "wof:geomhash":"f92e418d8b3808b086b6b153fa8ead57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706315147
+        }
+    ],
+    "wof:id":706315147,
+    "wof:lastmodified":1461800624,
+    "wof:name":"Dale's Auto Truck Svc",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.466197,
+    42.254778,
+    -84.466197,
+    42.254778
+],
+  "geometry": {"coordinates":[-84.46619699999999,42.254778],"type":"Point"}
+}

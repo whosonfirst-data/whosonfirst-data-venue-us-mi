@@ -1,0 +1,77 @@
+{
+  "id": 706681621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.772612,42.998435,-83.772612,42.998435",
+    "geom:latitude":42.998435,
+    "geom:longitude":-83.772612,
+    "iso:country":"US",
+    "sg:address":"2145 S Linden Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/flint/185845-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85877393,
+        102191575,
+        404506599,
+        85633793,
+        85951927,
+        102083111,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aARfYzRFZ6CDVB5SUZEyl_42.998435_-83.772612@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809349,
+    "wof:geomhash":"1c00925b08824f7935f889acaa683e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083111,
+            "localadmin_id":404506599,
+            "locality_id":85951927,
+            "neighbourhood_id":85877393,
+            "region_id":85688599,
+            "venue_id":706681621
+        }
+    ],
+    "wof:id":706681621,
+    "wof:lastmodified":1461809349,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85877393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.772612,
+    42.998435,
+    -83.772612,
+    42.998435
+],
+  "geometry": {"coordinates":[-83.772612,42.998435],"type":"Point"}
+}

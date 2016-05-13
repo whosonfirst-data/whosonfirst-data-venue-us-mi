@@ -1,0 +1,72 @@
+{
+  "id": 706665395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.959297,42.549801,-82.959297,42.549801",
+    "geom:latitude":42.549801,
+    "geom:longitude":-82.959297,
+    "iso:country":"US",
+    "sg:address":"34501 Utica Rd",
+    "sg:city":"Fraser",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 294 4070",
+    "sg:postcode":"48026",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shop",
+        "bike"
+    ],
+    "sg:website":"www.fraserbicycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85808775,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l30xJdaTmiFd1dpSo3ORN_42.549405_-82.959082@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461808682,
+    "wof:geomhash":"0ff91fb87a323e5f863f9cfb4c80abf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85808775,
+            "region_id":85688599,
+            "venue_id":706665395
+        }
+    ],
+    "wof:id":706665395,
+    "wof:lastmodified":1461808682,
+    "wof:name":"Fraser Bicycle",
+    "wof:parent_id":85808775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "bike"
+    ]
+},
+  "bbox": [
+    -82.959297,
+    42.549801,
+    -82.959297,
+    42.549801
+],
+  "geometry": {"coordinates":[-82.95929700000001,42.549801],"type":"Point"}
+}

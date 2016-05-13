@@ -1,0 +1,75 @@
+{
+  "id": 706330779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.711294,43.16183,-85.711294,43.16183",
+    "geom:latitude":43.16183,
+    "geom:longitude":-85.711294,
+    "iso:country":"US",
+    "sg:address":"36 Elmwood St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 887 0900",
+    "sg:postcode":"49345",
+    "sg:province":"MI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865275,
+        102191575,
+        404507863,
+        85633793,
+        85951357,
+        102083023,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6buuOlnQTX0N2mjaj0ouzm_43.161830_-85.711294@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801001,
+    "wof:geomhash":"3db218e7b8077b98963474960dae7d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083023,
+            "localadmin_id":404507863,
+            "locality_id":85951357,
+            "neighbourhood_id":85865275,
+            "region_id":85688599,
+            "venue_id":706330779
+        }
+    ],
+    "wof:id":706330779,
+    "wof:lastmodified":1461801001,
+    "wof:name":"Sparta Fire Dept",
+    "wof:parent_id":85865275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.711294,
+    43.16183,
+    -85.711294,
+    43.16183
+],
+  "geometry": {"coordinates":[-85.711294,43.16183],"type":"Point"}
+}

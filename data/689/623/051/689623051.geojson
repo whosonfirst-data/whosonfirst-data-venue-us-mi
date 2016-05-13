@@ -1,0 +1,71 @@
+{
+  "id": 689623051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899275,42.921606,-85.899275,42.921606",
+    "geom:latitude":42.921606,
+    "geom:longitude":-85.899275,
+    "iso:country":"US",
+    "sg:address":"4551 Bauer Rd",
+    "sg:city":"Hudsonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 669 3392",
+    "sg:postcode":"49426",
+    "sg:province":"MI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85804757,
+        102083097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F3jvqAggfAHRtQQLYOTvu_42.921606_-85.899275@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461776984,
+    "wof:geomhash":"dc03a9a940ae91099e8c16722c6ff009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "neighbourhood_id":85804757,
+            "region_id":85688599,
+            "venue_id":689623051
+        }
+    ],
+    "wof:id":689623051,
+    "wof:lastmodified":1461776984,
+    "wof:name":"Baur Heating & Cooling Inc",
+    "wof:parent_id":85804757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.899275,
+    42.921606,
+    -85.899275,
+    42.921606
+],
+  "geometry": {"coordinates":[-85.899275,42.921606],"type":"Point"}
+}

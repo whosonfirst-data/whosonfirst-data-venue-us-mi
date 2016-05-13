@@ -1,0 +1,71 @@
+{
+  "id": 689797801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.769011,43.031252,-83.769011,43.031252",
+    "geom:latitude":43.031252,
+    "geom:longitude":-83.769011,
+    "iso:country":"US",
+    "sg:address":"4560 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 733 2530",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D3JL6IarxsJgrPfu3BPJx_43.031252_-83.769011@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781793,
+    "wof:geomhash":"a8203829bc1d950d6b9a7addb2f5bbd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689797801
+        }
+    ],
+    "wof:id":689797801,
+    "wof:lastmodified":1461781793,
+    "wof:name":"Pilon Family Dentistry",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.769011,
+    43.031252,
+    -83.769011,
+    43.031252
+],
+  "geometry": {"coordinates":[-83.76901100000001,43.031252],"type":"Point"}
+}

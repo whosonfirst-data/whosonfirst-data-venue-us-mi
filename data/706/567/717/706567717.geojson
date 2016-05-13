@@ -1,0 +1,73 @@
+{
+  "id": 706567717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.583757,42.323842,-85.583757,42.323842",
+    "geom:latitude":42.323842,
+    "geom:longitude":-85.583757,
+    "iso:country":"US",
+    "sg:address":"2810 N Burdick St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 373 5533",
+    "sg:postcode":"49004",
+    "sg:province":"MI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85878463,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2APyGbpHkkKo5HFOqAXR4y_42.323842_-85.583757@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806010,
+    "wof:geomhash":"e1846823bb49800fc486a679a7c30ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85878463,
+            "region_id":85688599,
+            "venue_id":706567717
+        }
+    ],
+    "wof:id":706567717,
+    "wof:lastmodified":1461806010,
+    "wof:name":"Trinity Warehousing Svc",
+    "wof:parent_id":85878463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.583757,
+    42.323842,
+    -85.583757,
+    42.323842
+],
+  "geometry": {"coordinates":[-85.58375700000001,42.323842],"type":"Point"}
+}

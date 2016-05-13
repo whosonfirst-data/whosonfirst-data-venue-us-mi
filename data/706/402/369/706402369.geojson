@@ -1,0 +1,71 @@
+{
+  "id": 706402369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.615935,42.241423,-83.615935,42.241423",
+    "geom:latitude":42.241423,
+    "geom:longitude":-83.615935,
+    "iso:country":"US",
+    "sg:address":"20 N Adams St",
+    "sg:city":"Ypsilanti",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 482 5280",
+    "sg:postcode":"48197",
+    "sg:province":"MI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85817035,
+        102083763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05SSp1nS6KrogY8UwLJSEC_42.241423_-83.615935@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461802446,
+    "wof:geomhash":"bab25e1585fce470bb3dd1282a7443fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083763,
+            "neighbourhood_id":85817035,
+            "region_id":85688599,
+            "venue_id":706402369
+        }
+    ],
+    "wof:id":706402369,
+    "wof:lastmodified":1461802446,
+    "wof:name":"Trojan Dry Cleaners",
+    "wof:parent_id":85817035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -83.615935,
+    42.241423,
+    -83.615935,
+    42.241423
+],
+  "geometry": {"coordinates":[-83.61593499999999,42.241423],"type":"Point"}
+}

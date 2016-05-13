@@ -1,0 +1,71 @@
+{
+  "id": 689693425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.620429,42.274656,-85.620429,42.274656",
+    "geom:latitude":42.274656,
+    "geom:longitude":-85.620429,
+    "iso:country":"US",
+    "sg:address":"1704 Knollwood Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 342 9776",
+    "sg:postcode":"49006",
+    "sg:province":"MI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UsXRQoGIYRLQvJOd07wlj_42.274656_-85.620429@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778950,
+    "wof:geomhash":"dfbb354f115b60a59280cc6945f790fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878461,
+            "region_id":85688599,
+            "venue_id":689693425
+        }
+    ],
+    "wof:id":689693425,
+    "wof:lastmodified":1461778950,
+    "wof:name":"Knollwood Apartments",
+    "wof:parent_id":85878461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.620429,
+    42.274656,
+    -85.620429,
+    42.274656
+],
+  "geometry": {"coordinates":[-85.620429,42.274656],"type":"Point"}
+}

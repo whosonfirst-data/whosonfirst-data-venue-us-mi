@@ -1,0 +1,74 @@
+{
+  "id": 706685803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.289384,43.205672,-86.289384,43.205672",
+    "geom:latitude":43.205672,
+    "geom:longitude":-86.289384,
+    "iso:country":"US",
+    "sg:address":"1848 W Sherman Blvd",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/norton-shores/31945-pizza-ranch/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 739 3300",
+    "sg:postcode":"49441",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MWgl3afNTl3ADj3UrE8MR_43.205672_-86.289384@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809513,
+    "wof:geomhash":"0a17853f05a47f2d11b81917faa55863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":706685803
+        }
+    ],
+    "wof:id":706685803,
+    "wof:lastmodified":1461809513,
+    "wof:name":"Pizza Ranch",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.289384,
+    43.205672,
+    -86.289384,
+    43.205672
+],
+  "geometry": {"coordinates":[-86.289384,43.205672],"type":"Point"}
+}

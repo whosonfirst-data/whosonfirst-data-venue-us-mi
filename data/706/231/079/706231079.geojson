@@ -1,0 +1,71 @@
+{
+  "id": 706231079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63106,42.891509,-85.63106,42.891509",
+    "geom:latitude":42.891509,
+    "geom:longitude":-85.63106,
+    "iso:country":"US",
+    "sg:address":"1403 Morewood Dr SE",
+    "sg:city":"Grand Rapids",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 243 3184",
+    "sg:postcode":"49508",
+    "sg:province":"MI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951353,
+        102083023,
+        85877899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s7p8vxMzJ88Ao0HEg78ka_42.891509_-85.631060@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461798724,
+    "wof:geomhash":"b9884f60f3e65fa9b4098f45fc3f9de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083023,
+            "locality_id":85951353,
+            "neighbourhood_id":85877899,
+            "region_id":85688599,
+            "venue_id":706231079
+        }
+    ],
+    "wof:id":706231079,
+    "wof:lastmodified":1461798724,
+    "wof:name":"P & L Cleaning Services",
+    "wof:parent_id":85877899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.63106,
+    42.891509,
+    -85.63106,
+    42.891509
+],
+  "geometry": {"coordinates":[-85.63106000000001,42.891509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706327009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.803094,43.403328,-85.803094,43.403328",
+    "geom:latitude":43.403328,
+    "geom:longitude":-85.803094,
+    "iso:country":"US",
+    "sg:address":"85 W John St",
+    "sg:city":"Newaygo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 652 9556",
+    "sg:postcode":"49337",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e797jBMGHoqBHIwXVUZeQ_43.403328_-85.803094@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800913,
+    "wof:geomhash":"953ab4cf3392fa3de7aba132689de7c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":706327009
+        }
+    ],
+    "wof:id":706327009,
+    "wof:lastmodified":1461800913,
+    "wof:name":"Newaygo's A-1 Towing",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.803094,
+    43.403328,
+    -85.803094,
+    43.403328
+],
+  "geometry": {"coordinates":[-85.803094,43.403328],"type":"Point"}
+}

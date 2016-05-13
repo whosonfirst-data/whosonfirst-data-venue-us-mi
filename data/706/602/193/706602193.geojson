@@ -1,0 +1,71 @@
+{
+  "id": 706602193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.745373,42.302625,-85.745373,42.302625",
+    "geom:latitude":42.302625,
+    "geom:longitude":-85.745373,
+    "iso:country":"US",
+    "sg:address":"1919 N 2nd St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 353 4940",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OdWUUeMhkFTd5yvxi48up_42.302625_-85.745373@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461806771,
+    "wof:geomhash":"7bedc5d0b4fdd0391d201d8a9a695c82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":706602193
+        }
+    ],
+    "wof:id":706602193,
+    "wof:lastmodified":1461806771,
+    "wof:name":"Arcadia Electric Inc",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.745373,
+    42.302625,
+    -85.745373,
+    42.302625
+],
+  "geometry": {"coordinates":[-85.745373,42.302625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706305121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.200547,43.07661,-86.200547,43.07661",
+    "geom:latitude":43.07661,
+    "geom:longitude":-86.200547,
+    "iso:country":"US",
+    "sg:address":"108 S Division St",
+    "sg:city":"Spring Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 842 0099",
+    "sg:postcode":"49456",
+    "sg:province":"MI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951001,
+        102083097,
+        85849219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wrnljT3EocsrzaF5Ve9yl_43.076610_-86.200547@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800411,
+    "wof:geomhash":"48f34ba24c058739dea81c802bb1d3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85951001,
+            "neighbourhood_id":85849219,
+            "region_id":85688599,
+            "venue_id":706305121
+        }
+    ],
+    "wof:id":706305121,
+    "wof:lastmodified":1461800411,
+    "wof:name":"Dr Lube Inc",
+    "wof:parent_id":85849219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.200547,
+    43.07661,
+    -86.200547,
+    43.07661
+],
+  "geometry": {"coordinates":[-86.200547,43.07661],"type":"Point"}
+}

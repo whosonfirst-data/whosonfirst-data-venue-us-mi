@@ -1,0 +1,71 @@
+{
+  "id": 689539481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551518,42.270015,-85.551518,42.270015",
+    "geom:latitude":42.270015,
+    "geom:longitude":-85.551518,
+    "iso:country":"US",
+    "sg:address":"2109 Palmer Ave",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 552 4701",
+    "sg:postcode":"49001",
+    "sg:province":"MI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S82Ak1b0wHrIuCwE89Ew7_42.270015_-85.551518@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461774340,
+    "wof:geomhash":"651be558038d8d99b30047cbdcb69ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878455,
+            "region_id":85688599,
+            "venue_id":689539481
+        }
+    ],
+    "wof:id":689539481,
+    "wof:lastmodified":1461774340,
+    "wof:name":"AAA Performance Engines",
+    "wof:parent_id":85878455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.551518,
+    42.270015,
+    -85.551518,
+    42.270015
+],
+  "geometry": {"coordinates":[-85.551518,42.270015],"type":"Point"}
+}

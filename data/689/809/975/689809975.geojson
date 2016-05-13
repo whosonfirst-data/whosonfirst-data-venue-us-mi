@@ -1,0 +1,73 @@
+{
+  "id": 689809975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.250613,43.239197,-86.250613,43.239197",
+    "geom:latitude":43.239197,
+    "geom:longitude":-86.250613,
+    "iso:country":"US",
+    "sg:address":"316 Morris Ave",
+    "sg:city":"Muskegon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 726 3500",
+    "sg:postcode":"49440",
+    "sg:province":"MI",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qlIzfdN9zxjMX6ef54Hji_43.239197_-86.250613@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782184,
+    "wof:geomhash":"d52364f57adc8edfbb078e673b6970dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689809975
+        }
+    ],
+    "wof:id":689809975,
+    "wof:lastmodified":1461782184,
+    "wof:name":"Merrill Lynch",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -86.250613,
+    43.239197,
+    -86.250613,
+    43.239197
+],
+  "geometry": {"coordinates":[-86.250613,43.239197],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689923801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.753696,43.011502,-83.753696,43.011502",
+    "geom:latitude":43.011502,
+    "geom:longitude":-83.753696,
+    "iso:country":"US",
+    "sg:address":"1036 Gilbert Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 230 1100",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJGVgeZCKY8BkGkYjqSL7_43.011502_-83.753696@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785205,
+    "wof:geomhash":"ace686ba1daaf83f97c2998cf8642671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689923801
+        }
+    ],
+    "wof:id":689923801,
+    "wof:lastmodified":1461785205,
+    "wof:name":"Ross Medical Education Center",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.753696,
+    43.011502,
+    -83.753696,
+    43.011502
+],
+  "geometry": {"coordinates":[-83.75369600000001,43.011502],"type":"Point"}
+}

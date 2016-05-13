@@ -1,0 +1,71 @@
+{
+  "id": 706465221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.389767,42.660396,-83.389767,42.660396",
+    "geom:latitude":42.660396,
+    "geom:longitude":-83.389767,
+    "iso:country":"US",
+    "sg:address":"5030 Highland Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 673 5577",
+    "sg:postcode":"48327",
+    "sg:province":"MI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85811447,
+        102083713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GfPNMp85p61zDU6JtEVeL_42.660396_-83.389767@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803753,
+    "wof:geomhash":"24941a88c7918a23899b380bca5177bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083713,
+            "neighbourhood_id":85811447,
+            "region_id":85688599,
+            "venue_id":706465221
+        }
+    ],
+    "wof:id":706465221,
+    "wof:lastmodified":1461803753,
+    "wof:name":"Enterprise Leasing Co Detroit",
+    "wof:parent_id":85811447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.389767,
+    42.660396,
+    -83.389767,
+    42.660396
+],
+  "geometry": {"coordinates":[-83.38976700000001,42.660396],"type":"Point"}
+}

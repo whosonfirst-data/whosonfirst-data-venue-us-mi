@@ -1,0 +1,72 @@
+{
+  "id": 706684749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.346066,41.951168,-86.346066,41.951168",
+    "geom:latitude":41.951168,
+    "geom:longitude":-86.346066,
+    "iso:country":"US",
+    "sg:address":"624 Saint Joseph Ave",
+    "sg:city":"Berrien Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/oronoko/42360-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 471 2000",
+    "sg:postcode":"49103",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TCDGdoCumWiU0dk5MVAKJ_41.951168_-86.346066@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809476,
+    "wof:geomhash":"8d4c06d0f6fcb5b61d0af14eccbde79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706684749
+        }
+    ],
+    "wof:id":706684749,
+    "wof:lastmodified":1461809476,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.346066,
+    41.951168,
+    -86.346066,
+    41.951168
+],
+  "geometry": {"coordinates":[-86.34606599999999,41.951168],"type":"Point"}
+}

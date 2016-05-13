@@ -1,0 +1,69 @@
+{
+  "id": 706339967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.664884,44.751787,-85.664884,44.751787",
+    "geom:latitude":44.751787,
+    "geom:longitude":-85.664884,
+    "iso:country":"US",
+    "sg:address":"4445 N Long Lake Rd",
+    "sg:city":"Traverse City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 929 3215",
+    "sg:postcode":"49684",
+    "sg:province":"MI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85807959,
+        102083133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xDGyijswDGykCJ0JOzLMR_44.751787_-85.664884@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461801202,
+    "wof:geomhash":"d1ff356b3de487321e4e82e169691f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083133,
+            "neighbourhood_id":85807959,
+            "region_id":85688599,
+            "venue_id":706339967
+        }
+    ],
+    "wof:id":706339967,
+    "wof:lastmodified":1461801202,
+    "wof:name":"Spotless Cleaning Svc",
+    "wof:parent_id":85807959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.664884,
+    44.751787,
+    -85.664884,
+    44.751787
+],
+  "geometry": {"coordinates":[-85.664884,44.751787],"type":"Point"}
+}

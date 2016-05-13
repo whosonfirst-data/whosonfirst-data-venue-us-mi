@@ -1,0 +1,73 @@
+{
+  "id": 689771777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.45829,42.37971,-83.45829,42.37971",
+    "geom:latitude":42.37971,
+    "geom:longitude":-83.45829,
+    "iso:country":"US",
+    "sg:address":"860 York St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 459 5520",
+    "sg:postcode":"48170",
+    "sg:province":"MI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85896705,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x6S1zEac8ZifIqdikeNx6_42.379710_-83.458290@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461781052,
+    "wof:geomhash":"2db4fabc060985f6fc24163441fdac71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85896705,
+            "region_id":85688599,
+            "venue_id":689771777
+        }
+    ],
+    "wof:id":689771777,
+    "wof:lastmodified":1461781052,
+    "wof:name":"Select Motors Ltd",
+    "wof:parent_id":85896705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -83.45829,
+    42.37971,
+    -83.45829,
+    42.37971
+],
+  "geometry": {"coordinates":[-83.45829000000001,42.37971],"type":"Point"}
+}

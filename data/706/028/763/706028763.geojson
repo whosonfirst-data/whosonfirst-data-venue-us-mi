@@ -1,0 +1,71 @@
+{
+  "id": 706028763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.715018,42.295701,-85.715018,42.295701",
+    "geom:latitude":42.295701,
+    "geom:longitude":-85.715018,
+    "iso:country":"US",
+    "sg:address":"8419 W Main St",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 544 4567",
+    "sg:postcode":"49009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85815001,
+        102083671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6se7G5UfmYzcI6PEUiOxMQ_42.295701_-85.715018@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461794186,
+    "wof:geomhash":"df8828ebd3f09d9af82cb50c80a47d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "neighbourhood_id":85815001,
+            "region_id":85688599,
+            "venue_id":706028763
+        }
+    ],
+    "wof:id":706028763,
+    "wof:lastmodified":1461794186,
+    "wof:name":"T C Auto",
+    "wof:parent_id":85815001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.715018,
+    42.295701,
+    -85.715018,
+    42.295701
+],
+  "geometry": {"coordinates":[-85.715018,42.295701],"type":"Point"}
+}

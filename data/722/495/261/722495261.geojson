@@ -1,0 +1,95 @@
+{
+  "id": 722495261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.179287,42.405783,-83.179287,42.405783",
+    "geom:latitude":42.405783,
+    "geom:longitude":-83.179287,
+    "iso:country":"US",
+    "sg:address":"15705 Schaefer Hwy",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 837 6420",
+    "sg:postcode":"48227",
+    "sg:province":"MI",
+    "sg:tags":[
+        "disaster",
+        "builder",
+        "contractor",
+        "relief",
+        "home",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420524869,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fGbjA74osl3xMMuXgV8NC_42.405783_-83.179287@1303262792"
+    },
+    "wof:country":"US",
+    "wof:created":1461812896,
+    "wof:geomhash":"309ac6149080799ffc378c8502526d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524869,
+            "region_id":85688599,
+            "venue_id":722495261
+        }
+    ],
+    "wof:id":722495261,
+    "wof:lastmodified":1461812896,
+    "wof:name":"Mike's Construction Co Inc",
+    "wof:parent_id":420524869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disaster",
+        "builder",
+        "contractor",
+        "relief",
+        "home",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -83.179287,
+    42.405783,
+    -83.179287,
+    42.405783
+],
+  "geometry": {"coordinates":[-83.179287,42.405783],"type":"Point"}
+}

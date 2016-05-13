@@ -1,0 +1,75 @@
+{
+  "id": 706699405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.938441,42.627918,-82.938441,42.627918",
+    "geom:latitude":42.627918,
+    "geom:longitude":-82.938441,
+    "iso:country":"US",
+    "sg:address":"18400 Hall Rd",
+    "sg:city":"Clinton Township",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 263 7196",
+    "sg:postcode":"48038",
+    "sg:province":"MI",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85854221,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dcrHwhSCISih6nkfYMyHN_42.627918_-82.938441@1303262776"
+    },
+    "wof:country":"US",
+    "wof:created":1461810049,
+    "wof:geomhash":"9a83820d1ee3b9dd145a6c7f8082daf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85854221,
+            "region_id":85688599,
+            "venue_id":706699405
+        }
+    ],
+    "wof:id":706699405,
+    "wof:lastmodified":1461810049,
+    "wof:name":"Walmart",
+    "wof:parent_id":85854221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.938441,
+    42.627918,
+    -82.938441,
+    42.627918
+],
+  "geometry": {"coordinates":[-82.938441,42.627918],"type":"Point"}
+}

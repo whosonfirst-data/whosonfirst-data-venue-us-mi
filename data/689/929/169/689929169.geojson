@@ -1,0 +1,71 @@
+{
+  "id": 689929169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.059083,43.461044,-86.059083,43.461044",
+    "geom:latitude":43.461044,
+    "geom:longitude":-86.059083,
+    "iso:country":"US",
+    "sg:address":"11306 Brickyard Rd",
+    "sg:city":"Holton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 3478",
+    "sg:postcode":"49425",
+    "sg:province":"MI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951189,
+        102083707,
+        85850205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x4DFx0SW97oQOhiXt7ZgH_43.461044_-86.059083@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461785343,
+    "wof:geomhash":"229f878075e8c00eb611b96ccb122e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951189,
+            "neighbourhood_id":85850205,
+            "region_id":85688599,
+            "venue_id":689929169
+        }
+    ],
+    "wof:id":689929169,
+    "wof:lastmodified":1461785343,
+    "wof:name":"Bills Appliance Service",
+    "wof:parent_id":85850205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.059083,
+    43.461044,
+    -86.059083,
+    43.461044
+],
+  "geometry": {"coordinates":[-86.059083,43.461044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 706431081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.907557,45.789483,-87.907557,45.789483",
+    "geom:latitude":45.789483,
+    "geom:longitude":-87.907557,
+    "iso:country":"US",
+    "sg:address":"915 Main St",
+    "sg:city":"Norway",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 906 563 9961",
+    "sg:postcode":"49870",
+    "sg:province":"MI",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950925,
+        102083107,
+        85803233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ecz2826y3ZNZY73slVRJT_45.789483_-87.907557@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461803001,
+    "wof:geomhash":"3ed9f4b7d3438aa3b4fb05820281602a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083107,
+            "locality_id":85950925,
+            "neighbourhood_id":85803233,
+            "region_id":85688599,
+            "venue_id":706431081
+        }
+    ],
+    "wof:id":706431081,
+    "wof:lastmodified":1461803001,
+    "wof:name":"Norway City Clerk",
+    "wof:parent_id":85803233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -87.907557,
+    45.789483,
+    -87.907557,
+    45.789483
+],
+  "geometry": {"coordinates":[-87.907557,45.789483],"type":"Point"}
+}

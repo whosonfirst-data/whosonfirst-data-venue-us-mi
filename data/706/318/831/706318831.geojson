@@ -1,0 +1,69 @@
+{
+  "id": 706318831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.39288,42.25468,-84.39288,42.25468",
+    "geom:latitude":42.25468,
+    "geom:longitude":-84.39288,
+    "iso:country":"US",
+    "sg:address":"1103 E Ganson St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 517 841 4377",
+    "sg:postcode":"49201",
+    "sg:province":"MI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85859067,
+        102083081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fFNH4rm9cHwvShxsuZyVz_42.254680_-84.392880@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461800698,
+    "wof:geomhash":"cce1f206cb5f3a0ddf09ed879c7b48aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083081,
+            "neighbourhood_id":85859067,
+            "region_id":85688599,
+            "venue_id":706318831
+        }
+    ],
+    "wof:id":706318831,
+    "wof:lastmodified":1461800698,
+    "wof:name":"El Ranchito",
+    "wof:parent_id":85859067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.39288,
+    42.25468,
+    -84.39288,
+    42.25468
+],
+  "geometry": {"coordinates":[-84.39288000000001,42.25468],"type":"Point"}
+}

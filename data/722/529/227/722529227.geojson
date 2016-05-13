@@ -1,0 +1,67 @@
+{
+  "id": 722529227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881965,43.12761,-85.881965,43.12761",
+    "geom:latitude":43.12761,
+    "geom:longitude":-85.881965,
+    "iso:country":"US",
+    "sg:address":"19701 Main St",
+    "sg:city":"Conklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 899 2113",
+    "sg:postcode":"49403",
+    "sg:province":"MI",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950995,
+        102083097,
+        85814337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6prkDcYGKs8u15kGsWp8MO_43.127610_-85.881965@1303262801"
+    },
+    "wof:country":"US",
+    "wof:created":1461814379,
+    "wof:geomhash":"9c4775c77014c180b8ee856c0a3168d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083097,
+            "locality_id":85950995,
+            "neighbourhood_id":85814337,
+            "region_id":85688599,
+            "venue_id":722529227
+        }
+    ],
+    "wof:id":722529227,
+    "wof:lastmodified":1461814379,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":85814337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.881965,
+    43.12761,
+    -85.881965,
+    43.12761
+],
+  "geometry": {"coordinates":[-85.88196499999999,43.12761],"type":"Point"}
+}

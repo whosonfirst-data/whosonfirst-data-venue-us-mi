@@ -1,0 +1,71 @@
+{
+  "id": 689661173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.497544,41.809413,-83.497544,41.809413",
+    "geom:latitude":41.809413,
+    "geom:longitude":-83.497544,
+    "iso:country":"US",
+    "sg:address":"2185 Samaria Rd",
+    "sg:city":"Lambertville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 856 3932",
+    "sg:postcode":"48133",
+    "sg:province":"MI",
+    "sg:tags":[
+        "crude",
+        "pipeline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85842547,
+        102084787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BHQ2g3qqgs1yVOtFykvRd_41.809413_-83.497544@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461778156,
+    "wof:geomhash":"dd977c8eeeec1e1eb80e9bea755b4c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084787,
+            "neighbourhood_id":85842547,
+            "region_id":85688485,
+            "venue_id":689661173
+        }
+    ],
+    "wof:id":689661173,
+    "wof:lastmodified":1461778156,
+    "wof:name":"Mid Vally Pipe Line",
+    "wof:parent_id":85842547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crude",
+        "pipeline"
+    ]
+},
+  "bbox": [
+    -83.497544,
+    41.809413,
+    -83.497544,
+    41.809413
+],
+  "geometry": {"coordinates":[-83.497544,41.809413],"type":"Point"}
+}

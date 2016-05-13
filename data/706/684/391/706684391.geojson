@@ -1,0 +1,74 @@
+{
+  "id": 706684391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.536161,42.315813,-85.536161,42.315813",
+    "geom:latitude":42.315813,
+    "geom:longitude":-85.536161,
+    "iso:country":"US",
+    "sg:address":"2500 Nazareth Rd",
+    "sg:city":"Kalamazoo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/kalamazoo/45084-chicken-coop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 349 2082",
+    "sg:postcode":"49048",
+    "sg:province":"MI",
+    "sg:tags":[
+        "chicken",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85950985,
+        102083671,
+        85878447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oh77F7WvwQhidn2XNh6ll_42.315813_-85.536161@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809463,
+    "wof:geomhash":"1013b87c89b9756c4bd234cb04801177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083671,
+            "locality_id":85950985,
+            "neighbourhood_id":85878447,
+            "region_id":85688599,
+            "venue_id":706684391
+        }
+    ],
+    "wof:id":706684391,
+    "wof:lastmodified":1461809463,
+    "wof:name":"Chicken Coop",
+    "wof:parent_id":85878447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.536161,
+    42.315813,
+    -85.536161,
+    42.315813
+],
+  "geometry": {"coordinates":[-85.53616100000001,42.315813],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 706509993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833551,42.542325,-85.833551,42.542325",
+    "geom:latitude":42.542325,
+    "geom:longitude":-85.833551,
+    "iso:country":"US",
+    "sg:address":"730 Airway Dr",
+    "sg:city":"Allegan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 269 673 1700",
+    "sg:postcode":"49010",
+    "sg:province":"MI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85836721,
+        102083043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vWBKgUfssrBhyVcoEl8Ne_42.542325_-85.833551@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461804851,
+    "wof:geomhash":"03e71ac96441ff8b264f526e101128c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083043,
+            "neighbourhood_id":85836721,
+            "region_id":85688599,
+            "venue_id":706509993
+        }
+    ],
+    "wof:id":706509993,
+    "wof:lastmodified":1461804851,
+    "wof:name":"RCG Allegan",
+    "wof:parent_id":85836721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.833551,
+    42.542325,
+    -85.833551,
+    42.542325
+],
+  "geometry": {"coordinates":[-85.833551,42.542325],"type":"Point"}
+}

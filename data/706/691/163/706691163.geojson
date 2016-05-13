@@ -1,0 +1,84 @@
+{
+  "id": 706691163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.198997,42.543499,-83.198997,42.543499",
+    "geom:latitude":42.543499,
+    "geom:longitude":-83.198997,
+    "iso:country":"US",
+    "sg:address":"1711 Bowers St",
+    "sg:city":"Birmingham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 901 4600",
+    "sg:postcode":"48009",
+    "sg:province":"MI",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896569,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jZeQKc2c8ugHdGgB0KOKO_42.543499_-83.198997@1303262774"
+    },
+    "wof:country":"US",
+    "wof:created":1461809721,
+    "wof:geomhash":"ba475579f520ac8237fc99431b7aa7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896569,
+            "region_id":85688599,
+            "venue_id":706691163
+        }
+    ],
+    "wof:id":706691163,
+    "wof:lastmodified":1461809721,
+    "wof:name":"Birmingham Transportation",
+    "wof:parent_id":85896569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -83.198997,
+    42.543499,
+    -83.198997,
+    42.543499
+],
+  "geometry": {"coordinates":[-83.19899700000001,42.543499],"type":"Point"}
+}

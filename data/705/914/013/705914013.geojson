@@ -1,0 +1,71 @@
+{
+  "id": 705914013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.971461,43.467136,-85.971461,43.467136",
+    "geom:latitude":43.467136,
+    "geom:longitude":-85.971461,
+    "iso:country":"US",
+    "sg:address":"6886 W 48th St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 924 6870",
+    "sg:postcode":"49412",
+    "sg:province":"MI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951347,
+        102082987,
+        85859103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wRzhOAen6sxZpd3om5gql_43.467136_-85.971461@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461791723,
+    "wof:geomhash":"3c4109954df5a050b537108c8b74ee19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082987,
+            "locality_id":85951347,
+            "neighbourhood_id":85859103,
+            "region_id":85688599,
+            "venue_id":705914013
+        }
+    ],
+    "wof:id":705914013,
+    "wof:lastmodified":1461791723,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85859103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.971461,
+    43.467136,
+    -85.971461,
+    43.467136
+],
+  "geometry": {"coordinates":[-85.97146100000001,43.467136],"type":"Point"}
+}

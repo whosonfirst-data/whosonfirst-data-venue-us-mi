@@ -1,0 +1,80 @@
+{
+  "id": 706675231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.146446,42.535999,-83.146446,42.535999",
+    "geom:latitude":42.535999,
+    "geom:longitude":-83.146446,
+    "iso:country":"US",
+    "sg:address":"230 N Main St",
+    "sg:city":"Clawson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/clawson/48455-grumpys-burgers--shakes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 248 435 0334",
+    "sg:postcode":"48017",
+    "sg:province":"MI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85896587,
+        102191575,
+        404508383,
+        85633793,
+        85951983,
+        102083713,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kRQev0FAe14h6OcetV65N_42.535999_-83.146446@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809087,
+    "wof:geomhash":"8b97dc89dd27c48c93c4b9ee6d9ba69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083713,
+            "localadmin_id":404508383,
+            "locality_id":85951983,
+            "neighbourhood_id":85896587,
+            "region_id":85688599,
+            "venue_id":706675231
+        }
+    ],
+    "wof:id":706675231,
+    "wof:lastmodified":1461809087,
+    "wof:name":"Grumpys Burgers & Shakes",
+    "wof:parent_id":85896587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.146446,
+    42.535999,
+    -83.146446,
+    42.535999
+],
+  "geometry": {"coordinates":[-83.146446,42.535999],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 722474725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.466488,42.275805,-83.466488,42.275805",
+    "geom:latitude":42.275805,
+    "geom:longitude":-83.466488,
+    "iso:country":"US",
+    "sg:address":"43439 Michigan Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 734 397 7779",
+    "sg:postcode":"48188",
+    "sg:province":"MI",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.dixanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85848171,
+        102083147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GoRXEyOn2qLj8dEI5HbQ8_42.275805_-83.466488@1303262787"
+    },
+    "wof:country":"US",
+    "wof:created":1461812069,
+    "wof:geomhash":"e6ef6ea0dfb830d7f9cb073054644a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083147,
+            "neighbourhood_id":85848171,
+            "region_id":85688599,
+            "venue_id":722474725
+        }
+    ],
+    "wof:id":722474725,
+    "wof:lastmodified":1461812069,
+    "wof:name":"Dix Animal Hospital",
+    "wof:parent_id":85848171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.466488,
+    42.275805,
+    -83.466488,
+    42.275805
+],
+  "geometry": {"coordinates":[-83.466488,42.275805],"type":"Point"}
+}

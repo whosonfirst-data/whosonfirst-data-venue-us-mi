@@ -1,0 +1,72 @@
+{
+  "id": 706688931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.247393,41.817671,-86.247393,41.817671",
+    "geom:latitude":41.817671,
+    "geom:longitude":-86.247393,
+    "iso:country":"US",
+    "sg:address":"1015 S 11th St",
+    "sg:city":"Niles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/niles/200515-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 616 684 6641",
+    "sg:postcode":"49120",
+    "sg:province":"MI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85825743,
+        102083151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h4pkCyVmPTMWnzAALcFaJ_41.817647_-86.247368@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461809630,
+    "wof:geomhash":"e06963300dd9116d1ee4af470830fa95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083151,
+            "neighbourhood_id":85825743,
+            "region_id":85688599,
+            "venue_id":706688931
+        }
+    ],
+    "wof:id":706688931,
+    "wof:lastmodified":1461809630,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85825743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.247393,
+    41.817671,
+    -86.247393,
+    41.817671
+],
+  "geometry": {"coordinates":[-86.247393,41.817671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 689833759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.355523,43.417252,-86.355523,43.417252",
+    "geom:latitude":43.417252,
+    "geom:longitude":-86.355523,
+    "iso:country":"US",
+    "sg:address":"8747 Ferry St",
+    "sg:city":"Montague",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 231 894 4820",
+    "sg:postcode":"49437",
+    "sg:province":"MI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951171,
+        102083707,
+        85832261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OH1jvIARtCVaWrNg7N7x0_43.417252_-86.355523@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461782952,
+    "wof:geomhash":"d1fa6ecb62a7040f4cfa435431b8b26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083707,
+            "locality_id":85951171,
+            "neighbourhood_id":85832261,
+            "region_id":85688599,
+            "venue_id":689833759
+        }
+    ],
+    "wof:id":689833759,
+    "wof:lastmodified":1461782952,
+    "wof:name":"Joseph A Ferguson DDS",
+    "wof:parent_id":85832261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.355523,
+    43.417252,
+    -86.355523,
+    43.417252
+],
+  "geometry": {"coordinates":[-86.35552300000001,43.417252],"type":"Point"}
+}

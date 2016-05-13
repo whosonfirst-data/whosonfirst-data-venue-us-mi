@@ -1,0 +1,72 @@
+{
+  "id": 706676487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.036478,42.713757,-83.036478,42.713757",
+    "geom:latitude":42.713757,
+    "geom:longitude":-83.036478,
+    "iso:country":"US",
+    "sg:address":"7767 26 Mile Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mi/washington/142388-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 586 786 0200",
+    "sg:postcode":"48094",
+    "sg:province":"MI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85814567,
+        102083047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UYOuvHbosnmJ0Rlf4Sobj_42.713757_-83.036478@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461809144,
+    "wof:geomhash":"26b045a7e9592c9c8663054f8e6c04bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083047,
+            "neighbourhood_id":85814567,
+            "region_id":85688599,
+            "venue_id":706676487
+        }
+    ],
+    "wof:id":706676487,
+    "wof:lastmodified":1461809144,
+    "wof:name":"Subway",
+    "wof:parent_id":85814567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.036478,
+    42.713757,
+    -83.036478,
+    42.713757
+],
+  "geometry": {"coordinates":[-83.036478,42.713757],"type":"Point"}
+}

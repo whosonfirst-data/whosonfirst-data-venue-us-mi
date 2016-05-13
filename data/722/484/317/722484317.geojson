@@ -1,0 +1,70 @@
+{
+  "id": 722484317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.066096,42.380627,-83.066096,42.380627",
+    "geom:latitude":42.380627,
+    "geom:longitude":-83.066096,
+    "iso:country":"US",
+    "sg:address":"8300 Cameron St",
+    "sg:city":"Detroit",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 313 873 0444",
+    "sg:postcode":"48211",
+    "sg:province":"MI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85870609,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pCVaaFnxHsHYc3naWJd5z_42.380627_-83.066096@1303262790"
+    },
+    "wof:country":"US",
+    "wof:created":1461812462,
+    "wof:geomhash":"bca18e4bf1c46aa66d5fc21942a7b89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870609,
+            "region_id":85688599,
+            "venue_id":722484317
+        }
+    ],
+    "wof:id":722484317,
+    "wof:lastmodified":1461812462,
+    "wof:name":"Detroit Public Schools",
+    "wof:parent_id":85870609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.066096,
+    42.380627,
+    -83.066096,
+    42.380627
+],
+  "geometry": {"coordinates":[-83.066096,42.380627],"type":"Point"}
+}

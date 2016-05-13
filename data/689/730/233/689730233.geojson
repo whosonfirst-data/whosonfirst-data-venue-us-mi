@@ -1,0 +1,73 @@
+{
+  "id": 689730233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.745614,43.016258,-83.745614,43.016258",
+    "geom:latitude":43.016258,
+    "geom:longitude":-83.745614,
+    "iso:country":"US",
+    "sg:address":"3407 Beecher Rd",
+    "sg:city":"Flint",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 810 732 5500",
+    "sg:postcode":"48532",
+    "sg:province":"MI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688599,
+        85633793,
+        85951927,
+        102083111,
+        85877395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KkjGLmoXQygfoyY3f6suT_43.016258_-83.745614@1294162804"
+    },
+    "wof:country":"US",
+    "wof:created":1461779938,
+    "wof:geomhash":"89523c30d28d0cb4acf30f8133767b47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083111,
+            "locality_id":85951927,
+            "neighbourhood_id":85877395,
+            "region_id":85688599,
+            "venue_id":689730233
+        }
+    ],
+    "wof:id":689730233,
+    "wof:lastmodified":1461779938,
+    "wof:name":"Jerry's Excavating Svc",
+    "wof:parent_id":85877395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.745614,
+    43.016258,
+    -83.745614,
+    43.016258
+],
+  "geometry": {"coordinates":[-83.745614,43.016258],"type":"Point"}
+}
