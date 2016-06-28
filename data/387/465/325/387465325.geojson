@@ -2,13 +2,14 @@
   "id": 387465325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.642439,46.093177,-88.642439,46.093177",
     "geom:latitude":46.093177,
     "geom:longitude":-88.642439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 N 4th Ave",
     "sg:city":"Iron River",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387465325,
-    "wof:lastmodified":1449058665,
+    "wof:lastmodified":1466597228,
     "wof:name":"Thrivent Fincl For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.642439,46.093177,-88.642439,46.093177],
+  "bbox": [
+    -88.642439,
+    46.093177,
+    -88.642439,
+    46.093177
+],
   "geometry": {"coordinates":[-88.642439,46.093177],"type":"Point"}
 }

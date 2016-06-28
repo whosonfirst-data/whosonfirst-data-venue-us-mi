@@ -2,13 +2,14 @@
   "id": 370581221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.25684,46.489259,-90.25684,46.489259",
     "geom:latitude":46.489259,
     "geom:longitude":-90.25684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6524 US Hwy 2",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370581221,
-    "wof:lastmodified":1449029806,
+    "wof:lastmodified":1466597220,
     "wof:name":"Don Basom",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.25684,46.489259,-90.25684,46.489259],
+  "bbox": [
+    -90.25684,
+    46.489259,
+    -90.25684,
+    46.489259
+],
   "geometry": {"coordinates":[-90.25684,46.489259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353527971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066201,46.166878,-90.066201,46.166878",
     "geom:latitude":46.166878,
     "geom:longitude":-90.066201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5240 US Hwy 51",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353527971,
-    "wof:lastmodified":1449020304,
+    "wof:lastmodified":1466587835,
     "wof:name":"Cal Electronics",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-90.066201,46.166878,-90.066201,46.166878],
-  "geometry": {"coordinates":[-90.066201,46.166878],"type":"Point"}
+  "bbox": [
+    -90.066201,
+    46.166878,
+    -90.066201,
+    46.166878
+],
+  "geometry": {"coordinates":[-90.06620100000001,46.166878],"type":"Point"}
 }

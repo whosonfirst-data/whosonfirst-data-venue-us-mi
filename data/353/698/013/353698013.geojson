@@ -2,13 +2,14 @@
   "id": 353698013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.187762,46.451412,-90.187762,46.451412",
     "geom:latitude":46.451412,
     "geom:longitude":-90.187762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 6th Ave N",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353698013,
-    "wof:lastmodified":1449020640,
+    "wof:lastmodified":1466597206,
     "wof:name":"Advance Neon Signs",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.187762,46.451412,-90.187762,46.451412],
-  "geometry": {"coordinates":[-90.187762,46.451412],"type":"Point"}
+  "bbox": [
+    -90.187762,
+    46.451412,
+    -90.187762,
+    46.451412
+],
+  "geometry": {"coordinates":[-90.18776200000001,46.451412],"type":"Point"}
 }

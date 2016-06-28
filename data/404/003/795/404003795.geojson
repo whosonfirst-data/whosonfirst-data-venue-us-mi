@@ -2,13 +2,14 @@
   "id": 404003795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.178413,46.291647,-89.178413,46.291647",
     "geom:latitude":46.291647,
     "geom:longitude":-89.178413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5384 US Hwy 45",
     "sg:city":"Watersmeet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404003795,
-    "wof:lastmodified":1449040243,
+    "wof:lastmodified":1466597228,
     "wof:name":"Settlers Co-Op Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.178413,46.291647,-89.178413,46.291647],
-  "geometry": {"coordinates":[-89.178413,46.291647],"type":"Point"}
+  "bbox": [
+    -89.178413,
+    46.291647,
+    -89.178413,
+    46.291647
+],
+  "geometry": {"coordinates":[-89.17841300000001,46.291647],"type":"Point"}
 }

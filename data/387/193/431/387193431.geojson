@@ -2,13 +2,14 @@
   "id": 387193431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.508519,46.475247,-90.508519,46.475247",
     "geom:latitude":46.475247,
     "geom:longitude":-90.508519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13802 State Hwy 169",
     "sg:city":"Saxon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387193431,
-    "wof:lastmodified":1449056720,
+    "wof:lastmodified":1466597225,
     "wof:name":"Ofstad Sales & Svc",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.508519,46.475247,-90.508519,46.475247],
-  "geometry": {"coordinates":[-90.508519,46.475247],"type":"Point"}
+  "bbox": [
+    -90.508519,
+    46.475247,
+    -90.508519,
+    46.475247
+],
+  "geometry": {"coordinates":[-90.50851900000001,46.475247],"type":"Point"}
 }

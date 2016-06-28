@@ -2,13 +2,14 @@
   "id": 387930875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.138925,46.181989,-90.138925,46.181989",
     "geom:latitude":46.181989,
     "geom:longitude":-90.138925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4119 Weber Rd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387930875,
-    "wof:lastmodified":1449057313,
+    "wof:lastmodified":1466597232,
     "wof:name":"R Images",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.138925,46.181989,-90.138925,46.181989],
+  "bbox": [
+    -90.138925,
+    46.181989,
+    -90.138925,
+    46.181989
+],
   "geometry": {"coordinates":[-90.138925,46.181989],"type":"Point"}
 }

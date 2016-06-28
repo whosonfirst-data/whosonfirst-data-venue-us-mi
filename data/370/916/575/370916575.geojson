@@ -2,13 +2,14 @@
   "id": 370916575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.180299,46.268553,-89.180299,46.268553",
     "geom:latitude":46.268553,
     "geom:longitude":-89.180299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23874 C Ave",
     "sg:city":"Watersmeet",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370916575,
-    "wof:lastmodified":1449030921,
+    "wof:lastmodified":1466597222,
     "wof:name":"Watersmeets Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.180299,46.268553,-89.180299,46.268553],
-  "geometry": {"coordinates":[-89.180299,46.268553],"type":"Point"}
+  "bbox": [
+    -89.180299,
+    46.268553,
+    -89.180299,
+    46.268553
+],
+  "geometry": {"coordinates":[-89.18029900000001,46.268553],"type":"Point"}
 }

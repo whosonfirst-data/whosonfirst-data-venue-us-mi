@@ -2,13 +2,14 @@
   "id": 370981227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066093,46.167738,-90.066093,46.167738",
     "geom:latitude":46.167738,
     "geom:longitude":-90.066093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2690 Co Rd J",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370981227,
-    "wof:lastmodified":1449032537,
+    "wof:lastmodified":1466597222,
     "wof:name":"Klopatek Plumbing Inc",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.066093,46.167738,-90.066093,46.167738],
+  "bbox": [
+    -90.066093,
+    46.167738,
+    -90.066093,
+    46.167738
+],
   "geometry": {"coordinates":[-90.066093,46.167738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387813221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.187598,46.449048,-90.187598,46.449048",
     "geom:latitude":46.449048,
     "geom:longitude":-90.187598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Copper St",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387813221,
-    "wof:lastmodified":1449057081,
+    "wof:lastmodified":1466597231,
     "wof:name":"W Ic Program",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-90.187598,46.449048,-90.187598,46.449048],
-  "geometry": {"coordinates":[-90.187598,46.449048],"type":"Point"}
+  "bbox": [
+    -90.187598,
+    46.449048,
+    -90.187598,
+    46.449048
+],
+  "geometry": {"coordinates":[-90.18759799999999,46.449048],"type":"Point"}
 }

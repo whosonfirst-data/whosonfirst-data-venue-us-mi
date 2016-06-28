@@ -2,13 +2,14 @@
   "id": 387627211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.194561,46.436817,-90.194561,46.436817",
     "geom:latitude":46.436817,
     "geom:longitude":-90.194561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Co Rd C",
     "sg:city":"Presque Isle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387627211,
-    "wof:lastmodified":1449059998,
+    "wof:lastmodified":1466597230,
     "wof:name":"Living Hope Church",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.194561,46.436817,-90.194561,46.436817],
-  "geometry": {"coordinates":[-90.194561,46.436817],"type":"Point"}
+  "bbox": [
+    -90.194561,
+    46.436817,
+    -90.194561,
+    46.436817
+],
+  "geometry": {"coordinates":[-90.19456099999999,46.436817],"type":"Point"}
 }

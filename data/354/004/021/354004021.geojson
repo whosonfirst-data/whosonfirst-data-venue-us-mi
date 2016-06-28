@@ -2,13 +2,14 @@
   "id": 354004021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.176574,46.1416,-90.176574,46.1416",
     "geom:latitude":46.1416,
     "geom:longitude":-90.176574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4270 Wallace Rd",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354004021,
-    "wof:lastmodified":1449066535,
+    "wof:lastmodified":1466587352,
     "wof:name":"Kings Cozy Resort",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "resort"
     ]
 },
-  "bbox": [-90.176574,46.1416,-90.176574,46.1416],
+  "bbox": [
+    -90.176574,
+    46.1416,
+    -90.176574,
+    46.1416
+],
   "geometry": {"coordinates":[-90.176574,46.1416],"type":"Point"}
 }

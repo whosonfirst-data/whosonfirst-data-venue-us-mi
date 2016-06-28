@@ -2,13 +2,14 @@
   "id": 387661007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.642425,46.093965,-88.642425,46.093965",
     "geom:latitude":46.093965,
     "geom:longitude":-88.642425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 N 4th Ave",
     "sg:city":"Iron River",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387661007,
-    "wof:lastmodified":1449059503,
+    "wof:lastmodified":1466597230,
     "wof:name":"Great Lakes Recovery Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "treatment"
     ]
 },
-  "bbox": [-88.642425,46.093965,-88.642425,46.093965],
+  "bbox": [
+    -88.642425,
+    46.093965,
+    -88.642425,
+    46.093965
+],
   "geometry": {"coordinates":[-88.642425,46.093965],"type":"Point"}
 }

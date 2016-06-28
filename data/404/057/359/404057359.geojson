@@ -2,13 +2,14 @@
   "id": 404057359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.632395,46.073603,-88.632395,46.073603",
     "geom:latitude":46.073603,
     "geom:longitude":-88.632395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 Washington Ave",
     "sg:city":"Iron River",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404057359,
-    "wof:lastmodified":1449039630,
+    "wof:lastmodified":1466597229,
     "wof:name":"Hebert Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-88.632395,46.073603,-88.632395,46.073603],
+  "bbox": [
+    -88.632395,
+    46.073603,
+    -88.632395,
+    46.073603
+],
   "geometry": {"coordinates":[-88.632395,46.073603],"type":"Point"}
 }

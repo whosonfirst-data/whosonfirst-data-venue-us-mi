@@ -2,13 +2,14 @@
   "id": 387857809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06317,46.1656,-90.06317,46.1656",
     "geom:latitude":46.1656,
     "geom:longitude":-90.06317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Lakeview Ave",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387857809,
-    "wof:lastmodified":1449058579,
+    "wof:lastmodified":1466597232,
     "wof:name":"A All Season's Roofing",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.06317,46.1656,-90.06317,46.1656],
+  "bbox": [
+    -90.06317,
+    46.1656,
+    -90.06317,
+    46.1656
+],
   "geometry": {"coordinates":[-90.06317,46.1656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387163021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056878,46.163039,-90.056878,46.163039",
     "geom:latitude":46.163039,
     "geom:longitude":-90.056878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5126 US Hwy 51",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387163021,
-    "wof:lastmodified":1449059837,
+    "wof:lastmodified":1466597223,
     "wof:name":"Snow's Family Market",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-90.056878,46.163039,-90.056878,46.163039],
+  "bbox": [
+    -90.056878,
+    46.163039,
+    -90.056878,
+    46.163039
+],
   "geometry": {"coordinates":[-90.056878,46.163039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387258667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065564,46.166616,-90.065564,46.166616",
     "geom:latitude":46.166616,
     "geom:longitude":-90.065564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5250 US Hwy 51",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387258667,
-    "wof:lastmodified":1449059133,
+    "wof:lastmodified":1466597226,
     "wof:name":"Lakeland Community Credit Unon",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.065564,46.166616,-90.065564,46.166616],
-  "geometry": {"coordinates":[-90.065564,46.166616],"type":"Point"}
+  "bbox": [
+    -90.065564,
+    46.166616,
+    -90.065564,
+    46.166616
+],
+  "geometry": {"coordinates":[-90.06556399999999,46.166616],"type":"Point"}
 }

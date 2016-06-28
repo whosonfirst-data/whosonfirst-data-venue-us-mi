@@ -2,13 +2,14 @@
   "id": 186173059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.630591,46.06478,-88.630591,46.06478",
     "geom:latitude":46.06478,
     "geom:longitude":-88.630591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E 1st St",
     "sg:city":"Caspian",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186173059,
-    "wof:lastmodified":1449050922,
+    "wof:lastmodified":1466587353,
     "wof:name":"Northland Marathon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-88.630591,46.06478,-88.630591,46.06478],
+  "bbox": [
+    -88.630591,
+    46.06478,
+    -88.630591,
+    46.06478
+],
   "geometry": {"coordinates":[-88.630591,46.06478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186194825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.640246,46.091448,-88.640246,46.091448",
     "geom:latitude":46.091448,
     "geom:longitude":-88.640246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 N 2nd Ave",
     "sg:city":"Iron River",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186194825,
-    "wof:lastmodified":1449052624,
+    "wof:lastmodified":1466587354,
     "wof:name":"Superior Iron Range",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ironwork"
     ]
 },
-  "bbox": [-88.640246,46.091448,-88.640246,46.091448],
+  "bbox": [
+    -88.640246,
+    46.091448,
+    -88.640246,
+    46.091448
+],
   "geometry": {"coordinates":[-88.640246,46.091448],"type":"Point"}
 }

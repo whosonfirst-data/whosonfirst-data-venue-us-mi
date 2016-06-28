@@ -2,13 +2,14 @@
   "id": 371180803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.259369,46.42179,-90.259369,46.42179",
     "geom:latitude":46.42179,
     "geom:longitude":-90.259369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Illinois Ave",
     "sg:city":"Montreal",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371180803,
-    "wof:lastmodified":1449049105,
+    "wof:lastmodified":1466589375,
     "wof:name":"M & G Construction",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.259369,46.42179,-90.259369,46.42179],
-  "geometry": {"coordinates":[-90.259369,46.42179],"type":"Point"}
+  "bbox": [
+    -90.259369,
+    46.42179,
+    -90.259369,
+    46.42179
+],
+  "geometry": {"coordinates":[-90.25936900000001,46.42179],"type":"Point"}
 }

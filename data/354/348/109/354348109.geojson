@@ -2,13 +2,14 @@
   "id": 354348109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.097543,46.166207,-90.097543,46.166207",
     "geom:latitude":46.166207,
     "geom:longitude":-90.097543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4817 Popko Cir E",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354348109,
-    "wof:lastmodified":1449066020,
+    "wof:lastmodified":1466587353,
     "wof:name":"Ghiloni Portable Welding",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-90.097543,46.166207,-90.097543,46.166207],
+  "bbox": [
+    -90.097543,
+    46.166207,
+    -90.097543,
+    46.166207
+],
   "geometry": {"coordinates":[-90.097543,46.166207],"type":"Point"}
 }

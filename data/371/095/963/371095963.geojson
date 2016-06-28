@@ -2,13 +2,14 @@
   "id": 371095963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.214999,46.476089,-90.214999,46.476089",
     "geom:latitude":46.476089,
     "geom:longitude":-90.214999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13622 N Co Rd D",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":371095963,
-    "wof:lastmodified":1449049558,
+    "wof:lastmodified":1466587837,
     "wof:name":"Kangas Logging",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logging"
     ]
 },
-  "bbox": [-90.214999,46.476089,-90.214999,46.476089],
-  "geometry": {"coordinates":[-90.214999,46.476089],"type":"Point"}
+  "bbox": [
+    -90.214999,
+    46.476089,
+    -90.214999,
+    46.476089
+],
+  "geometry": {"coordinates":[-90.21499900000001,46.476089],"type":"Point"}
 }

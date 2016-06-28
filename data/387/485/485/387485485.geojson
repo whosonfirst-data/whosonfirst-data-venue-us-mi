@@ -2,13 +2,14 @@
   "id": 387485485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053756,46.175646,-90.053756,46.175646",
     "geom:latitude":46.175646,
     "geom:longitude":-90.053756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Co Rd J",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387485485,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1466597228,
     "wof:name":"Joe's Excavating",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.053756,46.175646,-90.053756,46.175646],
-  "geometry": {"coordinates":[-90.053756,46.175646],"type":"Point"}
+  "bbox": [
+    -90.053756,
+    46.175646,
+    -90.053756,
+    46.175646
+],
+  "geometry": {"coordinates":[-90.05375600000001,46.175646],"type":"Point"}
 }

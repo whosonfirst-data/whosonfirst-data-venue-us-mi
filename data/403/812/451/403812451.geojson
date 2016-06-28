@@ -2,13 +2,14 @@
   "id": 403812451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0458,46.156384,-90.0458,46.156384",
     "geom:latitude":46.156384,
     "geom:longitude":-90.0458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2987 US Hwy 51",
     "sg:city":"Mercer",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403812451,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1466597224,
     "wof:name":"Ministry Rehabilitation Svc",
     "wof:parent_id":85837125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rehabilitation"
     ]
 },
-  "bbox": [-90.0458,46.156384,-90.0458,46.156384],
+  "bbox": [
+    -90.0458,
+    46.156384,
+    -90.0458,
+    46.156384
+],
   "geometry": {"coordinates":[-90.0458,46.156384],"type":"Point"}
 }
