@@ -2,14 +2,19 @@
   "id": 722478509,
   "type": "Feature",
   "properties": {
+    "addr:city":"Detroit",
+    "addr:full":"4704 Anthony Wayne Drive, Detroit, MI, USA",
+    "addr:housenumber":"4704",
+    "addr:street":"Anthony Wayne Dr.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.069915,42.352448,-83.069915,42.352448",
-    "geom:latitude":42.352448,
-    "geom:longitude":-83.069915,
+    "geom:area":0,
+    "geom:bbox":"-83.0699535,42.3525008,-83.0699535,42.3525008",
+    "geom:latitude":42.352501,
+    "geom:longitude":-83.069953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:phone":"313-638-2345",
     "sg:address":"4704 Anthony Wayne Dr",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -27,7 +32,7 @@
         "middle",
         "eastern"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mapzen",
     "wof:belongsto":[
         85870585,
         102191575,
@@ -43,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812230,
-    "wof:geomhash":"19e9f0ba79d0301a09817fcf6aa0943e",
+    "wof:geomhash":"7c5b3a0a30e0b6990bc16f7850042607",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,17 +62,14 @@
         }
     ],
     "wof:id":722478509,
-    "wof:lastmodified":1466589970,
+    "wof:lastmodified":1498411693,
     "wof:name":"Harmonie Garden Cafe",
     "wof:parent_id":85870585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[
-        "middle",
-        "eastern"
-    ]
+    "wof:tags":[]
 },
   "bbox": [
     -83.069915,
@@ -75,5 +77,5 @@
     -83.069915,
     42.352448
 ],
-  "geometry": {"coordinates":[-83.06991499999999,42.352448],"type":"Point"}
+  "geometry": {"coordinates":[-83.0699535,42.3525008],"type":"Point"}
 }
