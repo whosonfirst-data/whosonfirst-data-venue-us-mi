@@ -2,14 +2,19 @@
   "id": 722484491,
   "type": "Feature",
   "properties": {
+    "addr:city":"Hamtramck",
+    "addr:full":"2403 Holbrook Ave., Hamtramck",
+    "addr:housenumber":"2403",
+    "addr:street":"Holbrook Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.059781,42.39205,-83.059781,42.39205",
-    "geom:latitude":42.39205,
-    "geom:longitude":-83.059781,
+    "geom:area":0,
+    "geom:bbox":"-83.054199,42.39549,-83.054199,42.39549",
+    "geom:latitude":42.39549,
+    "geom:longitude":-83.054199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:phone":"313-872-0387",
     "sg:address":"2403 Holbrook St",
     "sg:city":"Hamtramck",
     "sg:classifiers":[
@@ -31,7 +36,7 @@
     "sg:tags":[
         "burger"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mapzen",
     "wof:belongsto":[
         85896685,
         102191575,
@@ -47,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812473,
-    "wof:geomhash":"016a9e428d89ec470556587341039bc9",
+    "wof:geomhash":"4c33c27a5f1e40c221bc277f39eaa727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,16 +66,14 @@
         }
     ],
     "wof:id":722484491,
-    "wof:lastmodified":1466590283,
+    "wof:lastmodified":1498412305,
     "wof:name":"Kelly's Bar",
     "wof:parent_id":85896685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
-    ]
+    "wof:tags":[]
 },
   "bbox": [
     -83.059781,
@@ -78,5 +81,5 @@
     -83.059781,
     42.39205
 ],
-  "geometry": {"coordinates":[-83.059781,42.39205],"type":"Point"}
+  "geometry": {"coordinates":[-83.054199,42.39549],"type":"Point"}
 }
