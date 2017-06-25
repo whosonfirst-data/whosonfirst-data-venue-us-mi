@@ -1,0 +1,75 @@
+{
+  "id": 1126129853,
+  "type": "Feature",
+  "properties": {
+    "addr:city":"Detroit",
+    "addr:housenumber":"3149",
+    "addr:street":"Livernois Ave.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.1162929535,42.3248567545,-83.1162929535,42.3248567545",
+    "geom:latitude":42.324857,
+    "geom:longitude":-83.116293,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:phone":"313-899-4020",
+    "name:eng_x_preferred":[
+        "Pupuseria"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85870581,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599,
+        85870603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"US",
+    "wof:created":1498412486,
+    "wof:geomhash":"4c6b2adc7c639874478a42b9c71afa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870581,
+            "region_id":85688599,
+            "venue_id":1126129853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":85870603,
+            "region_id":85688599,
+            "venue_id":1126129853
+        }
+    ],
+    "wof:id":1126129853,
+    "wof:lastmodified":1498412486,
+    "wof:name":"Pupuseria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":""
+},
+  "bbox": [
+    -83.116292953491,
+    42.3248567545,
+    -83.116292953491,
+    42.3248567545
+],
+  "geometry": {"coordinates":[-83.116292953491,42.3248567545],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1126129857,
+  "type": "Feature",
+  "properties": {
+    "addr:city":"Detroit",
+    "addr:full":"1942 Grand River Avenue, Detroit, MI, USA",
+    "addr:housenumber":"1942",
+    "addr:street":"Grand River Ave.",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.0743007,42.3426427,-83.0743007,42.3426427",
+    "geom:latitude":42.342643,
+    "geom:longitude":-83.074301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:phone":"313-446-837",
+    "name:eng_x_preferred":[
+        "Parks & Rec Diner"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420524889,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"US",
+    "wof:created":1498412605,
+    "wof:geomhash":"d7ac032dc78db5573b0e0db9987a93ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524889,
+            "region_id":85688599,
+            "venue_id":1126129857
+        }
+    ],
+    "wof:id":1126129857,
+    "wof:lastmodified":1498412605,
+    "wof:name":"Parks & Rec Diner",
+    "wof:parent_id":420524889,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":""
+},
+  "bbox": [
+    -83.0743007,
+    42.3426427,
+    -83.0743007,
+    42.3426427
+],
+  "geometry": {"coordinates":[-83.07430069999999,42.3426427],"type":"Point"}
+}
