@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.222733,42.5051,-83.222733,42.5051",
     "geom:latitude":42.5051,
     "geom:longitude":-83.222733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29350 Southfield Rd # 110",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810606,
-    "wof:geomhash":"e41fac889c136db4413411f8a827f138",
+    "wof:geomhash":"1251d19a03c90a729db3dc34c2e3877b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":706711997,
-    "wof:lastmodified":1466602078,
+    "wof:lastmodified":1510941365,
     "wof:name":"Metro Print Media",
     "wof:parent_id":85896551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706375533
+    ],
     "wof:tags":[
         "envelope"
     ]

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.999391,41.634909,-84.999391,41.634909",
     "geom:latitude":41.634909,
     "geom:longitude":-84.999391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 N Public Sq",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"US",
     "wof:created":1461787474,
-    "wof:geomhash":"456e881152c4472f905396e00ed4c6d8",
+    "wof:geomhash":"8be8dc9baa39c5b436f8f510a6ef4d76",
     "wof:hierarchy":[],
     "wof:id":705732591,
-    "wof:lastmodified":1466589112,
+    "wof:lastmodified":1510943962,
     "wof:name":"Angola Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789805587
+    ],
     "wof:tags":[
         "company",
         "sewage"

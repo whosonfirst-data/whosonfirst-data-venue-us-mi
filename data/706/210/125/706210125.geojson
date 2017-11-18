@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.740137,43.327388,-83.740137,43.327388",
     "geom:latitude":43.327388,
     "geom:longitude":-83.740137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"730 S Main St",
     "sg:city":"Frankenmuth",
     "sg:classifiers":[
@@ -31,15 +34,17 @@
     },
     "wof:country":"US",
     "wof:created":1461798282,
-    "wof:geomhash":"8678997e3b40d04634c222c8b1449422",
+    "wof:geomhash":"9f8f3f2fb88ba275806c2674bed94019",
     "wof:hierarchy":[],
     "wof:id":706210125,
-    "wof:lastmodified":1466597046,
+    "wof:lastmodified":1510943406,
     "wof:name":"Zehnder's Of Frankenmuth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706682181
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

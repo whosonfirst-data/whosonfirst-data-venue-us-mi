@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.169083,42.601665,-83.169083,42.601665",
     "geom:latitude":42.601665,
     "geom:longitude":-83.169083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5750 New King Dr",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461781087,
-    "wof:geomhash":"20d21ec5b2ac0de055917bdf3374780f",
+    "wof:geomhash":"53589c991449c81711c0459f5d0d97d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":689773469,
-    "wof:lastmodified":1466597207,
+    "wof:lastmodified":1510942507,
     "wof:name":"Wit Inc",
     "wof:parent_id":420524495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706722499
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "website",

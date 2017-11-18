@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.2994,42.497501,-83.2994,42.497501",
     "geom:latitude":42.497501,
     "geom:longitude":-83.2994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"28400 Northwestern Hwy",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809948,
-    "wof:geomhash":"a1c50380106151124713463371970426",
+    "wof:geomhash":"fcfbbd753441eb36d042cfff708e1ac6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":706697049,
-    "wof:lastmodified":1466601919,
+    "wof:lastmodified":1510942182,
     "wof:name":"Maddin Hauser Wartell Roth & Heller PC",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706696071
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

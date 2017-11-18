@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.209674,42.544764,-83.209674,42.544764",
     "geom:latitude":42.544764,
     "geom:longitude":-83.209674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"751 Chestnut St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461785918,
-    "wof:geomhash":"811571dac28822ea39e2e9d7f9df762b",
+    "wof:geomhash":"4405a85c271b44f5a1fcf57dca3ffe5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":689952331,
-    "wof:lastmodified":1466598661,
+    "wof:lastmodified":1510941729,
     "wof:name":"Foley Timothy W DDS PC",
     "wof:parent_id":420524535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706690509
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

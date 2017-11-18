@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.289299,42.500999,-83.289299,42.500999",
     "geom:latitude":42.500999,
     "geom:longitude":-83.289299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24725 W 12 Mile Rd Ste 388",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809890,
-    "wof:geomhash":"9cd0e09c594f6f599e5ca1d720411be5",
+    "wof:geomhash":"0e64555697baf8c68896860ffde2f153",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706695511,
-    "wof:lastmodified":1466601911,
+    "wof:lastmodified":1510941783,
     "wof:name":"Mortgage Institute of Michigan",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706318841
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

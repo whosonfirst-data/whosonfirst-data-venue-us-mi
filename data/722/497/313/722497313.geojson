@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.933098,42.3773,-82.933098,42.3773",
     "geom:latitude":42.3773,
     "geom:longitude":-82.933098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15401 E Jefferson Ave",
     "sg:city":"Grosse Pointe",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812969,
-    "wof:geomhash":"a8f991fda4ee14a3fe5bd08680d70cd9",
+    "wof:geomhash":"a438aaa6410cb8667ee4ccd730fed577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":722497313,
-    "wof:lastmodified":1466590842,
+    "wof:lastmodified":1510942042,
     "wof:name":"Henry Ford Health System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706492343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

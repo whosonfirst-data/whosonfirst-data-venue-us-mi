@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.164902,42.564701,-83.164902,42.564701",
     "geom:latitude":42.564701,
     "geom:longitude":-83.164902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Wilshire Dr Ste 105",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810784,
-    "wof:geomhash":"a27b049008426d075adf9b283259bb38",
+    "wof:geomhash":"228767678b0862f1f1394435627efa35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":706716137,
-    "wof:lastmodified":1466602170,
+    "wof:lastmodified":1510942898,
     "wof:name":"Pals International",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        705933825
+    ],
     "wof:tags":[
         "school",
         "language"

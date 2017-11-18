@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.201302,42.460911,-83.201302,42.460911",
     "geom:latitude":42.460911,
     "geom:longitude":-83.201302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23077 Greenfield Rd Ste 343",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810506,
-    "wof:geomhash":"4a715b9f1430c45b6d7af1fbfe53cafa",
+    "wof:geomhash":"04c803f3bf5eac5f27da956419677558",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":706710041,
-    "wof:lastmodified":1466602549,
+    "wof:lastmodified":1510942649,
     "wof:name":"M.J. Noble Co., Inc",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706275861
+    ],
     "wof:tags":[
         "medal",
         "plaque",

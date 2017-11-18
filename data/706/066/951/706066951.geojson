@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.107074,43.219911,-86.107074,43.219911",
     "geom:latitude":43.219911,
     "geom:longitude":-86.107074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1774 S Wolf Lake Rd",
     "sg:city":"Muskegon",
     "sg:classifiers":[
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461794964,
-    "wof:geomhash":"2ec1a60652b7eb748c5b40bb490d8750",
+    "wof:geomhash":"42608caead73004da8d641e774135b0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":706066951,
-    "wof:lastmodified":1466592073,
+    "wof:lastmodified":1510944189,
     "wof:name":"Lupes Auto Parts",
     "wof:parent_id":85850205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689727431
+    ],
     "wof:tags":[]
 },
   "bbox": [

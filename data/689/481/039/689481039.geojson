@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-84.458203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"601 N Cedar St",
     "sg:city":"Mason",
     "sg:classifiers":[
@@ -40,12 +41,14 @@
     "wof:geomhash":"efaea2803cc4efa1ef3cfefe2152a39b",
     "wof:hierarchy":[],
     "wof:id":689481039,
-    "wof:lastmodified":1510603667,
+    "wof:lastmodified":1510944171,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706682747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

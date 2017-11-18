@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.243448,42.197986,-83.243448,42.197986",
     "geom:latitude":42.197986,
     "geom:longitude":-83.243448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21250 Eureka Rd",
     "sg:city":"Taylor",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461811818,
-    "wof:geomhash":"0f4dceab657d607f5aa5e2ae1f7de314",
+    "wof:geomhash":"f7cf0a21291e2e4ca287ed87030fa4a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":722468957,
-    "wof:lastmodified":1466589394,
+    "wof:lastmodified":1510941363,
     "wof:name":"Hooters",
     "wof:parent_id":85851871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706678159
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

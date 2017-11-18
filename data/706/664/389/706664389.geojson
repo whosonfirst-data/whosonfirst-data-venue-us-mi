@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.200699,42.4529,-83.200699,42.4529",
     "geom:latitude":42.4529,
     "geom:longitude":-83.200699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21700 Greenfield Rd",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461808636,
-    "wof:geomhash":"c7be2f9a8402a40323869b6f329629de",
+    "wof:geomhash":"80f9dcbe0648bdce3b2ee607d1959228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706664389,
-    "wof:lastmodified":1466601349,
+    "wof:lastmodified":1510943851,
     "wof:name":"Kramar Jewelry",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722500511
+    ],
     "wof:tags":[
         "jeweler"
     ]

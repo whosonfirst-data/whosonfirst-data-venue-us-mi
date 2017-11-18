@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.209801,42.4459,-83.209801,42.4459",
     "geom:latitude":42.4459,
     "geom:longitude":-83.209801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16250 Northland Dr",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810527,
-    "wof:geomhash":"b7c5de3bc9d1afdfba06cf9c0879f673",
+    "wof:geomhash":"640e8e3299a163bd8a03f8218bb92a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706710421,
-    "wof:lastmodified":1466602168,
+    "wof:lastmodified":1510943891,
     "wof:name":"Real Estate Assets Inc",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706402141
+    ],
     "wof:tags":[
         "management",
         "property"

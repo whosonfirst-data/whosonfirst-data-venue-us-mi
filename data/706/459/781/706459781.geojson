@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.264702,42.545212,-83.264702,42.545212",
     "geom:latitude":42.545212,
     "geom:longitude":-83.264702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3707 W Maple Rd",
     "sg:city":"Bloomfield Hills",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461803637,
-    "wof:geomhash":"e6915c25088868f23c82ecd768249404",
+    "wof:geomhash":"8dc91bad46ca1d4ae1384b85209df863",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":706459781,
-    "wof:lastmodified":1466599541,
+    "wof:lastmodified":1510943244,
     "wof:name":"LVM Co",
     "wof:parent_id":85896671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689471877
+    ],
     "wof:tags":[
         "adjuster"
     ]

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.627323,43.018715,-83.627323,43.018715",
     "geom:latitude":43.018715,
     "geom:longitude":-83.627323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4190 E. Court St, Suite 100",
     "sg:city":"Burton",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461814172,
-    "wof:geomhash":"0803942eb315d72e95ea6b92cd651208",
+    "wof:geomhash":"abbd631240d62cb2758664acdbcdafab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":722524097,
-    "wof:lastmodified":1466592302,
+    "wof:lastmodified":1510941748,
     "wof:name":"Staples",
     "wof:parent_id":85877387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722524375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

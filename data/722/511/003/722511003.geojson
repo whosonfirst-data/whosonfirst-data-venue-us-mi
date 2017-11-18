@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.402298,42.541901,-83.402298,42.541901",
     "geom:latitude":42.541901,
     "geom:longitude":-83.402298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6600 W Maple Rd",
     "sg:city":"West Bloomfield",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813523,
-    "wof:geomhash":"f1b736fdbd1cd95de59d48f6f2551a0e",
+    "wof:geomhash":"d1f421708b46363722d661b8c2d67511",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722511003,
-    "wof:lastmodified":1466591533,
+    "wof:lastmodified":1510941647,
     "wof:name":"Jewish Ensemble Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689731509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"

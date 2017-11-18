@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.669977,42.449912,-85.669977,42.449912",
     "geom:latitude":42.449912,
     "geom:longitude":-85.669977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1310 M 89",
     "sg:city":"Plainwell",
     "sg:classifiers":[
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461805910,
-    "wof:geomhash":"921ba7f4c8b7d0b6202a856e49ddbbd3",
+    "wof:geomhash":"ceffe9f2d411db903cc8f55f8a0a3da1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":706562921,
-    "wof:lastmodified":1466600346,
+    "wof:lastmodified":1510944163,
     "wof:name":"Taco Bell",
     "wof:parent_id":85814963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722527639
+    ],
     "wof:tags":[]
 },
   "bbox": [

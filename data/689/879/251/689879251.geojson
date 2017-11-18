@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":-83.110569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"300 W 14 Mile Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":689879251,
-    "wof:lastmodified":1510604546,
+    "wof:lastmodified":1510942725,
     "wof:name":"Sears Optical",
     "wof:parent_id":85896589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706715259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

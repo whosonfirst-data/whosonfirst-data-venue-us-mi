@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.093399,42.592899,-83.093399,42.592899",
     "geom:latitude":42.592899,
     "geom:longitude":-83.093399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2838 E Long Lake Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810881,
-    "wof:geomhash":"6e989d578cbdf14d45470e0850b5bce9",
+    "wof:geomhash":"282c45a4857db2aca21b8f5403c2637b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706718127,
-    "wof:lastmodified":1466602297,
+    "wof:lastmodified":1510941251,
     "wof:name":"Starr Recruiting Inc",
     "wof:parent_id":85806041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        705788971
+    ],
     "wof:tags":[]
 },
   "bbox": [

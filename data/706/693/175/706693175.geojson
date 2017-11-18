@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.285202,42.507801,-83.285202,42.507801",
     "geom:latitude":42.507801,
     "geom:longitude":-83.285202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30100 Telegraph Rd Ste 216",
     "sg:city":"Bingham Farms",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809794,
-    "wof:geomhash":"356a0a6cf6ff2ef4a7326a18ec84b342",
+    "wof:geomhash":"da1cc04af553564462a0f7df0d575e20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706693175,
-    "wof:lastmodified":1466601841,
+    "wof:lastmodified":1510942757,
     "wof:name":"Michael A Boggin & Assoc",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706126047
+    ],
     "wof:tags":[]
 },
   "bbox": [

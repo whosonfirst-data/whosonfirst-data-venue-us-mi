@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.1884,42.635399,-83.1884,42.635399",
     "geom:latitude":42.635399,
     "geom:longitude":-83.1884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2637 Bond St",
     "sg:city":"Rochester Hills",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813339,
-    "wof:geomhash":"a8ce51b3a543b71671488a08e2488315",
+    "wof:geomhash":"eb62809660832f861b60444c50d8bcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":722506931,
-    "wof:lastmodified":1466591465,
+    "wof:lastmodified":1510942689,
     "wof:name":"Smarteye Corporation",
     "wof:parent_id":420524479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706347557
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

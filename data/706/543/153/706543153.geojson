@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.524904,42.02262,-86.524904,42.02262",
     "geom:latitude":42.02262,
     "geom:longitude":-86.524904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5200 Red Arrow Hwy",
     "sg:city":"Stevensville",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461805522,
-    "wof:geomhash":"d1189f8bc188d6b5d035e856ff309e17",
+    "wof:geomhash":"2f1dc41de13033c014a20a72ec797ce0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":706543153,
-    "wof:lastmodified":1466600107,
+    "wof:lastmodified":1510942054,
     "wof:name":"Freeway Veterinary Clinic",
     "wof:parent_id":85821733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722527845
+    ],
     "wof:tags":[
         "veterinarian"
     ]

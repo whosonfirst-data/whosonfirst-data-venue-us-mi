@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.222702,42.505299,-83.222702,42.505299",
     "geom:latitude":42.505299,
     "geom:longitude":-83.222702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29350 Southfield Rd Ste 122",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810598,
-    "wof:geomhash":"523afc7d234824606e7cca4c6cb10b9c",
+    "wof:geomhash":"304b1afe8dfe8d2658b98153a16000f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":706711857,
-    "wof:lastmodified":1466602075,
+    "wof:lastmodified":1510943058,
     "wof:name":"Ils General Contractors Inc",
     "wof:parent_id":85896551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689795521
+    ],
     "wof:tags":[
         "contractor"
     ]

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.341893,42.520443,-83.341893,42.520443",
     "geom:latitude":42.520443,
     "geom:longitude":-83.341893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"31800 Northwestern Hwy",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813675,
-    "wof:geomhash":"04f0dddef9af88c8761b5abfec2c3fc8",
+    "wof:geomhash":"da22b0ed1461e6fb804a7c28ae2964ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":722514523,
-    "wof:lastmodified":1466591808,
+    "wof:lastmodified":1510941385,
     "wof:name":"Nation Finance",
     "wof:parent_id":420524511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689825299
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

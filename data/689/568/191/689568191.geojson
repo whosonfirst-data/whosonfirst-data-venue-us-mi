@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.591711,42.274851,-85.591711,42.274851",
     "geom:latitude":42.274851,
     "geom:longitude":-85.591711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"555 W Crosstown Pkwy",
     "sg:city":"Kalamazoo",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461775239,
-    "wof:geomhash":"49b30894ee68d4c4ad34925cf2329bea",
+    "wof:geomhash":"45066c27567de97bb1a70ecff7f50fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":689568191,
-    "wof:lastmodified":1466589279,
+    "wof:lastmodified":1510943345,
     "wof:name":"CUMC MORTGAGE COMPANY",
     "wof:parent_id":85878471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689477749
+    ],
     "wof:tags":[
         "loan",
         "broker",

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.372118,42.498777,-83.372118,42.498777",
     "geom:latitude":42.498777,
     "geom:longitude":-83.372118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32605 W 12 Mile Rd",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461774661,
-    "wof:geomhash":"b541a3d3df40b8fe38b9947cbe6f8917",
+    "wof:geomhash":"d81bd7a514f795e9cbbdf66ee3261f24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":689548443,
-    "wof:lastmodified":1466588656,
+    "wof:lastmodified":1510943399,
     "wof:name":"Sunshine Cafe",
     "wof:parent_id":85896649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722515969
+    ],
     "wof:tags":[
         "delicatessen"
     ]

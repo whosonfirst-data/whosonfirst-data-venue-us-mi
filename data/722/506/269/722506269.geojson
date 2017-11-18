@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.244955,42.582946,-83.244955,42.582946",
     "geom:latitude":42.582946,
     "geom:longitude":-83.244955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39577 Woodward Ave",
     "sg:city":"Bloomfield Hills",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813315,
-    "wof:geomhash":"feeec58fa584224497ec842a3d3ba355",
+    "wof:geomhash":"71f52eb8f229cf9113612075498dc0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":722506269,
-    "wof:lastmodified":1466591326,
+    "wof:lastmodified":1510943874,
     "wof:name":"Maciorowski Edmund PC Atty",
     "wof:parent_id":85810441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722506129
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.205578,42.542751,-83.205578,42.542751",
     "geom:latitude":42.542751,
     "geom:longitude":-83.205578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"999 Haynes St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461776102,
-    "wof:geomhash":"22d1bc6a51bb74dd09ccaa110cefe1f2",
+    "wof:geomhash":"fd9aca73697eaa2c22644f4891b45d99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":689596057,
-    "wof:lastmodified":1466590933,
+    "wof:lastmodified":1510943246,
     "wof:name":"Podolsky & Associates",
     "wof:parent_id":85896581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706689777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

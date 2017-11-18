@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.246815,42.306853,-83.246815,42.306853",
     "geom:latitude":42.306853,
     "geom:longitude":-83.246815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"22190 Garrison St",
     "sg:city":"Dearborn",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461807456,
-    "wof:geomhash":"13783a2c796bd4f52babdfee4923ea86",
+    "wof:geomhash":"6e195ac3c761b12030e6abb142510e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":706633939,
-    "wof:lastmodified":1466601169,
+    "wof:lastmodified":1510942128,
     "wof:name":"Alan L Watson DDS",
     "wof:parent_id":85896617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706724603
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

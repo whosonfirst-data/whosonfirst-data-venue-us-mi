@@ -8,11 +8,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.061601,42.352455,-83.061601,42.352455",
     "geom:latitude":42.352455,
     "geom:longitude":-83.061601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "HopCat"
     ],
@@ -26,7 +28,9 @@
         85688599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "osm:node":3342016045
+    },
     "wof:country":"US",
     "wof:created":1498168708,
     "wof:geomhash":"b07f82c036756dd817678f0359f67cdb",
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1126128739,
-    "wof:lastmodified":1498168708,
+    "wof:lastmodified":1510942238,
     "wof:name":"HopCat",
     "wof:parent_id":85870587,
     "wof:placetype":"venue",

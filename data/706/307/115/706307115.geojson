@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.357677,42.483505,-83.357677,42.483505",
     "geom:latitude":42.483505,
     "geom:longitude":-83.357677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25882 Orchard Lake Rd",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461800459,
-    "wof:geomhash":"70b1233de72b0457cb5a6ce3b1c9dffc",
+    "wof:geomhash":"6bb2ffd752a290cd3b77e8f409108ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":706307115,
-    "wof:lastmodified":1466596979,
+    "wof:lastmodified":1510942972,
     "wof:name":"Search Plus Intl",
     "wof:parent_id":420524581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722516955
+    ],
     "wof:tags":[
         "consultant",
         "search",

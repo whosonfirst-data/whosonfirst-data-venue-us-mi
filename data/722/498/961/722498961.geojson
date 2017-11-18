@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.202816,42.416032,-83.202816,42.416032",
     "geom:latitude":42.416032,
     "geom:longitude":-83.202816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15800 W McNichols Rd Ste 113",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813031,
-    "wof:geomhash":"47d0d69b034e7a96ebbbb524bcb756c4",
+    "wof:geomhash":"1aba1b0e3fd1af5041dfdccc1437db29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":722498961,
-    "wof:lastmodified":1466591029,
+    "wof:lastmodified":1510943128,
     "wof:name":"Tri County Physical Therapy",
     "wof:parent_id":420524869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        705874699
+    ],
     "wof:tags":[
         "therapy",
         "physical"

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.20669,42.455065,-83.20669,42.455065",
     "geom:latitude":42.455065,
     "geom:longitude":-83.20669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"22250 Providence Dr",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461783514,
-    "wof:geomhash":"34e1ce1d459a15b3f42fd62333370aca",
+    "wof:geomhash":"00a4b2205b9799a2e2b8c63213ba7761",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":689859049,
-    "wof:lastmodified":1466595902,
+    "wof:lastmodified":1510943754,
     "wof:name":"Associates In Neurology PC",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706708499
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

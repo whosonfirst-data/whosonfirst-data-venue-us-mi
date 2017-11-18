@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.291848,42.499303,-83.291848,42.499303",
     "geom:latitude":42.499303,
     "geom:longitude":-83.291848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Galleria Officentre Ste 120",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809961,
-    "wof:geomhash":"f1cbdbdc6a9297ce827925d4e6b90b03",
+    "wof:geomhash":"e3dd440c93532114e1b41f0e797a6b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":706697423,
-    "wof:lastmodified":1466601990,
+    "wof:lastmodified":1510942046,
     "wof:name":"Kelly Services",
     "wof:parent_id":85896635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706696549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

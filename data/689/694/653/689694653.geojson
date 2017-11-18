@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.05445,42.355543,-83.05445,42.355543",
     "geom:latitude":42.355543,
     "geom:longitude":-83.05445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4717 Saint Antoine St",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461778975,
-    "wof:geomhash":"3fd0b00f95ac449a74950019a66ec1ff",
+    "wof:geomhash":"7c0e803d749ca6cf79ef596ed4b56ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":689694653,
-    "wof:lastmodified":1466594895,
+    "wof:lastmodified":1510943341,
     "wof:name":"Kresge Eye Institute",
     "wof:parent_id":85870591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722477689
+    ],
     "wof:tags":[
         "ophthalmology",
         "medical"

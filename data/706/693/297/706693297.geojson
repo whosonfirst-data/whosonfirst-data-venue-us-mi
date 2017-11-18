@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.28537,42.511816,-83.28537,42.511816",
     "geom:latitude":42.511816,
     "geom:longitude":-83.28537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30400 Telegraph Rd Ste 330",
     "sg:city":"Bingham Farms",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809804,
-    "wof:geomhash":"3f85102e171b9fd103867ecadaec90cd",
+    "wof:geomhash":"27aa67acad62590aacdb2af1a28debd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":706693297,
-    "wof:lastmodified":1466601867,
+    "wof:lastmodified":1510943442,
     "wof:name":"Bankruptcy Law Centers",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706693211
+    ],
     "wof:tags":[
         "bankruptcy"
     ]

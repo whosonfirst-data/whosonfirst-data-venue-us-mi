@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.738137,43.342643,-83.738137,43.342643",
     "geom:latitude":43.342643,
     "geom:longitude":-83.738137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"435 N Main St",
     "sg:city":"Frankenmuth",
     "sg:classifiers":[
@@ -34,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1461783398,
-    "wof:geomhash":"6f7b61b622df84171a5b7fa97fdb605d",
+    "wof:geomhash":"fb1444d50ef9f31cf080edac83a1e96d",
     "wof:hierarchy":[],
     "wof:id":689853975,
-    "wof:lastmodified":1466595375,
+    "wof:lastmodified":1510941898,
     "wof:name":"Kroger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722525309
+    ],
     "wof:tags":[
         "grocer"
     ]

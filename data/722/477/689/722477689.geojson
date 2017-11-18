@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.056602,42.358601,-83.056602,42.358601",
     "geom:latitude":42.358601,
     "geom:longitude":-83.056602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4717 Saint Antoine St",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -66,7 +69,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812187,
-    "wof:geomhash":"aff0700b6201388191c7356108fa5d11",
+    "wof:geomhash":"e94b4c37edeb55e62f4a0e21804a717d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,12 +83,14 @@
         }
     ],
     "wof:id":722477689,
-    "wof:lastmodified":1466589986,
+    "wof:lastmodified":1510943341,
     "wof:name":"Kresge Eye Inst",
     "wof:parent_id":85870591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689694653
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyeglass",

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.172342,42.58809,-83.172342,42.58809",
     "geom:latitude":42.58809,
     "geom:longitude":-83.172342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4550 Investment Dr",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461811077,
-    "wof:geomhash":"1adbd0d11b0255654b042bf1d41db338",
+    "wof:geomhash":"d19226b457f3a5c056d61efe3880bb45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":706722321,
-    "wof:lastmodified":1466602395,
+    "wof:lastmodified":1510941688,
     "wof:name":"Wilshire Obstetrics & Gynecology Associates",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706722139
+    ],
     "wof:tags":[
         "gynecology",
         "physician",

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.560053,42.249541,-85.560053,42.249541",
     "geom:latitude":42.249541,
     "geom:longitude":-85.560053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4121 Portage St",
     "sg:city":"Kalamazoo",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809424,
-    "wof:geomhash":"14bff8bf758a1c9534aada4200d29380",
+    "wof:geomhash":"ac4e8d706c4b22a42c68e4cb35d7e02a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":706683587,
-    "wof:lastmodified":1466601717,
+    "wof:lastmodified":1510944028,
     "wof:name":"Taco Bob's",
     "wof:parent_id":85834523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722525929
+    ],
     "wof:tags":[
         "american",
         "tex-mex"

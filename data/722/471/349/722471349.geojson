@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.387703,42.329399,-83.387703,42.329399",
     "geom:latitude":42.329399,
     "geom:longitude":-83.387703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6149 N Wayne Rd",
     "sg:city":"Westland",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461811920,
-    "wof:geomhash":"86a6c50eed9446af1537cf561caa7900",
+    "wof:geomhash":"802ade0edbb8a052cc47e319eace8868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":722471349,
-    "wof:lastmodified":1466589543,
+    "wof:lastmodified":1510941349,
     "wof:name":"Westland Clinic PC",
     "wof:parent_id":85896861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706581593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

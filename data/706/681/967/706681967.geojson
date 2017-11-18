@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.247158,43.657825,-84.247158,43.657825",
     "geom:latitude":43.657825,
     "geom:longitude":-84.247158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6911 Eastman Ave",
     "sg:city":"Midland",
     "sg:classifiers":[
@@ -34,20 +36,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4600632822,
         "sg:id":"SG_01Xp5iQI8r4QeWVzVQlpyx_43.657825_-84.247158@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461809362,
-    "wof:geomhash":"85c0500fa6875161454489b36ef7a69d",
+    "wof:geomhash":"bdc458661d358cd954e65d2880eb666b",
     "wof:hierarchy":[],
     "wof:id":706681967,
-    "wof:lastmodified":1466602047,
+    "wof:lastmodified":1510943665,
     "wof:name":"Applebee's",
     "wof:parent_id":420524441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722525279
+    ],
     "wof:tags":[
         "burger",
         "american",

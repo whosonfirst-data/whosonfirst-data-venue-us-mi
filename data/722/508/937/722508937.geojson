@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.999603,42.626598,-82.999603,42.626598",
     "geom:latitude":42.626598,
     "geom:longitude":-82.999603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12900 Hall Rd Ste 120",
     "sg:city":"Sterling Heights",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813422,
-    "wof:geomhash":"3ad7720a7680d27a6aa89b95d52a6c71",
+    "wof:geomhash":"70b99f4fc38d36a591ef7a9f2e713c53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":722508937,
-    "wof:lastmodified":1466591593,
+    "wof:lastmodified":1510942699,
     "wof:name":"Seward's Deli",
     "wof:parent_id":85854221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706534369
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

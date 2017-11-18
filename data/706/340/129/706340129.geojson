@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.285331,42.510593,-83.285331,42.510593",
     "geom:latitude":42.510593,
     "geom:longitude":-83.285331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30100 Telegraph Rd",
     "sg:city":"Bingham Farms",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461801206,
-    "wof:geomhash":"38e74e01299c6baabaa300ae3bfe3a14",
+    "wof:geomhash":"32d92154b4575b50f3ac1fda16289a94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":706340129,
-    "wof:lastmodified":1466597788,
+    "wof:lastmodified":1510943232,
     "wof:name":"Bingham Deli",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706694249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"

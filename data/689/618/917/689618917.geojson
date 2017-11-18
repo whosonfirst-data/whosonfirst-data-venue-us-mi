@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.250947,41.764538,-86.250947,41.764538",
     "geom:latitude":41.764538,
     "geom:longitude":-86.250947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3108 S 11th St",
     "sg:city":"Niles",
     "sg:classifiers":[
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461776864,
-    "wof:geomhash":"54557203ef086678fdc9af4b760aa73a",
+    "wof:geomhash":"2056e9a804e595f64e1fc693f2455432",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":689618917,
-    "wof:lastmodified":1466592328,
+    "wof:lastmodified":1510943753,
     "wof:name":"Camden TV & Appliance",
     "wof:parent_id":85825743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722527825
+    ],
     "wof:tags":[]
 },
   "bbox": [

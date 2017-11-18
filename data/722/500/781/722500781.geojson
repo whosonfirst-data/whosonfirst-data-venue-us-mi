@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.201103,42.4613,-83.201103,42.4613",
     "geom:latitude":42.4613,
     "geom:longitude":-83.201103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"23300 Greenfield Rd",
     "sg:city":"Oak Park",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813107,
-    "wof:geomhash":"418f2f01e7adbe50dcea45f9fc4c5897",
+    "wof:geomhash":"95ff38a2307a511e00a1e93c78e30536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":722500781,
-    "wof:lastmodified":1466591124,
+    "wof:lastmodified":1510943785,
     "wof:name":"Savannah Mortgage",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689740553
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

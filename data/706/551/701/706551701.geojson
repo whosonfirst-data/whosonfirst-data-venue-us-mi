@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.357112,42.470018,-83.357112,42.470018",
     "geom:latitude":42.470018,
     "geom:longitude":-83.357112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24020 Orchard Lake Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461805692,
-    "wof:geomhash":"45fc311f803d82d33a619c967b6030c3",
+    "wof:geomhash":"82a2263abb0139d2e1b1c4c03f4a8503",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":706551701,
-    "wof:lastmodified":1466600251,
+    "wof:lastmodified":1510941497,
     "wof:name":"McDonalds",
     "wof:parent_id":85896629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706680547
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

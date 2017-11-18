@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.621913,42.921039,-83.621913,42.921039",
     "geom:latitude":42.921039,
     "geom:longitude":-83.621913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12237 S Saginaw St",
     "sg:city":"Grand Blanc",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809331,
-    "wof:geomhash":"fb552d7c63412625cc4b6b1b2065442c",
+    "wof:geomhash":"f673ba24c114d94b16499cff72be62ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706681257,
-    "wof:lastmodified":1466601648,
+    "wof:lastmodified":1510942301,
     "wof:name":"McDonald's",
     "wof:parent_id":85877393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706486355
+    ],
     "wof:tags":[
         "burger",
         "american"

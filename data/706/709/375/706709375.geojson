@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.218826,42.458881,-83.218826,42.458881",
     "geom:latitude":42.458881,
     "geom:longitude":-83.218826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17515 W 9 Mile Rd",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810473,
-    "wof:geomhash":"7ddd55a540795a7bdc13571b2f15d822",
+    "wof:geomhash":"42ef48cc2580dce46313f3c3435837ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":706709375,
-    "wof:lastmodified":1466602148,
+    "wof:lastmodified":1510943374,
     "wof:name":"Steinberger John A PC",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706710269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

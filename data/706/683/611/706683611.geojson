@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.560208,42.240401,-85.560208,42.240401",
     "geom:latitude":42.240401,
     "geom:longitude":-85.560208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5252 Portage Rd",
     "sg:city":"Portage",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809425,
-    "wof:geomhash":"778c5f62d34924994b2220084b93ba50",
+    "wof:geomhash":"c89fb80440477aa427c568b7cf9cc4fd",
     "wof:hierarchy":[
         {
             "campus_id":102533001,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":706683611,
-    "wof:lastmodified":1466601722,
+    "wof:lastmodified":1510944032,
     "wof:name":"Subway",
     "wof:parent_id":102533001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722526279
+    ],
     "wof:tags":[
         "american",
         "sandwich"

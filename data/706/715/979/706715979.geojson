@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.177794,42.561359,-83.177794,42.561359",
     "geom:latitude":42.561359,
     "geom:longitude":-83.177794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 W Big Beaver Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -56,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810778,
-    "wof:geomhash":"01cbf962925141c75ea871555e4a17f5",
+    "wof:geomhash":"752bec9f50c2ff55e4ab293f6500cb15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +72,15 @@
         }
     ],
     "wof:id":706715979,
-    "wof:lastmodified":1466602581,
+    "wof:lastmodified":1510941976,
     "wof:name":"L Mason Capitani Inc",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706159133
+    ],
     "wof:tags":[
         "investing",
         "rental",

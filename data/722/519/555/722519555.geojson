@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.449699,42.592201,-83.449699,42.592201",
     "geom:latitude":42.592201,
     "geom:longitude":-83.449699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8391 Commerce Rd",
     "sg:city":"Commerce Township",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813899,
-    "wof:geomhash":"31e1697a01fc8f59f61b8d6a719f69d0",
+    "wof:geomhash":"9a92893b9e601ffdfcb814d17435bf67",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":722519555,
-    "wof:lastmodified":1466592098,
+    "wof:lastmodified":1510943641,
     "wof:name":"Huron Valley Medical Center",
     "wof:parent_id":85856655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689496549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

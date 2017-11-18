@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.047191,42.330122,-83.047191,42.330122",
     "geom:latitude":42.330122,
     "geom:longitude":-83.047191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"645 Griswold St Ste 3156",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812811,
-    "wof:geomhash":"7b3cf37677a578b1b34c3f71971e15cb",
+    "wof:geomhash":"5419c0242c3be6f6c5fb54c2c5265c72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":722493051,
-    "wof:lastmodified":1466590633,
+    "wof:lastmodified":1510941956,
     "wof:name":"McManus Michael T Atty",
     "wof:parent_id":85891665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722491457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

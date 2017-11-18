@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.285301,42.510502,-83.285301,42.510502",
     "geom:latitude":42.510502,
     "geom:longitude":-83.285301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30400 Telegraph Rd Ste 111",
     "sg:city":"Bingham Farms",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461809816,
-    "wof:geomhash":"818aa15a9584240c84c9d0ed49cb2b62",
+    "wof:geomhash":"a6800b8a1d3adcd38fb13d0e1152c2d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706693571,
-    "wof:lastmodified":1466601924,
+    "wof:lastmodified":1510942084,
     "wof:name":"Markowitz Law Office",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706325873
+    ],
     "wof:tags":[]
 },
   "bbox": [

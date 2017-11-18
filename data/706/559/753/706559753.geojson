@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.344756,42.522047,-83.344756,42.522047",
     "geom:latitude":42.522047,
     "geom:longitude":-83.344756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31800 Northwestern Hwy",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461805847,
-    "wof:geomhash":"5d661dfa29aec4be4b0563986f50b589",
+    "wof:geomhash":"9cad4e68a4ee36b700071061e41518be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":706559753,
-    "wof:lastmodified":1466600334,
+    "wof:lastmodified":1510941401,
     "wof:name":"Siegel & Siegel",
     "wof:parent_id":420524511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722515011
+    ],
     "wof:tags":[
         "accountant"
     ]

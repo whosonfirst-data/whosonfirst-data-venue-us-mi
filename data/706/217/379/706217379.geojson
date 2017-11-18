@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.672439,42.977886,-85.672439,42.977886",
     "geom:latitude":42.977886,
     "geom:longitude":-85.672439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 Monroe Ave NW",
     "sg:city":"Grand Rapids",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461798447,
-    "wof:geomhash":"49f03b1996fe216c2d65b7edac3bfb7a",
+    "wof:geomhash":"7979167668ff698d5bcbf7d8a1e170d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706217379,
-    "wof:lastmodified":1466587592,
+    "wof:lastmodified":1510943986,
     "wof:name":"Grey-Berlin LLC",
     "wof:parent_id":85877903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689936299
+    ],
     "wof:tags":[
         "motion",
         "picture"

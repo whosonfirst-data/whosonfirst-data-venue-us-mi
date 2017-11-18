@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.261499,42.488296,-83.261499,42.488296",
     "geom:latitude":42.488296,
     "geom:longitude":-83.261499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"27209 Lahser Rd",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461780328,
-    "wof:geomhash":"cf59f594eb66d1a7bff0708da07fef4e",
+    "wof:geomhash":"a2012e4a6cc7ee286e387357e9d4a94d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":689745409,
-    "wof:lastmodified":1466596331,
+    "wof:lastmodified":1510941820,
     "wof:name":"Northwest Surgical Assoc",
     "wof:parent_id":85896669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706697013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

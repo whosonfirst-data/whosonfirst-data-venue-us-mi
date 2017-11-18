@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.045389,42.330592,-83.045389,42.330592",
     "geom:latitude":42.330592,
     "geom:longitude":-83.045389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"608 Woodward Ave",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812793,
-    "wof:geomhash":"343a92862ce00790a65a31e6151bb452",
+    "wof:geomhash":"bea961f7b9a9aec5dc2bfe77573f38d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":722492543,
-    "wof:lastmodified":1466590706,
+    "wof:lastmodified":1510943851,
     "wof:name":"Motor City Wine",
     "wof:parent_id":420558475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722494743
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beer",

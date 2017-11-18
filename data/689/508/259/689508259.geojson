@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.173691,42.561555,-83.173691,42.561555",
     "geom:latitude":42.561555,
     "geom:longitude":-83.173691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1985 W Big Beaver Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461773352,
-    "wof:geomhash":"599cb156142573310eba732661f74c7b",
+    "wof:geomhash":"e93aaec1cc69d9ce71387cbf0c5e7692",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":689508259,
-    "wof:lastmodified":1466587835,
+    "wof:lastmodified":1510943388,
     "wof:name":"CRG Properties",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706716223
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

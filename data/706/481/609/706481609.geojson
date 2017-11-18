@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.049719,42.32965,-83.049719,42.32965",
     "geom:latitude":42.32965,
     "geom:longitude":-83.049719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 W Fort St",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461804094,
-    "wof:geomhash":"62e470605c3f31ed8732ca9c8187b606",
+    "wof:geomhash":"a3454e53f0f94a40a3b2d5264540c81c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706481609,
-    "wof:lastmodified":1466599525,
+    "wof:lastmodified":1510943532,
     "wof:name":"Barris Sott Denn & Driker Pllc",
     "wof:parent_id":85891665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722494447
+    ],
     "wof:tags":[
         "firm",
         "law"

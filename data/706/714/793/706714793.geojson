@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.139976,42.548482,-83.139976,42.548482",
     "geom:latitude":42.548482,
     "geom:longitude":-83.139976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 E Maple Rd Ste X",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810729,
-    "wof:geomhash":"c1ce951ec371081fcf6aec7d0f880409",
+    "wof:geomhash":"e437874a0de0a4b968e296ff04fbbe12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706714793,
-    "wof:lastmodified":1466602299,
+    "wof:lastmodified":1510943038,
     "wof:name":"Compucom Systems Inc",
     "wof:parent_id":85806041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706224167
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.691597,43.012501,-83.691597,43.012501",
     "geom:latitude":43.012501,
     "geom:longitude":-83.691597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 Church St",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461814007,
-    "wof:geomhash":"bf57bd3e27cad256aa0a650ce970f4d6",
+    "wof:geomhash":"f115b6ed5fb7c6935dec7314c8a3c4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722521745,
-    "wof:lastmodified":1466592234,
+    "wof:lastmodified":1510944003,
     "wof:name":"Pylypiw Linda Atty",
     "wof:parent_id":85877389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706268603
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

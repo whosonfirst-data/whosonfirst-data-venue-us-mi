@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.1567,42.487,-83.1567,42.487",
     "geom:latitude":42.487,
     "geom:longitude":-83.1567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26711 Woodward Ave Ste 100",
     "sg:city":"Huntington Wd",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810288,
-    "wof:geomhash":"3fbc378876b89a8c825b1857b61f25a8",
+    "wof:geomhash":"2ae9a68bfa3dd279facb91f4b9d0437b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706705213,
-    "wof:lastmodified":1466602559,
+    "wof:lastmodified":1510942968,
     "wof:name":"Stefan Marianne DDS PC",
     "wof:parent_id":85896561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        689555507
+    ],
     "wof:tags":[]
 },
   "bbox": [

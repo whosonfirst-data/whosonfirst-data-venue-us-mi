@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.331852,42.513825,-83.331852,42.513825",
     "geom:latitude":42.513825,
     "geom:longitude":-83.331852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30833 Northwestern Hwy Ste 203",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813747,
-    "wof:geomhash":"adafe7e089b25ff66258eaaa7a587fc1",
+    "wof:geomhash":"d3d4c802a9983fd1b771c8d58adb7e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":722516047,
-    "wof:lastmodified":1466591811,
+    "wof:lastmodified":1510943632,
     "wof:name":"Hom Wilton A Attorney At Law",
     "wof:parent_id":85896637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722514491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

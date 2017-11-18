@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.635101,43.030102,-83.635101,43.030102",
     "geom:latitude":43.030102,
     "geom:longitude":-83.635101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1460 N Center Rd",
     "sg:city":"Burton",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461814174,
-    "wof:geomhash":"ef6824a56477b25ce415b547f79f8a3a",
+    "wof:geomhash":"c01f80fe1d31dd9b0eb87fa1b0171310",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":722524157,
-    "wof:lastmodified":1466592314,
+    "wof:lastmodified":1510941852,
     "wof:name":"Genesys-Family Health Center",
     "wof:parent_id":85877387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        689760821
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

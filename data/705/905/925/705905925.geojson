@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.33083,42.324586,-83.33083,42.324586",
     "geom:latitude":42.324586,
     "geom:longitude":-83.33083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2020 Middlebelt Rd",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461791543,
-    "wof:geomhash":"910307dbe52e06b75f42389fd768c5a4",
+    "wof:geomhash":"2c2c4c605bc8698c907f7eb57e340ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":705905925,
-    "wof:lastmodified":1466595946,
+    "wof:lastmodified":1510942253,
     "wof:name":"Garden City Medical Center PC",
     "wof:parent_id":85896681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706730087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

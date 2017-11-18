@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.128899,42.588699,-83.128899,42.588699",
     "geom:latitude":42.588699,
     "geom:longitude":-83.128899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4770 Rochester Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810868,
-    "wof:geomhash":"1d90d2a9a078950177dbbf1e8ccc6182",
+    "wof:geomhash":"782f4e1f51f1a4323d9d6123808ec84f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706717817,
-    "wof:lastmodified":1466602423,
+    "wof:lastmodified":1510941305,
     "wof:name":"Meadowbrook Family Medcenters",
     "wof:parent_id":85806041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706373269
+    ],
     "wof:tags":[]
 },
   "bbox": [

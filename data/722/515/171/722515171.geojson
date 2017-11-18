@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.335899,42.516201,-83.335899,42.516201",
     "geom:latitude":42.516201,
     "geom:longitude":-83.335899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31313 Northwestern Hwy Ste 218",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813705,
-    "wof:geomhash":"0bbf78f6e25a8df2d86372cdd52d261a",
+    "wof:geomhash":"5ba8e08b8296d1b74b371152b3d036b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":722515171,
-    "wof:lastmodified":1466591802,
+    "wof:lastmodified":1510942078,
     "wof:name":"Royal American Mortgage",
     "wof:parent_id":420524511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706026041
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

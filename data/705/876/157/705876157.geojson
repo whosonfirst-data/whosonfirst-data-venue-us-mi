@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.209989,42.451113,-83.209989,42.451113",
     "geom:latitude":42.451113,
     "geom:longitude":-83.209989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21700 Northwestern Hwy",
     "sg:city":"Southfield",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461790847,
-    "wof:geomhash":"a70c5c38dce89c776f9621a1d986d3ce",
+    "wof:geomhash":"d9882dcab1d667dedd270dbd737bf070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":705876157,
-    "wof:lastmodified":1466594914,
+    "wof:lastmodified":1510942191,
     "wof:name":"Tower 14 Office Supply",
     "wof:parent_id":85896731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706709525
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

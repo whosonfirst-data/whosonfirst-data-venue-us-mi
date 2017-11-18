@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.330704,42.323898,-83.330704,42.323898",
     "geom:latitude":42.323898,
     "geom:longitude":-83.330704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2020 Middlebelt Rd",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461811426,
-    "wof:geomhash":"f5da171efdbbc0f9057805c88c622dc8",
+    "wof:geomhash":"a15394c6b94326fbb6126dfdd2f32d22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":706730087,
-    "wof:lastmodified":1466602480,
+    "wof:lastmodified":1510942253,
     "wof:name":"Garden City Medical Center PC",
     "wof:parent_id":85896681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        705905925
+    ],
     "wof:tags":[
         "practice",
         "family"

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.045642,42.330276,-83.045642,42.330276",
     "geom:latitude":42.330276,
     "geom:longitude":-83.045642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Woodward Ave",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461780228,
-    "wof:geomhash":"53e71af54c569648d9e1e774309b4870",
+    "wof:geomhash":"7d61675c3f3377532770277ab8b515da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":689741419,
-    "wof:lastmodified":1466596223,
+    "wof:lastmodified":1510943276,
     "wof:name":"Clark Hill PLC",
     "wof:parent_id":85891665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722491727
+    ],
     "wof:tags":[
         "attorney"
     ]

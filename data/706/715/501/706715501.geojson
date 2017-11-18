@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.165082,42.564479,-83.165082,42.564479",
     "geom:latitude":42.564479,
     "geom:longitude":-83.165082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Wilshire Dr Ste 130",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810760,
-    "wof:geomhash":"f457531063715715ff9841717d0ddd61",
+    "wof:geomhash":"ad187686b051df0a0e543ccfb8c4eab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":706715501,
-    "wof:lastmodified":1466602247,
+    "wof:lastmodified":1510942214,
     "wof:name":"Kelly Services Inc.",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706339001
+    ],
     "wof:tags":[]
 },
   "bbox": [

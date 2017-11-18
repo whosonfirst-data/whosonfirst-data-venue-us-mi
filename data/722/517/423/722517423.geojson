@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.356834,42.466916,-83.356834,42.466916",
     "geom:latitude":42.466916,
     "geom:longitude":-83.356834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"23800 Orchard Lake Rd Ste 106",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461813803,
-    "wof:geomhash":"caa2ba6b2d214ad1db73753d80d43f5d",
+    "wof:geomhash":"22ea31a3daf056cb8d8ecdef880b84f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":722517423,
-    "wof:lastmodified":1466591945,
+    "wof:lastmodified":1510941443,
     "wof:name":"Baig Dental Group PC",
     "wof:parent_id":85896629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706442475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

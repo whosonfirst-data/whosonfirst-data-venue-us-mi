@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.212519,42.544806,-83.212519,42.544806",
     "geom:latitude":42.544806,
     "geom:longitude":-83.212519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"255 E Brown St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461783296,
-    "wof:geomhash":"748e71671df8eeb95ae10d057c9addca",
+    "wof:geomhash":"dc0806948c6b3541d3836c0135ba196c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":689849189,
-    "wof:lastmodified":1466594910,
+    "wof:lastmodified":1510943498,
     "wof:name":"MFO Management Co",
     "wof:parent_id":85896565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706691305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"

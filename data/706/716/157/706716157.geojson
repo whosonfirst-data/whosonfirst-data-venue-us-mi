@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.169296,42.564201,-83.169296,42.564201",
     "geom:latitude":42.564201,
     "geom:longitude":-83.169296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 Wilshire Dr Ste 320",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810785,
-    "wof:geomhash":"96884dc99c533eeeb83e4b07b3a2b4d8",
+    "wof:geomhash":"b698e74f1e5661e8d17c9e1b79670a31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706716157,
-    "wof:lastmodified":1466602174,
+    "wof:lastmodified":1510943002,
     "wof:name":"Harvey Kruse PC",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706328567
+    ],
     "wof:tags":[]
 },
   "bbox": [

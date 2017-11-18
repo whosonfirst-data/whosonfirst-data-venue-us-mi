@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.896042,42.470223,-82.896042,42.470223",
     "geom:latitude":42.470223,
     "geom:longitude":-82.896042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24001 Greater Mack Ave",
     "sg:city":"St Clair Shores",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461780314,
-    "wof:geomhash":"9f4bc18773d32dc06c10a404ff0216dc",
+    "wof:geomhash":"dd3aa8d7a099b569a31a6aa649dd570a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":689744737,
-    "wof:lastmodified":1466596346,
+    "wof:lastmodified":1510943787,
     "wof:name":"Zamaria & Henike MD PC",
     "wof:parent_id":420524407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706712601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

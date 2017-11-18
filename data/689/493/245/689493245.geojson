@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.693514,43.019217,-83.693514,43.019217",
     "geom:latitude":43.019217,
     "geom:longitude":-83.693514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 N Saginaw St",
     "sg:city":"Flint",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461772911,
-    "wof:geomhash":"2026f608191b46d671c4f88ee835c601",
+    "wof:geomhash":"2d125338e483a1dbf08f0dc1695cb67b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":689493245,
-    "wof:lastmodified":1466587669,
+    "wof:lastmodified":1510943131,
     "wof:name":"T S Jenkins & Associates Inc",
     "wof:parent_id":85877383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722521687
+    ],
     "wof:tags":[
         "counselor",
         "agency"

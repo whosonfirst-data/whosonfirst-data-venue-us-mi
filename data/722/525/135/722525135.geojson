@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.007869,43.436752,-84.007869,43.436752",
     "geom:latitude":43.436752,
     "geom:longitude":-84.007869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4624 State St",
     "sg:city":"Saginaw",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
     },
     "wof:country":"US",
     "wof:created":1461814214,
-    "wof:geomhash":"f877bc20cd2ea71f23692a6a6785ddd2",
+    "wof:geomhash":"1738507061cf3e274946e1e2d2748191",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -41,12 +44,14 @@
         }
     ],
     "wof:id":722525135,
-    "wof:lastmodified":1466592356,
+    "wof:lastmodified":1510943822,
     "wof:name":"1st Wok Buffet",
     "wof:parent_id":85848051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706245025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

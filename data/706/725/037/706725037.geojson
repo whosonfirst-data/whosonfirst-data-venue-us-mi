@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.212502,42.292198,-83.212502,42.292198",
     "geom:latitude":42.292198,
     "geom:longitude":-83.212502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18181 Oakwood Blvd",
     "sg:city":"Dearborn",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461811223,
-    "wof:geomhash":"790b1e6172084d6350de9e3607b2a8f1",
+    "wof:geomhash":"f9ee150d3039a9dedc9bc598ee405129",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":706725037,
-    "wof:lastmodified":1466602336,
+    "wof:lastmodified":1510941960,
     "wof:name":"Cho Paul H MD",
     "wof:parent_id":85896611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        706421585
+    ],
     "wof:tags":[]
 },
   "bbox": [

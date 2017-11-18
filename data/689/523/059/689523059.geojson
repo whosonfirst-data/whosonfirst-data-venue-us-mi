@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.322958,42.509103,-83.322958,42.509103",
     "geom:latitude":42.509103,
     "geom:longitude":-83.322958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30300 Northwestern Hwy",
     "sg:city":"Farmington Hills",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461773821,
-    "wof:geomhash":"20d53d11c63889103ecd7e77463c301a",
+    "wof:geomhash":"76814e683562c62df33be57b92f03249",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":689523059,
-    "wof:lastmodified":1466588093,
+    "wof:lastmodified":1510942586,
     "wof:name":"Reifman & Glass PC",
     "wof:parent_id":85896637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722514331
+    ],
     "wof:tags":[
         "notary",
         "attorney",

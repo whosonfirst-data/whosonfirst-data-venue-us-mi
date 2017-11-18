@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.17479,42.56144,-83.17479,42.56144",
     "geom:latitude":42.56144,
     "geom:longitude":-83.17479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2075 W Big Beaver Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461810807,
-    "wof:geomhash":"1b6618866398117b23dc18ed6cb665ae",
+    "wof:geomhash":"cba5c21d06006d3562598cba51a18b8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":706716647,
-    "wof:lastmodified":1466602277,
+    "wof:lastmodified":1510943262,
     "wof:name":"American Newspaper Representatives Inc",
     "wof:parent_id":85896575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        705842453
+    ],
     "wof:tags":[
         "print",
         "medium"

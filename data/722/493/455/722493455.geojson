@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.047096,42.3302,-83.047096,42.3302",
     "geom:latitude":42.3302,
     "geom:longitude":-83.047096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"645 Griswold St Ste 1400",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461812825,
-    "wof:geomhash":"22cfa15995c5f3751c5317b3f5a0ff19",
+    "wof:geomhash":"c1cc6043c1bae34bbd5e2eab8e34318f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":722493455,
-    "wof:lastmodified":1466590717,
+    "wof:lastmodified":1510942876,
     "wof:name":"Posner Posner & Posner",
     "wof:parent_id":85891665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706091441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

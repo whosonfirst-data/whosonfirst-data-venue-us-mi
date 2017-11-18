@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.662199,42.963163,-85.662199,42.963163",
     "geom:latitude":42.963163,
     "geom:longitude":-85.662199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"233 Fulton St E",
     "sg:city":"Grand Rapids",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461793240,
-    "wof:geomhash":"51ccfbd000896ef0c55e0c27e1ec6a38",
+    "wof:geomhash":"3825de3dcbc960e5b937d8bf2a238d44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":705983659,
-    "wof:lastmodified":1466590712,
+    "wof:lastmodified":1510942094,
     "wof:name":"L E A D Inc",
     "wof:parent_id":85877889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        706378501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
