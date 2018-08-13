@@ -2,17 +2,22 @@
   "id": 1126129757,
   "type": "Feature",
   "properties": {
-    "addr:full":"5200 Woodward Avenue, Detroit, MI, USA",
+    "addr:city":"Detroit",
+    "addr:full":"5200 Woodward Ave Detroit, Mi 48202-4008",
+    "addr:house_number":"5200",
     "addr:housenumber":5200,
-    "addr:postcode":"48202",
+    "addr:phone":"+1 313-833-7900",
+    "addr:postcode":"48202-4008",
+    "addr:road":"Woodward Ave",
+    "addr:state":"MI",
     "addr:street":"Woodward Avenue",
     "addr:website":"https://www.dia.org/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0,
-    "geom:bbox":"-83.064385,42.359407,-83.064385,42.359407",
-    "geom:latitude":42.359407,
-    "geom:longitude":-83.064385,
+    "geom:area":0.0,
+    "geom:bbox":"-83.06536,42.35861,-83.06536,42.35861",
+    "geom:latitude":42.35861,
+    "geom:longitude":-83.06536,
     "iso:country":"US",
     "mz:categories":[],
     "mz:hierarchy_label":1,
@@ -21,7 +26,10 @@
     "name:eng_x_preferred":[
         "Detroit Institute of Arts"
     ],
-    "src:geom":"mapzen",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525895
+    ],
     "wof:belongsto":[
         85870589,
         102191575,
@@ -32,10 +40,12 @@
         85688599
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "mudf:mid":8402600451
+    },
     "wof:country":"US",
     "wof:created":1498328113,
-    "wof:geomhash":"09efe8e1b2dec8263f8bc98c2510f99b",
+    "wof:geomhash":"15659c91e2bd5b4fa5b1969fa3cd011a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,8 +59,8 @@
         }
     ],
     "wof:id":1126129757,
-    "wof:lastmodified":1498408227,
-    "wof:name":"Detroit Institute of Arts",
+    "wof:lastmodified":1534188514,
+    "wof:name":"Detroit Institute Of Arts",
     "wof:parent_id":85870589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mi",
@@ -62,10 +72,10 @@
     ]
 },
   "bbox": [
-    -83.064385,
-    42.359407,
-    -83.064385,
-    42.359407
+    -83.06536,
+    42.35861,
+    -83.06536,
+    42.35861
 ],
-  "geometry": {"coordinates":[-83.064385,42.359407],"type":"Point"}
+  "geometry": {"coordinates":[-83.06536,42.35861],"type":"Point"}
 }
