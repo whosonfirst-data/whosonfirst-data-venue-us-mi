@@ -1,0 +1,81 @@
+{
+  "id": 1159266279,
+  "type": "Feature",
+  "properties": {
+    "addr:city":"Detroit",
+    "addr:full":"14022 W Mcnichols Detroit, Mi 48235-3928",
+    "addr:house_number":"14022",
+    "addr:phone":"+1 313-341-1512",
+    "addr:postcode":"48235-3928",
+    "addr:road":"W Mcnichols",
+    "addr:state":"MI",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.18373,42.41663,-83.18373,42.41663",
+    "geom:latitude":42.41663,
+    "geom:longitude":-83.18373,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dr Curtis Museum Inc",
+        "Dr Curtis Museum"
+    ],
+    "name:eng_x_variant":[],
+    "sfomuseum:placetype":"museum",
+    "wof:airports":[
+        102525895
+    ],
+    "wof:belongsto":[
+        420524869,
+        102191575,
+        404506393,
+        85633793,
+        85951091,
+        102083147,
+        85688599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "mudf:mid":8402601022
+    },
+    "wof:concordances_alt":{
+        "mudf:mid":[
+            8402600181
+        ]
+    },
+    "wof:country":"US",
+    "wof:created":1523663770,
+    "wof:geomhash":"1b410bb7375c66eb1711684ff4614d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083147,
+            "localadmin_id":404506393,
+            "locality_id":85951091,
+            "neighbourhood_id":420524869,
+            "region_id":85688599,
+            "venue_id":1159266279
+        }
+    ],
+    "wof:id":1159266279,
+    "wof:lastmodified":1534190003,
+    "wof:name":"Dr Curtis Museum",
+    "wof:parent_id":420524869,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.18373,
+    42.41663,
+    -83.18373,
+    42.41663
+],
+  "geometry": {"coordinates":[-83.18373,42.41663],"type":"Point"}
+}
